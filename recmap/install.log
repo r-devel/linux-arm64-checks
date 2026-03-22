@@ -1,0 +1,23 @@
+* installing *source* package ‘recmap’ ...
+** this is package ‘recmap’ version ‘1.0.20’
+** package ‘recmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c Recmap.cpp -o Recmap.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -o recmap.so RcppExports.o Recmap.o -L/usr/lib/R/lib -lR
+installing to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-recmap/00new/recmap/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (recmap)

@@ -1,0 +1,199 @@
+* using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/recmap.Rcheck’
+* using R version 4.5.3 (2026-03-11)
+* using platform: aarch64-unknown-linux-gnu
+* R was compiled by
+    gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+    GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+* running under: Ubuntu 24.04.4 LTS
+* using session charset: UTF-8
+* using options ‘--no-manual --no-vignettes’
+* checking for file ‘recmap/DESCRIPTION’ ... OK
+* checking extension type ... Package
+* this is package ‘recmap’ version ‘1.0.20’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘recmap’ can be installed ... OK
+* used C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking ‘build’ directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking whether startup messages can be suppressed ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking contents of ‘data’ directory ... OK
+* checking data for non-ASCII characters ... OK
+* checking data for ASCII and uncompressed saves ... OK
+* checking line endings in C/C++/Fortran sources/headers ... OK
+* checking compiled code ... NOTE
+/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/recmap/libs/recmap.so: no symbols
+Note: information on .o files is not available
+/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/recmap/libs/recmap.so: no symbols
+
+
+See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
+* checking installed files from ‘inst/doc’ ... OK
+* checking files in ‘vignettes’ ... OK
+* checking examples ... ERROR
+Running examples in ‘recmap-Ex.R’ failed
+The error most likely occurred in:
+
+> ### Name: recmapGA
+> ### Title: Genetic Algorithm Wrapper Function for recmap
+> ### Aliases: recmapGA
+> 
+> ### ** Examples
+> 
+> ## The default fitness function is currently defined as
+> function(idxOrder, Map, ...){
++ 
++   Cartogram <- recmap(Map[idxOrder, ])
++   # a map region could not be placed; 
++   # accept only feasible solutions!
++   
++   if (sum(Cartogram$topology.error == 100) > 0){ return (0) }
++   
++   1 / sum(Cartogram$relpos.error)
++ }
+function (idxOrder, Map, ...) 
+{
+    Cartogram <- recmap(Map[idxOrder, ])
+    if (sum(Cartogram$topology.error == 100) > 0) {
+        return(0)
+    }
+    1/sum(Cartogram$relpos.error)
+}
+> 
+> 
+> ## use Genetic Algorithms (GA >=3.0.0) as metaheuristic
+> set.seed(1)
+> 
+> ## https://github.com/luca-scr/GA/issues/52
+> if (Sys.info()['machine'] == "arm64") GA::gaControl(useRcpp = FALSE)
+> res <- recmapGA(V = checkerboard(4), pmutation = 0.25)
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a3 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  b4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  b4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  b4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  c1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  b4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  c1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  a1 could not be placed on the first attempt;
+Warning in recmap(Map[idxOrder, ]) :
+  d4 could not be placed on the first attempt;
+Error: index error
+Execution halted
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... ERROR
+  Running ‘testthat.R’
+Running the tests in ‘tests/testthat.R’ failed.
+Last 13 lines of output:
+  <Rcpp::exception/C++Error/error/condition>
+  Error: index error
+  Backtrace:
+      ▆
+   1. └─base::lapply(...) at test-jss2711.R:10:3
+   2.   └─recmap (local) FUN(X[[i]], ...)
+   3.     └─recmap::recmapGA(V = checkerboard(4), pmutation = 0.25, parallel = FALSE) at test-jss2711.R:14:5
+   4.       └─GA::ga(...)
+   5.         └─GA (local) crossover(object, parents)
+   6.           └─GA:::gaperm_oxCrossover_Rcpp(object, parents)
+  
+  [ FAIL 1 | WARN 93 | SKIP 1 | PASS 23 ]
+  Error:
+  ! Test failures.
+  Execution halted
+* checking for unstated dependencies in vignettes ... OK
+* checking package vignettes ... OK
+* checking running R code from vignettes ... SKIPPED
+* checking re-building of vignette outputs ... SKIPPED
+* DONE
+Status: 2 ERRORs, 1 NOTE

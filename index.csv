@@ -6,6 +6,7 @@ DPQ,0.6-1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/DP
 ECOSolveR,0.6.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ECOSolveR
 KSgeneral,2.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/KSgeneral
 RSSL,0.9.8,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RSSL
+Rbeast,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/Rbeast
 RcppAlgos,2.10.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RcppAlgos
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr

@@ -1,0 +1,102 @@
+* using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/memuse.Rcheck’
+* using R version 4.5.3 (2026-03-11)
+* using platform: aarch64-unknown-linux-gnu
+* R was compiled by
+    gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+    GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+* running under: Ubuntu 24.04.4 LTS
+* using session charset: UTF-8
+* using options ‘--no-manual --no-vignettes’
+* checking for file ‘memuse/DESCRIPTION’ ... OK
+* this is package ‘memuse’ version ‘4.2-3’
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘memuse’ can be installed ... OK
+* used C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking line endings in shell scripts ... OK
+* checking line endings in C/C++/Fortran sources/headers ... OK
+* checking line endings in Makefiles ... OK
+* checking compilation flags in Makevars ... OK
+* checking for GNU extensions in Makefiles ... OK
+* checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
+* checking use of PKG_*FLAGS in Makefiles ... OK
+* checking compiled code ... NOTE
+/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/memuse/libs/memuse.so: no symbols
+Note: information on .o files is not available
+/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/memuse/libs/memuse.so: no symbols
+
+
+See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
+* checking sizes of PDF files under ‘inst/doc’ ... OK
+* checking installed files from ‘inst/doc’ ... OK
+* checking files in ‘vignettes’ ... OK
+* checking examples ... OK
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... ERROR
+  Running ‘accessors.R’
+  Running ‘arithmetic.R’
+  Running ‘comparators.R’
+  Running ‘constructor.R’
+  Running ‘converters.r’
+  Running ‘howbig.R’
+  Running ‘howmany.r’
+  Running ‘hr.R’
+  Running ‘swap.R’
+  Running ‘sysinfo.R’
+Running the tests in ‘tests/sysinfo.R’ failed.
+Last 13 lines of output:
+  > # is running this. So we settle for ensuring evaluation without error.
+  > iswin <- function() tolower(.Platform$OS.type) == "windows"
+  > ismac <- function() tolower(as.character(Sys.info()["sysname"])) == "darwin"
+  > islin <- function() tolower(as.character(Sys.info()["sysname"])) == "linux"
+  > supported = function() iswin() || ismac() || islin()
+  > 
+  > if (supported()){
+  +   invisible(Sys.meminfo())
+  +   invisible(Sys.swapinfo())
+  +   invisible(Sys.procmem())
+  +   invisible(Sys.cachesize())
+  +   invisible(Sys.cachelinesize())
+  + }
+  Error in Sys.cachesize() : platform not supported at this time
+  Execution halted
+* checking for unstated dependencies in vignettes ... OK
+* checking package vignettes ... OK
+* checking running R code from vignettes ... SKIPPED
+* checking re-building of vignette outputs ... SKIPPED
+* DONE
+Status: 1 ERROR, 1 NOTE

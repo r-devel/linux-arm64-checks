@@ -1,0 +1,49 @@
+* installing *source* package ‘memuse’ ...
+** this is package ‘memuse’ version ‘4.2-3’
+** package ‘memuse’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for gcc... gcc -std=gnu2x
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether gcc -std=gnu2x accepts -g... yes
+checking for gcc -std=gnu2x option to enable C11 features... none needed
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for features.h... yes
+configure: creating ./config.status
+config.status: creating src/meminfo/src/conf.h
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -I../inst/RNACI      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c meminfo/src/cacheinfo.c -o meminfo/src/cacheinfo.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -I../inst/RNACI      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c meminfo/src/fileinfo.c -o meminfo/src/fileinfo.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -I../inst/RNACI      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c meminfo/src/platform.c -o meminfo/src/platform.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -I../inst/RNACI      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c meminfo/src/procinfo.c -o meminfo/src/procinfo.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -I../inst/RNACI      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c meminfo/src/raminfo.c -o meminfo/src/raminfo.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -I../inst/RNACI      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c meminfo/src/swapinfo.c -o meminfo/src/swapinfo.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -I../inst/RNACI      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c wrappers.c -o wrappers.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -I../inst/RNACI      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c memuse_native.c -o memuse_native.o
+gcc -std=gnu2x -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -o memuse.so meminfo/src/cacheinfo.o meminfo/src/fileinfo.o meminfo/src/platform.o meminfo/src/procinfo.o meminfo/src/raminfo.o meminfo/src/swapinfo.o wrappers.o memuse_native.o -L/usr/lib/R/lib -lR
+installing to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-memuse/00new/memuse/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (memuse)

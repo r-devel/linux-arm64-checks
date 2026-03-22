@@ -1,0 +1,26 @@
+* installing *source* package ‘RTriangle’ ...
+** this is package ‘RTriangle’ version ‘1.6-0.15’
+** package ‘RTriangle’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -include RTriangle.h -DANSI_DECLARATORS -DVOID=void -DSTRICT_R_HEADERS      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c RTriangle_init.c -o RTriangle_init.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -include RTriangle.h -DANSI_DECLARATORS -DVOID=void -DSTRICT_R_HEADERS      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c interface.c -o interface.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG -include RTriangle.h -DANSI_DECLARATORS -DVOID=void -DSTRICT_R_HEADERS      -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c triangle.c -o triangle.o
+triangle.c:315: warning: "VOID" redefined
+  315 | #define VOID int
+      | 
+<command-line>: note: this is the location of the previous definition
+gcc -std=gnu2x -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -o RTriangle.so RTriangle_init.o interface.o triangle.o -L/usr/lib/R/lib -lR
+installing to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-RTriangle/00new/RTriangle/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (RTriangle)

@@ -8,4 +8,5 @@ cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/c
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr
 crownsegmentr,1.0.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/crownsegmentr
 elmNNRcpp,1.0.5,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/elmNNRcpp
+gbm,2.2.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gbm
 jsonlite,0.0.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/jsonlite

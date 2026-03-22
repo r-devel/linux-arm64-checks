@@ -1,0 +1,64 @@
+* installing *source* package ‘creditr’ ...
+** this is package ‘creditr’ version ‘0.6.2’
+** package ‘creditr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c badday.c -o badday.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c bsearch.c -o bsearch.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c busDaysOffset.c -o busDaysOffset.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c buscache.c -o buscache.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c busday.c -o busday.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c calcSpread.c -o calcSpread.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c calcUpfront.c -o calcUpfront.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c cashflow.c -o cashflow.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c cds.c -o cds.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c cdsbootstrap.c -o cdsbootstrap.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c cdsone.c -o cdsone.o
+gcc -std=gnu2x -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3  -c cerror.c -o cerror.o
+cerror.c: In function ‘JpmcdsErrLogWrite’:
+cerror.c:345:42: error: incompatible type for argument 3 of ‘JpmcdsWriteToLog’
+  345 |     if (JpmcdsWriteToLog(FALSE, message, NULL) != SUCCESS)
+      |                                          ^~~~
+      |                                          |
+      |                                          void *
+cerror.c:69:77: note: expected ‘va_list’ but argument is of type ‘void *’
+   69 | static int JpmcdsWriteToLog(TBoolean formatted, const char *format, va_list parminfo);
+      |                                                                     ~~~~~~~~^~~~~~~~
+cerror.c: In function ‘TimeStampFill’:
+cerror.c:512:67: error: incompatible type for argument 3 of ‘JpmcdsWriteToLog’
+  512 |     if (JpmcdsWriteToLog(FALSE, "\n--------------------------\n", NULL) != SUCCESS)
+      |                                                                   ^~~~
+      |                                                                   |
+      |                                                                   void *
+cerror.c:69:77: note: expected ‘va_list’ but argument is of type ‘void *’
+   69 | static int JpmcdsWriteToLog(TBoolean formatted, const char *format, va_list parminfo);
+      |                                                                     ~~~~~~~~^~~~~~~~
+cerror.c:525:45: error: incompatible type for argument 3 of ‘JpmcdsWriteToLog’
+  525 |         if (JpmcdsWriteToLog(FALSE, buffer, NULL) != SUCCESS)
+      |                                             ^~~~
+      |                                             |
+      |                                             void *
+cerror.c:69:77: note: expected ‘va_list’ but argument is of type ‘void *’
+   69 | static int JpmcdsWriteToLog(TBoolean formatted, const char *format, va_list parminfo);
+      |                                                                     ~~~~~~~~^~~~~~~~
+cerror.c:530:69: error: incompatible type for argument 3 of ‘JpmcdsWriteToLog’
+  530 |         if (JpmcdsWriteToLog(FALSE, "-- **** WRONG TIME **** --\n", NULL) != SUCCESS)
+      |                                                                     ^~~~
+      |                                                                     |
+      |                                                                     void *
+cerror.c:69:77: note: expected ‘va_list’ but argument is of type ‘void *’
+   69 | static int JpmcdsWriteToLog(TBoolean formatted, const char *format, va_list parminfo);
+      |                                                                     ~~~~~~~~^~~~~~~~
+cerror.c:534:65: error: incompatible type for argument 3 of ‘JpmcdsWriteToLog’
+  534 |     if (JpmcdsWriteToLog(FALSE, "--------------------------\n", NULL) != SUCCESS)
+      |                                                                 ^~~~
+      |                                                                 |
+      |                                                                 void *
+cerror.c:69:77: note: expected ‘va_list’ but argument is of type ‘void *’
+   69 | static int JpmcdsWriteToLog(TBoolean formatted, const char *format, va_list parminfo);
+      |                                                                     ~~~~~~~~^~~~~~~~
+make: *** [/usr/lib/R/etc/Makeconf:202: cerror.o] Error 1
+ERROR: compilation failed for package ‘creditr’
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/creditr’

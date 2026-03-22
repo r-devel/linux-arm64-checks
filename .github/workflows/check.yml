@@ -50,6 +50,8 @@ jobs:
           R CMD check ${{ inputs.package }}_*.tar.gz --library=mylib --install=check:install.log --no-manual --no-vignettes
         continue-on-error: true
         shell: bash
+        env:
+          _R_CHECK_FORCE_SUGGESTS_: false
 
       - name: Write status
         timeout-minutes: 10

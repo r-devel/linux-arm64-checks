@@ -1,0 +1,322 @@
+* installing *source* package ‘ROI.plugin.qpoases’ ...
+** this is package ‘ROI.plugin.qpoases’ version ‘1.0-3’
+** package ‘ROI.plugin.qpoases’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iqpoases/include -DLINUX -D__USE_LONG_INTEGERS__ -D__USE_LONG_FINTS__ -DSOLVER_NONE -D__NO_COPYRIGHT__ -D__SUPPRESSANYOUTPUT__ -D__R__ -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c qpoases/src/SQProblem.cpp -o qpoases/src/SQProblem.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iqpoases/include -DLINUX -D__USE_LONG_INTEGERS__ -D__USE_LONG_FINTS__ -DSOLVER_NONE -D__NO_COPYRIGHT__ -D__SUPPRESSANYOUTPUT__ -D__R__ -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c qpoases/src/QProblem.cpp -o qpoases/src/QProblem.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iqpoases/include -DLINUX -D__USE_LONG_INTEGERS__ -D__USE_LONG_FINTS__ -DSOLVER_NONE -D__NO_COPYRIGHT__ -D__SUPPRESSANYOUTPUT__ -D__R__ -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c qpoases/src/QProblemB.cpp -o qpoases/src/QProblemB.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iqpoases/include -DLINUX -D__USE_LONG_INTEGERS__ -D__USE_LONG_FINTS__ -DSOLVER_NONE -D__NO_COPYRIGHT__ -D__SUPPRESSANYOUTPUT__ -D__R__ -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c qpoases/src/SQProblemSchur.cpp -o qpoases/src/SQProblemSchur.o
+qpoases/src/SQProblemSchur.cpp: In function ‘void MyPrintf(const char*, ...)’:
+qpoases/src/SQProblemSchur.cpp:51:26: error: no match for ‘operator<<’ (operand types are ‘std::basic_ostream<char>’ and ‘va_list’)
+   51 |   Rcpp::Rcout << pformat << ap;
+      |   ~~~~~~~~~~~~~~~~~~~~~~ ^~ ~~
+      |               |             |
+      |               |             va_list
+      |               std::basic_ostream<char>
+In file included from /usr/include/c++/13/iostream:41,
+                 from qpoases/include/qpOASES/QProblem.hpp:41,
+                 from qpoases/include/qpOASES/SQProblem.hpp:42,
+                 from qpoases/include/qpOASES/SQProblemSchur.hpp:42,
+                 from qpoases/src/SQProblemSchur.cpp:37:
+/usr/include/c++/13/ostream:110:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(__ostream_type& (*)(__ostream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  110 |       operator<<(__ostream_type& (*__pf)(__ostream_type&))
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:110:36: note:   no known conversion for argument 1 from ‘va_list’ to ‘std::basic_ostream<char>::__ostream_type& (*)(std::basic_ostream<char>::__ostream_type&)’ {aka ‘std::basic_ostream<char>& (*)(std::basic_ostream<char>&)’}
+  110 |       operator<<(__ostream_type& (*__pf)(__ostream_type&))
+      |                  ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~
+/usr/include/c++/13/ostream:119:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(__ios_type& (*)(__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>; __ios_type = std::basic_ios<char>]’
+  119 |       operator<<(__ios_type& (*__pf)(__ios_type&))
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:119:32: note:   no known conversion for argument 1 from ‘va_list’ to ‘std::basic_ostream<char>::__ios_type& (*)(std::basic_ostream<char>::__ios_type&)’ {aka ‘std::basic_ios<char>& (*)(std::basic_ios<char>&)’}
+  119 |       operator<<(__ios_type& (*__pf)(__ios_type&))
+      |                  ~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~
+/usr/include/c++/13/ostream:129:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  129 |       operator<<(ios_base& (*__pf) (ios_base&))
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:129:30: note:   no known conversion for argument 1 from ‘va_list’ to ‘std::ios_base& (*)(std::ios_base&)’
+  129 |       operator<<(ios_base& (*__pf) (ios_base&))
+      |                  ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/include/c++/13/ostream:168:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long int) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  168 |       operator<<(long __n)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:168:23: note:   no known conversion for argument 1 from ‘va_list’ to ‘long int’
+  168 |       operator<<(long __n)
+      |                  ~~~~~^~~
+/usr/include/c++/13/ostream:172:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  172 |       operator<<(unsigned long __n)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:172:32: note:   no known conversion for argument 1 from ‘va_list’ to ‘long unsigned int’
+  172 |       operator<<(unsigned long __n)
+      |                  ~~~~~~~~~~~~~~^~~
+/usr/include/c++/13/ostream:176:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(bool) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  176 |       operator<<(bool __n)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:176:23: note:   no known conversion for argument 1 from ‘va_list’ to ‘bool’
+  176 |       operator<<(bool __n)
+      |                  ~~~~~^~~
+In file included from /usr/include/c++/13/ostream:880:
+/usr/include/c++/13/bits/ostream.tcc:96:5: note: candidate: ‘std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(short int) [with _CharT = char; _Traits = std::char_traits<char>]’
+   96 |     basic_ostream<_CharT, _Traits>::
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/c++/13/bits/ostream.tcc:97:22: note:   no known conversion for argument 1 from ‘va_list’ to ‘short int’
+   97 |     operator<<(short __n)
+      |                ~~~~~~^~~
+/usr/include/c++/13/ostream:183:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(short unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  183 |       operator<<(unsigned short __n)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:183:33: note:   no known conversion for argument 1 from ‘va_list’ to ‘short unsigned int’
+  183 |       operator<<(unsigned short __n)
+      |                  ~~~~~~~~~~~~~~~^~~
+/usr/include/c++/13/bits/ostream.tcc:110:5: note: candidate: ‘std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(int) [with _CharT = char; _Traits = std::char_traits<char>]’
+  110 |     basic_ostream<_CharT, _Traits>::
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/c++/13/bits/ostream.tcc:111:20: note:   no known conversion for argument 1 from ‘va_list’ to ‘int’
+  111 |     operator<<(int __n)
+      |                ~~~~^~~
+/usr/include/c++/13/ostream:194:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  194 |       operator<<(unsigned int __n)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:194:31: note:   no known conversion for argument 1 from ‘va_list’ to ‘unsigned int’
+  194 |       operator<<(unsigned int __n)
+      |                  ~~~~~~~~~~~~~^~~
+/usr/include/c++/13/ostream:203:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long int) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  203 |       operator<<(long long __n)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:203:28: note:   no known conversion for argument 1 from ‘va_list’ to ‘long long int’
+  203 |       operator<<(long long __n)
+      |                  ~~~~~~~~~~^~~
+/usr/include/c++/13/ostream:207:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  207 |       operator<<(unsigned long long __n)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:207:37: note:   no known conversion for argument 1 from ‘va_list’ to ‘long long unsigned int’
+  207 |       operator<<(unsigned long long __n)
+      |                  ~~~~~~~~~~~~~~~~~~~^~~
+/usr/include/c++/13/ostream:222:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(double) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  222 |       operator<<(double __f)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:222:25: note:   no known conversion for argument 1 from ‘va_list’ to ‘double’
+  222 |       operator<<(double __f)
+      |                  ~~~~~~~^~~
+/usr/include/c++/13/ostream:226:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(float) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  226 |       operator<<(float __f)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:226:24: note:   no known conversion for argument 1 from ‘va_list’ to ‘float’
+  226 |       operator<<(float __f)
+      |                  ~~~~~~^~~
+/usr/include/c++/13/ostream:234:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long double) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  234 |       operator<<(long double __f)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:234:30: note:   no known conversion for argument 1 from ‘va_list’ to ‘long double’
+  234 |       operator<<(long double __f)
+      |                  ~~~~~~~~~~~~^~~
+/usr/include/c++/13/ostream:292:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(const void*) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>]’
+  292 |       operator<<(const void* __p)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:292:30: note:   no known conversion for argument 1 from ‘va_list’ to ‘const void*’
+  292 |       operator<<(const void* __p)
+      |                  ~~~~~~~~~~~~^~~
+/usr/include/c++/13/ostream:297:7: note: candidate: ‘std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::nullptr_t) [with _CharT = char; _Traits = std::char_traits<char>; __ostream_type = std::basic_ostream<char>; std::nullptr_t = std::nullptr_t]’
+  297 |       operator<<(nullptr_t)
+      |       ^~~~~~~~
+/usr/include/c++/13/ostream:297:18: note:   no known conversion for argument 1 from ‘va_list’ to ‘std::nullptr_t’
+  297 |       operator<<(nullptr_t)
+      |                  ^~~~~~~~~
+/usr/include/c++/13/bits/ostream.tcc:124:5: note: candidate: ‘std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; __streambuf_type = std::basic_streambuf<char>]’
+  124 |     basic_ostream<_CharT, _Traits>::
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/include/c++/13/bits/ostream.tcc:125:34: note:   no known conversion for argument 1 from ‘va_list’ to ‘std::basic_ostream<char>::__streambuf_type*’ {aka ‘std::basic_streambuf<char>*’}
+  125 |     operator<<(__streambuf_type* __sbin)
+      |                ~~~~~~~~~~~~~~~~~~^~~~~~
+In file included from /usr/include/c++/13/bits/basic_string.h:47,
+                 from /usr/include/c++/13/string:54,
+                 from /usr/include/c++/13/bits/locale_classes.h:40,
+                 from /usr/include/c++/13/bits/ios_base.h:41,
+                 from /usr/include/c++/13/ios:44,
+                 from /usr/include/c++/13/ostream:40:
+/usr/include/c++/13/string_view:761:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, basic_string_view<_CharT, _Traits>)’
+  761 |     operator<<(basic_ostream<_CharT, _Traits>& __os,
+      |     ^~~~~~~~
+/usr/include/c++/13/string_view:761:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   ‘__va_list’ is not derived from ‘std::basic_string_view<_CharT, _Traits>’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/bits/basic_string.h:4032:5: note: candidate: ‘template<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, const __cxx11::basic_string<_CharT, _Traits, _Allocator>&)’
+ 4032 |     operator<<(basic_ostream<_CharT, _Traits>& __os,
+      |     ^~~~~~~~
+/usr/include/c++/13/bits/basic_string.h:4032:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   ‘va_list’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+In file included from /usr/include/c++/13/bits/memory_resource.h:38,
+                 from /usr/include/c++/13/string:58:
+/usr/include/c++/13/cstddef:124:5: note: candidate: ‘template<class _IntegerType> constexpr std::__byte_op_t<_IntegerType> std::operator<<(byte, _IntegerType)’
+  124 |     operator<<(byte __b, _IntegerType __shift) noexcept
+      |     ^~~~~~~~
+/usr/include/c++/13/cstddef:124:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:15: note:   cannot convert ‘std::operator<< <char_traits<char> >(Rcpp::Rcout.Rcpp::Rostream<true>::<anonymous>, pformat)’ (type ‘std::basic_ostream<char>’) to type ‘std::byte’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |   ~~~~~~~~~~~~^~~~~~~~~~
+In file included from /usr/include/c++/13/bits/ios_base.h:46:
+/usr/include/c++/13/system_error:339:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, const error_code&)’
+  339 |     operator<<(basic_ostream<_CharT, _Traits>& __os, const error_code& __e)
+      |     ^~~~~~~~
+/usr/include/c++/13/system_error:339:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘const std::error_code&’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:554:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _CharT)’
+  554 |     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:554:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   deduced conflicting types for parameter ‘_CharT’ (‘char’ and ‘__va_list’)
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:564:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, char)’
+  564 |     operator<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:564:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘char’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:570:5: note: candidate: ‘template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(basic_ostream<char, _Traits>&, char)’
+  570 |     operator<<(basic_ostream<char, _Traits>& __out, char __c)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:570:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘char’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:581:5: note: candidate: ‘template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(basic_ostream<char, _Traits>&, signed char)’
+  581 |     operator<<(basic_ostream<char, _Traits>& __out, signed char __c)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:581:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘signed char’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:586:5: note: candidate: ‘template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(basic_ostream<char, _Traits>&, unsigned char)’
+  586 |     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:586:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘unsigned char’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:645:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, const _CharT*)’
+  645 |     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:645:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   mismatched types ‘const _CharT*’ and ‘__va_list’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/bits/ostream.tcc:307:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, const char*)’
+  307 |     operator<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+      |     ^~~~~~~~
+/usr/include/c++/13/bits/ostream.tcc:307:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘const char*’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:662:5: note: candidate: ‘template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(basic_ostream<char, _Traits>&, const char*)’
+  662 |     operator<<(basic_ostream<char, _Traits>& __out, const char* __s)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:662:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘const char*’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:675:5: note: candidate: ‘template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(basic_ostream<char, _Traits>&, const signed char*)’
+  675 |     operator<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:675:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘const signed char*’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:680:5: note: candidate: ‘template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(basic_ostream<char, _Traits>&, const unsigned char*)’
+  680 |     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:680:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘const unsigned char*’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/ostream:801:5: note: candidate: ‘template<class _Ostream, class _Tp> _Ostream&& std::operator<<(_Ostream&&, const _Tp&)’
+  801 |     operator<<(_Ostream&& __os, const _Tp& __x)
+      |     ^~~~~~~~
+/usr/include/c++/13/ostream:801:5: note:   template argument deduction/substitution failed:
+/usr/include/c++/13/ostream: In substitution of ‘template<class _Ostream, class _Tp> _Ostream&& std::operator<<(_Ostream&&, const _Tp&) [with _Ostream = std::basic_ostream<char>&; _Tp = __va_list]’:
+qpoases/src/SQProblemSchur.cpp:51:29:   required from here
+/usr/include/c++/13/ostream:801:5: error: no type named ‘type’ in ‘struct std::enable_if<false, void>’
+In file included from /usr/local/lib/R/site-library/Rcpp/include/RcppCommon.h:54,
+                 from /usr/local/lib/R/site-library/Rcpp/include/Rcpp.h:27,
+                 from qpoases/src/SQProblemSchur.cpp:42:
+/usr/include/c++/13/iomanip:81:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _Resetiosflags)’
+   81 |     operator<<(basic_ostream<_CharT, _Traits>& __os, _Resetiosflags __f)
+      |     ^~~~~~~~
+/usr/include/c++/13/iomanip:81:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘std::_Resetiosflags’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/iomanip:111:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _Setiosflags)’
+  111 |     operator<<(basic_ostream<_CharT, _Traits>& __os, _Setiosflags __f)
+      |     ^~~~~~~~
+/usr/include/c++/13/iomanip:111:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘std::_Setiosflags’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/iomanip:145:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _Setbase)’
+  145 |     operator<<(basic_ostream<_CharT, _Traits>& __os, _Setbase __f)
+      |     ^~~~~~~~
+/usr/include/c++/13/iomanip:145:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘std::_Setbase’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/iomanip:180:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _Setfill<_CharT>)’
+  180 |     operator<<(basic_ostream<_CharT, _Traits>& __os, _Setfill<_CharT> __f)
+      |     ^~~~~~~~
+/usr/include/c++/13/iomanip:180:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   ‘__va_list’ is not derived from ‘std::_Setfill<_CharT>’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/iomanip:210:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _Setprecision)’
+  210 |     operator<<(basic_ostream<_CharT, _Traits>& __os, _Setprecision __f)
+      |     ^~~~~~~~
+/usr/include/c++/13/iomanip:210:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘std::_Setprecision’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/iomanip:240:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _Setw)’
+  240 |     operator<<(basic_ostream<_CharT, _Traits>& __os, _Setw __f)
+      |     ^~~~~~~~
+/usr/include/c++/13/iomanip:240:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   cannot convert ‘ap’ (type ‘va_list’) to type ‘std::_Setw’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/iomanip:313:5: note: candidate: ‘template<class _CharT, class _Traits, class _MoneyT> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _Put_money<_MoneyT>)’
+  313 |     operator<<(basic_ostream<_CharT, _Traits>& __os, _Put_money<_MoneyT> __f)
+      |     ^~~~~~~~
+/usr/include/c++/13/iomanip:313:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   ‘__va_list’ is not derived from ‘std::_Put_money<_MoneyT>’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+/usr/include/c++/13/iomanip:365:5: note: candidate: ‘template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, _Put_time<_CharT>)’
+  365 |     operator<<(basic_ostream<_CharT, _Traits>& __os, _Put_time<_CharT> __f)
+      |     ^~~~~~~~
+/usr/include/c++/13/iomanip:365:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   ‘__va_list’ is not derived from ‘std::_Put_time<_CharT>’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+In file included from /usr/local/lib/R/site-library/Rcpp/include/RcppCommon.h:69:
+/usr/include/c++/13/complex:558:5: note: candidate: ‘template<class _Tp, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(basic_ostream<_CharT, _Traits>&, const complex<_Tp>&)’
+  558 |     operator<<(basic_ostream<_CharT, _Traits>& __os, const complex<_Tp>& __x)
+      |     ^~~~~~~~
+/usr/include/c++/13/complex:558:5: note:   template argument deduction/substitution failed:
+qpoases/src/SQProblemSchur.cpp:51:29: note:   ‘va_list’ is not derived from ‘const std::complex<_Tp>’
+   51 |   Rcpp::Rcout << pformat << ap;
+      |                             ^~
+In file included from /usr/local/lib/R/site-library/Rcpp/include/RcppCommon.h:137:
+/usr/local/lib/R/site-library/Rcpp/include/Rcpp/complex.h:76:23: note: candidate: ‘std::ostream& operator<<(std::ostream&, const Rcomplex&)’
+   76 | inline std::ostream & operator<<(std::ostream &os, const Rcomplex& cplx) {
+      |                       ^~~~~~~~
+/usr/local/lib/R/site-library/Rcpp/include/Rcpp/complex.h:76:68: note:   no known conversion for argument 2 from ‘va_list’ to ‘const Rcomplex&’
+   76 | inline std::ostream & operator<<(std::ostream &os, const Rcomplex& cplx) {
+      |                                                    ~~~~~~~~~~~~~~~~^~~~
+make: *** [/usr/lib/R/etc/Makeconf:211: qpoases/src/SQProblemSchur.o] Error 1
+ERROR: compilation failed for package ‘ROI.plugin.qpoases’
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/ROI.plugin.qpoases’

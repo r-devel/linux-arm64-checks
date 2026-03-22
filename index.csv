@@ -5,6 +5,7 @@ Colossus,1.4.10,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/H
 DPQ,0.6-1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/DPQ
 ECOSolveR,0.6.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ECOSolveR
 KSgeneral,2.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/KSgeneral
+ROI.plugin.qpoases,1.0-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ROI.plugin.qpoases
 RSSL,0.9.8,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RSSL
 Rbeast,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/Rbeast
 RcppAlgos,2.10.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RcppAlgos

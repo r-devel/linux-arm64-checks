@@ -1,0 +1,20 @@
+* installing *source* package ‘ROracle’ ...
+** this is package ‘ROracle’ version ‘1.5-1’
+** package ‘ROracle’ successfully unpacked and MD5 sums checked
+** using staged installation
+checking for curl... /usr/bin/curl
+checking downloading instantclient-sdk-linux-arm64.zip...   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  7073  100  7073    0     0  11772      0 --:--:-- --:--:-- --:--:-- 11788
+downloaded instantclient-sdk-linux-arm64.zip
+checking extracting instantclient-sdk-linux-arm64.zip... checking for unzip... /usr/bin/unzip
+Archive:  instantclient-sdk-linux-arm64.zip
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+unzip:  cannot find zipfile directory in one of instantclient-sdk-linux-arm64.zip or
+        instantclient-sdk-linux-arm64.zip.zip, and cannot find instantclient-sdk-linux-arm64.zip.ZIP, period.
+configure: error: Failed to extract instantclient-sdk-linux-arm64.zip. OCI headers required for compilation are missing.
+ERROR: configuration failed for package ‘ROracle’
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/ROracle’

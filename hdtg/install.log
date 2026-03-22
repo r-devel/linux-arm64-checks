@@ -1,0 +1,31 @@
+* installing *source* package ‘hdtg’ ...
+** this is package ‘hdtg’ version ‘0.3.4’
+** package ‘hdtg’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppEigen/include' -I'/usr/local/lib/R/site-library/RcppParallel/include'    -I. -I./xsimd -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c RcppHarmonic.cpp -o RcppHarmonic.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppEigen/include' -I'/usr/local/lib/R/site-library/RcppParallel/include'    -I. -I./xsimd -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c RcppZigZag.cpp -o RcppZigZag.o
+In file included from RcppZigZag.cpp:9:
+ZigZag.h: In static member function ‘static void zz::ZigZag<TypeInfo>::reduce_min(zz::DoubleSseMinTravelInfo&, zz::D2, int, int)’:
+ZigZag.h:900:35: error: there are no arguments to ‘_mm_castpd_si128’ that depend on a template parameter, so a declaration of ‘_mm_castpd_si128’ must be available [-fpermissive]
+  900 |                 const auto mask = _mm_castpd_si128(lessThan);
+      |                                   ^~~~~~~~~~~~~~~~
+ZigZag.h:900:35: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+ZigZag.h: In instantiation of ‘static void zz::ZigZag<TypeInfo>::reduce_min(zz::DoubleSseMinTravelInfo&, zz::D2, int, int) [with TypeInfo = zz::DoubleSseTypeInfo; zz::D2 = xsimd::batch<double, 2>]’:
+ZigZag.h:493:27:   required from ‘zz::MinTravelInfo zz::ZigZag<TypeInfo>::vectorized_transform(Int, Int, const Dynamics<R>&, I) [with S = xsimd::batch<double, 2>; int SimdSize = 2; R = double; I = zz::DoubleSseMinTravelInfo; Int = long unsigned int; TypeInfo = zz::DoubleSseTypeInfo]’
+ZigZag.h:332:80:   required from ‘zz::MinTravelInfo zz::ZigZag<TypeInfo>::getNextBounce(const Dynamics<T>&) [with R = double; TypeInfo = zz::DoubleSseTypeInfo]’
+ZigZag.h:277:55:   required from ‘double zz::ZigZag<TypeInfo>::operateImpl(Dynamics<T>&, double) [with T = double; TypeInfo = zz::DoubleSseTypeInfo]’
+ZigZag.h:200:31:   required from ‘double zz::ZigZag<TypeInfo>::operate(zz::DblSpan, zz::DblSpan, double) [with TypeInfo = zz::DoubleSseTypeInfo; zz::DblSpan = tcb::span<double>]’
+ZigZag.h:442:20:   required from ‘void zz::ZigZag<TypeInfo>::reversiblePositionMomentumUpdate(zz::DblSpan, zz::DblSpan, zz::DblSpan, int, double) [with TypeInfo = zz::DoubleSseTypeInfo; zz::DblSpan = tcb::span<double>]’
+NoUTurn.h:148:54:   required from here
+ZigZag.h:900:51: error: ‘_mm_castpd_si128’ was not declared in this scope
+  900 |                 const auto mask = _mm_castpd_si128(lessThan);
+      |                                   ~~~~~~~~~~~~~~~~^~~~~~~~~~
+ZigZag.h: In member function ‘zz::MinTravelInfo zz::ZigZag<TypeInfo>::vectorized_transform(Int, Int, const Dynamics<R>&, I) [with S = xsimd::batch<double, 2>; int SimdSize = 2; R = double; I = zz::DoubleSseMinTravelInfo; Int = long unsigned int; TypeInfo = zz::DoubleSseTypeInfo]’:
+ZigZag.h:474:23: note: parameter passing for argument of type ‘zz::DoubleSseMinTravelInfo’ when C++17 is enabled changed to match C++14 in GCC 10.1
+  474 |         MinTravelInfo vectorized_transform(Int i, const Int end,
+      |                       ^~~~~~~~~~~~~~~~~~~~
+make: *** [/usr/lib/R/etc/Makeconf:211: RcppZigZag.o] Error 1
+ERROR: compilation failed for package ‘hdtg’
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/hdtg’

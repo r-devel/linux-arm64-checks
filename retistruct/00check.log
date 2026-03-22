@@ -1,0 +1,86 @@
+* using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/retistruct.Rcheck’
+* using R version 4.5.3 (2026-03-11)
+* using platform: aarch64-unknown-linux-gnu
+* R was compiled by
+    gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+    GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+* running under: Ubuntu 24.04.4 LTS
+* using session charset: UTF-8
+* using options ‘--no-manual --no-vignettes’
+* checking for file ‘retistruct/DESCRIPTION’ ... OK
+* this is package ‘retistruct’ version ‘0.8.1’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘retistruct’ can be installed ... WARNING
+Found the following significant warnings:
+  Warning: 'rgl.init' failed, will use the null device.
+See ‘/__w/linux-arm64-checks/linux-arm64-checks/retistruct.Rcheck/00install.out’ for details.
+* used C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking whether startup messages can be suppressed ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking line endings in C/C++/Fortran sources/headers ... OK
+* checking compiled code ... NOTE
+/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/retistruct/libs/retistruct.so: no symbols
+Note: information on .o files is not available
+/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/retistruct/libs/retistruct.so: no symbols
+
+
+See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
+* checking examples ... OK
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... ERROR
+  Running ‘spelling.R’
+  Running ‘testthat.R’
+Running the tests in ‘tests/testthat.R’ failed.
+Last 13 lines of output:
+  Backtrace:
+      ▆
+   1. └─a$triangulate(suppress.external.steiner = TRUE) at test-stitched-outline.R:293:3
+   2.   └─TriangulatedFragment$new(...)
+   3.     └─retistruct (local) initialize(...)
+   4.       └─RTriangle::triangulate(...)
+  
+  [ FAIL 5 | WARN 0 | SKIP 4 | PASS 288 ]
+  Error:
+  ! Test failures.
+  Warning messages:
+  1: In rgl.init(initValue, onlyNULL) : RGL: unable to open X11 display
+  2: 'rgl.init' failed, will use the null device.
+  See '?rgl.useNULL' for ways to avoid this warning. 
+  Execution halted
+* DONE
+Status: 1 ERROR, 1 WARNING, 1 NOTE

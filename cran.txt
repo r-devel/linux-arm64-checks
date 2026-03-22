@@ -116,6 +116,7 @@ ActivityIndex 0.3.7
 activPAL 0.1.4
 actLifer 1.0.0
 actogrammr 0.2.3
+actuar 3.3-7
 actuaRE 1.0.0
 ActuarialM 0.1.0
 actuary 0.1.2
@@ -380,6 +381,7 @@ akiFlagger 0.3.0
 akima 0.6-3.6
 akmbiclust 0.1.0
 alabama 2025.1.0
+alakazam 1.4.2
 alarmdata 0.2.4
 ALassoSurvIC 0.1.1
 albatross 0.3-9
@@ -435,6 +437,7 @@ alphaN 0.1.2
 alphaOutlier 1.2.0
 AlphaPart 0.9.8
 alphashape3d 1.3.3
+AlphaSimR 2.1.0
 alphastable 0.2.1
 alphavantagepf 0.3.2
 alphavantager 0.1.3
@@ -592,6 +595,7 @@ apa 0.3.5
 apa7 0.1.0
 apache.sedona 1.8.1
 ApacheLogProcessor 0.2.3
+APackOfTheClones 1.3.0
 apaTables 2.0.8
 apaText 0.1.7
 apathe 0.1.0
@@ -691,6 +695,7 @@ archive 1.1.12.1
 archiveRetriever 0.4.1
 archivist 2.3.8
 ArCo 0.3-1
+ARCokrig 0.1.3
 arcpbf 0.2.0
 arcpullr 0.3.2
 arcpy 0.4-0
@@ -1005,6 +1010,7 @@ b32 0.1.0
 b64 0.1.7
 babel 0.3-0
 babelgene 22.9
+babelmixr2 0.1.11
 babelwhale 1.2.0
 babette 2.3.4
 babynames 1.0.1
@@ -1059,6 +1065,7 @@ bamdit 3.6.0
 bamlss 1.2-5
 bamm 0.6.2
 BAMMtools 2.1.12
+bamp 2.1.3
 BANAM 0.2.2
 bandicoot 1.0.0
 bandit 0.5.1
@@ -1215,6 +1222,7 @@ BayesianPower 0.2.3
 BayesianReasoning 0.4.3
 BayesianTools 0.1.9
 Bayesiantreg 1.0.1
+bayesianVARs 0.1.8
 bayesics 2.1.1
 bayesImageS 0.7-0
 BayesLCA 1.9
@@ -1249,6 +1257,7 @@ bayesplay 0.9.3
 bayesplot 1.15.0
 bayespm 0.2.0
 bayesPO 0.5.0
+bayesPop 12.0-1
 BayesPostEst 0.4.0
 BayesPower 1.0.3
 BayesPPD 1.1.3
@@ -1497,6 +1506,7 @@ bhetGP 1.0.2
 BHH2 2016.05.31
 bhm 1.19
 bhmbasket 1.0.0
+BHMSMAfMRI 2.3
 bhpm 1.8.1
 BHSBVAR 3.1.3
 BI 1.2.0
@@ -1535,6 +1545,7 @@ bigdatadist 1.1
 BigDataPE 0.0.96
 BigDataStatMeth 1.0.3
 bigDM 0.5.7
+bigergm 1.2.5
 bigGP 0.1.9
 BIGL 1.9.3
 biglasso 1.6.1
@@ -1543,6 +1554,7 @@ biglm 0.9-3
 biglmm 0.9-3
 bigmatch 0.6.4
 bigmds 3.0.0
+bigmemory 4.6.4
 bigmemory.sri 0.1.8
 bigMICE 1.0.0
 bignum 0.3.2
@@ -1829,7 +1841,9 @@ bmp 0.3.1
 BMRMM 1.0.1
 BMS 0.3.5
 bmscstan 1.2.1.0
+bmstdr 0.8.2
 BMT 0.1.3
+bnclassify 0.4.8
 bndovb 1.1
 bnlearn 5.1
 bnma 1.6.1
@@ -2091,6 +2105,7 @@ bssm 2.0.3
 BSSoverSpace 0.1.0
 BSSprep 0.1
 bst 0.3-24
+BSTFA 0.1.0
 bsTools 1.0.5
 bstrl 1.0.2
 bsts 0.9.11
@@ -2170,6 +2185,7 @@ BwQuant 0.1.0
 bws 0.1.0
 BWStest 0.2.3
 bysykkel 0.3.1
+bytescircle 1.1.2
 bzinb 1.0.8
 c060 0.4-0
 C19dNUTS 1.0.1
@@ -2407,6 +2423,7 @@ causalQual 1.0.0
 CausalQueries 1.4.5
 causalreg 0.1.2
 causalsens 0.1.3
+causalSLSE 0.4-1
 causalweight 1.1.4
 CausCor 0.1.3
 causens 0.0.3
@@ -2993,6 +3010,7 @@ ClusterGVis 0.1.4
 clusterhap 0.1
 Clustering 1.7.10
 clustering.sc.dp 1.1
+clusterMI 1.5
 clustermole 1.1.1
 clustermq 0.9.9
 clusternomics 0.1.1
@@ -3014,6 +3032,7 @@ clustMD 1.2.2
 clustMixType 0.4-2
 clustNet 1.2.0
 ClustOfVar 1.2
+clustord 2.0.1
 ClusTorus 0.2.2
 clustra 0.2.1
 clusTransition 1.0
@@ -3026,6 +3045,7 @@ clustur 0.1.4
 ClustVarLV 2.1.1
 clustvarsel 2.3.5
 clValid 0.7
+CLVTools 0.12.1
 cmaes 1.0-12
 cmaesr 1.0.3
 cmahalanobis 1.0.0
@@ -3054,6 +3074,7 @@ CMMs 1.0.0
 cmna 1.0.5
 cmocean 0.3-2
 CMplot 4.5.1
+cmpp 0.0.2
 cmprsk 2.2-12
 cmprskcoxmsm 0.2.1
 cmprskQR 0.9.3
@@ -3168,6 +3189,7 @@ cohortBuilder 0.4.0
 CohortCharacteristics 1.1.2
 CohortConstructor 0.6.2
 CohortGenerator 1.1.0
+CohortMethod 6.0.1
 CohortPlat 1.0.5
 cohorts 1.0.1
 CohortSurvival 1.1.0
@@ -3232,6 +3254,7 @@ colorscience 1.0.9
 colorsGen 1.0.0
 colorspace 2.1-2
 colorSpec 1.8-0
+Colossus 1.4.10
 colouR 0.1.1
 colourlovers 0.3.6
 colourpicker 1.3.0
@@ -3318,6 +3341,7 @@ complexplus 2.1
 ComplexUpset 1.3.3
 complmrob 0.7.1
 CompModels 0.3.0
+COMPoissonReg 0.8.1
 CompositeReliability 1.0.3
 compositeReliabilityInNestedDesigns 1.0.4
 Compositional 8.1
@@ -3773,6 +3797,7 @@ CREAM 1.1.1
 createLogicalPCM 0.1.0
 credentials 2.0.3
 CRediTas 0.3.0
+creditr 0.6.2
 CreditRisk 0.1.7
 CREDS 0.1.0
 credsubs 1.1.1
@@ -3836,6 +3861,7 @@ crossvalidationCP 1.1
 crosswalkr 0.4.0
 crov 0.3.0
 CrownScorchTLS 0.1.1
+crownsegmentr 1.0.1
 crqa 2.0.7
 crrcbcv 1.0
 crrSC 1.1.2
@@ -4230,6 +4256,7 @@ daymetr 1.7.1
 days2lessons 0.1.3
 daySupply 0.1.0
 dbacf 0.2.8
+dbarts 0.9-33
 DBCVindex 1.6
 dbd 0.0-22
 DBfit 2.0
@@ -4271,6 +4298,7 @@ DCG 0.9.3
 DChaos 0.1-7
 dChipIO 0.1.5
 dci 1.0.3
+dcifer 1.5.0
 DCL 0.1.2
 DCLEAR 1.0.13
 dclone 2.3-3
@@ -4696,6 +4724,7 @@ dipsaus 0.3.4
 diptest 0.77-2
 dipw 0.1.0
 dir2json 0.1.0
+Dire 2.2.0
 DIRECT 1.1.0
 directadjusting 0.6.1
 directAgeStd 0.0.2
@@ -4820,6 +4849,7 @@ dittodb 0.1.11
 dittoViz 1.0.6
 Ditwah 1.0.1
 ditwahLandslide 1.2.0
+divDyn 0.8.3
 DivE 1.3
 diveMove 1.6.4
 divent 0.5-3
@@ -4971,6 +5001,7 @@ doubt 0.1.0
 douconca 1.2.5
 doudpackage 2.1.0
 DOvalidation 1.1.0
+DOVE 1.11
 Dowd 0.12
 downlit 0.4.5
 downloader 0.4.1
@@ -4997,6 +5028,7 @@ dplyrAssist 0.1.0
 DPP 0.1.2
 DPpack 0.2.2
 dppmix 0.1.2
+DPQ 0.6-1
 DPQmpfr 0.3-3
 dprop 0.1.0
 dpseg 0.1.1
@@ -5087,6 +5119,7 @@ dsBaseClient 6.3.5
 DSBayes 2023.1.0
 dscore 2.0.0
 dscoreMSM 0.1.0
+dsdp 0.1.1
 dsem 1.7.0
 DSFM 1.0.1
 DSI 1.8.0
@@ -5321,6 +5354,7 @@ EBEN 5.2
 ebGenotyping 2.0.1
 ebirdst 3.2023.1
 ebm 0.1.0
+EBMAforecast 1.0.32
 ebmc 1.0.1
 ebmstate 0.1.5
 ebnm 1.1-42
@@ -5401,6 +5435,7 @@ ecorest 2.0.1
 ecorisk 0.3.1
 ecos 0.1.7
 ecosim 1.3-5
+ECOSolveR 0.6.1
 ecospace 1.4.2
 ecospat 4.1.3
 ecostate 0.3.0
@@ -5587,12 +5622,15 @@ elliptic 1.5-1
 ellipticalsymmetry 0.1.2
 ellmer 0.4.0
 ELmethodVar 0.1
+elmNNRcpp 1.0.5
 ELMR 1.0
 ELMSO 1.0.1
 eLNNpairedCov 0.3.2
 elo 3.0.2
 EloChoice 0.29.4
 EloOptimized 0.3.2
+EloRating 0.46.18
+EloSteepness 0.5.0
 elrm 1.2.6
 elsa 1.1-28
 ELT 1.7
@@ -5605,6 +5643,7 @@ EMAR 1.0.0
 EMAS 0.2.4
 emayili 0.9.3
 emBayes 0.1.6
+EMbC 2.0.4
 embed 1.2.2
 EmbedSOM 2.2.1
 embryogrowth 2025.12.22
@@ -5649,6 +5688,7 @@ EMP 2.0.6
 EMpeaksR 0.3.1
 emphatic 0.1.8
 empichar 1.0.1
+EmpiricalCalibration 3.1.4
 EmpiricalDynamics 0.1.3
 emplik 1.3-2
 emplik2 1.33
@@ -5720,6 +5760,7 @@ enviPat 2.8
 envir 0.3.0
 envirem 3.1
 EnviroPRA2 1.0.1
+envnames 0.4.1
 EnvNicheR 1.5
 EnvNJ 0.1.3
 envoutliers 1.1.0
@@ -6097,6 +6138,7 @@ experimentr 0.1.0
 ExpertChoice 0.2.0
 expertsurv 1.4.1
 ExpGenetic 0.1.0
+expint 0.2-1
 expirest 0.1.7
 explainer 1.0.2
 ExplodeLayout 0.1.3
@@ -6209,6 +6251,7 @@ FACTMLE 1.1
 FactoClass 1.2.9
 factoextra 2.0.0
 FactoInvestigate 1.9.1
+FactoMineR 2.13
 factoptd 1.0.3
 factor.switching 1.4
 factor256 0.1.0
@@ -6409,6 +6452,7 @@ fcaR 1.5.0
 fcci 1.0.2
 fcfdr 1.0.0
 fChange 2.1.0
+fcirt 0.2.1
 fcl 0.1.4
 fclust 2.1.3
 fcm 0.1.3
@@ -6442,6 +6486,7 @@ fdasrvf 2.4.3
 fdatest 2.1.1
 FDboost 1.1-3
 fddm 1.0-2
+fdesigns 1.2
 fdm2id 0.9.9
 fDMA 2.2.9
 FDOTT 0.1.0
@@ -6570,6 +6615,7 @@ filters 0.3.1
 filtro 0.2.0
 fImport 4052.89
 finalfit 1.1.0
+finalsize 0.2.1
 FinAna 0.1.2
 FinancialMath 0.1.1
 finbif 0.9.13
@@ -6769,6 +6815,7 @@ FLR 1.0
 flsa 1.5.5
 FLSSS 9.2.8
 Fluidigm 0.2
+fluidsynth 1.0.2
 fluoSurv 1.0.0
 fluspect 1.0.0
 flux 0.3-0.1
@@ -6847,6 +6894,7 @@ FORD 0.1.2
 FoRDM 1.0.1
 foreach 1.5.2
 ForeCA 0.2.7
+forecast 9.0.2
 ForecastCombinations 1.1
 forecasteR 3.0.2
 forecastHybrid 5.1.21
@@ -7272,6 +7320,7 @@ gasanalyzer 0.4.3
 gaselect 1.0.25
 gasfluxes 0.7
 gasmodel 0.6.2
+GaSP 1.0.6
 gasper 1.1.6
 gastempt 0.7.0
 gaston 1.6
@@ -7296,6 +7345,7 @@ gbeta 0.1.0
 gbfs 1.3.10
 gbifdb 1.0.0
 GBJ 0.5.4
+gbm 2.2.3
 gbm.auto 2024.10.01
 gbm2sas 4.0
 gbmt 0.1.4
@@ -7332,6 +7382,7 @@ GCubeR 0.1.3
 gcxgclab 1.1.0
 GD 10.9
 GDAdata 0.93
+gdalcubes 0.7.3
 gdalraster 2.4.0
 gdalUtilities 1.2.5
 gdata 3.0.1
@@ -7533,6 +7584,7 @@ geometa 0.9.3
 GeometricMorphometricsMix 0.6.0.1
 geometries 0.2.5
 geometry 0.5.2
+geommc 1.3.1
 geomod 0.1.0
 GeoModels 2.2.2
 GeoMongo 1.0.3
@@ -7563,6 +7615,7 @@ geospt 1.0-6
 geosptdb 1.0-2
 geostan 0.8.2
 geostats 1.6
+geostatsp 2.0.11
 geotargets 0.3.1
 GeoThinneR 2.1.1
 geotools 0.1
@@ -7629,6 +7682,7 @@ gfer 0.1.12
 GFGM.copula 1.0.4
 GFisher 0.2.0
 gfiUltra 1.0.0
+GFM 1.2.2
 gfonts 0.2.0
 gfoRmula 1.1.1
 gfoRmulaICE 1.1.1
@@ -7964,6 +8018,7 @@ GK2011 0.1.3
 gkgraphR 1.0.3
 gkmSVM 0.83.0
 gKRLS 1.0.4
+gkwdist 1.1.2
 gkwreg 2.1.14
 glam 1.0.2
 glarma 1.7-1
@@ -7992,6 +8047,7 @@ glm2 1.2.1
 GLMaSPU 1.0
 glmbb 0.5-1
 glmc 0.4-1
+GLMcat 1.0.0
 glme 0.1.0
 glmertree 0.2-6
 glmfitmiss 2.1.0
@@ -8014,6 +8070,7 @@ glmmsel 1.0.3
 GLMMselect 1.2.0
 glmmSeq 0.5.7
 glmmTMB 1.1.14
+glmnet 4.1-10
 glmnetcr 1.0.7
 glmnetr 0.6-3
 glmnetSE 0.0.1
@@ -8079,6 +8136,7 @@ gmGeostats 0.11.4
 gmgm 1.1.3
 Gmisc 3.2.0
 gmm 1.9-1
+GMMAT 1.5.0
 GMMBoost 1.1.5
 GMMinit 1.0.0
 gmmsslm 1.1.6
@@ -8104,6 +8162,7 @@ gmwmx2 0.0.4
 gMWT 1.4
 GMX 0.9-2
 GNAR 1.1.4
+GNE 0.99-6
 gnFit 0.2.0
 gnlm 1.1.2
 gnm 1.1-5
@@ -8251,6 +8310,7 @@ gradLasso 0.1.1
 grafify 5.1.0
 grafzahl 0.0.12
 gRain 1.4.6
+grainscape 0.5.0
 gramEvol 2.1-4
 GramQuad 0.1.1
 grand 0.9.1
@@ -8328,6 +8388,7 @@ greybox 2.0.8
 GreyModel 0.1.0
 Greymodels 2.0.1
 GreyZones 0.0.5
+grf 2.6.1
 GrFA 0.2.2
 gridBase 0.4-7
 gridBezier 1.1-1
@@ -8549,6 +8610,7 @@ h3jsr 1.3.1
 h3lib 0.1.4
 h3o 0.3.0
 h3r 0.1.2
+h5lite 2.0.0.2
 haarfisz 4.5.4
 hablar 0.3.2
 habtools 1.1.1
@@ -8613,6 +8675,7 @@ hatemicoint 1.0.1
 havel 0.1.2
 haven 2.5.5
 hawkes 0.0-4
+hawkesbow 1.0.3
 HazardDiff 0.1.0
 hazer 1.1.1
 hbal 1.2.15
@@ -8660,6 +8723,7 @@ hdcuremodels 0.0.6
 HDCurves 0.1.2
 hdd 0.1.1
 hdf5lib 2.0.0.6
+hdf5r 1.3.12
 hdf5r.Extra 0.1.0
 hdflex 0.3.2
 hdfqlr 0.6-2
@@ -8692,6 +8756,7 @@ HDSinRdata 0.3.0
 HDSpatialScan 1.0.5
 HDStIM 0.1.0
 hdsvm 1.0.2
+hdtg 0.3.4
 hdthreshold 1.0.0
 HDTSA 1.0.5-1
 HDtweedie 1.2
@@ -8803,6 +8868,7 @@ hhmR 0.0.1.1
 HhP 1.0.0
 hhsmm 0.4.2
 hht 2.1.6
+hibayes 3.1.0
 HiClimR 2.2.1
 HiCocietyExample 1.0.0
 hicp 1.1.0
@@ -8853,6 +8919,7 @@ hippie 0.1.0
 hipread 0.2.6
 HiResTEC 0.63.1
 hirisplexr 0.1.0
+hisse 2.1.11
 HistDat 0.2.0
 HistData 1.0.0
 HistDAWass 1.0.8
@@ -8897,6 +8964,7 @@ hmmm 1.0-5
 HMMpa 1.0.2
 hmmr 1.0-0.1
 HMMRel 0.1.1
+hmmTMB 1.1.2
 HMP 2.0.1
 HMPTrees 1.4
 HMR 1.0.5
@@ -9146,6 +9214,7 @@ ibm 0.3.0
 ibmAcousticR 0.2.1
 ibmcraftr 1.0.0
 ibmdbR 1.51.0
+IBMPopSim 1.1.0
 ibmsunburst 0.1.4
 ibr 2.0-5
 iBreakDown 2.1.2
@@ -9208,6 +9277,7 @@ iClick 1.6.1
 iclogcondist 1.0.1
 iClusterVB 0.1.4
 icmm 1.2
+icmstate 0.2.0
 ICODS 1.2
 ICompELM 0.1.0
 icosa 0.12.0
@@ -9256,6 +9326,7 @@ IDmining 1.0.7
 IDMIR 0.1.1
 idopNetwork 0.1.2
 iDOS 1.0.1
+iDOVE 1.5
 IDPmisc 1.1.21
 IDPSurvival 1.2.2
 idr 1.3
@@ -9537,6 +9608,7 @@ inshiny 0.1.3
 insight 1.4.6
 InSilicoVA 1.4.2
 InspectChangepoint 1.2
+inspectdf 0.0.12.1
 InspectionPlanner 1.2
 inspector 1.0.3
 instagramadsR 0.1.0
@@ -9690,6 +9762,7 @@ iprior 0.7.4
 iPRISM 0.1.1
 iPRSue 1.0.0
 ips 0.0.13
+ipsecr 1.4.4
 ipsfs 1.0.0
 ipsRdbs 1.0.0
 ipumsr 0.10.0
@@ -9876,6 +9949,7 @@ jackknifeR 2.0.0
 jackstrap 0.1.0
 jackstraw 1.3.17
 jacobi 3.1.1
+JacobiEigen 0.3-4
 jacpop 0.6
 Jacquard 1.0.2
 JADE 2.0-4
@@ -10234,6 +10308,7 @@ knotR 1.0-4
 KnowBR 2.2
 kntnr 0.4.4
 KoboconnectR 2.0.0
+KODAMA 3.3
 kofdata 0.2.1
 KOFM 1.1.1
 kofnGA 1.3
@@ -10275,6 +10350,7 @@ kSamples 1.2-12
 KScorrect 1.4.0
 KSEAapp 2.0
 kselection 0.2.1
+KSgeneral 2.0.2
 ksharp 0.1.0.1
 KSIC 1.0.2
 ksm 1.0
@@ -10620,6 +10696,7 @@ libstable4u 1.0.5
 LIC 0.0.2
 licoread 0.3.0
 lidaRtRee 4.0.8
+lidR 4.2.3
 lievens 0.0.1
 lifecontingencies 1.4.4
 lifecourse 2.0
@@ -10684,6 +10761,7 @@ lineupjs 4.6.0
 linevis 1.0.0
 lingdist 1.0
 lingglosses 0.0.11
+lingmatch 1.0.7
 lingtypology 1.1.25
 linguisticsdown 1.2.0
 link 2024.4.0
@@ -10734,6 +10812,7 @@ LitFetchR 0.2.1
 litRiddle 1.0.0
 litteR 1.0.2
 litterfitter 0.1.4
+littler 0.3.22
 liureg 1.1.2
 live 1.5.13
 liver 1.27
@@ -10759,6 +10838,7 @@ lmboot 0.0.1
 LMD 1.2.1
 lmDiallel 1.0.2
 lmds 0.1.0
+lme4 2.0-1
 lme4breeding 1.1.1
 lme4GS 0.1
 lmeInfo 0.3.2
@@ -10794,6 +10874,7 @@ lmPerm 2.1.6
 lmQCM 0.2.4
 lmreg 1.3
 lmridge 1.2.2
+lmSubsets 0.5-4
 lmtest 0.9-40
 lmtestrob 0.1
 lmtp 1.5.3
@@ -10822,6 +10903,7 @@ localICE 0.1.1
 localIV 0.3.1
 localLLM 1.2.1
 localModel 0.5
+localScore 2.0.3
 localsolver 2.3
 localsp 0.1.0
 locaR 0.2.0
@@ -10889,6 +10971,7 @@ logrx 0.4.0
 logrxaddin 0.0.1
 logspline 2.1.22
 lokern 1.1-12
+lolog 1.3.2
 lolR 2.1
 LOMAR 0.5.2
 lomb 2.5.0
@@ -11032,6 +11115,7 @@ LTRCtrees 1.1.2
 ltsa 1.4.6.1
 ltsk 1.1.2
 ltxsparklines 1.1.3
+luajr 0.2.2
 lubridate 1.9.5
 lubrilog 1.3.0
 lucas 1.0
@@ -11069,6 +11153,7 @@ m61r 0.1.0
 MAAPER 1.1.1
 maat 1.1.1
 mabacR 0.1.0
+mable 4.1.1
 MABOUST 1.0.1
 MacBehaviour 1.2.8
 MACER 0.2.1
@@ -11267,6 +11352,7 @@ marketr 0.0.2
 markets 1.1.7
 markmyassignment 0.8.9
 markophylo 1.0.9
+markovchain 0.10.3
 Markovchart 2.1.5
 markovmix 0.1.3
 markovMSM 0.1.3
@@ -11400,6 +11486,7 @@ mazing 1.0.5
 MB 0.1.1
 MBA 0.1-2
 MBAnalysis 2.2.0
+mbbefd 0.8.14
 MBBEFDLite 1.0.0
 MBC 0.10-7
 MBCbook 0.1.2
@@ -11463,6 +11550,7 @@ mclustAddons 0.10
 mclustcomp 0.3.5
 MCM 0.1.7
 mcmapper 0.0.11
+mcmc 0.9-8
 MCMC.qpcr 1.2.4
 MCMC4Extremes 1.1
 mcmcderive 0.1.2
@@ -11572,6 +11660,7 @@ mederrRank 0.1.0
 MEDesigns 1.0.1
 medExtractR 0.4.1
 medfate 4.8.4
+medfateland 2.8.1
 medflex 0.6-11
 mediacloudr 0.1.0
 MediaK 1.0
@@ -11614,7 +11703,10 @@ memoiR 1.3-1
 memoise 2.0.1
 memor 0.2.3
 memoria 1.1.0
+memshare 1.1.0
 MEMSS 0.9-4
+memuse 4.2-3
+MendelianRandomization 0.10.0
 MEPDF 3.0
 Mercator 1.1.7
 merDeriv 0.2-5
@@ -11833,6 +11925,7 @@ mhtboot 1.3.3
 MHTdiscrete 1.0.1
 MHTmult 0.1.0
 MHTrajectoryR 1.0.1
+mhurdle 1.3-2
 mi 1.2
 mi4p 1.3
 MIAmaxent 1.4.1
@@ -11904,6 +11997,7 @@ midrangeMCP 3.1.3
 miebl 0.1.0
 miesmuschel 0.0.4-3
 mifa 0.2.1
+mig 2.0
 MigConnectivity 0.5.0
 MIGEE 0.1.0
 migest 2.0.5
@@ -11951,11 +12045,13 @@ minimalRSD 1.0.0
 minimap 0.1.0
 minimax 1.1.1
 minimaxALT 1.0.3
+minimaxApprox 0.5.0
 miniMeta 0.3.2
 minioclient 0.0.6
 miniPCH 0.4.1
 minipdf 0.2.7
 Minirand 0.1.3
+minired 1.0.1
 miniUI 0.1.2
 minMSE 0.5.1
 minorparties 1.0.0
@@ -12062,6 +12158,7 @@ mixgb 2.2.3
 MixGHD 2.3.7
 mixhvg 1.0.1
 mixKernel 0.9-2
+mixl 1.3.5
 MixLFA 1.0.0
 mixlm 1.4.3
 MixMashNet 0.6.0
@@ -12095,6 +12192,7 @@ MixtureMissing 3.0.6
 MixTwice 2.0
 mixvlmc 0.2.2
 mize 0.2.5
+mizer 2.5.4
 MJMbamlss 0.1.0
 mKBO 0.1.0
 MKclass 0.5
@@ -12223,6 +12321,7 @@ mmabig 3.2-0
 MMAC 1.0
 MMAD 2.0.1
 mmand 1.6.3
+mmap 0.6-24
 mmapcharr 0.3.1
 mmaqshiny 1.0.0
 mMARCH.AC 3.3.4.0
@@ -12367,6 +12466,7 @@ MOLHD 0.2
 MOM 0.1.0
 mombf 3.5.4
 momentchi2 0.1.5
+momentfit 1.0
 moments 0.14.1
 momentuHMM 1.5.8
 MomTrunc 6.1
@@ -12463,6 +12563,7 @@ movecost 2.1
 movedesign 0.3.2
 moveEZ 1.1.1
 movegroup 2024.03.05
+moveHMM 1.12
 movementsync 0.1.5
 moveWindSpeed 0.2.4
 movieROC 0.1.2
@@ -12473,6 +12574,7 @@ mpae 0.1.2
 mpath 0.4-2.26
 mpathr 1.0.4
 mpathsenser 1.2.4
+MPBoost 0.1-6
 MPCI 1.0.7
 MPCR 2.1.1
 MPDiR 0.3
@@ -12514,6 +12616,7 @@ mrap 1.0.1
 mratios 1.4.4
 mrbayes 0.5.2
 mrbin 1.9.5
+mrbsizeR 1.3
 mRc 0.1.0
 MRCE 2.4
 mrct 0.0.1.0
@@ -12673,10 +12776,12 @@ multDM 1.1.5
 multe 1.1.0
 MultEq 2.4
 multfisher 1.1
+multgee 1.9.0
 multiActionButton 1.0.0
 multiApply 2.1.5
 multiAssetOptions 0.1-2
 MultiATSM 1.5.1-1
+MultiBD 1.0.1
 multibias 1.7.2
 multibiasmeta 0.2.2
 multibiplotGUI 1.1
@@ -12795,6 +12900,7 @@ multivarious 0.3.1
 MultiVarMI 1.0
 multivator 1.1-11
 multiverse 0.6.2
+multiview 0.8
 multiwave 1.4
 multiway 1.0-7
 MultiwayRegression 1.2
@@ -12862,6 +12968,7 @@ mvmesh 1.6
 mvmeta 1.0.3
 mvMISE 1.0
 mvMonitoring 0.2.4
+mvMORPH 1.2.1
 MVN 6.3
 mvna 2.0.1
 MVNBayesian 0.0.8-11
@@ -13092,6 +13199,7 @@ netcom 2.1.7
 NetCoupler 0.1.1
 netcutter 0.3.1
 NetDA 0.2.0
+netdiffuseR 1.24.0
 netdose 0.7-4
 NetExplorer 0.0.2
 NetGreg 0.0.4
@@ -13131,6 +13239,7 @@ NetworkChange 1.0.0
 NetworkComparisonTest 2.2.3
 NetworkComparr 0.0.0.9
 networkD3 0.4.1
+NetworkDistance 0.3.6
 networkDynamic 0.11.5
 networkDynamicData 0.3.0
 NetworkExtinction 1.0.3
@@ -13265,12 +13374,15 @@ nlgm 1.0
 NlinTS 1.4.6
 nlist 0.4.0
 nlive 0.8.0
+nlme 3.1-168
 nlmeU 0.71.7
 nlmeVPC 2.8
 nlmixr2 5.0.0
 nlmixr2auto 1.0.0
 nlmixr2autoinit 1.0.0
 nlmixr2data 2.0.9
+nlmixr2est 5.0.2
+nlmixr2extra 5.0.0
 nlmixr2lib 0.3.2
 nlmixr2plot 5.0.1
 nlmixr2rpt 0.2.2
@@ -13341,6 +13453,7 @@ nnet 7.3-20
 nnetLM 1.0.1
 nnfor 0.9.9
 nnGarrote 1.0.4
+nngeo 0.4.8
 nnlasso 0.3
 nnlib2Rcpp 0.2.9
 nnls 1.6
@@ -13450,6 +13563,7 @@ nparcomp 3.0
 nparLD 2.2
 nparMD 0.2.3
 nparsurv 0.1.0
+NPBayesImputeCat 0.6
 NPBBBDAefficiency 0.1.0
 npboottprm 0.3.2
 npboottprmFBar 0.2.0
@@ -13663,6 +13777,7 @@ oews2020 1.0.0
 oews2021 1.0.0
 officedown 0.4.1
 officer 0.7.3
+offlineChange 0.0.4
 offsetreg 1.1.1
 ofGEM 1.0
 ofpetrial 0.1.3
@@ -13797,7 +13912,9 @@ OpenBARD 0.0.1
 openblender 0.5.81
 opencage 0.2.2
 OpEnCAST 0.1.1
+OpenCL 0.2-11
 opencpu 2.2.14
+openCR 2.2.7
 opencv 0.5.2
 opendataformat 2.2.2
 opendatatoronto 0.1.6
@@ -13829,6 +13946,7 @@ openscoring 1.0.6
 openSkies 1.3.0
 OpenSourceAP.DownloadR 0.1.0
 OpenSpecy 1.5.3
+openssl 2.3.5
 OpenStreetMap 0.4.1
 opentripplanner 0.5.2
 openVA 1.2.0
@@ -13938,6 +14056,7 @@ ordiBreadth 1.0
 ordinal 2025.12-29
 ordinalbayes 0.1.2
 ordinalCont 2.0.2
+ordinalForest 2.4-4
 ordinalgmifs 1.0.9
 ordinalLBM 1.0
 ordinalNet 2.14
@@ -14191,6 +14310,7 @@ pandoc 0.2.0
 pandocfilters 0.1-6
 PanelCount 2.0.1
 panelhetero 1.0.1
+PanelMatch 3.1.3
 panelPomp 1.7.0.0
 PanelSelect 1.0.0
 panelsummary 0.1.3
@@ -14215,6 +14335,7 @@ paradox 1.0.1
 parafac4microbiome 1.3.2
 parallelDist 0.2.7
 ParallelLogger 3.5.1
+parallelly 1.46.1
 parallelMap 1.5.1
 parallelMCMCcombine 2.0
 parallelpam 1.4.3
@@ -14261,6 +14382,7 @@ partDSA 0.9.14
 partialised 0.1.1
 partialling.out 0.2.0
 Partiallyoverlapping 2.0
+PartialNetwork 1.1.2
 PartialTL 0.1.0
 particle.swarm.optimisation 1.0.1
 particles 0.2.4
@@ -14345,6 +14467,8 @@ pbatR 2.2-17
 pbbd 1.0.0
 pbcc 0.0.7
 PBD 1.4
+pbdMPI 0.5-4
+pbdSLAP 0.3-7
 pbdZMQ 0.3-14
 PBIBD 1.4
 PBImisc 1.0
@@ -14610,6 +14734,7 @@ pgam 0.4.17
 pgdraw 1.1
 PGEE 1.5
 pgee.mixed 0.1.0
+pgenlibr 0.5.5
 pgirmess 2.0.3
 pgKDEsphere 1.0.2
 pglm 0.2-4
@@ -14618,6 +14743,7 @@ pgmm 1.2.8
 pgnorm 2.0.1
 pGPx 0.1.4
 pgraph 1.6
+PGRdup 0.2.4.0
 pGRN 0.3.5
 pgTools 1.0.2
 pguIMP 0.1.1
@@ -14711,11 +14837,13 @@ PHSMM 1.0
 phsopendata 1.0.3
 phuassess 1.1
 phutil 0.0.1
+phyclust 0.1-34
 phyext2 0.0.4
 phylepic 0.3.0
 phylin 2.0.2
 phylobase 0.8.12
 phylocanvas 0.1.3
+phylocomr 0.3.4
 PhylogeneticEM 1.8.1
 PHYLOGR 1.0.12
 phylogram 2.1.0
@@ -14905,6 +15033,7 @@ PLIS 1.2
 plm 2.6-7
 PLMIX 2.2.0
 PLmixed 0.1.8
+plmmr 4.2.3
 pln 0.2-3
 PLNmodels 1.2.2
 plnr 2025.11.22
@@ -15473,6 +15602,7 @@ ProfileLikelihood 1.3
 profileModel 0.6.2
 profileR 0.3-5
 profmem 0.7.0
+profoc 1.3.4
 profr 0.3.3
 profrep 1.0.0
 proftools 0.99-3
@@ -15854,6 +15984,7 @@ qmap 1.0-6
 qmd 1.1.3
 qmethod 1.8.4
 qmj 0.2.1
+qMRI 1.2.7.9
 qmrparser 0.1.6
 qmvs 0.2.2
 qoi 0.1.0
@@ -15957,6 +16088,7 @@ quantCurves 1.0.0
 quantdates 2.0.4
 quantdr 1.3.2
 quanteda 4.3.1
+quanteda.textmodels 0.9.10
 quanteda.textplots 0.96.1
 quanteda.textstats 0.97.2
 quanteda.tidy 0.4
@@ -15966,6 +16098,7 @@ QuantileGH 0.1.8
 QuantileGradeR 0.1.1
 QuantileNPCI 0.9.0
 QuantileOnQuantile 1.0.3
+QuantilePeer 0.0.1
 quantilogram 3.1.1
 quantities 0.2.3
 quantkriging 0.1.0
@@ -16201,6 +16334,7 @@ random.polychor.pa 1.1.4-5
 randomcoloR 1.1.0.1
 randomForest 4.7-1.2
 randomForestExplainer 0.10.1
+RandomForestsGLS 0.1.5
 randomForestSRC 3.5.1
 randomForestVIP 0.1.3
 RandomGaussianNB 0.2.4
@@ -16314,6 +16448,7 @@ rasterVis 0.51.7
 RAT 0.3.1
 ratdat 1.1.0
 ratelimitr 0.4.2
+ratematrix 1.2.5
 rater 1.3.2
 rateratio.test 1.1
 raters 2.1.1
@@ -16327,6 +16462,7 @@ ratios 1.2.0
 Rato 0.1.0
 rATTAINS 1.1.0
 rattle 5.6.2
+Ravages 1.2.0
 ravecore 0.1.0
 ravelRy 0.1.0
 raven.rdf 0.2.0
@@ -16360,6 +16496,7 @@ rbch 0.1-2
 rBDAT 1.1.0
 RBE3 1.1
 Rbearcat 0.2.1
+Rbeast 1.0.2
 rbedrock 0.4.2
 rbenchmark 1.0.0
 Rbent 0.1.0
@@ -16374,6 +16511,7 @@ rbibutils 2.4.1
 rbin 0.2.1
 rbioacc 1.3.1
 rbioapi 0.8.3
+rbiom 2.2.1
 rbiouml 1.11
 rbit 1.0.0
 RblDataLicense 0.2.6
@@ -16515,6 +16653,7 @@ RCPA 0.2.8
 RCPA3 1.3.1
 Rcplex 0.3-8
 Rcpp 1.1.1
+RcppAlgos 2.10.0
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
 RcppArmadillo 15.2.4-1
@@ -16530,8 +16669,10 @@ RcppClassicExamples 0.1.4
 RcppCNPy 0.2.15
 RcppColMetric 0.1.0
 RcppColors 0.6.0
+RcppCWB 0.6.10
 RcppDate 0.0.6
 RcppDE 0.1.9
+RcppDist 0.1.1.1
 RcppDPR 0.1.10
 RcppDynProg 0.2.1
 RcppEigen 0.3.4.0.2
@@ -16630,6 +16771,7 @@ Rdiagnosislist 1.4.0
 rdian 0.1.1
 Rdice 1.0.0
 RDieHarder 0.2.7
+Rdimtools 1.1.4
 rdist 0.0.5
 Rdistance 4.3.1
 rdiversity 2.2.0
@@ -16754,6 +16896,7 @@ rechonest 1.2
 recipes 1.3.1
 reclin2 0.6.0
 recluster 3.5
+recmap 1.0.20
 recmetrics 0.1.0
 Recocrop 0.4-2
 recodeflow 0.1.0
@@ -16807,6 +16950,7 @@ redistverse 0.1.2
 redland 1.0.17-19
 redlist 0.2.0
 redlistr 1.0.4
+rEDM 1.15.4
 Redmonder 0.2.0
 redoc 2.0.0.75
 redquack 0.3.0
@@ -16940,6 +17084,7 @@ remulate 2.1.0
 REN 0.1.0
 rENA 0.3.1
 rencher 0.1.6
+REndo 2.4.10
 Renext 3.1-5
 renpow 0.1-1
 rentrez 1.2.4
@@ -17064,6 +17209,7 @@ rethinker 1.1.0
 rethnicity 0.2.7
 reticulate 1.45.0
 retimer 0.1.3
+retistruct 0.8.1
 retmort 1.0.0
 retriever 0.2.1
 retrodesign 0.2.2
@@ -17372,6 +17518,7 @@ rLakeAnalyzer 1.11.4.1
 rLakeHabitat 1.0.1
 rlandfire 2.0.2
 rlang 1.1.7
+rlas 1.8.4
 rlcv 1.0.0
 rLDCP 1.0.2
 rle 0.10.0
@@ -17386,7 +17533,9 @@ rLFT 1.0.1
 Rlgt 0.2-3
 Rlibeemd 1.4.4
 Rlibkdv 1.1
+rlibkriging 0.9-3
 rLifting 0.9.0
+rliger 2.2.1
 Rlinkedin 0.2
 rlinkedinads 0.2.0
 Rlinsolve 0.3.3
@@ -17602,6 +17751,7 @@ robregcc 1.1
 RobRegression 0.1.0
 RoBSA 1.0.3
 robscale 0.2.1
+robsel 0.1.0
 robservable 0.2.2
 robslopes 1.1.4
 RobStatTM 1.0.11
@@ -17702,6 +17852,7 @@ ROI.plugin.neos 1.0-2
 ROI.plugin.nloptr 1.0-1
 ROI.plugin.optimx 1.0-1
 ROI.plugin.osqp 1.0-2
+ROI.plugin.qpoases 1.0-3
 ROI.plugin.quadprog 1.0-1
 ROI.plugin.scs 1.1-2
 ROI.plugin.symphony 1.0-0
@@ -17749,6 +17900,7 @@ roptim 0.1.7
 ROptimus 3.0.0
 roptions 1.0.3
 ROptSpace 0.2.4
+ROracle 1.5-1
 rorcid 0.7.0
 rorqual.morpho 0.1.1
 rosario 0.1.1
@@ -18027,6 +18179,7 @@ rSRD 0.1.8
 Rssa 1.1
 RSSampling 1.0
 RsSimulx 2024.1
+RSSL 0.9.8
 RSSOP 1.1
 RSStest 1.0
 RSSthemes 1.0.0
@@ -18130,6 +18283,7 @@ RTransferEntropy 0.2.21
 rtrek 0.5.2
 rtrend 0.1.5
 rtrends 0.1.0
+RTriangle 1.6-0.15
 rtrim 2.3.1
 rTRIPLEXCWFlux 0.2.0
 rTRNG 4.23.1-5
@@ -18230,6 +18384,7 @@ rwty 1.0.3
 rwunderground 0.1.8
 RXKCD 1.9.2
 RxnSim 1.0.4
+rxode2 5.0.2
 rxode2ll 2.0.14
 rxSeq 0.99.3
 rxylib 0.2.14
@@ -18243,6 +18398,7 @@ rYWAASB 0.3
 rzentra 0.1.0
 RZigZag 0.2.1
 rzmq 0.9.16
+RZooRoH 0.4.1
 s2 1.1.9
 s20x 3.2.2
 s2dv 2.2.1
@@ -18437,6 +18593,7 @@ SBdecomp 1.2
 sbfc 1.0.3
 sbgcop 1.0
 SBI 0.1.2
+sBIC 0.2.0
 SBICgraph 1.0.0
 sbim 1.0.0
 sbl 0.1.0
@@ -18556,6 +18713,7 @@ scMappR 1.0.12
 scMetaTraj 0.1.1
 scmSpillover 0.1.1
 scOntoMatch 0.1.1
+scoper 1.4.0
 scopr 0.3.5
 SCOPRO 0.1.0
 SCOR 1.1.2
@@ -18569,6 +18727,7 @@ scorepeak 0.1.2
 SCoRES 0.1.2
 scoring 0.6
 scoringfunctions 1.1
+scoringRules 1.1.3
 scoringutils 2.1.2
 SCORNET 0.1.1
 SCORPION 1.3.2
@@ -18693,6 +18852,7 @@ SeaVal 1.2.0
 SeBR 1.1.0
 SECFISH 0.1.7
 SECP 0.1.5
+secr 5.4.2
 secrdesign 2.10.1
 secret 1.1.0
 secretbase 1.2.0
@@ -18758,6 +18918,7 @@ SeleMix 1.0.3
 selenider 0.4.1
 selenium 0.2.0
 SELF 0.1.1
+SelfControlledCaseSeries 6.1.1
 selfingTree 0.2
 seliNDRIx 0.1.2
 sem 3.1-16
@@ -18859,6 +19020,7 @@ seqHMM 2.2.0
 seqICP 1.1
 seqimpute 2.2.1
 seqinr 4.2-36
+SeqKat 0.0.9
 SeqMADE 1.0
 seqmagick 0.1.8
 seqminer 9.9
@@ -18872,6 +19034,7 @@ SequenceSpikeSlab 1.0.1
 Sequential 4.5.2
 sequential.pops 0.1.1
 SequentialDesign 1.0
+sequoia 3.2.0
 sergeant 0.9.1
 serial 3.0
 seriation 1.5.8
@@ -18904,6 +19067,7 @@ SeuratObject 5.3.0
 sevenbridges2 0.4.0
 sever 0.0.7
 sewage 0.2.5
+sf 1.1-0
 sfa 1.0.4
 sfadv 1.0.1
 sfaR 1.0.1
@@ -18941,6 +19105,7 @@ sGBJ 0.1.1
 sgboost 0.2.0
 sgd 1.1.3
 sgdGMF 1.0.1
+SGDinference 0.1.0
 sgee 0.6-0
 sgeostat 1.0-27
 SGL 1.3
@@ -19285,6 +19450,7 @@ SimJoint 0.3.12
 SimKid 1.0.0
 simlandr 0.4.0
 SIMle 0.1.0
+simmer 4.4.7
 simmer.bricks 0.2.2
 simmer.plot 0.1.19
 simMetric 0.1.1
@@ -19561,6 +19727,7 @@ smoof 1.7.0
 smooth 4.4.0
 smoothedIPW 0.1.0
 smoothedLasso 1.6
+smoothemplik 0.0.17
 SmoothHazard 2025.07.24
 smoothHR 1.0.5
 smoothic 1.2.1
@@ -19766,6 +19933,7 @@ SpaDES 2.0.11
 SpaDES.core 3.0.4
 SpaDES.tools 2.1.1
 spagmix 0.4-2
+spam 2.11-3
 spam64 2.10-0
 spaMM 4.6.1
 spanish 0.4.2
@@ -19821,6 +19989,7 @@ sparsepca 0.1.2
 sparsepp 1.22
 sparseR 0.3.2
 sparsereg 1.2
+sparseSEM 4.1
 sparsestep 1.0.1
 sparsesurv 0.1.1
 sparsesvd 0.2-3
@@ -19849,6 +20018,7 @@ spaths 1.2.0
 spatial 7.3-18
 SpatialAcc 0.1-5
 spatialAtomizeR 0.2.7
+SpatialBSS 0.16-0
 spatialCatalogueViewer 0.2.0
 spatialCovariance 0.6-9
 SpatialDownscaling 0.1.2
@@ -20206,6 +20376,7 @@ ssMRCD 2.0.1
 ssmrob 1.0
 ssmsn 0.2.0
 ssMutPA 0.1.2
+SSN2 0.4.0
 SSNbayes 0.0.3
 SSNbler 1.1.1
 SSOSVM 0.2.2
@@ -20368,6 +20539,7 @@ steadyICA 1.0.1
 StealLikeBayes 1.0
 steepness 0.3-0
 SteinIV 0.1-1
+stelfi 1.0.2
 stellaR 0.3-6
 StemAnalysis 0.1.0
 stemmatology 0.3.2
@@ -20475,6 +20647,7 @@ stratcols 1.0.0
 strategicplayers 1.1
 Strategy 1.0.1
 stratEst 1.1.8
+StrathE2E2 3.3.0
 stratification 2.2-7
 StratifiedBalancing 0.3.0
 StratifiedMedicine 1.0.5
@@ -20674,6 +20847,7 @@ surveyexplorer 0.2.0
 surveygraph 1.0.0
 surveyplanning 4.0
 surveyPrev 1.0.0
+surveysd 2.0.1
 surveySimR 0.1.0
 SurveyStat 1.0.3
 surveytable 0.9.10
@@ -20920,6 +21094,7 @@ tactile 0.2.2
 TAD 1.0.1
 tada 2024.1.0
 TAF 4.3.1
+tagcloud 0.7.0
 tagr 1.0.1
 tagtools 0.3.0
 tAI 0.2.2
@@ -20974,6 +21149,7 @@ taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
 taxnames 0.1.0
+taxonomizr 0.11.1
 taylor 4.0.0
 TaylorRussell 1.2.1
 tayloRswift 0.1.0
@@ -21176,6 +21352,7 @@ textpress 1.1.1
 textrank 0.3.1
 textrar 0.8.0
 textrecipes 1.1.0
+textreg 0.1.5
 textreuse 0.1.5
 textshape 1.7.5
 textshaping 1.0.5
@@ -21349,6 +21526,7 @@ tidyplate 2.2.0
 tidyplots 0.4.0
 tidyplus 0.2.0
 tidypmc 2.0
+tidypopgen 0.4.3
 tidyposterior 1.0.2
 tidypredict 1.1.0
 tidyprompt 0.3.0
@@ -21403,6 +21581,8 @@ tigreBrowserWriter 0.1.5
 tigris 2.2.1
 tikatuwq 0.8.2
 tiktokadsR 0.1.0
+tikzDevice 0.12.6
+tiledb 0.33.0
 tilegramsR 0.2.0
 tilemaps 0.2.2
 tiler 0.3.2
@@ -21859,6 +22039,7 @@ tsdf 1.1-8
 TSDFGS 2.0
 tsdisagg2 0.1.0
 TSdisaggregation 2.0.0
+tsdistributions 1.0.4
 TSDT 1.0.8
 tsDyn 11.0.5.2
 TSE 0.1.0
@@ -21882,6 +22063,7 @@ tsfknn 0.6.0
 tsfngm 0.1.0
 tsforecast 1.3.0
 tsg 0.1.3
+tsgarch 1.0.3
 tsgc 0.0
 TSGS 1.0
 TSGSIS 0.1
@@ -21891,10 +22073,12 @@ tsibbledata 0.4.1
 tsibbletalk 0.1.0
 tsintermittent 1.10
 tsiR 0.4.3
+tsissm 1.0.2
 TSLA 0.1.2
 TSLSTM 0.1.0
 TSLSTMplus 1.0.6
 tsLSTMx 0.1.0
+tsmarch 1.0.0
 TSMCP 1.1
 tsmethods 1.0.3
 TSMN 1.0.0
@@ -21986,6 +22170,7 @@ tvm 0.5.2
 tvmComp 1.0.2
 TVMM 3.2.1
 TVMVP 1.0.5
+tvR 0.3.3
 tvReg 0.5.11
 tvrmst 0.0.6
 tvtools 0.0.3
@@ -22111,6 +22296,7 @@ undidR 3.0.2
 unexcel 0.1.0
 unfold 1.0.0
 unglue 0.1.0
+ungroup 1.4.4
 unhcrdown 0.6.0
 unhcrthemes 0.7.1
 unheadr 0.4.0
@@ -22295,6 +22481,7 @@ VancouvR 0.1.9
 vandalico 0.2.1
 vangogh 0.1.3
 vannstats 1.6.3.20
+vapour 0.16.0
 VAR.etp 1.1
 VAR.spec 1.0
 varband 0.9.0
@@ -22537,6 +22724,7 @@ VMDecomp 1.0.2
 VMDML 0.1.1
 vmdTDNN 0.1.1
 vmeasur 0.1.4
+vMF 0.0.4
 vmr 0.0.6
 vmsae 0.1.2
 vmTools 1.0.1
@@ -22574,6 +22762,7 @@ vpc 1.2.4
 VPdtw 2.2.1
 vprint 1.2
 vrnmf 1.0.2
+vroom 1.7.0
 vrtest 1.2
 vscc 0.8
 vse4ts 1.0.0
@@ -22700,6 +22889,7 @@ WCluster 1.3.0
 WCM 0.2.2
 Wcompo 1.0
 wconf 1.2.0
+wCorr 1.9.8
 wcox 1.0
 WData 0.1.1
 WDI 2.7.9
@@ -22947,6 +23137,7 @@ wrds 0.0.1
 WrensBookshelf 0.1.0
 WRestimates 0.1.0
 wrGraph 1.3.13
+WRI 0.2.1
 WrightMap 1.4
 writeAlizer 1.7.3
 writer 0.1.0

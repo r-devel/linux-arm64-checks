@@ -16,3 +16,4 @@ hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/h
 hibayes,3.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hibayes
 jsonlite,0.0.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/jsonlite
 lidR,4.2.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/lidR
+minimaxApprox,0.5.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/minimaxApprox

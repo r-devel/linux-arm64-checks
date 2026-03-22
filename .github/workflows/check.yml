@@ -129,6 +129,9 @@ jobs:
             cp -f /tmp/output-arm64/${{ inputs.package }}.Rcheck/00check.log ${{ inputs.package }}
             cp -f /tmp/changes/changes.md ${{ inputs.package }}/README.md
           fi
+          if [ "$status_arm" = "FAILURE" ]; then
+            echo "!! HANG / FATAL / TIMEOUT !!" >> ${{ inputs.package }}/00check.log
+          fi
 
       - name: Update csv file
         shell: bash

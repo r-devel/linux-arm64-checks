@@ -1,0 +1,78 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '23 * * * *'
+
+name: Check for CRAN updates
+
+concurrency: ${{ github.workflow }}
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  updates:
+    runs-on: ubuntu-latest
+    name: Check for CRAN updates
+    container:
+      image: ghcr.io/r-hub/r-minimal/r-minimal:latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          ref: 'updates'
+
+      - name: Find updates
+        timeout-minutes: 10
+        run: |
+          df <- as.data.frame(available.packages(repos = 'https://p3m.dev/cran/latest'))
+          newpkgs <- paste(df$Package, df$Version)
+          oldpkgs <- readLines("cran.txt")
+          changes <- sub(" .*", "", setdiff(newpkgs, oldpkgs))
+          writeLines(changes, 'changes.txt')
+          writeLines(newpkgs, 'newcran.txt')
+        shell: Rscript {0}
+
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: updates
+          path: |
+            changes.txt
+            newcran.txt
+
+  trigger:
+    runs-on: ubuntu-latest
+    needs: [updates]
+    name: Commit and trigger checks
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          ref: 'updates'
+
+      - uses: actions/download-artifact@v8
+        with:
+          name: updates
+          path: '/tmp/updates'
+
+      - name: Commit new cran
+        shell: bash
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          cp -f /tmp/updates/newcran.txt cran.txt
+          git add cran.txt
+          git commit -m "Update CRAN" || exit 0
+          git push
+
+      - name: Trigger checks
+        run: |
+          while read package; do
+            echo "Triggering $package"
+            gh workflow run check.yml -f package=$package || true
+            sleep 10
+          done </tmp/updates/changes.txt
+        env:
+          GH_TOKEN: ${{ github.token }}

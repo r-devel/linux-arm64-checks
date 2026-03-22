@@ -1,0 +1,150 @@
+on:
+  workflow_dispatch:
+    inputs:
+      package:
+        description: Which package to check
+        required: true
+
+name: Check package
+run-name: Check package ${{ inputs.package }}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Check ${{ inputs.package }} on ${{ matrix.arch }}
+    runs-on: ubuntu-24.04${{matrix.arch=='arm64' && '-arm' || ''}}
+    strategy:
+      fail-fast: false
+      matrix:
+        arch: [ 'amd64', 'arm64' ]
+    container:
+      image: ghcr.io/r-devel/rcheckserver/ubuntu:latest
+    steps:
+      - name: Install dependencies
+        timeout-minutes: 90
+        run: |
+          install.packages('${{ inputs.package }}', dependencies = TRUE)
+        shell: Rscript {0}
+
+      - name: Download source package
+        timeout-minutes: 10
+        run: |
+          avail <- available.packages(repos = 'https://cloud.r-project.org')
+          writeLines(avail['${{ inputs.package }}', 'Version'], 'version.txt')
+          download.packages('${{ inputs.package }}', '.', available = avail)
+        shell: Rscript {0}
+
+      - name: Build package
+        timeout-minutes: 90
+        run: |
+          mkdir mylib
+          R CMD INSTALL ${{ inputs.package }}_*.tar.gz --library=mylib 2>&1 | tee install.log
+        continue-on-error: true
+        shell: bash
+
+      - name: Check package
+        timeout-minutes: 90
+        run: |
+          R CMD check ${{ inputs.package }}_*.tar.gz --library=mylib --install=check:install.log --no-manual --no-vignettes
+        continue-on-error: true
+        shell: bash
+
+      - name: Write status
+        timeout-minutes: 10
+        run: |
+          results <- tools:::check_packages_in_dir_results('.')[[1]]
+          writeLines(results$status, "status.out")
+        shell: Rscript {0}
+
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: output-${{ matrix.arch }}
+          path: |
+            version.txt
+            install.log
+            status.out
+            ${{ inputs.package }}.Rcheck/*.log
+            ${{ inputs.package }}.Rcheck/tests
+
+  compare:
+    runs-on: ubuntu-latest
+    name: Compare amd64 and arm64 checks 
+    needs: [build]
+    container:
+      image: ghcr.io/r-hub/r-minimal/r-minimal:latest
+    steps:
+      - uses: actions/download-artifact@v8
+
+      - name: Compare changes
+        timeout-minutes: 10
+        run: |
+          changes <- tools::check_packages_in_dir_changes("output-arm64", "output-amd64", sources = TRUE, outputs = TRUE)
+          x <- subset(changes, grepl("WARNING|ERROR|FAIL", changes$New))
+          diff <- sprintf("Package: %s\nCheck: %s%s%s", x$Package, x$Check, sprintf("\n\nAMD64: %s", x$Old), sprintf("\nARM64: %s", x$New))
+          version <- readLines("output-arm64/version.txt")
+          header <- sprintf("# ${{ inputs.package }} %s\n", version)
+          link <-  "Run: https://github.com/${{github.repository}}/actions/runs/${{ github.run_id }}\n"
+          text <- c(header, link, "```", diff, "```")
+          writeLines(text, con = "changes.md")
+        shell: Rscript {0}
+
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: changes
+          path: changes.md
+
+  commit:
+    runs-on: ubuntu-latest
+    name: Commit results to repository
+    needs: [build, compare]
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          path: '/tmp'
+
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          ref: 'main'
+
+      - name: Update files
+        shell: bash
+        run: |
+          status_arm=$(cat /tmp/output-arm64/status.out)
+          status_amd=$(cat /tmp/output-amd64/status.out)
+          test -f /tmp/output-arm64/install.log || exit 1
+          test -f /tmp/output-amd64/install.log || exit 1
+          rm -Rf ${{ inputs.package }}
+          if [ "$status_arm" = "$status_amd" ] || [ "$status_arm" = "OK" ] || [ "$status_arm" = "NOTE" ]; then
+            echo "ARM64 status: $status_arm"
+          else
+            mkdir -p ${{ inputs.package }}
+            cp -f /tmp/output-arm64/{version.txt,install.log} ${{ inputs.package }}
+            cp -f /tmp/output-arm64/${{ inputs.package }}.Rcheck/00check.log ${{ inputs.package }}
+            cp -f /tmp/changes/changes.md ${{ inputs.package }}/README.md
+          fi
+
+      - name: Update csv file
+        shell: bash
+        run: |
+          echo "Package,Version,kind,href" > index.csv
+          for pkgver in */version.txt; do
+            pkg=$(dirname $pkgver)
+            ver=$(cat $pkgver)
+            echo "${pkg},${ver},linux-arm64,https://github.com/${{github.repository}}/tree/HEAD/${pkg}" >> index.csv
+          done
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          version=$(cat /tmp/output-arm64/version.txt)
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add ${{ inputs.package }} index.csv 2>/dev/null || true
+          git commit -m "${{ inputs.package }} ${version}" || exit 0
+          git pull origin main --rebase || true
+          git push

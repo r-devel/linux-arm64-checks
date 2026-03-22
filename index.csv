@@ -4,6 +4,7 @@ ARCokrig,0.1.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HE
 Colossus,1.4.10,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/Colossus
 DPQ,0.6-1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/DPQ
 ECOSolveR,0.6.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ECOSolveR
+KSgeneral,2.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/KSgeneral
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr
 crownsegmentr,1.0.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/crownsegmentr

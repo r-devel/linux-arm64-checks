@@ -18283,6 +18283,7 @@ RTransferEntropy 0.2.21
 rtrek 0.5.2
 rtrend 0.1.5
 rtrends 0.1.0
+RTriangle 1.6-0.15
 rtrim 2.3.1
 rTRIPLEXCWFlux 0.2.0
 rTRNG 4.23.1-5
@@ -21148,6 +21149,7 @@ taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
 taxnames 0.1.0
+taxonomizr 0.11.1
 taylor 4.0.0
 TaylorRussell 1.2.1
 tayloRswift 0.1.0

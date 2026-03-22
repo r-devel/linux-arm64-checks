@@ -30,3 +30,4 @@ retistruct,0.8.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/
 rxode2,5.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/rxode2
 smoothemplik,0.0.17,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/smoothemplik
 stelfi,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/stelfi
+tiledb,0.33.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/tiledb

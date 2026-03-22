@@ -1,0 +1,98 @@
+* using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/hibayes.Rcheck’
+* using R version 4.5.3 (2026-03-11)
+* using platform: aarch64-unknown-linux-gnu
+* R was compiled by
+    gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+    GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+* running under: Ubuntu 24.04.4 LTS
+* using session charset: UTF-8
+* using options ‘--no-manual --no-vignettes’
+* checking for file ‘hibayes/DESCRIPTION’ ... OK
+* this is package ‘hibayes’ version ‘3.1.0’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘hibayes’ can be installed ... OK
+* used C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking whether startup messages can be suppressed ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking line endings in C/C++/Fortran sources/headers ... OK
+* checking line endings in Makefiles ... OK
+* checking compilation flags in Makevars ... OK
+* checking for GNU extensions in Makefiles ... OK
+* checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
+* checking use of PKG_*FLAGS in Makefiles ... OK
+* checking compiled code ... NOTE
+/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/hibayes/libs/hibayes.so: no symbols
+Note: information on .o files is not available
+/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/hibayes/libs/hibayes.so: no symbols
+
+
+See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
+* checking examples ... ERROR
+Running examples in ‘hibayes-Ex.R’ failed
+The error most likely occurred in:
+
+> ### Name: ssbrm
+> ### Title: Single-step Bayes model
+> ### Aliases: ssbrm
+> 
+> ### ** Examples
+> 
+> # Load the example data attached in the package
+> pheno_file_path = system.file("extdata", "demo.phe", package = "hibayes")
+> pheno = read.table(pheno_file_path, header=TRUE)
+> 
+> bfile_path = system.file("extdata", "demo", package = "hibayes")
+> bin = read_plink(bfile_path, threads=1)
+Warning: Missing values in genotype exist!
+Imputing missing values by major genotype...
+> fam = bin$fam
+> geno = bin$geno
+> map = bin$map
+> 
+> pedigree_file_path = system.file("extdata", "demo.ped", package = "hibayes")
+> ped = read.table(pedigree_file_path, header=TRUE)
+> 
+> # For GS/GP
+> ## no environmental effects:
+> fit = ssbrm(T1~1, data=pheno, M=geno, M.id=fam[,2], pedigree=ped,
++ 	method="BayesCpi", niter=1000, nburn=600, thin=5, printfreq=100, threads=1)
+Error in if (sum(p < maf)) { : argument is not interpretable as logical
+Calls: ssbrm
+Execution halted
+* DONE
+Status: 1 ERROR, 1 NOTE

@@ -285,7 +285,7 @@ aftgee 1.2.1
 afthd 1.1.0
 aftR2 0.1.0
 aftsem 1.0
-afttest 4.5.2.2
+afttest 4.5.3
 ag5Tools 0.0.2
 agcounts 0.6.6
 AGD 0.45.0
@@ -740,7 +740,7 @@ arkdb 0.0.19
 arkhe 1.11.0
 arl 0.1.4
 arlclustering 1.0.5
-arm 1.15-1
+arm 1.15-2
 armadillo4r 0.7.0
 ARMALSTM 0.1.0
 armaOptions 1.0.1
@@ -753,7 +753,7 @@ Arothron 2.0.5
 ARPobservation 1.2.2
 arpr 0.1.2
 aRpsDCA 1.1.1
-arrangements 1.1.9
+arrangements 1.1.10
 arrApply 2.2.1
 arrayhelpers 1.1-0
 arrg 0.1.0
@@ -817,7 +817,7 @@ assertHE 1.0.1
 assertions 0.3.0
 assertr 3.0.1
 assertthat 0.2.1
-assessor 1.1.1
+assessor 1.3.0
 AssetPricing 1.0-3
 assignPOP 1.3.1
 assignR 2.4.3
@@ -3213,7 +3213,7 @@ collapse 2.1.6
 collapsibleTree 0.1.8
 collateral 0.5.2
 collatz 1.0.0
-collections 0.3.11
+collections 0.3.12
 collegeScorecard 0.2.0
 collett 0.1.2
 colleyRstats 0.0.2
@@ -4199,7 +4199,7 @@ DataPackageR 0.16.2
 datapasta 3.1.0
 dataprep 0.1.5
 dataPreparation 1.1.2
-DataQualityDashboard 2.8.6
+DataQualityDashboard 2.8.7
 dataquieR 2.8.7
 datardis 0.0.5
 dataReporter 1.0.5
@@ -5788,7 +5788,6 @@ epicmodel 0.2.1
 epiCo 1.0.1
 epicontacts 1.1.4
 EpiContactTrace 0.18.0
-epicR 1.0.0
 EpiCurve 2.4-2
 epidata 0.4.0
 epidatr 1.2.2
@@ -6806,7 +6805,7 @@ flowcluster 0.2.1
 FlowerMate 1.1
 flowmapblue 0.0.2
 flowmapper 0.1.4
-flownet 0.2.1
+flownet 0.2.2
 FlowRegEnvCost 0.1.1
 FlowScreen 2.1
 flowTraceR 0.1.1
@@ -7086,7 +7085,7 @@ froth 1.1.0
 frscore 0.5.2
 fru 0.0.4
 fruclimadapt 0.4.5
-fs 1.6.7
+fs 2.0.0
 FSA 0.10.1
 FSAdata 0.4.1
 fsbrain 0.5.6
@@ -9504,7 +9503,7 @@ incidentally 1.0.4
 IncomPair 0.1.0
 incR 2.1.1
 inctools 1.0.15
-incubate 1.3.0
+incubate 1.4.0
 INCVCommunityDetection 0.1.0
 inDAGO 1.0.3
 indelmiss 1.0.10
@@ -9968,7 +9967,7 @@ janitor 2.2.1
 janus 1.0.0
 JapanAPIs 0.1.1
 japanstat 0.1.0
-jarbes 2.4.2
+jarbes 2.5.0
 JATSdecoder 1.3.0
 JavaGD 0.6-6
 javateak 1.0
@@ -10825,7 +10824,7 @@ LLM 1.1.0
 LLMAgentR 0.3.2
 llmflow 3.0.2
 llmhelper 1.0.0
-LLMing 1.1.0
+LLMing 1.2.0
 llmjson 0.1.0
 LLMR 0.6.3
 LLMTranslate 0.3.0
@@ -12889,7 +12888,7 @@ MultiSpline 0.1.1
 MultiStatM 2.1.0
 multitaper 1.0-17
 multitool 0.1.5
-MultiTraits 0.6.0
+MultiTraits 1.0.0
 multiUS 1.2.3
 multivar 1.3.0
 multivariance 2.4.1
@@ -15623,7 +15622,7 @@ projpred 2.10.0
 ProliferativeIndex 1.0.1
 prolific.api 0.5.2
 prolsirm 0.1.1
-prome 3.1.0.1
+prome 4.0.0.3
 PROMETHEE 1.1
 promethee123 0.1.0
 PrometheeTools 0.1.0
@@ -15771,7 +15770,7 @@ psy 1.2
 psycCleaning 0.1.1
 psych 2.6.1
 psychmeta 2.7.0
-psycho 0.6.1
+psycho 0.6.2
 psychometric 2.4
 psychomix 1.1-9
 psychonetrics 0.15
@@ -15963,7 +15962,7 @@ qgcomp 2.18.7
 qgcompint 1.0.2
 qgg 1.1.6
 QGglmm 0.8.0
-qgisprocess 0.4.1
+qgisprocess 0.4.2
 qgraph 1.9.8
 qgshiny 0.1.0
 QHOT 0.1.0
@@ -16825,7 +16824,7 @@ read.gt3x 1.2.0
 readABF 1.0.2
 readabs 0.4.20
 readaec 0.1.2
-readapra 0.2.1
+readapra 0.2.2
 readbitmap 0.1.5
 readBrukerFlexData 1.9.3
 readbulk 1.1.4
@@ -17612,7 +17611,7 @@ Rmisc 1.5.1
 Rmixmod 2.1.10
 RMixpanel 0.7-1
 RMixtComp 4.1.5
-RMixtCompIO 4.0.11
+RMixtCompIO 4.0.12
 RMixtCompUtilities 4.1.6
 RMKdiscrete 0.2
 rmlnomogram 0.1.2
@@ -20057,14 +20056,14 @@ SpATS 1.0-19
 spatsoc 0.2.2
 spatstat 3.5-1
 spatstat.data 3.1-9
-spatstat.explore 3.7-0
+spatstat.explore 3.8-0
 spatstat.geom 3.7-2
 spatstat.gui 3.1-0
 spatstat.Knet 3.1-2
 spatstat.linnet 3.4-1
 spatstat.local 5.1-0
 spatstat.model 3.6-1
-spatstat.random 3.4-4
+spatstat.random 3.4-5
 spatstat.sparse 3.1-0
 spatstat.univar 3.1-7
 spatstat.utils 3.2-2
@@ -20751,7 +20750,7 @@ suggests 0.1.0
 sugrrants 0.2.9
 sulcimap 1.0.6
 SumcaVer1 0.1.0
-sumer 1.3.0
+sumer 1.4.0
 sumExtras 1.0.0
 summariser 2.3.0
 summarySCI 0.1.1

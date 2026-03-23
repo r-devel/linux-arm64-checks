@@ -63,4 +63,4 @@ Note: information on .o files is not available
 See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
 * checking examples ... OK
 * checking for unstated dependencies in ‘tests’ ... OK
-* checking tests ...
+* checking tests ...!! HANG / FATAL / TIMEOUT !!

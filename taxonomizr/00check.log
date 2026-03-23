@@ -87,4 +87,4 @@ Error in trimTaxa(ii, tmp, 1:3) :
 Calls: read.accession2taxid -> trimTaxa
 Execution halted
 * checking for unstated dependencies in ‘tests’ ... OK
-* checking tests ...
+* checking tests ...!! HANG / FATAL / TIMEOUT !!

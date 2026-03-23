@@ -1,0 +1,178 @@
+* installing *source* package ‘bigmemory’ ...
+** this is package ‘bigmemory’ version ‘4.6.4’
+** package ‘bigmemory’ successfully unpacked and MD5 sums checked
+** using staged installation
+  checking for Sun Studio compiler...
+no
+  checking for OS...
+Linux
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/uuid/include' -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c BigMatrix.cpp -o BigMatrix.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from BigMatrix.cpp:22:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:294:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  294 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/sp_counted_impl.hpp:27,
+                 from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:23:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/uuid/include' -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/uuid/include' -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c SharedCounter.cpp -o SharedCounter.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/uuid/include' -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c bigmemory.cpp -o bigmemory.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from bigmemory.cpp:7:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:294:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  294 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/sp_counted_impl.hpp:27,
+                 from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:23:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /usr/include/c++/13/bits/stl_algobase.h:64,
+                 from /usr/include/c++/13/string:51,
+                 from /usr/include/c++/13/bits/locale_classes.h:40,
+                 from /usr/include/c++/13/bits/ios_base.h:41,
+                 from /usr/include/c++/13/ios:44,
+                 from /usr/include/c++/13/istream:40,
+                 from /usr/include/c++/13/fstream:40,
+                 from bigmemory.cpp:2:
+/usr/include/c++/13/bits/stl_pair.h: In instantiation of ‘constexpr std::pair<typename std::__strip_reference_wrapper<typename std::decay<_Tp>::type>::__type, typename std::__strip_reference_wrapper<typename std::decay<_Tp2>::type>::__type> std::make_pair(_T1&&, _T2&&) [with _T1 = double; _T2 = double&; typename __strip_reference_wrapper<typename decay<_Tp>::type>::__type = double; typename decay<_Tp>::type = double; typename __strip_reference_wrapper<typename decay<_Tp2>::type>::__type = double; typename decay<_Tp2>::type = double]’:
+bigmemory.cpp:1124:41:   required from ‘SEXPREC* get_order(MatrixAccessorType, SEXP, SEXP, SEXP) [with RType = double; MatrixAccessorType = MatrixAccessor<double>; SEXP = SEXPREC*]’
+bigmemory.cpp:1473:27:   required from here
+/usr/include/c++/13/bits/stl_pair.h:922:5: note: parameter passing for argument of type ‘std::pair<double, double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
+  922 |     make_pair(_T1&& __x, _T2&& __y)
+      |     ^~~~~~~~~
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/uuid/include' -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c deepcopy.cpp -o deepcopy.o
+In file included from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /usr/local/lib/R/site-library/BH/include/boost/shared_ptr.hpp:17,
+                 from ../inst/include/bigmemory/BigMatrix.h:10,
+                 from deepcopy.cpp:10:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:294:33: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  294 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/13/memory:78,
+                 from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/sp_counted_impl.hpp:27,
+                 from /usr/local/lib/R/site-library/BH/include/boost/smart_ptr/detail/shared_count.hpp:23:
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:354:31: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  354 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:365:22: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  365 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:423:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  423 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:430:34: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  430 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/usr/local/lib/R/site-library/BH/include/boost/smart_ptr/shared_ptr.hpp:432:38: warning: ‘template<class> class std::auto_ptr’ is deprecated: use 'std::unique_ptr' instead [-Wdeprecated-declarations]
+  432 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+/usr/include/c++/13/bits/unique_ptr.h:65:28: note: declared here
+   65 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../inst/include -DLINUX -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/uuid/include' -I'/usr/local/lib/R/site-library/Rcpp/include'     -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-LHdUM6/r-base-4.5.3=/usr/src/r-base-4.5.3-1.2404.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c util.cpp -o util.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -o bigmemory.so BigMatrix.o RcppExports.o SharedCounter.o bigmemory.o deepcopy.o util.o -lrt -lm -L/usr/lib/R/lib -lR
+installing to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-bigmemory/00new/bigmemory/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘ncol’ from package ‘base’ in package ‘bigmemory’
+Creating a generic function for ‘nrow’ from package ‘base’ in package ‘bigmemory’
+Creating a generic function for ‘typeof’ from package ‘base’ in package ‘bigmemory’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (bigmemory)

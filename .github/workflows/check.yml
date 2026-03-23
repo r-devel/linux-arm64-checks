@@ -130,7 +130,7 @@ jobs:
             cp -f /tmp/changes/changes.md ${{ inputs.package }}/README.md
           fi
           if [ "$status_arm" = "FAILURE" ]; then
-            echo "!! HANG / FATAL / TIMEOUT !!" >> ${{ inputs.package }}/00check.log
+            echo "\n!! HANG / FATAL / TIMEOUT !!" >> ${{ inputs.package }}/00check.log
           fi
 
       - name: Update csv file

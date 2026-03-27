@@ -1,6 +1,6 @@
-# vostokR 0.2.0
+# vostokR 0.2.1
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23487480985
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23633682569
 
 ```
 Package: vostokR

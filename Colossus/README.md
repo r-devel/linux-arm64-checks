@@ -1,11 +1,10 @@
 # Colossus 1.4.10
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411284418
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23950591273
 
 ```
 Package: Colossus
 Check: tests
-
 AMD64: OK
     Running ‘spelling.R’
     Running ‘testthat.R’
@@ -29,4 +28,5 @@ ARM64: ERROR
     Error:
     ! Test failures.
     Execution halted
+
 ```

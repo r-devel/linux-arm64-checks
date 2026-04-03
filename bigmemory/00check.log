@@ -60,4 +60,4 @@ Note: information on .o files is not available
 
 
 See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
-* checking examples ...
+* checking examples ...\n!! HANG / FATAL / TIMEOUT !!

@@ -1,11 +1,10 @@
 # retistruct 0.8.1
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411728379
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951541643
 
 ```
 Package: retistruct
 Check: tests
-
 AMD64: OK
     Running ‘spelling.R’
     Running ‘testthat.R’
@@ -29,4 +28,5 @@ ARM64: ERROR
     2: 'rgl.init' failed, will use the null device.
     See '?rgl.useNULL' for ways to avoid this warning. 
     Execution halted
+
 ```

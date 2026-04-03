@@ -21,7 +21,11 @@
 * checking for sufficient/correct file permissions ... OK
 * checking whether package ‘quanteda.textmodels’ can be installed ... OK
 * used C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
-* checking installed package size ... OK
+* checking installed package size ... INFO
+  installed size is  9.0Mb
+  sub-directories of 1Mb or more:
+    data   3.8Mb
+    libs   4.8Mb
 * checking package directory ... OK
 * checking ‘build’ directory ... OK
 * checking DESCRIPTION meta-information ... OK
@@ -61,12 +65,7 @@
 * checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
 * checking use of PKG_*FLAGS in Makefiles ... OK
 * checking compiled code ... NOTE
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/quanteda.textmodels/libs/quanteda.textmodels.so: no symbols
 Note: information on .o files is not available
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/quanteda.textmodels/libs/quanteda.textmodels.so: no symbols
-
-
-See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
 * checking installed files from ‘inst/doc’ ... OK
 * checking files in ‘vignettes’ ... OK
 * checking examples ... OK

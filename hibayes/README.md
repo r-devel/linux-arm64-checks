@@ -1,11 +1,10 @@
 # hibayes 3.1.0
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411442719
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951212392
 
 ```
 Package: hibayes
 Check: examples
-
 AMD64: OK
 ARM64: ERROR
   Running examples in ‘hibayes-Ex.R’ failed
@@ -39,4 +38,5 @@ ARM64: ERROR
   Error in if (sum(p < maf)) { : argument is not interpretable as logical
   Calls: ssbrm
   Execution halted
+
 ```

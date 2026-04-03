@@ -1,11 +1,10 @@
 # profoc 1.3.4
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411669709
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951443211
 
 ```
 Package: profoc
 Check: tests
-
 AMD64: OK
     Running ‘testthat.R’
 ARM64: ERROR
@@ -27,4 +26,5 @@ ARM64: ERROR
     Error:
     ! Test failures.
     Execution halted
+
 ```

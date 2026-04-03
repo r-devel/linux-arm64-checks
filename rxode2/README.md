@@ -1,6 +1,6 @@
 # rxode2 5.0.2
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951574489
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23953782291
 
 ```
 Package: rxode2
@@ -20,7 +20,7 @@ ARM64: ERROR
   > dfWishart(lotri::lotri(a+b~c(1, 0.5, 1)), 100)
   
    *** caught segfault ***
-  address 0xffcba994eb54, cause 'invalid permissions'
+  address 0xffc9681c4b54, cause 'invalid permissions'
   
   Traceback:
    1: withCallingHandlers(expr, warning = function(w) if (inherits(w,     classes)) tryInvokeRestart("muffleWarning"))

@@ -40,7 +40,7 @@ jobs:
         timeout-minutes: 90
         run: |
           mkdir mylib
-          R CMD INSTALL ${{ inputs.package }}_*.tar.gz --library=mylib 2>&1 | tee install.log
+          R CMD INSTALL ${{ inputs.package }}_*.tar.gz --library=mylib --use-vanilla 2>&1 | tee install.log
         continue-on-error: true
         shell: bash
 

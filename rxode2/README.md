@@ -1,11 +1,10 @@
 # rxode2 5.0.2
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411758515
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951574489
 
 ```
 Package: rxode2
 Check: examples
-
 AMD64: OK
 ARM64: ERROR
   Running examples in ‘rxode2-Ex.R’ failed
@@ -21,7 +20,7 @@ ARM64: ERROR
   > dfWishart(lotri::lotri(a+b~c(1, 0.5, 1)), 100)
   
    *** caught segfault ***
-  address 0xfff07f8c5b54, cause 'invalid permissions'
+  address 0xffcba994eb54, cause 'invalid permissions'
   
   Traceback:
    1: withCallingHandlers(expr, warning = function(w) if (inherits(w,     classes)) tryInvokeRestart("muffleWarning"))
@@ -31,9 +30,9 @@ ARM64: ERROR
    5: dfWishart(lotri::lotri(a + b ~ c(1, 0.5, 1)), 100)
   An irrecoverable exception occurred. R is aborting now ...
   Segmentation fault (core dumped)
+
 Package: rxode2
 Check: tests
-
 AMD64: OK
     Running ‘testthat.R’
 ARM64: ERROR
@@ -55,4 +54,5 @@ ARM64: ERROR
     39: test_check("rxode2")
     An irrecoverable exception occurred. R is aborting now ...
     Segmentation fault (core dumped)
+
 ```

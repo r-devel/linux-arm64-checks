@@ -1,11 +1,10 @@
 # mmap 0.6-24
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411560698
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951377673
 
 ```
 Package: mmap
 Check: tests
-
 AMD64: OK
     Running ‘integers.R’
 ARM64: ERROR
@@ -27,4 +26,5 @@ ARM64: ERROR
     > test.int8()
     Error in test.int8() : m[] == (-128:127L)
     Execution halted
+
 ```

@@ -1,11 +1,10 @@
 # DPQ 0.6-1
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411319306
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23950622557
 
 ```
 Package: DPQ
 Check: tests
-
 AMD64: OK
     Running ‘bd0-tst.R’
     Running ‘chisq-nonc-ex.R’
@@ -60,4 +59,5 @@ ARM64: ERROR
     1: In min(x) : no non-missing arguments to min; returning Inf
     2: In max(x) : no non-missing arguments to max; returning -Inf
     Execution halted
+
 ```

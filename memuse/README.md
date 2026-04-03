@@ -1,11 +1,10 @@
 # memuse 4.2-3
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411531658
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951245514
 
 ```
 Package: memuse
 Check: tests
-
 AMD64: OK
     Running ‘accessors.R’
     Running ‘arithmetic.R’
@@ -45,4 +44,5 @@ ARM64: ERROR
     + }
     Error in Sys.cachesize() : platform not supported at this time
     Execution halted
+
 ```

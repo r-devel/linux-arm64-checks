@@ -1,11 +1,10 @@
 # APackOfTheClones 1.3.0
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411218902
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23950526741
 
 ```
 Package: APackOfTheClones
 Check: tests
-
 AMD64: OK
     Running ‘spelling.R’
     Running ‘testthat.R’
@@ -29,4 +28,5 @@ ARM64: ERROR
     Error:
     ! Test failures.
     Execution halted
+
 ```

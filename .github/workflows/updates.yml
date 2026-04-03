@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: '30 4 * * *'
 
-name: Check for CRAN updates
+name: Update new CRAN packages
 
 concurrency: ${{ github.workflow }}
 

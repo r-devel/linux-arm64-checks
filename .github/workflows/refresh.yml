@@ -1,0 +1,31 @@
+# Refresh existing results every sunday
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'
+
+name: Refresh all results
+
+concurrency: ${{ github.workflow }}
+
+permissions:
+  actions: write
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    name: Commit and trigger checks
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Trigger checks
+        run: |
+          for pkgver in */version.txt; do
+            package=$(dirname $pkgver)
+            echo "Triggering $package"
+            gh workflow run check.yml -f package=$package || true
+            sleep 60
+          done
+        env:
+          GH_TOKEN: ${{ github.token }}

@@ -53,12 +53,7 @@
 * checking for unstated dependencies in examples ... OK
 * checking line endings in C/C++/Fortran sources/headers ... OK
 * checking compiled code ... NOTE
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/gbm/libs/gbm.so: no symbols
 Note: information on .o files is not available
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/gbm/libs/gbm.so: no symbols
-
-
-See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
 * checking sizes of PDF files under ‘inst/doc’ ... OK
 * checking installed files from ‘inst/doc’ ... OK
 * checking files in ‘vignettes’ ... OK
@@ -72,7 +67,7 @@ Last 13 lines of output:
   test_relative_influence.R.....    0 tests    
   test_relative_influence.R.....    0 tests    
   test_relative_influence.R.....    0 tests    
-  test_relative_influence.R.....    1 tests OK 4.9s
+  test_relative_influence.R.....    1 tests OK 4.8s
   ----- FAILED[data]: test_least_squares.R<68--69>
    call| expect_true(abs(mean(data2$Y - f.predict)) < 0.01, info = "LS: checking if Gaussian absolute error within tolerance.")
    diff| Expected TRUE, got FALSE

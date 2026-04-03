@@ -1,11 +1,10 @@
 # cmpp 0.0.2
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411277206
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23950951364
 
 ```
 Package: cmpp
 Check: examples
-
 AMD64: OK
 ARM64: ERROR
   Running examples in ‘cmpp-Ex.R’ failed
@@ -64,4 +63,5 @@ ARM64: ERROR
     Lapack routine dgesv: system is exactly singular: U[2,2] = 0
   Calls: CIF_res1 -> solve -> solve.default
   Execution halted
+
 ```

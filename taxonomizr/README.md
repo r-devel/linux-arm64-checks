@@ -1,11 +1,10 @@
 # taxonomizr 0.11.1
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23415142442
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951711663
 
 ```
 Package: taxonomizr
 Check: examples
-
 AMD64: OK
 ARM64: ERROR
   Running examples in ‘taxonomizr-Ex.R’ failed
@@ -33,10 +32,11 @@ ARM64: ERROR
     Could not write to file. Out of disk space?
   Calls: read.accession2taxid -> trimTaxa
   Execution halted
+
 Package: taxonomizr
 Check: tests
-
 AMD64: OK
     Running ‘testthat.R’
 ARM64: FAILURE
+
 ```

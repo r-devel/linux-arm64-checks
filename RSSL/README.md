@@ -1,11 +1,10 @@
 # RSSL 0.9.8
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411751353
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23950786731
 
 ```
 Package: RSSL
 Check: whether package can be installed
-
 AMD64: OK
   Used C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
   Used C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
@@ -15,4 +14,5 @@ ARM64: WARNING
   See ‘/__w/linux-arm64-checks/linux-arm64-checks/RSSL.Rcheck/00install.out’ for details.
   Used C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
   Used C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+
 ```

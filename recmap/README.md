@@ -1,11 +1,10 @@
 # recmap 1.0.20
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411718056
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951509943
 
 ```
 Package: recmap
 Check: examples
-
 AMD64: OK
 ARM64: ERROR
   Running examples in ‘recmap-Ex.R’ failed
@@ -114,9 +113,9 @@ ARM64: ERROR
     d4 could not be placed on the first attempt;
   Error: index error
   Execution halted
+
 Package: recmap
 Check: tests
-
 AMD64: OK
     Running ‘testthat.R’
 ARM64: ERROR
@@ -138,4 +137,5 @@ ARM64: ERROR
     Error:
     ! Test failures.
     Execution halted
+
 ```

@@ -64,12 +64,7 @@ GNU make is a SystemRequirements.
 * checking use of PKG_*FLAGS in Makefiles ... OK
 * checking include directives in Makefiles ... OK
 * checking compiled code ... NOTE
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/ECOSolveR/libs/ECOSolveR.so: no symbols
 Note: information on .o files is not available
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/ECOSolveR/libs/ECOSolveR.so: no symbols
-
-
-See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
 * checking installed files from ‘inst/doc’ ... OK
 * checking files in ‘vignettes’ ... OK
 * checking examples ... OK

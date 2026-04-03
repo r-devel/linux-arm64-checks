@@ -54,12 +54,7 @@ See ‘/__w/linux-arm64-checks/linux-arm64-checks/retistruct.Rcheck/00install.ou
 * checking for unstated dependencies in examples ... OK
 * checking line endings in C/C++/Fortran sources/headers ... OK
 * checking compiled code ... NOTE
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/retistruct/libs/retistruct.so: no symbols
 Note: information on .o files is not available
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/retistruct/libs/retistruct.so: no symbols
-
-
-See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
 * checking examples ... OK
 * checking for unstated dependencies in ‘tests’ ... OK
 * checking tests ... ERROR

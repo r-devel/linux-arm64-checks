@@ -69,4 +69,4 @@ Note: information on .o files is not available
 See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
 * checking installed files from ‘inst/doc’ ... OK
 * checking files in ‘vignettes’ ... OK
-* checking examples ...
+* checking examples ...\n!! HANG / FATAL / TIMEOUT !!

@@ -1,6 +1,6 @@
 # hibayes 3.1.0
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951212392
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23953428022
 
 ```
 Package: hibayes

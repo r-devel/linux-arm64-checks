@@ -1,11 +1,10 @@
 # hdf5r 1.3.12
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411435381
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951144932
 
 ```
 Package: hdf5r
 Check: tests
-
 AMD64: OK
     Running ‘testthat.R’
 ARM64: ERROR
@@ -27,4 +26,5 @@ ARM64: ERROR
     Error:
     ! Test failures.
     Execution halted
+
 ```

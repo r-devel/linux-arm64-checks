@@ -75,12 +75,12 @@ See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
   Running ‘tinytest.R’
 Running the tests in ‘tests/tinytest.R’ failed.
 Last 13 lines of output:
-  test-loocv.R..................    2 tests [0;32mOK[0m 
-  test-loocv.R..................    2 tests [0;32mOK[0m 
-  test-loocv.R..................    2 tests [0;32mOK[0m 
-  test-loocv.R..................    2 tests [0;32mOK[0m 
-  test-loocv.R..................    2 tests [0;32mOK[0m 
-  test-loocv.R..................    3 tests [0;32mOK[0m [0;36m9ms[0m
+  test-loocv.R..................    2 tests OK 
+  test-loocv.R..................    2 tests OK 
+  test-loocv.R..................    2 tests OK 
+  test-loocv.R..................    2 tests OK 
+  test-loocv.R..................    2 tests OK 
+  test-loocv.R..................    3 tests OK 9ms
   ----- FAILED[data]: test-derivatives.R<22--25>
    call| expect_equal(max(abs(mig_loglik_grad(x = samp, xi = xi, Omega = Omega, 
    call| -->    beta = beta) - t(apply(samp, 1, function(x) {

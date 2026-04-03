@@ -1,11 +1,10 @@
 # ARCokrig 0.1.3
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411223252
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23950559201
 
 ```
 Package: ARCokrig
 Check: examples
-
 AMD64: OK
 ARM64: ERROR
   Running examples in ‘ARCokrig-Ex.R’ failed
@@ -64,4 +63,5 @@ ARM64: ERROR
   Error in chol.default(R) : the leading minor of order 2 is not positive
   Calls: ARCokrig -> cokm.predict -> chol -> chol.default
   Execution halted
+
 ```

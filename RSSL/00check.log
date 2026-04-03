@@ -24,7 +24,10 @@ Found the following significant warnings:
 See ‘/__w/linux-arm64-checks/linux-arm64-checks/RSSL.Rcheck/00install.out’ for details.
 * used C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
 * used C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
-* checking installed package size ... OK
+* checking installed package size ... INFO
+  installed size is  5.6Mb
+  sub-directories of 1Mb or more:
+    libs   3.6Mb
 * checking package directory ... OK
 * checking DESCRIPTION meta-information ... OK
 * checking top-level files ... OK
@@ -62,12 +65,7 @@ See ‘/__w/linux-arm64-checks/linux-arm64-checks/RSSL.Rcheck/00install.out’ f
 * checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
 * checking use of PKG_*FLAGS in Makefiles ... OK
 * checking compiled code ... NOTE
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/RSSL/libs/RSSL.so: no symbols
 Note: information on .o files is not available
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/RSSL/libs/RSSL.so: no symbols
-
-
-See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
 * checking examples ... OK
 * checking for unstated dependencies in ‘tests’ ... OK
 * checking tests ... OK

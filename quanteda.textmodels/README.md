@@ -1,11 +1,10 @@
 # quanteda.textmodels 0.9.10
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411678958
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951476358
 
 ```
 Package: quanteda.textmodels
 Check: tests
-
 AMD64: OK
     Running ‘spelling.R’
     Running ‘testthat.R’
@@ -29,4 +28,5 @@ ARM64: ERROR
     Error:
     ! Test failures.
     Execution halted
+
 ```

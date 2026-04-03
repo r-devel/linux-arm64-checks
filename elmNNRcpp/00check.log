@@ -58,12 +58,7 @@
 * checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
 * checking use of PKG_*FLAGS in Makefiles ... OK
 * checking compiled code ... NOTE
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/elmNNRcpp/libs/elmNNRcpp.so: no symbols
 Note: information on .o files is not available
-/usr/bin/nm: /__w/linux-arm64-checks/linux-arm64-checks/mylib/elmNNRcpp/libs/elmNNRcpp.so: no symbols
-
-
-See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
 * checking installed files from ‘inst/doc’ ... OK
 * checking files in ‘vignettes’ ... OK
 * checking examples ... OK
@@ -72,7 +67,7 @@ See ‘Writing portable packages’ in the ‘Writing R Extensions’ manual.
   Running ‘testthat.R’
 Running the tests in ‘tests/testthat.R’ failed.
 Last 13 lines of output:
-  Time to complete : 0.000351429 secs 
+  Time to complete : 0.0003204346 secs 
   [ FAIL 1 | WARN 0 | SKIP 0 | PASS 29 ]
   
   ══ Failed tests ════════════════════════════════════════════════════════════════

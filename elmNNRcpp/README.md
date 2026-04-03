@@ -1,6 +1,6 @@
 # elmNNRcpp 1.0.5
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951046634
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23953267992
 
 ```
 Package: elmNNRcpp
@@ -11,7 +11,7 @@ ARM64: ERROR
     Running ‘testthat.R’
   Running the tests in ‘tests/testthat.R’ failed.
   Last 13 lines of output:
-    Time to complete : 0.000351429 secs 
+    Time to complete : 0.0003204346 secs 
     [ FAIL 1 | WARN 0 | SKIP 0 | PASS 29 ]
     
     ══ Failed tests ════════════════════════════════════════════════════════════════

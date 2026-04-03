@@ -1,11 +1,10 @@
 # gbm 2.2.3
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23411385745
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951079595
 
 ```
 Package: gbm
 Check: tests
-
 AMD64: OK
     Running ‘tinytest.R’
 ARM64: ERROR
@@ -16,7 +15,7 @@ ARM64: ERROR
     test_relative_influence.R.....    0 tests    
     test_relative_influence.R.....    0 tests    
     test_relative_influence.R.....    0 tests    
-    test_relative_influence.R.....    1 tests [0;32mOK[0m [0;34m4.9s[0m
+    test_relative_influence.R.....    1 tests OK 4.9s
     ----- FAILED[data]: test_least_squares.R<68--69>
      call| expect_true(abs(mean(data2$Y - f.predict)) < 0.01, info = "LS: checking if Gaussian absolute error within tolerance.")
      diff| Expected TRUE, got FALSE
@@ -27,4 +26,5 @@ ARM64: ERROR
      info| LS: checking if Gaussian squared error within tolerance.
     Error: 2 out of 5 tests failed
     Execution halted
+
 ```

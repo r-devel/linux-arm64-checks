@@ -1,6 +1,6 @@
 # scan 0.68.0
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23906169380
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23951607534
 
 ```
 Package: scan

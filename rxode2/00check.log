@@ -88,7 +88,7 @@ The error most likely occurred in:
 > dfWishart(lotri::lotri(a+b~c(1, 0.5, 1)), 100)
 
  *** caught segfault ***
-address 0xffc9681c4b54, cause 'invalid permissions'
+address 0xffb358f66b54, cause 'invalid permissions'
 
 Traceback:
  1: withCallingHandlers(expr, warning = function(w) if (inherits(w,     classes)) tryInvokeRestart("muffleWarning"))

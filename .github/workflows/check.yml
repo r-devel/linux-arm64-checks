@@ -88,7 +88,7 @@ jobs:
           diff <- sprintf("Package: %s\nCheck: %s%s%s\n", x$Package, x$Check, sprintf("\nAMD64: %s", x$Old), sprintf("\nARM64: %s", x$New))
           version <- readLines("output-arm64/version.txt")
           header <- sprintf("# ${{ inputs.package }} %s\n", version)
-          link <-  "Run: https://github.com/${{github.repository}}/actions/runs/${{ github.run_id }}\n"
+          link <-  sprintf("Latest run: %s: https://github.com/${{github.repository}}/actions/runs/${{ github.run_id }}\n", Sys.Date())
           text <- c(header, link, "```", diff, "```")
           writeLines(text, con = "changes.md")
         shell: Rscript {0}

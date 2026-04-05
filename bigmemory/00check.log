@@ -58,4 +58,5 @@ Packages which this enhances but not available for checking:
 * checking line endings in C/C++/Fortran sources/headers ... OK
 * checking compiled code ... NOTE
 Note: information on .o files is not available
-* checking examples ...\n!! HANG / FATAL / TIMEOUT !!
+* checking examples ...
+[FATAL TIMEOUT / HANG]

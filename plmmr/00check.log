@@ -68,4 +68,5 @@
 Note: information on .o files is not available
 * checking installed files from ‘inst/doc’ ... OK
 * checking files in ‘vignettes’ ... OK
-* checking examples ...\n!! HANG / FATAL / TIMEOUT !!
+* checking examples ...
+[FATAL TIMEOUT / HANG]

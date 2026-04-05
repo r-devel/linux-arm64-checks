@@ -1,6 +1,6 @@
 # mig 2.0
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23953493405
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23991948052
 
 ```
 Package: mig

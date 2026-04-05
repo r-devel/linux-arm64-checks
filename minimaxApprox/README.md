@@ -1,6 +1,6 @@
 # minimaxApprox 0.5.0
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23953522804
+Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23991962419
 
 ```
 Package: minimaxApprox
@@ -20,7 +20,7 @@ ARM64: ERROR
     test_shared.R.................   22 tests OK 
     test_shared.R.................   23 tests OK 
     test_shared.R.................   24 tests OK 
-    test_shared.R.................   25 tests OK 54ms
+    test_shared.R.................   25 tests OK 49ms
     ----- FAILED[xcpt]: test_MiniMaxApprox.R<136--136>
      call| expect_warning(minimaxApprox(fn, -1, 1, 21, opts = opts), wrnMess)
      diff| No warning was emitted

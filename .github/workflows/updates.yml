@@ -1,7 +1,7 @@
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '30 4 * * *'
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
 
 name: Update new CRAN packages
 
@@ -26,7 +26,7 @@ jobs:
       - name: Find updates
         timeout-minutes: 10
         run: |
-          df <- as.data.frame(available.packages(repos = 'https://p3m.dev/cran/latest'))
+          df <- as.data.frame(available.packages(repos = 'https://cloud.r-project.org'))
           newpkgs <- paste(df$Package, df$Version)
           oldpkgs <- readLines("cran.txt")
           changes <- sub(" .*", "", setdiff(newpkgs, oldpkgs))

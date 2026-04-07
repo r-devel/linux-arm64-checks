@@ -1471,7 +1471,7 @@ betaper 1.1-3
 betareg 3.2-4
 betaregscale 2.6.9
 betaSandwich 1.0.8
-betaselectr 0.1.3
+betaselectr 0.1.4
 betategarch 3.4
 bethel 0.2
 BETS 0.4.9
@@ -1557,7 +1557,7 @@ bigassertr 0.1.7
 bigBits 1.4
 bigD 0.3.1
 bigdatadist 1.1
-BigDataPE 0.0.96
+BigDataPE 0.1.0
 bigDM 0.5.7
 bigergm 1.2.6
 bigGP 0.1.9
@@ -3371,7 +3371,7 @@ CompositionalHDDA 1.0
 CompositionalML 1.0
 CompositionalNAimp 1.0
 CompositionalRF 1.6
-CompositionalSR 1.2
+CompositionalSR 1.3
 compositions 2.0-9
 compound.Cox 3.33
 CompoundEvents 1.0
@@ -4652,7 +4652,7 @@ dialr 0.4.2
 dialrjars 9.0.21
 dials 1.4.2
 diaplt 1.4.0
-diario 0.1.0
+diario 0.1.1
 diathor 0.1.5
 dibble 0.3.2
 dice 1.2
@@ -6767,7 +6767,7 @@ flashCard 0.1.0
 flashClust 1.1-4
 flashier 1.0.7
 flashlight 1.0.0
-FLASHMM 1.2.3
+FLASHMM 1.3.0
 flashr 0.3.0
 flassomsm 0.1.0
 flatr 0.1.1
@@ -11363,7 +11363,7 @@ mapindiatools 1.0.1
 Mapinguari 2.0.1
 mapiso 0.3.0
 maplamina 0.1.0
-maplegend 0.5.0
+maplegend 0.6.0
 mapme.biodiversity 0.9.5
 mapmisc 2.1.3
 mapmixture 1.2.0
@@ -18242,7 +18242,7 @@ RSGHB 1.2.2
 rshift 3.1.2
 rsi 0.3.2
 rsides 0.1
-RSiena 1.5.0
+RSiena 1.6.4
 rsimsum 0.13.0
 rsinaica 1.1.1
 rsixel 0.0.4
@@ -18695,7 +18695,7 @@ SaturnCoefficient 1.6
 SAutomata 0.1.0
 SAVER 1.1.2
 savonliquide 0.2.0
-savvyPR 0.1.0
+savvyPR 0.1.1
 savvyr 0.1.2
 savvySh 0.1.1
 sawnuti 0.1.1
@@ -19160,7 +19160,7 @@ serocalculator 1.4.1
 serofoi 1.0.3
 SerolyzeR 1.4.1
 seroreconstruct 1.1.5
-serosv 1.1.0
+serosv 1.3.0
 SeroTrackR 1.0.0
 serp 0.2.5
 serpstatr 0.4.0
@@ -19770,7 +19770,7 @@ slider 0.3.3
 slideview 0.2.1
 SlidingWindows 0.2.0
 slim 0.1.1
-SlimR 1.1.2
+SlimR 1.1.3
 slippymath 0.3.1
 slm 1.2.0
 SLModels 0.1.2
@@ -23430,7 +23430,7 @@ yaml12 0.1.0
 yamlet 1.3.4
 yamlme 0.1.2
 YangHuiMagic 1.1
-yardstick 1.3.2
+yardstick 1.4.0
 yarrr 0.1.14
 yasp 0.2.0
 yatah 1.0.0

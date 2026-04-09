@@ -155,8 +155,8 @@ adas.utils 1.4.0
 AdaSampling 1.3
 adass 1.0.1
 adbcdrivermanager 0.22.0-2
-adbcpostgresql 0.22.0
-adbcsqlite 0.22.0
+adbcpostgresql 0.23.0
+adbcsqlite 0.23.0
 adbi 0.1.2
 adc 1.0.0
 adcontabil 1.1.8
@@ -322,7 +322,7 @@ agriReg 0.1.0
 agriTutorial 0.1.5
 agriutilities 1.2.3
 agriwater 1.0.2
-agrmt 1.42.12
+agrmt 1.42.19
 agrobox 0.2.1
 AgroR 1.3.7
 AgroReg 1.2.11
@@ -2932,7 +2932,7 @@ CliftLRD 0.1-2
 climaemet 1.5.1
 ClimaRep 1.0
 climate 1.3.0
-climatehealth 1.0.0
+climatehealth 1.0.1
 climatekit 0.1.0
 climateStability 0.1.4
 climatol 4.4-0
@@ -5257,7 +5257,7 @@ dwp 1.2
 DWreg 3.0
 DyadiCarma 1.0.1
 dyadicMarkov 0.1.0
-DyadRatios 1.3
+DyadRatios 1.4
 dyads 1.2.1
 dycdtools 0.4.4
 dydea 0.1.0
@@ -5763,7 +5763,7 @@ enmSdmX 1.2.12
 ENMTools 1.1.5
 enpls 6.1.1
 EnrichIntersect 0.7
-enrichit 0.1.3
+enrichit 0.1.4
 enrichR 3.4
 enrichwith 0.4.0
 EnsCat 1.1
@@ -6378,6 +6378,7 @@ fastDummies 1.7.5
 fastei 0.0.0.12
 fasterize 1.1.0
 fasterRaster 8.4.1.1
+fastFGEE 0.1.0
 fastFMM 1.0.0
 fastfocal 0.1.3
 FastGaSP 0.6.3
@@ -8039,7 +8040,7 @@ GISSB 1.1
 GISTools 1.0-2
 gistr 0.9.0
 git2r 0.36.2
-git2rdata 0.5.1
+git2rdata 0.5.2
 git4r 0.1.2
 GitAI 0.1.3
 gitcreds 0.1.2
@@ -8331,6 +8332,7 @@ gprofiler2 0.2.4
 gps 1.2
 gps.track 1.0.0
 GPSCDF 0.1.1
+gpss 1.0.3
 GPTCM 1.1.3
 gptoolsStan 1.0.0
 gptr 0.7.0
@@ -8872,6 +8874,7 @@ hesim 0.5.8
 HEssRNA 1.0.1
 hetcorFS 1.0.1
 HeterFunctionalData 0.1.0
+heterocop 1.0.1
 heterogen 1.2.33
 heterometa 0.4
 heteromixgm 2.0.2
@@ -8911,7 +8914,7 @@ HGSL 1.0.0
 hgutils 0.2.19
 hgwrr 0.6-2
 HH 3.1-53
-hhdynamics 1.3.2
+hhdynamics 1.3.3
 hhh4contacts 0.13.4
 hhi 1.2.0
 hhmR 0.0.1.1
@@ -9215,7 +9218,7 @@ hyperoverlap 1.1.4
 hyperSpec 0.100.3
 hypertext 1.1.0
 hypervolume 3.1.6
-HYPEtools 1.6.6
+HYPEtools 1.6.7
 hypoRF 1.0.1
 hypothesis 1.1.0
 hypothesisr 0.1.1
@@ -11141,7 +11144,7 @@ lsbs 0.1
 LSD 4.1-0
 lsdbc 0.1.0
 LSDinterface 1.2.5
-LSDirf 0.1.3
+LSDirf 0.1.4
 LSDsensitivity 1.3.2
 LSE 1.0.0
 LSEbootLS 0.1.0
@@ -15511,7 +15514,7 @@ pql 0.1.0
 pqrBayes 1.2.1
 pqrfe 1.3
 pQTLdata 0.6
-PRA 0.3.0
+PRA 0.4.0
 praatpicture 1.7.0
 prabclus 2.3-5
 pracma 2.4.6
@@ -17550,7 +17553,7 @@ RISCA 1.0.7
 rise 1.0.4
 rIsing 0.1.0
 Risk 1.0
-risk.assessr 3.1.0
+risk.assessr 3.1.1
 riskclustr 0.4.1
 riskCommunicator 1.0.1
 riskdiff 0.3.0
@@ -17940,7 +17943,7 @@ ROCnReg 1.0-9
 rococo 1.1.10
 ROCpsych 1.4
 ROCR 1.0-12
-rocrateR 0.0.1
+rocrateR 0.1.0
 ROCS 1.4
 ROCSI 0.1.0
 ROCsurf 0.1.1
@@ -20566,6 +20569,7 @@ standardize 0.2.2
 standardlastprofile 1.1.0
 standartox 0.0.2
 standby 0.2.0
+standrecon 0.1.0
 StanHeaders 2.32.10
 staninside 0.0.4
 StanMoMo 1.2.0
@@ -21039,6 +21043,7 @@ SUSY 0.1.0
 SVAlignR 0.9.2
 sValues 0.1.8
 svars 1.3.12
+SVARtca 1.0.2
 svd 0.5.8
 svDialogs 1.1.2
 svDialogstcltk 1.0.1
@@ -22409,7 +22414,7 @@ uisapi 0.1.1
 uiucthemes 0.3.3
 uk2us 0.1.0
 ukbabynames 0.3.0
-ukbflow 0.3.3
+ukbflow 0.3.4
 ukbnmr 3.3.1
 ukc19 0.0.3
 UKFE 2.0.0
@@ -22656,7 +22661,7 @@ vaRiskScore 2.0.0
 varitas 0.0.2
 varjmcm 0.1.1
 varoc 1.0.0
-varPro 2.1.0
+varPro 3.0.0
 VarRedOpt 0.1.0
 VarReg 2.0
 vars 1.6-1

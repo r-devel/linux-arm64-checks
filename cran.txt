@@ -573,6 +573,7 @@ antaresEditObject 1.0.0
 antaresProcessing 0.18.3
 antaresRead 3.0.0
 antaresViz 0.18.3
+AntClassify 0.1.0
 anthro 1.1.0
 anthroplus 1.1.0
 AnthropMMD 4.1.0
@@ -629,6 +630,7 @@ APIS 2.0.8
 apisensr 2.0.0
 aplms 0.1.0
 aplore3 0.9
+AplosNCA 1.0.1
 aplot 0.2.9
 aplotExtra 0.0.4
 aplpack 1.3.5
@@ -2832,6 +2834,7 @@ CircNNTSRmult 0.1.0
 CircNNTSRSymmetric 0.1.0
 CircOutlier 3.2.3
 CircStats 0.2-7
+circuitscaper 0.1.0
 circular 0.5-2
 CircularDDM 0.1.0
 circularKDE 0.1.1
@@ -2914,7 +2917,7 @@ cleaR 0.0.4
 clespr 1.1.2
 clevr 0.1.2
 clhs 0.9.2
-cli 3.6.5
+cli 3.6.6
 cliapp 0.1.2
 CLIC 0.1
 clickableImageMap 1.0
@@ -4464,7 +4467,7 @@ deming 1.4-1
 DEmixR 0.1.1
 DemoDecomp 1.14.1
 demodelr 2.0.1
-demofit 0.1.1
+demofit 0.1.2
 demogR 0.6.0
 DemographicTable 0.2.3
 demography 2.0.1
@@ -5701,7 +5704,7 @@ EML 2.0.7
 emld 0.5.3
 EMLI 0.3.0
 EMMAgeo 0.9.9
-emmeans 2.0.2
+emmeans 2.0.3
 EMMIXgene 0.1.4
 EMMIXmfa 2.0.14
 EMMIXSSL 1.1.1
@@ -6290,7 +6293,7 @@ FactorAssumptions 2.0.1
 FactorCopula 0.9.3
 FactorCopulaModel 0.1.1
 factorEx 1.1.0
-factorH 0.5.0
+factorH 0.6.0
 FactorHet 1.0.0
 factormodel 1.0
 factorplot 1.3
@@ -6851,6 +6854,7 @@ flsa 1.5.5
 FLSSS 9.2.8
 Fluidigm 0.2
 fluidsynth 1.0.2
+fluorojip 0.1.1
 fluoSurv 1.0.0
 fluspect 1.0.0
 flux 0.3-0.1
@@ -7925,7 +7929,8 @@ ggsci 4.3.0
 ggscidca 0.2.8
 ggseg 2.1.0
 ggseg.formats 0.0.2
-ggseg3d 2.0.0
+ggseg.meshes 0.0.1
+ggseg3d 2.1.0
 ggsegmentedtotalbar 0.1.0
 ggsem 0.9.9
 ggseqlogo 0.2.2
@@ -9038,6 +9043,7 @@ hockeystick 0.8.6
 HodgesTools 1.0.0
 HOIFCar 1.1.1
 holi 0.1.1
+holideh 0.1.0
 holiglm 1.0.1
 holland 0.1.2-4
 hollr 1.0.0
@@ -9082,7 +9088,7 @@ hpcwld 0.6-5
 hpfilter 1.0.2
 hpiR 0.3.2
 HPLB 1.0.0
-HPZoneAPI 1.1.0
+HPZoneAPI 1.3.0
 HQM 2.1
 hqmisc 0.2-1
 hqreg 1.4-1
@@ -9900,6 +9906,7 @@ isni 1.3
 isnullptr 1.0.2
 Iso 0.0-21
 ISO11784Tools 1.2.0
+ISO6976.2016 0.1-0
 iso8601 0.1.2
 isoband 0.3.0
 isoboost 1.0.2
@@ -10006,7 +10013,6 @@ jaccard 0.1.2
 jackalope 1.1.6
 jackknifeR 2.0.0
 jackstrap 0.1.0
-jackstraw 1.3.17
 jacobi 3.1.1
 JacobiEigen 0.3-4
 jacpop 0.6
@@ -10028,7 +10034,7 @@ janus 1.0.0
 JapanAPIs 0.1.1
 japanstat 0.1.0
 jarbes 2.5.0
-JATSdecoder 1.3.0
+JATSdecoder 1.3.1
 JavaGD 0.6-6
 javateak 1.0
 Jaya 1.0.3
@@ -11474,6 +11480,7 @@ matchFeat 1.0
 MatchGATE 0.0.10
 Matching 4.10-15
 matchingMarkets 1.0-5
+MatchingPursuit 1.0.0
 matchingR 2.0.0
 MatchIt 4.7.2
 MatchLinReg 0.8.1
@@ -12071,6 +12078,7 @@ midastouch 1.3
 midfieldr 1.0.2
 midi 0.1.0
 MIDN 1.0
+midnight 0.2.0
 midoc 1.0.0
 midr 0.6.0
 midrangeMCP 3.1.3
@@ -12404,7 +12412,7 @@ mmabig 3.2-0
 MMAC 1.0
 MMAD 2.0.1
 mmand 1.6.3
-mmap 0.6-24
+mmap 0.6-26
 mmapcharr 0.3.1
 mmaqshiny 1.0.0
 mMARCH.AC 3.3.4.0
@@ -14342,7 +14350,7 @@ pairwise 0.6.2-0
 pairwiseCI 0.1-27
 pairwiseLLM 1.1.0
 paisaje 0.2.0
-pak 0.9.2
+pak 0.9.3
 PakPC2017 1.0.0
 PakPC2023 0.2.0
 PakPMICS2014Ch 0.1.0
@@ -14374,6 +14382,7 @@ paletteknife 0.4.2
 palettes 0.2.2
 palettesForR 0.1.2
 palettetown 0.1.1
+palimpsestr 0.10.0
 palinsol 1.0
 palm 1.1.6
 palmerpenguins 0.1.1
@@ -14471,7 +14480,7 @@ parseLatex 0.4.1
 parsermd 0.2.0
 parseRPDR 1.1.2
 parSim 0.3.1
-parsnip 1.4.1
+parsnip 1.5.0
 PartCensReg 1.39
 partDSA 0.9.14
 partialised 0.1.1
@@ -14732,7 +14741,7 @@ penalizedcdf 0.1.0
 penalizedclr 2.0.0
 penalizedSVM 1.2.0
 penaltyLearning 2024.9.3
-pencal 2.3.0
+pencal 2.3.1
 PenCoxFrail 2.0.1
 penetrance 0.1.2
 penfa 0.1.1
@@ -14822,7 +14831,7 @@ pewdata 0.3.2
 pexm 1.1.3
 pez 1.2-5
 pfica 0.1.3
-PFIM 7.0.2
+PFIM 7.0.3
 PFLR 1.1.0
 pfr 1.0.1
 PFW 0.1.0
@@ -16245,7 +16254,7 @@ queueing 0.2.12
 quickblock 0.2.2
 quickcheck 0.1.3
 quickcode 1.0.9
-QuickJSR 1.9.0
+QuickJSR 1.9.1
 quickmatch 0.2.3
 quickNmix 1.1.1
 quickOutlier 0.1.5
@@ -16613,6 +16622,7 @@ Rbent 0.1.0
 RBesT 1.9-0
 rBeta2009 1.0.1
 RBF 2.1.1
+rbfmvar 2.0.2
 rbgm 0.2.0
 rbi 1.0.1
 rbi.helpers 0.4.1
@@ -17322,7 +17332,7 @@ ReSurv 1.0.0
 retel 0.1.1
 rethinker 1.1.0
 rethnicity 0.2.7
-reticulate 1.45.0
+reticulate 1.46.0
 retimer 0.1.3
 retistruct 0.8.1
 retmort 1.0.0
@@ -17500,7 +17510,7 @@ ribiosMath 1.2.0
 ribiosPlot 1.3.0
 ribiosUtils 1.7.7
 ricci 0.1.1
-rice 2.0.1
+rice 2.1.0
 ricegeneann 1.0.2
 riceidconverter 1.1.1
 riceware 0.4
@@ -18065,7 +18075,7 @@ rpact 4.4.0
 Rpadrino 0.0.5
 rPAex 1.0.5
 rpaleoclim 1.1.0
-rpanel 1.1-6.1
+rpanel 1.1-6.3
 rPanglaoDB 0.2.1
 Rparadox 0.2.2
 rpart 4.1.27
@@ -18247,7 +18257,7 @@ Rsfar 0.0.1
 Rsgf 1.0.0
 RSGHB 1.2.2
 rshift 3.1.2
-rsi 0.3.2
+rsi 0.3.3
 rsides 0.1
 RSiena 1.6.4
 rsimsum 0.13.0
@@ -18331,7 +18341,7 @@ rsurface 1.1.0
 Rsurrogate 3.2
 rsurv 0.0.2
 RSurveillance 0.2.1
-rsurveycto 0.2.5
+rsurveycto 0.2.6
 rsurvstat 0.1.4
 rsvd 1.0.5
 rsvddpd 1.0.1
@@ -18387,7 +18397,7 @@ rtlr 0.1.0
 rTLS 0.2.6.1
 rTLsDeep 0.0.5
 RTMB 1.9
-RTMBdist 1.0.3
+RTMBdist 1.0.4
 rtmpinv 0.3.0
 rtmpinvi 0.2.0
 rtmpt 2.0-3
@@ -18766,6 +18776,7 @@ scbursts 1.6
 scCATCH 3.2.2
 sccca 0.1.1
 SCCI 1.2
+sccic 0.1.0
 scclust 0.2.5
 sccore 1.0.7
 sccr 2.1
@@ -18909,7 +18920,7 @@ sctransform 0.4.3
 scuba 1.11-1
 scutr 0.2.0
 SCVA 1.3.1
-sd2R 0.1.7
+sd2R 0.1.9
 sda 1.3.9
 SDaA 0.1-5
 sdafilter 1.0.1
@@ -19019,6 +19030,7 @@ sehrnett 0.1.0
 SEI 0.2.0
 seinfitR 1.0.1
 SEIRfansy 1.1.1
+seirMFG 0.1.0
 seismic 1.1
 seismicRoll 1.1.5
 sejmRP 1.3.4
@@ -19343,6 +19355,7 @@ shinycustomloader 0.9.0
 shinyCyJS 1.0.0
 shinydashboard 0.7.3
 shinydashboardPlus 2.0.6
+shinydataviewer 0.1.0
 shinyDatetimePickers 1.2.0
 shinydbauth 1.0.0.1
 shinydisconnect 0.1.1
@@ -20069,7 +20082,7 @@ spam 2.11-3
 spam64 2.10-0
 spaMM 4.6.65
 spanish 0.4.2
-spanishoddata 0.2.3
+spanishoddata 0.2.4
 spanner 1.0.4
 spANOVA 0.99.4
 spant 3.9.0
@@ -20964,6 +20977,7 @@ survcompare 0.3.0
 SurvCorr 1.1
 survCurve 1.0
 SurvDisc 0.1.1
+survdistr 0.0.3
 survdnn 0.7.5
 surveil 0.3.0
 surveillance 1.25.0
@@ -21204,7 +21218,7 @@ tableHTML 2.1.3
 tableMatrix 0.82.0
 TableMonster 1.7.8
 tableone 0.13.2
-tableParser 1.0.4
+tableParser 1.0.5
 tabler 0.1.0
 tablerDash 0.1.5
 tables 0.9.33
@@ -21653,7 +21667,7 @@ tidyjson 0.3.3.1
 tidyklips 0.3.0
 tidylaslog 0.1.2
 tidylda 0.0.7
-tidylearn 0.2.0
+tidylearn 0.3.0
 tidyllm 0.4.0
 tidylo 0.2.0
 tidylog 1.1.0
@@ -21919,7 +21933,7 @@ torchvisionlib 0.6.0
 TORDs 1.0.0
 tornado 0.1.3
 tosca 0.3-4
-toscca 0.1.1
+toscca 1.0
 toscmask 1.2.3
 toscutil 2.8.0
 TOSI 0.3.0
@@ -21955,6 +21969,7 @@ TPMplt 0.1.7
 TPmsm 1.2.15
 tpn 1.12
 tpr 0.3-3
+tptest 1.0.3
 tpwb 0.1.0
 TPXG 1.0
 tqk 0.1.8

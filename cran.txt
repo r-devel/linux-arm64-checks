@@ -1140,7 +1140,7 @@ basicdrm 0.3.2
 basicMCMCplots 0.2.7
 basicspace 0.25
 basictabler 1.0.4
-basifoR 0.4.1
+basifoR 0.7.7
 BASiNET 0.0.5
 BASiNETEntropy 0.99.6
 BaSkePro 1.1.1
@@ -20548,7 +20548,7 @@ Sstack 1.0.1
 sstn 1.0.0
 sstvars 1.2.3
 ssutil 1.0.0
-SSVS 2.1.0
+SSVS 2.2.0
 ssw 0.2.1
 ssym 1.5.8
 st 1.2.7

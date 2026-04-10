@@ -291,7 +291,7 @@ afttest 4.5.3
 ag5Tools 0.0.3
 agcounts 0.6.6
 AGD 0.45.0
-AgeBandDecomposition 2.0.0
+AgeBandDecomposition 2.0.1
 ageg 1.0.0
 agena.ai 1.1.2
 AgePopDenom 1.2.3
@@ -384,6 +384,7 @@ akc 0.9.9.3
 Ake 1.0.2
 akiFlagger 0.3.0
 akima 0.6-3.6
+akin 0.1.4
 akmbiclust 0.1.0
 alabama 2025.1.0
 alakazam 1.4.2
@@ -3677,6 +3678,7 @@ countfitteR 1.5
 countgmifs 0.0.2
 countHMM 0.1.0
 countland 0.1.2
+countmaskr 0.1.1
 countprop 1.1.1
 Countr 3.6.1
 countries 1.2.2
@@ -4039,7 +4041,6 @@ CurricularComplexityData 0.1.0
 currr 0.1.2
 curry 0.1.1
 cursr 0.1.0
-curstatCI 0.1.1
 curtailment 0.2.6
 curveDepth 0.1.0.16
 curvHDR 1.2-2
@@ -5908,7 +5909,7 @@ equatags 0.2.2
 equate 2.0.9
 equateIRT 2.5.2
 equateMultiple 1.1.3
-equatiomatic 0.4.4
+equatiomatic 0.4.8
 equiBSPD 0.1.0
 equil2 1.0.0
 EquiSurv 0.1.0
@@ -8919,6 +8920,7 @@ HGSL 1.0.0
 hgutils 0.2.19
 hgwrr 0.6-2
 HH 3.1-53
+HHBayes 0.1.1
 hhdynamics 1.3.3
 hhh4contacts 0.13.4
 hhi 1.2.0
@@ -12720,6 +12722,7 @@ MRFcov 1.0.39
 mrfDepth 1.0.17
 mrfse 0.4.2
 MRG 0.3.25
+MRgrowth 0.1.2
 mrgsim.parallel 0.3.0
 mrgsim.sa 0.3.0
 mrgsolve 1.7.2
@@ -13228,6 +13231,7 @@ ncdfgeom 1.1.6
 ncf 1.3-3
 ncmeta 0.4.0
 NCmisc 1.3.1
+ncmR 0.1.0
 ncodeR 0.2.0.1
 NCSampling 1.0
 NCSCopula 1.0.1
@@ -13632,7 +13636,7 @@ NormExpression 0.1.1
 normfluodbf 2.0.3
 norMmix 0.2-0
 NormPsy 1.0.8
-normref 0.0.0.1
+normref 0.1.1
 norSTR 0.2.1
 nortest 1.0-4
 nortestARMA 1.0.2
@@ -14931,6 +14935,7 @@ photobiologySensors 0.5.3
 photobiologySun 0.5.1
 photobiologyWavebands 0.5.4
 PhotoGEA 1.4.0
+photon 1.0.0-1
 PhotosynQ 0.2.3
 photosynthesis 2.1.5
 photosynthesisLRC 1.0.6
@@ -15961,7 +15966,7 @@ purgeR 1.8.2
 purging 1.0.0
 PurpleAir 1.1.0
 PurpleAirAPI 0.1.0
-purrr 1.2.1
+purrr 1.2.2
 purrrlyr 0.0.10
 Pursuit 1.0.9
 pushbar 0.1.0
@@ -19040,6 +19045,7 @@ Select 1.5
 selectapref 0.1.2
 SelectBoost 2.3.0
 SelectBoost.beta 0.4.5
+SelectBoost.FDA 0.5.0
 SelectBoost.gamlss 0.2.2
 selection.index 2.0.1
 SelectionBias 2.1.0
@@ -19312,7 +19318,7 @@ shelltrace 3.5.1
 shelter 0.2.1
 sherlock 0.7.0
 SherlockHolmes 1.0.2
-shidashi 0.1.8
+shidashi 0.2.0
 shide 0.3.0
 ShiftConvolvePoibin 1.0.0
 shiftR 1.5
@@ -20624,6 +20630,7 @@ STATcubeR 1.0.0
 StatDA 1.7.11
 StatDataML 1.0-27
 statdecideR 0.1.6
+StatDeriveR 0.1.0
 statebins 1.4.0
 StateLevelForest 0.1.0
 states 0.3.3
@@ -21344,7 +21351,7 @@ td 0.0.6
 TDA 1.9.4
 TDAkit 0.1.3
 TDApplied 3.0.4
-tdarec 0.2.0
+tdarec 0.2.1
 TDAstats 0.4.2
 tdata 0.3.0
 tdaunif 0.2.0
@@ -23052,7 +23059,7 @@ wbs 1.4.1
 wbsd 1.0.0
 wbstats 1.1
 wbsts 2.1
-wbwdi 1.0.3
+wbwdi 1.0.4
 wcde 0.0.8
 WCE 1.0.4
 wcep 1.0.3

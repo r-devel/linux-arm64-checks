@@ -925,7 +925,7 @@ autoFRK 1.4.4
 autogam 0.1.0
 autoGO 1.0.3
 autograph 1.0.0
-autoharp 0.3.1
+autoharp 0.3.2
 autohrf 1.1.3
 autoimage 2.2.3
 autoimport 0.1.1
@@ -4062,7 +4062,7 @@ CutpointsOEHR 0.1.2
 cv 2.0.4
 cvap 0.1.6
 cvar 0.6
-cvasi 1.5.0
+cvasi 1.5.1
 cvAUC 1.1.4
 cvCovEst 1.2.2
 cvcrand 0.1.1
@@ -5337,7 +5337,7 @@ easybio 1.2.3
 easycensus 1.1.3
 easyclimate 0.2.2
 easyCODA 0.40.2
-easyComment 2.0.0
+easyComment 2.1.0
 easydb 1.1.0
 easyDes 6.0
 EasyDescribe 0.1.2
@@ -5893,7 +5893,7 @@ epubr 0.6.5
 EPX 1.0.4
 epxToR 0.4-1
 eq5d 0.16.3
-eq5dsuite 1.0.2
+eq5dsuite 1.0.3
 EQL 1.0-1
 EQRN 0.1.2
 eqtesting 0.1.1
@@ -10426,7 +10426,7 @@ ksrlive 1.0
 kssa 0.0.5
 kst 0.5-5
 kStatistics 2.1.1
-kstIO 0.5-0
+kstIO 0.5-1
 kstMatrix 2.3-1
 ktaucenters 1.0.0
 KTensorGraphs 1.1
@@ -12402,7 +12402,7 @@ mlts 2.0.1
 mlVAR 0.6.1
 MLwrap 0.3.0
 MLZ 0.1.5
-MM 1.6-8
+MM 1.7-0
 MM2Sdata 1.0.3
 MM4LMM 3.0.3
 mma 10.8-1
@@ -14098,6 +14098,7 @@ OptimalTiming 0.1.0
 OptimaRegion 1.2
 optimbase 1.0-10
 optimCheck 1.0.1
+optimflex 0.1.6
 optimg 0.1.2
 optimization 1.0-9
 optimizeR 1.2.1
@@ -14392,7 +14393,7 @@ PaLMr 0.2.0
 palmtree 0.9-1
 palr 0.4.0
 pals 1.10
-pam 2.0.2
+pam 2.1.0
 PamBinaries 1.9.3
 PAmeasures 0.1.0
 PAMhm 0.1.2
@@ -14776,7 +14777,7 @@ percentiles 0.2.3
 PerFit 1.4.7
 PerfMeas 1.2.5
 performance 0.16.0
-PerformanceAnalytics 2.0.8
+PerformanceAnalytics 2.1.0
 peRiodiCS 0.5.0
 PeriodicTable 0.1.2
 periscope 1.0.4
@@ -15513,7 +15514,7 @@ pprof 1.0.3
 pps 1.0
 ppsbm 1.0.0
 ppseq 0.2.5
-PPSFS 0.1.1
+PPSFS 0.1.3
 ppsr 0.0.5
 PPTcirc 0.2.3
 PPtreeExt 0.1.0
@@ -17793,7 +17794,7 @@ RMVL 1.1.0.2
 rMVP 1.4.6
 rmweather 0.2.63
 RMX 0.1-6
-RMySQL 0.11.2
+RMySQL 0.11.3
 rmytarget 2.4.0
 rmzqc 0.7.0
 rnaCrosslinkOO 0.1.4

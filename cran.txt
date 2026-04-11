@@ -4249,7 +4249,7 @@ DatastreamDSWS2R 1.9.12
 DatastreamR 2.0.4
 DATAstudio 1.2.3
 DataSum 0.1.1
-dataverifyr 0.1.8
+dataverifyr 0.1.11
 dataverse 0.3.16
 dataviewR 1.1.0
 DataVisualizations 1.4.0
@@ -8954,7 +8954,7 @@ highfrequency 1.0.3
 highlight 0.5.2
 highlighter 0.1
 highlightHTML 0.2.5
-highlightr 1.2.0
+highlightr 2.0.0
 highmean 3.0
 highMLR 0.1.1
 highOrderPortfolios 0.1.1
@@ -9431,7 +9431,7 @@ igate 0.3.3
 IGC.CSM 0.3.1
 igcop 1.0.2
 igfetchr 0.1.0
-iglm 1.2.2
+iglm 1.2.3
 iglu 4.2.2
 igoR 1.0.1
 IgorR 0.9.0
@@ -10227,7 +10227,7 @@ kdecopula 0.9.3
 KDEmcmc 0.0.2
 kdensity 1.1.1
 kdevine 0.4.6
-kDGLM 1.2.12
+kDGLM 1.2.14
 kdist 0.2
 kdml 1.1.1
 kdps 1.0.0
@@ -18186,7 +18186,7 @@ rredlist 1.1.1
 RRedshiftSQL 0.1.2
 rrefine 2.1.0
 rreg 0.2.1
-rregm 1.0
+rregm 1.1
 rrepast 0.8.0
 Rrepest 1.6.12
 rres 1.1
@@ -20321,7 +20321,7 @@ sphet 2.1-1
 sphunif 1.4.3
 SpiceFP 0.1.2
 SPIChanges 0.2.1
-spicy 0.7.0
+spicy 0.8.0
 spider 1.5.2
 spiderbar 0.2.5
 spidR 1.0.2
@@ -22053,7 +22053,7 @@ transPlotR 0.0.2
 transport 0.15-4
 transportr 0.1.0
 TransProR 1.0.7
-transreg 1.0.5
+transreg 1.0.6
 tranSurv 1.2.4
 transx 0.0.1
 trapezoid 2.0-2

@@ -384,7 +384,7 @@ akc 0.9.9.3
 Ake 1.0.2
 akiFlagger 0.3.0
 akima 0.6-3.6
-akin 0.1.4
+akin 0.2.0
 akmbiclust 0.1.0
 alabama 2025.1.0
 alakazam 1.4.2
@@ -1180,7 +1180,6 @@ BayesARIMAX 0.1.1
 BayesAT 0.1.0
 BayesBEKK 0.1.1
 BayesBinMix 1.4.1
-bayesbio 1.0.0
 bayesboot 0.2.3
 BayesBP 1.1
 BayesBrainMap 0.2.0
@@ -2020,7 +2019,6 @@ brant 0.3-0
 braQCA 1.4.11.27
 brar 0.1
 brassica 1.0.2
-bratteli 1.0.0
 bravo 3.2.2
 BrazilCrime 0.3.0
 BrazilDataAPI 0.2.0
@@ -2475,7 +2473,6 @@ CC 1.0
 CCA 1.2.2
 CCAMLRGIS 4.3.1
 ccaPP 0.3.5
-ccar3 0.1.0
 cccd 1.6
 cccm 0.1.0
 cccp 0.3-3
@@ -4006,7 +4003,6 @@ ctv 0.9-7
 CTxCC 0.4.0
 ctxR 1.1.3
 ctypesio 0.1.3
-cuadramelo 1.0.0
 CUB 1.1.5
 cubar 1.2.0
 cubature 2.1.4-1
@@ -4200,7 +4196,6 @@ datacutr 0.2.4
 datadictionary 1.0.1
 datadiff 0.4.4
 datadogr 0.1.2
-datadriftR 1.0.0
 DataEditR 1.0.0
 DataExplorer 0.9.0
 dataframeexplorer 1.0.2
@@ -4655,7 +4650,7 @@ DiagrammeRsvg 0.1
 DiallelAnalysisR 0.6.0
 dialr 0.4.2
 dialrjars 9.0.21
-dials 1.4.2
+dials 1.4.3
 diaplt 1.4.0
 diario 0.1.1
 diathor 0.1.5
@@ -4664,7 +4659,6 @@ dice 1.2
 DiceDesign 1.10
 DiceEval 1.6.1
 DiceKriging 1.6.1
-DICEM 0.1.0
 DiceOptim 2.1.2
 diceplot 0.2.2
 diceR 3.1.0
@@ -4968,7 +4962,6 @@ docstring 1.0.0
 doctest 0.4.0
 document 4.0.1
 documenter 0.1.3
-docuSignr 0.0.3
 docxtractr 0.6.5
 dodgr 0.4.3
 DoE.base 1.2-5
@@ -4997,7 +4990,6 @@ doParabar 1.0.2
 doParallel 1.0.17
 DOPE 2.1.0
 doRedis 3.0.3
-doremi 1.0.0
 dormancy 0.1.0
 doRNG 1.8.6.3
 DOS 1.0.0
@@ -5502,7 +5494,6 @@ edecob 1.2.2
 edf 1.0.0
 edfinr 0.1.1
 edfReader 1.2.1
-edfun 0.2.0
 edgar 2.0.8
 edgarfundamentals 0.1.2
 edgarWebR 1.1.0
@@ -6858,7 +6849,7 @@ fluoSurv 1.0.0
 fluspect 1.0.0
 flux 0.3-0.1
 fluxfinder 1.2.2
-fluxfixer 1.0.0
+fluxfixer 1.1.0
 fluxible 1.3.6
 FluxPoint 0.1.2
 FluxSeparator 1.0.1
@@ -7569,7 +7560,6 @@ GenOrd 2.0.0
 GenoTriplo 1.1.3
 GenOU 0.2.1
 genpathmox 1.1
-genpwr 1.0.4
 genridge 0.8.0
 GenSA 1.1.15
 genscore 1.0.2.2
@@ -7597,7 +7587,7 @@ geocmeans 0.3.4
 geocodebr 0.6.1
 geocomplexity 0.3.0
 geodaData 0.1.0
-geodata 0.6-6
+geodata 0.6-9
 geodetector 1.0-5
 geodimension 2.0.0
 geodist 0.1.1
@@ -8848,7 +8838,6 @@ heckmanGE 1.0.0
 HeckmanStan 1.0.0
 HEDA 0.1.5
 heddlr 0.6.0
-hedgedrf 1.0.1
 hedgehog 0.2
 heemod 1.1.0
 heimdall 1.2.727
@@ -10198,7 +10187,6 @@ kamila 0.1.2
 kangar00 1.4.2
 kanjistat 0.14.2
 kanova 0.3-20
-kantorovich 3.2.0
 kaos 0.1.2
 kaphom 0.3
 kappaGold 0.4.0
@@ -12311,7 +12299,6 @@ mldr.datasets 0.4.2
 mldr.resampling 0.2.3
 MLDS 0.5.1
 MLE 1.7
-mle.tools 1.0.0
 mlearning 1.2.1
 MLEce 2.1.0
 MLEcens 0.1-7.1
@@ -13927,7 +13914,6 @@ OmicsQC 1.1.1
 omicsTools 1.1.7
 omicwas 0.8.0
 Omisc 0.1.5
-omixVizR 1.4.0
 omnibus 1.2.15
 OmnibusFisher 1.0
 omock 0.6.2
@@ -14393,7 +14379,7 @@ PaLMr 0.2.0
 palmtree 0.9-1
 palr 0.4.0
 pals 1.10
-pam 2.1.0
+pam 2.1.1
 PamBinaries 1.9.3
 PAmeasures 0.1.0
 PAMhm 0.1.2
@@ -14670,7 +14656,7 @@ pdfetch 0.3.3
 pdfminer 1.0
 pdfsearch 0.4.3
 pdftables 0.1
-pdftools 3.7.0
+pdftools 3.8.0
 pdi 0.4.2
 PDIndex 0.1.0
 pdist 1.2.1
@@ -15026,7 +15012,6 @@ PINSPlus 2.0.9
 PINstimation 0.2.0
 pinterestadsR 0.1.0
 pintervals 1.1.1
-pinyin 1.1.6
 pioneeR 0.5.0
 pipe.design 0.5.1
 pipebind 0.1.2
@@ -18232,7 +18217,6 @@ RSCAT 1.1.3
 rscc 0.2.1
 RScelestial 1.0.4
 RSclient 0.7-12
-Rsconctdply 0.1.3
 rsconnect 1.8.0
 rscontract 0.1.2
 rscopus 0.9.0
@@ -18750,7 +18734,7 @@ sca 0.9-2
 scagnostics 0.2-6
 scalablebayesm 0.2
 scaleAlign 1.0.0.0
-scaledescr 0.2.3
+scaledescr 0.2.4
 Scalelink 1.0-2
 scales 1.4.0
 ScaleSpikeSlab 1.0
@@ -20547,7 +20531,7 @@ SSRTcalc 0.3.3
 sss 0.2.2
 SSsimple 0.6.6
 Sstack 1.0.1
-sstn 1.0.0
+sstn 1.0.1
 sstvars 1.2.3
 ssutil 1.0.0
 SSVS 2.2.0
@@ -22624,7 +22608,6 @@ vaccine 1.3.1
 vaccineff 1.0.1
 vachette 0.40.1
 vacuum 0.1.0
-vader 0.2.1
 vaersNDvax 1.0.4
 vaersvax 1.0.5
 vagalumeR 0.1.6

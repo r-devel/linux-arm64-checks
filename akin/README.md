@@ -1,6 +1,6 @@
-# akin 0.1.4
+# akin 0.2.0
 
-Latest run: 2026-04-10: https://github.com/r-devel/linux-arm64-checks/actions/runs/24259875476
+Latest run: 2026-04-11: https://github.com/r-devel/linux-arm64-checks/actions/runs/24289515737
 
 ```
 Package: akin

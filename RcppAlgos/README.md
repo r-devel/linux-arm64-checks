@@ -1,6 +1,6 @@
 # RcppAlgos 2.10.0
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23991784407
+Latest run: 2026-04-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/24296318836
 
 ```
 Package: RcppAlgos

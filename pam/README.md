@@ -1,6 +1,6 @@
 # pam 2.1.1
 
-Latest run: 2026-04-11: https://github.com/r-devel/linux-arm64-checks/actions/runs/24289527713
+Latest run: 2026-04-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/24296587481
 
 ```
 Package: pam

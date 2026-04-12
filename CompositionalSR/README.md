@@ -1,6 +1,6 @@
 # CompositionalSR 1.3
 
-Latest run: 2026-04-07: https://github.com/r-devel/linux-arm64-checks/actions/runs/24101358360
+Latest run: 2026-04-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/24296179489
 
 ```
 Package: CompositionalSR

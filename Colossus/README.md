@@ -1,6 +1,6 @@
 # Colossus 1.4.10
 
-Run: https://github.com/r-devel/linux-arm64-checks/actions/runs/23991649832
+Latest run: 2026-04-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/24296164660
 
 ```
 Package: Colossus

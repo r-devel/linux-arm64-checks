@@ -13304,7 +13304,7 @@ netplot 0.3-0
 NetPreProc 1.2
 netrankr 1.2.4
 netregR 1.0.1
-NetRep 1.2.9
+NetRep 1.2.10
 netrics 0.2.1
 netropy 0.2.0
 NetSci 1.0.1
@@ -21912,7 +21912,7 @@ topologyR 0.2.0
 topolow 2.0.1
 toporanga 1.0.0
 toposort 1.0.0
-topr 2.0.2
+topr 2.0.3
 toprdata 1.0.2
 topsis 1.0
 TopSisWM 1.0.3
@@ -22424,7 +22424,7 @@ uiucthemes 0.3.3
 uk2us 0.1.0
 ukbabynames 0.3.0
 ukbflow 0.3.4
-ukbnmr 3.3.1
+ukbnmr 3.3.2
 ukc19 0.0.3
 UKFE 2.0.0
 ukgasapi 0.21
@@ -22600,7 +22600,7 @@ uwedragon 0.1.0
 UWHAM 1.1
 uwot 0.2.4
 uxr 0.2.0
-V8 8.0.1
+V8 8.1.0
 vacalibration 2.2
 vaccinationimpact 0.1.0
 vaccine 1.3.1

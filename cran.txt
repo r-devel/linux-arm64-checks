@@ -353,7 +353,7 @@ aihuman 1.0.1
 aimPlot 1.0.0
 aimsir17 0.0.2
 aion 1.7.0
-AIPW 0.6.9.2
+AIPW 0.6.9.3
 air 0.2.3
 aire.zmvm 1.0.1
 AirExposure 1.0
@@ -702,7 +702,7 @@ archiDART 3.4
 archipelago 0.1.0
 ArchipelagoEngine 0.1.1
 ARCHISSUR 0.0.1
-archive 1.1.12.1
+archive 1.1.13
 archiveRetriever 0.4.1
 archivist 2.3.9
 ArCo 0.3-1
@@ -3156,7 +3156,7 @@ cocron 1.0-1
 coda 0.19-4.1
 coda.base 1.0.5
 coda.pack 0.1.2
-coda.plot 0.2.1
+coda.plot 0.2.2
 coda4microbiome 0.2.4
 codacore 0.0.4
 CoDaImpact 0.1.0
@@ -5750,7 +5750,7 @@ english 1.2-6
 EngrEcon 1.0.0
 engression 0.1.5
 EngrExpt 0.1-8
-enhancer 1.1.0
+enhancer 1.1.1
 ENMeval 2.0.5.2
 enmpa 0.2.3
 enmSdmX 1.2.12
@@ -9103,7 +9103,6 @@ HSEtest 0.1.0
 hsphase 3.0.0
 hspm 1.1
 HSPOR 1.1.9
-hsrecombi 1.1.0
 hsstan 0.8.2
 hstats 1.2.2
 htestClust 0.2.2
@@ -11955,7 +11954,7 @@ mfp 1.5.5.1
 mfp2 1.0.1
 MFPCA 1.3-11
 mfpp 0.0.9
-mfrmr 0.1.4
+mfrmr 0.1.5
 MFSD 0.1.0
 MFSIS 0.3.0
 MFT 2.0
@@ -17199,7 +17198,7 @@ REndo 2.4.11
 Renext 3.1-5
 renpow 0.1-1
 rentrez 1.2.4
-renv 1.2.0
+renv 1.2.1
 Renvlp 3.4.5
 RenvModule 1.1
 RenyiExtropy 0.4.0
@@ -18596,7 +18595,7 @@ salem 1.0.1
 SALES 1.0.2
 salesforcer 1.0.2
 salmonMSE 1.0.0
-salso 0.3.69
+salso 0.3.77
 SALTSampler 1.1.0
 salty 0.1.2
 SAM 1.3
@@ -19094,7 +19093,7 @@ semtree 0.9.23
 semver 0.2.1
 sendgridr 0.6.1
 sendigR 1.0.0
-sendmailR 1.4-0
+sendmailR 1.4-1
 sense 1.1.0
 sensemakr 0.1.6
 senseR 0.1.0

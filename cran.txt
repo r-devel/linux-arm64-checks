@@ -820,7 +820,7 @@ aspect 1.0-7
 aspi 0.2.0
 aspline 0.2.0
 aSPU 1.50
-asremlPlus 4.4.55
+asremlPlus 4.4.58
 ASRgenomics 1.1.5
 ASSA 2.0
 assemblykor 0.1.1
@@ -5822,7 +5822,7 @@ epiDisplay 3.7.0.0
 epidm 1.0.6
 EpiDynamics 0.3.1
 EpiEstim 2.2-5
-epifitter 0.3.0
+epifitter 1.0.0
 epiflows 0.2.2
 EpiForsk 0.2.2
 epigraphdb 0.2.3
@@ -9047,7 +9047,7 @@ homnormal 0.1
 homologene 1.4.68.19.3.27
 homomorpheR 0.3
 HomomorphicEncryption 0.9.0
-HonestDiD 0.2.7
+HonestDiD 0.2.8
 hoopR 3.0.0
 hopbyhop 3.41
 hopit 0.11.6
@@ -9103,6 +9103,7 @@ HSEtest 0.1.0
 hsphase 3.0.0
 hspm 1.1
 HSPOR 1.1.9
+hsrecombi 1.1.1
 hsstan 0.8.2
 hstats 1.2.2
 htestClust 0.2.2
@@ -10874,7 +10875,7 @@ LitFetchR 0.2.1
 litRiddle 1.0.0
 litteR 1.0.2
 litterfitter 0.1.4
-littler 0.3.22
+littler 0.3.23
 liureg 1.1.2
 live 1.5.13
 liver 1.28
@@ -12395,7 +12396,7 @@ mma 10.8-1
 mmabig 3.2-0
 MMAC 1.0
 MMAD 2.0.1
-mmand 1.6.3
+mmand 1.7.0
 mmap 0.6-26
 mmapcharr 0.3.1
 mmaqshiny 1.0.0
@@ -13548,7 +13549,7 @@ NNMIS 1.0.1
 NNMoMo 0.1.0
 nnR 0.1.0
 NNS 12.0
-nnsolve 0.0.1
+nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
 nnTensor 1.3.0
@@ -20949,7 +20950,7 @@ surreal 0.0.2
 Surrogate 3.4.1
 SurrogateBMA 1.0
 SurrogateOutcome 1.2
-SurrogateParadoxTest 2.0
+SurrogateParadoxTest 2.2
 SurrogateRank 2.2
 SurrogateRegression 0.6.0.1
 SurrogateSeq 1.1
@@ -22291,7 +22292,7 @@ ttTensor 1.0.2
 tttplot 1.1.1
 ttutils 1.0-1.1
 tuber 1.4.0
-tubern 0.2.1
+tubern 0.5.0
 tuckerR.mmgg 1.5.1
 TUFLOWR 0.1.1
 tufte 0.14.0
@@ -23130,7 +23131,7 @@ welchADF 0.3.2
 welo 0.1.4
 WeMix 4.0.3
 wesanderson 0.3.7
-Westerlund 0.1.2
+Westerlund 0.1.3
 wevid 0.6.2
 wex 0.1.1
 weyl 0.0-7

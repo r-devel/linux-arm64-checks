@@ -1670,7 +1670,7 @@ Bioi 0.2.10
 bioimagetools 1.1.9
 bioinactivation 1.3.1
 BioInsight 0.3.1
-bioLeak 0.3.5
+bioLeak 0.3.6
 biolink 0.1.8
 biologicalActivityIndices 0.1.0
 BioM2 1.1.3
@@ -3504,7 +3504,7 @@ ContaminatedMixt 1.3.8
 contdid 0.1.0
 contentanalysis 1.0.0
 contentid 0.0.19
-conText 3.0.0
+conText 3.0.1
 contextFind 1.0.1
 contfrac 1.1-12
 contFracR 1.2.1
@@ -7067,7 +7067,7 @@ frbs 3.2-0
 FRCC 1.1.0
 FRCI 0.1.0
 frechet 0.3.0
-fred 0.1.2
+fred 0.2.0
 fredr 2.1.0
 free 1.0.2
 freealg 1.1-8
@@ -8068,7 +8068,7 @@ GlarmaVarSel 1.0
 glassdoor 0.9.0
 glasso 1.11
 glassoFast 1.0.1
-glasstabs 0.1.1
+glasstabs 0.2.1
 glba 0.2.1
 glca 1.4.2
 glcm 1.6.6
@@ -8226,7 +8226,7 @@ gofcat 0.1.2
 GofCens 1.5
 GOFclustering 1.0.4
 gofCopula 0.4-3
-gofedf 1.0.0
+gofedf 1.1.0
 goffda 0.1.2
 gofgamma 1.0
 gofIG 1.0
@@ -13772,7 +13772,7 @@ nvctr 0.1.7
 nvmix 0.1-2
 nycflights13 1.0.2
 nycflights23 0.2.0
-nycOpenData 0.1.6
+nycOpenData 0.2.1
 nysOpenData 0.1.1
 nzffdr 2.1.0
 nzilbb.labbcat 1.5-1
@@ -14690,7 +14690,7 @@ PearsonICA 1.2-5
 PEAXAI 1.0.0
 pec 2025.06.24
 pecan 0.1.0
-pecanr 0.1.2
+pecanr 0.2.0
 pecora 0.1.2
 pECV 1.0.1
 pedalfast.data 1.0.2

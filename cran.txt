@@ -374,7 +374,7 @@ AirScreen 0.1.0
 airship 1.4.3
 airt 0.2.2
 aiRthermo 1.2.2
-AIscreenR 0.2.0
+AIscreenR 0.3.0
 aisdk 1.1.0
 aisoph 0.4
 AIUQ 0.5.3
@@ -1273,7 +1273,7 @@ bayespmtools 0.0.1
 bayesPO 0.5.0
 bayesPop 12.0-1
 BayesPostEst 0.4.0
-BayesPower 1.0.3
+BayesPower 1.0.4
 BayesPPD 1.1.3
 BayesPPDSurv 1.0.3
 BayesProject 1.0
@@ -2103,6 +2103,7 @@ BSL 3.2.5
 bslib 0.10.0
 BsMD 2023.920
 bsnsing 1.0.1
+bsocialv2 0.1.1
 BSPADATA 1.1.0
 BSPBSS 1.0.6
 bspcov 1.0.3
@@ -9146,7 +9147,7 @@ hubEnsembles 1.0.0
 hubUtils 1.2.0
 hudr 1.2.0
 hues 0.2.0
-huge 1.5.1
+huge 1.6
 huito 0.2.6
 HUM 2.0
 humanFormat 1.2
@@ -11189,6 +11190,7 @@ lucas 1.0
 lucid 1.11
 lucidr 0.1.0
 LUCIDus 3.1.0
+luckieR 0.1.0
 ludic 0.2.1
 lue 0.2.1
 lulab.utils 1.0.0
@@ -12959,7 +12961,7 @@ MultiRobust 1.0.5
 multiROC 1.1.1
 multiSA 0.1.1
 MultiscaleDTM 1.0.1
-multiScaleR 0.5.0
+multiScaleR 0.6.6
 MultiscaleSCP 0.1.1
 multiselect 0.1.0
 multisensi 2.1-1
@@ -13882,7 +13884,7 @@ ohenery 0.1.4
 Ohit 1.0.0
 oHMMed 1.0.2
 ohoegdm 0.1.1
-OHPL 1.4.1
+OHPL 1.4.2
 ohsome 0.2.2
 ohun 1.0.4
 ohvbd 1.0.1
@@ -15567,6 +15569,7 @@ prefeR 0.1.3
 preference 1.1.6
 prefio 0.2.0
 prefmod 0.8-37
+prefviz 0.1.1
 pregnancy 0.2.1
 PreKnitPostHTMLRender 0.1.0
 PReMiuM 3.2.13
@@ -16037,7 +16040,7 @@ qccrs 0.1.0
 QCEWAS 1.2-3
 QCGWAS 1.0-9
 qch 2.1.2
-qcluster 1.2.1
+qcluster 2.0.0
 qcpm 0.4
 qcQpcr 1.5
 qcr 1.4
@@ -17775,7 +17778,7 @@ RMTstat 0.3.1
 rMultiNet 0.1
 rmumps 5.2.1-41
 rmutil 1.1.10
-RMVL 1.1.0.2
+RMVL 1.1.0.3
 rMVP 1.4.6
 rmweather 0.2.63
 RMX 0.1-6
@@ -19032,6 +19035,7 @@ SelectBoost 2.3.0
 SelectBoost.beta 0.4.5
 SelectBoost.FDA 0.5.0
 SelectBoost.gamlss 0.2.2
+SelectBoost.quantile 0.3.1
 selection.index 2.0.1
 SelectionBias 2.1.0
 selectiongain 2.0.710
@@ -19364,7 +19368,7 @@ shinyfilters 0.3.0
 shinyfullscreen 1.1.0
 shinyGizmo 0.5.0
 shinyglide 0.1.4
-shinyGovstyle 0.1.1
+shinyGovstyle 0.2.0
 shinyHeatmaply 0.2.0
 shinyhelper 0.3.2
 shinyhttr 1.1.0
@@ -19926,6 +19930,7 @@ snowFT 1.6-1
 snowquery 1.3.0
 snpAIMeR 2.1.1
 SNPannotator 1.4.6
+SNPassoc 2.3.1
 SNPfiltR 1.0.7
 snplinkage 1.2.0
 snplist 0.18.3
@@ -21914,7 +21919,7 @@ topologyR 0.2.0
 topolow 2.0.1
 toporanga 1.0.0
 toposort 1.0.0
-topr 2.0.3
+topr 2.0.4
 toprdata 1.0.2
 topsis 1.0
 TopSisWM 1.0.3
@@ -22961,7 +22966,7 @@ vwline 0.2-4
 VWPre 1.2.5
 vws 0.3.0
 W2CWM2C 2.2
-W3CMarkupValidator 0.2-2
+W3CMarkupValidator 0.2-3
 W4MRUtils 1.2.1
 WA 1.0
 wacolors 0.3.1

@@ -374,7 +374,7 @@ AirScreen 0.1.0
 airship 1.4.3
 airt 0.2.2
 aiRthermo 1.2.2
-AIscreenR 0.3.0
+AIscreenR 0.3.1
 aisdk 1.1.0
 aisoph 0.4
 AIUQ 0.5.3
@@ -908,7 +908,7 @@ auRoc 0.2-1
 ausplotsR 2.0.5
 AustralianPoliticians 0.1.0
 AUtests 0.99
-auth0 0.2.3
+auth0 0.3.0
 authordown 0.1.0
 authoritative 0.2.0
 auto.pca 0.3
@@ -1492,7 +1492,7 @@ bfcluster 1.0.0
 BFF 4.5.0
 BFI 3.1.0
 bfp 0.0-50
-BFpack 1.5.3
+BFpack 1.6.0
 bfpwr 0.1.6
 BFS 0.7.1
 bfsl 0.2.0
@@ -1779,7 +1779,7 @@ blavaan 0.5-10
 Blend 0.1.2
 blendR 1.0.0
 blends 0.1.0
-Blendstat 1.0.5
+Blendstat 1.0.6
 blindrecalc 1.1.0
 blindreview 2.0.0
 blindspiker 0.2.0
@@ -3463,7 +3463,7 @@ conleyreg 0.1.9
 conmet 0.1.0
 conMItion 0.2.1
 ConNEcT 0.7.27
-connectapi 0.11.1
+connectapi 0.12.0
 connectcreds 0.2.0
 connected 1.1
 ConnectednessApproach 1.0.4
@@ -3758,7 +3758,7 @@ CPC 2.6.2
 CPCAT 1.0.0
 cpd 0.3.3
 CPE 1.6.3
-cpfa 1.2-7
+cpfa 1.2-8
 CpGassoc 2.70
 CpGFilter 1.1
 cpgfR 0.0.1.0
@@ -5224,7 +5224,7 @@ dualScale 1.0.0
 dualtrees 0.1.5
 duawranglr 0.6.7
 dub 0.2.0
-duckdb 1.5.1
+duckdb 1.5.2
 duckdbfs 0.1.2
 duckduckr 1.0.0
 duckplyr 1.2.1
@@ -5489,7 +5489,7 @@ eda4treeR 1.1.0
 edar 0.0.6
 EDCimport 0.7.0
 edcpR 1.0.1
-eddington 4.2.0
+eddington 4.3.0
 edeaR 1.0.1
 edecob 1.2.2
 edf 1.0.0
@@ -7586,7 +7586,7 @@ geobr 1.9.1
 geocacheR 0.1.0
 geocausal 0.4.0
 geocmeans 0.3.4
-geocodebr 0.6.1
+geocodebr 0.6.2
 geocomplexity 0.3.0
 geodaData 0.1.0
 geodata 0.6-9
@@ -10302,7 +10302,7 @@ KingCountyHouses 0.1.0
 KinMixLite 2.2.1
 kinship2 1.9.6.2
 KINSIMU 0.1.3
-Kira 1.0.7
+Kira 1.0.8
 kirby21.base 1.7.3
 kirby21.fmri 1.8.0
 kirby21.t1 1.8.0
@@ -11943,7 +11943,7 @@ mexicolors 0.2.0
 mExplorer 1.0.0
 MF.beta4 1.1.2
 mfaces 0.1-4
-MFAg 2.2
+MFAg 2.3
 mfcurve 1.0.2
 mFD 1.0.7
 mfdb 7.4-0
@@ -12928,7 +12928,7 @@ multimorbidity 0.5.1
 multiness 1.0.2
 multinet 4.3.4
 multinets 0.2.2
-multinma 0.8.1
+multinma 0.9.0
 MultiNMix 0.1.0
 MultinomialCI 1.2
 multinomialLogitMix 1.1
@@ -13027,8 +13027,8 @@ MUVR2 0.1.0
 MVA 1.0-9
 mvabund 4.2.8
 mvalpha 0.5.1
-MVar 2.2.7
-MVar.pt 2.2.7
+MVar 2.2.8
+MVar.pt 2.2.8
 mvardlurt 1.0.2
 MvBinary 1.1
 mvbutils 2.8.232
@@ -13385,7 +13385,7 @@ nfer 1.1.3
 nfl4th 1.0.7
 nflfastR 5.2.0
 nflplotR 1.6.0
-nflreadr 1.5.0
+nflreadr 1.5.1
 nflseedR 2.0.2
 NFLSimulatoR 0.4.0
 nflverse 1.0.3
@@ -15959,7 +15959,7 @@ PurpleAir 1.1.0
 PurpleAirAPI 0.1.0
 purrr 1.2.2
 purrrlyr 0.0.10
-Pursuit 1.0.9
+Pursuit 1.1.0
 pushbar 0.1.0
 pushoverr 1.1.0
 putior 0.1.0
@@ -16738,7 +16738,7 @@ RcmdrPlugin.survival 1.3-2
 RcmdrPlugin.TeachingDemos 1.2-0
 RcmdrPlugin.TeachStat 1.1.4
 RcmdrPlugin.temis 0.7.12
-RcmdrPlugin.UCA 5.1-2
+RcmdrPlugin.UCA 5.1-3
 RcmdrPlugin.WorldFlora 1.3
 RCMinification 1.4
 RCMsize 1.0.1
@@ -21157,7 +21157,7 @@ symptomcheckR 0.1.3
 symSEM 0.4
 SymTS 1.0-2
 syn 0.1.0
-syncdr 0.1.1
+syncdr 0.1.2
 synchronicity 1.3.10
 synchrony 0.3.8
 SynchWave 1.1.2
@@ -21893,7 +21893,7 @@ tokenizers 0.3.0
 tokenizers.bpe 0.1.4
 tolerance 3.0.0
 tomba 1.0.1
-toml 1.0.0
+toml 1.1.0
 tomledit 0.1.1
 tongfen 0.3.6
 toolbox 0.1.1
@@ -22129,7 +22129,7 @@ triact 0.3.1
 TriadSim 0.3.1
 TrialEmulation 0.0.4.11
 trialr 0.1.6
-TrialSimulator 1.10.1
+TrialSimulator 1.16.0
 TrialSize 1.4.1
 triangle 1.0
 triangulation 0.5.0
@@ -22349,7 +22349,7 @@ tvtools 0.0.3
 twang 2.6.2
 twangContinuous 1.0.0
 twangMediation 1.2.1
-twbparser 0.3.1
+twbparser 0.4.0
 twc 0.0.2
 twdtw 1.0-1
 tweedie 3.0.17
@@ -23229,7 +23229,7 @@ wishmom 1.1.0
 withdots 0.1.1
 wither 0.1.0
 withr 3.0.2
-wizaRdry 0.6.6
+wizaRdry 0.6.7
 wk 0.9.5
 wkb 0.4-0
 wkpool 0.3.0

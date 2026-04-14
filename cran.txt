@@ -586,7 +586,7 @@ AnxietySleep 0.0.1
 anybadger 0.1.0
 anyflights 0.3.5
 anyLib 1.0.5
-anytime 0.3.12
+anytime 0.3.13
 ao 1.2.2
 AOboot 0.1.2
 aod 1.3.3
@@ -1486,7 +1486,7 @@ bezier 1.1.2
 bfast 1.7.2
 bfbin2arm 0.1.0
 bfboin 0.1.1
-bfboinet 0.4.0
+bfboinet 1.0.0
 bfcluster 1.0.0
 BFF 4.5.0
 BFI 3.1.0
@@ -3373,7 +3373,7 @@ CompositionalHDDA 1.0
 CompositionalML 1.0
 CompositionalNAimp 1.0
 CompositionalRF 1.6
-CompositionalSR 1.3
+CompositionalSR 1.4
 compositions 2.0-9
 compound.Cox 3.33
 CompoundEvents 1.0
@@ -3460,7 +3460,7 @@ ConjointChecks 0.2.0
 conjurer 1.7.1
 conleyreg 0.1.9
 conmet 0.1.0
-conMItion 0.2.1
+conMItion 0.3.0
 ConNEcT 0.7.27
 connectapi 0.12.0
 connectcreds 0.2.0
@@ -4311,6 +4311,7 @@ DCCA 0.1.1
 DCchoice 0.2.0
 dccmidas 0.1.2
 dccpp 0.1.0
+DCEM 2.0.6
 DCEmgmt 0.0.1
 DCEtool 1.2.1
 DCG 0.9.3
@@ -7903,7 +7904,7 @@ ggrastr 1.0.2
 ggrcs 0.4.3
 ggrecipes 0.1.0
 ggredist 0.0.4
-ggrefine 0.1.0
+ggrefine 0.2.0
 ggrepel 0.9.8
 ggResidpanel 0.3.0
 ggreveal 0.2.0
@@ -9071,7 +9072,7 @@ hover 0.1.1
 howler 0.3.0
 howManyImputations 0.2.5
 howzatR 1.0.2
-hpa 1.3.3
+hpa 1.3.4
 hpackedbubble 0.1.0
 hpcwld 0.6-5
 hpfilter 1.0.2
@@ -9347,7 +9348,7 @@ ICtest 0.3-7
 ictools 0.1.0
 ICV 1.0
 ICvectorfields 0.1.2
-idar 1.6
+idar 1.7
 idarps 0.0.5
 idbr 1.2
 IDCard 0.3.0
@@ -9498,7 +9499,7 @@ ImML 0.1.5
 immunarch 0.10.3
 immunaut 1.0.2
 immundata 0.0.7
-immunogenetr 1.1.0
+immunogenetr 1.2.0
 Imneuron 0.1.0
 ImNN 0.1.0
 IMP 1.1
@@ -9657,7 +9658,7 @@ InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
 inshiny 0.1.4
-insight 1.4.6
+insight 1.5.0
 InSilicoVA 1.4.2
 InspectChangepoint 1.2
 InspectionPlanner 1.2
@@ -10564,7 +10565,7 @@ lavaan.mi 0.1-0
 lavaan.printer 0.1.0
 lavaan.shiny 1.2
 lavaanExtra 0.2.2
-lavaangui 0.3.2
+lavaangui 0.4.0
 lavaanPlot 0.8.1
 lavacreg 0.2-2
 lavaSearch2 2.0.3
@@ -10872,7 +10873,7 @@ lite 1.1.1
 litedown 0.9
 liteq 1.1.0
 literanger 0.2.0
-LitFetchR 0.2.1
+LitFetchR 0.2.2
 litRiddle 1.0.0
 litteR 1.0.2
 litterfitter 0.1.4
@@ -11364,7 +11365,7 @@ mapindiatools 1.0.1
 Mapinguari 2.0.1
 mapiso 0.3.0
 maplamina 0.1.0
-maplegend 0.6.1
+maplegend 0.6.2
 mapme.biodiversity 0.9.5
 mapmisc 2.1.3
 mapmixture 1.2.0
@@ -11469,7 +11470,7 @@ matchFeat 1.0
 MatchGATE 0.0.10
 Matching 4.10-15
 matchingMarkets 1.0-5
-MatchingPursuit 1.0.0
+MatchingPursuit 1.0.1
 matchingR 2.0.0
 MatchIt 4.7.2
 MatchLinReg 0.8.1
@@ -13319,7 +13320,7 @@ NetSimR 0.1.5
 netstat 0.1.2
 nett 1.0.0
 nettskjemar 1.0.4
-netUtils 0.8.4
+netUtils 0.8.5
 NetVAR 0.1-2
 NetWeaver 0.0.6
 network 1.20.0
@@ -13740,7 +13741,7 @@ nswgeo 0.6.0
 nsyllable 1.0.1
 nTARP 0.1.0
 ntfy 0.1.0
-NTLKwIEx 0.1.0
+NTLKwIEx 0.2.0
 ntranova 0.0.1
 NTS 1.1.3
 ntsDatasets 0.2.0
@@ -13806,6 +13807,7 @@ oblicubes 1.0.1
 obliqueRSF 0.1.2
 obm 2.0
 OBMbpkg 1.0.0
+obr 0.2.5
 OBRE 0.2-0
 Observation 0.3.0
 observationalBlocks 1.0.0
@@ -14217,7 +14219,7 @@ OSLdecomposition 1.2
 osmapiR 0.2.5
 osmclass 0.1.3
 osmdata 0.3.0
-osmextract 0.5.3
+osmextract 0.6.0
 OSMscale 0.5.23
 OSNMTF 0.1.0
 osqp 1.0.0
@@ -19456,7 +19458,7 @@ shoredate 1.1.1
 shortcuts 1.4.0
 ShortForm 0.5.6
 shortIRT 1.0.0
-shortr 1.0.1
+shortr 1.0.2
 shorts 3.2.0
 shortuuid 0.1.1
 shotGroups 0.8.4
@@ -21098,7 +21100,7 @@ svycoxme 1.0.0
 svydiags 0.7
 svylme 1.5-1
 SvyNom 1.2
-svyROC 1.0.0
+svyROC 1.1.0
 svytest 1.1.0
 svyVarSel 1.0.1
 svyVGAM 1.3
@@ -22605,7 +22607,7 @@ utile.visuals 0.3.3
 utility 1.4.7
 utilityFunctionTools 1.0
 utilsIPEA 0.0.6
-utsf 1.3.1
+utsf 1.3.2
 uuid 1.2-2
 uuidx 0.0.1
 UVdose 0.1.1
@@ -22652,7 +22654,7 @@ valytics 0.4.1
 VAM 1.1.0
 vamc 0.2.1
 VancouvR 0.1.9
-vandalico 0.2.1
+vandalico 0.2.2
 vangogh 0.1.3
 vannstats 1.6.3.20
 vapour 0.16.0

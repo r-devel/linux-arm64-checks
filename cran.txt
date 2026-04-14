@@ -5428,7 +5428,7 @@ ecoCopula 1.0.6
 ecode 0.1.0
 EcoDiet 2.0.1
 ecodist 2.1.3
-ecodive 2.2.2
+ecodive 2.2.6
 EcoEnsemble 1.1.2
 Ecohydmod 1.0.0
 ECoL 0.3.0
@@ -6439,7 +6439,7 @@ fasttreeid 1.0.1
 fastTS 1.0.3
 FastUtils 0.2.1
 fastverse 0.3.4
-fastVoteR 0.0.1
+fastVoteR 0.0.2
 fastWavelets 1.0.1
 fastymd 0.1.5
 fat2Lpoly 1.2.6
@@ -7836,7 +7836,7 @@ gglasso 1.6
 gglgbtq 0.2.0
 gglinedensity 0.2.0
 gglm 1.0.5
-gglogger 0.1.7
+gglogger 0.1.8
 gglorenz 0.0.2
 gglycan 0.0.3
 gglyph 0.2.0
@@ -9945,7 +9945,7 @@ itan 3.1.1
 itcSegment 1.0
 itdr 2.0.1
 itemanalysis 1.1
-ItemRest 0.2.4
+ItemRest 0.2.5
 iTensor 1.0.2
 IterativeHardThresholding 1.0.3
 iteratoR 0.1.1
@@ -11358,7 +11358,7 @@ mapdata 2.3.1
 mapdeck 0.3.6
 mapedit 0.8.0
 MapGAM 1.3-1
-mapgl 0.4.5
+mapgl 0.4.6
 mapi 1.1.4
 mapindia 1.0.1
 mapindiatools 1.0.1
@@ -11446,7 +11446,7 @@ MARSSVRhybrid 0.1.0
 MarZIC 1.0.1
 mas 0.4
 maSAE 2.0.3
-mascarade 0.3.3
+mascarade 0.3.4
 mase 0.1.5.2
 mashr 0.2.79
 maskedcauses 0.9.3
@@ -12382,10 +12382,10 @@ mlsbm 0.99.2
 mlsjunkgen 0.1.2
 MLSP 0.1.0
 mlspatial 0.1.1
-mlstm 0.1.6
+mlstm 0.1.7
 mlstrOpalr 1.0.3
 mlsurvlrnrs 0.0.8
-mlt 1.7-4
+mlt 1.8-0
 mlt.docreg 1.1-12
 mltest 1.0.3
 mltools 0.3.5
@@ -12454,7 +12454,7 @@ mnlfa 0.3-4
 MNLR 0.1.0
 MNM 1.0-4
 mnonr 1.0.0
-mnorm 1.2.2
+mnorm 1.2.3
 mnormt 2.1.2
 MNormTest 1.1.1
 MNP 3.1-5
@@ -13924,7 +13924,7 @@ OmnibusFisher 1.0
 omock 0.6.2
 OmopConstructor 0.3.0
 omopgenerics 1.3.7
-omophub 1.5.0
+omophub 1.6.0
 OmopOnSpark 0.1.0
 OmopSketch 1.0.1
 OmopViewer 0.7.0
@@ -20155,7 +20155,7 @@ SPARTAAS 1.2.5
 sparvaride 1.0.0
 spass 1.3
 spate 1.7.5
-spatemR 1.2.0
+spatemR 1.3.0
 SpatEntropy 2.2-4
 SPAtest 3.1.2
 SpatFD 0.0.1
@@ -21790,7 +21790,7 @@ tinter 0.1.0
 tintin 0.2
 tinyarray 2.4.3
 tinycodet 0.6.2
-tinyimg 0.3
+tinyimg 0.4
 tinylabels 0.2.5
 tinylens 0.1.0
 tinyplot 0.6.1
@@ -21804,7 +21804,7 @@ tinytest2JUnit 1.1.3
 tinytex 0.59
 tinythemes 0.0.4
 tinytiger 0.0.11
-tinyVAST 1.5.0
+tinyVAST 1.5.1
 tip 0.1.0
 tipa 1.0.8
 TipDatingBeast 1.1-0

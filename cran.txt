@@ -897,7 +897,6 @@ audit 0.1-2
 auditor 1.3.5
 audrex 3.0.0
 audubon 0.6.2
-augmentedRCBD 0.1.7
 augSIMEX 3.7.4
 auk 0.9.1
 AUKtest 0.1.0
@@ -1481,7 +1480,7 @@ BetterReg 0.3.0
 BeviMed 7.0
 bexy 0.1.3
 BeyondBenford 1.4
-beyondWhittle 1.3.0
+beyondWhittle 1.3.1
 bezier 1.1.2
 bfast 1.7.2
 bfbin2arm 0.1.0
@@ -3204,7 +3203,7 @@ coglasso 1.1.0
 coglyphr 1.1.0
 cogmapr 0.9.5
 cognitoR 1.0.5
-cograph 2.0.0
+cograph 2.1.1
 cohetsurr 2.0
 cohortBuilder 0.4.0
 CohortCharacteristics 1.1.2
@@ -3919,7 +3918,6 @@ cryptotrackr 1.3.3
 cryptoverse 0.1.0
 cryptowatchR 0.2.0
 CryptRndTest 1.2.7
-cryst 0.1.0
 crystract 1.0.0
 csa 0.7.1
 csalert 2024.6.24
@@ -4694,7 +4692,6 @@ diffee 1.1.0
 diffEnrich 0.1.2
 diffeqr 2.1.0
 diffeR 0.0-8
-diffeRenTES 0.3.2
 diffIRT 1.5
 diffmatchpatch 0.1.0
 diffMeshGP 0.1.1
@@ -4953,6 +4950,7 @@ DockerParallel 1.0.4
 docket 1.33
 docknitr 1.0.1
 dockViewR 0.3.0
+doclisting 0.1.0
 doconv 0.4.0
 docopt 0.7.2
 docopulae 0.4.0
@@ -5003,7 +5001,6 @@ doSNOW 1.0.20
 DOSPortfolio 0.1.0
 dosresmeta 2.2.0
 dostats 1.3.3
-DOT 0.1
 dotCall64 1.2
 dotenv 1.0.3
 dotgen 0.1.1
@@ -5141,7 +5138,6 @@ dsBaseClient 6.3.5
 DSBayes 2023.1.0
 dscore 2.0.0
 dscoreMSM 0.1.0
-dsdp 0.1.1
 dsem 1.7.0
 DSFM 1.0.1
 dsge 1.0.0
@@ -5414,7 +5410,7 @@ echos 1.0.3
 ecic 0.0.4
 ecipex 1.1.1
 eclipseplot 0.9.6
-eClosure 0.9.3
+eClosure 0.9.4
 ECLRMC 1.0
 ecm 7.2.0
 ECMLE 0.1.0
@@ -5806,7 +5802,7 @@ epca 1.1.0
 ePCR 0.11.0
 epe4md 0.1.4
 eph 1.0.2
-Epi 2.64
+Epi 2.65
 epibasix 1.5
 epicasting 0.1.0
 epichains 0.1.1
@@ -6340,6 +6336,7 @@ fanyi 0.1.1
 FAO56 1.0
 FAOSTAT 2.4.2
 faoutlier 0.7.7
+FAPA 0.1.1
 faq 0.1.1
 far 0.6-7
 faraway 1.0.9
@@ -6664,7 +6661,7 @@ FinePop 1.5.2
 FinePop2 0.4
 finetune 1.2.1
 fingerprint 3.5.10
-fingerPro 2.0
+fingerPro 2.1
 finiteruinprob 0.6
 finity 0.1.5
 finna 0.1.1
@@ -6849,7 +6846,6 @@ fluidsynth 1.0.2
 fluorojip 0.1.1
 fluoSurv 1.0.0
 fluspect 1.0.0
-flux 0.3-0.1
 fluxfinder 1.2.2
 fluxfixer 1.1.0
 fluxible 1.3.6
@@ -7177,7 +7173,6 @@ funchir 0.3.0-1
 FunChisq 2.5.4
 FuncMap 1.0.10
 funcMapper 1.0.2
-FuncNN 1.0
 FunctanSNP 0.1.0
 functional 0.6
 FunctionalCalibration 1.0.0
@@ -7717,6 +7712,7 @@ GFDrmtl 0.1.0
 GFDsurv 0.1.1
 GFE 0.1.2
 gfer 0.1.12
+GFFStrandLoc 0.1.0
 GFGM.copula 1.0.4
 GFisher 0.2.0
 gfiUltra 1.0.0
@@ -8152,6 +8148,7 @@ gLRTH 0.2.0
 glscalibrator 0.1.0
 glsm 0.0.0.6
 GLSME 1.0.5
+GLSUP 1.0.0
 glue 1.8.0
 glueDo 0.1.0
 gluedown 1.0.9
@@ -8654,6 +8651,7 @@ h3jsr 1.3.1
 h3lib 0.1.4
 h3o 0.3.0
 h3r 0.1.2
+h3sdm 0.1.0
 h5lite 2.0.0.2
 haarfisz 4.5.4
 hablar 0.3.2
@@ -9772,7 +9770,6 @@ iosmooth 0.94
 iotables 0.9.4
 iotarelr 0.1.7
 iotools 0.4-0
-IP 0.1.6
 ip2location 8.1.3
 ip2location.io 0.0.0-2
 ip2locationio 1.1.0
@@ -10637,7 +10634,7 @@ LeadSense 0.0.2.0
 LeafArea 0.1.8
 leafdown 1.2.0
 leafem 0.2.5
-leafgl 0.2.2
+leafgl 0.2.4
 leaflegend 1.2.1
 leaflet 2.2.3
 leaflet.extras 2.0.2
@@ -10683,7 +10680,6 @@ legocolors 0.4.0
 lehdr 1.1.4
 lehuynh 0.1.1
 leiden 0.4.3.1
-leidenAlg 1.1.6
 leidenbase 0.1.36
 leiv 2.0-7
 LeMaRns 0.1.2
@@ -11637,6 +11633,7 @@ MCMCtreeR 1.1
 MCMCvis 0.16.5
 McMiso 0.2.0
 mcmodule 1.2.0
+mcmsector 1.0.2
 mcMST 1.1.1
 mcmsupply 1.1.1
 mco 1.17
@@ -11758,7 +11755,6 @@ mefa 3.2-10
 mefa4 0.3-12
 MEFM 0.1.1
 MEGB 0.2
-MEGENA 1.3.7
 meifly 0.3.1
 mekko 0.1.0
 melt 1.11.4
@@ -12293,6 +12289,7 @@ MLBC 0.2.2
 mlbench 2.1-8
 mlbplotR 1.2.0
 mlbstats 0.1.0
+MLCausal 0.1.0
 MLCIRTwithin 2.1.2
 MLCM 0.4.4
 MLCOPULA 1.1.0
@@ -12484,6 +12481,7 @@ Modelcharts 0.1.0
 modeldata 1.5.1
 modeldatatoo 0.3.0
 modeldb 0.3.1
+modeldiagramR 0.2.1
 modelDown 1.1
 modelenv 0.2.0
 Modeler 3.4.9
@@ -13521,6 +13519,7 @@ NMcalc 0.0.4
 NMdata 0.2.4
 NMF 0.28
 nmfbin 0.2.1
+nmfkc 0.6.7
 NMFN 2.0.1
 NMI 2.0
 Nmisc 0.3.7
@@ -13728,6 +13727,7 @@ nsga2R 1.1
 nsga3 0.0.3
 NSM3 1.20
 nsm3data 0.1
+NSMM 0.1.2
 NSO1212 1.4.0
 nsp 1.0.0
 nspmix 2.0-0
@@ -14343,7 +14343,6 @@ pairwise 0.6.2-0
 pairwiseCI 0.1-27
 pairwiseLLM 1.1.0
 paisaje 0.2.0
-pak 0.9.3
 PakPC2017 1.0.0
 PakPC2023 0.2.0
 PakPMICS2014Ch 0.1.0
@@ -14356,7 +14355,7 @@ PakPMICS2018fs 0.1.0
 PakPMICS2018hh 0.1.0
 PakPMICS2018mm 0.1.0
 PakPMICS2018mn 0.1.0
-pakret 0.3.0
+pakret 0.3.1
 palaeoSig 2.1-4
 palaeoverse 1.4.0
 palasso 1.0.0
@@ -14936,7 +14935,6 @@ phsmethods 1.1.0
 PHSMM 1.0
 phsopendata 1.0.3
 phuassess 1.1
-phutil 0.0.1
 phyclust 0.1-34
 phyext2 0.0.4
 phylepic 0.3.0
@@ -15427,6 +15425,7 @@ postGGIR 2.4.0.2
 postHoc 0.1.3
 postinfectious 0.1.0
 postlightmercury 1.2
+postlink 0.1.0
 postlogic 0.1.0.1
 POSTm 1.4
 postpack 0.5.4
@@ -15444,7 +15443,7 @@ PoweR 1.1.4
 power.transform 1.0.4
 Power2Stage 0.5-4
 power4mome 0.2.1
-poweRbal 0.0.1.1
+poweRbal 0.1.0
 powerbiR 0.1.0
 powerbrmsINLA 1.1.1
 powerbydesign 1.0.5
@@ -15539,7 +15538,6 @@ precisePlacement 0.2.0
 PreciseSums 0.7
 precmed 1.1.0
 precommit 0.4.3
-precondition 0.1.0
 precrec 0.14.5
 predfairness 0.1.0
 predhy 2.1.2
@@ -15608,7 +15606,6 @@ prettydoc 0.4.1
 prettyGraphs 2.2.0
 prettymapr 0.2.5
 prettyPanelMatch 0.2.0
-prettyR 2.2-3
 prettyunits 1.2.0
 prevalence 0.4.1
 prevederer 0.0.1
@@ -16086,7 +16083,7 @@ qif 1.5
 qiitr 0.1.1
 Qindex 0.1.7
 Qindex.data 0.1.3
-qlcal 0.1.0
+qlcal 0.1.1
 qlcData 0.3
 qlcMatrix 0.9.9
 QLearning 0.1.1
@@ -16249,7 +16246,6 @@ queueing 0.2.12
 quickblock 0.2.2
 quickcheck 0.1.3
 quickcode 1.0.9
-QuickJSR 1.9.1
 quickmatch 0.2.3
 quickNmix 1.1.1
 quickOutlier 0.1.5
@@ -16767,7 +16763,6 @@ rcorpora 2.0.1
 RCPA 0.2.8
 RCPA3 1.3.1
 Rcplex 0.3-8
-Rcpp 1.1.1
 RcppAlgos 2.10.0
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
@@ -17258,7 +17253,6 @@ ReproStat 0.1.2
 REPS 1.1.1
 repsd 1.0.1
 repsim 0.1.0
-REPTILE 1.0
 reptiledb.data 0.0.0.2
 repurrrsive 1.1.0
 reqres 1.2.0
@@ -18508,7 +18502,7 @@ RWsearch 5.2.6
 rwstats 0.1
 rwty 1.0.3
 rwunderground 0.1.8
-RXKCD 1.9.2
+RXKCD 2.0.1
 RxnSim 1.0.4
 rxode2 5.0.2
 rxode2ll 2.0.14
@@ -18534,7 +18528,6 @@ s3.resourcer 1.1.2
 s3fs 0.1.7
 S3VS 1.0
 S4DM 0.0.1
-S7 0.2.1
 S7schema 0.1.0
 saasCNV 0.3.4
 saber 0.3.0
@@ -18874,7 +18867,7 @@ scPloidy 0.6.2
 scplot 0.7.0
 scPOEM 0.1.3
 scpoisson 0.0.2
-scpropreg 1.1
+scpropreg 1.2
 SCpubr 3.0.1
 scqe 1.0.0
 scquantum 1.0.0
@@ -20829,7 +20822,7 @@ stressr 1.0.0
 StressStrength 1.0.2
 strex 2.0.1
 String2AdjMatrix 0.1.0
-string2path 0.3.0
+string2path 0.3.1
 stringdist 0.9.17
 stringfish 0.18.0
 stringformattr 0.1.2
@@ -21683,6 +21676,7 @@ TidyMultiqc 1.0.3
 tidyna 0.4.0
 tidync 0.4.0
 tidynorm 0.4.0
+tidyOhdsiSolutions 0.1.0
 tidypaleo 0.1.4
 tidyplate 2.2.0
 tidyplots 0.4.0
@@ -21792,6 +21786,7 @@ tinyimg 0.4
 tinylabels 0.2.5
 tinylens 0.1.0
 tinyplot 0.6.1
+tinyrox 0.3.3
 tinyscholar 0.1.7
 tinyshinyserver 0.1.0
 tinysnapshot 0.2.0
@@ -21875,7 +21870,7 @@ tmvmixnorm 1.1.1
 tmvnsim 1.0-2
 tmvtnorm 1.7
 tmvtnsim 0.1.4
-tna 1.2.0
+tna 1.2.2
 TNC 0.1.0
 tndata 0.1.0
 tnet 3.0.16
@@ -23497,7 +23492,7 @@ YPmodel 1.4
 YPmodelPhreg 1.0.0
 YPPE 1.0.1
 ypr 0.6.0
-yrnd 0.1.1
+yrnd 0.1.2
 YTAnalytics 0.2.1
 yuima 1.15.34
 yuimaGUI 1.4.0
@@ -23579,3 +23574,14 @@ ztype 0.1.0
 ZVCV 2.1.3
 zyp 0.11-1
 zzlite 0.1.2
+dsdp 0.1.1-1
+IP 0.1.6-1
+leidenAlg 1.1.6-1
+pak 0.9.3-1
+phutil 0.0.1-2
+precondition 0.1.0-1
+QuickJSR 1.9.1-2
+Rcpp 1.1.1-1
+S4Vectors 0.49.1-1
+S7 0.2.1-1
+ShortRead 1.69.3-2

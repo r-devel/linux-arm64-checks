@@ -16631,7 +16631,7 @@ rbiom 2.2.1
 rbiouml 1.11
 rbit 1.0.0
 RblDataLicense 0.2.6
-rblimp 1.0.0
+rblimp 1.1.0
 Rblpapi 0.3.16
 rblt 0.2.4.7
 rbm25 0.0.4

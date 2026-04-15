@@ -332,7 +332,7 @@ ags 1.0.1
 agua 0.1.4
 agvgd 0.1.2
 ahaz 1.15.1
-AHMbook 0.2.10
+AHMbook 0.2.12
 ahnr 0.3.1
 AhoCorasickTrie 0.1.3
 AHPGaussian 0.1.3
@@ -822,7 +822,7 @@ aSPU 1.50
 asremlPlus 4.4.58
 ASRgenomics 1.1.5
 ASSA 2.0
-assemblykor 0.1.1
+assemblykor 0.1.2
 assert 1.0.1
 assertable 0.2.8
 assertHE 1.0.1
@@ -1457,7 +1457,7 @@ bestNormalize 1.9.2
 BESTree 0.5.2
 bestSDP 0.1.2
 BET 0.5.4
-betaARMA 1.0.1
+betaARMA 1.1.0
 betaBayes 1.0.1
 BetaBit 2.2
 betacal 0.1.0
@@ -1518,7 +1518,7 @@ BHAI 0.99.2
 Bhat 0.9-12
 bhetGP 1.0.2
 bhm 1.19
-bhmbasket 1.0.0
+bhmbasket 1.1.0
 BHMSMAfMRI 2.3
 bhpm 1.8.1
 BHSBVAR 3.1.3
@@ -1602,7 +1602,7 @@ billboard 0.1.0
 billboarder 0.5.1
 bimets 4.1.2
 BimodalIndex 1.1.11
-bin2norm 0.1.0
+bin2norm 0.1.1
 binancer 1.2.0
 Binarize 1.3.2
 BinarybalancedCut 0.2
@@ -2017,7 +2017,7 @@ brandwatchR 0.3.0
 brant 0.3-0
 braQCA 1.4.11.27
 brar 0.1
-brassica 1.0.2
+brassica 1.0.3
 bravo 3.2.2
 BrazilCrime 0.3.0
 BrazilDataAPI 0.2.0
@@ -2940,7 +2940,7 @@ climatrends 1.2
 ClimClass 2.1.1
 CLimd 0.1.0
 clime 0.5.0
-climenu 0.1.5
+climenu 0.1.7
 climetrics 1.0-15
 climextRemes 0.3.1
 ClimInd 0.1-3
@@ -3779,7 +3779,7 @@ cpp11armadillo 0.5.4
 cpp11bigwig 0.1.3
 cpp11eigen 0.2.0
 cpp11qpdf 1.3.5
-cpp4r 0.5.0
+cpp4r 0.5.1
 cppcheckR 1.0.0
 cppcontainers 1.0.5
 cppdoubles 0.4.0
@@ -3999,7 +3999,7 @@ CTT 2.3.4
 CTTinShiny 0.1.0
 CTTShiny 0.1
 CTTvis 0.1.1
-ctv 0.9-7
+ctv 0.9-8
 CTxCC 0.4.0
 ctxR 1.1.3
 ctypesio 0.1.3
@@ -5122,7 +5122,7 @@ DRsurvCRT 0.0.1
 drtmle 1.1.2
 drugDemand 0.1.3
 drugdevelopR 1.0.2
-DrugExposureDiagnostics 1.1.6
+DrugExposureDiagnostics 1.1.7
 drugsens 0.1.0
 DrugSim2DR 0.1.2
 DrugUtilisation 1.1.0
@@ -6114,7 +6114,7 @@ ExactMed 0.3.0
 ExactMultinom 0.1.3
 exactRankTests 0.8-36
 ExactVaRTest 0.1.3
-exametrika 1.10.1
+exametrika 1.11.0
 examly 0.2.0
 ExamPAData 0.5.0
 exampletestr 1.7.3
@@ -6935,7 +6935,7 @@ forecastHybrid 5.1.21
 ForecastingEnsembles 0.5.1
 forecastLSW 1.1.1
 forecastSNSTS 1.3-0
-FoReco 1.2.0
+FoReco 1.2.1
 ForeComp 1.0.0
 forecTheta 3.0
 foreign 0.8-91
@@ -7848,7 +7848,7 @@ ggmatplot 0.1.2.1
 ggmcmc 1.5.1.2
 ggmice 0.1.1
 ggmix 0.0.2
-ggmlR 0.7.0
+ggmlR 0.7.2
 ggmr 0.1.1
 GGMridge 1.5
 ggmRSCU 0.1.0
@@ -8107,7 +8107,6 @@ glmmLasso 1.6.4
 glmmML 1.1.7
 glmmPen 1.5.4.8
 glmmrBase 1.3.0
-glmmrOptim 0.3.7
 GLMMRR 0.6.0
 glmmsel 1.0.3
 GLMMselect 1.2.0
@@ -11431,7 +11430,7 @@ markovMSM 0.1.3
 markowitz 0.1.0
 MarkowitzR 1.0.3
 markstat 0.1.5
-marlod 0.2.2
+marlod 0.2.3
 marmap 1.0.12
 MARMoT 0.0.4
 marqLevAlg 2.0.8
@@ -11933,7 +11932,7 @@ metropolis 0.1.8
 mets 1.3.9
 MetSizeR 2.0.0
 metsyn 0.1.2
-mev 2.1
+mev 2.2
 mevr 1.1.1
 mewAvg 0.3.1
 MexBrewer 0.0.2
@@ -13091,7 +13090,7 @@ mvSUSY 0.1.0
 MVT 0.3-81
 MVTests 2.3.1
 mvtmeta 1.1
-mvtnorm 1.3-6
+mvtnorm 1.3-7
 mvtsplot 1.0-5
 mvtweedie 1.2.0
 mvvg 0.1.0
@@ -14041,7 +14040,7 @@ opensimplex2 0.0.3
 openSkies 1.3.0
 OpenSourceAP.DownloadR 0.1.0
 OpenSpecy 1.5.3
-openssl 2.3.5
+openssl 2.4.0
 OpenStreetMap 0.4.1
 opentripplanner 0.5.2
 openVA 1.2.0
@@ -15930,7 +15929,7 @@ Publish 2025.07.24
 PubMatrixR 1.0.0
 pubmed.mineR 1.0.21
 PubMedMining 1.0.0
-pubmedR 0.0.3
+pubmedR 1.0.0
 pubmedtk 1.0.4
 PubMedWordcloud 0.3.6
 pubrplot 0.0.1
@@ -16386,7 +16385,7 @@ radiant 1.6.7
 radiant.basics 1.6.6
 radiant.data 1.6.8
 radiant.design 1.6.6
-radiant.model 1.6.9
+radiant.model 1.6.11
 radiant.multivariate 1.6.8
 RadioSonde 4.2
 radir 1.0.4
@@ -17373,7 +17372,6 @@ RfEmpImp 2.1.8
 rFerns 5.0.0
 rFIA 1.1.2
 rfieldclimate 0.1.1
-RFIF 1.0.1
 rfinterval 1.0.0
 rfishbase 5.0.3
 RFishBC 0.2.7
@@ -18451,7 +18449,7 @@ runonce 0.3.3
 runstats 1.1.0
 Runuran 0.41
 rupturesRcpp 1.0.2
-rurality 0.1.0
+rurality 0.1.1
 rush 1.0.1
 rusk 0.1.1
 rust 1.4.4
@@ -21936,7 +21934,7 @@ torchdatasets 0.3.1
 torchMAUM 2025.7.30
 torchopt 0.1.4
 torchvision 0.8.0
-torchvisionlib 0.6.0
+torchvisionlib 0.8.0
 TORDs 1.0.0
 tornado 0.1.3
 tosca 0.3-4
@@ -22469,7 +22467,7 @@ uncorbets 0.1.2
 UNCOVER 1.1.0
 undidR 3.0.2
 unexcel 0.1.0
-unfold 1.0.0
+unfold 1.0.1
 unglue 0.1.0
 ungroup 1.4.4
 unhcrdown 0.6.0

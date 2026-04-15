@@ -579,7 +579,7 @@ AnthropMMD 4.1.0
 Anthropometry 1.21
 AntibodyForests 1.1.0
 AntibodyTiters 0.1.24
-anticlust 0.8.13
+anticlust 0.8.14
 antitrust 0.99.30
 antiword 1.3.5
 AnxietySleep 0.0.1
@@ -751,7 +751,7 @@ arkdb 0.0.19
 arkhe 1.11.0
 arl 0.1.4
 arlclustering 1.0.5
-arm 1.15-2
+arm 1.15-3
 armadillo4r 0.8.0
 ARMALSTM 0.1.0
 armaOptions 1.0.1
@@ -3283,7 +3283,7 @@ colourspace 0.1.1
 colourvalues 0.3.11
 colourvision 2.1.0
 COLP 1.0.0
-cols 1.6
+cols 1.7
 cols4all 0.10
 colt 0.1.1
 comat 0.9.7
@@ -6873,7 +6873,7 @@ fmpapi 1.0.1
 fmpcloudr 0.1.5
 FMradio 1.1.2
 fmri 1.9.12.1
-fmriAR 0.3.1
+fmriAR 0.3.2
 fmrihrf 0.3.0
 fmriqa 0.5.0
 fMRIscrub 0.15.0
@@ -8891,7 +8891,7 @@ hexSticker 0.5.1
 HextractoR 1.4
 hextri 0.9.17
 hexView 0.3-4
-hfhub 0.1.1
+hfhub 0.1.2
 hflights 0.1
 hfr 0.7.1
 HGDMr 1.0.1
@@ -10668,7 +10668,7 @@ learnrbook 2.0.1
 LearnSL 1.0.0
 LearnVizLMM 1.0.0
 leastcostpath 2.0.13
-LEdecomp 1.0.4
+LEdecomp 1.0.14
 ledger 2.0.13
 leem 0.2.0
 lefko3 6.7.2
@@ -14437,7 +14437,7 @@ parallelMCMCcombine 2.0
 parallelpam 1.4.3
 parallelPlot 0.4.0
 param2moment 0.1.3
-ParamANOVA 0.1.2
+ParamANOVA 0.1.3
 paramDemo 1.0.2
 parameters 0.28.3
 paramGUI 2.2.0
@@ -16508,7 +16508,7 @@ RapidoPGS 2.3.2
 rapidphylo 0.1.2
 RapidPolygonLookup 0.1.1
 rapidraker 0.1.3
-rapidsplithalf 0.6
+rapidsplithalf 0.7
 rapidxmlr 0.1.0
 RApiSerialize 0.1.4
 Rapp 0.3.0
@@ -17543,6 +17543,7 @@ rintrojs 0.3.4
 rio 1.3.0
 rioja 1.0-7
 rioplot 1.1.2
+rip.opencv 0.3-1
 ripc 1.0.0
 ripserr 1.0.0
 rirods 0.2.0
@@ -19220,7 +19221,7 @@ sfinx 1.7.99
 sfislands 1.1.2
 SFM 0.2.1
 sfnetworks 0.6.5
-SFOCDs 1.0.0
+SFOCDs 1.1.0
 SFPL 1.0.0
 sfsmisc 1.1-23
 sft 2.4
@@ -20159,7 +20160,7 @@ spatial 7.3-18
 SpatialAcc 0.1-5
 spatialAtomizeR 0.2.8
 SpatialBSS 0.16-0
-spatialCatalogueViewer 0.2.0
+spatialCatalogueViewer 0.2.1
 spatialCovariance 0.6-9
 SpatialDownscaling 0.1.2
 spatialEco 2.0-4
@@ -21126,7 +21127,7 @@ SwissAir 1.1.6
 swissparl 0.3.0
 switchcase 0.1.1
 switchr 0.14.8
-switchSelection 2.0.0
+switchSelection 2.1.0
 SWMPr 2.5.2
 SwPcIndex 0.1.0
 SWTools 1.1.0
@@ -21258,7 +21259,7 @@ TailRank 3.2.4
 tailTransform 2.0.0
 taipan 0.1.2
 talkr 0.1.3
-tall 0.5.2
+tall 1.0.0
 TAM 4.3-25
 tame 0.2.1
 tanaka 0.4.0

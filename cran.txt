@@ -13507,7 +13507,7 @@ nlts 1.0-2
 nLTT 1.4.10
 nlWaldTest 1.1.3
 NMA 3.1-1
-NMADTA 0.1.2
+NMADTA 0.1.3
 NMAforest 0.1.3
 nmaINLA 1.1.0
 NMAoutlier 0.2.1
@@ -14063,7 +14063,7 @@ optbin 1.4
 optbinningR 0.2.1
 optBiomarker 1.0-28
 OptCirClust 0.0.4
-optconerrf 1.0.1
+optconerrf 1.0.2
 optDesignSlopeInt 1.1.1
 OPTeCD 1.0.0
 optedr 2.2.0
@@ -16269,7 +16269,7 @@ QurvE 1.1.2
 Qval 1.2.4
 qVarSel 1.2
 qvcalc 1.0.4
-qvirus 0.0.5
+qvirus 0.0.6
 qwalkr 0.1.0
 QWDAP 1.1.20
 qwraps2 0.6.2

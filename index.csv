@@ -37,4 +37,5 @@ scan,0.68.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/
 smoothemplik,0.0.17,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/smoothemplik
 stelfi,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/stelfi
 taxonomizr,0.11.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/taxonomizr
+tidyILD,0.4.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/tidyILD
 tiledb,0.33.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/tiledb

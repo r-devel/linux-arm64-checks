@@ -6376,7 +6376,7 @@ fastdid 1.0.6
 fastDummies 1.7.5
 fastei 0.0.0.12
 fasterize 1.1.0
-fasterRaster 8.4.1.1
+fasterRaster 8.4.1.2
 fastFGEE 0.1.0
 fastFMM 1.0.0
 fastfocal 0.1.3
@@ -9220,7 +9220,7 @@ hypergeo 1.2-14
 hypergeo2 0.2.0
 hyperoverlap 1.1.4
 hyperSpec 0.100.3
-hypertext 1.1.0
+hypertext 1.2.0
 hypervolume 3.1.6
 HYPEtools 1.6.7
 hypoRF 1.0.1
@@ -12089,7 +12089,7 @@ mig 2.0
 MigConnectivity 0.5.0
 MIGEE 0.1.0
 migest 2.0.6
-migraph 1.6.0
+migraph 1.6.2
 migrate 0.5.1
 migration.indices 0.3.1
 MigrationDetectR 0.1.1
@@ -14337,7 +14337,7 @@ pacta.loanbook 0.1.1
 pacta.multi.loanbook 0.1.1
 pacu 0.1.74
 pacviz 1.0.4
-PACVr 1.1.4
+PACVr 1.1.5
 paddleR 0.1.2
 Pade 1.1.0
 padr 0.6.3
@@ -16274,7 +16274,7 @@ quickOutlier 0.1.5
 quickPlot 1.0.4
 quickpsy 0.1.5.2
 quickPWCR 1.2
-quickr 0.2.1
+quickr 0.3.0
 quickregression 0.2
 quickSentiment 0.3.4
 QuICSeedR 0.1.2
@@ -17485,7 +17485,7 @@ RH2 0.2.5
 rhandsontable 0.3.8
 RHawkes 1.0
 RHC 0.1.0
-RHclust 2.0.0
+RHclust 3.0.0
 rhcoclust 2.0.0
 rheroicons 1.0.0
 rhierbaps 1.1.4

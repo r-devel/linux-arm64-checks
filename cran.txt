@@ -17182,7 +17182,7 @@ ReliabilityTheory 0.3.1
 reliacoef 1.0.1
 ReliaGrowR 0.6
 ReliaLearnR 0.3
-ReliaPlotR 0.4.2
+ReliaPlotR 0.5
 reliaR 0.2
 ReliaShiny 0.4.1
 relimp 1.0-5
@@ -20116,7 +20116,7 @@ sparkavro 0.3.0
 sparkbq 0.1.1
 sparkhail 0.1.1
 sparkline 2.0
-sparklyr 1.9.3
+sparklyr 1.9.4
 sparklyr.flint 0.2.2
 sparklyr.nested 0.0.4
 sparktex 0.1
@@ -21691,7 +21691,7 @@ tidyHeatmap 1.13.1
 tidyheatmaps 0.2.1
 tidyhte 1.0.4
 tidyhydat 1.0.0
-tidyILD 0.3.0
+tidyILD 0.4.0
 tidyjson 0.3.3.1
 tidyklips 0.3.0
 tidylaslog 0.1.2

@@ -7398,7 +7398,7 @@ GCalcium 1.0.0
 GCalignR 1.0.7
 gCat 0.2
 gcbd 0.2.7
-GCCfactor 1.1.5
+GCCfactor 1.1.6
 GCD 4.0.7
 gcdnet 1.0.6
 gcerisk 19.05.24
@@ -13373,7 +13373,7 @@ neuroim 0.0.6
 neuroim2 0.13.0
 neuromapr 0.2.1
 neuromplex 1.0-1
-neuroSCC 1.0.1
+neuroSCC 1.0.2
 neuRosim 0.2-14
 neuroUp 0.3.1
 neutralitytestr 0.0.3
@@ -23535,7 +23535,7 @@ yyjsonr 0.1.22
 Z10 0.1.0
 z22 1.1.4
 zalpha 0.3.0
-zarr 0.2.0
+zarr 0.3.0
 zCompositions 1.6.0
 zctaCrosswalk 2.0.0
 zcurve 2.4.6

@@ -2788,7 +2788,7 @@ cicalc 0.2.0
 ciCalibrate 0.42.2
 cicerone 1.0.4
 CICI 1.0
-ciecl 0.9.2
+ciecl 0.9.6
 CIEE 0.1.1
 cif 0.1.1
 CIfinder 2.0.0
@@ -3156,7 +3156,7 @@ cocotest 1.0.3
 cocron 1.0-1
 coda 0.19-4.1
 coda.base 1.0.5
-coda.pack 0.1.2
+coda.pack 0.1.3
 coda.plot 0.2.2
 coda4microbiome 0.2.4
 codacore 0.0.4
@@ -4983,7 +4983,7 @@ Domean 0.1
 dominanceanalysis 2.1.1
 domino 0.3.1
 DominoDataR 0.3.1
-domir 1.2.0
+domir 1.3.0
 doMPI 0.2.2
 donut 1.0.3
 donutsk 0.1.1
@@ -7535,7 +7535,7 @@ genetic.algo.optimizeR 0.3.3
 geneticae 1.0.0
 genetics 1.3.8.1.3
 GeneticSubsetter 0.8
-GeNetIt 0.1-6
+GeNetIt 0.1-7
 geneviewer 0.1.11
 genfrn 0.1.4
 GenHMM1d 0.2.6
@@ -13236,7 +13236,7 @@ ncdfgeom 1.1.6
 ncf 1.3-3
 ncmeta 0.4.0
 NCmisc 1.3.1
-ncmR 0.1.0
+ncmR 0.2.0
 ncodeR 0.2.0.1
 NCSampling 1.0
 NCSCopula 1.0.1
@@ -22710,7 +22710,7 @@ vaRiskScore 2.0.0
 varitas 0.0.2
 varjmcm 0.1.1
 varoc 1.0.0
-varPro 3.0.0
+varPro 3.1.0
 VarRedOpt 0.1.0
 VarReg 2.0
 vars 1.6-1
@@ -23488,7 +23488,7 @@ yacca 1.4-2
 yaConsensus 1.1
 yager 0.1.1
 yahoofinancer 0.4.0
-yaImpute 1.0-34.1
+yaImpute 1.0-36
 YaleToolkit 4.2.3
 yaml 2.3.12
 yaml12 0.1.0

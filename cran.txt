@@ -8662,7 +8662,7 @@ h3lib 0.1.4
 h3o 0.3.0
 h3r 0.1.2
 h3sdm 0.1.0
-h5lite 2.0.0.2
+h5lite 2.1.1.0
 haarfisz 4.5.4
 hablar 0.3.2
 habtools 1.1.1
@@ -11871,7 +11871,7 @@ metalite.table1 0.4.0
 metaLong 0.1.0
 MetAlyzer 1.1.0
 metaMA 3.1.3
-metamedian 1.2.1
+metamedian 1.2.2
 metamer 0.3.0
 metamisc 0.4.0
 metamorphr 0.3.0
@@ -23454,7 +23454,7 @@ Xplortext 1.5.5
 xportr 0.5.0
 xpose 0.4.23
 xpose.nlmixr2 0.4.1
-xpose.xtras 0.1.2
+xpose.xtras 0.1.3
 xpose4 4.7.4
 xptr 1.2.0
 XR 0.7.2

@@ -262,7 +262,7 @@ Type 'q()' to quit R.
 > 
 > proc.time()
    user  system elapsed 
-  0.208   0.207   0.204 
+  0.228   0.190   0.208 
 --------[begin src/Makevars]--------
 # -*- mode: makefile-gmake -*-
 BH=/usr/local/lib/R/site-library/BH/include

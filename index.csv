@@ -11,7 +11,7 @@ RTriangle,1.6-0.15,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tre
 Rbeast,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/Rbeast
 RcppAlgos,2.10.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RcppAlgos
 ShortRead,1.69.3-2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ShortRead
-akin,0.2.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/akin
+akin,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/akin
 bigmemory,4.6.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bigmemory
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr

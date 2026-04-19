@@ -1,6 +1,6 @@
 # ARCokrig 0.1.3
 
-Latest run: 2026-04-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/24296148954
+Latest run: 2026-04-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/24618469638
 
 ```
 Package: ARCokrig

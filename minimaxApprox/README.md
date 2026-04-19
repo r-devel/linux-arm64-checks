@@ -1,6 +1,6 @@
 # minimaxApprox 0.5.0
 
-Latest run: 2026-04-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/24296534574
+Latest run: 2026-04-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/24618843092
 
 ```
 Package: minimaxApprox

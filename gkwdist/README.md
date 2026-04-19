@@ -1,6 +1,6 @@
 # gkwdist 1.1.2
 
-Latest run: 2026-04-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/24296435103
+Latest run: 2026-04-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/24618741287
 
 ```
 Package: gkwdist

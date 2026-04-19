@@ -1432,7 +1432,7 @@ benchden 1.0.8
 Benchmarking 0.33
 benchmarkme 1.0.8
 benchmarkmeData 2.0.0
-BEND 2.0.0
+BEND 2.0.1
 bender 0.1.1
 benford 1.0.1
 benford.analysis 0.1.5
@@ -4574,7 +4574,7 @@ detector 0.1.0
 detectors 0.1.0
 detectR 0.3.0
 detectRUNS 0.9.6
-detectseparation 0.3
+detectseparation 0.4.0
 detectXOR 0.1.0
 DetLifeInsurance 0.1.3
 DetMCD 0.0.5
@@ -5748,7 +5748,7 @@ energy 1.7-12
 energyGOF 0.1
 energymethod 1.1
 EnergyOnlineCPM 1.0
-energyr 0.2
+energyr 0.4
 enerscape 1.2.0
 enetLTS 1.1.0
 english 1.2-6
@@ -6450,7 +6450,7 @@ fat2Lpoly 1.2.6
 FateID 0.2.2
 FatTailsR 2.0.1
 FaultTree 1.0.1
-faunabr 1.0.0
+faunabr 1.0.1
 faux 1.2.4
 fauxnaif 0.7.1
 fauxpas 0.6.0
@@ -16466,7 +16466,7 @@ randomcoloR 1.1.0.1
 randomForest 4.7-1.2
 randomForestExplainer 0.10.1
 RandomForestsGLS 0.1.5
-randomForestSRC 3.6.1
+randomForestSRC 3.6.2
 randomForestVIP 0.1.3
 RandomGaussianNB 0.2.4
 randomGLM 1.10-1

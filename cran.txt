@@ -374,7 +374,7 @@ AirScreen 0.1.0
 airship 1.4.3
 airt 0.2.2
 aiRthermo 1.2.2
-AIscreenR 0.3.1
+AIscreenR 0.3.2
 aisdk 1.1.0
 aisoph 0.4
 AIUQ 0.5.3
@@ -678,7 +678,7 @@ AR 1.1
 ar.matrix 0.1.0
 arabic2kansuji 0.1.3
 arabicStemR 1.3
-arakno 1.3.1
+arakno 1.3.2
 aramappings 0.2.0
 ArArRedux 1.0
 arc 1.4.2
@@ -830,7 +830,7 @@ assertHE 1.0.1
 assertions 0.3.0
 assertr 3.0.1
 assertthat 0.2.1
-assessor 1.3.0
+assessor 1.3.1
 AssetPricing 1.0-3
 assignPOP 1.3.1
 assignR 2.4.3
@@ -1781,7 +1781,7 @@ blends 0.1.0
 Blendstat 1.0.6
 blindrecalc 1.1.0
 blindreview 2.0.0
-blindspiker 0.2.0
+blindspiker 0.2.1
 blink 1.1.0
 bliss 1.1.1
 blit 0.2.0
@@ -3940,7 +3940,7 @@ cSEM 0.6.1
 CSeqpat 0.1.2
 CSESA 1.2.0
 cshapes 2.0
-CSHShydRology 1.4.6
+CSHShydRology 1.5.0
 CSIndicators 1.2.0
 csmaps 2025.8.21
 csmbuilder 0.1.0
@@ -6995,7 +6995,7 @@ forrel 1.8.1
 forrest 0.3.0
 forsearch 6.4.0
 forstringr 1.0.0
-FORTLS 2.0.0
+FORTLS 2.0.1
 fortniteR 0.1.0
 fortunes 1.5-4
 forward 1.0.7
@@ -7544,7 +7544,7 @@ geneviewer 0.1.11
 genfrn 0.1.4
 GenHMM1d 0.2.6
 genie 1.0.7
-genieBPC 2.0.1
+genieBPC 2.2.0
 genieclust 1.3.0
 genio 1.1.2
 geniusr 1.2.1
@@ -8159,7 +8159,7 @@ gLRTH 0.2.0
 glscalibrator 0.1.0
 glsm 0.0.0.6
 GLSME 1.0.5
-GLSUP 1.0.0
+GLSUP 1.0.1
 glue 1.8.1
 glueDo 0.1.0
 gluedown 1.0.9
@@ -9012,7 +9012,7 @@ HMDA 0.3.0
 hmde 1.3.1
 HMDHFDplus 2.0.8
 hmer 1.6.2
-hmetad 0.1.0
+hmetad 0.1.1
 Hmisc 5.2-5
 hmix 1.0.3
 HMM 1.0.2
@@ -10434,7 +10434,7 @@ ktaucenters 1.0.0
 KTensorGraphs 1.1
 ktsolve 1.4
 ktweedie 1.0.3
-kuenm2 0.1.2
+kuenm2 0.1.3
 kuiper.2samp 1.0
 Kurt 1.1
 kutils 1.73
@@ -11973,7 +11973,7 @@ mfp2 1.0.1
 MFPCA 1.3-11
 mfpp 0.0.9
 mfrmr 0.1.5
-MFSD 0.1.0
+MFSD 0.1.1
 MFSIS 0.3.0
 MFT 2.0
 MfUSampler 1.1.0
@@ -12883,7 +12883,7 @@ multiApply 2.1.5
 multiAssetOptions 0.1-2
 MultiATSM 1.5.1-1
 MultiBD 1.0.2
-multibias 1.7.2
+multibias 1.7.3
 multibiasmeta 0.2.2
 multibiplotGUI 1.1
 multiblock 0.8.10
@@ -16034,7 +16034,7 @@ pylintR 0.1.0
 pyMTurkR 1.1.6
 pyramid 1.5
 pysd2r 0.1.0
-pysparklyr 0.2.0
+pysparklyr 0.2.1
 PytrendsLongitudinalR 0.1.4
 pzfx 0.3.1
 Q2q 0.1.2
@@ -17297,7 +17297,7 @@ resampledata 0.3.2
 resampledata3 1.0
 rescomp 1.0.0
 resde 1.1
-resemble 2.2.5
+resemble 3.0.0
 reservoir 1.1.5
 reservoirnet 0.3.0
 reservr 0.0.3
@@ -17929,7 +17929,7 @@ robustHD 0.8.4
 RobustIV 0.3.1
 RobustLinearReg 1.2.0
 robustlm 0.1.0
-robustlmm 3.4-2
+robustlmm 3.4-3
 robustmatrix 0.1.5
 RobustMediate 0.1.1
 robustmeta 1.2-1
@@ -23222,7 +23222,7 @@ wid 0.0.1
 widals 0.6.2
 wideRhino 1.0.2
 widgetframe 0.3.1
-widr 0.1.0
+widr 0.1.1
 widyr 0.1.5
 WienR 0.3-15
 wig 0.1.0

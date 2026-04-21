@@ -201,6 +201,7 @@ AdIsMF 0.1.1
 adiv 2.2.1
 adj 0.1.0
 adjclust 0.6.11
+adjoin 0.1.0
 adjROC 0.3
 adjSURVCI 1.0
 adjustedcranlogs 0.1.0
@@ -317,6 +318,7 @@ agricolae 1.3-7
 agricolaeplotr 0.6.1
 agridat 1.26
 AgriDiversiX 0.1.0
+agriDQ 0.1.3
 agrifeature 1.0.3
 agriReg 0.1.0
 agriTutorial 0.1.5
@@ -1231,6 +1233,7 @@ BayesianNetwork 0.3.2
 bayesianOU 0.1.3
 BayesianPlatformDesignTimeTrend 1.2.3
 BayesianPower 0.2.3
+BayesianQDM 0.1.0
 BayesianReasoning 0.4.3
 BayesianTools 0.1.9
 Bayesiantreg 1.0.1
@@ -1981,7 +1984,7 @@ bp 2.1.1
 bpa 0.1.1
 bpAcc 0.0-2
 bpbounds 0.1.6
-bpca 1.3-8
+bpca 1.3-9
 bpcp 1.5.1
 bpDir 0.1.2
 bpgmm 1.1.1
@@ -2084,7 +2087,7 @@ brunnermunzel 2.0
 brxx 0.1.2
 bs4cards 0.1.1
 bs4Dash 2.3.5
-bs4Dashkit 0.1.0
+bs4Dashkit 0.2.0
 BSagri 0.1-10
 bsam 1.1.3
 bsamGP 1.2.7
@@ -2312,6 +2315,7 @@ carat 2.2.1
 CARBayes 6.1.1
 CARBayesdata 3.0
 CARBayesST 4.0
+carbondata 0.1.0
 carbondate 1.1.0
 carbonpredict 2.0.1
 carbonr 0.2.7
@@ -2442,6 +2446,7 @@ causalsens 0.1.3
 causalSLSE 0.4-1
 CausalSpline 0.1.0
 causalweight 1.1.4
+causalWins 0.1.0
 CausCor 0.1.3
 causens 0.0.3
 caustests 1.1.1
@@ -2564,6 +2569,7 @@ censable 0.0.8
 censCov 1.0-0
 CensMFM 3.1
 censo2017 0.6.2
+censo2022arg 1.0.1
 censobr 0.5.0
 censorcopula 2.0
 censored 0.3.4
@@ -3992,6 +3998,7 @@ ctrdata 1.26.1
 ctrialsgov 0.2.7
 CTRing 0.1.0
 ctrlGene 1.0.1
+ctrlvee 0.1.0
 cts 1.0-25
 ctsem 3.10.6
 ctsemOMX 2.0.0
@@ -7354,7 +7361,7 @@ GAparsimony 0.9.5
 gapmap 1.0.0
 gapminder 1.0.1
 GAPR 0.1.5
-GARCH.X 1.0
+GARCH.X 2.0
 GARCHIto 0.1.0
 GARCHSK 0.1.0
 garchx 1.6
@@ -9383,6 +9390,7 @@ idiffomix 1.0.0
 iDINGO 1.0.4
 idiogramFISH 2.0.13
 idiolect 1.2.0
+idionomics 0.1.0
 IDLFM 1.0.0
 idm 1.8.3
 idmact 1.0.1
@@ -9440,7 +9448,7 @@ iglu 4.2.2
 igoR 1.0.1
 IgorR 0.9.0
 igr 1.0.1
-igraph 2.2.3
+igraph 2.3.0
 igraphdata 1.0.1
 igraphinshiny 0.1
 iGraphMatch 2.0.5
@@ -11468,6 +11476,7 @@ mascarade 0.3.4
 mase 0.1.5.2
 mashr 0.2.79
 maskedcauses 0.9.3
+maskedhaz 0.1.0
 maskr 0.1.0
 maskRangeR 1.1
 MASS 7.3-65
@@ -11728,6 +11737,7 @@ mdsr 0.2.9
 MDSS 1.0-1
 mdw 2024.8-1
 MEAanalysis 0.1.0
+Meanimiles 0.1.0
 meanr 0.1-6
 meanShiftR 0.56
 meantables 0.1.2
@@ -12556,7 +12566,7 @@ moduleColor 1.8-4
 modules 0.13.0
 MOEADr 1.1.3
 MoEClust 1.6.0
-moewishart 1.0
+moewishart 1.1
 MOFAT 1.0
 mogiw 0.1.0
 mojson 0.1
@@ -12833,6 +12843,7 @@ msu 0.0.1
 MSUthemes 1.0.0
 MSwM 1.5
 mt 2.0-1.21
+mt.surv 1.1.1
 MTA 0.6.0
 mtanan 0.0.1
 mtaOpenData 0.1.0
@@ -13343,6 +13354,7 @@ netseg 1.0-3
 netSEM 0.7.0
 NetSimR 0.1.5
 netstat 0.1.2
+netsubsamp 1.0.0
 nett 1.0.0
 nettskjemar 1.0.4
 netUtils 0.8.5
@@ -13996,6 +14008,7 @@ onlineCOV 1.3
 onlineforecast 1.0.2
 onlinePCA 1.3.2
 onlineretail 0.1.2
+OnlineSurr 0.0.3
 onls 0.1-4
 onmaRg 1.0.3
 onnx 0.0.3
@@ -14011,6 +14024,7 @@ ontologyPlot 1.7
 ontologySimilarity 2.9
 ontophylo 1.1.3
 OOBCurve 0.3
+OofAExp 0.1.0
 oolong 0.6.1
 oompaBase 3.2.11
 oompaData 3.1.5
@@ -15271,6 +15285,7 @@ pmxNODE 0.1.0
 pmxpartab 0.5.0
 pmxTools 1.5
 PNADcIBGE 0.7.5
+PNADCperiods 0.1.1
 PNAR 1.8
 PNC 0.1.0
 pnd 0.1.2
@@ -15502,7 +15517,7 @@ powertools 1.0.0
 PowerTOST 1.5-7
 powRICLPM 0.2.1
 PowRPriori 0.1.2
-PP 0.6.3-11
+PP 0.6.4-1
 PPbigdata 1.0.0
 pPCA 1.1
 ppcc 1.3
@@ -15980,7 +15995,7 @@ PupillometryR 0.0.7
 PupilPre 0.6.3
 PUPMCR 0.2.0
 PUPMSI 0.1.0
-puremoe 1.0.3
+puremoe 1.0.4
 pureseqtmr 1.4
 purge 0.2.1
 purgeR 1.8.2
@@ -16054,6 +16069,7 @@ qap 0.1-2
 qape 2.1
 Qapprox 0.2.0
 qardlr 1.0.1
+qarPI 0.1.0
 qatarcars 1.1.0
 qbinplots 0.3.3
 qbld 1.0.3
@@ -17607,6 +17623,7 @@ RISmed 2.3.0
 Rita 1.2.0
 ritalic 0.12.0
 Ritc 1.3
+RITCH 0.1.30
 ritis 1.0.0
 RItools 0.3-5
 riv 2.0-5
@@ -17930,6 +17947,7 @@ robustbetareg 0.3.1
 RobustBF 0.2.0
 RobustCalibration 0.5.6
 robustDA 1.2
+robustDIF 0.2.0
 robusTest 1.1.0
 robustETM 1.0
 robustfa 1.2-0
@@ -18084,6 +18102,7 @@ roughsf 1.0.0
 round 0.21-0.2
 RoundAndRound 0.0.1
 roundhouse 0.0.2
+roundRobinR 1.0.1
 roundwork 0.0.1
 roundyh 0.1.0
 Routliers 0.0.0.3
@@ -18289,7 +18308,7 @@ rshift 3.1.2
 rsi 0.3.3
 rsides 0.1
 RSiena 1.6.6
-rsimsum 0.13.0
+rsimsum 0.13.1
 rsinaica 1.1.1
 rsixel 0.0.4
 RSizeBiased 0.1.0
@@ -18824,7 +18843,7 @@ scDiffCom 1.2.0
 scDIFtest 0.1.1
 scdtb 0.2.0
 SCE 1.1.2
-scellpam 1.4.6.2
+scellpam 1.4.7
 scenes 0.1.0
 scenfire 0.1.0
 SCEnt 0.0.1
@@ -20963,6 +20982,7 @@ SunCalcMeeus 0.1.3
 Sunclarco 1.0.0
 SunsVoc 0.1.2
 suntools 1.1.0
+supabaseR 1.0.0
 supclust 1.1-1
 super 0.1.1
 superb 1.0.1
@@ -21067,6 +21087,7 @@ survivalsvm 0.0.6
 SurvivalTests 1.0
 survivalVignettes 0.1.6
 survivoR 2.3.10
+survkl 1.0.0
 survlab 0.1.0
 SurvLong 1.5
 SurvMA 1.6.8
@@ -21179,6 +21200,7 @@ swissparl 0.3.0
 switchcase 0.1.1
 switchr 0.14.8
 switchSelection 2.1.0
+swjm 0.1.0
 SWMPr 2.5.2
 SwPcIndex 0.1.0
 SWTools 1.1.0
@@ -21766,7 +21788,7 @@ tidytable 0.11.2
 tidyterra 1.1.0
 tidytext 0.4.3
 tidytitanic 0.0.1
-tidytlg 0.11.0
+tidytlg 0.12.0
 tidytransit 1.8.0
 tidytreatment 0.3.2
 tidytree 0.4.7
@@ -22424,6 +22446,7 @@ TwoSampleTest.HD 1.2
 twosigma 1.0.2
 twoStageDesignTMLE 1.0.1.2
 TwoStepCLogit 1.2.6
+TwoStepSDFM 0.2.0
 TwoTimeScales 1.2.1
 twotrials 0.6
 twoway 0.6.3
@@ -22488,6 +22511,7 @@ ukc19 0.0.3
 UKFE 2.0.0
 ukgasapi 0.21
 UKgrid 0.1.3
+ukhousing 0.1.0
 ukhsadatR 0.1.1
 ukpolice 0.2.2
 ulex 0.1.1
@@ -23102,6 +23126,7 @@ wbsd 1.0.0
 wbstats 1.1
 wbsts 2.1
 wbwdi 1.0.4
+wcc 0.3.1
 wcde 0.0.8
 WCE 1.0.4
 wcep 1.0.3

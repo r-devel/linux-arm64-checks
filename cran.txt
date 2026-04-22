@@ -697,7 +697,7 @@ arcgisutils 0.5.0
 ArchaeoPhases 2.1.0
 ArchaeoPhases.dataset 0.2.0
 archdata 1.2-1
-archeofrag 1.2.3
+archeofrag 1.2.4
 archeofrag.gui 1.1.4
 archeoViz 1.4.1
 archetypal 1.3.1
@@ -4603,7 +4603,7 @@ detpack 1.1.3
 detrendeR 1.0.5
 detrendr 0.6.15
 deTS 1.0
-detzrcr 0.3.1
+detzrcr 0.3.2
 devEMF 4.5-1
 devFunc 0.1
 devianLM 1.0.7
@@ -5153,7 +5153,7 @@ DrugUtilisation 1.1.0
 drumr 0.1.0
 DRviaSPCN 0.1.5
 ds 4.0
-ds4psy 1.2.0
+ds4psy 1.3.0
 dsa 1.0.12
 DSAIDE 0.9.6
 DSAIRM 0.9.6
@@ -6057,7 +6057,7 @@ europepmc 0.4.3
 europop 0.3.1
 eurostat 4.0.0
 eva 0.2.6
-eva3dm 1.11
+eva3dm 1.20
 evabic 0.1.4
 Evacluster 0.1.0
 evalHTE 0.1.1
@@ -6065,7 +6065,7 @@ evalITR 1.0.0
 evalR 0.0.1
 EvalTest 1.0.6
 evaluate 1.0.5
-EvaluateCore 0.1.4
+EvaluateCore 0.1.5
 EvaluationMeasures 1.1.0
 EValue 4.1.4
 evapoRe 1.0.1
@@ -9157,7 +9157,7 @@ htm2txt 2.2.2
 html2R 0.1.0
 html5 1.0.2
 htmlreportR 1.0.0
-htmlTable 2.4.3
+htmlTable 2.5.0
 htmltools 0.5.9
 HTMLUtils 0.1.9
 htmlwidgets 1.6.4
@@ -10045,6 +10045,7 @@ jaccard 0.1.2
 jackalope 1.1.6
 jackknifeR 2.0.0
 jackstrap 0.1.0
+jackstraw 1.3.21
 jacobi 3.1.1
 JacobiEigen 0.3-4
 jacpop 0.6
@@ -10151,7 +10152,7 @@ JOPS 0.2.0
 jordan 1.0-6
 JoSAE 0.3.0
 josaplay 0.1.3
-jose 1.2.1
+jose 2.0.0
 jot 0.0.5
 journalabbr 0.4.3
 journalR 0.6.0
@@ -11878,7 +11879,7 @@ metacom 1.5.3
 metaconfoundr 0.1.2
 metaConvert 1.0.3
 metacor 1.2.1
-metacore 0.2.1
+metacore 0.3.0
 MetaCycle 1.2.1
 metadat 1.4-0
 metadeconfoundR 1.0.5
@@ -12645,7 +12646,7 @@ moonboot 2.0.1
 moonlit 0.1.1
 mooplot 0.1.1
 moose 0.0.1
-mop 0.1.3
+mop 0.1.4
 mopac 0.1.0
 MOQA 2.0.0
 morepls 0.2.1
@@ -13280,7 +13281,7 @@ ncbit 2013.03.29.1
 NCC 1.0
 ncdf4 1.24
 ncdfCF 0.8.2
-ncdfgeom 1.1.6
+ncdfgeom 1.2.2
 ncf 1.3-3
 ncmeta 0.4.0
 NCmisc 1.3.1
@@ -15143,7 +15144,7 @@ pkggraph 0.3.0
 pkgGraphR 0.3.1
 pkgKitten 0.2.4
 pkglite 0.2.5
-pkgload 1.5.1
+pkgload 1.5.2
 pkgndep 2.0.0
 pkgnet 0.6.0
 pkgnews 0.0.2
@@ -22467,7 +22468,7 @@ twangMediation 1.2.1
 twbparser 0.4.0
 twc 0.0.2
 twdtw 1.0-1
-tweedie 3.0.17
+tweedie 3.0.19
 tweenr 2.0.3
 tweetcheck 0.1.0
 twenty48 0.2.1
@@ -22744,7 +22745,7 @@ vagalumeR 0.1.6
 vagam 1.1
 valaddin 1.0.2
 vald.extractor 0.1.1
-valdr 2.2.0
+valdr 3.0.0
 valdrViz 1.0.1
 valection 1.0.0
 valentine 2025.2.14
@@ -23253,7 +23254,7 @@ weightedScores 0.9.5.3
 weightedsurv 0.1.0
 WeightedTreemaps 0.1.4
 weightedVoronoi 1.1.1
-WeightIt 1.6.0
+WeightIt 1.7.0
 WeightMyItems 0.1.4
 weightQuant 1.0.1
 weightr 2.0.2

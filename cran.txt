@@ -283,7 +283,7 @@ afmToolkit 1.0.0
 afpt 1.1.0.4
 AFR 0.3.8
 africamonitor 0.2.4
-aftables 2.0.0
+aftables 2.0.1
 aftgee 1.2.1
 afthd 1.1.0
 aftPenCDA 0.1.0
@@ -779,7 +779,6 @@ arrowheadr 1.0.2
 ars 0.8
 arse 1.0.0
 arsenal 3.6.3
-ART 1.0
 arthistory 0.1.0
 artma 0.3.3
 ARTofR 0.4.1
@@ -2173,6 +2172,7 @@ bumbl 1.0.4
 bumblebee 0.1.0
 bunching 0.8.6
 bunchr 1.2.1
+bunddev 0.2.3
 bundesbank 0.1-12
 bundesligR 0.1.0
 bundle 0.1.3
@@ -4046,7 +4046,7 @@ CureDepCens 0.1.0
 curephEM 0.3.2
 cureplots 1.1.1
 curesurv 0.1.2
-curl 7.0.0
+curl 7.1.0
 currencyapi 0.1.0
 currentSurvival 1.1
 CurricularAnalytics 1.0.0
@@ -5267,7 +5267,7 @@ Durga 2.1.0
 DUToolkit 1.0.2
 dverse 0.2.0
 DVHmetrics 0.4.3
-dvir 3.3.0
+dvir 3.4.0
 dvmisc 1.1.4
 DWaveNARDL 0.1.0
 dwctaxon 2.0.4
@@ -5866,6 +5866,7 @@ epimdr2 1.1-1
 EpiModel 2.6.0
 epinet 2.1.11
 epinetr 0.96
+EpiNova 0.1.0
 EpiNow2 1.8.0
 epiomics 1.2.0
 epiparameter 0.4.1
@@ -6226,7 +6227,7 @@ ExtMallows 0.1.0
 extr 1.1.0
 extractFAERS 0.1.4
 ExtractTrainData 9.1.6
-extraDistr 1.10.0.2
+extraDistr 1.10.0.3
 extrafont 0.20
 extrafontdb 1.1
 extrafrail 1.14
@@ -6697,6 +6698,7 @@ fingerprint 3.5.10
 fingerPro 2.1
 finiteruinprob 0.6
 finity 0.1.5
+finlabR 1.0.0
 finna 0.1.1
 FinNet 0.2.1
 finnishgrid 0.2.0
@@ -7272,7 +7274,6 @@ fuzzyforest 1.0.8
 FuzzyImputationTest 0.5.2
 fuzzyjoin 0.1.8
 fuzzylink 0.4.1
-FuzzyLP 0.1-7
 FuzzyM 0.1.0
 FuzzyNumbers 0.4-7
 FuzzyNumbers.Ext.2 3.2
@@ -7343,9 +7344,7 @@ gamlss 5.5-0
 gamlss.add 5.1-14
 gamlss.cens 5.0-7
 gamlss.data 6.0-7
-gamlss.demo 4.3-3
 gamlss.dist 6.1-1
-gamlss.foreach 1.1-6
 gamlss.inf 1.0-2
 gamlss.lasso 1.0-1
 gamlss.mx 6.0-1
@@ -7843,7 +7842,7 @@ gggenomes 1.1.3
 ggghost 0.2.3
 gggibbous 0.1.1
 gggrid 0.2-0
-ggguides 1.1.4
+ggguides 1.1.5
 ggh4x 0.3.1
 gghalfnorm 1.1.2
 gghdx 0.1.4
@@ -7909,7 +7908,7 @@ ggpicrust2 2.5.12
 ggplate 0.2.0
 ggplayfair 0.1.1
 ggplot.multistats 1.0.1
-ggplot2 4.0.2
+ggplot2 4.0.3
 ggplot2.utils 0.3.3
 ggplot2movies 0.0.1
 ggplotAssist 0.1.3
@@ -7955,7 +7954,7 @@ ggscidca 0.2.8
 ggseg 2.1.1
 ggseg.formats 0.0.2
 ggseg.meshes 0.0.1
-ggseg3d 2.1.0
+ggseg3d 2.1.1
 ggsegmentedtotalbar 0.1.0
 ggsem 0.9.9
 ggseqlogo 0.2.2
@@ -8122,6 +8121,7 @@ glm.predict 4.3-2
 glm2 1.2.1
 glm4 0.1.0
 GLMaSPU 1.0
+GLMBasedRaschEstimation 0.1.2
 glmbb 0.5-1
 glmc 0.4-1
 GLMcat 1.0.0
@@ -8448,7 +8448,7 @@ greekLetters 1.0.4
 greeks 1.5.1
 greenclust 1.1.1
 greencrab.toolkit 0.2
-GREENeR 1.0.1
+GREENeR 1.0.2
 greenfeedr 1.3.1
 greenR 0.0.1.6
 greenSD 0.1.1
@@ -8721,6 +8721,7 @@ handyplots 1.1.3
 hann 1.2
 hans 0.1
 HanStat 0.90.0
+hanyupinyin 0.1.1
 hapassoc 1.2-9
 Hapi 0.0.3
 Haplin 7.3.2
@@ -8971,7 +8972,7 @@ hierNet 1.9
 HierPortfolios 1.0.2
 hierSDR 0.1
 HiGarrote 2.0.0
-highcharter 0.9.4
+highcharter 0.9.5
 highd2means 1.0
 highDmean 0.1.0
 HighestMedianRules 1.0
@@ -10013,6 +10014,7 @@ itsmr 1.11
 iucnr 0.0.0.1
 iv.sensemakr 0.1.0
 ivaBSS 1.0.0
+ivcheck 0.1.1
 IVCor 0.1.0
 ivd 1.0.0
 ivdesc 1.1.2
@@ -10535,7 +10537,6 @@ LAIr 0.3.0
 lakefetch 0.1.3
 LakeMetabolizer 1.5.6
 lakemorpho 1.3.2
-laketemps 0.5.1
 lakhesis 0.0.1
 LAM 0.7-22
 LaMa 2.1.0
@@ -10938,6 +10939,7 @@ llamaR 0.2.3
 LLM 1.1.0
 llm.api 0.1.1
 LLMAgentR 0.3.2
+llmclean 0.1.0
 llmflow 3.0.2
 llmhelper 1.0.0
 LLMing 1.2.1
@@ -11018,7 +11020,6 @@ localIV 0.3.1
 localLLM 1.2.1
 localModel 0.5
 localScore 2.0.5
-localsolver 2.3
 localsp 0.1.0
 locaR 0.2.0
 locateip 0.1.2
@@ -11731,6 +11732,7 @@ mda 0.5-5
 mda.biber 1.0.1
 mDAG 1.2.3
 mdatools 0.15.0
+mdbplyr 0.3.0
 mdbr 0.2.1
 MDCcure 0.1.0
 MDDC 1.1.0
@@ -13787,6 +13789,7 @@ nRegression 0.5.1
 NRejections 1.2.0
 nricens 1.6
 nrlR 0.1.2
+NRMSampling 0.2.2
 nsarfima 0.2.0.0
 nscancor 0.7.0-6
 NScluster 1.3.6-5
@@ -13930,6 +13933,7 @@ odr 1.8.3
 ODRF 0.0.5
 ODS 0.2.0
 ODT 1.0.0
+OdysseusCharacterizationModule 0.0.1
 OdysseusPathwayModule 0.0.1
 OdysseusSurvivalModule 0.1.0
 odyssey 1.0.0
@@ -13974,7 +13978,7 @@ ollamar 1.2.2
 ollg 1.0.0
 ollggamma 1.0.2
 olr 1.2
-olsrr 0.6.1
+olsrr 0.7.0
 OLStrajr 0.1.0
 OlympicRshiny 1.0.2
 OmegaG 1.0.1
@@ -15140,7 +15144,7 @@ pkgdiff 1.0.2
 pkgdown 2.2.0
 pkgdown.offline 0.1.2
 pkgfilecache 0.1.5
-pkggraph 0.3.0
+pkggraph 0.3.1
 pkgGraphR 0.3.1
 pkgKitten 0.2.4
 pkglite 0.2.5
@@ -15765,7 +15769,7 @@ processcheckR 0.1.5
 processmapR 0.5.8
 processmonitR 0.1.0
 processpredictR 0.1.1
-processx 3.8.7
+processx 3.9.0
 proclhmm 1.0.1
 procmaps 0.0.5
 ProcMod 1.0.8
@@ -16219,7 +16223,7 @@ qrng 0.0-11
 qrNLMM 4.0
 qrnn 2.1.1
 qryflow 0.2.0
-qs2 0.1.7
+qs2 0.2.0
 QSARdata 1.3
 qshap 1.0
 qsimulatR 1.1.1
@@ -16771,7 +16775,7 @@ Rcereal 1.3.2
 RcextTools 0.1.1
 RCGLS 1.0.3
 rchallenge 1.3.4
-RChASM 1.0.0
+RChASM 1.0.1
 rChEA3 0.2.0
 rchemo 0.1-3
 rcheology 4.5.3.0
@@ -16845,6 +16849,7 @@ RConics 1.1.2
 rcontroll 0.1.2
 rconvertu 0.1.0
 Rcope 1.0.0
+rCoreGage 1.0.0
 rcorpora 2.0.1
 RCPA 0.2.8
 RCPA3 1.3.1
@@ -17406,7 +17411,6 @@ resumer 0.0.5
 resumiR 1.0.2
 ReSurv 1.0.0
 retel 0.1.1
-rethinker 1.1.0
 rethnicity 0.2.7
 reticulate 1.46.0
 retimer 0.1.3
@@ -17450,7 +17454,6 @@ Rfast2 0.1.5.6
 RFclust 0.1.2
 rFDP 0.1.1
 RfEmpImp 2.1.8
-rFerns 5.0.0
 rFIA 1.1.2
 rfieldclimate 0.1.1
 rfinterval 1.0.0
@@ -18442,10 +18445,9 @@ rt 1.1.0
 rt.test 1.18.7.9
 rt3 0.1.2
 rTableICC 1.0.9
-rtables 0.6.15
+rtables 0.6.16
 rtables.officer 0.1.2
 rtabulator 0.1.2
-rtape 2.2
 Rtauchen 1.0
 RTaxometrics 3.2.1
 RTCC 0.1.1
@@ -18453,7 +18455,6 @@ rTCRBCRr 0.1.1
 RTD 0.4.2
 RTDE 0.2-2
 rtdists 0.11-5
-rtematres 0.2
 rtemis 1.0.0
 rtemis.core 0.0.3
 rtemps 0.8.0
@@ -18629,6 +18630,7 @@ s3.resourcer 1.1.2
 s3fs 0.1.7
 S3VS 1.0
 S4DM 0.0.1
+S7 0.2.2
 S7schema 0.1.0
 saasCNV 0.3.4
 saber 0.3.0
@@ -18786,7 +18788,6 @@ SASdates 0.1.0
 sasif 0.1.3
 sasLM 0.10.8
 SASmarkdown 0.8.7
-SASmixed 1.0-4
 sasquatch 0.1.3
 sasr 0.1.5
 sass 0.4.10
@@ -18922,7 +18923,7 @@ SCINA 1.2.0
 scINSIGHT 0.1.5
 scip 1.10.0-3
 sciplot 1.2-0
-SCIproj 1.0.0
+SCIproj 1.0.1
 scipub 1.3.0
 sciRmdTheme 0.1
 scISR 0.1.1
@@ -19293,7 +19294,7 @@ settings 0.2.7
 settingsSync 3.0.2
 setweaver 1.0.0
 setwidth 1.1.0
-Seurat 5.4.0
+Seurat 5.5.0
 SeuratExplorer 0.1.4
 SeuratObject 5.4.0
 sevenbridges2 0.4.0
@@ -19904,6 +19905,7 @@ SLSEdesign 0.1.0
 SLTCA 0.1.0
 slurm 2025.4.9
 slurmR 0.5-4
+slxr 0.1.1
 sm 2.2-6.0
 smaa 0.3-3
 smacof 2.1-7
@@ -20074,7 +20076,7 @@ softImpute 1.4-3
 softwareRisk 0.2.0
 SOHPIE 1.0.6
 SOIL 1.1
-soilassessment 0.3.2
+soilassessment 1.3.0
 soilchemistry 0.1.0
 SoilConservation 1.0.1
 soilDB 2.9.1
@@ -20486,6 +20488,7 @@ SpoMAG 0.1.0
 spongebob 0.4.0
 spongecake 0.1.2
 spooky 1.4.0
+spopt 0.1.2
 spork 0.3.5
 sport 0.2.2
 SportMiner 0.1.0
@@ -20567,7 +20570,6 @@ sr 0.1.0
 sra 0.1.4.1
 srcpkgs 0.2.1
 srcr 1.1.2
-SRCS 1.1
 sRDA 1.0.0
 sRdpData 0.1.0
 sreg 2.0.2
@@ -21555,7 +21557,7 @@ ternvis 1.3
 terra 1.9-11
 terrainmeshr 1.0.1
 terrainr 0.7.6
-TesiproV 0.9.5
+TesiproV 0.9.6
 tesselle 1.6.0
 tesseract 5.2.5
 test.assessr 2.0.0
@@ -21906,6 +21908,7 @@ tinycodet 0.6.2
 tinyimg 0.4
 tinylabels 0.2.5
 tinylens 0.1.0
+tinypkgr 0.2.1
 tinyplot 0.6.1
 tinyrox 0.3.3
 tinyscholar 0.1.7
@@ -22438,7 +22441,6 @@ tune 2.1.0
 TunePareto 2.5.3
 tuneR 1.4.7
 tuneRanger 0.8.1
-tuple 0.4-02
 turboEM 2025.1
 turkeyelections 0.1.4
 turner 0.2.0
@@ -22532,6 +22534,7 @@ ucie 1.0.2
 ucimlrepo 0.0.2
 uclust 1.0.0
 ucminf 1.2.3
+ucminfcpp 1.0.0
 UComp 5.1.9
 UCR.ColumnNames 0.1.0
 UCSCXenaShiny 2.2.0
@@ -22724,7 +22727,7 @@ utile.visuals 0.3.3
 utility 1.4.7
 utilityFunctionTools 1.0
 utilsIPEA 0.0.6
-utsf 1.3.2
+utsf 1.3.3
 uuid 1.2-2
 uuidx 0.0.1
 UVdose 0.1.1
@@ -22811,7 +22814,7 @@ VARSELECTEXPOSURE 1.0.3
 VarSelLCM 2.1.3.2
 varSelRF 0.7-9
 VARshrink 0.3.3
-vartest 1.4
+vartest 1.5
 varTestnlme 1.3.5
 VARtests 2.0.7
 varycoef 0.3.6
@@ -23120,6 +23123,7 @@ warbleR 1.1.37
 WARDEN 2.0.2
 WAreg 0.1.0
 warehouseTools 0.1.4
+wARMASVp 0.1.0
 WARN 1.2-5
 WarnEpi 1.0.1
 warp 0.2.3
@@ -23246,6 +23250,7 @@ Weighted.Desc.Stat 1.0
 weightedCL 0.7
 WeightedCluster 2.0
 WeightedEnsemble 0.1.0
+weightederm 0.1.0
 weightedGCM 0.1.1
 WeightedPortTest 1.1
 weightedRank 0.7.0
@@ -23262,7 +23267,6 @@ weights 1.1.2
 WeightSVM 1.7-16
 weird 2.0.0
 weirs 0.25
-welchADF 0.3.2
 welo 0.1.4
 WeMix 4.0.3
 wesanderson 0.3.7
@@ -23711,4 +23715,3 @@ dsdp 0.1.1-1
 IP 0.1.6-1
 precondition 0.1.0-1
 Rcpp 1.1.1-1
-S7 0.2.1-1

@@ -940,7 +940,7 @@ automatedtests 0.1.2
 automerge 0.4.0
 autometric 0.1.2
 automl 1.3.2
-autoMR 1.1.0
+autoMR 1.1.1
 autonewsmd 0.1.0
 Autoplotprotein 1.1
 AutoPlots 1.5.0
@@ -3294,7 +3294,7 @@ colorscience 1.0.9
 colorsGen 1.0.0
 colorspace 2.1-2
 colorSpec 1.8-0
-Colossus 1.5
+Colossus 1.5.1
 colouR 0.1.1
 colourlovers 0.3.6
 colourpicker 1.3.0
@@ -4215,6 +4215,7 @@ datacutr 0.2.4
 datadictionary 1.0.1
 datadiff 0.4.4
 datadogr 0.1.2
+datadriftR 1.1.0
 DataEditR 1.0.0
 DataExplorer 0.9.0
 dataframeexplorer 1.0.2
@@ -14045,7 +14046,7 @@ onlineCOV 1.3
 onlineforecast 1.0.2
 onlinePCA 1.3.2
 onlineretail 0.1.2
-OnlineSurr 0.0.3
+OnlineSurr 0.0.4
 onls 0.1-4
 onmaRg 1.0.3
 onnx 0.0.3
@@ -17039,7 +17040,7 @@ readbulk 1.1.4
 ReadDIM 0.2.11
 readecb 0.1.2
 readelan 0.1.0
-readepi 1.0.4
+readepi 1.0.5
 reader 1.1.0
 readHAC 1.0
 readJDX 0.6.4
@@ -21476,7 +21477,7 @@ tdaunif 0.2.0
 TDAvec 0.1.41
 TDbook 0.0.6
 TDboost 1.6
-TDCM 0.1.0
+TDCM 0.3.0
 tdcmStan 3.0.0
 TDCor 0.1-2
 TDIagree 0.2.0
@@ -23103,7 +23104,7 @@ VWPre 1.2.5
 vws 0.3.0
 W2CWM2C 2.2
 W3CMarkupValidator 0.2-3
-W4MRUtils 1.2.1
+W4MRUtils 1.2.2
 WA 1.0
 wacolors 0.3.1
 WACS 1.1.0

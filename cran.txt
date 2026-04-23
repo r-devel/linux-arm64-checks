@@ -286,7 +286,7 @@ africamonitor 0.2.4
 aftables 2.0.1
 aftgee 1.2.1
 afthd 1.1.0
-aftPenCDA 0.1.0
+aftPenCDA 0.1.1
 aftR2 0.1.0
 aftsem 1.0
 afttest 4.5.3
@@ -794,7 +794,7 @@ arulesViz 1.5.4
 ARUtools 0.7.3
 aRxiv 0.18
 asaur 0.50
-asbio 1.13
+asbio 1.13-1
 ascii 2.6
 asciicast 2.3.1
 asciichartr 0.1.0
@@ -1833,7 +1833,7 @@ BLRPM 1.0
 BLRShiny 0.1.0
 BLRShiny2 0.1.0
 blsBandit 0.1
-BLSloadR 0.4
+BLSloadR 0.4.5
 BLSM 0.1.0
 blsR 0.5.0
 bluebike 0.0.3
@@ -5373,7 +5373,7 @@ easypower 1.0.2
 easyPSID 0.1.2
 easyPubMed 3.1.6
 easyr 0.5-11
-easyRaschBayes 0.2.0
+easyRaschBayes 0.2.0.1
 easyRef 0.1.0
 easyreg 4.0
 easyScieloPack 0.1.1
@@ -8419,7 +8419,6 @@ graphlayouts 1.2.3
 graphon 0.3.6
 graphonmix 0.0.1.0
 graphPAF 2.0.1
-graphpcor 0.1.24
 graphql 1.5.3
 GraphRankTest 0.1
 graphsim 1.0.4
@@ -9683,8 +9682,6 @@ INLABMA 0.1-12
 inlabru 2.14.0
 INLAjoint 25.11.10
 inlamemi 1.1.0
-INLAspacetime 0.1.13
-INLAtools 0.1.3
 INLAvaan 0.2.4
 inlcolor 1.0.6
 inline 0.3.21
@@ -12278,7 +12275,7 @@ mixchar 0.1.0
 mixcure 2.0
 mixdir 0.3.0
 mixdist 0.5-5
-mixedBayes 0.2.4
+mixedBayes 0.2.5
 mixedbiastest 1.0.2
 mixedCCA 1.6.3
 mixedfact 0.1.1
@@ -13945,7 +13942,7 @@ odyssey 1.0.0
 OECD 0.2.5
 oecdoda 0.1.0
 OEFPIL 0.1.2
-oeli 0.7.5
+oeli 0.7.6
 oem 2.0.12
 oenb 0.0.2
 OenoKPM 2.4.1
@@ -14608,7 +14605,7 @@ Path.Analysis 0.1
 path.chain 1.0.0
 pathfindR 2.7.0
 pathfindR.data 2.1.0
-pathling 9.5.0
+pathling 9.6.0
 pathlit 0.1.0
 pathmodelfit 1.0.5
 paths 0.1.2
@@ -16003,7 +16000,7 @@ ptvapi 2.0.5
 ptw 1.9-17
 ptwikiwords 0.0.3
 PTwins 0.1.1
-PTXQC 1.1.4
+PTXQC 1.1.5
 ptycho 1.1-5
 pubchem.bio 1.0.5
 PubChemR 3.0.0
@@ -16846,7 +16843,7 @@ rcollectadhd 0.8
 RColorBrewer 1.1-3
 RColorConesa 1.0.0
 rcolors 0.1.0
-Rcompadre 1.4.0
+Rcompadre 1.5.0
 rcompanion 2.5.2
 rcompendium 1.4
 rconf 0.1.2
@@ -20296,7 +20293,7 @@ SpatialPosition 2.1.3
 spatialprobit 1.0.4
 SpatialRDD 0.1.0
 spatialreg 1.4-3
-spatialreg.hp 0.0-1
+spatialreg.hp 0.0-2
 SpatialRegimes 1.2
 spatialRF 1.1.5
 spatialrisk 0.7.3
@@ -21073,7 +21070,7 @@ surface 0.6
 suRface.analytics 0.1.0
 SurfaceTortoise 2.0.1
 SurfRough 0.0.1.2
-SurprisalAnalysis 3.0.0
+SurprisalAnalysis 3.0.1
 surreal 0.0.2
 Surrogate 3.4.1
 SurrogateBMA 1.0
@@ -21802,7 +21799,7 @@ tidylo 0.2.0
 tidylog 1.1.0
 tidyLPA 2.0.2
 tidyMC 1.0.1
-tidymodels 1.4.1
+tidymodels 1.5.0
 tidymodlr 1.0.0
 TidyMultiqc 1.0.3
 tidyna 0.4.0

@@ -3953,6 +3953,7 @@ csdm 1.0.1
 CSDownscale 0.0.2
 cSEM 0.6.1
 CSeqpat 0.1.2
+CSeQTL 1.0.1
 CSESA 1.2.0
 cshapes 2.0
 CSHShydRology 1.5.0
@@ -4832,7 +4833,6 @@ discursive 0.1.1
 disdat 1.0-1
 diseasemapping 2.0.6
 diseasystore 0.3.3
-DisHet 1.0.0
 DisimForMixed 0.2
 DisImpact 0.0.21
 dismo 1.3-16
@@ -8127,7 +8127,6 @@ glm.deploy 1.0.4
 glm.predict 4.3-2
 glm2 1.2.1
 glm4 0.1.0
-GLMaSPU 1.0
 GLMBasedRaschEstimation 0.1.2
 glmbb 0.5-1
 glmc 0.4-1
@@ -9818,7 +9817,6 @@ IOBR 2.2.0
 IOLS 0.1.4
 ioncopy 2.2.2
 ionet 0.2.2
-iopsych 0.90.1
 iosmooth 0.94
 iotables 0.9.4
 iotarelr 0.1.8
@@ -11370,7 +11368,6 @@ mammalcol 0.2.9
 MAMS 3.0.3
 ManagedCloudProvider 1.0.0
 managelocalrepo 0.1.5
-MANCIE 1.4
 mand 2.0
 MandalaR 0.1.0
 mandelbrot 0.2.0
@@ -12237,7 +12234,6 @@ misl 2.0.0
 mispitools 1.4.0
 mispr 1.0.0
 misPRIME 0.1.0
-MiSPU 1.0
 MisRepARMA 0.0.2
 missalpha 0.2.0
 missCforest 0.0.8
@@ -13660,7 +13656,7 @@ nomiShape 1.0.2
 nomnoml 0.3.0
 nomogramEx 3.0
 nomogramFormula 1.2.0.0
-NonCompart 0.7.2
+NonCompart 0.8.0
 noncompliance 0.2.2
 noncomplyR 1.0
 nonet 0.4.0
@@ -15621,7 +15617,6 @@ praise 1.0.0
 PRANA 1.0.6
 praznik 12.0.0
 prcbench 1.1.10
-prclust 1.3
 prcr 0.2.1
 PRDA 1.0.2
 pre 1.0.8
@@ -16865,6 +16860,7 @@ rcorpora 2.0.1
 RCPA 0.2.8
 RCPA3 1.3.1
 Rcplex 0.3-8
+Rcpp 1.1.1-1.1
 RcppAlgos 2.10.0
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
@@ -19143,7 +19139,7 @@ sejmRP 1.3.4
 Sejong 0.01
 SEL 1.0-4
 selcorr 1.0
-Select 1.5
+Select 1.6
 selectapref 0.1.2
 SelectBoost 2.3.0
 SelectBoost.beta 0.4.5
@@ -20254,7 +20250,6 @@ sparsenet 1.7
 sparsepca 0.1.2
 sparsepp 1.22
 sparseR 0.3.2
-sparsereg 1.2
 sparseSEM 4.1
 sparsestep 1.0.1
 sparsesurv 0.1.1
@@ -22587,7 +22582,7 @@ ulex 0.1.1
 ulid 0.4.0
 ulrb 0.1.8
 Ultimixt 2.1
-ultrapolaRplot 0.1.1
+ultrapolaRplot 0.2.1
 umap 0.2.10.0
 Umatrix 4.0.2
 umbridge 1.0
@@ -23729,4 +23724,3 @@ ztype 0.1.0
 ZVCV 2.1.3
 zyp 0.11-1
 zzlite 0.1.2
-Rcpp 1.1.1-1

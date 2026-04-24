@@ -7162,7 +7162,7 @@ frontmatter 0.2.0
 frostr 0.2.0
 froth 1.1.0
 frscore 0.5.2
-fru 0.0.5
+fru 0.0.6
 fruclimadapt 0.4.5
 fs 2.1.0
 FSA 0.10.1
@@ -10728,7 +10728,7 @@ LeaveOutKSS 0.1.0
 LEdecomp 1.0.14
 ledger 2.0.13
 leem 0.2.0
-lefko3 6.7.2
+lefko3 6.7.3
 legendry 0.2.4
 legion 0.2.1
 legislatoR 1.1.0
@@ -13282,7 +13282,7 @@ nc 2026.4.20
 NCA 5.0.0
 ncaavolleyballr 0.5.1
 ncappc 1.0.0
-ncar 0.5.1
+ncar 0.6.0
 ncbit 2013.03.29.1
 NCC 1.0
 ncdf4 1.24
@@ -13381,7 +13381,7 @@ netrankr 1.2.4
 netregR 1.0.1
 NetRep 1.2.10
 netrics 0.2.1
-netropy 0.2.0
+netropy 0.3.0
 NetSci 1.0.1
 netseer 0.1.3
 netseg 1.0-3
@@ -13951,7 +13951,7 @@ OenoKPM 2.4.1
 oews2020 1.0.0
 oews2021 1.0.0
 officedown 0.4.1
-officer 0.7.3
+officer 0.7.4
 offlineChange 0.0.4
 offsetreg 1.2.0
 ofGEM 1.0
@@ -14832,7 +14832,7 @@ pensim 1.3.6
 pensynth 0.8.1
 peopleanalytics 0.1.0
 peopleanalyticsdata 0.2.1
-pep725 1.0.2
+pep725 1.1.0
 pEPA 1.2
 PEPBVS 2.2
 pepdiff 1.0.0
@@ -15405,7 +15405,7 @@ Polychrome 1.5.4
 polyclip 1.10-7
 polycor 0.8-2
 PolycrossDesigns 1.1.0
-polyCub 0.9.3
+polyCub 0.9.4
 polyglotr 1.7.1
 PolyHaplotyper 1.0.1
 polykde 1.1.7
@@ -18573,7 +18573,7 @@ RVerbalExpressions 0.1.1
 rversions 3.0.0
 rvertnet 0.8.4
 rvest 1.0.5
-rvg 0.4.1
+rvg 0.4.2
 rvHPDT 4.0
 RViennaCL 1.7.1.8
 rviewgraph 1.4.2
@@ -19675,7 +19675,7 @@ simer 1.0.0
 simest 0.4-1-1
 simET 1.0.3
 SimEUCartelLaw 1.0.4
-simevent 0.1.0
+simevent 0.1.1
 simex 1.8
 simExam 1.0.0
 SIMEXBoost 0.2.0
@@ -21708,8 +21708,8 @@ thief 0.3
 ThinkingGrid 0.1.0
 thinkr 0.16
 this.path 2.8.0
-thisplot 0.3.7
-thisutils 0.4.4
+thisplot 0.3.8
+thisutils 0.4.5
 ThomasJeffersonUniv 0.1.3
 thor 1.2.0
 thorn 0.2.0
@@ -22224,6 +22224,7 @@ TreeOrderTests 0.1.0
 treePlotArea 3.1.0
 TreeRingShape 3.0.5
 TreeSearch 1.7.0
+treeshap 0.4.0
 TreeSim 2.4
 TreeSimGM 2.5
 treesitter 0.3.2
@@ -22548,7 +22549,7 @@ ucimlrepo 0.0.2
 uclust 1.0.0
 ucminf 1.2.3
 ucminfcpp 1.0.0
-UComp 5.1.9
+UComp 5.2
 UCR.ColumnNames 0.1.0
 UCSCXenaShiny 2.2.0
 UCSCXenaTools 1.7.0

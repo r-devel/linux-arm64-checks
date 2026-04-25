@@ -477,7 +477,7 @@ amazonadsR 0.1.0
 amazons3R 0.1.0
 amazonspR 0.1.0
 ambient 1.0.3
-ambiorix 2.2.2
+ambiorix 3.0.0
 ambiR 0.1.1
 ambit 0.2.3
 AMCP 1.0.2
@@ -888,7 +888,7 @@ ATR 0.1-1
 atRisk 0.2.0
 atrrr 0.1.1
 aTSA 3.1.2.1
-attachment 0.4.5
+attachment 1.0.0
 attempt 0.3.1
 attention 0.4.0
 attenuation 1.0.0
@@ -6011,7 +6011,7 @@ ess 1.1.2.1
 essentialstools 0.1.2
 essHist 1.2.2
 essurvey 1.0.8
-estadistica 1.2.1
+estadistica 1.2.2
 estar 1.0-1
 estatapi 0.4.0
 estats 1.1
@@ -8749,7 +8749,7 @@ hardhat 1.4.3
 HardyWeinberg 1.7.9
 harmonicmeanp 3.0.1
 harmonizer 0.3.2
-harmony 1.2.4
+harmony 2.0.2
 harmonydata 0.3.1
 HARplus 1.1.2
 HARr 1.1.0
@@ -12825,7 +12825,7 @@ MSbox 1.4.8
 MSBStatsData 0.0.2
 MSCCT 1.0.2
 msce 1.0.2
-mschart 0.4.1
+mschart 0.4.3
 MSclassifR 0.5.0
 MSclust 1.0.4
 MSCMT 1.4.1
@@ -23072,7 +23072,7 @@ volesti 1.1.2-10
 volker 3.3.1
 volrisk 0.1.0
 voluModel 0.2.3
-VoronoiBiomedPlot 0.3
+VoronoiBiomedPlot 0.3.2
 voronoifortune 1.0
 voronoiTreemap 0.2.0
 voson.tcn 0.5.0

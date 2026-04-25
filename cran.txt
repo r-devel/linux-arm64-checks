@@ -1780,6 +1780,7 @@ BlandAltmanLeh 0.3.1
 blandr 0.6.0
 BlanketStatsments 0.1.3
 blapsr 0.7.0
+blaster 1.0.9
 blastula 0.3.6
 blatent 0.1.3
 blavaan 0.5-10
@@ -3496,7 +3497,7 @@ connector.databricks 0.1.0
 connectwidgets 0.2.1
 ConnMatTools 0.3.5
 conogive 1.0.0
-conos 1.5.3
+conos 1.5.4
 conover.test 1.1.7
 conquer 1.3.3
 conquestr 1.5.5
@@ -4484,7 +4485,7 @@ Delta 0.2.0.3
 deltaccd 1.0.2
 DeltaMAN 0.5.0
 deltapif 0.4.5
-deltaPlotR 1.6
+deltaPlotR 1.9
 deltatest 0.2.0
 DELTD 2.6.8
 DEM 0.0.0.2
@@ -8736,6 +8737,7 @@ hanyupinyin 0.1.1
 hapassoc 1.2-9
 Hapi 0.0.3
 Haplin 7.3.2
+haplo.stats 1.9.8.7
 HaploCatcher 1.0.4
 HaploDiploidEquilibrium 0.1.0
 HaploSim 1.8.4.2
@@ -10550,7 +10552,7 @@ LAIr 0.3.0
 lakefetch 0.1.3
 LakeMetabolizer 1.5.6
 lakemorpho 1.3.2
-lakhesis 0.0.1
+lakhesis 1.1
 LAM 0.7-22
 LaMa 2.1.0
 lambda.r 1.2.4
@@ -13437,6 +13439,7 @@ NeuroDecodeR 0.2.0
 neurohcp 0.11.0
 neuroim 0.0.6
 neuroim2 0.13.0
+neuroimaGene 0.1.3
 neuromapr 0.2.1
 neuromplex 1.0-1
 neuroSCC 1.0.2
@@ -16870,7 +16873,7 @@ RConics 1.1.2
 rcontroll 0.1.2
 rconvertu 0.1.0
 Rcope 1.0.0
-rCoreGage 1.0.0
+rCoreGage 1.1.0
 rcorpora 2.0.1
 RCPA 0.2.8
 RCPA3 1.3.1
@@ -17562,7 +17565,7 @@ rgph 0.1.0
 rgplates 0.6.1
 rgraph6 2.0-5
 RGraphics 3.0-2
-RGraphSpace 1.1.1
+RGraphSpace 1.2.0
 rgrass 0.5-3
 RGreenplum 0.1.2
 RGremlinsConjoint 0.9.1
@@ -18723,7 +18726,7 @@ salad 1.2
 salem 1.0.1
 SALES 1.0.2
 salesforcer 1.0.2
-salmonMSE 2.0.0
+salmonMSE 2.1.0
 salso 0.3.78
 SALTSampler 1.1.0
 salty 0.1.2
@@ -19025,7 +19028,7 @@ scrollrevealR 0.2.0
 scROSHI 1.0.0.0
 SCRT 1.3.1
 scrutiny 0.6.1
-scrutr 0.3.0
+scrutr 0.3.1
 scrypt 0.1.6
 scryr 1.0.0
 scs 3.2.7
@@ -19246,7 +19249,7 @@ SensMap 0.7
 sensmediation 0.3.1
 sensobol 1.1.8
 SensoMineR 1.28
-sensortowerR 0.9.7
+sensortowerR 1.0.0
 sensory 1.1
 SenSpe 1.3
 sensR 1.5-3
@@ -20802,7 +20805,7 @@ StatsTFLValR 1.0.0
 statswalesr 0.2.0
 StatTeacherAssistant 0.0.3
 StatTools 0.1.1
-statuser 0.1.9
+statuser 0.2.1
 STB 0.6.6
 stbl 0.3.0
 STCCGEV 1.0.0

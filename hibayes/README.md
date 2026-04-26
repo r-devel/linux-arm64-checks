@@ -1,6 +1,6 @@
 # hibayes 3.1.0
 
-Latest run: 2026-04-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/24618790834
+Latest run: 2026-04-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/24946028126
 
 ```
 Package: hibayes

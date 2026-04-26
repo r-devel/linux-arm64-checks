@@ -1,6 +1,6 @@
 # scan 0.68.0
 
-Latest run: 2026-04-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/24619008239
+Latest run: 2026-04-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/24946234136
 
 ```
 Package: scan

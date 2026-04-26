@@ -1,6 +1,6 @@
 # hanyupinyin 0.1.1
 
-Latest run: 2026-04-22: https://github.com/r-devel/linux-arm64-checks/actions/runs/24783395952
+Latest run: 2026-04-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/24945971254
 
 ```
 Package: hanyupinyin

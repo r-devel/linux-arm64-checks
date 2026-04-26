@@ -1,11 +1,12 @@
 * using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/RTriangle.Rcheck’
-* using R version 4.5.3 (2026-03-11)
+* using R version 4.6.0 (2026-04-24)
 * using platform: aarch64-unknown-linux-gnu
 * R was compiled by
-    gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
-    GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
-* running under: Ubuntu 24.04.4 LTS
+    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+* running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
+* current time: 2026-04-26 02:02:01 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘RTriangle/DESCRIPTION’ ... OK
 * this is package ‘RTriangle’ version ‘1.6-0.15’
@@ -19,7 +20,7 @@
 * checking for portable file names ... OK
 * checking for sufficient/correct file permissions ... OK
 * checking whether package ‘RTriangle’ can be installed ... OK
-* used C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+* used C compiler: ‘aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
 * checking installed package size ... OK
 * checking package directory ... OK
 * checking DESCRIPTION meta-information ... OK
@@ -54,7 +55,7 @@
 * checking for GNU extensions in Makefiles ... OK
 * checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
 * checking use of PKG_*FLAGS in Makefiles ... OK
-* checking compiled code ... NOTE
+* checking compiled code ... INFO
 Note: information on .o files is not available
 * checking examples ... OK
 * checking for unstated dependencies in ‘tests’ ... OK

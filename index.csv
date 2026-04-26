@@ -22,7 +22,6 @@ hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/h
 hibayes,3.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hibayes
 memuse,4.2-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/memuse
 mig,2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mig
-minimaxApprox,0.5.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/minimaxApprox
 minired,1.0.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/minired
 mmap,0.6-26,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mmap
 plmmr,4.2.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/plmmr

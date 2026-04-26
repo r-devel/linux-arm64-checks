@@ -1,6 +1,6 @@
 # hdf5r 1.3.12
 
-Latest run: 2026-04-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/24618758905
+Latest run: 2026-04-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/24945990660
 
 ```
 Package: hdf5r
@@ -12,7 +12,7 @@ ARM64: ERROR
   Running the tests in ‘tests/testthat.R’ failed.
   Last 13 lines of output:
     
-        error #001: ../../../src/H5Tenum.c in H5T__enum_insert(): line 190: value redefinition
+        error #001: ../../../src/H5Tenum.c in H5T__enum_insert(): line 176: value redefinition
             class: HDF5
             major: Datatype
             minor: Unable to initialize object

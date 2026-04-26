@@ -387,7 +387,7 @@ akc 0.9.9.3
 Ake 1.0.2
 akiFlagger 0.3.0
 akima 0.6-3.6
-akin 0.3.0
+akin 0.3.1
 akmbiclust 0.1.0
 alabama 2025.1.0
 alakazam 1.4.2
@@ -486,7 +486,7 @@ AMDconfigurations 0.1.0
 Amelia 1.8.3
 amelie 0.2.1
 amen 1.4.5
-ameras 0.1.1
+ameras 0.2.0
 amerika 0.1.1
 AmesHousing 0.0.4
 ami 0.2.1
@@ -1033,7 +1033,6 @@ babynames 1.0.1
 babynamesIL 0.2.3
 babyTimeR 0.1.0
 BACCO 2.1-0
-BACCT 1.0
 BacenAPI 0.3.1
 bacenR 0.3.1
 bacistool 1.0.0
@@ -4274,7 +4273,7 @@ dataverse 0.3.16
 dataviewR 1.1.0
 DataVisualizations 1.4.0
 DataViz 0.2.8
-datawizard 1.3.0
+datawizard 1.3.1
 datazoom.amazonia 1.1.0
 date 1.2-43
 date4ts 0.1.1
@@ -4841,7 +4840,6 @@ DisimForMixed 0.2
 DisImpact 0.0.21
 dismo 1.3-16
 disordR 0.9-8-6
-disparityfilter 2.2.3
 dispeRse 1.1
 dispersionIndicators 0.1.5
 displease 1.0.0
@@ -5477,7 +5475,6 @@ EconAndProdEfficiency 0.1.0
 EconCausal 1.0.2
 econdatasets 0.1.0
 econdataverse 0.1.2
-EconDemand 1.0
 econet 1.0.0.1
 EcoNetGen 0.2.4
 EconGeo 2.0
@@ -5775,7 +5772,6 @@ encryptedRmd 0.2.1
 encryptr 0.1.4
 enderecobr 0.5.0
 endogeneity 2.1.5
-endogenous 1.0
 endorse 1.6.2
 endtoend 2.29
 energy 1.7-12
@@ -6188,7 +6184,6 @@ exiftoolr 0.2.8
 ExNRuleEnsemble 0.1.1
 ExpAnalysis3d 0.1.3
 ExPanDaR 0.5.3
-expandFunctions 0.1.0
 EXPAR 0.1.0
 EXPARMA 0.1.0
 ExpBites 0.1.3
@@ -8206,7 +8201,7 @@ gluedown 1.0.9
 gluvarpro 7.0
 glvmfit 0.1.0
 glyparse 0.5.7
-glyrepr 0.10.1
+glyrepr 0.11.0
 gm 2.0.0
 GMAC 3.2
 gmailr 3.0.0
@@ -8552,7 +8547,6 @@ GSA 1.03.3
 GSA.UN 1.0.0
 gsalib 2.2.1
 gsaot 1.1.1
-GSAQ 1.0
 gsarima 0.1-5
 gsbDesign 1.0-3
 gsbm 0.2.2
@@ -8995,7 +8989,6 @@ highlight 0.5.2
 highlighter 0.1
 highlightHTML 0.2.5
 highlightr 2.0.0
-highmean 3.0
 highMLR 0.1.1
 highOrderPortfolios 0.1.1
 highr 0.12
@@ -9070,7 +9063,7 @@ hmmTMB 1.1.2
 HMP 2.0.1
 HMPTrees 1.4
 HMR 1.0.5
-hmrc 0.3.2
+hmrc 0.4.0
 hms 1.1.4
 Hmsc 3.3-7
 hmsidwR 1.1.2
@@ -9166,7 +9159,7 @@ htestClust 0.2.2
 htetree 0.1.23
 HTGM 1.2
 HTGM2D 1.1.1
-HTGM3D 1.0.2
+HTGM3D 1.0.3
 HTLR 1.0
 htm2txt 2.2.2
 html2R 0.1.0
@@ -9735,7 +9728,6 @@ IntCal 0.3.1
 intccr 3.0.4
 integIRTy 1.0.8
 integr 1.0.0
-IntegrateBs 0.1.0
 IntegratedJM 1.6
 integrity 1.0
 inteli 0.1.2
@@ -11063,8 +11055,8 @@ LOGAN 1.0.1
 logbin 2.0.6
 LogConcDEAD 1.6-12
 logconcens 0.17-4
-logcondens 2.1.8
-logcondiscr 1.0.6
+logcondens 2.1.9
+logcondiscr 1.0.7
 logger 0.4.1
 logging 0.10-108
 loggit 2.1.1
@@ -11314,7 +11306,6 @@ maditr 0.8.7
 MADMMplasso 1.0.1
 madness 0.2.8
 MADPop 1.1.7
-madr 1.0.0
 madrat 3.15.6
 madshapR 2.0.0
 madsim 1.2.1
@@ -11572,7 +11563,6 @@ matrixdist 1.1.9
 MatrixEQTL 2.3
 MatrixExtra 0.1.15
 MatrixHMM 1.0.0
-matrixLaplacian 1.0
 MatrixMixtures 1.0.0
 MatrixModels 0.5-4
 matrixmodp 0.2.0
@@ -12070,7 +12060,6 @@ Mhorseshoe 0.1.5
 mhpfilter 0.1.0
 MHQoL 0.14.0
 mhsmm 0.4.21
-mhtboot 1.3.3
 MHTdiscrete 1.0.1
 MHTmult 0.1.0
 MHTrajectoryR 1.0.1
@@ -14242,7 +14231,7 @@ ordering 0.7.0
 orderly 2.0.3
 orders 0.1.8
 orderstats 0.1.0
-OrdFacReg 1.0.6
+OrdFacReg 1.0.8
 ordgam 0.9.1
 ordiBreadth 1.0
 ordinal 2025.12-29
@@ -14601,7 +14590,6 @@ partykit 1.2-27
 parzer 0.4.4
 PAS 1.2.5
 pasadr 1.0
-PASenseWear 1.0
 pass.lme 0.9.0
 PASSED 1.2-2
 passt 0.1.3
@@ -17215,7 +17203,6 @@ regda 1.0
 RegDDM 1.1
 regDIF 1.1.1
 RegEnRF 1.0.0
-regexPipes 0.0.1
 regexSelect 1.0.0
 regextable 0.1.1
 reghelper 1.1.2
@@ -18255,7 +18242,7 @@ Rprofet 3.1.1
 rprofile 0.4.0
 rprojroot 2.1.1
 rprojtree 1.0.0
-RProtoBuf 0.4.26
+RProtoBuf 0.4.27
 RPscoring 0.1.0
 rpsftm 1.2.9
 RPtests 0.1.5
@@ -18299,7 +18286,6 @@ rrda 0.2.3
 Rrdap 1.0.7
 rrecsys 0.9.7.3.1
 rredlist 1.1.1
-RRedshiftSQL 0.1.2
 rrefine 2.1.0
 rreg 0.2.1
 rregm 1.1
@@ -18662,7 +18648,6 @@ S3VS 1.0
 S4DM 0.0.1
 S7 0.2.2
 S7schema 0.1.0
-saasCNV 0.3.4
 saber 0.3.0
 sabre 0.4.3
 saccadr 0.1.3
@@ -19271,7 +19256,6 @@ sepkoski 0.0.1
 SepTest 0.0.1
 seq2R 2.0.1
 SeqAlignR 0.1.1
-SeqAlloc 1.0
 seqDesign 1.2
 SeqFeatR 0.3.3
 seqgendiff 1.2.4
@@ -20403,7 +20387,6 @@ spectral 2.0
 spectralAnomaly 0.1.1
 SpectralClMixed 1.0.2
 spectralGP 1.3.4
-SpectralMap 1.0
 spectralR 0.1.4
 Spectran 1.0.6
 spectrolab 0.0.19
@@ -22585,7 +22568,6 @@ ugatsdb 0.2.3
 uGMAR 3.6.0
 ugomquantreg 1.0.0
 UHM 0.3.0
-uHMM 1.0
 ui 0.1.1
 uisapi 0.1.1
 uiucthemes 0.3.3

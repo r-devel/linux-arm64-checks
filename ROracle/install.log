@@ -3,9 +3,9 @@
 ** package ‘ROracle’ successfully unpacked and MD5 sums checked
 ** using staged installation
 checking for curl... /usr/bin/curl
-checking downloading instantclient-sdk-linux-arm64.zip...   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100  7073  100  7073    0     0   4153      0  0:00:01  0:00:01 --:--:--  4153100  7073  100  7073    0     0   4153      0  0:00:01  0:00:01 --:--:--  4153
+checking downloading instantclient-sdk-linux-arm64.zip...   % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100   7073 100   7073   0      0 187.7k      0                              0100   7073 100   7073   0      0 187.5k      0                              0100   7073 100   7073   0      0 187.3k      0                              0
 downloaded instantclient-sdk-linux-arm64.zip
 checking extracting instantclient-sdk-linux-arm64.zip... checking for unzip... /usr/bin/unzip
 Archive:  instantclient-sdk-linux-arm64.zip

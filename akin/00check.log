@@ -6,11 +6,11 @@
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-04-26 02:05:35 UTC
+* current time: 2026-04-26 19:29:12 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘akin/DESCRIPTION’ ... OK
 * checking extension type ... Package
-* this is package ‘akin’ version ‘0.3.0’
+* this is package ‘akin’ version ‘0.3.1’
 * package encoding: UTF-8
 * checking package namespace information ... OK
 * checking package dependencies ... OK

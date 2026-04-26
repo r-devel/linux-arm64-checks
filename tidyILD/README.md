@@ -1,6 +1,6 @@
 # tidyILD 0.4.0
 
-Latest run: 2026-04-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/24619072569
+Latest run: 2026-04-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/24946301543
 
 ```
 Package: tidyILD
@@ -11,18 +11,18 @@ ARM64: ERROR
     Running ‘testthat.R’
   Running the tests in ‘tests/testthat.R’ failed.
   Last 13 lines of output:
-      2. │ └─base::withCallingHandlers(...)
-      3. └─tidyILD::ild_lme(...)
-      4.   └─lme4::lmer(formula, data = data, ...)
-      5.     └─lme4::optimizeLmer(...)
-      6.       └─lme4:::optwrap(...)
-      7.         ├─base::withCallingHandlers(...)
-      8.         ├─base::do.call(optfun, arglist)
-      9.         └─minqa (local) `<fn>`(...)
-     10.           └─minqa (local) `<fn>`(`<dbl>`)
-     11.             └─lme4 (local) fn(x, ...)
+    • regression_local_level not implemented in ild_kfas(); see
+      inst/dev/KFAS_V1_BACKEND.md (1): 'test-kfas-extended.R:136:3'
     
-    [ FAIL 2 | WARN 141 | SKIP 20 | PASS 890 ]
+    ══ Failed tests ════════════════════════════════════════════════════════════════
+    ── Failure ('test-contract-regression.R:12:3'): contract: regular spacing + decomposed predictors — dense bundle, tidy/augment, plots, no guardrail methods ──
+    Expected `grepl("Methodological cautions (tidyILD guardrails)", m, fixed = TRUE)` to be FALSE.
+    Differences:
+    `actual`:   TRUE 
+    `expected`: FALSE
+    
+    
+    [ FAIL 1 | WARN 142 | SKIP 20 | PASS 893 ]
     Error:
     ! Test failures.
     Execution halted

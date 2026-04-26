@@ -350,7 +350,7 @@ AICcmodavg 2.3-4
 AID 3.1
 aiDIF 0.1.0
 AiES 0.99.6
-aifeducation 1.1.4
+aifeducation 1.1.5
 AIFFtools 1.0
 aihuman 1.0.1
 aimPlot 1.0.0
@@ -3508,7 +3508,7 @@ ConsensusOPLS 1.1.0
 conserveR 1.0.4
 consibiocloudclient 1.0.0
 consolechoice 1.1.1
-consort 1.2.2
+consort 1.2.3
 consortr 0.9.1
 ConSpline 1.2
 ConsRank 3.0
@@ -4184,7 +4184,7 @@ DandEFA 1.6.1
 dang 0.0.17
 dani 0.1-1
 DanielBiostatistics10th 0.2.6
-dann 1.0.2
+dann 1.1.0
 dapper 1.1.0
 daqapo 0.3.2
 DArand 0.0.1.2
@@ -12775,7 +12775,7 @@ mratios 1.4.4
 mrbayes 0.5.2
 mrbin 1.9.5
 mrbsizeR 1.3
-mRc 0.1.1
+mRc 0.1.2
 MRCE 2.4
 mrct 0.0.1.0
 MRCV 0.4-0
@@ -16264,7 +16264,7 @@ qtl2convert 0.30
 qtl2fst 0.30
 qtl2ggplot 1.2.6
 qtl2pattern 1.2.1
-qtl2pleio 1.4.3
+qtl2pleio 1.4.4
 qtlbook 0.20
 qtlc 1.0
 qtlcharts 0.18
@@ -22359,7 +22359,7 @@ tsdataleaks 2.1.1
 tsdb 1.1-0
 tsdecomp 0.2
 TSdeeplearning 1.0.1
-tsdf 1.1-8
+tsdf 1.1-9
 TSDFGS 2.0
 tsdisagg2 0.1.0
 TSdisaggregation 2.0.0

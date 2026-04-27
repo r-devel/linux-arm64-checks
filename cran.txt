@@ -4229,7 +4229,7 @@ DataFusionGDM 1.3.2
 DataGraph 1.2.15
 DataLoader 1.3
 dataMaid 1.4.2
-datamedios 1.2.2
+datamedios 1.2.3
 DataMetProcess 1.0.8
 datamods 1.5.3
 dataMojo 1.0.0
@@ -15823,7 +15823,7 @@ projpred 2.10.0
 ProliferativeIndex 1.0.1
 prolific.api 0.5.2
 prolsirm 0.1.1
-prome 4.0.0.3
+prome 4.0.2.5
 PROMETHEE 1.1
 promethee123 0.1.0
 PrometheeTools 0.1.0
@@ -22010,7 +22010,7 @@ tmvmixnorm 1.1.1
 tmvnsim 1.0-2
 tmvtnorm 1.7
 tmvtnsim 0.1.4
-tna 1.2.2
+tna 1.2.3
 TNC 0.1.0
 tndata 0.1.0
 tnet 3.0.16

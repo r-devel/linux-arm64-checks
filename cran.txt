@@ -1889,7 +1889,7 @@ bodenmiller 0.1.1
 bodsr 0.1.0
 bodycomp 1.0.0
 bodycompref 2.0.1
-boe 0.1.2
+boe 0.2.0
 boggy 0.0.1
 boilerpipeR 1.3.2
 boilerplate 1.3.0
@@ -7248,7 +7248,7 @@ funspace 0.2.2
 funspotr 0.0.5
 funStatTest 1.0.3
 FunSurv 1.0.0
-FUNTA 0.1.0
+FUNTA 0.1.1
 funtimes 10.0
 funviewR 0.1.1
 FunWithNumbers 1.2
@@ -16783,7 +16783,7 @@ rchallenge 1.3.4
 RChASM 1.0.1
 rChEA3 0.2.0
 rchemo 0.1-3
-rcheology 4.5.3.0
+rcheology 4.6.0.0
 RChest 1.0.3
 RchivalTag 0.2.2
 Rchoice 0.3-6
@@ -18482,7 +18482,7 @@ rtide 0.0.11
 rtika 3.2.3
 rtiktokads 0.3.4
 rtiktoken 0.0.7
-Rtinycc 0.1.9
+Rtinycc 0.1.10
 rtip 1.1.1
 rtist 1.0.0
 rtk 0.2.7
@@ -18744,7 +18744,7 @@ SamplingStrata 1.5-5
 samplingVarEst 1.5
 samplr 1.1.2
 samplrData 1.0.0
-SAMprior 2.0.0
+SAMprior 3.0.0
 sampsizeval 1.0.0.0
 samr 3.0.1
 sams 0.4.3

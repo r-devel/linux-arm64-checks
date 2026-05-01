@@ -1997,7 +1997,7 @@ bpca 1.3-9
 bpcp 1.5.1
 bpDir 0.1.2
 bpgmm 1.1.1
-bplsr 1.0.4
+bplsr 1.0.5
 BPM 1.0.0
 bpmnVisualizationR 0.5.0
 bpnreg 2.0.3
@@ -3144,7 +3144,7 @@ CNID 2.1.1
 CNLTreg 0.1-2
 CNLTtsa 0.1-2
 cnmap 0.1.2
-cNORM 3.5.2
+cNORM 3.5.3
 CNprep 2.2
 CNPS 1.0.0
 CNSigs 0.1.0
@@ -7952,7 +7952,7 @@ ggreveal 0.2.0
 GGRidge 1.1.0
 ggridges 0.5.7
 ggrisk 1.3
-ggrounded 0.1.0
+ggrounded 0.2.0
 ggroups 2.1.2
 ggRtsy 1.2.1
 ggsankeyfier 0.1.8
@@ -9234,7 +9234,7 @@ HydroCode 1.0.3
 hydroDCindex 1.0.0
 hydrodownloadR 0.1.3
 hydroEvents 0.13.0
-hydroGOF 0.6-0.1
+hydroGOF 0.7-0
 hydroloom 1.1.3
 HydroMe 2.1.2
 hydroMOPSO 0.1-14
@@ -9684,7 +9684,7 @@ InjurySeverityScore 0.0.0.2
 injurytools 2.0.1
 inkaR 0.6.2
 INLABMA 0.1-12
-inlabru 2.14.0
+inlabru 2.14.1
 INLAjoint 25.11.10
 inlamemi 1.1.0
 INLAvaan 0.2.4
@@ -12137,7 +12137,7 @@ midi 0.1.0
 MIDN 1.0
 midnight 0.2.0
 midoc 1.0.0
-midr 0.6.0
+midr 0.6.1
 midrangeMCP 3.1.3
 miebl 0.1.0
 miesmuschel 0.0.4-3
@@ -16646,7 +16646,7 @@ rasciidoc 4.1.1
 RaSEn 3.0.0
 rashnu 0.1.2
 rassta 1.0.6
-RastaRocket 1.1.3
+RastaRocket 1.1.4
 raster 3.6-32
 rasterbc 1.0.2
 rasterdiv 0.3.8
@@ -18761,7 +18761,6 @@ SAMprior 3.0.0
 sampsizeval 1.0.0.0
 samr 3.0.1
 sams 0.4.3
-SamsaRaLight 1.0.0
 SAMtool 1.9.1
 SAMTx 0.3.0
 SAMUR 1.1
@@ -19100,7 +19099,7 @@ SECP 0.1.5
 secr 5.4.2
 secrdesign 2.10.1
 secret 1.1.0
-secretbase 1.2.1
+secretbase 1.2.2
 SecretsProvider 1.0.1
 secrettext 0.1.0
 secrfunc 1.0.0
@@ -19419,7 +19418,7 @@ sharpr2 1.1.1.0
 sharpshootR 2.4
 sharx 1.0-7
 shattering 1.0.7
-shazam 1.3.1
+shazam 1.3.2
 SheetReader 1.2.1
 SHELF 1.13.0
 ShellChron 0.4.0
@@ -19952,7 +19951,7 @@ smatr 3.4-8
 smbdata 0.2.0
 smbinning 0.9
 SmCCNet 2.0.6
-smcfcs 2.0.1
+smcfcs 2.0.2
 smcure 2.2
 smd 0.8.0
 smdata 1.2

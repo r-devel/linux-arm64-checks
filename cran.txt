@@ -1624,7 +1624,7 @@ BinaryEPPM 3.0
 binaryGP 0.2
 BinaryReplicates 1.0.0
 binaryRL 0.9.9
-binb 0.0.7
+binb 0.0.8
 BINCOR 0.2.1
 binda 1.0.4
 bindata 0.9-24
@@ -3916,7 +3916,7 @@ crqa 2.0.7
 crrcbcv 1.0
 crrSC 1.1.2
 crrstep 2025.1.1
-crs 0.15-41
+crs 0.15-42
 crseEventStudy 1.2.2
 crsmeta 0.3.0
 crsnls 0.2
@@ -4755,7 +4755,7 @@ dilp 1.1.0
 DIME 1.3.0
 dimensio 0.14.1
 dimensionsR 0.0.3
-Dimodal 1.0.3
+Dimodal 1.0.4
 DImodels 1.3.3
 DImodelsMulti 1.2.1
 DImodelsVis 1.0.4
@@ -8686,6 +8686,7 @@ GWSDAT 3.3.0
 GWsignif 1.2.1
 gwzinbr 0.1.0
 GxEprs 1.2
+GxEScanR 3.0.0
 gym 0.1.0
 h0 1.0.1
 h2o 3.44.0.3
@@ -9632,7 +9633,7 @@ ineapir 0.2.5
 ineAtlas 0.1.4
 inecolr 0.1.0
 inegiR 3.0.0
-ineptr2 0.3.0
+ineptr2 0.3.1
 ineq 0.2-13
 ineq.2d 0.1.0
 ineqJD 1.0
@@ -11937,7 +11938,7 @@ MetaNet 0.3.1
 metanetwork 0.7.0
 MetaNLP 0.1.4
 metansue 2.6
-metap 1.13
+metap 1.14
 metaphonebr 0.0.5
 metaplot 0.8.4
 metaplus 1.0-8
@@ -14856,7 +14857,7 @@ peppwR 0.1.0
 pepr 0.6.0
 Peptides 2.4.6
 peptoolkit 0.0.1
-pequod 0.1.1
+pequod 0.2.0
 peramo 0.1.5
 perARMA 1.7
 Perc 0.1.6
@@ -15537,6 +15538,7 @@ potions 0.2.0
 potools 0.2.4
 potts 0.5-11
 PottsUtils 0.3-3.1
+pould 1.0.2
 POV 0.1.4
 pow.int 1.3
 powdist 0.1.4
@@ -18169,7 +18171,7 @@ routr 2.0.0
 roxigraph 0.1.1
 roxut 0.4.0
 roxy.shinylive 1.0.0
-roxygen2 7.3.3
+roxygen2 8.0.0
 roxygen2md 1.0.1
 roxyglobals 1.0.0
 roxylint 0.1.0
@@ -19664,7 +19666,7 @@ SimComp 3.6
 SimCop 0.7.4
 SimCorMultRes 1.9.0
 SimCorrMix 0.1.1
-simcross 0.6
+simcross 0.8
 simctest 2.6.1
 simDAG 0.5.2
 simdata 0.4.1
@@ -19950,7 +19952,7 @@ smashr 1.3-12
 smatr 3.4-8
 smbdata 0.2.0
 smbinning 0.9
-SmCCNet 2.0.6
+SmCCNet 2.0.7
 smcfcs 2.0.2
 smcure 2.2
 smd 0.8.0
@@ -20349,7 +20351,7 @@ spcadjust 1.1
 SPCALDA 1.0
 SPCAvRP 0.4
 SPCDAnalyze 0.1.0
-spCF 0.1.0
+spCF 0.1.1
 SPCompute 1.0.3
 spconf 1.0.1
 spcosa 0.4-6
@@ -21562,7 +21564,7 @@ tergmLite 2.6.1
 tergo 0.1.9
 term 0.3.7
 terminaldigits 0.1.0
-terminalgraphics 0.2.1
+terminalgraphics 0.3.0
 tern 0.9.10
 tern.gee 0.1.5
 tern.mmrm 0.3.3
@@ -22091,7 +22093,7 @@ toweranNA 0.1.0
 ToxCrit 1.1
 toxdrc 1.0.1
 toxEval 1.4.2
-toxpiR 1.3.1
+toxpiR 1.3.2
 toxSummary 1.0.0
 TPAC 0.3.0
 TPACData 0.1.0
@@ -22569,7 +22571,7 @@ ukbabynames 0.3.0
 ukbflow 0.3.4
 ukbnmr 3.3.2
 ukc19 0.0.3
-UKFE 2.0.0
+UKFE 2.0.1
 ukgasapi 0.21
 UKgrid 0.1.3
 ukhousing 0.1.0

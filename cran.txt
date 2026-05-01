@@ -931,7 +931,7 @@ autoFlagR 1.0.0
 autoFRK 1.4.4
 autogam 0.1.0
 autoGO 1.0.3
-autograph 1.0.0
+autograph 1.0.3
 autoharp 0.3.2
 autohrf 1.1.3
 autoimage 2.2.3
@@ -5508,7 +5508,7 @@ ecotraj 1.2.0
 ecotrends 1.2
 EcoTroph 1.6.1
 ecoval 1.2.10
-ecoXCorr 0.2.1
+ecoXCorr 0.2.2
 ecp 3.1.6
 ecpdist 0.2.1
 ecr 2.1.1
@@ -10784,7 +10784,7 @@ lfe 3.1.1
 lfebd3 0.1.0
 lfl 2.3.1
 lfmm 1.1
-lfproQC 1.4.1
+lfproQC 1.4.2
 lfstat 0.9.13
 lg 0.4.1
 lgarch 0.7
@@ -13581,7 +13581,7 @@ nlshrink 1.0.1
 nlsic 1.2.0
 nlsMicrobio 1.0-0
 nlsmsn 0.0-6
-nlsr 2023.8.31
+nlsr 2026.4.29
 nlstac 0.2.0
 nlstools 2.1-0
 NlsyLinks 2.2.3
@@ -13785,7 +13785,7 @@ NPRED 1.1.0
 npreg 1.1.1
 npregderiv 1.0
 npregfast 1.6.0
-npRmpi 0.60-20
+npRmpi 0.70-1
 nprobust 0.5.0
 nproc 2.1.5
 npROCRegression 1.0-7
@@ -15669,7 +15669,7 @@ prefeR 0.1.3
 preference 1.1.6
 prefio 0.2.0
 prefmod 0.8-37
-prefviz 0.1.1
+prefviz 0.1.2
 pregnancy 0.2.1
 PreKnitPostHTMLRender 0.1.0
 PReMiuM 3.2.13
@@ -19898,7 +19898,7 @@ SlicedLHD 1.0
 Slick 1.0.1
 SLIDE 1.0.0
 SlideCNA 0.1.0
-slideimp 1.0.0
+slideimp 1.1.0
 slider 0.3.3
 slideview 0.2.1
 SlidingWindows 0.2.0

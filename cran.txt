@@ -6783,7 +6783,7 @@ fivethirtyeight 0.6.2
 FixedPoint 0.6.3
 fixedTimeEvents 1.0.1
 fixerapi 0.1.6
-fixes 0.5.0
+fixes 0.7.2
 fixest 0.14.0
 fixr 0.2.0
 FixSeqMTP 0.1.2
@@ -10581,7 +10581,7 @@ Langevin 1.3.3
 langevitour 0.8.1
 languagelayeR 1.2.4
 languageR 1.6
-languageserver 0.3.17
+languageserver 0.3.18
 languageserversetup 0.1.2
 lans2r 1.2.0
 laOpenData 0.1.0
@@ -13738,7 +13738,7 @@ NoviceDeveloperResources2 1.1.0
 nowcast 0.1.0
 nowcastr 0.2.0
 noweb 1.1-4
-np 0.60-20
+np 0.70-1
 npANCOVA 0.1.1
 nparACT 0.9.1
 nparcomp 3.0
@@ -13802,7 +13802,7 @@ NPStability 0.1.0
 npsurv 0.5-0
 npsurvSS 1.1.0
 nptest 1.2
-npwbs 0.2.0
+npwbs 0.3.0
 nrba 0.3.1
 nRegression 0.5.1
 NRejections 1.2.0
@@ -18856,7 +18856,7 @@ SBSDiff 0.1.0
 sbtools 1.4.1
 sbw 1.2
 SC2API 1.0.0
-sc2sc 0.0.1-18
+sc2sc 0.0.1-19
 sca 0.9-2
 scagnostics 0.2-6
 scalablebayesm 0.2
@@ -23352,7 +23352,7 @@ wildmeta 0.3.2
 wildpoker 1.1
 wilson 2.4.2
 winch 0.1.3
-windAC 1.2.10
+windAC 1.3.0
 WindCurves 0.2
 windex 2.1.0
 windows.pls 0.1.0

@@ -1,12 +1,11 @@
 * using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/profoc.Rcheck’
-* using R version 4.6.0 (2026-04-24)
+* using R version 4.5.2 (2025-10-31)
 * using platform: aarch64-unknown-linux-gnu
 * R was compiled by
-    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
-    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    gcc (Ubuntu 15.2.0-11ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-11ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-04-26 02:25:11 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘profoc/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -21,12 +20,12 @@
 * checking for portable file names ... OK
 * checking for sufficient/correct file permissions ... OK
 * checking whether package ‘profoc’ can be installed ... OK
-* used C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+* used C++ compiler: ‘g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
 * checking installed package size ... INFO
-  installed size is 21.6Mb
+  installed size is 21.5Mb
   sub-directories of 1Mb or more:
     doc    1.4Mb
-    libs  19.4Mb
+    libs  19.3Mb
 * checking package directory ... OK
 * checking ‘build’ directory ... OK
 * checking DESCRIPTION meta-information ... OK
@@ -61,7 +60,7 @@
 * checking for GNU extensions in Makefiles ... OK
 * checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
 * checking use of PKG_*FLAGS in Makefiles ... OK
-* checking compiled code ... INFO
+* checking compiled code ... NOTE
 Note: information on .o files is not available
 * checking installed files from ‘inst/doc’ ... OK
 * checking files in ‘vignettes’ ... OK
@@ -91,4 +90,4 @@ Last 13 lines of output:
 * checking running R code from vignettes ... SKIPPED
 * checking re-building of vignette outputs ... SKIPPED
 * DONE
-Status: 1 ERROR
+Status: 1 ERROR, 1 NOTE

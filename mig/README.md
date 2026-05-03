@@ -1,6 +1,6 @@
 # mig 2.0
 
-Latest run: 2026-04-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/24946064241
+Latest run: 2026-05-03: https://github.com/r-devel/linux-arm64-checks/actions/runs/25267591776
 
 ```
 Package: mig

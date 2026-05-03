@@ -4,15 +4,15 @@
 ** using staged installation
 checking build system type... aarch64-unknown-linux-gnu
 checking host system type... aarch64-unknown-linux-gnu
-checking for gcc... aarch64-linux-gnu-gcc
+checking for gcc... gcc
 checking whether the C compiler works... yes
 checking for C compiler default output file name... a.out
 checking for suffix of executables... 
 checking whether we are cross compiling... no
 checking for suffix of object files... o
 checking whether the compiler supports GNU C... yes
-checking whether aarch64-linux-gnu-gcc accepts -g... yes
-checking for aarch64-linux-gnu-gcc option to enable C11 features... none needed
+checking whether gcc accepts -g... yes
+checking for gcc option to enable C11 features... none needed
 checking for stdio.h... yes
 checking for stdlib.h... yes
 checking for string.h... yes
@@ -35,13 +35,13 @@ checking for strnlen... yes
 configure: creating ./config.status
 config.status: creating src/config.h
 ** libs
-using C compiler: ‘aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
-aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=/usr/src/r-base-4.6.0-0.2604.2 -Wdate-time -D_FORTIFY_SOURCE=3  -c endian.c -o endian.o
-aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=/usr/src/r-base-4.6.0-0.2604.2 -Wdate-time -D_FORTIFY_SOURCE=3  -c init.c -o init.o
-aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=/usr/src/r-base-4.6.0-0.2604.2 -Wdate-time -D_FORTIFY_SOURCE=3  -c mmap.c -o mmap.o
-aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=/usr/src/r-base-4.6.0-0.2604.2 -Wdate-time -D_FORTIFY_SOURCE=3  -c strings.c -o strings.o
-aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=/usr/src/r-base-4.6.0-0.2604.2 -Wdate-time -D_FORTIFY_SOURCE=3  -c types.c -o types.o
-aarch64-linux-gnu-gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.6.0-0.2604.2%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -o mmap.so endian.o init.o mmap.o strings.o types.o -L/usr/lib/R/lib -lR
+using C compiler: ‘gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=/usr/src/r-base-4.5.2-1ubuntu2 -Wdate-time -D_FORTIFY_SOURCE=3  -c endian.c -o endian.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=/usr/src/r-base-4.5.2-1ubuntu2 -Wdate-time -D_FORTIFY_SOURCE=3  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=/usr/src/r-base-4.5.2-1ubuntu2 -Wdate-time -D_FORTIFY_SOURCE=3  -c mmap.c -o mmap.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=/usr/src/r-base-4.5.2-1ubuntu2 -Wdate-time -D_FORTIFY_SOURCE=3  -c strings.c -o strings.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=/usr/src/r-base-4.5.2-1ubuntu2 -Wdate-time -D_FORTIFY_SOURCE=3  -c types.c -o types.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.5.2-1ubuntu2%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -o mmap.so endian.o init.o mmap.o strings.o types.o -L/usr/lib/R/lib -lR
 installing to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-mmap/00new/mmap/libs
 ** R
 ** inst

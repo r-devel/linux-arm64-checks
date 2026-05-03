@@ -5,7 +5,7 @@
 checking for curl... /usr/bin/curl
 checking downloading instantclient-sdk-linux-arm64.zip...   % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
                                  Dload  Upload  Total   Spent   Left   Speed
-  0      0   0      0   0      0      0      0                              0100   7073 100   7073   0      0 187.7k      0                              0100   7073 100   7073   0      0 187.5k      0                              0100   7073 100   7073   0      0 187.3k      0                              0
+  0      0   0      0   0      0      0      0                              0100   7073 100   7073   0      0 182.9k      0                              0100   7073 100   7073   0      0 182.6k      0                              0100   7073 100   7073   0      0 182.4k      0                              0
 downloaded instantclient-sdk-linux-arm64.zip
 checking extracting instantclient-sdk-linux-arm64.zip... checking for unzip... /usr/bin/unzip
 Archive:  instantclient-sdk-linux-arm64.zip

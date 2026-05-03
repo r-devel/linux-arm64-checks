@@ -944,7 +944,7 @@ automatedtests 0.1.2
 automerge 0.4.0
 autometric 0.1.2
 automl 1.3.2
-autoMR 1.1.1
+autoMR 1.1.2
 autonewsmd 0.1.0
 Autoplotprotein 1.1
 AutoPlots 1.5.0
@@ -4512,7 +4512,7 @@ DendroSync 0.1.5
 dendroTools 1.2.15
 DendSer 1.0.3
 dendsort 0.3.4
-denguedatahub 3.2.0
+denguedatahub 4.1.0
 denim 1.2.3
 denoiSeq 0.1.1
 denovolyzeR 0.2.0
@@ -4667,7 +4667,7 @@ dhglm 2.0
 dhmeasures 1.0
 DHS.rates 0.9.2
 dhsage 0.1.0
-dHSIC 2.1
+dHSIC 2.2
 DHSr 0.1.0
 di 1.1.4
 diagcounts 0.1.0
@@ -7018,7 +7018,7 @@ forgts 0.0.1
 ForIT 2.5.2
 ForLion 0.4.0
 formatBibtex 0.1.1
-formatdown 0.1.4
+formatdown 0.2.0
 formatR 1.14
 formattable 0.2.1
 formatters 0.5.12
@@ -8429,7 +8429,7 @@ graphql 1.5.3
 GraphRankTest 0.1
 graphsim 1.0.4
 graposas 1.0.0
-grasps 0.1.0
+grasps 0.1.1
 grateful 0.3.0
 grates 1.8.0
 gratia 0.11.2
@@ -8649,7 +8649,7 @@ GUniFrac 1.9
 gunit 1.0.2
 gunsales 0.1.3
 gustave 1.0.0
-gutenbergr 0.5.0
+gutenbergr 0.5.1
 GUTS 1.2.6
 GVARX 1.4
 gvc 6.4.0
@@ -10293,7 +10293,7 @@ KEPTED 0.2.0
 kequate 1.6.4
 keras 2.16.1
 keras3 1.5.1
-kerasnip 0.1.0
+kerasnip 0.1.2
 kerDAA 0.1.1
 kerdiest 1.3-1
 kergp 0.5.8
@@ -10442,7 +10442,7 @@ koRpus.lang.en 0.1-4
 kosel 0.0.1
 kosis 0.0.1
 Kpart 1.2.2
-KPC 0.1.2
+KPC 0.1.3
 kpcaIG 1.0.1
 kpeaks 1.1.0
 kpiwidget 0.1.1
@@ -14318,7 +14318,7 @@ oskeyring 0.1.7
 osktnorm 1.1.2
 OSLdecomposition 1.2
 osmapiR 0.2.5
-osmclass 0.1.3
+osmclass 0.1.4
 osmdata 0.3.0
 osmextract 0.6.0
 OSMscale 0.5.23
@@ -14405,7 +14405,7 @@ pacheck 0.2.2
 pack 0.1-2
 packageDiff 0.1
 packagefinder 0.3.5
-packagepal 0.1.0
+packagepal 0.1.1
 packager 1.15.3
 packageRank 0.9.8
 packcircles 0.3.7
@@ -19989,7 +19989,7 @@ SMMAL 0.0.5
 smmR 1.0.5
 SMMT 1.2.0
 SMNCensReg 3.1
-SMNlmec 1.0.1
+SMNlmec 1.0.2
 smof 1.2.2
 smoke 2.0.1
 smoof 1.7.0
@@ -22258,7 +22258,7 @@ trending 0.1.0
 TrendInTrend 1.1.3
 TrendLSW 1.0.6
 trendsegmentR 1.3.2
-trendseries 1.1.0
+trendseries 1.2.0
 trendtestR 1.0.1
 TrendTM 2.0.21
 Trendtwosub 0.0.2

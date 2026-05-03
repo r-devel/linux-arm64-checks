@@ -1,12 +1,11 @@
 * using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/RSSL.Rcheck’
-* using R version 4.6.0 (2026-04-24)
+* using R version 4.5.2 (2025-10-31)
 * using platform: aarch64-unknown-linux-gnu
 * R was compiled by
-    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
-    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    gcc (Ubuntu 15.2.0-11ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-11ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-04-26 02:01:46 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘RSSL/DESCRIPTION’ ... OK
 * this is package ‘RSSL’ version ‘0.9.8’
@@ -23,12 +22,12 @@
 Found the following significant warnings:
   svm.cpp:42:38: warning: argument 1 range [18446744056529682432, 18446744073709551608] exceeds maximum object size 9223372036854775807 [-Walloc-size-larger-than=]
 See ‘/__w/linux-arm64-checks/linux-arm64-checks/RSSL.Rcheck/00install.out’ for details.
-* used C compiler: ‘aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
-* used C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+* used C compiler: ‘gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+* used C++ compiler: ‘g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
 * checking installed package size ... INFO
-  installed size is  5.8Mb
+  installed size is  5.6Mb
   sub-directories of 1Mb or more:
-    libs   3.8Mb
+    libs   3.6Mb
 * checking package directory ... OK
 * checking DESCRIPTION meta-information ... OK
 * checking top-level files ... OK
@@ -65,11 +64,11 @@ See ‘/__w/linux-arm64-checks/linux-arm64-checks/RSSL.Rcheck/00install.out’ f
 * checking for GNU extensions in Makefiles ... OK
 * checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
 * checking use of PKG_*FLAGS in Makefiles ... OK
-* checking compiled code ... INFO
+* checking compiled code ... NOTE
 Note: information on .o files is not available
 * checking examples ... OK
 * checking for unstated dependencies in ‘tests’ ... OK
 * checking tests ... OK
   Running ‘testthat.R’
 * DONE
-Status: 1 WARNING
+Status: 1 WARNING, 1 NOTE

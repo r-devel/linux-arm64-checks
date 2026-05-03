@@ -3,9 +3,9 @@
 ** package ‘hdtg’ successfully unpacked and MD5 sums checked
 ** using staged installation
 ** libs
-using C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
-aarch64-linux-gnu-g++ -std=gnu++20 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppEigen/include' -I'/usr/local/lib/R/site-library/RcppParallel/include'    -I. -I./xsimd -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=/usr/src/r-base-4.6.0-0.2604.2 -Wdate-time -D_FORTIFY_SOURCE=3   -c RcppHarmonic.cpp -o RcppHarmonic.o
-aarch64-linux-gnu-g++ -std=gnu++20 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppEigen/include' -I'/usr/local/lib/R/site-library/RcppParallel/include'    -I. -I./xsimd -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-k3yPaA/r-base-4.6.0=/usr/src/r-base-4.6.0-0.2604.2 -Wdate-time -D_FORTIFY_SOURCE=3   -c RcppZigZag.cpp -o RcppZigZag.o
+using C++ compiler: ‘g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppEigen/include' -I'/usr/local/lib/R/site-library/RcppParallel/include'    -I. -I./xsimd -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=/usr/src/r-base-4.5.2-1ubuntu2 -Wdate-time -D_FORTIFY_SOURCE=3   -c RcppHarmonic.cpp -o RcppHarmonic.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppEigen/include' -I'/usr/local/lib/R/site-library/RcppParallel/include'    -I. -I./xsimd -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-cWlIXM/r-base-4.5.2=/usr/src/r-base-4.5.2-1ubuntu2 -Wdate-time -D_FORTIFY_SOURCE=3   -c RcppZigZag.cpp -o RcppZigZag.o
 In file included from RcppZigZag.cpp:9:
 ZigZag.h: In static member function ‘static void zz::ZigZag<TypeInfo>::reduce_min(zz::DoubleSseMinTravelInfo&, zz::D2, int, int)’:
 ZigZag.h:900:35: error: there are no arguments to ‘_mm_castpd_si128’ that depend on a template parameter, so a declaration of ‘_mm_castpd_si128’ must be available [-Wtemplate-body]
@@ -40,6 +40,6 @@ ZigZag.h: In member function ‘zz::MinTravelInfo zz::ZigZag<TypeInfo>::vectoriz
 ZigZag.h:474:23: note: parameter passing for argument of type ‘zz::DoubleSseMinTravelInfo’ when C++17 is enabled changed to match C++14 in GCC 10.1
   474 |         MinTravelInfo vectorized_transform(Int i, const Int end,
       |                       ^~~~~~~~~~~~~~~~~~~~
-make: *** [/usr/lib/R/etc/Makeconf:199: RcppZigZag.o] Error 1
+make: *** [/usr/lib/R/etc/Makeconf:211: RcppZigZag.o] Error 1
 ERROR: compilation failed for package ‘hdtg’
 * removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/hdtg’

@@ -2630,7 +2630,7 @@ cfda 0.12.1
 cfdecomp 0.4.0
 CFF 1.0
 cffdrs 1.9.2
-cffr 1.3.0
+cffr 1.4.0
 cfid 0.1.8
 CFilt 1.0.0
 CFM 0.8.0
@@ -3652,6 +3652,7 @@ corrViz 0.1.0
 corset 0.1-5
 corTest 1.0.7
 corTESTsrd 1.0-0
+corteza 0.6.3
 corto 1.2.4
 CortSineScore 0.1.0
 corx 1.0.7.3
@@ -3660,6 +3661,7 @@ cosCorr 1.0.0
 cosimmr 1.0.12
 cosinor 1.2.3
 cosinor2 0.2.1
+cosmic 0.5
 cosmicsig 1.3.1
 cosmoFns 1.1-2
 CoSMoS 2.1.2
@@ -4354,7 +4356,7 @@ dcvar 0.2.0
 dda 0.1.1
 ddalpha 1.3.16
 ddc 1.0.1
-DDD 5.2.4
+DDD 5.2.5
 dde 1.0.7
 ddecompose 1.0.0
 DDESONN 7.1.11
@@ -4888,7 +4890,7 @@ diveR 0.1.2
 diverge 2.0.6
 DiversificationR 0.1.0
 diversitree 0.10-1
-diversityArch 0.2.0
+diversityArch 0.3.0
 diversityForest 0.6.0
 divest 1.2.0
 DIVINE 0.1.2
@@ -7863,6 +7865,7 @@ ggmcmc 1.5.1.2
 ggmice 0.1.1
 ggmix 0.0.2
 ggmlR 0.7.6
+GGMncv 2.1.2
 ggmr 0.1.1
 GGMridge 1.5
 ggmRSCU 0.1.0
@@ -8104,7 +8107,7 @@ glm.deploy 1.0.4
 glm.predict 4.3-2
 glm2 1.2.1
 glm4 0.1.0
-GLMBasedRaschEstimation 0.1.2
+GLMBasedRaschEstimation 0.2.0
 glmbb 0.5-1
 glmc 0.4-1
 GLMcat 1.0.0
@@ -9661,6 +9664,7 @@ INLABMA 0.1-12
 inlabru 2.14.1
 INLAjoint 25.11.10
 inlamemi 1.1.0
+INLAtools 0.1.4
 INLAvaan 0.2.4
 inlcolor 1.0.6
 inline 0.3.21
@@ -9746,7 +9750,7 @@ IntervalQuestionStat 0.2.0
 intervals 0.15.5
 IntervalSurgeon 1.3
 intervcomp 0.1.2
-inTextSummaryTable 3.3.5
+inTextSummaryTable 3.4.0
 inti 0.6.92
 intkrige 1.0.2
 intmap 1.0.0
@@ -10367,6 +10371,7 @@ kmi 0.5.5
 KMLtoSHAPE 0.1.0
 kmodR 0.2.0
 KMsurv 0.1-6
+KMT 1.0.0
 KMunicate 0.2.5
 KnapsackSampling 0.1.1
 KneeArrower 1.0.0
@@ -10471,7 +10476,7 @@ L0ggm 0.0.1
 L0Learn 2.1.0
 L0TFinv 0.1.0
 l1ball 0.1.0
-L1centrality 0.5.0
+L1centrality 0.5.1
 l1kdeconv 1.2.0
 L1pack 0.62-4
 l1rotation 1.0.1
@@ -13815,6 +13820,7 @@ numOSL 2.8
 numspellR 0.1.0
 NUSS 0.1.0
 NutrienTrackeR 1.4.0
+nutriNetwork 0.2.1
 nutrition 1.1.0
 nuts 1.1.0
 NVAR 0.1.0
@@ -14801,6 +14807,7 @@ PenguinR 0.1.0
 PenIC 1.0.0
 penMSM 0.99
 penppml 0.2.4
+pensar 0.4.2
 pense 2.5.2
 pensim 1.3.6
 pensynth 0.8.1
@@ -16467,7 +16474,7 @@ rainbow 3.8
 RAINBOWR 0.1.38
 raincin 1.0.3
 rainerosr 0.1.1
-rainette 0.3.2
+rainette 0.3.3
 RainfallErosivityFactor 1.0.0
 rainfarmr 0.1
 rairtable 0.1.2
@@ -17198,7 +17205,7 @@ regsubseq 0.12
 regtomean 1.2.1
 regtools 1.7.0
 rehh 3.2.3
-rehh.data 1.0.0
+rehh.data 1.0.1
 ReinforcementLearning 1.0.5
 ReIns 1.0.16
 reinstallr 0.1.5
@@ -17493,6 +17500,7 @@ rglobi 0.3.4
 Rglottography 1.2.0
 Rglpk 0.6-5.1
 rglplus 1.3
+rgm 1.2.1
 rgml0 0.0.1
 RGMM 2.1.0
 RGN 1.0.0
@@ -18118,7 +18126,7 @@ roundyh 0.1.0
 routing 1.0.0
 Routliers 0.0.0.3
 routr 2.0.0
-roxigraph 0.1.1
+roxigraph 0.1.2
 roxut 0.4.0
 roxy.shinylive 1.0.0
 roxygen2 8.0.0
@@ -19367,7 +19375,7 @@ sharpData 1.4
 SharpeR 1.4.0
 sharpeRratio 1.4.3
 sharpPen 2.0
-sharpshootR 2.4
+sharpshootR 2.5
 sharx 1.0-7
 shattering 1.0.7
 shazam 1.3.2
@@ -19945,7 +19953,7 @@ smoothHR 1.0.5
 smoothic 1.2.1
 smoothie 1.0-4
 smoothmest 0.1-3
-smoothr 1.2.1
+smoothr 1.3.0
 smoothROCtime 0.1.1
 smoothSurv 2.6
 smoothtail 2.0.6
@@ -20078,7 +20086,7 @@ SolveSAPHE 2.1.0
 som 0.3-5.2
 som.nn 1.4.4
 soma 1.2.0
-SomaDataIO 6.5.0
+SomaDataIO 6.6.0
 somaticflags 0.1.0
 SOMbrero 1.5.0
 someMTP 1.4.1.1
@@ -20750,7 +20758,7 @@ stdbscan 0.2.0
 stddiff 3.1
 stddiff.spark 1.0
 STDistance 0.6.6
-stdmod 0.2.12
+stdmod 0.2.13
 stdReg 3.4.2
 stdReg2 1.0.3
 stdvectors 0.0.5

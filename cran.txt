@@ -17863,7 +17863,7 @@ Rmolt 1.0.0
 rmon 1.1.0
 Rmonize 2.0.0
 rmonocypher 0.1.8
-rmoo 0.2.0
+rmoo 0.3.2
 RMOPI 1.1
 Rmosek 1.3.5
 rMOST 1.0.1

@@ -1,15 +1,16 @@
 * using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/akin.Rcheck’
-* using R version 4.5.2 (2025-10-31)
+* using R version 4.6.0 (2026-04-24)
 * using platform: aarch64-unknown-linux-gnu
 * R was compiled by
-    gcc (Ubuntu 15.2.0-11ubuntu1) 15.2.0
-    GNU Fortran (Ubuntu 15.2.0-11ubuntu1) 15.2.0
+    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
+* current time: 2026-05-04 08:47:24 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘akin/DESCRIPTION’ ... OK
 * checking extension type ... Package
-* this is package ‘akin’ version ‘0.3.1’
+* this is package ‘akin’ version ‘0.3.2’
 * package encoding: UTF-8
 * checking package namespace information ... OK
 * checking package dependencies ... OK

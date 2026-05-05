@@ -1006,7 +1006,7 @@ awsMethods 1.1-1
 axisandallies 0.1.1
 AZIAD 0.0.3
 azlogr 0.0.6
-azr 0.3.2
+azr 0.3.3
 AzureAppInsights 0.3.1
 AzureAuth 1.3.4
 AzureCognitive 1.0.2
@@ -1073,7 +1073,7 @@ baldur 0.0.4
 Ball 1.3.13
 BALLI 0.2.0
 BallMapper 0.2.0
-balnet 0.0.1
+balnet 0.0.2
 BaM 1.0.3
 bama 1.3.1
 BAMBI 2.3.6
@@ -4165,6 +4165,7 @@ DAMOCLES 2.3
 dampack 1.0.2.1000
 damr 0.3.8
 DandEFA 1.6.1
+DANDELION 0.1.0
 dang 0.0.17
 dani 0.1-1
 DanielBiostatistics10th 0.2.6
@@ -4892,6 +4893,7 @@ DiversificationR 0.1.0
 diversitree 0.10-1
 diversityArch 0.3.0
 diversityForest 0.6.0
+DiversityStats 0.1.0
 divest 1.2.0
 DIVINE 0.1.2
 divo 1.0.2
@@ -6509,7 +6511,7 @@ fctutils 0.0.7
 fcuk 0.2.0
 FCUSUM 1.0.0
 FCVAR 0.1.4
-FD 1.0-12.3
+FD 1.0-12.5
 fda 6.3.0
 fda.usc 2.2.0
 fdaACF 1.0.0
@@ -8108,6 +8110,7 @@ glm.predict 4.3-2
 glm2 1.2.1
 glm4 0.1.0
 GLMBasedRaschEstimation 0.2.0
+glmbayes 0.9.3
 glmbb 0.5-1
 glmc 0.4-1
 GLMcat 1.0.0
@@ -10245,7 +10248,7 @@ KCSNBShiny 0.1.0
 kde1d 1.1.1
 kdecopula 0.9.3
 KDEmcmc 0.0.2
-kdensity 1.1.1
+kdensity 1.2.0
 kdevine 0.4.6
 kDGLM 1.2.14
 kdist 0.2
@@ -11816,7 +11819,7 @@ memoiR 1.3-1
 memoise 2.0.1
 memor 0.2.3
 memoria 1.1.0
-memshare 1.1.0
+memshare 1.1.1
 MEMSS 0.9-4
 memuse 4.2-3
 MendelianRandomization 0.10.0
@@ -13451,7 +13454,7 @@ ngramrr 0.2.0
 ngspatial 1.2-2
 NHANES 2.1.0
 nhanesA 1.4.1
-nhanesdata 0.2.1
+nhanesdata 0.2.2
 nhdplusTools 1.4.2
 nhdR 0.6.1
 NHLData 1.0.0
@@ -14108,7 +14111,7 @@ openVA 1.2.0
 openxlsx 4.2.8.1
 openxlsx2 1.26
 operator.tools 1.6.3.1
-operators 0.1-8
+operators 0.2.0
 opGMMassessment 0.4.1
 OPI 3.1.0
 opImputation 0.6
@@ -14595,6 +14598,7 @@ paths 0.1.2
 pathviewr 1.1.8
 PathwaySpace 1.2.0
 PathwayVote 0.1.3
+PatientGenerator 0.1.4
 PatientLevelPrediction 6.6.0
 PatientProfiles 1.5.0
 patientProfilesVis 2.0.10
@@ -15954,7 +15958,7 @@ psychotools 0.7-6
 psychotree 0.16-2
 psychReport 4.0.1
 psychrolib 2.5.2
-psychTools 2.5.7.22
+psychTools 2.6.4
 PsychWordVec 2025.11
 PsyControl 1.0.0.0
 psymetadata 1.0.1
@@ -15995,7 +15999,7 @@ Publish 2025.07.24
 PubMatrixR 1.0.0
 pubmed.mineR 1.0.21
 PubMedMining 1.0.0
-pubmedR 1.0.0
+pubmedR 1.0.2
 pubmedtk 1.0.4
 PubMedWordcloud 0.3.6
 pubrplot 0.0.1
@@ -16217,7 +16221,7 @@ qtkit 1.1.1
 qtl 1.74
 QTL.gCIMapping 3.4
 QTL.gCIMapping.GUI 2.1.1
-qtl2 0.38
+qtl2 0.40
 qtl2convert 0.32
 qtl2fst 0.30
 qtl2ggplot 1.2.6
@@ -17291,7 +17295,7 @@ repmis 0.5.1
 repmod 0.4.11
 RepoGenerator 0.0.1
 repolr 3.4
-report 0.6.3
+report 0.6.4
 reporter 1.4.6
 repoRter.nih 0.1.4
 ReporterScore 0.2.5
@@ -19953,6 +19957,7 @@ smoothHR 1.0.5
 smoothic 1.2.1
 smoothie 1.0-4
 smoothmest 0.1-3
+SmoothPLS 0.1.5
 smoothr 1.3.0
 smoothROCtime 0.1.1
 smoothSurv 2.6
@@ -20496,7 +20501,7 @@ SPSP 0.2.0
 spStack 1.1.3
 spsur 1.0.2.6
 spsurv 1.0.0
-spsurvey 5.6.0
+spsurvey 5.6.1
 spsUtil 0.2.2.1
 spTDyn 2.0.3
 SpTe2M 1.0.3
@@ -21687,7 +21692,7 @@ ThresholdROCsurvival 1.2.1
 threshr 1.0.8
 thriftr 1.1.8
 thunder 1.1.5
-ThurMod 1.1.15
+ThurMod 1.1.20
 thurstonianIRT 0.12.5
 tibble 3.3.1
 tibbletime 0.1.9
@@ -21797,7 +21802,7 @@ tidyspec 0.1.0
 tidysq 1.2.3
 tidystats 0.7.0
 tidystopwords 0.9.1
-tidystringdist 0.1.4
+tidystringdist 0.1.6
 tidySummaries 0.1.0
 tidysummary 0.1.0
 tidysynth 0.2.1
@@ -23432,7 +23437,7 @@ wv 0.1.3
 WVPlots 1.3.9
 WWGbook 1.0.2
 wwntests 1.1.0
-wxgenR 1.4.4
+wxgenR 1.4.5
 wyz.code.metaTesting 1.1.22
 wyz.code.offensiveProgramming 1.1.24
 wyz.code.rdoc 1.1.19

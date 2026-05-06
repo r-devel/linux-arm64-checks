@@ -1,9 +1,9 @@
 on:
   schedule:
-    - cron: "30 */6 * * *"
+    - cron: "30 */2 * * *"
   workflow_dispatch:
 
-name: Update new CRAN packages
+name: Find CRAN/incoming updates
 
 concurrency: ${{ github.workflow }}
 
@@ -74,5 +74,40 @@ jobs:
             gh workflow run check.yml -f package=$package || true
             sleep 10
           done </tmp/updates/changes.txt
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  incoming:
+    runs-on: ubuntu-latest
+    name: Update incoming packages
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Process incoming changes
+        timeout-minutes: 5
+        shell: bash
+        run: |
+          set -euo pipefail
+          remote=$(curl -sSl --retry 3 --fail-with-body ftp://cran.r-project.org/incoming/special/linux-arm64/ | sort -u | sed 's/.tar.gz//g')
+          current=$(ls .incoming | grep -v README.md | sort -u || "")
+          echo "Checking files removed from incoming"
+          comm -23 <(printf '%s\n' "$current") <(printf '%s\n' "$remote") | tee -a /tmp/removed.txt
+          echo "Checking files added to incoming"
+          comm -13 <(printf '%s\n' "$current") <(printf '%s\n' "$remote") | tee -a /tmp/added.txt
+          while read -r pkgfile; do
+            echo "Starting check for $pkgfile"
+            gh workflow run incoming.yml -f "pkgfile=${pkgfile}.tar.gz" || true
+            sleep 10
+          done < /tmp/added.txt
+          while read -r pkgfile; do
+            echo "Removing incoming result for $pkgfile"
+            rm -Rf ".incoming/$pkgfile"
+            git add ".incoming/$pkgfile"
+          done < /tmp/removed.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Cleanup incoming" || exit 0
+          git push
         env:
           GH_TOKEN: ${{ github.token }}

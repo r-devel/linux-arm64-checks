@@ -1,0 +1,107 @@
+on:
+  workflow_dispatch:
+    inputs:
+      pkgfile:
+        description: Filename or URL of a package tarball
+        required: true
+
+name: Check incoming package
+run-name: Incoming ${{ inputs.pkgfile }}
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    name: Incoming check ${{ inputs.pkgfile }}
+    runs-on: ubuntu-24.04-arm
+    container:
+      image: ghcr.io/r-devel/rcheckserver/ubuntu:latest
+    steps:
+      - name: Download package and dependencies
+        timeout-minutes: 90
+        run: |
+          url <- "${{ inputs.pkgfile }}"
+          if(!grepl("https://", url)){
+            url <- paste0("https://cran.r-project.org/incoming/special/linux-arm64/", url)
+          }
+          filename <- basename(url)
+          download.file(url, filename)
+          package <- strsplit(filename, '_')[[1]][1]
+          version <- sub(".tar.gz", "", strsplit(filename, '_')[[1]][2])
+          writeLines(version, 'version.txt')
+          install.packages(package, dependencies = TRUE)
+        shell: Rscript {0}
+
+      - name: Build package
+        timeout-minutes: 90
+        run: |
+          mkdir mylib
+          R CMD INSTALL *.tar.gz --library=mylib --use-vanilla 2>&1 | tee install.log
+        continue-on-error: true
+        shell: bash
+
+      - name: Check package
+        timeout-minutes: 90
+        run: |
+          R CMD check *.tar.gz --library=mylib --install=check:install.log --no-manual --no-vignettes
+        continue-on-error: true
+        shell: bash
+        env:
+          _R_CHECK_FORCE_SUGGESTS_: false
+
+      - name: Write status
+        timeout-minutes: 10
+        run: |
+          results <- tools:::check_packages_in_dir_results('.')
+          package <- names(results)[1]
+          status <- results[[package]]$status
+          writeLines(status, "status.out")
+          if(status == 'FAILURE'){
+            write("[FATAL TIMEOUT / HANG]", paste0(package, ".Rcheck/00check.log"), append = TRUE)
+          }
+        shell: Rscript {0}
+
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: output-arm64
+          path: |
+            version.txt
+            install.log
+            status.out
+            *.Rcheck/*.log
+            *.Rcheck/tests
+
+  commit:
+    runs-on: ubuntu-latest
+    name: Commit results to repository
+    needs: check
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          name: 'output-arm64'
+          path: '/tmp/output-arm64'
+
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          ref: 'main'
+
+      - name: Copy files
+        shell: bash
+        run: |
+          checkdir=$(basename /tmp/output-arm64/*.Rcheck || exit 1)
+          version=$(cat /tmp/output-arm64/version.txt || exit 1)
+          package="${checkdir%.Rcheck}"
+          destdir=".incoming/${package}_${version}"
+          mkdir -p ${destdir}
+          rm -Rf ${destdir}/*
+          cp -f /tmp/output-arm64/${checkdir}/00check.log ${destdir}/
+          cp -f /tmp/output-arm64/install.log ${destdir}/
+          git add ${destdir}
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Incoming: ${package} ${version}" || exit 0
+          git pull origin main --rebase || true
+          git push

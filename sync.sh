@@ -1,0 +1,4 @@
+#!/bin/sh
+git fetch origin
+git reset --hard origin/main
+git clean -fdx

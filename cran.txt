@@ -3253,7 +3253,7 @@ colocalization 1.0.2
 colocalized 0.2.0
 colocboost 1.0.7
 colocPropTest 0.9.3
-ColombiAPI 0.3.1
+ColombiAPI 0.3.2
 ColOpenData 1.0.0
 colorblindcheck 1.0.4
 colorBlindness 0.1.9
@@ -10751,7 +10751,7 @@ lfe 3.1.1
 lfebd3 0.1.0
 lfl 2.3.1
 lfmm 1.1
-lfproQC 1.4.2
+lfproQC 1.4.3
 lfstat 0.9.13
 lg 0.4.1
 lgarch 0.7
@@ -11762,7 +11762,7 @@ meddra.read 0.0.1
 mederrRank 0.1.0
 MEDesigns 1.0.1
 medExtractR 0.4.1
-medfate 4.8.4
+medfate 5.0.0
 medfateland 2.8.1
 medflex 0.6-11
 mediacloudr 0.1.0
@@ -11951,7 +11951,7 @@ MeTo 0.1.1
 metools 1.0.0
 metR 0.18.3
 metrica 2.1.1
-MetricGraph 1.5.0
+MetricGraph 1.6.0
 metricminer 1.0.1
 Metrics 0.1.4
 MetricsWeighted 1.0.4
@@ -13132,6 +13132,7 @@ mvvg 0.1.0
 mwa 0.5.1
 mwcsr 0.1.10
 mwlaxeref 0.0.1
+mwmapdata 1.0.0
 MWright 0.3.2
 mwshiny 2.1.0
 mwTensor 1.1.0
@@ -14989,7 +14990,7 @@ phrases 0.1
 phscs 0.1.0
 phsmethods 1.1.0
 PHSMM 1.0
-phsopendata 1.0.3
+phsopendata 1.1.0
 phuassess 1.1
 phutil 0.0.2
 phyclust 0.1-34
@@ -16558,7 +16559,7 @@ rapport 1.2
 rapportools 1.2
 rappsflyer 0.2.0
 rapr 1.1.3
-rapsimng 0.4.6
+rapsimng 0.5.0
 raptools 1.23.0
 RAPTOR 1.0.1
 raptr 1.0.1
@@ -19264,7 +19265,7 @@ SeuratObject 5.4.0
 sevenbridges2 0.4.0
 sever 0.0.7
 sewage 0.2.5
-sf 1.1-0
+sf 1.1-1
 sfa 1.0.4
 sfadv 1.0.1
 sfaR 1.0.1
@@ -20469,7 +20470,7 @@ springer 0.1.9
 springpheno 0.5.0
 spRingsteen 0.1.0
 SPRT 1.1.0
-sprtt 0.2.0
+sprtt 0.3.1
 sps 0.6.3
 spsComps 0.3.4.0
 spselect 0.0.1
@@ -21505,7 +21506,7 @@ tern.gee 0.1.5
 tern.mmrm 0.3.3
 TernTables 1.6.4
 ternvis 1.3
-terra 1.9-11
+terra 1.9-25
 terrainmeshr 1.0.1
 terrainr 0.7.6
 TesiproV 0.9.6

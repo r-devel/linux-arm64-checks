@@ -574,7 +574,7 @@ antaresEditObject 1.0.0
 antaresProcessing 0.18.3
 antaresRead 3.0.0
 antaresViz 0.18.3
-AntClassify 0.1.0
+AntClassify 0.2.1
 antedep 0.1.0
 anthro 1.1.0
 anthroplus 1.1.0
@@ -2646,7 +2646,7 @@ CGGP 1.0.4
 cglasso 2.0.7
 cgmanalysis 3.2.0
 CGManalyzer 1.3.1
-cgmguru 0.1.0
+cgmguru 0.2.0
 CGMissingDataR 0.0.1
 cgmquantify 0.1.0
 CGNM 0.9.3
@@ -4324,7 +4324,7 @@ DCG 0.9.3
 DChaos 0.1-7
 dChipIO 0.1.5
 dci 1.0.3
-dcifer 1.5.0
+dcifer 1.5.2
 DCL 0.1.2
 DCLEAR 1.0.13
 dclone 2.3-3
@@ -5397,7 +5397,6 @@ ebrahim.gof 1.0.0
 EBrank 1.0.0
 eBsc 4.17
 ebTobit 1.0.2
-ebvcube 0.5.2
 ebx 1.0.0
 ec50estimator 0.1.0
 ecan 0.2.1
@@ -7752,7 +7751,7 @@ ggauto 0.0.1
 ggautomap 0.4.0
 ggbeeswarm 0.7.3
 ggbiplot 0.6.2
-ggblanket 12.4.0
+ggblanket 20.0.0
 ggblend 0.1.2
 ggborderline 0.3.0
 ggbrace 0.1.2
@@ -10976,7 +10975,7 @@ lmridge 1.2.2
 lmSubsets 0.5-4
 lmtest 0.9-40
 lmtestrob 0.1
-lmtp 1.5.3
+lmtp 1.5.4
 lmviz 0.2.0
 lmw 0.0.2
 lncDIFF 1.0.0
@@ -11531,7 +11530,6 @@ matRiks 0.1.5
 matrisk 0.1.0
 Matrix 1.7-5
 matrixcalc 1.0-6
-matrixCorr 0.11.1
 MatrixCorrelation 0.10.1
 matrixcut 0.0.1
 matrixdist 1.1.9
@@ -13140,7 +13138,7 @@ mwlaxeref 0.0.1
 mwmapdata 1.0.0
 MWright 0.3.2
 mwshiny 2.1.0
-mwTensor 1.1.0
+mwTensor 1.2.2
 mx.api 0.1.0
 mxcc 0.0.5
 mxfda 0.2.2-1
@@ -14805,7 +14803,7 @@ penppml 0.2.4
 pensar 0.4.2
 pense 2.5.2
 pensim 1.3.6
-pensynth 0.8.1
+pensynth 0.8.2
 peopleanalytics 0.1.0
 peopleanalyticsdata 0.2.1
 pep725 1.1.0
@@ -15796,6 +15794,7 @@ PROMETHEE 1.1
 promethee123 0.1.0
 PrometheeTools 0.1.0
 promises 1.5.0
+promor 0.2.3
 promote 1.1.1
 promotionImpact 0.1.5
 prompt 1.0.2
@@ -21587,7 +21586,7 @@ textrank 0.3.1
 textrar 0.8.0
 textrecipes 1.1.0
 textreg 0.1.5
-textreuse 0.1.5
+textreuse 1.0.1
 textshape 1.7.5
 textshaping 1.0.5
 textstem 0.1.4

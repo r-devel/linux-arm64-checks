@@ -257,7 +257,7 @@ aeddo 0.1.1
 AEDForecasting 0.20.0
 aedseo 1.1.0
 AEenrich 1.1.1
-aelab 1.1.1
+aelab 1.1.3
 aemo 0.4.0
 AEP 0.1.4
 AER 1.2-16
@@ -486,7 +486,7 @@ AMDconfigurations 0.1.0
 Amelia 1.8.3
 amelie 0.2.1
 amen 1.4.5
-ameras 0.2.0
+ameras 0.3.0
 amerika 0.1.1
 AmesHousing 0.0.4
 ami 0.2.1
@@ -520,7 +520,7 @@ analogsea 1.0.7.2
 analogue 0.18.1
 AnalyzeFMRI 1.1-25
 analyzer 1.0.1
-ananke 0.1.0
+ananke 0.2.0
 AnanseSeurat 1.2.0
 aNCA 0.1.0
 AnchorRegression 0.1.3
@@ -2275,7 +2275,7 @@ camerondata 1.0.0
 campaignmanageR 0.1.0
 campfin 1.0.11
 campsis 1.8.2
-campsismod 1.3.1
+campsismod 1.3.2
 camsRad 0.3.0
 camtrapdp 0.5.0
 camtrapR 3.0.4
@@ -5657,7 +5657,7 @@ ellipsis 0.3.3
 ElliptCopulas 0.1.4.1
 elliptic 1.5-1
 ellipticalsymmetry 0.1.2
-ellmer 0.4.0
+ellmer 0.4.1
 ELmethodVar 0.1
 elmNNRcpp 1.0.5
 ELMSO 1.0.1
@@ -6523,7 +6523,7 @@ fdaPDE 1.1-21
 fdaPOIFD 2.0.1
 fdarep 0.1.1
 fdaSP 1.1.2
-fdasrvf 2.4.3
+fdasrvf 2.4.4
 fdatest 2.1.1
 FDboost 1.1-4
 fdclassify 0.1.0
@@ -7138,7 +7138,7 @@ frontmatter 0.2.0
 frostr 0.2.0
 froth 1.1.0
 frscore 0.5.2
-fru 0.0.6
+fru 0.0.7
 fruclimadapt 0.4.5
 fs 2.1.0
 FSA 0.10.1
@@ -7820,7 +7820,7 @@ gggenomes 1.1.3
 ggghost 0.2.3
 gggibbous 0.1.1
 gggrid 0.2-0
-ggguides 1.1.6
+ggguides 1.1.10
 ggh4x 0.3.1
 gghalfnorm 1.1.2
 gghdx 0.1.4
@@ -8393,6 +8393,7 @@ graphlayouts 1.2.3
 graphon 0.3.6
 graphonmix 0.0.1.0
 graphPAF 2.0.1
+graphpcor 0.1.25
 graphql 1.5.3
 GraphRankTest 0.1
 graphsim 1.0.4
@@ -8422,7 +8423,7 @@ GreedyEPL 1.3
 GreedyExperimentalDesign 1.6.1
 GreedyExperimentalDesignJARs 1.0
 greekLetters 1.0.4
-greeks 1.5.1
+greeks 1.5.3
 greenbook 0.1.0
 greenclust 1.1.1
 greencrab.toolkit 0.2
@@ -9276,7 +9277,7 @@ ibdsim2 2.3.2
 ibelief 1.3.1
 IBFS 1.0.0
 ibger 0.1.0
-ibkrcp 0.1.0
+ibkrcp 0.1.1
 IBLM 1.0.2
 ibm 0.3.0
 ibmAcousticR 0.2.1
@@ -9378,7 +9379,7 @@ IDEATools 3.5.2
 idefix 1.1.0
 idendr0 1.5.4
 ider 0.1.1
-IDetect 0.1.0
+IDetect 0.1.1
 IDF 2.1.3
 idiffomix 1.0.0
 iDINGO 1.0.4
@@ -9792,7 +9793,7 @@ IOLS 0.1.4
 ioncopy 2.2.2
 ionet 0.2.2
 iotables 0.9.4
-iotarelr 0.1.8
+iotarelr 0.1.9
 iotools 0.4-0
 ip2location 8.1.3
 ip2location.io 0.0.0-2
@@ -10316,7 +10317,7 @@ kidney.epi 1.4.0
 kidsides 0.5.0
 Kifidi 0.1.0
 kim 0.6.4
-kimfilter 1.1.0
+kimfilter 2.0.0
 kimisc 1.0.1
 kin.cohort 0.7
 kindisperse 0.10.2
@@ -10751,7 +10752,7 @@ LFDR.MLE 1.0.1
 LFDR.MME 1.0
 LFDREmpiricalBayes 1.0
 lfe 3.1.1
-lfebd3 0.1.0
+lfebd3 0.2.0
 lfl 2.3.1
 lfmm 1.1
 lfproQC 1.4.3
@@ -11780,6 +11781,7 @@ medicare 0.2.1
 meditations 1.0.1
 MedLEA 1.0.2
 medparser 0.2.0
+medrxivr 0.1.3
 medScan 1.0.2
 MEDseq 1.4.2
 MedxR 0.1.1
@@ -12312,7 +12314,7 @@ MKinfer 1.3
 MKLE 1.0.1
 MKMeans 3.4.4
 MKmisc 1.9
-MKomics 0.7
+MKomics 0.8
 MKpower 1.1
 mkssd 1.2
 ml 0.1.2
@@ -12478,7 +12480,7 @@ MNARclust 1.1.0
 MNB 1.2.0
 mnda 1.0.9
 mnet 0.1.4
-mnirs 0.6.2
+mnirs 0.6.3
 mniw 1.0.2
 mnlfa 0.3-4
 MNLR 0.1.0
@@ -13064,8 +13066,8 @@ MUVR2 0.1.0
 MVA 1.0-9
 mvabund 4.2.8
 mvalpha 0.5.1
-MVar 2.2.8
-MVar.pt 2.2.8
+MVar 2.2.9
+MVar.pt 2.2.9
 mvardlurt 1.0.2
 MvBinary 1.1
 mvbutils 2.8.232
@@ -14032,7 +14034,7 @@ ontologySimilarity 2.9
 ontophylo 1.1.3
 OOBCurve 0.3
 OofAExp 0.1.0
-oolong 0.6.1
+oolong 0.7.0
 oompaBase 3.2.11
 oompaData 3.1.5
 OOR 0.1.4
@@ -17346,7 +17348,7 @@ reslife 0.2.1
 resLIK 0.1.2
 reslr 0.1.1
 resmush 1.0.0
-resourcecode 0.5.3
+resourcecode 0.5.4
 resourcecodedata 1.0.0
 resourcer 1.5.1
 ResourceSelection 0.3-6
@@ -17915,7 +17917,7 @@ RobinHood 1.7.0
 robis 2.11.3
 RobKF 1.0.2
 RobLox 1.2.3
-RoBMA 3.6.1
+RoBMA 4.0.0
 robmed 1.3.0
 robmedExtra 0.1.1
 robmixglm 1.2-5
@@ -17933,7 +17935,7 @@ robRatio 0.1.0
 robreg3S 0.3-1
 robregcc 1.1
 RobRegression 0.1.0
-RoBSA 1.0.3
+RoBSA 1.0.4
 robscale 0.5.4
 robsel 0.1.0
 robservable 0.2.2
@@ -18067,7 +18069,7 @@ RoME 0.2.3
 Romeb 0.1.2
 romic 1.3.3
 RonFHIR 0.4.0
-ronfig 0.0.9
+ronfig 0.0.10
 Rook 1.2
 ROOPSD 0.3.9
 ROOT 0.1.1
@@ -20971,7 +20973,7 @@ summariser 2.3.0
 summarySCI 0.1.1
 summarytabl 0.2.1
 summarytools 1.1.5
-summata 0.11.4
+summata 0.11.5
 SUMMER 2.0.0
 SUMO 1.2.3
 sumR 0.4.16
@@ -22131,7 +22133,7 @@ transx 0.0.1
 trapezoid 2.0-2
 Tratamentos.ad 0.2.4
 traudem 1.0.3
-traumar 1.2.5
+traumar 1.2.6
 traveltimeR 1.3.1
 trawl 0.2.2
 trc 0.2
@@ -23060,6 +23062,7 @@ walkboutr 0.6.0
 walker 1.0.10
 walkscore 0.1.2
 walkscoreAPI 1.2
+wallace 2.2.1
 WallomicsData 1.0
 wally 1.0.10
 walmartAPI 0.1.5
@@ -23403,7 +23406,7 @@ WRSS 3.2
 wrswoR 1.2.0
 WRTDStidal 1.1.5
 wrTopDownFrag 1.0.4
-wru 3.0.3
+wru 3.1.0
 wsbackfit 1.0-5
 WSCdata 0.1.2
 wsjplot 0.1.0

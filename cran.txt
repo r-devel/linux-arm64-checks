@@ -9963,7 +9963,7 @@ itcSegment 1.0
 itdr 2.0.1
 itemanalysis 1.1
 ItemRest 0.2.5
-iTensor 1.0.2
+iTensor 1.0.4
 IterativeHardThresholding 1.0.3
 iteratoR 0.1.1
 iterators 1.0.14
@@ -10392,7 +10392,7 @@ KOGMWU 1.2
 kohonen 3.0.13
 kokudosuuchi 1.0.0
 KOLaide 0.0.1
-kollaR 1.1.3
+kollaR 1.1.4
 komaletter 0.5.0
 konfound 1.0.3
 KONPsurv 1.0.4
@@ -10762,7 +10762,7 @@ lgr 0.5.2
 lgrdata 0.1.1
 lgrExtra 0.2.2
 LGRF 1.0
-lgspline 1.0.2
+lgspline 1.1.0
 lgtdl 1.1.5
 LHD 1.4.1
 lhmixr 0.1.0
@@ -18824,7 +18824,7 @@ scclust 0.2.5
 sccore 1.0.7
 sccr 2.1
 SCCS 1.7
-scCustomize 3.2.4
+scCustomize 3.3.0
 SCDA 0.0.2
 SCDB 0.6.0
 scDECO 0.1.1

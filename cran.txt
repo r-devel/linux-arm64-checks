@@ -1719,6 +1719,7 @@ bipd 0.3
 bipl5 1.0.2
 biplotbootGUI 1.3
 biplotEZ 2.2
+BiplotML 1.1.1
 birankr 1.0.1
 birdcolors 1.0.1
 birddog 1.0.4
@@ -7204,6 +7205,7 @@ fundiversity 1.1.1
 funFEM 1.2
 fungible 2.4.7
 funGp 1.0.0
+funHDDC 2.3.1.1
 funIHC 0.1.0
 funique 0.0.1
 fUnitRoots 4052.82
@@ -8710,7 +8712,7 @@ haplotyper 0.1
 haplotypes 1.1.3.2
 HaploVar 0.1.1
 happign 0.3.8
-harbinger 1.2.767
+harbinger 2.0.707
 hardhat 1.4.3
 HardyWeinberg 1.7.9
 harmonicmeanp 3.0.1
@@ -12352,6 +12354,7 @@ MLmetrics 1.1.3
 mlmhelpr 0.1.1
 mlmi 1.1.3
 MLML2R 0.3.3
+mlmodels 0.1.2
 mlmoderator 0.2.1
 MLMOI 0.1.2
 MLmorph 0.1.1
@@ -14908,7 +14911,7 @@ phantSEM 1.0.1
 pharmaRTF 0.1.4
 pharmaverse 0.0.2
 pharmaverseadam 1.3.0
-pharmaverseadamjnj 0.0.4
+pharmaverseadamjnj 0.0.5
 pharmaverseraw 0.1.1
 pharmaversesdtm 1.4.1
 pharmaversesdtmjnj 0.0.4
@@ -16546,7 +16549,7 @@ RAP 1.2.2
 Rapi 1.0.6
 rapiclient 0.1.8
 RApiDatetime 0.0.11
-rapidcodeR 0.1.0
+rapidcodeR 0.1.1
 RapidFuzz 1.1.0
 rapidjsonr 1.2.1
 rapidoc 9.3.4
@@ -17359,7 +17362,7 @@ restrictR 0.1.0
 restriktor 0.6-30
 RestRserve 1.2.4
 result 0.1.0
-resultcheck 0.2.0
+resultcheck 0.2.1
 ResultModelManager 0.6.2
 resumer 0.0.5
 resumiR 1.0.2
@@ -23444,6 +23447,7 @@ xesreadR 0.2.3
 xfun 0.57
 xgb2sql 0.1.3
 xgboost 3.2.1.1
+XGeoRTR 0.7.0
 xgrove 0.1-15
 xgxr 1.1.2
 xhaz 2.1.0

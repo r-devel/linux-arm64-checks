@@ -5556,7 +5556,7 @@ ef 1.2.0
 EFA.dimensions 0.1.8.6
 EFA.MRFA 1.1.2
 EFAfactors 1.2.4
-EFAtools 0.7.0
+EFAtools 0.7.1
 EFAutilities 2.1.3
 eFCM 1.0
 efdm 0.2.3
@@ -13585,7 +13585,7 @@ NNS 12.0
 nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
-nnTensor 1.3.0
+nnTensor 1.4.0
 nntmvn 1.3.0
 NO.PING.PONG 0.1.9.1
 noaa 1.0.0
@@ -21670,7 +21670,7 @@ TideTables 0.0.3
 tidier 0.2.0
 tidyactuarial 0.1.1
 tidyAML 0.0.6
-tidyaudit 0.2.0
+tidyaudit 0.2.1
 tidybayes 3.0.7
 tidyBdE 0.6.0
 tidybins 0.1.2

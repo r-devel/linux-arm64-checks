@@ -1,0 +1,4 @@
+ERROR: dependencies ‘fda’, ‘pracma’, ‘Rcpp’, ‘Metrics’, ‘RcppEigen’ are not available for package ‘mGSFPCA’
+Perhaps try a variation of:
+install.packages(c('fda', 'pracma', 'Rcpp', 'Metrics', 'RcppEigen'))
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/mGSFPCA’

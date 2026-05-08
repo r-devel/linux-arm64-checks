@@ -2790,7 +2790,7 @@ cia 1.0.0
 CIAAWconsensus 1.3
 CIARA 0.1.0
 CICA 1.1.1
-cicalc 0.2.0
+cicalc 0.2.1
 ciCalibrate 0.42.2
 cicerone 1.0.4
 CICI 1.0
@@ -3135,6 +3135,7 @@ CNVRG 1.0.0
 CNVScope 3.7.2
 coala 0.7.2
 coalescentMCMC 0.4-4
+coalitions 0.6.27
 COAP 1.3
 coarseDataTools 0.7.2
 CoastlineFD 1.1.2
@@ -3156,7 +3157,7 @@ cocosoR 0.1.0
 cocotest 1.0.3
 cocron 1.0-1
 coda 0.19-4.1
-coda.base 1.0.5
+coda.base 1.0.6
 coda.pack 0.1.3
 coda.plot 0.2.2
 coda4microbiome 0.2.4
@@ -3496,6 +3497,7 @@ conStruct 1.0.6
 constructive 1.3.0
 contactdata 1.1.0
 contactsurveys 0.1.0
+contagionchannels 0.1.3
 container 1.1.0
 containr 0.1.3
 ContaminatedMixt 1.3.8
@@ -6384,7 +6386,7 @@ fastcpd 0.16.2
 FastCUB 0.0.4
 fastdid 1.0.6
 fastDummies 1.7.6
-fastei 0.0.0.12
+fastei 0.0.16
 fasterize 1.1.0
 fasterRaster 8.4.1.2
 fastFGEE 0.1.0
@@ -6943,6 +6945,7 @@ FoRDM 1.0.2
 foreach 1.5.2
 ForeCA 0.2.7
 forecast 9.0.2
+forecastADAPT 0.1.0
 ForecastCombinations 1.1
 forecasteR 3.0.2
 forecastHybrid 5.1.21
@@ -8451,6 +8454,7 @@ gridGeometry 0.4-0
 gridGraphics 0.5-1
 gridGraphviz 0.3-2
 gridify 0.7.7
+gridmicrotex 0.0.1
 GridOnClusters 0.3.2
 gridOT 1.0.2
 gridpattern 1.3.1
@@ -11926,7 +11930,7 @@ MetBrewer 0.2.0
 meteo 2.0-4
 meteoEVT 0.1.0
 meteoForecast 0.57
-meteoland 2.2.6
+meteoland 2.2.7
 meteor 0.4-5
 meteospain 0.3.1
 meteR 1.2
@@ -12005,6 +12009,7 @@ MGMS2 1.0.2
 MGPSDK 1.0.0
 mgpStreamingSDK 0.2.0
 MGSDA 1.6.1
+mGSFPCA 0.2.2
 mgsub 2.0.0
 mgwnbr 0.3.0
 mgwrhw 1.1.1.5
@@ -21961,6 +21966,7 @@ toon 0.0.1
 toonlite 0.1.0
 toOrdinal 1.4-0.0
 Toothnroll 1.11
+topcc 1.2
 topChef 0.2.0
 TopDom 0.10.1
 topdowntimeratio 0.1.0

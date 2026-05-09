@@ -5265,7 +5265,7 @@ dwp 1.2
 DWreg 3.0
 DyadiCarma 1.0.1
 dyadicMarkov 0.1.0
-DyadRatios 1.4
+DyadRatios 2.0
 dyads 1.2.1
 dycdtools 0.4.4
 dydea 0.1.0
@@ -12623,7 +12623,7 @@ mopac 0.1.0
 MOQA 2.0.0
 morepls 0.2.1
 morestopwords 0.2.0
-mori 0.1.0
+mori 0.2.0
 morph 1.1.0
 morphemepiece 1.2.3
 morphemepiece.data 1.2.0
@@ -23076,7 +23076,7 @@ washr 1.0.1
 WASP 1.4.5
 waspasR 0.1.5
 waspr 1.0.1
-watcher 0.1.5
+watcher 0.1.6
 WaterBalanceR 0.1.21
 waterfalls 1.0.0
 waterquality 1.0.0

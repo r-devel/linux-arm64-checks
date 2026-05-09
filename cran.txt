@@ -16032,7 +16032,7 @@ PvSTATEM 0.2.2
 PWEALL 1.3.0.1
 PwePred 1.1.2
 PWEV 0.1.0
-PWEXP 0.5.0
+PWEXP 0.5.1
 PWIR 0.0.3.1
 pwlapprox2d 0.1.0
 pwlmm 1.1.2
@@ -16937,7 +16937,7 @@ Rdice 1.0.0
 RDieHarder 0.2.7
 Rdimtools 1.1.4
 rdist 0.0.5
-Rdistance 4.4.0
+Rdistance 4.4.2
 rdiversity 2.2.0
 rdkitpyr 0.2.1
 rdlearn 0.1.1

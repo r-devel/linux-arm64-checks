@@ -9148,7 +9148,7 @@ HTSCluster 2.0.11
 htsDegenerateR 0.1.0
 HTSeed 0.1.0
 HTSeedGLM 0.1.0
-htsr 2.1.6
+htsr 2.1.7
 HTT 0.1.2
 httk 2.7.4
 httkexamples 0.0.1

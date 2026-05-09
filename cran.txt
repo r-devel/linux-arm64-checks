@@ -1073,7 +1073,7 @@ BallMapper 0.2.0
 balnet 0.0.2
 BaM 1.0.3
 bama 1.3.1
-BAMBI 2.3.6
+BAMBI 2.3.7
 bambooHR 0.1.1
 bamdit 3.6.0
 bamlss 1.2-5
@@ -7633,7 +7633,7 @@ geometa 0.9.3
 GeometricMorphometricsMix 0.6.1.1
 geometries 0.2.5
 geometry 0.5.2
-geommc 1.3.1
+geommc 1.3.2
 geomod 0.1.0
 GeoModels 2.2.3
 GeoMongo 1.0.3

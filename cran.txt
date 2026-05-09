@@ -18597,7 +18597,7 @@ S3VS 1.0
 S4DM 0.0.1
 S7 0.2.2
 s7contract 0.1.0
-S7schema 0.1.0
+S7schema 0.1.1
 saber 0.3.0
 sabre 0.4.3
 saccadr 0.1.3

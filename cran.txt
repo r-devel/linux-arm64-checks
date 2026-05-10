@@ -271,7 +271,7 @@ afcolours 1.0.0
 afdx 1.1.2
 afex 1.5-1
 AFFECT 0.1.2
-affiner 0.2.1
+affiner 0.3.1
 affinity 0.2.5
 affinitymatrix 0.1.0
 affluenceIndex 2.2
@@ -718,7 +718,7 @@ ArctosR 0.1.3
 aRD 0.1.0
 ArDec 2.1-1
 ARDECO 2.2.3
-ARDL 0.2.4
+ARDL 0.2.5
 ardl.nardl 1.3.0
 ardlverse 1.1.3
 ards 0.1.3
@@ -6031,7 +6031,6 @@ etsi 1.0
 etwfe 0.6.2
 EuclideanSD 0.1.0
 Euclimatch 1.0.2
-eudata 0.1.3
 eudract 1.1.1
 eufmdis.adapt 0.1.0
 EUfootball 0.0.1
@@ -6757,7 +6756,7 @@ fivethirtyeight 0.6.2
 FixedPoint 0.6.3
 fixedTimeEvents 1.0.1
 fixerapi 0.1.6
-fixes 0.7.2
+fixes 0.8.1
 fixest 0.14.1
 fixr 0.2.0
 FixSeqMTP 0.1.2
@@ -10196,7 +10195,7 @@ JuliaFormulae 0.1.0
 jumble 0.1.1
 JUMP 1.0.2
 jumps 1.0
-junco 0.1.4
+junco 0.1.6
 junctions 2.1.4
 just.install 1.0.2
 justifier 0.2.8
@@ -11031,7 +11030,7 @@ LogConcDEAD 1.6-12
 logconcens 0.17-4
 logcondens 2.1.9
 logcondiscr 1.0.7
-logger 0.4.1
+logger 0.4.2
 logging 0.10-108
 loggit 2.1.1
 loggit2 2.4.0
@@ -12505,7 +12504,7 @@ Modalclust 0.7
 modeest 2.4.0
 modehunt 1.0.8
 model4you 0.9-9
-modelbased 0.14.0
+modelbased 0.15.0
 modelbpp 0.2.0
 modelc 1.0.0.0
 Modelcharts 0.1.0
@@ -18353,7 +18352,7 @@ rsppfp 1.0.4
 rsprite2 0.2.1
 rsq 2.7
 RSQL 0.2.2
-RSQLite 2.4.6
+RSQLite 3.52.0
 RSQLite.toolkit 0.1.2
 RSqlParser 1.5
 RsqMed 1.1
@@ -20269,7 +20268,7 @@ spatstat.model 3.7-0
 spatstat.random 3.4-5
 spatstat.sparse 3.1-0
 spatstat.univar 3.1-7
-spatstat.utils 3.2-2
+spatstat.utils 3.2-3
 spatsurv 2.0-1
 SPB 1.0
 spbabel 0.6.0
@@ -21500,7 +21499,7 @@ tern.mmrm 0.3.3
 Ternary 2.3.6
 TernTables 1.6.4
 ternvis 1.3
-terra 1.9-25
+terra 1.9-27
 terrainmeshr 1.0.1
 terrainr 0.7.6
 TesiproV 0.9.6

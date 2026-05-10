@@ -74,7 +74,7 @@ ACE.CoCo 0.1
 ace2fastq 0.6.0
 acebayes 1.11
 aceEditor 1.0.1
-ACEP 0.0.22
+ACEP 0.1.0
 acepack 1.6.3
 ACEsearch 1.0.0
 ACEsimFit 0.0.0.9

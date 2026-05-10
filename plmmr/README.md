@@ -1,6 +1,6 @@
 # plmmr 4.2.3
 
-Latest run: 2026-05-03: https://github.com/r-devel/linux-arm64-checks/actions/runs/25267645843
+Latest run: 2026-05-10: https://github.com/r-devel/linux-arm64-checks/actions/runs/25617631899
 
 ```
 Package: plmmr

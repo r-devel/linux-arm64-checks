@@ -5,7 +5,6 @@ DPQ,0.6-1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/DP
 ECOSolveR,0.6.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ECOSolveR
 KSgeneral,2.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/KSgeneral
 ROI.plugin.qpoases,1.0-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ROI.plugin.qpoases
-ROracle,1.5-1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ROracle
 RSSL,0.9.8,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RSSL
 RTriangle,1.6-0.15,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RTriangle
 Rbeast,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/Rbeast

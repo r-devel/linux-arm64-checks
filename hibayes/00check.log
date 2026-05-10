@@ -1,11 +1,12 @@
 * using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/hibayes.Rcheck’
-* using R version 4.5.2 (2025-10-31)
+* using R version 4.6.0 (2026-04-24)
 * using platform: aarch64-unknown-linux-gnu
 * R was compiled by
-    gcc (Ubuntu 15.2.0-11ubuntu1) 15.2.0
-    GNU Fortran (Ubuntu 15.2.0-11ubuntu1) 15.2.0
+    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
+* current time: 2026-05-10 02:25:08 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘hibayes/DESCRIPTION’ ... OK
 * this is package ‘hibayes’ version ‘3.1.0’
@@ -19,11 +20,11 @@
 * checking for portable file names ... OK
 * checking for sufficient/correct file permissions ... OK
 * checking whether package ‘hibayes’ can be installed ... OK
-* used C++ compiler: ‘g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+* used C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
 * checking installed package size ... INFO
-  installed size is 17.5Mb
+  installed size is 17.9Mb
   sub-directories of 1Mb or more:
-    libs  17.1Mb
+    libs  17.4Mb
 * checking package directory ... OK
 * checking DESCRIPTION meta-information ... OK
 * checking top-level files ... OK
@@ -58,7 +59,7 @@
 * checking for GNU extensions in Makefiles ... OK
 * checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
 * checking use of PKG_*FLAGS in Makefiles ... OK
-* checking compiled code ... NOTE
+* checking compiled code ... INFO
 Note: information on .o files is not available
 * checking examples ... ERROR
 Running examples in ‘hibayes-Ex.R’ failed
@@ -93,4 +94,4 @@ Error in if (sum(p < maf)) { : argument is not interpretable as logical
 Calls: ssbrm
 Execution halted
 * DONE
-Status: 1 ERROR, 1 NOTE
+Status: 1 ERROR

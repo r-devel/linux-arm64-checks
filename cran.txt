@@ -8631,7 +8631,7 @@ gvlma 1.0.0.3
 GVS 0.0.2
 GWalkR 0.2.1
 gwaRs 0.3.0
-gwas2crispr 0.1.2
+gwas2crispr 0.1.4
 GWASbyCluster 0.1.7
 GWASExactHW 1.2
 gwasforest 1.0.0
@@ -11470,7 +11470,7 @@ marradistrees 1.0
 mars 0.2.2
 MARSANNhybrid 0.1.0
 MARSGWR 0.1.0
-marsrad 1.0.0
+marsrad 1.0.1
 MARSS 3.11.10
 MARSSVRhybrid 0.1.0
 MarZIC 1.0.1

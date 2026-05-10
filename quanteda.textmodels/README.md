@@ -1,6 +1,6 @@
 # quanteda.textmodels 0.9.10
 
-Latest run: 2026-05-03: https://github.com/r-devel/linux-arm64-checks/actions/runs/25267679334
+Latest run: 2026-05-10: https://github.com/r-devel/linux-arm64-checks/actions/runs/25617667786
 
 ```
 Package: quanteda.textmodels
@@ -24,7 +24,7 @@ ARM64: ERROR
     [8] -13.659 - -14.281 ==  0.622011
     [9]  -0.622 -   0.000 == -0.622497
     
-    [ FAIL 1 | WARN 0 | SKIP 1 | PASS 243 ]
+    [ FAIL 1 | WARN 1 | SKIP 1 | PASS 243 ]
     Error:
     ! Test failures.
     Execution halted

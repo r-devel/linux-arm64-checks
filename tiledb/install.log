@@ -2,19 +2,21 @@
 ** this is package ‘tiledb’ version ‘0.33.0’
 ** package ‘tiledb’ successfully unpacked and MD5 sums checked
 ** using staged installation
+'config' variable 'CXX11FLAGS' is defunct
 checking whether the C++ compiler works... yes
 checking for C++ compiler default output file name... a.out
 checking for suffix of executables... 
 checking whether we are cross compiling... no
 checking for suffix of object files... o
 checking whether the compiler supports GNU C++... yes
-checking whether g++ -std=gnu++17 accepts -g... yes
-checking for g++ -std=gnu++17 option to enable C++11 features... none needed
-checking how to run the C++ preprocessor... g++ -std=gnu++17 -E
+checking whether aarch64-linux-gnu-g++ -std=gnu++20 accepts -g... yes
+checking for aarch64-linux-gnu-g++ -std=gnu++20 option to enable C++11 features... -std=gnu++11
+checking how to run the C++ preprocessor... aarch64-linux-gnu-g++ -std=gnu++20 -std=gnu++11 -E
 checking whether the compiler supports GNU C++... (cached) yes
-checking whether g++ -std=gnu++17 accepts -g... (cached) yes
-checking for g++ -std=gnu++17 option to enable C++11 features... (cached) none needed
-checking whether g++ -std=gnu++17 supports C++17 features by default... yes
+checking whether aarch64-linux-gnu-g++ -std=gnu++20 -std=gnu++11 accepts -g... (cached) yes
+checking for aarch64-linux-gnu-g++ -std=gnu++20 -std=gnu++11 option to enable C++11 features... (cached) -std=gnu++11
+checking whether aarch64-linux-gnu-g++ -std=gnu++20 -std=gnu++11 -std=gnu++11 supports C++17 features by default... no
+checking whether aarch64-linux-gnu-g++ -std=gnu++20 -std=gnu++11 -std=gnu++11 supports C++17 features with -std=gnu++17... yes
 checking for pkg-config... /usr/bin/pkg-config
 checking if pkg-config knows TileDB... no
 checking for stdio.h... yes

@@ -9934,7 +9934,7 @@ isodistrreg 0.1.0
 isogeochem 1.1.1
 isokernel 0.1.0
 IsoMemo 23.10.1
-isoniche 0.1.0
+isoniche 0.1.1
 isoorbi 1.5.2
 isopam 3.6
 isopleuros 1.4.0

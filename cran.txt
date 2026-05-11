@@ -3228,7 +3228,7 @@ coinmarketcapr 0.4
 CoinMinD 1.2.1
 Coinprofile 0.1.9
 COINr 1.1.14
-COINT 0.0.2
+COINT 0.0.3
 cointests 1.0.0
 cointmonitoR 0.1.0
 cointReg 0.2.0

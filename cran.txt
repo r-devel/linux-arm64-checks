@@ -590,7 +590,7 @@ anybadger 0.1.0
 anyflights 0.3.5
 anyLib 1.0.5
 anytime 0.3.13
-ao 1.2.2
+ao 1.2.3
 AOboot 0.1.2
 aod 1.3.3
 aods3 0.6
@@ -728,7 +728,7 @@ areal 0.1.8
 areaOfEffect 0.2.4
 areaplot 2.1.3
 arenar 0.2.0
-arete 0.1
+arete 0.2
 arf 0.2.4
 arfima 1.8-2
 arg 0.1.0
@@ -790,6 +790,7 @@ arulesNBMiner 0.1.9
 arulesSequences 0.2-32
 arulesViz 1.5.4
 ARUtools 0.7.3
+ArvindSt 1.0.0
 aRxiv 0.18
 asaur 0.50
 asbio 1.13-1
@@ -2651,6 +2652,7 @@ cgmquantify 0.1.0
 CGNM 0.9.3
 CGP 2.1-1
 CGR 0.1.0
+cgvR 0.1.2
 cgwtools 4.1
 chainbinomial 0.1.5
 ChainLadder 0.2.21
@@ -3306,6 +3308,7 @@ CombinS 1.2
 combiroc 0.3.4
 combiter 1.0.3
 COMBO 1.2.0
+combss 0.1.0
 comclim 0.9.6
 cometr 0.4.0
 comets 0.2-2
@@ -3506,6 +3509,7 @@ ContaminatedMixt 1.3.8
 contdid 0.1.0
 contentanalysis 1.0.0
 contentid 0.0.19
+contentValidity 0.1.0
 conText 3.0.1
 contextFind 1.0.1
 contfrac 1.1-12
@@ -4039,6 +4043,7 @@ curry 0.1.1
 cursr 0.1.0
 curtailment 0.2.6
 curveDepth 0.1.0.16
+curves 0.4.0
 curvHDR 1.2-2
 curvir 0.1.1
 cusp 2.3.8
@@ -4222,7 +4227,7 @@ datapasta 3.1.0
 dataprep 0.1.5
 dataPreparation 1.1.2
 DataQualityDashboard 2.8.7
-dataquieR 2.8.7
+dataquieR 2.8.9
 datardis 0.0.5
 dataReporter 1.0.5
 datareportR 0.1.2
@@ -5265,7 +5270,7 @@ dwp 1.2
 DWreg 3.0
 DyadiCarma 1.0.1
 dyadicMarkov 0.1.0
-DyadRatios 2.0
+DyadRatios 2.1
 dyads 1.2.1
 dycdtools 0.4.4
 dydea 0.1.0
@@ -6551,7 +6556,7 @@ FeaLect 1.20
 feasts 0.5.0
 featForge 0.1.2
 feather 0.4.0
-feature 1.2.15
+feature 1.2.16
 featureCorMatrix 0.4.0
 FeatureExtraction 3.13.0
 featurefinder 1.2
@@ -7341,6 +7346,7 @@ gamRR 0.7.0
 gamsel 1.8-5
 gamselBayes 2.0-3
 gamstransfer 3.0.8
+gamutil 0.8.1
 ganDataModel 2.0.1
 gander 0.2.0
 ganGenerativeData 2.1.6
@@ -7417,6 +7423,7 @@ gclink 1.1
 gclm 0.0.1
 gclus 1.3.3
 gcmr 1.0.4
+gcomputation 0.34
 gconsensus 0.3.2
 gcookbook 2.0.1
 gcor 0.1.0
@@ -9043,7 +9050,7 @@ hnp 1.2-7
 HNPclassifier 0.1.0
 hoardr 0.5.5
 HOasso 1.0.1
-hockeystick 0.8.6
+hockeystick 0.8.7
 HodgesTools 1.0.0
 HOIFCar 1.1.1
 holi 0.1.1
@@ -9365,7 +9372,7 @@ ictools 0.1.0
 ICV 1.0
 ICvectorfields 0.1.2
 idar 1.7
-idarps 0.0.5
+idarps 0.0.6
 idbr 1.2
 IDCard 0.3.0
 idcnrba 1.1.0
@@ -9557,6 +9564,7 @@ imsig 1.1.3
 imt 1.0.0
 IMTest 1.0.0
 imuf 0.6.0
+imv 0.3
 ImVol 0.1.0
 inaparc 1.2.1
 inbreedR 0.3.3
@@ -9645,7 +9653,7 @@ INFOSET 4.1.1
 infotest 0.1.0
 infotheo 1.2.0.1
 infoxtr 0.2
-Infusion 2.3.0
+Infusion 2.3.12
 ingredients 2.3.0
 ini 0.3.1
 injectoR 0.2.4
@@ -9967,7 +9975,7 @@ itcSegment 1.0
 itdr 2.0.1
 itemanalysis 1.1
 ItemRest 0.2.5
-iTensor 1.0.4
+iTensor 1.0.5
 IterativeHardThresholding 1.0.3
 iteratoR 0.1.1
 iterators 1.0.14
@@ -11360,7 +11368,7 @@ manta 1.0.1
 MantaID 1.0.4
 mantar 0.2.0
 mantis 1.0.2
-manureshed 0.1.4
+manureshed 0.1.5
 manydata 1.1.3
 manydist 0.4.9
 ManyIVsNets 0.1.1
@@ -11751,6 +11759,7 @@ MEclustnet 1.2.2
 meconetcomp 0.7.0
 mecor 1.0.0
 mecoturn 0.3.1
+mectx 1.1.1
 MED 0.1.0
 MedDataSets 0.1.0
 MedDietCalc 0.1.1
@@ -12416,7 +12425,7 @@ mltest 1.0.3
 mltools 0.3.5
 mlts 2.0.1
 mlVAR 0.6.1
-MLwrap 0.3.0
+MLwrap 0.4.0
 MLZ 0.1.5
 MM 1.7-0
 MM2Sdata 1.0.3
@@ -14913,7 +14922,7 @@ pharmaverseadamjnj 0.0.5
 pharmaverseraw 0.1.1
 pharmaversesdtm 1.4.1
 pharmaversesdtmjnj 0.0.4
-pharmr 1.7.2
+pharmr 2.1.0
 phase 1.2.9
 phase12designs 0.3.1
 phase1PRMD 1.0.2
@@ -16489,6 +16498,7 @@ randomForest 4.7-1.2
 randomForestExplainer 0.10.1
 randomForestRHF 1.0.1
 RandomForestsGLS 0.1.5
+randomForestSGT 1.0.0
 randomForestSRC 3.6.2
 randomForestVIP 0.1.3
 RandomGaussianNB 0.2.4
@@ -16537,6 +16547,7 @@ RankingProject 0.4.0
 rankinma 0.2.2
 rankinPlot 1.1.0
 RankPCA 0.1.0
+rankPlayedInference 1.0
 rankrate 1.2.1
 RankResponse 4.0.0
 RANKS 1.1
@@ -18003,6 +18014,7 @@ rocrateR 0.1.0
 ROCS 1.4
 ROCSI 0.1.0
 ROCsurf 0.1.1
+ROCsurvcomp 0.1.2
 rocsvm.path 0.1.0
 rocTools 0.1.3
 rocvb 0.1.0
@@ -18383,7 +18395,7 @@ rStrava 1.3.4
 rstream 1.3.7
 rstudio.prefs 0.1.9
 rstudioapi 0.18.0
-rstudiothemes 1.1.0
+rstudiothemes 1.1.1
 Rsubbotools 0.0.1
 rsubgroup 1.1
 rsurface 1.1.0
@@ -19933,6 +19945,7 @@ smoothr 1.3.0
 smoothROCtime 0.1.1
 smoothSurv 2.6
 smoothtail 2.0.6
+SmoothWin 3.0.1
 smoothy 1.0.0
 smoots 1.1.4
 smosr 1.0.1
@@ -20239,6 +20252,7 @@ SpatialRDD 0.1.0
 spatialreg 1.4-3
 spatialreg.hp 0.0-2
 SpatialRegimes 1.2
+spatialRegroup 0.1.0
 spatialRF 1.1.5
 spatialrisk 0.8.0
 SpatialRoMLE 0.1.1.1
@@ -20766,6 +20780,7 @@ StepReg 1.6.2
 StepRegShiny 1.6.1
 steprf 1.0.2
 stepSplitReg 1.0.5
+stepssurvey 0.1.0
 StepwiseTest 1.0
 StereoMorph 1.6.7
 stevedata 1.8.0
@@ -21746,6 +21761,7 @@ tidync 0.4.0
 tidynorm 0.4.1
 tidyOhdsiSolutions 0.1.0
 tidypaleo 0.1.4
+TidyPanel 0.1.2
 tidyplate 2.2.0
 tidyplots 0.4.0
 tidyplus 0.2.0
@@ -22438,7 +22454,7 @@ TwoSampleTest.HD 1.2
 twosigma 1.0.2
 twoStageDesignTMLE 1.0.1.2
 TwoStepCLogit 1.2.6
-TwoStepSDFM 0.2.0
+TwoStepSDFM 0.2.1
 TwoTimeScales 1.2.1
 twotrials 0.6
 twoway 0.6.3
@@ -23067,6 +23083,7 @@ WARDEN 2.0.2
 WAreg 0.1.0
 warehouseTools 0.1.4
 wARMASVp 0.1.0
+warmthcompetence 0.1.5
 WARN 1.2-5
 WarnEpi 1.0.1
 warp 0.2.3
@@ -23378,7 +23395,7 @@ wrappedtools 0.9.9
 wrappr 0.1.0
 wrapr 2.1.0
 wrassp 1.0.6
-wrds 0.0.1
+wrds 0.1.1
 WrensBookshelf 0.1.0
 WRestimates 0.1.0
 wrGraph 1.3.15
@@ -23527,7 +23544,7 @@ xvm 0.0.2
 xwf 0.2-3
 xxdi 1.26.4
 xxhashlite 0.2.2
-XYomics 0.1.3
+XYomics 0.1.4
 yacca 1.4-2
 yaConsensus 1.1
 yager 0.1.1

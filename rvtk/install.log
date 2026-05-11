@@ -1,0 +1,8 @@
+* installing *source* package ‘rvtk’ ...
+** this is package ‘rvtk’ version ‘0.1.3’
+** package ‘rvtk’ successfully unpacked and MD5 sums checked
+** using staged installation
+No system VTK found. Trying pre-built static libraries from GitHub...
+ERROR: Unsupported Linux architecture 'aarch64'.
+ERROR: configuration failed for package ‘rvtk’
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/rvtk’

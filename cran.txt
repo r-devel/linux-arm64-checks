@@ -824,7 +824,7 @@ aspi 0.2.0
 aspline 0.2.0
 aSPU 1.50
 asremlPlus 4.4.58
-ASRgenomics 1.1.5
+ASRgenomics 1.1.6
 ASSA 2.0
 assemblykor 0.1.2
 assert 1.0.1
@@ -2341,7 +2341,7 @@ caresid 0.1
 caret 7.0-1
 caretEnsemble 4.0.1
 caretForecast 0.1.3
-caretSDM 1.5
+caretSDM 1.8.3
 carfima 2.0.2
 cargo 0.4.9
 caribou 1.1-1
@@ -4216,6 +4216,7 @@ datamedios 1.2.3
 DataMetProcess 1.0.8
 datamods 1.5.3
 dataMojo 1.0.0
+datamuseum 0.1.0
 datana 1.1.5
 datanugget 1.4.0
 dataonderivatives 0.4.0
@@ -4838,6 +4839,7 @@ dissCqN 0.1.0
 dissever 0.2-3
 dissimilarities 0.3.0
 DiSSMod 1.0.0
+dist.structure 0.5.0
 Distance 2.0.1
 distanceHD 1.2
 distances 0.1.13
@@ -5172,7 +5174,7 @@ DSMolgenisArmadillo 4.0.1
 dsmSearch 1.2.2
 DSOpal 1.5.0
 dsos 0.1.2
-dsp 1.3.0
+dsp 1.4.0
 dspline 1.0.4
 DSpoty 0.1.0
 dsROCrate 0.0.2
@@ -5372,6 +5374,7 @@ EasyStat 2.0.0
 easystats 0.7.5
 easysurv 2.0.2
 easySVG 0.1.0
+easytable 2.1.1
 easyVerification 0.4.5
 easyViz 2.1.0
 eat 0.1.4
@@ -5629,7 +5632,7 @@ EIX 1.2.1
 eixport 0.6.2
 EKMCMC 1.1.2
 eks 1.1.3
-EL 1.3
+EL 1.4
 EL2Surv 1.1
 elaborator 1.3.5
 elasdics 1.1.3
@@ -7038,6 +7041,7 @@ fpest 0.1.1
 FPLdata 0.1.0
 fplot 1.2.0
 fplyr 1.3.0
+fpod 1.0.1
 fpop 2019.08.26
 fpopw 1.1
 fPortfolio 4023.84
@@ -7800,7 +7804,7 @@ ggEDA 0.2.0
 ggeffects 2.3.2
 ggenealogy 1.0.3
 GGenemy 0.1.0
-ggerror 0.3.0
+ggerror 1.0.0
 ggetho 0.3.7
 ggExametrika 1.1.0
 ggExtra 0.11.0
@@ -11783,7 +11787,7 @@ medicare 0.2.1
 meditations 1.0.1
 MedLEA 1.0.2
 medparser 0.2.0
-medrxivr 0.1.3
+medrxivr 0.1.4
 medScan 1.0.2
 MEDseq 1.4.2
 MedxR 0.1.1
@@ -11887,6 +11891,7 @@ metaheuristicOpt 2.0.0
 metainc 0.2-1
 MetaIntegration 0.1.2
 MetaLandSim 2.0.0
+metalcor 1.0.0
 metaLik 0.44.0
 metalite 0.1.4
 metalite.ae 0.1.3
@@ -11979,6 +11984,7 @@ mExplorer 1.0.0
 MF.beta4 1.1.2
 mfaces 0.1-4
 MFAg 2.3
+mfclim 0.1.1
 mfcurve 1.0.2
 mFD 1.0.7
 mfdb 7.4-0
@@ -14062,7 +14068,7 @@ OpenBARD 0.0.1
 openblender 0.5.81
 opencage 0.2.2
 OpEnCAST 0.1.1
-opencis 0.1.0
+opencis 0.1.1
 OpenCL 0.2-11
 opencpu 2.2.14
 openCR 2.2.7
@@ -18763,6 +18769,7 @@ SASdates 0.1.0
 sasif 0.1.3
 sasLM 0.10.8
 SASmarkdown 0.8.7
+SASmixed 1.0-5
 sasquatch 0.1.3
 sasr 0.1.5
 sass 0.4.10
@@ -21244,7 +21251,7 @@ SyncMove 0.1-0
 SyncRNG 1.3.3
 SYNCSA 1.3.5
 SynDI 0.1.0
-SynergyLMM 1.1.2
+SynergyLMM 1.1.3
 synMicrodata 2.1.3
 synopR 1.0.0
 synr 1.0.0
@@ -21684,7 +21691,7 @@ ThurMod 1.1.20
 thurstonianIRT 0.12.5
 tibble 3.3.1
 tibbletime 0.1.9
-tibblify 0.4.0
+tibblify 0.4.1
 tican 1.1.0
 tickr 1.0.2
 TICM 1.0-0
@@ -22078,7 +22085,7 @@ trackdf 0.3.3
 trackdown 1.1.1
 trackeR 1.6.1
 trackeRapp 1.2
-trackopt 0.1.0
+trackopt 0.1.1
 TrackReconstruction 1.3
 tractor.base 3.5.0
 TractorTsbox 0.1.1
@@ -22947,7 +22954,7 @@ visOmopResults 1.4.2
 visor 0.1.1
 visPedigree 1.8.1
 visreg 2.8.0
-visStatistics 0.1.7
+visStatistics 0.2.0
 vistime 1.3.0
 vistla 2.1.2
 visTree 0.8.1

@@ -1584,7 +1584,7 @@ BigQuic 1.1-13
 BIGr 0.6.2
 bigreadr 0.2.5
 bigReg 0.1.5
-bigrquery 1.6.1
+bigrquery 1.6.2
 bigrquerystorage 1.2.2
 bigsimr 0.12.0
 bigsnpr 1.12.21
@@ -6299,7 +6299,7 @@ FactoMineR 2.14
 factoptd 1.0.3
 factor.switching 1.4
 factor256 0.1.0
-factorana 1.2.0
+factorana 1.3.4
 FactorAssumptions 2.0.1
 FactorCopula 0.9.3
 FactorCopulaModel 0.1.1
@@ -7098,7 +7098,7 @@ freebsdcontribs 0.1.0
 freecurrencyapi 0.1.0
 freedom 1.0.1
 freegroup 1.2-0
-freestiler 0.1.6
+freestiler 0.1.7
 freesurfer 1.8.1
 freesurferformats 1.0.0
 FREEtree 0.1.0
@@ -7861,7 +7861,7 @@ ggm 2.5.2
 ggmap 4.0.2
 ggmapcn 0.3.0
 ggmapinset 0.5.0
-ggmatplot 0.1.2.1
+ggmatplot 0.1.3
 ggmcmc 1.5.1.2
 ggmice 0.1.1
 ggmix 0.0.2
@@ -7916,7 +7916,7 @@ ggquickeda 0.3.3
 ggquiver 0.4.0
 ggragged 0.2.0
 ggrain 0.1.2
-ggRandomForests 2.7.2
+ggRandomForests 2.7.3
 ggraph 2.2.2
 ggraptR 1.3
 ggrastr 1.0.2
@@ -9471,7 +9471,7 @@ IJSE 0.1.2
 ijtiff 3.2.0
 il.cbs.muni 0.1.0
 ilabelled 1.0.1
-ILORA 0.1.1
+ILORA 0.1.2
 ILRCM 0.2.0
 ILS 0.3
 ILSAmerge 1.4.0
@@ -14518,7 +14518,7 @@ Pareto 2.4.5
 ParetoPosStable 1.1
 parfm 2.7.8
 pargasite 2.1.1
-parglm 0.1.8
+parglm 0.1.9
 pARI 1.1.3
 Paris2024Colours 0.2.0
 parma 1.7
@@ -15525,7 +15525,7 @@ powerSurvEpi 0.1.5
 powertools 1.0.0
 PowerTOST 1.5-7
 powRICLPM 0.2.1
-PowRPriori 0.1.2
+PowRPriori 0.2.0
 PP 0.6.4-1
 PPbigdata 1.0.0
 pPCA 1.1
@@ -18407,7 +18407,7 @@ rsurvstat 0.1.4
 rsvd 1.0.5
 rsvddpd 1.0.1
 rsvg 2.7.0
-rswipl 10.1.6
+rswipl 10.1.7
 Rsymphony 0.1-33
 rsyncrosim 2.1.13
 rsyntax 0.1.4
@@ -18991,7 +18991,7 @@ sdamr 0.2.0
 SDAR 0.9-55
 SDAResources 0.1.1
 sdbuildR 1.0.8
-sdcHierarchies 0.23.0
+sdcHierarchies 0.23.1
 sdcLog 0.5.1
 sdcMicro 5.8.1
 SDCNway 1.0.1
@@ -20550,7 +20550,7 @@ ssaBSS 0.1.2
 SSAforecast 0.1.1
 ssanv 1.1
 Ssarkartrim 1.0.0
-SSBtools 1.8.6
+SSBtools 1.8.7
 ssc 2.1-0
 sscor 0.2.1
 SscSrs 0.1.0
@@ -20930,7 +20930,7 @@ STV 1.0.3
 stxplore 0.1.0
 styler 1.11.0
 stylest2 0.1
-stylo 0.7.5
+stylo 0.7.7
 Stype.est 0.1.0
 Styperidge.reg 0.1.0
 subdetect 1.3
@@ -21841,7 +21841,7 @@ timeEL 0.9.1
 timefully 0.1.0
 timeLineGraphics 1.0
 timeordered 1.0.3
-timeperiodsR 0.7.5
+timeperiodsR 0.7.7
 timeplyr 1.1.2
 timereg 2.0.7
 timeROC 0.4.1
@@ -21892,7 +21892,7 @@ tippy 0.1.0
 tipr 1.0.2
 TiPS 1.3.0
 tipsae 1.0.3
-tipse 1.2
+tipse 2.0
 tirt 0.3.1
 tis 1.39
 tissot 0.2.0

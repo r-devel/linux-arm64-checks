@@ -52,6 +52,7 @@ AcademicThemes 0.0.2
 academictwitteR 0.3.1
 acc 1.3.3
 acca 0.2
+accelEE 0.3.1
 accelerometry 3.1.2
 accelmissing 2.2
 AccelStab 2.3.2
@@ -346,6 +347,7 @@ AIBias 0.1.1
 aIc 1.0
 AICcmodavg 2.3-4
 AID 3.1
+AIDA 0.1.5
 aiDIF 0.1.0
 AiES 0.99.6
 aifeducation 1.1.5
@@ -1044,6 +1046,7 @@ backtest 0.3-4
 backtestGraphics 0.1.8
 baclava 1.1
 bacondecomp 0.1.1
+bacontrees 1.0.0
 BACprior 2.1.2
 bacr 1.0.1
 badgen 1.0.1
@@ -2613,6 +2616,7 @@ Certara.RsNLME.ModelBuilder 3.0.1
 Certara.RsNLME.ModelExecutor 3.0.2
 Certara.VPCResults 3.0.2
 Certara.Xpose.NLME 2.0.2
+certify 0.1.0
 ces 1.0.2
 ceser 1.0.0
 cetcolor 0.2.0
@@ -3634,7 +3638,7 @@ correlationfunnel 0.2.0
 correlationr 0.1.0
 correlbinom 0.0.1
 Correlplot 1.1.3
-correspondenceTables 0.7.4
+correspondenceTables 1.0.1
 corrfuns 1.2
 corrgram 1.14
 corrMCT 0.2.0
@@ -6231,6 +6235,7 @@ extraterrestrial 0.1.0
 extRC 1.2
 ExtremalDep 1.0.0
 ExtremeBounds 0.1.7
+ExtremeCI 0.2.1
 extremefit 1.1.0
 extremeIndex 0.0.3
 extrememix 0.0.1
@@ -7582,6 +7587,7 @@ GenOrd 2.0.0
 GenoTriplo 1.1.3
 GenOU 0.2.1
 genpathmox 1.1
+genproc 0.2.0
 genridge 0.8.0
 GenSA 1.1.15
 genscore 1.0.2.2
@@ -9383,6 +9389,7 @@ IDCard 0.3.0
 idcnrba 1.1.0
 IDE 0.3.1
 IDEAFilter 0.2.1
+idealstan 1.0
 ideamdb 0.0.9
 ideanet 1.1.1
 IDEATools 3.5.2
@@ -11640,6 +11647,7 @@ mccf1 1.1
 mcclust 1.0.1
 MCCM 0.1.0
 mccount 0.1.1
+mcdabench 1.1.1
 mcemGLM 1.1.3
 mcen 1.2.1
 mcga 3.0.9
@@ -11888,6 +11896,7 @@ metagroup 1.0.2
 MetaHD 0.1.4
 metaHelper 1.0.0
 metaheuristicOpt 2.0.0
+MetaHunt 0.1.0
 metainc 0.2-1
 MetaIntegration 0.1.2
 MetaLandSim 2.0.0
@@ -13146,6 +13155,7 @@ mvvg 0.1.0
 mwa 0.5.1
 mwcsr 0.1.11
 mwlaxeref 0.0.1
+mwmap 1.0.0
 mwmapdata 1.0.0
 MWright 0.3.2
 mwshiny 2.1.0
@@ -13224,6 +13234,7 @@ nat.nblast 1.6.9
 nat.templatebrains 1.2.1
 nat.utils 0.6.1
 natcpp 0.2
+nativeORT 0.1.2
 natmanager 0.5.2
 NatParksPalettes 0.2.0
 natserv 1.0.0
@@ -16254,7 +16265,7 @@ qualpalr 2.0.0
 qualtRics 3.2.2
 qualV 0.3-5
 qualvar 0.2.0
-QUALYPSO 2.3
+QUALYPSO 3.0
 QuanDA 1.0.0
 quantbayes 0.1.0
 QuantBondCurves 0.3.2
@@ -22973,6 +22984,7 @@ vitae 0.6.0
 vital 2.0.3
 vitality 1.3
 vitals 0.2.0
+vitopack 0.1.1
 vivaglint 0.1.1
 vivainsights 0.7.2
 vivaldi 1.0.1
@@ -23324,7 +23336,7 @@ wishmom 1.1.0
 withdots 0.1.1
 wither 0.1.0
 withr 3.0.2
-wizaRdry 0.6.7
+wizaRdry 0.6.8
 wk 0.9.5
 wkb 0.4-0
 wkpool 0.3.0

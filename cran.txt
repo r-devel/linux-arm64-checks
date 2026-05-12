@@ -1152,7 +1152,7 @@ BasketballAnalyzeR 0.8.1
 BasketTrial 0.1.0
 baskexact 1.0.1
 baskoptr 1.0.4
-basksim 2.1.0
+basksim 2.2.0
 baskwrap 1.0.3
 BASS 1.3.1
 BaSTA 2.0.2
@@ -2311,7 +2311,7 @@ capybara 1.8.0
 car 3.1-5
 caracas 2.1.1
 caradpt 0.1.0
-caRamel 1.4
+caRamel 1.5
 carat 2.2.1
 CARBayes 6.1.1
 CARBayesdata 3.0
@@ -6453,7 +6453,7 @@ fastrmodels 2.1.0
 FastRWeb 1.2-3
 fastshap 0.1.1
 FastStepGraph 0.1.1
-fastText 1.0.7
+fastText 1.0.8
 fastTextR 2.1.1
 fasttime 1.1-0
 fastTopics 0.7-38
@@ -13297,7 +13297,7 @@ nemsqar 1.1.2
 nemtr 0.0.1.0
 neo2R 2.4.2
 neo4jshell 0.1.2
-neo4r 0.1.1
+neo4r 0.1.4
 neodistr 0.1.2
 neojags 0.1.7
 neonOS 1.1.0

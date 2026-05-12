@@ -2535,7 +2535,7 @@ CDM 8.3-14
 CDMConnector 2.5.1
 cdmTools 1.0.6
 cdnbcr 1.1.1
-cdom 0.1.0
+cdom 0.1.1
 cdparcoord 1.0.1
 cdrcR 0.1.1
 CDsampling 0.1.6
@@ -7355,7 +7355,7 @@ GANPAdata 1.0
 ganttify 0.2.5
 gap 1.14
 gap.datasets 0.0.6
-GapAnalysis 2.0.0
+GapAnalysis 2.0.2
 GAparsimony 0.9.5
 gapmap 1.0.0
 gapminder 1.0.1
@@ -8995,6 +8995,7 @@ HistData 1.0.0
 HistDAWass 1.0.8
 histmdl 0.7-1
 histogram 0.0-25
+HistogramTools 0.4.1
 historicalborrow 1.1.1
 historicalborrowlong 0.1.0
 historydata 0.1
@@ -11704,7 +11705,7 @@ mcvis 1.0.8
 mcwr 1.0.0
 md 1.0.4
 md.log 0.2.0
-MD2sample 1.2.0
+MD2sample 1.2.1
 md4r 0.5.3.0
 mda 0.5-5
 mda.biber 1.0.1
@@ -12508,6 +12509,7 @@ mod2rm 0.2.1
 modACDC 2.0.1
 ModalCens 0.1.0
 Modalclust 0.7
+ModalForecast 0.1.0
 modeest 2.4.0
 modehunt 1.0.8
 model4you 0.9-9
@@ -12771,6 +12773,7 @@ mRMRe 2.1.2.2
 mro 0.1.1
 MRPC 3.2.0
 mRpostman 1.1.4
+mrPStrata 0.1.0
 MRQoL 1.0.1
 MRReg 0.1.6
 mrregression 1.0.0
@@ -13293,7 +13296,7 @@ neighbr 1.0.3
 neldermead 1.0-13
 Nematode 0.3.0
 nemBM 1.00.01
-nemsqar 1.1.2
+nemsqar 1.2.0
 nemtr 0.0.1.0
 neo2R 2.4.2
 neo4jshell 0.1.2
@@ -15677,7 +15680,7 @@ priceR 1.0.4
 pricesensitivitymeter 1.3.3
 prider 1.0.6
 pridit 1.1.0
-prim 1.0.22
+prim 1.0.23
 PRIMAL 1.0.3
 primarycensored 1.4.0
 primate 0.2.0
@@ -16714,7 +16717,7 @@ RCALI 0.3.7
 RcamelsCL 0.1-11
 Rcan 1.3.92
 Rcapture 1.4-4
-RCarb 0.1.7
+RCarb 0.1.8
 rcarbon 1.5.2
 rcartocolor 2.1.2
 Rcatch22 0.2.3
@@ -18151,7 +18154,7 @@ rPBK 0.2.5
 rpc 2.0.3
 rpca 0.2.3
 rpcss 0.1.1
-Rpdb 2.4.4
+Rpdb 2.4.5
 rPDBapi 3.0.1
 RPDTest 0.0.2
 RPEGLMEN 1.1.4
@@ -21516,6 +21519,7 @@ ternvis 1.3
 terra 1.9-27
 terrainmeshr 1.0.1
 terrainr 0.7.6
+terralink 1.8.0
 TesiproV 0.9.6
 tesouror 0.2.2
 tesselle 1.6.0
@@ -21726,7 +21730,7 @@ tidyEmoji 0.1.1
 tidyestimate 1.1.1
 tidyextreme 1.0.0
 tidyfast 0.4.0
-tidyfinance 0.4.5
+tidyfinance 0.5.0
 tidyfit 0.7.4
 tidyfst 1.8.4
 tidyft 0.9.20

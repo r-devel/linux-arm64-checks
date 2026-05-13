@@ -12,6 +12,7 @@ RcppAlgos,2.10.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/
 ShortRead,1.69.3-2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ShortRead
 akin,0.3.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/akin
 bigmemory,4.6.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bigmemory
+bootmlm,0.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bootmlm
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr
 gbm,2.2.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gbm

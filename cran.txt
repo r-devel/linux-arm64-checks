@@ -1281,6 +1281,7 @@ bayesplot 1.15.0
 bayespm 0.2.0
 bayespmtools 0.0.1
 bayesPO 0.5.0
+BayesPocket 0.1.0
 bayesPop 12.0-1
 BayesPostEst 0.4.0
 BayesPower 1.0.4
@@ -2847,6 +2848,7 @@ CircOutlier 3.2.3
 CircStats 0.2-7
 circuitscaper 0.1.0
 circular 0.5-2
+CircularBoxplots 0.1.2
 CircularDDM 0.1.0
 circularKDE 0.1.1
 CircularSilhouette 0.0.1
@@ -4042,6 +4044,7 @@ currentSurvival 1.1
 CurricularAnalytics 1.0.0
 CurricularComplexity 1.0.1
 CurricularComplexityData 0.2.0
+curriculr 0.3.0
 currr 0.1.2
 curry 0.1.1
 cursr 0.1.0
@@ -5125,6 +5128,7 @@ DRIP 2.4
 driveR 0.5.0
 drMAIC 0.1.0
 drmeta 0.1.0
+drogonR 0.1.6
 droll 0.1.0
 DRomics 2.6-2
 drone 1.0.0
@@ -6405,7 +6409,7 @@ fasterRaster 8.4.1.2
 fastFGEE 0.1.0
 fastFMM 1.0.0
 fastfocal 0.1.3
-FastGaSP 0.6.3
+FastGaSP 0.6.4
 fastgeojson 0.1.3
 fastGHQuad 1.0.1
 fastGLCM 1.0.3
@@ -6562,6 +6566,7 @@ FDX 2.0.2
 FEA 0.0.2
 FeaLect 1.20
 feasts 0.5.0
+featdelta 0.1.0
 featForge 0.1.2
 feather 0.4.0
 feature 1.2.16
@@ -9220,6 +9225,7 @@ HYDROCAL 1.0.0
 HydroCode 1.0.3
 hydroDCindex 1.0.0
 hydrodownloadR 0.1.3
+hydroeval 0.1.0
 hydroEvents 0.13.0
 hydroGOF 0.7-0
 hydroloom 1.1.3
@@ -10539,7 +10545,7 @@ LakeMetabolizer 1.5.6
 lakemorpho 1.3.2
 lakhesis 1.1
 LAM 0.7-22
-LaMa 2.1.0
+LaMa 2.1.1
 lambda.r 1.2.4
 lambdaTS 1.1
 lambdr 1.2.5
@@ -11176,7 +11182,7 @@ lrgs 0.5.4
 LRMF3 0.1.0
 LRMiss 0.0.1
 LRQVB 1.0.0
-lrstat 0.3.1
+lrstat 0.3.2
 LRTesteR 1.3.1
 LS2W 1.3.7
 LS2Wstat 2.1-5
@@ -12670,7 +12676,7 @@ mortar 0.4.0
 MortCast 2.8-0
 mortSOA 0.1.0
 mos 0.1.3
-mosaic 1.9.2
+mosaic 1.10.2
 mosaicCalc 0.6.4
 mosaicCore 0.9.5
 mosaicData 0.20.4
@@ -12863,7 +12869,7 @@ mstDIF 0.1.8
 mSTEM 1.0-1
 MSTest 0.1.8
 mstherm 0.4.7
-mstknnclust 0.3.2
+mstknnclust 1.0.0
 mstudentd 1.1.2
 msu 0.0.1
 MSUthemes 1.0.0
@@ -14102,6 +14108,7 @@ OpenML 1.12
 openmpp 0.0.2
 openMSE 1.0.1
 OpenMx 2.22.11
+openNCAI 0.1.0
 openNLP 0.2-7
 openNLPdata 1.5.3-5
 OpeNoise 0.2-18
@@ -14324,6 +14331,7 @@ OTRselect 1.3
 otsfeatures 1.0.0
 OtsuFire 0.1.4
 OtsuSeg 0.1.0
+otTensor 0.99.0
 ottr 1.5.3
 ottrpal 2.0.0
 otuSummary 0.1.2
@@ -14529,6 +14537,7 @@ paramlink2 1.0.6
 paramsim 0.1.0
 paramtest 0.1.1
 paran 1.5.5
+parasiteR 1.0
 parcats 0.1.0
 ParCC 1.4.0
 parcr 0.6.1
@@ -15153,6 +15162,7 @@ pkgstats 0.2.2
 pkgverse 0.0.1
 PKI 0.1-15
 PKLMtest 1.0.1
+pkmapr 1.2.1
 pkmon 1.1
 PKNCA 0.12.1
 pkpd.Release 0.1.0
@@ -15910,6 +15920,7 @@ pseudorank 1.0.4
 pseval 1.3.3
 PSF 0.5
 psfmi 1.4.0
+psgc 0.1.0
 PSGD 1.0.6
 PSGoft 0.0.1
 psgp 0.3-26
@@ -16352,6 +16363,7 @@ qwraps2 0.6.2
 QZ 0.2-4
 R.AlphA.Home 2.0.2
 R.cache 0.17.0
+R.ComDim 1.0.0
 R.devices 2.17.4
 R.filesets 2.15.1
 R.huge 0.10.1
@@ -19396,6 +19408,7 @@ shelltrace 3.5.1
 shelter 0.2.1
 sherlock 0.7.0
 SherlockHolmes 1.0.2
+shewhartr 1.3.0
 shidashi 0.2.0
 shide 0.3.0
 ShiftConvolvePoibin 1.0.0
@@ -19762,7 +19775,7 @@ SingleCaseES 0.7.4
 SingleCellComplexHeatMap 0.1.2
 singleCellHaystack 1.0.3
 SingleCellStat 0.3.1
-singleRcapture 1.0.0
+singleRcapture 1.1.0
 singR 0.1.3
 sinib 1.0.0
 SINRELEF.LD 1.1.0
@@ -20421,6 +20434,7 @@ splancs 2.01-45
 splash 1.0.2
 spldv 0.1.3
 SPLICE 1.1.2
+splikit 2.3.1
 splineCox 0.0.8
 splinemixmeta 1.0.1
 splineplot 0.3.0
@@ -20758,7 +20772,7 @@ STB 0.6.6
 stbl 0.3.0
 STCCGEV 1.0.0
 stCEG 0.1.0
-stcos 0.3.1
+stcos 0.3.2
 stcov 0.1.0
 stcpR6 0.9.8
 STCYP 1.0.0
@@ -22303,6 +22317,7 @@ TSCI 3.0.5
 tscopula 0.3.9
 tscount 1.4.3
 TSCS 0.1.1
+tscv 1.0.0
 tsdataleaks 2.1.1
 tsdb 1.1-0
 tsdecomp 0.2

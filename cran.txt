@@ -1937,6 +1937,7 @@ bootImpute 1.3.0
 bootkmeans 1.0.0
 bootLR 1.0.2
 bootLRTpairwise 0.2.0
+bootmlm 0.1.1
 BootMRMR 0.1
 bootnet 1.8
 bootPLS 1.1.0
@@ -2581,7 +2582,7 @@ censReg 0.5-38
 CensRegSMSN 0.0.1
 CensSpatial 3.6
 Census2016 0.2.0
-censusapi 0.9.0
+censusapi 0.10.0
 censuspyrID 1.0.2
 centerline 0.2.5
 centiserve 1.0.0
@@ -2706,7 +2707,7 @@ checkdown 0.0.13
 checked 0.5.1
 checker 0.1.3
 checkglobals 0.1.4
-checkhelper 0.1.1
+checkhelper 1.0.0
 checkLuhn 1.1.0
 checkmate 2.3.4
 checkstring 0.1.0
@@ -3227,7 +3228,7 @@ CohortGenerator 1.1.0
 CohortMethod 6.0.2
 CohortPlat 1.0.5
 cohorts 1.0.1
-CohortSurvival 1.1.0
+CohortSurvival 1.1.1
 CohortSymmetry 0.2.4
 cohorttools 0.1.8
 CoImp 2.2
@@ -4851,7 +4852,7 @@ Distance 2.0.1
 distanceHD 1.2
 distances 0.1.13
 distanceto 0.0.3
-distantia 2.0.2
+distantia 2.0.3
 DistatisR 1.1.2
 distcomp 1.3-4
 distcrete 1.0.3
@@ -5725,7 +5726,7 @@ EMJMCMC 1.5.0
 EML 2.0.7
 emld 0.5.3
 EMLI 0.3.0
-emln 1.1.0
+emln 1.2.0
 EMMAgeo 0.9.9
 emmeans 2.0.3
 EMMIXgene 0.1.4
@@ -7797,7 +7798,7 @@ ggdemetra 0.2.9
 ggdendro 0.2.0
 ggdensity 1.0.1
 ggdiagram 0.1.1
-ggdibbler 0.6.1
+ggdibbler 0.6.5
 ggdiceplot 1.2.0
 ggdist 3.3.3
 ggdmc 0.2.6.2
@@ -12702,7 +12703,7 @@ move 4.2.7
 move2 0.5.0
 movecost 2.2
 movedesign 0.3.2
-moveEZ 1.1.1
+moveEZ 1.2.0
 movegroup 2024.03.05
 moveHMM 1.12
 movementsync 0.1.5
@@ -22245,7 +22246,7 @@ triact 0.3.1
 TriadSim 0.3.1
 TrialEmulation 0.0.4.11
 trialr 0.1.6
-TrialSimulator 1.17.1
+TrialSimulator 1.18.4
 TrialSize 1.4.1
 triangle 1.1.0
 triangulation 0.5.0

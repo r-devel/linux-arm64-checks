@@ -992,7 +992,6 @@ awinR 0.1.0
 AWR 1.11.189-1
 AWR.Kinesis 1.7.6
 aws 2.5-6
-aws.alexa 0.1.8
 aws.ecx 1.0.6
 aws.iam 0.1.8
 aws.kms 0.1.4
@@ -11502,6 +11501,7 @@ mars 0.2.2
 MARSANNhybrid 0.1.0
 MARSGWR 0.1.0
 marsrad 1.0.1
+marsruntime 0.0.0
 MARSS 3.11.10
 MARSSVRhybrid 0.1.0
 MarZIC 1.0.1
@@ -12896,7 +12896,7 @@ MTest 1.0.4
 mtgjsonsdk 0.1.0
 mthapower 0.1.1
 mtlgmm 0.1.0
-MTLR 0.2.1
+MTLR 0.2.2
 MTPS 1.0.2
 mtrank 0.2-0
 MTS 1.2.1
@@ -13988,6 +13988,7 @@ ollamar 1.2.2
 ollg 1.0.0
 ollggamma 1.0.2
 olr 1.2
+OLSengine 1.0.0
 olsrr 0.7.0
 OLStrajr 0.1.0
 OlympicRshiny 1.0.2
@@ -15952,7 +15953,7 @@ pspearman 0.3-1
 PSPI 1.2
 pspline 1.0-21
 PSPManalysis 0.3.9
-PSpower 0.1.1
+PSpower 2.0.0
 psqn 0.3.2
 psre 0.4
 PSRICalc 1.0.0
@@ -15966,7 +15967,7 @@ psSubpathway 0.1.3
 PSsurvival 0.2.0
 Pstat 1.2
 PSTR 2.0.0
-PStrata 0.1.0
+PStrata 1.0.0
 psvd 1.1-0
 psvmSDR 3.0.1
 PSW 1.1-3
@@ -16951,7 +16952,7 @@ RCurl 1.98-1.18
 Rcurvep 1.3.2
 RCytoGPS 1.2.10
 RCzechia 1.12.8
-rd2d 0.0.3
+rd2d 0.1.0
 Rd2md 1.0.1
 Rd2roxygen 1.18
 rD3plot 1.1.45
@@ -20115,6 +20116,7 @@ solitude 1.1.3
 solrad 1.0.0
 solrium 1.2.0
 solvebio 2.15.1
+solvency2rfr 0.1.0
 SolveSAPHE 2.1.0
 som 0.3-5.2
 som.nn 1.4.4
@@ -21275,6 +21277,7 @@ symmoments 1.2.1.1
 symphony 0.1.2
 symptomcheckR 0.1.3
 symSEM 0.4
+symTensor 0.1.0
 SymTS 1.0-2
 syn 0.1.0
 syncdr 0.1.2

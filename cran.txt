@@ -1,5 +1,5 @@
 a11yShiny 0.1.3
-a5R 0.3.1
+a5R 0.4.0
 aae.pop 0.2.0
 AalenJohansen 1.0
 aamatch 0.4.5
@@ -75,7 +75,7 @@ ACE.CoCo 0.1
 ace2fastq 0.6.0
 acebayes 1.11
 aceEditor 1.0.1
-ACEP 0.1.0
+ACEP 0.1.1
 acepack 1.6.3
 ACEsearch 1.0.0
 ACEsimFit 0.0.0.9
@@ -1051,7 +1051,7 @@ BACprior 2.1.2
 bacr 1.0.1
 badgen 1.0.1
 badger 0.2.5
-badp 0.4.0.1
+badp 0.5.0
 baf 0.0.4
 baffle 0.2.2
 bage 0.10.8
@@ -1233,7 +1233,7 @@ Bayesiangammareg 0.1.0
 BayesianInference 0.0.1
 BayesianLasso 0.4.1
 BayesianLaterality 0.1.2
-BayesianMCPMod 1.3.1
+BayesianMCPMod 1.3.2
 BayesianMediationA 1.0.1
 BayesianNetwork 0.4
 bayesianOU 0.1.3
@@ -2654,7 +2654,7 @@ CGGP 1.0.4
 cglasso 2.0.7
 cgmanalysis 3.2.0
 CGManalyzer 1.3.1
-cgmguru 0.2.0
+cgmguru 1.0.1
 CGMissingDataR 0.0.1
 cgmquantify 0.1.0
 CGNM 0.9.3
@@ -2696,7 +2696,7 @@ chartreview 1.0
 chatAI4R 1.3.1
 chatgpt 0.2.3
 chatLLM 0.1.4
-chatRater 1.2.0
+chatRater 1.3.0
 chattr 0.3.1
 ChauBoxplot 1.0.0
 chcd 0.1.1
@@ -4161,7 +4161,7 @@ DALEX 2.5.3
 DALEXtra 2.3.1
 DALSM 0.9.1
 daltoolbox 1.3.747
-daltoolboxdp 1.2.767
+daltoolboxdp 1.3.737
 DALY 1.5.0
 dam 0.0.1
 DamageDetective 1.0.0
@@ -5168,7 +5168,7 @@ dsBaseClient 6.3.5
 DSBayes 2023.1.0
 dscore 2.0.0
 dscoreMSM 0.1.0
-dsem 2.0.0
+dsem 2.0.1
 DSFM 1.0.1
 dsge 1.0.0
 DSI 1.8.0
@@ -5921,7 +5921,7 @@ epubr 0.6.5
 EPX 1.0.4
 epxToR 0.4-1
 eq5d 0.16.3
-eq5dsuite 1.0.3
+eq5dsuite 2.0.0
 EQL 1.0-1
 EQRN 0.1.2
 eqtesting 0.1.1
@@ -7585,7 +7585,7 @@ genMCMCDiag 0.2.3
 GENMETA 0.2.0
 geno2proteo 0.0.6
 genodds 1.1.2
-GenomeAdmixR 2.1.12
+GenomeAdmixR 2.1.13.2
 genomic.autocorr 1.0-1
 genomicper 1.8
 GenomicSig 0.1.0
@@ -7749,7 +7749,7 @@ GFD 0.3.3
 GFDmcv 0.1.0
 GFDrmst 0.1.1
 GFDrmtl 0.1.0
-GFDsurv 0.1.1
+GFDsurv 0.1.2
 GFE 0.1.2
 gfer 0.1.12
 GFFStrandLoc 0.1.0
@@ -8199,7 +8199,7 @@ gluedown 1.0.9
 gluvarpro 7.0
 glvmfit 0.1.0
 glyparse 0.6.0
-glyrepr 0.11.0
+glyrepr 0.12.0
 gm 2.0.0
 GMAC 3.2
 gmailr 3.0.0
@@ -8442,7 +8442,7 @@ GRCdesigns 1.0.0
 GRCFE 0.1.0
 GRCRegression 1.0
 greatR 2.1.0
-grec 1.6.3
+grec 1.6.4
 greed 0.6.2
 GreedyEPL 1.3
 GreedyExperimentalDesign 1.6.1
@@ -9521,7 +9521,7 @@ imageseg 0.5.0
 imageviewer 0.1.0
 imaginarycss 0.1.0
 imaginator 1.0.0
-imagine 2.1.3
+imagine 2.1.4
 IMak 2.1.2
 imanr 2.0.0
 imbalanceDatRel 0.1.6
@@ -10413,7 +10413,7 @@ knnp 2.0.0
 KNNShiny 0.1.0
 kNNvs 0.1.0
 knnwtsim 1.0.0
-knobi 0.1.0
+knobi 1.0.0
 knockoff 0.3.6
 KnockoffHybrid 1.0.1
 KnockoffTrio 1.1.0
@@ -12103,7 +12103,7 @@ MicrobTiSDA 0.1.0
 microCRAN 0.9.0-1
 MicroDatosEs 0.8.15
 microdiluteR 1.0.1
-microeco 2.1.0
+microeco 2.2.0
 microinverterdata 0.4.0
 MicroMacroMultilevel 0.4.0
 micromap 1.9.12
@@ -12163,6 +12163,7 @@ mimdo 0.1.0
 mime 0.13
 MIMER 1.0.6
 mimiSBM 0.0.1.3
+MIMSunit 0.11.3
 mimsy 0.6.5
 min2HalfFFD 0.1.0
 minb 0.1.0
@@ -12527,7 +12528,7 @@ mnt 1.3
 mob 0.4.2
 MoBPS 1.13.1
 mobsim 0.3.2
-moc.gapbk 0.1.3
+moc.gapbk 0.2.1
 MOCCA 1.4
 mockery 0.4.5
 mockr 0.2.2
@@ -13091,7 +13092,7 @@ mutationtypes 0.0.1
 mutoss 0.1-14
 mutossGUI 0.1-12
 mutSignatures 2.1.1
-muttest 0.1.0
+muttest 0.2.0
 mutualinf 2.0.4
 MuViCP 1.3.2
 MUVR2 0.1.0
@@ -14130,7 +14131,7 @@ opensimplex2 0.0.3
 openSkies 1.3.0
 OpenSourceAP.DownloadR 0.1.0
 OpenSpecy 1.5.3
-openssl 2.4.0
+openssl 2.4.1
 OpenStreetMap 0.4.1
 opentripplanner 0.5.2
 openVA 1.2.0
@@ -14571,7 +14572,7 @@ parseLatex 0.4.1
 parsermd 0.2.0
 parseRPDR 1.1.2
 parSim 0.3.1
-parsnip 1.5.0
+parsnip 1.6.0
 PartCensReg 1.39
 partDSA 0.9.14
 partialised 0.1.1
@@ -14759,7 +14760,7 @@ pdfetch 0.3.3
 pdfminer 1.0
 pdfsearch 0.4.3
 pdftables 0.1
-pdftools 3.8.0
+pdftools 3.9.0
 pdi 0.4.2
 PDIndex 0.1.0
 pdist 1.2.1
@@ -15911,7 +15912,7 @@ psBayesborrow 1.1.0
 psbcGroup 1.7
 psbcSpeedUp 2.1.0
 psborrow 0.2.4
-psborrow2 0.0.5.0
+psborrow2 0.0.5.1
 psc 2.0.1
 PSCBS 0.68.0
 pscDesign 1.0.0
@@ -16987,7 +16988,7 @@ Rdice 1.0.0
 RDieHarder 0.2.7
 Rdimtools 1.1.4
 rdist 0.0.5
-Rdistance 4.4.2
+Rdistance 4.4.3
 rdiversity 2.2.0
 rdkitpyr 0.2.1
 rdlearn 0.1.1
@@ -18904,7 +18905,7 @@ scenfire 0.1.0
 SCEnt 0.0.1
 SCEPtER 0.2-4
 SCEPtERbinary 0.1-1
-scf 1.0.7
+scf 1.0.8
 SCFMonitor 0.3.5
 scGate 1.7.2
 SCGLR 3.1.0
@@ -18917,8 +18918,8 @@ schemr 0.3.1
 schoenberg 2.0.3
 scholar 0.2.6
 scholid 0.1.1
-scholidonline 0.1.0
-SchoolDataIT 0.2.12
+scholidonline 0.1.1
+SchoolDataIT 0.2.13
 schoolmath 0.4.2
 schoRsch 1.11
 schrute 1.0.1
@@ -19231,7 +19232,7 @@ SensMap 0.7
 sensmediation 0.3.1
 sensobol 1.1.9
 SensoMineR 1.28
-sensortowerR 1.0.0
+sensortowerR 1.0.1
 sensory 1.1
 SenSpe 1.3
 sensR 1.5-3
@@ -19659,7 +19660,7 @@ SimCorMultRes 1.9.0
 SimCorrMix 0.1.1
 simcross 0.8
 simctest 2.6.1
-simDAG 0.5.2
+simDAG 1.0.0
 simdata 0.4.1
 simdd 1.1-2
 SimDesign 2.25
@@ -20333,7 +20334,7 @@ spbabel 0.6.0
 spbal 1.0.1
 spBayes 0.4-8
 spBayesSurv 1.1.9
-spBPS 1.0-1
+spBPS 2.0-1
 Spbsampling 1.3.5
 spc 0.7.2
 spc4sts 0.6.5
@@ -21354,7 +21355,7 @@ TableToLongForm 1.3.2
 tablexlsx 1.1.0
 tabnet 0.8.0
 taboolaR 0.1.0
-tabpfn 0.1.0
+tabpfn 0.2.0
 tabr 0.5.5
 tabs 0.2.0
 tabshiftr 0.4.1
@@ -22686,7 +22687,7 @@ uroot 2.1-3
 URooTab 0.1.0
 ursa 3.11.5
 us.census.geoheader 1.0.2
-usa 0.1.3
+usa 1.0.0
 USA.state.boundaries 1.0.1
 USAboundaries 0.5.1
 uscoauditlog 1.0.3

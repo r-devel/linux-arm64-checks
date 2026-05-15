@@ -2677,7 +2677,7 @@ Chaos01 1.2.1
 ChaosGame 1.5
 chapensk 0.4
 CHAPGWAS 0.1.3
-Characterization 3.0.0
+Characterization 3.0.1
 CharAnalysis 2.0.3
 charcuterie 0.0.6
 charisma 1.0.0
@@ -5133,7 +5133,7 @@ drought 1.2
 drpop 0.0.3
 DRPT 1.1
 DRquality 0.2.1
-DRR 0.0.4
+DRR 0.0.5
 drrglm 0.3.2
 DRsurvCRT 0.0.1
 drtmle 1.1.2
@@ -5261,7 +5261,7 @@ Durga 2.1.0
 DUToolkit 1.0.2
 dverse 0.2.0
 DVHmetrics 0.4.3
-dvir 3.4.0
+dvir 3.4.1
 dvmisc 1.1.4
 DWaveNARDL 0.1.0
 dwctaxon 2.0.4
@@ -10472,7 +10472,7 @@ kza 4.1.0.1
 kzs 1.4.1
 l0ara 0.1.7
 L0cpt 0.2.0
-L0ggm 0.0.1
+L0ggm 0.1.0
 L0Learn 2.1.0
 L0TFinv 0.1.0
 L1centrality 0.5.1
@@ -10921,7 +10921,7 @@ LKT 1.7.0
 llama 0.10.1
 llamaR 0.2.3
 LLM 1.1.0
-llm.api 0.1.1
+llm.api 0.1.3
 LLMAgentR 0.3.2
 llmclean 0.1.0
 llmcoder 1.2.0
@@ -11174,7 +11174,7 @@ LSDirf 0.1.4
 LSDsensitivity 1.3.2
 LSE 1.0.0
 LSEbootLS 0.1.0
-lsei 1.3-0
+lsei 1.3-1
 lsirm12pl 2.0.1
 lsl 0.5.6
 lslx 0.6.11
@@ -11349,7 +11349,7 @@ mandelbrot 0.2.0
 Mangrove 1.21
 manhplot 1.1
 manifesto 0.0.2
-manifestoR 1.6.2
+manifestoR 1.6.3
 manifold 0.1.2
 ManifoldOptim 1.0.1
 manipulate 1.0.1
@@ -13693,7 +13693,7 @@ NoviceDeveloperResources2 1.1.0
 nowcast 0.1.0
 nowcastr 0.2.0
 noweb 1.1-4
-np 0.70-1
+np 0.70-2
 npANCOVA 0.1.1
 nparACT 0.9.1
 nparcomp 3.0
@@ -13744,7 +13744,7 @@ NPRED 1.1.0
 npreg 1.1.1
 npregderiv 1.0
 npregfast 1.6.0
-npRmpi 0.70-1
+npRmpi 0.70-2
 nprobust 0.5.0
 nproc 2.1.5
 npROCRegression 1.0-7
@@ -13851,7 +13851,7 @@ objectSignals 0.10.3
 OBL 0.2.1
 oblicubes 1.0.1
 obliqueRSF 0.1.2
-obm 2.0
+obm 2.1
 OBMbpkg 1.0.0
 obr 0.2.5
 OBRE 0.2-0
@@ -16591,7 +16591,7 @@ RareComb 1.1
 rareflow 0.1.0
 rareNMtests 1.2
 rarestR 1.1.1
-raretrans 1.0.4
+raretrans 1.0.5
 RARfreq 0.1.5
 Rarity 1.3-8
 rarms 1.0.0
@@ -18603,7 +18603,7 @@ S4DM 0.0.2
 S7 0.2.2
 s7contract 0.1.0
 S7schema 0.1.1
-saber 0.3.0
+saber 0.7.1
 sabre 0.4.3
 saccadr 0.1.3
 SACCR 3.4
@@ -20063,7 +20063,7 @@ SolveSAPHE 2.1.0
 som 0.3-5.2
 som.nn 1.4.4
 soma 1.2.0
-SomaDataIO 6.6.0
+SomaDataIO 6.6.1
 somaticflags 0.1.0
 SOMbrero 1.5.0
 someMTP 1.4.1.1
@@ -23572,7 +23572,7 @@ YPmodel 1.4
 YPmodelPhreg 1.0.0
 YPPE 1.0.1
 ypr 0.6.0
-yrnd 0.1.2
+yrnd 0.1.3
 YTAnalytics 0.2.1
 yuima 1.15.34
 yuimaGUI 1.4.0

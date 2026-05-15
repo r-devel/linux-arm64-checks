@@ -12480,7 +12480,7 @@ MNARclust 1.1.0
 MNB 1.2.0
 mnda 1.0.9
 mnet 0.1.4
-mnirs 0.6.3
+mnirs 0.6.4
 mniw 1.0.2
 mnlfa 0.3-4
 MNLR 0.1.0
@@ -18955,7 +18955,7 @@ ScriptMapR 0.0.3
 scriptName 1.0.1
 scriptuRs 0.1.0
 scrm 1.7.5
-scRNAstat 0.1.1.1
+scRNAstat 0.1.1.2
 scrobbler 1.0.3
 scrollrevealR 0.2.0
 scROSHI 1.0.0.0

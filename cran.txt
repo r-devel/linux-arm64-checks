@@ -1645,7 +1645,7 @@ binsegRcpp 2025.5.13
 binseqtest 1.0.4
 binsmooth 0.2.2
 binspp 0.2.3
-binsreg 1.1
+binsreg 2.0
 binst 0.2.1
 BINtools 0.2.0
 bio.infer 1.3-6
@@ -3634,7 +3634,7 @@ correlationfunnel 0.2.0
 correlationr 0.1.0
 correlbinom 0.0.1
 Correlplot 1.1.3
-correspondenceTables 1.0.1
+correspondenceTables 1.0.2
 corrfuns 1.2
 corrgram 1.14
 corrMCT 0.2.0
@@ -8784,7 +8784,7 @@ HDCI 1.0-2
 HDclassif 2.2.2
 HDclust 1.0.4
 HDcpDetect 0.1.0
-hdcuremodels 0.0.6
+hdcuremodels 0.0.7
 HDCurves 0.1.2
 hdd 0.1.1
 hdf5lib 2.1.1.1
@@ -9793,7 +9793,7 @@ iNZightTools 2.0.3
 iNZightTS 2.0.4
 io 0.3.2
 ioanalysis 0.3.4
-IOBR 2.2.0
+IOBR 2.2.1
 IOLS 0.1.4
 ioncopy 2.2.2
 ionet 0.2.2
@@ -13914,7 +13914,7 @@ OenoKPM 2.4.1
 oews2020 1.0.0
 oews2021 1.0.0
 officedown 0.4.1
-officer 0.7.4
+officer 0.7.5
 offlineChange 0.0.4
 offsetreg 1.2.0
 ofGEM 1.0
@@ -15922,7 +15922,7 @@ psSubpathway 0.1.3
 PSsurvival 0.2.0
 Pstat 1.2
 PSTR 2.0.0
-PStrata 1.0.0
+PStrata 1.0.1
 psvd 1.1-0
 psvmSDR 3.0.1
 PSW 1.1-3
@@ -19037,7 +19037,7 @@ SecretsProvider 1.0.1
 secrettext 0.1.0
 secrfunc 1.0.0
 secrlinear 1.2.5
-secsse 3.5.0
+secsse 3.7.0
 sectorgap 0.1.0
 secuTrialR 1.3.3
 sedproxy 0.7.6
@@ -23058,7 +23058,7 @@ warbleR 1.1.37
 WARDEN 2.0.2
 WAreg 0.1.0
 warehouseTools 0.1.4
-wARMASVp 0.1.0
+wARMASVp 0.2.0
 warmthcompetence 0.1.5
 WARN 1.2-5
 WarnEpi 1.0.1

@@ -1,0 +1,4 @@
+ERROR: dependency ‘KSgeneral’ is not available for package ‘HausdorffGoF’
+Perhaps try a variation of:
+install.packages('KSgeneral')
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/HausdorffGoF’

@@ -10988,7 +10988,7 @@ loa 0.3.1.1
 loadeR 1.3.0
 loadings 0.5.1
 lobby 0.0.2
-lobbyR 0.1.0
+lobbyR 0.1.1
 LoBrA 1.0
 lobsteR 1.0.0
 lobstr 1.2.1

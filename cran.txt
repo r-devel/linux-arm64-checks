@@ -1331,7 +1331,7 @@ BB 2026.1.0
 bbdetection 1.0
 BBEST 0.1-8
 BBI 0.3.0
-bbk 0.9.0
+bbk 0.10.0
 bbknnR 2.0.2
 bbl 1.0.0
 BBmisc 1.13.1
@@ -7440,7 +7440,7 @@ gcxgclab 1.1.0
 GD 10.9
 GDAdata 0.93
 gdalcubes 0.7.3
-gdalraster 2.6.0
+gdalraster 2.6.1
 gdalUtilities 1.2.5
 gdata 3.0.1
 GDAtools 2.3

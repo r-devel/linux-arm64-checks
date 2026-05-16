@@ -253,7 +253,7 @@ AdverseEvents 0.0.5
 ADVICE 1.0
 adw 0.4.2
 adwave 1.4
-aebdata 0.1.4
+aebdata 0.1.5
 aeddo 0.1.1
 AEDForecasting 0.20.0
 aedseo 1.1.0
@@ -3699,7 +3699,7 @@ couplr 1.2.1
 covadap 1.0.1
 covafillr 0.4.4
 covalchemy 1.0.0
-covatest 1.2.4
+covatest 1.2.5
 covBM 0.1.0
 CovCorTest 1.1.0
 coveffectsplot 1.0.7
@@ -5100,7 +5100,6 @@ drcSeedGerm 1.0.1
 drcte 1.0.65
 drda 2.0.5
 DRDID 1.2.3
-DrDimont 0.1.6
 dream 1.1.1
 dreamer 3.2.0
 dreamerr 1.5.0
@@ -8283,7 +8282,6 @@ googleCloudStorageR 0.7.0
 googleCloudVisionR 0.2.0
 googledrive 2.1.2
 googleErrorReportingR 0.0.4
-GoogleImage2Array 0.99.2
 GoogleKnowledgeGraphR 0.1.0
 googleLanguageR 0.3.1.1
 googlenlp 0.2.0
@@ -16765,7 +16763,7 @@ RClickhouse 0.6.10
 RClimacell 0.1.4
 rclipboard 0.2.1
 rcloner 0.0.1
-rclsp 0.5.0
+rclsp 1.0.0
 rcmdcheck 1.4.0
 Rcmdr 2.12.3
 RcmdrMisc 2.10.1

@@ -10535,7 +10535,7 @@ lancor 0.1.3
 LandComp 0.0.5
 landest 1.2
 landform 0.2
-Landmarking 1.0.0
+Landmarking 1.0.2
 landmix 1.0
 landmulti 0.5.0
 landpred 2.0
@@ -11989,7 +11989,7 @@ mfp2 1.0.1
 MFPCA 1.3-11
 mfpp 0.0.9
 MFRCD 0.1.1
-mfrmr 0.1.5
+mfrmr 0.2.0
 MFSD 0.1.1
 MFSIS 0.3.1
 MfUSampler 1.1.0
@@ -12787,7 +12787,7 @@ MSbox 1.4.8
 MSBStatsData 0.0.2
 MSCCT 1.0.2
 msce 1.0.2
-mschart 0.4.3
+mschart 0.5.0
 MSclassifR 0.5.0
 MSclust 1.0.4
 MSCMT 1.4.1
@@ -15690,7 +15690,7 @@ PRIMME 3.2-6
 princurve 2.1.6
 PrInDT 2.0.2
 prinsurf 1.0
-printify 1.0.0
+printify 1.0.1
 printr 0.3
 printtree 0.2.0
 prinvars 1.0.0
@@ -16154,7 +16154,7 @@ qMRI 1.2.7.9
 qmrparser 0.1.6
 qmvs 0.2.2
 qoi 0.1.0
-qol 1.3.0
+qol 1.3.1
 QoLMiss 0.1.0
 qountstat 0.1.1
 qpcR 1.4-2
@@ -16815,7 +16815,7 @@ rconf 0.1.2
 rconfig 0.3.0
 RConics 1.1.2
 rcontroll 0.1.2
-rconvertu 0.1.0
+rconvertu 1.0.0
 Rcope 1.0.0
 rCoreGage 1.1.0
 rcorpora 2.0.1
@@ -17031,7 +17031,7 @@ readstata13 0.11.0
 readSX 0.8.8
 readtext 0.92.1
 readtextgrid 0.2.0
-readxl 1.4.5
+readxl 1.5.0
 ready4 0.1.19
 readyomics 0.2.0
 RealSurvSim 1.0.0
@@ -17253,7 +17253,7 @@ REndo 2.5.0
 Renext 3.1-5
 renpow 0.1-1
 rentrez 1.2.4
-renv 1.2.2
+renv 1.2.3
 Renvlp 3.4.5
 RenvModule 1.1
 RenyiExtropy 0.4.0
@@ -17728,7 +17728,7 @@ rlog 0.2.0
 RLogicalOps 0.1
 RLoptimal 1.2.2
 rlowdb 0.2.0
-rlppinv 0.3.0
+rlppinv 1.0.0
 RLRsim 3.1-9
 RLT 3.2.6
 rLTP 0.1.4
@@ -18452,7 +18452,7 @@ rTLS 0.2.6.1
 rTLsDeep 0.0.5
 RTMB 1.9
 RTMBdist 1.0.4
-rtmpinv 0.3.0
+rtmpinv 1.0.0
 rtmpinvi 0.2.0
 rtmpt 2.0-3
 rtms 0.2.0
@@ -20676,7 +20676,7 @@ StatDA 1.7.11
 StatDataML 1.0-27
 statdecideR 0.1.6
 StatDeriveR 0.1.0
-statease 1.0.0
+statease 1.1.0
 statebins 1.4.0
 StateLevelForest 0.1.0
 states 0.3.3
@@ -21718,7 +21718,7 @@ tidyfst 1.8.4
 tidyft 0.9.20
 tidyfun 0.1.2
 tidygam 1.0.0
-tidygapminder 0.1.1
+tidygapminder 1.0.0
 tidygate 1.0.19
 tidyGenR 0.1.7
 tidygeocoder 1.0.6
@@ -23160,7 +23160,7 @@ webdav 0.2.0
 webdeveloper 1.0.5
 webdriver 1.0.6
 webexercises 1.1.0
-webfakes 1.4.1
+webfakes 1.5.0
 WebGestaltR 0.4.6
 webglobe 1.0.3
 webmap 1.1.1

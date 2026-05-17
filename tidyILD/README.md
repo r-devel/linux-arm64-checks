@@ -1,6 +1,6 @@
 # tidyILD 0.4.0
 
-Latest run: 2026-05-10: https://github.com/r-devel/linux-arm64-checks/actions/runs/25617818121
+Latest run: 2026-05-17: https://github.com/r-devel/linux-arm64-checks/actions/runs/25979457106
 
 ```
 Package: tidyILD

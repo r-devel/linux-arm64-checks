@@ -1,6 +1,6 @@
 # spant 4.0.0
 
-Latest run: 2026-05-10: https://github.com/r-devel/linux-arm64-checks/actions/runs/25617763058
+Latest run: 2026-05-17: https://github.com/r-devel/linux-arm64-checks/actions/runs/25979403830
 
 ```
 Package: spant

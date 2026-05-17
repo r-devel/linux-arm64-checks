@@ -6,7 +6,7 @@
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-05-10 02:40:15 UTC
+* current time: 2026-05-17 02:47:42 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘rxode2/DESCRIPTION’ ... OK
 * this is package ‘rxode2’ version ‘5.0.2’
@@ -90,7 +90,7 @@ The error most likely occurred in:
 > dfWishart(lotri::lotri(a+b~c(1, 0.5, 1)), 100)
 
  *** caught segfault ***
-address 0xff3212819c94, cause 'invalid permissions'
+address 0xffe2fdc39c94, cause 'invalid permissions'
 
 Traceback:
  1: withCallingHandlers(expr, warning = function(w) if (inherits(w,     classes)) tryInvokeRestart("muffleWarning"))

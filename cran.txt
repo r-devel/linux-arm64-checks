@@ -3992,7 +3992,7 @@ ctrialsgov 0.2.7
 CTRing 0.1.0
 ctrlGene 1.0.1
 ctrlvee 0.1.0
-cts 1.0-25
+cts 1.0-26
 ctsem 3.10.6
 ctsemOMX 2.0.0
 ctsfeatures 1.2.2

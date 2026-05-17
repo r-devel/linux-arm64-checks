@@ -5245,7 +5245,7 @@ duckdbfs 0.1.2
 duckduckr 1.0.0
 duckh3 0.1.0
 duckplyr 1.2.1
-duckspatial 1.0.0
+duckspatial 1.1.0
 duet 0.1.1
 dumbbell 0.1
 dummy 0.1.3
@@ -16298,7 +16298,7 @@ quickblock 0.2.2
 quickcheck 0.1.3
 quickcode 1.0.9
 QuickExplore 0.1.0
-QuickJSR 1.9.2
+QuickJSR 1.10.0
 quickmatch 0.2.3
 quickNmix 1.1.1
 quickOutlier 0.1.5
@@ -20214,7 +20214,7 @@ spatialAtomizeR 0.2.8
 SpatialBSS 0.16-0
 spatialCatalogueViewer 0.2.1
 spatialCovariance 0.6-9
-spatialData 1.0.0
+spatialData 1.0.1
 SpatialDownscaling 0.1.2
 spatialEco 2.0-4
 SpatialEpi 1.2.8

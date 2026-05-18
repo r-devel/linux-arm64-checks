@@ -3081,7 +3081,7 @@ CLVTools 0.12.1
 cmaes 1.0-12
 cmaesr 1.0.3
 cmahalanobis 1.0.0
-cmAnalysis 1.0.1
+cmAnalysis 1.0.3
 CMAPSS 0.1.1
 CMapViz 0.1.0
 cmaRs 0.1.4
@@ -5694,7 +5694,7 @@ EMbC 2.0.4
 embed 1.2.2
 EmbedSOM 2.2.1
 embryogrowth 2025.12.22
-emburden 0.6.1
+emburden 0.6.2
 EMC2 3.4.1
 emcAdr 1.3
 EMCluster 0.2-17
@@ -6106,7 +6106,7 @@ EvolutionaryGames 0.1.2
 evolvability 2.0.1
 evolved 1.0.0
 Evomorph 0.9
-evoper 0.6.0
+evoper 0.7.0
 EvoPhylo 0.3.5
 evoTS 1.0.3
 evprof 1.2.0

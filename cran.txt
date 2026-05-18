@@ -942,6 +942,7 @@ autometric 0.1.2
 automl 1.3.2
 autoMR 1.1.2
 autonewsmd 0.1.0
+AutoNN 0.1.0
 Autoplotprotein 1.1
 AutoPlots 1.5.0
 autoReg 0.3.3
@@ -1281,6 +1282,7 @@ BayesPostEst 0.4.0
 BayesPower 1.0.4
 BayesPPD 1.1.3
 BayesPPDSurv 1.0.3
+BayesPPR 0.1.0
 BayesProject 1.0
 bayesQR 2.4
 bayesQRsurvey 0.2.2
@@ -1412,7 +1414,7 @@ BED 1.6.2
 BEDASSLE 1.6.1
 BEDMatrix 2.0.4
 bedr 1.1.5
-bedrockbio 1.3.0
+bedrockbio 1.3.1
 BeeBDC 1.3.3
 beeca 0.2.0
 BeeGUTS 1.5.0
@@ -1490,6 +1492,7 @@ bfboinet 1.1.0
 bfcluster 1.0.0
 BFF 5.0.0
 BFI 3.1.0
+BFM 0.2.11
 bfp 0.0-50
 BFpack 1.6.0
 bfpwr 0.1.6
@@ -1646,6 +1649,7 @@ binspp 0.2.3
 binsreg 2.0
 binst 0.2.1
 BINtools 0.2.0
+binxr 0.1.1
 bio.infer 1.3-6
 bio3d 2.4-5
 bioacoustics 0.2.10
@@ -1891,6 +1895,7 @@ boiwsa 1.1.4
 BOJ 0.3.4
 bolasso 0.5.0
 BOLDconnectR 1.0.0
+bolder 0.1.1
 bolsec 0.1.1
 Bolstad 0.2.42
 Bolstad2 1.0-29
@@ -2491,6 +2496,7 @@ CCI 0.3.6.1
 ccid 1.2.0
 ccLRforR 1.2
 cclust 0.6-27
+cclustr 0.1.1
 CCM 1.2
 ccmEstimator 1.0.0
 CCMMR 0.2.1
@@ -3633,7 +3639,7 @@ correlbinom 0.0.1
 Correlplot 1.1.3
 correspondenceTables 1.0.2
 corrfuns 1.2
-corrgram 1.14
+corrgram 1.15
 corrMCT 0.2.0
 corrmeta 1.0.1
 CorrMixed 1.1
@@ -5988,7 +5994,7 @@ espadon 1.11.5
 esquisse 2.1.0
 esreg 0.6.2
 ess 1.1.2.1
-essentialstools 0.1.2
+essentialstools 0.1.4
 essHist 1.2.2
 essurvey 1.0.8
 estadistica 1.2.2
@@ -7509,6 +7515,7 @@ gendata 1.2.0
 gender 0.6.0
 genderapi 1.0.3
 genderBR 1.3.0
+gendercoder 0.1.1
 GenderInfer 0.1.0
 genderstat 0.1.5
 gendist 2.0
@@ -10658,6 +10665,7 @@ LDNN 1.10
 LDRTools 0.2-2
 ldsep 2.1.6
 ldt 0.5.3
+leadeR 0.1.0
 leaderCluster 1.5
 LeadSense 0.0.2.0
 leaf 0.1.0
@@ -11550,6 +11558,7 @@ maxaltall 0.1.0
 maxbootR 1.0.0
 maxcombo 1.0
 maxent.ot 1.0.0
+maxentcpp 1.0.0
 MaxentVariableSelection 1.0-3
 maximin 1.0-6
 MaximinInfer 2.1.0
@@ -14231,6 +14240,7 @@ OrigamiPlot 0.2.0
 origin 1.2.1
 ORION 1.1.1
 ORIONZ.G 1.0.1
+orisma 0.1.0
 ORKM 1.0.0
 orloca 5.6
 orloca.es 5.5
@@ -15449,6 +15459,7 @@ portalr 0.4.5
 portes 6.0
 portfolio 0.5-3
 PortfolioAnalytics 2.1.2
+portfolioBacktest 0.4.2
 PortfolioOptim 1.1.1
 PortfolioTesteR 0.1.4
 portion 0.1.2
@@ -16702,7 +16713,7 @@ RCA 2.0
 rcaiman 2.0.1
 RCAL 2.0
 RCALI 0.3.7
-RcamelsCL 0.1-11
+RcamelsCL 0.2-0
 Rcan 1.3.92
 Rcapture 1.4-4
 RCarb 0.1.8
@@ -18102,6 +18113,7 @@ roughsf 1.0.0
 round 0.21-0.2
 RoundAndRound 0.0.1
 roundhouse 0.0.2
+roundr 1.0.0
 roundRobinR 1.0.1
 roundwork 0.0.1
 roundyh 0.1.0
@@ -18566,6 +18578,7 @@ RXKCD 2.0.1
 RxnSim 1.0.4
 rxode2 5.0.2
 rxode2ll 2.0.14
+rxode2mrgsolvebridge 0.1.0
 rxSeq 0.99.3
 rxylib 0.2.14
 Ryacas 1.1.6
@@ -19989,6 +20002,7 @@ snSMART 0.2.4
 SNVLFDR 1.0.1
 SOAR 1.0-1
 SOAs 1.4-1
+sobol 1.0.0
 Sobol4R 0.4.0
 sobolnp 0.1.0
 socceR 0.1.1
@@ -20588,6 +20602,7 @@ ssw 0.2.1
 ssym 1.5.8
 st 1.2.7
 sta 0.1.7
+staat1cho 0.1.0
 stabiliser 1.0.7
 stability 0.6.0
 StabilityApp 0.1.0
@@ -22818,6 +22833,7 @@ velociraptr 1.1.0
 vembedr 0.1.5
 venn 1.13
 VennDiagram 1.8.2
+vennDiagramLab 2.0.5
 venneuler 1.1-4
 VennItem 1.1.0
 vennplot 1.0

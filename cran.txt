@@ -2928,7 +2928,7 @@ CLIC 0.1
 clickableImageMap 1.0
 clickb 0.1
 ClickClust 1.1.6
-ClickHouseHTTP 0.3.4
+ClickHouseHTTP 1.0.0
 clickR 0.9.45
 clickstream 1.3.4
 clidamonger 1.5.0
@@ -6213,7 +6213,7 @@ ExtMallows 0.1.0
 extr 1.1.0
 extractFAERS 0.1.4
 ExtractTrainData 9.1.6
-extraDistr 1.10.0.3
+extraDistr 1.10.0.4
 extrafont 0.20
 extrafontdb 1.1
 extrafrail 1.14
@@ -12291,7 +12291,7 @@ mixtox 1.5.0
 mixtree 0.0.1
 mixtur 1.2.3
 mixture 2.2.0
-MixtureFitting 0.6.1
+MixtureFitting 0.8.0
 MixtureMissing 3.0.6
 MixTwice 2.0
 mixvlmc 0.2.2
@@ -12479,7 +12479,7 @@ mniw 1.0.2
 mnlfa 0.3-4
 MNLR 0.1.0
 MNM 1.0-4
-mnonr 1.0.0
+mnonr 1.0.1
 mnorm 1.2.3
 mnormt 2.1.2
 MNormTest 1.1.1
@@ -16592,7 +16592,7 @@ rasciidoc 4.1.1
 RaSEn 3.0.0
 rashnu 0.1.2
 rassta 1.0.6
-RastaRocket 1.1.4
+RastaRocket 1.1.5
 raster 3.6-32
 rasterbc 1.0.2
 rasterdiv 0.3.8
@@ -19892,7 +19892,6 @@ smile 1.1.0
 smimodel 0.1.3
 smirnov 1.0-1
 SmithWilsonYieldCurve 1.1.1
-SMITIDstruct 0.0.5
 SMLE 2.2-3
 smlePH 0.1.1
 smlmkalman 0.1.1
@@ -20677,7 +20676,7 @@ statgenGWAS 1.0.13
 statgenGxE 1.0.11
 statgenHTP 1.0.9.1
 statgenIBD 1.0.11
-statgenMPP 1.0.4
+statgenMPP 1.0.5
 statgenQTLxT 1.0.3
 statgenSTA 1.0.15
 statGraph 1.0.6
@@ -22512,7 +22511,7 @@ Umoments 1.0.1
 ump 0.5-8
 Umpire 2.0.11
 umweltapir 0.1.0
-umx 4.60.0
+umx 4.65.0
 unbalhaar 2.1
 UncDecomp 1.0.1
 uncertainty 0.3.0

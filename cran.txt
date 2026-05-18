@@ -1580,7 +1580,7 @@ bigPLScox 0.8.1
 bigPLSR 0.7.2
 bigQF 1.6
 BigQuic 1.1-13
-BIGr 0.6.2
+BIGr 0.7.2
 bigreadr 0.2.5
 bigReg 0.1.5
 bigrquery 1.6.2
@@ -4912,7 +4912,7 @@ dkanr 0.1.3
 dLagM 1.1.13
 DLASSO 2.0.2
 DLEGFM 0.4.0
-DLFM 0.2.3
+DLFM 0.2.4
 dlib 1.0.3.1
 dlim 0.2.1
 DLL 1.0.0

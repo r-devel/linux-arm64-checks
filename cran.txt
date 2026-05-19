@@ -1737,7 +1737,7 @@ BISdata 0.2-3
 bispdep 1.0-2
 bistablehistory 1.1.4
 bit 4.6.0
-bit64 4.8.0
+bit64 4.8.2
 bitfield 1.0.0
 bitmexr 0.3.3
 bitops 1.0-9
@@ -6116,6 +6116,7 @@ evprof 1.2.0
 evsim 1.7.1
 evt0 1.1.5
 evtree 1.0-8
+ewens 0.1.0
 EWGoF 2.2.2
 ewoc 0.3.0
 EWOC.Comb 1.0
@@ -8494,6 +8495,7 @@ GroupBN 1.2.0
 groupcompare 1.0.1
 GroupComparisons 0.1.0
 groupdata2 2.0.5
+groupedHyperframe.random 0.3.0
 groupedSurv 1.0.5.1
 grouper 0.5.0
 groupICA 0.1.1
@@ -8526,6 +8528,7 @@ GrpString 0.5.1
 GRShiny 1.0.1
 GRSxE 1.0.1
 grt 0.2.1
+grumpy 0.1.1
 grwat 0.1
 GSA 1.03.3
 GSA.UN 1.0.0
@@ -13111,6 +13114,7 @@ mvnfast 0.2.8
 mvngGrAd 0.1.6
 MVNGmod 0.1.0
 mvnimpute 1.0.1
+mvnma 0.1-0
 mvnmle 0.1-11.2
 mvnormalTest 1.0.1
 mvnormtest 0.1-9-3
@@ -14766,7 +14770,7 @@ PeakSegOptimal 2024.10.1
 pearson7 1.0-3
 PearsonDS 1.3.2
 PearsonICA 1.2-5
-PEAXAI 1.0.0
+PEAXAI 1.0.1
 pec 2025.06.24
 pecan 0.1.0
 pecanr 0.2.0
@@ -16291,6 +16295,7 @@ quantregGrowth 1.7-2
 quantregRanger 1.0
 quantsig 0.1.0
 quantspec 1.2-4
+quaqcr 1.0.4
 quarks 1.1.6
 quarrint 1.0.0
 quartabs 0.1.1
@@ -17159,6 +17164,7 @@ refreg 0.1.1
 refreshr 0.1.0
 refseqR 1.1.5
 refset 0.1.1
+REFT 0.1.4
 refuge 0.3.3
 refugees 2025.06.1
 refund 0.1-40
@@ -19003,6 +19009,7 @@ sdetorus 0.1.10
 sdf.test 0.0.1.0
 SDGdetector 2.7.3
 SDGLM 0.4.0
+SDI 0.1.0
 SDLfilter 2.3.3
 sdlrm 0.1.2
 sdm 1.2-59
@@ -19232,6 +19239,7 @@ Sequential 4.6.0
 sequential.pops 0.1.1
 SequentialDesign 1.0
 sequoia 3.2.0
+seqwrap 0.7.0
 sergeant 0.9.1
 serial 3.0
 seriation 1.5.8
@@ -19730,6 +19738,7 @@ simulateDCE 0.3.2
 simulator 0.2.5
 simulist 0.7.0
 simulMGF 0.1.1
+SimuRg 0.2.0
 SimVitD 1.0.3
 sinaplot 1.1.0
 sinar 0.1.0
@@ -20049,6 +20058,7 @@ soilfoodwebs 1.0.2
 SoilFunctionality 0.1.0
 SoilHyP 0.1.7
 soilhypfit 0.1-8
+soilKey 0.9.97
 SoilManageR 1.1.0
 soilphysics 5.1
 SoilR 1.2.107
@@ -21753,7 +21763,7 @@ tidyjson 0.3.3.1
 tidyklips 0.3.0
 tidylaslog 0.1.2
 tidylda 0.0.7
-tidylearn 0.3.0
+tidylearn 0.3.1
 tidyllm 0.5.0
 tidylo 0.2.0
 tidylog 1.1.0
@@ -22435,7 +22445,7 @@ twangMediation 1.2.1
 twbparser 0.4.0
 twc 0.0.2
 twdtw 1.0-1
-tweedie 3.0.19
+tweedie 3.1.0
 tweenr 2.0.3
 tweetcheck 0.1.0
 twenty48 0.2.1
@@ -22741,6 +22751,7 @@ VAR.spec 1.0
 varband 0.9.0
 varbin 0.2.1
 varbvs 2.6-10
+VARcheck 0.1.0
 varclust 0.9.4
 VARcpDetectOnline 0.2.0
 vardiag 0.2-2

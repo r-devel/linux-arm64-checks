@@ -1,0 +1,7 @@
+* installing *source* package ‘hanyupinyin’ ...
+** this is package ‘hanyupinyin’ version ‘0.1.2’
+** using staged installation
+** R
+Error in envlist(e) : object '㐀' not found
+ERROR: unable to build sysdata DB for package ‘hanyupinyin’
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/hanyupinyin’

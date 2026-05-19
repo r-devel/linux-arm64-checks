@@ -2877,7 +2877,7 @@ CJAMP 0.1.1
 cjar 0.2.1
 cjbart 0.3.2
 CJIVE 0.1.0
-cjoint 2.1.1
+cjoint 2.1.3
 ckanr 0.7.0
 CKAT 0.1.0
 CKLRT 0.2.3
@@ -3242,7 +3242,7 @@ cointsmall 1.0.2
 col2hex2col 0.5.3
 cold 2.0-3
 coldrift 0.1.1
-collapse 2.1.6
+collapse 2.1.7
 collapsibleTree 0.1.8
 collateral 0.5.2
 collatz 1.0.0
@@ -3447,6 +3447,7 @@ conflicted 1.2.0
 ConFluxPro 1.3.1
 ConfMatrix 0.2.0
 confMeta 0.1.0
+conforest 2.0.1
 conformalbayes 0.1.4
 conformalForecast 0.1.1
 conformalInference.fd 1.1.1
@@ -4058,7 +4059,7 @@ customizedTraining 1.3
 customknitrender 1.0.2
 CustosAscensor 0.1.0
 cusumcharter 0.1.0
-CUSUMdesign 1.1.7
+CUSUMdesign 1.1.8
 cutoff 1.3
 CUtools 0.1.0
 cutpoint 1.0.0
@@ -4304,6 +4305,7 @@ DBItest 1.8.2
 dblcens 1.1.9
 dBlockmodeling 0.2.3
 DBmaps 0.1.0
+dbMatrix 0.1.0
 dbMC 1.0.0
 DBModelSelect 0.2.0
 dbmss 2.11-0
@@ -4686,7 +4688,7 @@ DiceKriging 1.6.1
 DiceOptim 2.1.2
 diceplot 0.2.2
 diceR 3.1.0
-DiceView 3.1-3
+DiceView 3.2
 dichromat 2.0-0.1
 DICOMread 0.0.0.3
 Dict 0.1.0
@@ -4710,6 +4712,7 @@ DIFboost 0.4
 difconet 1.0-4
 diffcor 0.8.4
 DiffCorr 0.4.5
+diffcp 0.1.0
 diffdf 1.1.2
 diffdfs 0.9.0
 diffEnrich 0.1.2
@@ -4817,7 +4820,7 @@ DiscreteInverseWeibull 1.0.2
 DiscreteLaplace 1.1.1
 DiscreteQvalue 1.1
 discretes 0.1.0
-DiscreteTests 0.3.0
+DiscreteTests 0.4.0
 DiscreteWeibull 1.1
 discretization 1.0-1.1
 discrim 1.1.0
@@ -5102,12 +5105,12 @@ drclust 0.1.1
 drcSeedGerm 1.0.1
 drcte 1.0.65
 drda 2.0.5
+DrData 0.2.0
 DRDID 1.2.3
 dream 1.1.1
 dreamer 3.2.0
 dreamerr 1.5.0
 DREGAR 0.1.4.0
-dress.graph 0.8.3
 drf 1.3.1
 drgee 1.1.10-4
 drglm 1.1
@@ -7470,6 +7473,7 @@ geboes.score 1.0.0
 GEC 0.1.0
 GECal 0.1.7
 gecko 1.0.3
+gedi2 2.3.4
 GeDS 0.3.3
 gee 4.13-29
 GEEaSPU 1.0.2
@@ -8838,6 +8842,7 @@ healthdb 0.5.0
 healthequal 1.0.1
 healthfinance 0.1.0
 healthiar 0.2.4
+HealthMarkers 0.1.2
 healthmotionR 0.2.0
 healthyAddress 0.5.1
 healthyR 0.2.2
@@ -9526,6 +9531,7 @@ ImML 0.1.5
 immunarch 0.10.3
 immunaut 1.0.2
 immundata 0.0.7
+ImmuneSigR 0.1.0
 immunogenetr 1.2.0
 Immutables 1.0.1
 Imneuron 0.1.0
@@ -10092,6 +10098,7 @@ jlmerclusterperm 1.1.4
 JLPM 1.0.4
 jlview 0.1.0
 JM 1.5-2
+JM4QTN 1.0.0
 jmastats 0.3.0
 jmatrix 1.5.2
 JMbayes 0.9-0
@@ -10373,7 +10380,6 @@ kmi 0.5.5
 KMLtoSHAPE 0.1.0
 kmodR 0.2.0
 KMsurv 0.1-6
-KMT 1.0.0
 KMunicate 0.2.5
 KnapsackSampling 0.1.1
 KneeArrower 1.0.0
@@ -10575,7 +10581,7 @@ latcontrol 0.1.1
 latdiag 0.3
 latenetwork 1.0.1
 latent2likert 1.2.1
-LatentBMA 0.1.2
+LatentBMA 0.1.3
 latentcor 2.0.2
 latentFactoR 0.0.7
 latentnet 2.12.0
@@ -10934,6 +10940,7 @@ llmjson 0.1.0
 LLMR 0.6.3
 LLMTranslate 0.3.0
 llogistic 1.0.3
+llrem 0.1.1
 LLSR 0.0.4
 lm.beta 1.7-3
 lm.br 2.9.8
@@ -11468,6 +11475,7 @@ marquee 1.2.1
 marradistrees 1.0
 mars 0.2.2
 MARSANNhybrid 0.1.0
+marsearth 0.0.0
 MARSGWR 0.1.0
 marsrad 1.0.1
 marsruntime 0.0.0
@@ -12201,7 +12209,6 @@ miscFuncs 1.5-10
 miscIC 0.1.0
 misclassGLM 0.3.6
 MiscMath 1.1
-MiscMetabar 0.14.4
 miscTools 0.6-30
 miselect 0.9.2
 misha 5.6.6
@@ -12295,6 +12302,7 @@ mixSPE 0.9.3
 mixsqp 0.3-54
 mixSSG 2.1.1
 MixStable 0.1.0
+mixtime 0.1.0
 mixtools 2.0.0.1
 mixtox 1.5.0
 mixtree 0.0.1
@@ -13416,6 +13424,7 @@ Newdistns 2.1
 newFocus 1.1
 newIMVC 0.1.0
 NewmanOmics 1.0.14
+newmark 1.1.0
 newsanchor 0.1.1
 newscatcheR 0.1.2
 newsmap 0.9.2
@@ -13447,6 +13456,7 @@ ngspatial 1.2-2
 NHANES 2.1.0
 nhanesA 1.4.1
 nhanesdata 0.2.2
+nhanesdiva 1.0.0
 nhdplusTools 1.4.2
 nhdR 0.6.1
 NHLData 1.0.0
@@ -13746,7 +13756,7 @@ npreg 1.1.1
 npregderiv 1.0
 npregfast 1.6.0
 npRmpi 0.70-2
-nprobust 0.5.0
+nprobust 1.0.0
 nproc 2.1.5
 npROCRegression 1.0-7
 nprotreg 1.1.1
@@ -14400,6 +14410,7 @@ painter 0.1.0
 paintingr 0.1.0
 paintmap 1.0
 PairedData 1.1.1
+pairscale 1.0
 pairsD3 0.1.3
 PairViz 1.3.8
 pairwise 0.6.2-0
@@ -14805,7 +14816,7 @@ PenguinR 0.1.0
 PenIC 1.0.0
 penMSM 0.99
 penppml 0.2.4
-pensar 0.4.2
+pensar 0.6.3
 pense 2.5.2
 pensim 1.3.6
 pensynth 0.8.2
@@ -15410,7 +15421,7 @@ pompp 0.1.3
 POMS 1.0.1
 poobly 0.1.2
 pooh 0.3-2
-pool 1.0.4
+pool 1.0.5
 PoolBal 0.1-0
 PoolDilutionR 1.0.0
 PooledCohort 0.0.2
@@ -15754,7 +15765,7 @@ ProDenICA 1.1
 prodest 1.0.1
 prodigenr 0.7.0
 prodlim 2026.03.11
-ProduceR 1.1
+ProduceR 1.2
 productivity 1.1.0
 productplots 0.1.2
 ProFAST 1.8
@@ -17095,7 +17106,7 @@ recurrentpseudo 1.0.0
 recurse 1.4.0
 red 1.6.3
 reda 0.5.6
-ReDaMoR 0.8.2
+ReDaMoR 1.0.0
 REdaS 0.9.4
 redatam 2.3.0
 redatamx 1.3.0
@@ -17645,7 +17656,7 @@ rivnet 0.6.0
 rivr 1.2-3
 RivRetrieve 0.1.9
 rix 0.18.2
-rixpress 0.12.2
+rixpress 0.12.3
 rjade 0.1.1
 rjaf 0.1.3
 RJafroc 2.1.2
@@ -17841,7 +17852,7 @@ rmutil 1.1.10
 RMVL 1.1.0.3
 rMVP 1.4.6
 rmweather 0.2.63
-RMX 0.1-6
+RMX 0.1-7
 RMySQL 0.11.3
 rmytarget 2.4.0
 rmzqc 0.7.0
@@ -19944,6 +19955,7 @@ SMPracticals 1.4-3.2
 SMR 2.1.0
 sms 2.3.1
 smsets 2.0.0
+smsncut 0.1.0
 sMSROC 0.1.3
 smss 1.0-2
 sMTL 0.1.0
@@ -20129,7 +20141,7 @@ SPADAR 1.0
 spAddins 0.2.0
 SpadeR 0.1.1
 SpaDES 2.0.11
-SpaDES.core 3.0.4
+SpaDES.core 3.1.0
 SpaDES.tools 2.1.1
 spagmix 0.4-2
 spam 2.11-3
@@ -20197,6 +20209,7 @@ sparseSVM 1.1-7
 SparseTSCGM 5.0
 sparsevar 1.0.0
 sparsevb 0.1.1
+sparseVCBART 1.0.0
 sparsevctrs 0.3.6
 SparseVFC 0.1.2
 sparsio 1.0.1
@@ -20930,6 +20943,7 @@ subgroup 1.1
 SubgrpID 0.14
 subincomeR 0.5.0
 submax 1.1.5
+submitr 0.1.0
 subniche 1.6
 subplex 1.9
 subrank 0.9.9.3
@@ -21063,6 +21077,7 @@ surveysearch 0.1.0
 surveySimR 0.1.0
 SurveyStat 1.0.3
 surveytable 0.9.10
+surveytidy 0.6.0
 surveyvoi 1.1.1
 SurvGME 0.1.0
 survHE 2.0.51
@@ -21443,6 +21458,7 @@ teal.data 0.8.0
 teal.logger 0.4.1
 teal.modules.clinical 0.12.0
 teal.modules.general 0.6.0
+teal.picks 0.1.0
 teal.reporter 0.6.1
 teal.slice 0.7.1
 teal.transform 0.7.1
@@ -22444,7 +22460,7 @@ TwoSampleTest.HD 1.2
 twosigma 1.0.2
 twoStageDesignTMLE 1.0.1.2
 TwoStepCLogit 1.2.6
-TwoStepSDFM 0.2.1
+TwoStepSDFM 0.2.2
 TwoTimeScales 1.2.1
 twotrials 0.6
 twoway 0.6.3
@@ -22983,7 +22999,6 @@ volcanoPlot 1.0.0
 volesti 1.1.2-10
 volker 3.3.1
 volrisk 0.1.0
-voluModel 0.2.3
 VoronoiBiomedPlot 0.3.2
 voronoifortune 1.0
 voronoiTreemap 0.2.0

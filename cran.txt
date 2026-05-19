@@ -2030,7 +2030,7 @@ BrazilDataAPI 0.2.0
 BrazilMet 0.4.0
 BRcal 1.0.1
 brclimr 0.2.0
-BRCore 2.0.4
+BRCore 2.0.5
 brea 0.4.2
 bread 0.4.1
 BREADR 1.1.0
@@ -3698,7 +3698,7 @@ countSTAR 1.2.0
 countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
-couplr 1.2.1
+couplr 1.4.0
 covadap 1.0.1
 covafillr 0.4.4
 covalchemy 1.0.0
@@ -21871,7 +21871,7 @@ tinytest2JUnit 1.1.3
 tinytex 0.59
 tinythemes 0.0.4
 tinytiger 0.0.11
-tinyVAST 1.5.1
+tinyVAST 1.6.0
 tip 0.1.0
 tipa 1.0.8
 TipDatingBeast 1.1-0

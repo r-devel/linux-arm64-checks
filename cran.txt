@@ -5335,7 +5335,7 @@ eadrm 0.1.4
 eaf 2.5.2
 Eagle 2.5
 eam 1.2.2
-eAnalytics 0.3.1
+eAnalytics 0.4
 earlygating 1.1
 earlyR 0.0.5
 earth 5.3.5

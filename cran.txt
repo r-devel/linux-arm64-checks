@@ -4431,7 +4431,7 @@ DedooseR 2.0.0.2
 Deducer 0.9-2
 deducorrect 1.3.7
 deductive 1.0.1
-DeductiveR 1.1.0
+DeductiveR 2.0.0
 deduped 0.4.0
 dedupewider 0.1.1
 deep 0.1.0
@@ -7157,7 +7157,7 @@ FSAdata 0.4.1
 fsbrain 0.5.6
 fscache 1.0.5
 FSDAM 2024.7-30
-fsdaR 0.9-0
+fsdaR 0.9-1
 FSelector 0.34
 FSelectorRcpp 0.3.13
 fsemipar 1.1.1
@@ -7686,7 +7686,7 @@ GeoThinneR 2.1.1
 geotools 0.1
 geotoolsR 1.2.1
 geotopbricks 1.5.9.1
-GeoTox 0.3.0
+GeoTox 1.0.0
 geoTS 0.1.10
 geovol 1.1
 GeoWeightedModel 1.0.3
@@ -8495,6 +8495,7 @@ GroupBN 1.2.0
 groupcompare 1.0.1
 GroupComparisons 0.1.0
 groupdata2 2.0.5
+groupedHyperframe 0.4.1
 groupedHyperframe.random 0.3.0
 groupedSurv 1.0.5.1
 grouper 0.5.0
@@ -13460,7 +13461,7 @@ ngspatial 1.2-2
 NHANES 2.1.0
 nhanesA 1.4.1
 nhanesdata 0.2.2
-nhanesdiva 1.0.0
+nhanesdiva 1.0.1
 nhdplusTools 1.4.2
 nhdR 0.6.1
 NHLData 1.0.0
@@ -14291,7 +14292,7 @@ oskeyring 0.1.7
 osktnorm 1.1.2
 OSLdecomposition 1.2
 osmapiR 0.2.5
-osmclass 0.1.4
+osmclass 0.1.5
 osmdata 0.3.0
 osmextract 0.6.0
 OSMscale 0.5.23
@@ -14357,7 +14358,7 @@ overtureR 0.2.5
 overviewR 0.0.14
 OVL.CI 0.1.1
 OVtool 1.0.3
-owd 1.0.6
+owd 1.0-7
 owdbr 1.0.1.1
 OWEA 0.1.2
 OwenQ 1.0.8
@@ -17336,6 +17337,7 @@ requiRements 0.0.3
 requireR 1.0.0.1
 rerandPower 0.0.1
 rerddap 1.2.3
+rerddapUtils 1.0.0
 rerddapXtracto 1.2.5
 reReg 1.4.7
 resample 0.6
@@ -20389,7 +20391,7 @@ sphet 2.1-1
 sphunif 1.4.3
 SpiceFP 0.1.2
 SPIChanges 0.2.1
-spicy 0.11.0
+spicy 0.12.0
 spider 1.5.2
 spiderbar 0.2.5
 spidR 1.0.2
@@ -22866,7 +22868,7 @@ VennItem 1.1.0
 vennplot 1.0
 verbaliseR 0.1
 verbalisr 0.7.2
-verdadecu 1.0.0
+verdadecu 1.0.1
 verdata 1.0.2
 verhoeff 0.4.0
 verification 1.45
@@ -22949,7 +22951,7 @@ VisCov 1.6.0
 visdat 0.6.0
 ViSe 0.1.3
 VisitorCounts 2.0.3
-vismeteor 3.0.0
+vismeteor 3.0.1
 vismi 0.9.5
 visNetwork 2.1.4
 visOmopResults 1.5.0

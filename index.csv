@@ -15,6 +15,7 @@ akin,0.3.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/a
 bigmemory,4.6.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bigmemory
 bootmlm,0.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bootmlm
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
+couplr,1.4.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/couplr
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr
 gbm,2.2.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gbm
 hanyupinyin,0.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hanyupinyin

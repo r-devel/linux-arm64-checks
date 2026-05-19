@@ -10729,7 +10729,7 @@ lehdr 1.1.4
 lehuynh 0.1.1
 leiden 0.4.3.1
 leidenAlg 1.1.7
-leidenbase 0.1.36
+leidenbase 0.1.37
 leiv 2.0-7
 LeMaRns 0.1.2
 lemna 1.0.2
@@ -14974,7 +14974,7 @@ PheNorm 0.1.0
 PhenoSpectra 0.1.0
 Phenotype 0.1.0
 PhenotypeR 0.4.0
-PHENTHAUproc 1.1.1
+PHENTHAUproc 1.1.2
 phers 1.0.5
 PHeval 1.1
 PheVis 1.0.4
@@ -21918,7 +21918,7 @@ TITEgBOIN 0.4.0
 titeIR 0.1.0
 titrationCurves 0.1.0
 Tivy 0.1.1
-TKCat 1.1.14
+TKCat 1.2.1
 tkImgR 0.0.5
 tkrplot 0.0-32
 tkRplotR 0.1.7

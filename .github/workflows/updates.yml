@@ -96,14 +96,18 @@ jobs:
           echo "Checking files added to incoming"
           comm -13 <(printf '%s\n' "$current") <(printf '%s\n' "$remote") | tee -a /tmp/added.txt
           while read -r pkgfile; do
-            echo "Starting check for $pkgfile"
-            gh workflow run incoming.yml -f "pkgfile=${pkgfile}.tar.gz" || true
-            sleep 10
+            if [ "$pkgfile" ]; then
+              echo "Starting check for $pkgfile"
+              gh workflow run incoming.yml -f "pkgfile=${pkgfile}.tar.gz" || true
+              sleep 10
+            fi
           done < /tmp/added.txt
           while read -r pkgfile; do
-            echo "Removing incoming result for $pkgfile"
-            rm -Rf ".incoming/$pkgfile"
-            git add ".incoming/$pkgfile"
+            if [ "$pkgfile" ]; then
+              echo "Removing incoming result for $pkgfile"
+              rm -Rf ".incoming/$pkgfile"
+              git add ".incoming/$pkgfile"
+            fi
           done < /tmp/removed.txt
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

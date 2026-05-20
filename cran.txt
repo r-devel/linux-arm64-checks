@@ -756,7 +756,7 @@ arkhe 1.11.0
 arl 0.1.4
 arlclustering 1.0.5
 arm 1.15-3
-armadillo4r 0.8.0
+armadillo4r 0.9.0
 ARMALSTM 0.1.0
 armaOptions 1.0.1
 armspp 0.0.3
@@ -1050,7 +1050,7 @@ badger 0.2.5
 badp 0.5.0
 baf 0.0.4
 baffle 0.2.2
-bage 0.10.8
+bage 0.10.9
 bagged.outliertrees 1.0.0
 baggingbwsel 1.1
 baggr 0.8
@@ -1365,6 +1365,7 @@ Bchron 4.7.8
 bclogit 1.1
 bcmaps 2.3.0
 bcmixed 0.1.6
+bcp 4.0.4
 bcpa 1.3.2
 bcputility 0.4.6
 BCRA 2.1.2
@@ -1465,6 +1466,7 @@ betaBayes 1.0.1
 BetaBit 2.2
 betacal 0.1.0
 betaclust 1.0.5
+BetaDanish 0.1.0
 betaDelta 1.0.6
 betafunctions 1.9.0
 betaMC 1.3.3
@@ -2030,7 +2032,7 @@ BrazilDataAPI 0.2.0
 BrazilMet 0.4.0
 BRcal 1.0.1
 brclimr 0.2.0
-BRCore 2.0.5
+BRCore 2.0.7
 brea 0.4.2
 bread 0.4.1
 BREADR 1.1.0
@@ -2048,7 +2050,7 @@ brfinance 0.8.0
 brglm 0.7.3
 brglm2 1.1.0
 brickset 2026.0.0
-brickster 0.2.12
+brickster 0.2.13
 bridgedist 0.1.3
 bridger2 0.1.0
 bridgesampling 1.2-1
@@ -2948,7 +2950,7 @@ climate 1.3.0
 climatehealth 1.0.1
 climatekit 0.2.0
 climateStability 0.1.4
-climatol 4.4-0
+climatol 4.5-0
 climatrends 1.2
 ClimClass 2.1.1
 CLimd 0.1.0
@@ -4076,7 +4078,7 @@ CVD 1.0.2
 cvdprevent 0.2.5
 cvequality 0.2.0
 cvGEE 0.3-0
-CVglasso 1.0
+CVglasso 1.0.1
 cvLM 2.0.0
 cvmaPLFAM 0.1.1
 cvmdisc 0.1.0
@@ -5082,6 +5084,7 @@ DPTM 3.0.2
 DQA 0.1.1
 DQAgui 0.2.6
 DQAstats 0.3.9
+dqcheckr 0.1.2
 dqrng 0.4.1
 dQTG.seq 1.0.2
 dr 3.0.11
@@ -5456,7 +5459,7 @@ ecodist 2.1.3
 ecodive 2.2.6
 EcoEnsemble 1.2.0
 Ecohydmod 1.0.0
-ECoL 0.3.0
+ECoL 0.4.4
 ecolMod 1.2.6.4
 ecolottery 1.0.2
 ecolRxC 0.1.1-16
@@ -5844,6 +5847,7 @@ epicR 1.0.1
 EpiCurve 2.4-2
 epidata 0.4.0
 epidatr 1.2.2
+epiDeaths 1.1.8
 epidict 0.3.0
 EpidigiR 0.1.2
 epiDisplay 3.7.0.0
@@ -6227,7 +6231,7 @@ extraDistr 1.10.0.4
 extrafont 0.20
 extrafontdb 1.1
 extrafrail 1.14
-extraoperators 0.3.0
+extraoperators 0.4.0
 extras 0.8.0
 extrasteps 0.3.0
 extraSuperpower 1.6.2
@@ -7244,6 +7248,7 @@ furniture 1.11.0
 furrr 0.4.0
 fusedMGM 0.1.2
 fusedTree 1.1.0
+fuseMLR 0.0.4
 fusen 0.7.2
 fuser 1.0.1
 fusionchartsR 1.2.0
@@ -7454,7 +7459,6 @@ gde 0.2.1
 gdi 1.10.0
 gdiff 0.2-5
 GDILM.ME 1.2.1
-GDILM.SEIRS 0.0.6
 GDILM.SIR 1.2.1
 gdim 0.1.1
 GDINA 2.9.12
@@ -8601,7 +8605,7 @@ gtExtras 0.6.2
 gtexture 1.0.1
 gtfs2emis 0.1.2
 gtfs2gps 2.1-4
-gtfsio 1.2.0
+gtfsio 1.2.1
 gtfsrouter 0.1.4
 gtfstools 1.4.0
 gtheoryr 0.1.0
@@ -12438,6 +12442,7 @@ mlt.docreg 1.1-12
 mltest 1.0.3
 mltools 0.3.5
 mlts 2.0.1
+mlumr 0.1.0
 mlVAR 0.6.1
 MLwrap 0.4.0
 MLZ 0.1.5
@@ -12768,7 +12773,7 @@ MRG 0.3.25
 MRgrowth 0.1.2
 mrgsim.parallel 0.3.0
 mrgsim.sa 0.3.0
-mrgsolve 1.7.2
+mrgsolve 2.0.1
 MRHawkes 1.0
 mri 1.0.1
 mrIML 2.2.0
@@ -13453,7 +13458,7 @@ ngboostForecast 0.1.1
 NGBVS 0.3.0
 NGCHM 1.0.4
 NGLVieweR 1.4.0
-ngme2 0.9.7
+ngme2 0.9.8
 ngram 3.2.3
 ngramr 1.10.0
 ngramrr 0.2.0
@@ -14882,6 +14887,7 @@ PersomicsArray 1.0
 personalized 0.2.8
 personalized2part 0.0.2
 personalr 1.0.3
+personnelSelectionUtility 1.0.2
 personr 1.0.0
 perspectev 1.1
 perspectiveR 0.3.0
@@ -15600,6 +15606,7 @@ practicalSigni 0.1.2
 PracTools 1.7.5
 prais 1.1.4
 praise 1.0.0
+prakriti 0.1.4
 PRANA 1.0.6
 praznik 12.0.0
 PRBMSdesigns 1.0.1
@@ -16423,7 +16430,7 @@ r4subprofile 0.1.0
 r4subrisk 0.1.0
 r4subscore 0.1.0
 r4subtrace 0.1.0
-r5r 2.3.0
+r5r 2.4.0
 r5rgui 0.2.0
 R6 2.6.1
 R62S3 1.4.1
@@ -18086,6 +18093,7 @@ ROMDB 0.1.0
 RoME 0.2.3
 Romeb 0.1.2
 romic 1.3.3
+Romney 0.1.0
 ronfig 0.0.10
 Rook 1.2
 ROOPSD 0.3.9
@@ -18601,9 +18609,9 @@ rxode2mrgsolvebridge 0.1.0
 rxSeq 0.99.3
 rxylib 0.2.14
 Ryacas 1.1.6
-ryandexdirect 3.6.2
+ryandexdirect 3.6.6
 RYandexTranslate 1.0
-rym 1.0.6
+rym 1.1.2
 rYoutheria 1.0.3
 rytstat 0.3.2
 rYWAASB 0.3
@@ -20247,7 +20255,7 @@ spatialCatalogueViewer 0.2.1
 spatialCovariance 0.6-9
 spatialData 1.0.1
 SpatialDownscaling 0.1.2
-spatialEco 2.0-4
+spatialEco 2.0-5
 SpatialEpi 1.2.8
 SpatialExtremes 2.1-0
 spatialGE 1.2.2
@@ -22092,6 +22100,7 @@ trackeR 1.6.1
 trackeRapp 1.2
 trackopt 0.1.1
 TrackReconstruction 1.3
+TrackTrap 0.1.0
 tractor.base 3.5.0
 TractorTsbox 0.1.1
 trade 0.8.3
@@ -23328,6 +23337,7 @@ withdots 0.1.1
 wither 0.1.0
 withr 3.0.2
 wizaRdry 0.6.8
+wjake 1.0.0
 wk 0.9.5
 wkb 0.4-0
 wkpool 0.3.0

@@ -90,7 +90,7 @@ jobs:
         run: |
           set -euo pipefail
           remote=$(curl -sSl --retry 3 --fail-with-body ftp://cran.r-project.org/incoming/special/linux-arm64/ | sort -u | sed 's/.tar.gz//g')
-          current=$(ls .incoming | grep -v README.md | sort -u || "")
+          current=$(ls .incoming | grep -v README.md | sort -u || true)
           echo "Checking files removed from incoming"
           comm -23 <(printf '%s\n' "$current") <(printf '%s\n' "$remote") | tee -a /tmp/removed.txt
           echo "Checking files added to incoming"

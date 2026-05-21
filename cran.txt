@@ -465,7 +465,7 @@ altfuelr 0.1.0
 altmeta 4.3.1
 altR2 1.1.0
 ALUES 0.2.1
-amadeus 1.3.2.1
+amadeus 2.0.0
 amanpg 0.3.4
 amap 0.8-20
 amapGeocode 1.0.0
@@ -955,7 +955,7 @@ autoslider.core 0.3.2
 autostats 0.4.2
 AutoStepwiseGLM 0.2.0
 autostsm 3.1.5
-autotab 1.0
+autotab 1.0.1
 autotesteR 0.1.12
 autotestR 1.2.15
 autothresholdr 1.4.3
@@ -11059,7 +11059,7 @@ logconcens 0.17-4
 logcondens 2.1.9
 logcondiscr 1.0.7
 logger 0.4.2
-logging 0.10-108
+logging 0.10-111
 loggit 2.1.1
 loggit2 2.4.0
 logib 0.2.1
@@ -12411,7 +12411,7 @@ mlr3db 0.7.1
 mlr3fairness 0.4.0
 mlr3fda 0.5.0
 mlr3filters 0.9.1
-mlr3fselect 1.5.1
+mlr3fselect 1.6.0
 mlr3hyperband 1.1.0
 mlr3inferr 0.2.1
 mlr3learners 0.14.0
@@ -12577,7 +12577,7 @@ modernVA 0.1.3
 modest 0.3-1
 ModEstM 0.0.1
 modesto 0.1.4
-modEvA 3.41
+modEvA 3.45
 modgo 1.0.1
 modi 0.1.3
 modifiedmk 1.6
@@ -14861,7 +14861,7 @@ perccalc 1.0.5
 percentiles 0.2.3
 PerFit 1.4.7
 PerfMeas 1.2.5
-performance 0.16.0
+performance 0.17.0
 PerformanceAnalytics 2.1.0
 peRiodiCS 0.5.0
 PeriodicTable 0.1.2
@@ -16961,7 +16961,7 @@ rdbnomics 0.6.4
 rdcmchecks 0.1.1
 rdcor 1.1
 rddapp 1.3.3
-rddensity 2.6
+rddensity 3.0
 rddi 0.1.1
 rddtools 2.0.2
 rde 0.1.1
@@ -17739,7 +17739,7 @@ rLakeAnalyzer 1.11.4.1
 rLakeHabitat 1.0.2
 rlandfire 2.0.2
 rlang 1.2.0
-rlas 1.9.1
+rlas 1.9.2
 rlcv 1.0.0
 rLDCP 1.0.2
 rle 0.10.0
@@ -20816,7 +20816,7 @@ steppedwedge 1.0.0
 stepPenal 0.2
 stepPlr 0.93
 stepR 2.1-11
-StepReg 1.6.4
+StepReg 1.6.5
 StepRegShiny 1.6.1
 steprf 1.0.2
 stepSplitReg 1.0.5
@@ -21745,7 +21745,7 @@ tidycensus 1.8.0
 tidycensuskr 0.2.8
 tidychangepoint 1.0.5
 tidycharts 0.1.3
-tidyclust 0.2.4
+tidyclust 0.3.0
 tidycmprsk 1.1.2
 tidycomm 0.4.2
 TidyConsultant 0.1.2

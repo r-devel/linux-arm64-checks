@@ -10961,7 +10961,7 @@ LMD 1.2.1
 lmDiallel 1.0.2
 lmds 0.1.0
 lme4 2.0-1
-lme4breeding 1.1.1
+lme4breeding 1.1.2
 lme4GS 0.1
 lmeInfo 0.3.2
 LMERConvenienceFunctions 3.0

@@ -215,7 +215,7 @@ admiral.test 0.7.0
 admiraldev 1.4.0
 admiralmetabolic 0.3.0
 admiralneuro 0.2.1
-admiralonco 1.4.0
+admiralonco 1.4.1
 admiralophtha 1.4.0
 admiralpeds 0.3.0
 admiralvaccine 0.6.0
@@ -935,7 +935,7 @@ autoimport 0.1.1
 autokeras 1.0.12
 automagic 0.5.1
 automap 1.1-20
-automatedRecLin 1.1.0
+automatedRecLin 1.1.1
 automatedtests 0.1.2
 automerge 0.4.0
 autometric 0.1.2
@@ -1222,6 +1222,7 @@ BayesGWQS 0.1.1
 bayesian 1.0.1
 BayesianDEB 0.1.4
 BayesianDisaggregation 0.1.2
+bayesianETAS 2.0.0
 BayesianFitForecast 1.1.0
 Bayesiangammareg 0.1.0
 BayesianInference 0.0.1
@@ -1850,7 +1851,7 @@ bmem 2.2
 BMEmapping 1.2.2
 bmemLavaan 0.7
 bmet 0.1.0
-bmgarch 2.0.0
+bmgarch 2.1.0
 bmggum 0.1.0
 BMisc 1.4.8
 BMIselect 1.0.3
@@ -3572,6 +3573,7 @@ CopCTS 1.0.0
 cope 0.2.3
 copent 0.5
 CopernicusClimate 0.0.5
+CopernicusDataspace 0.0.1
 CopernicusDEM 1.0.5
 CopernicusMarine 0.4.6
 copernicusR 0.1.0
@@ -5070,7 +5072,7 @@ dpGMM 1.0.0
 DPI 2026.2
 Dpit 1.0
 dpkg 0.6.2
-dplR 1.7.8
+dplR 1.7.9
 dplyr 1.2.1
 dplyrAssist 0.1.0
 dpm 1.3.0
@@ -5549,7 +5551,7 @@ eDNAfuns 0.1.0
 eDNAjoint 0.3.3
 EDNE.EQ 1.0
 EDOIF 0.1.4
-EDOtrans 0.2.5
+EDOtrans 0.3.5
 edstan 1.1.0
 EdSurvey 4.0.7
 educabR 0.9.1
@@ -6032,7 +6034,7 @@ ETAS 0.7.2
 ETASbootstrap 0.2.1
 etasFLP 2.3.0
 ETC 1.5
-ETDQualitizer 0.9.0
+ETDQualitizer 1.0.0
 ethiodate 0.3.1
 ethnobotanyR 0.2.0
 EthSEQ 3.0.2
@@ -8093,7 +8095,7 @@ GK2011 0.1.3
 gkgraphR 1.0.3
 gkmSVM 0.83.0
 gKRLS 1.0.4
-gkwdist 1.1.2
+gkwdist 1.1.3
 gkwreg 2.1.14
 glam 1.0.2
 glarma 1.7-1
@@ -9163,6 +9165,7 @@ htmltools 0.5.9
 HTMLUtils 0.1.9
 htmlwidgets 1.6.4
 htmxr 0.2.0
+htrSPRanalysis 0.1.3
 HTRX 1.2.4
 hts 6.0.3
 HTSCluster 2.0.11
@@ -9988,7 +9991,7 @@ iSTATS 1.7
 iSTAY 1.0.0
 iSubGen 1.0.5
 isva 1.10
-ISwR 2.0-11
+ISwR 2.0-12
 italy 0.1.0
 itan 3.1.1
 itcSegment 1.0
@@ -10458,7 +10461,7 @@ kSamples 1.2-12
 KScorrect 1.4.0
 KSEAapp 2.0
 kselection 0.2.1
-ksformat 0.4.2
+ksformat 0.7.1
 KSgeneral 2.0.2
 ksharp 0.1.0.1
 KSIC 1.0.2
@@ -10846,7 +10849,7 @@ likelihoodR 1.1.5
 likelihoodTools 1.0.0
 likert 1.3.5.1
 LikertEZ 0.1.0
-LikertMakeR 2.0.0
+LikertMakeR 2.3.0
 lilikoi 2.1.1
 lillies 0.2.12
 LilRhino 1.2.2
@@ -11151,7 +11154,7 @@ lpc 1.0.2.1
 lpcde 0.1.6
 LPCM 0.47-6
 lpda 1.2.3
-lpdensity 2.5
+lpdensity 3.0
 LPDynR 1.0.5
 LPGraph 2.1
 lphom 0.3.5-7
@@ -12981,7 +12984,7 @@ multilinguer 0.2.4
 multilink 0.1.1
 multimark 2.1.7
 multimedia 0.2.0
-multimediate 0.1.4
+multimediate 0.1.6
 multimix 1.0-10
 multimode 1.5
 multiModTest 1.0
@@ -14485,7 +14488,7 @@ pan 1.9
 PANACEA 1.1.0
 pAnalysis 2.0
 pandemics 0.1.0
-pandemonium 0.2.4
+pandemonium 1.0.0
 pander 0.6.6
 pandoc 0.2.0
 pandocfilters 0.1-6
@@ -15228,7 +15231,7 @@ plot3Drgl 1.0.5
 plot3logit 3.2.0
 plot4fun 0.1.1
 plotannotate 1.4-0
-plotbb 0.1.1
+plotbb 0.1.2
 PlotBivInvGaus 0.1.0
 plotcli 0.2.0
 PlotContour 0.1.0
@@ -17347,7 +17350,7 @@ requiRements 0.0.3
 requireR 1.0.0.1
 rerandPower 0.0.1
 rerddap 1.2.3
-rerddapUtils 1.0.0
+rerddapUtils 1.0.1
 rerddapXtracto 1.2.5
 reReg 1.4.7
 resample 0.6
@@ -17413,6 +17416,7 @@ retistruct 0.8.1
 retmort 1.0.0
 retriever 0.2.1
 retrodesign 0.2.2
+retroharmonize 0.2.8
 retrosheet 1.1.7
 retry 0.1.1
 reval 3.1-0
@@ -18083,6 +18087,7 @@ rollbar 0.1.0
 rolldown 0.2
 rollinglda 0.1.4
 rollout 0.1.0
+rollshap 1.0.1
 rollup 0.1.0
 rollupTree 0.4.1
 roloc 0.1-2
@@ -18885,7 +18890,7 @@ scenfire 0.1.0
 SCEnt 0.0.1
 SCEPtER 0.2-4
 SCEPtERbinary 0.1-1
-scf 1.0.8
+scf 1.0.10
 SCFMonitor 0.3.5
 scGate 1.7.2
 SCGLR 3.1.0
@@ -19243,7 +19248,7 @@ seqmagick 0.1.8
 seqminer 9.9
 seqmon 2.5
 seqSHP 0.1.1
-SEQTaRget 1.4.1
+SEQTaRget 1.4.2
 seqtest 0.1-0
 seqtrie 0.3.5
 sequenceR 1.0.1
@@ -20303,7 +20308,7 @@ spatstat.linnet 3.5-0
 spatstat.local 5.1-0
 spatstat.model 3.7-0
 spatstat.random 3.4-5
-spatstat.sparse 3.1-0
+spatstat.sparse 3.2-0
 spatstat.univar 3.2-0
 spatstat.utils 3.2-3
 spatsurv 2.0-1
@@ -23576,7 +23581,7 @@ XYomics 0.1.4
 yacca 1.4-2
 yaConsensus 1.1
 yager 0.1.1
-yahoofinancer 0.4.0
+yahoofinancer 0.5.0
 yaImpute 1.0-36
 YaleToolkit 4.2.3
 yaml 2.3.12

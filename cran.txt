@@ -2259,7 +2259,7 @@ calibmsm 1.1.3
 calibrar 0.9.0
 calibrate 1.7.7
 calibrateBinary 0.1
-CalibrateSSB 1.3.0
+CalibrateSSB 1.4.0
 calibrationband 0.2.1
 CalibrationCurves 3.1.0
 calibrator 1.2-8
@@ -4077,6 +4077,7 @@ cvar 0.6
 cvasi 1.5.1
 cvAUC 1.1.4
 cvCovEst 1.2.2
+cvcqv 1.0.3
 cvcrand 0.1.1
 CVD 1.0.2
 cvdprevent 0.2.5
@@ -9710,7 +9711,7 @@ InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
 inshiny 0.1.4
-insight 1.5.0
+insight 1.5.1
 InSilicoVA 1.4.2
 InspectChangepoint 1.2
 InspectionPlanner 1.2
@@ -11151,7 +11152,7 @@ lpacf 1.0.2
 lpanda 0.2.1
 LPBkg 1.2
 lpc 1.0.2.1
-lpcde 0.1.6
+lpcde 1.0.0
 LPCM 0.47-6
 lpda 1.2.3
 lpdensity 3.0
@@ -12495,6 +12496,7 @@ mmodely 0.2.5
 mMPA 1.2.0
 mmpca 2.0.4
 mmr 0.1.0
+MMRcaseselection 0.2.0
 mmrm 0.3.17
 mmsample 0.1
 mmstat4 0.2.1
@@ -12659,6 +12661,7 @@ mori 0.2.0
 morph 1.1.0
 morphemepiece 1.2.3
 morphemepiece.data 1.2.0
+morpheus 1.0-5
 Morpho 2.13
 morphomap 1.5
 moRphomenses 1.0.3
@@ -13220,7 +13223,7 @@ nanoarrow 0.8.0
 nanonext 1.9.0
 nanoparquet 0.5.1
 nanostringr 0.6.1
-nanotime 0.3.14
+nanotime 0.3.15
 NAP 1.1
 NAPrior 0.2.0
 naptanr 1.0.1
@@ -16643,7 +16646,7 @@ rasterize 0.1
 rasterKernelEstimates 1.0.2
 rasterList 0.5.21
 rasterpdf 0.1.1
-rasterpic 0.4.0
+rasterpic 0.5.0
 rasterVis 0.51.7
 RAT 0.3.1
 ratdat 1.1.0
@@ -17135,6 +17138,7 @@ REDCapCAST 26.1.1
 REDCapDM 1.0.1
 REDCapExporter 0.3.4
 REDCapR 1.6.0
+REDCapSync 0.1.0
 REDCapTidieR 1.2.4
 redcas 0.1.1
 redditadsR 0.1.0
@@ -17442,6 +17446,7 @@ rexer 1.0.0
 REXoplanets 0.1.2
 rexpokit 0.26.6.15
 rextendr 0.5.0
+rextor 1.1.0
 Rfacebook 0.6.15
 rfacebookstat 2.14.0
 rfacts 0.2.1
@@ -18500,7 +18505,7 @@ rtodoist 0.4.0
 rtoot 1.0.0
 rtop 0.6-17
 rTPC 1.1.0
-rtpcr 2.1.7
+rtpcr 2.1.8
 Rtrack 2.0.4
 RTransferEntropy 0.2.21
 rtrek 0.5.2
@@ -19169,7 +19174,7 @@ SEMID 0.5.1
 semidist 0.1.0
 SemiMarkov 1.4.6
 seminr 2.4.2
-seminrExtras 1.0.0
+seminrExtras 1.0.1
 SemiPar.depCens 0.1.3
 SemiparMF 1.0.0
 semlbci 0.11.5
@@ -19980,6 +19985,7 @@ smovie 1.1.6
 smplot2 0.2.6
 SMPracticals 1.4-3.2
 SMR 2.1.0
+smriti 0.1.0
 sms 2.3.1
 smsets 2.0.0
 smsncut 0.1.0
@@ -21729,7 +21735,7 @@ tidyactuarial 0.1.2
 tidyAML 0.0.6
 tidyaudit 0.2.1
 tidybayes 3.0.7
-tidyBdE 0.6.0
+tidyBdE 0.6.1
 tidybins 0.1.2
 tidyboot 0.1.3
 tidycat 0.1.2
@@ -22883,6 +22889,7 @@ vennDiagramLab 2.0.5
 venneuler 1.1-4
 VennItem 1.1.0
 vennplot 1.0
+venny 0.0.2
 verbaliseR 0.1
 verbalisr 0.7.2
 verdadecu 1.0.1

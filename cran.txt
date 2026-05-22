@@ -1224,7 +1224,7 @@ BayesianDEB 0.1.4
 BayesianDisaggregation 0.1.2
 bayesianETAS 2.0.0
 BayesianFitForecast 1.1.0
-Bayesiangammareg 0.1.0
+Bayesiangammareg 0.1.1
 BayesianInference 0.0.1
 BayesianLasso 0.4.1
 BayesianLaterality 0.1.2
@@ -1417,7 +1417,7 @@ BEDASSLE 1.6.1
 BEDMatrix 2.0.4
 bedr 1.1.5
 bedrockbio 1.3.1
-BeeBDC 1.3.3
+BeeBDC 1.3.4
 beeca 0.2.0
 BeeGUTS 1.5.0
 beepr 2.0
@@ -1650,7 +1650,7 @@ binsegRcpp 2025.5.13
 binseqtest 1.0.4
 binsmooth 0.2.2
 binspp 0.2.3
-binsreg 2.0
+binsreg 2.1
 binst 0.2.1
 BINtools 0.2.0
 binxr 0.1.1
@@ -3566,7 +3566,7 @@ coop 0.6-3
 CoopGame 0.2.2
 CoordinateCleaner 3.0.1
 CooRTweet 2.1.2
-copBasic 2.2.11
+copBasic 2.2.14
 copCAR 2.0-4
 copcor 2024.7-31
 CopCTS 1.0.0
@@ -5002,7 +5002,7 @@ DoE.MIParray 1.0-2
 DoE.wrapper 0.13
 doebioresearch 0.1.0
 DOEM 0.0.0.1
-doFuture 1.2.1
+doFuture 1.2.2
 dogesr 0.5.2
 Dogoftest 0.3
 DOIcreator 0.1.0
@@ -9976,7 +9976,7 @@ isoSurv 0.3.0
 isotone 1.1-2
 isotonic.pen 1.0
 isotree 0.6.1-5
-isoWater 1.2.1
+isoWater 1.2.2
 ISOweek 0.6-2
 ispd 0.2
 ispdata 1.1.2
@@ -10118,7 +10118,7 @@ jmastats 0.3.0
 jmatrix 1.5.2
 JMbayes 0.9-0
 JMbayes2 0.6-0
-JMbdirect 0.1.0
+JMbdirect 0.1.1
 jmBIG 0.1.3
 jmcm 0.2.5
 jmdem 1.0.1
@@ -12407,7 +12407,7 @@ mlr3batchmark 0.2.2
 mlr3benchmark 0.1.7
 mlr3cluster 0.3.0
 mlr3data 0.9.0
-mlr3db 0.7.1
+mlr3db 0.7.2
 mlr3fairness 0.4.0
 mlr3fda 0.5.0
 mlr3filters 0.9.1
@@ -17545,7 +17545,7 @@ rgph 0.1.0
 rgplates 0.6.1
 rgraph6 2.0-5
 RGraphics 3.0-2
-RGraphSpace 1.2.0
+RGraphSpace 1.3.0
 rgrass 0.5-3
 RGreenplum 0.1.2
 RGremlinsConjoint 0.9.1
@@ -20310,7 +20310,7 @@ spatstat.data 3.1-9
 spatstat.explore 3.8-0
 spatstat.geom 3.7-3
 spatstat.gui 3.1-0
-spatstat.Knet 3.1-2
+spatstat.Knet 3.1-3
 spatstat.linnet 3.5-0
 spatstat.local 5.1-0
 spatstat.model 3.7-0

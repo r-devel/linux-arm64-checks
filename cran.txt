@@ -13031,7 +13031,7 @@ multiridge 1.11
 multiRL 0.3.7
 MultiRNG 1.2.4
 MultiRobust 1.0.5
-multiSA 0.1.1
+multiSA 0.2.0
 MultiscaleDTM 1.0.1
 multiScaleR 0.6.13
 MultiscaleSCP 0.1.1

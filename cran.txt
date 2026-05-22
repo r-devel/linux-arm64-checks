@@ -2524,7 +2524,7 @@ cdata 1.2.1
 CDatanet 2.2.2
 cdcanthro 0.1.0
 cdcatR 1.0.7
-CDCPLACES 1.2.0
+CDCPLACES 1.2.1
 cdcsis 2.0.5
 cder 0.3-1
 CDF 0.1.0
@@ -6362,7 +6362,7 @@ fam.recrisk 0.1
 FAMetA 0.1.7
 FamEvent 3.3
 familial 1.0.7
-familiar 2.0.0
+familiar 2.0.1
 Familias 2.6.4
 Families 2.0.2
 famish 0.2.0
@@ -17254,7 +17254,7 @@ relevent 1.2-1
 reliabilitydiag 0.2.1
 ReliabilityTheory 0.3.1
 reliacoef 1.0.1
-ReliaGrowR 0.6
+ReliaGrowR 0.7
 ReliaLearnR 0.3
 ReliaPlotR 0.5
 reliaR 0.2

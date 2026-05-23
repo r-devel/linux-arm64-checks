@@ -7808,7 +7808,7 @@ ggdaynight 0.1.3
 ggdemetra 0.2.9
 ggdendro 0.2.0
 ggdensity 1.0.1
-ggdiagram 0.1.1
+ggdiagram 0.2.0
 ggdibbler 0.6.5
 ggdiceplot 1.2.0
 ggdist 3.3.3

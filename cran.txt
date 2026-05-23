@@ -3383,7 +3383,7 @@ CompModels 0.3.0
 COMPoissonReg 0.8.1
 CompositeReliability 1.0.3
 compositeReliabilityInNestedDesigns 1.0.4
-Compositional 8.1
+Compositional 8.2
 compositional.mle 2.0.0
 CompositionalClust 1.2
 CompositionalHDDA 1.0
@@ -4774,7 +4774,7 @@ DiPALM 1.2
 DiPhiSeq 0.2.0
 dipm 1.12
 DiPs 0.6.4
-dipsaus 0.3.4
+dipsaus 0.3.5
 diptest 0.77-2
 dipw 0.1.0
 dir2json 0.1.0
@@ -5667,7 +5667,7 @@ electoral 0.1.4
 elevatr 0.99.1
 elexr 1.0
 elfDistr 1.0.1
-elfgen 2.3.4
+elfgen 2.3.5
 elgbd 0.9.0
 elhmc 1.2.1
 ELIC 0.1.0
@@ -6662,7 +6662,7 @@ figir 0.1.7.0
 figma 0.2.0
 figpatch 0.3.0
 file2meco 0.9.1
-filearray 0.2.1
+filearray 0.2.2
 filebin 0.0.6
 filecacher 0.2.9
 filehash 2.4-6
@@ -6825,7 +6825,7 @@ flexdashboard 0.6.3
 FlexDir 1.0
 flexFitR 1.2.2
 FlexGAM 0.7.2
-flexhaz 0.5.1
+flexhaz 0.5.2
 flexiblas 3.4.0
 flexIC 0.1.4
 flexlsx 1.0.0
@@ -11506,7 +11506,7 @@ maSAE 2.0.3
 mascarade 0.3.4
 mase 0.1.5.2
 mashr 0.2.79
-maskedcauses 0.9.3
+maskedcauses 0.10.0
 maskedhaz 0.1.0
 maskr 0.1.0
 maskRangeR 1.1
@@ -16678,7 +16678,7 @@ raven.rdf 0.2.0
 RavenR 2.2.4
 ravepipeline 0.0.3
 rAverage 0.5-8
-ravetools 0.2.4
+ravetools 0.2.5
 raw 0.1.8
 RawHummus 0.3.3
 rawKS 0.1.0
@@ -16950,7 +16950,7 @@ RCurl 1.98-1.18
 Rcurvep 1.3.2
 RCytoGPS 1.2.10
 RCzechia 1.12.8
-rd2d 0.1.0
+rd2d 0.2.0
 Rd2md 1.0.1
 Rd2roxygen 1.18
 rD3plot 1.1.45
@@ -17057,7 +17057,7 @@ readMLData 0.9-7
 readmoRe 0.2-15
 readMzXmlData 2.8.4
 readnoaa 0.1.1
-readNSx 0.0.6
+readNSx 0.0.7
 readobj 0.4.1
 readODS 2.3.5
 readoecd 0.3.3
@@ -18252,7 +18252,7 @@ RPublica 0.1.3
 RPushbullet 0.3.5
 rpyANTs 0.0.6
 RPyGeo 1.0.0
-rpymat 0.1.8
+rpymat 0.1.9
 rqcanon 0.1.0
 rQCC 2.22.12
 rqdatatable 1.3.3
@@ -18403,7 +18403,7 @@ rsppfp 1.0.4
 rsprite2 0.2.1
 rsq 2.7
 RSQL 0.2.2
-RSQLite 3.52.0
+RSQLite 3.53.1
 RSQLite.toolkit 0.1.2
 RSqlParser 1.5
 RsqMed 1.1

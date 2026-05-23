@@ -10646,7 +10646,7 @@ LBBNN 0.1.5
 LBDiscover 0.1.0
 lbfgs 1.2.1.2
 lbfgsb3c 2024-3.5
-LBI 0.2.3
+LBI 0.2.4
 lbm 0.9.0.2
 lboxcox 1.2
 LBPG 0.1.2

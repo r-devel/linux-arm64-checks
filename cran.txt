@@ -6612,7 +6612,7 @@ FESta 1.0.0
 fetch 0.1.5
 fetchGoogleAnalyticsR 0.1.0
 fetchSalesforceR 0.1.0
-fetwfe 1.5.0
+fetwfe 1.10.0
 fExtremes 4032.84
 ff 4.5.2
 ffaframework 0.1.2

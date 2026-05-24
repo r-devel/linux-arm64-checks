@@ -14541,7 +14541,7 @@ parallelPlot 0.4.0
 param2moment 0.1.3
 ParamANOVA 0.1.4
 paramDemo 1.0.2
-parameters 0.29.0
+parameters 0.29.1
 paramGUI 2.2.0
 ParamHelpers 1.14.2
 paramhetero 1.0.0
@@ -18968,7 +18968,7 @@ scoringRules 1.1.3
 scoringutils 2.2.0
 SCORNET 0.1.1
 SCORPION 1.3.2
-ScottKnott 1.3-3
+ScottKnott 1.4-0
 ScottKnottESD 2.0.3
 scout 1.0.4
 scoutbaR 0.2.5
@@ -19100,7 +19100,7 @@ secsse 3.7.0
 sectorgap 0.1.0
 secuTrialR 1.3.3
 sedproxy 0.7.6
-see 0.13.0
+see 0.14.0
 seeclickfixr 1.1.0
 seecolor 0.2.0
 seedCCA 3.1
@@ -22440,7 +22440,7 @@ tufte 0.15.0
 tufterhandout 1.2.1
 tugboat 0.1.6
 TUGLab 0.0.1
-TukeyC 1.3-44
+TukeyC 1.4-0
 TukeyGH77 0.1.4
 tukeytrend 0.7
 TULIP 1.0.2

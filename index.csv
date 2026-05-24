@@ -12,7 +12,6 @@ Rbeast,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD
 RcppAlgos,2.10.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RcppAlgos
 ShortRead,1.69.3-2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ShortRead
 akin,0.3.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/akin
-bayestestR,0.18.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bayestestR
 bigmemory,4.6.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bigmemory
 bootmlm,0.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bootmlm
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp

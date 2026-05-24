@@ -1,4 +1,0 @@
-ERROR: dependency ‘cli’ is not available for package ‘rvtk’
-Perhaps try a variation of:
-install.packages('cli')
-* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/rvtk’

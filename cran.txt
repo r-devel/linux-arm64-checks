@@ -4265,7 +4265,7 @@ dataspice 1.1.1
 datastat 0.1.0
 DatastreamDSWS2R 1.9.12
 DatastreamR 2.0.4
-DATAstudio 1.2.3
+DATAstudio 1.2.4
 DataSum 0.1.1
 datasusr 0.1.0
 dataverifyr 0.1.11
@@ -7373,7 +7373,7 @@ ganGenerativeData 2.1.6
 GANPA 1.2
 GANPAdata 1.0
 ganttify 0.2.5
-gap 1.14
+gap 1.15.1
 gap.datasets 0.0.6
 GapAnalysis 2.0.2
 GAparsimony 0.9.5

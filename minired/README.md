@@ -1,6 +1,6 @@
 # minired 1.0.1
 
-Latest run: 2026-05-17: https://github.com/r-devel/linux-arm64-checks/actions/runs/25979195797
+Latest run: 2026-05-24: https://github.com/r-devel/linux-arm64-checks/actions/runs/26349892554
 
 ```
 Package: minired

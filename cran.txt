@@ -2982,7 +2982,7 @@ ClinicalUtilityRecal 0.1.0
 clinify 0.3.0
 clinmon 0.6.0
 clinPK 0.13.0
-clinpubr 1.3.0
+clinpubr 1.4.0
 clinsig 1.2
 ClinSigMeasures 1.2
 clinspacy 1.0.2
@@ -10850,7 +10850,7 @@ lightsf 0.1.0
 lightsout 0.3.2
 likelihood 1.9
 likelihood.contr 0.1.1
-likelihood.model 1.0.0
+likelihood.model 1.0.1
 likelihoodAsy 0.51
 likelihoodExplore 0.1.0
 likelihoodR 1.1.5
@@ -12741,7 +12741,7 @@ MplusLGM 1.0.0
 mplusParallel.automation 0.0.1.1
 MplusTrees 0.2.3
 mpm 1.0-23
-mpmaggregate 0.2.5
+mpmaggregate 0.2.6
 mpmcorrelogram 0.1-5
 mpmi 0.43.2.1
 mpmsim 3.3.0
@@ -20315,7 +20315,7 @@ SpATS 1.0-20
 spatsoc 0.2.13
 spatstat 3.6-0
 spatstat.data 3.1-9
-spatstat.explore 3.8-0
+spatstat.explore 3.8-1
 spatstat.geom 3.8-1
 spatstat.gui 3.1-0
 spatstat.Knet 3.1-3
@@ -21232,7 +21232,7 @@ swamp 1.5.1
 swaprinc 1.0.1
 swaRm 0.6.0
 swaRmverse 0.1.1
-swash 2.0.0
+swash 2.0.1
 swatches 0.5.0
 swcEcon 0.1.0
 swCRTdesign 4.1

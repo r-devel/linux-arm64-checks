@@ -1306,7 +1306,7 @@ bayesSurv 3.8
 BayesSurvival 0.2.0
 BayesSurvive 0.1.0
 bayest 1.5
-bayestestR 0.18.0
+bayestestR 0.18.1
 bayesTFR 7.4-4
 BayesTools 0.3.0
 BayesTree 0.3-1.5
@@ -7627,7 +7627,7 @@ geobr 2.0.0
 geocacheR 0.1.0
 geocausal 0.4.0
 geocmeans 0.3.4
-geocodebr 0.6.2
+geocodebr 0.6.3
 geocomplexity 0.3.0
 geodaData 0.1.0
 geodata 0.6-9
@@ -13487,7 +13487,7 @@ nhanesdiva 1.0.1
 nhdplusTools 1.4.2
 nhdR 0.6.1
 NHLData 1.0.0
-nhlscraper 0.6.0
+nhlscraper 0.6.1
 nhm 0.1.2
 NHPoisson 3.4
 nhppp 1.0.5
@@ -17470,6 +17470,7 @@ RfEmpImp 2.1.8
 rFerns 6.0.0
 rFIA 1.1.3
 rfieldclimate 0.1.1
+RFIF 1.0.2
 rfinterval 1.0.0
 rfishbase 5.0.3
 RFishBC 0.2.7
@@ -21703,7 +21704,7 @@ ThinkingGrid 0.1.0
 thinkr 0.16
 this.path 2.8.0
 thisplot 0.4.0
-thisutils 0.4.5
+thisutils 0.4.7
 ThomasJeffersonUniv 0.1.3
 thor 1.2.0
 thorn 0.2.0

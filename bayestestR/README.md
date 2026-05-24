@@ -1,6 +1,6 @@
 # bayestestR 0.18.0
 
-Latest run: 2026-05-21: https://github.com/r-devel/linux-arm64-checks/actions/runs/26250781869
+Latest run: 2026-05-24: https://github.com/r-devel/linux-arm64-checks/actions/runs/26349688460
 
 ```
 Package: bayestestR

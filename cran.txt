@@ -2858,7 +2858,7 @@ CircularBoxplots 0.1.2
 CircularDDM 0.1.0
 circularKDE 0.1.1
 CircularSilhouette 0.0.1
-circumplex 1.0.2
+circumplex 1.1.0
 cirls 0.4.0
 cIRT 1.3.3
 CIS.DGLM 0.1.0
@@ -5389,7 +5389,7 @@ easyreg 4.0
 easyScieloPack 0.1.1
 easySdcTable 1.1.2
 EasyStat 2.0.0
-easystats 0.7.5
+easystats 0.7.6
 easysurv 2.0.2
 easySVG 0.1.0
 easytable 2.1.1

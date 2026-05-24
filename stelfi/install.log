@@ -4,8 +4,8 @@
 ** using staged installation
 ** libs
 using C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
-aarch64-linux-gnu-g++ -std=gnu++20 -I"/usr/share/R/include" -DNDEBUG -DTMBAD_FRAMEWORK -I'/usr/local/lib/R/site-library/TMB/include' -I'/usr/local/lib/R/site-library/RcppEigen/include'    -fopenmp -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-fzVJzL/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-fzVJzL/r-base-4.6.0=/usr/src/r-base-4.6.0-3.2604.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c stelfi.cpp -o stelfi.o
-aarch64-linux-gnu-g++ -std=gnu++20 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.6.0-3.2604.0%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -o stelfi.so stelfi.o -fopenmp -L/usr/lib/R/lib -lR
+aarch64-linux-gnu-g++ -std=gnu++20 -I"/usr/share/R/include" -DNDEBUG -DTMBAD_FRAMEWORK -I'/usr/local/lib/R/site-library/TMB/include' -I'/usr/local/lib/R/site-library/RcppEigen/include'    -fopenmp -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-monHqu/r-base-4.6.0=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-monHqu/r-base-4.6.0=/usr/src/r-base-4.6.0-4.2604.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c stelfi.cpp -o stelfi.o
+aarch64-linux-gnu-g++ -std=gnu++20 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.6.0-4.2604.0%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -o stelfi.so stelfi.o -fopenmp -L/usr/lib/R/lib -lR
 installing to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-stelfi/00new/stelfi/libs
 ** R
 ** data

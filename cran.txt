@@ -3586,7 +3586,7 @@ cops 1.12-1
 copula 1.1-7
 Copula.Markov 2.9
 Copula.Markov.survival 1.0.0
-Copula.surv 3.0
+Copula.surv 3.1
 copulaboost 0.1.0
 CopulaCenR 1.2.4
 copulaData 0.0-2
@@ -5425,7 +5425,7 @@ EBrank 1.0.0
 eBsc 4.17
 ebTobit 1.0.2
 ebx 1.0.0
-ec50estimator 0.1.0
+ec50estimator 1.0.0
 ecan 0.2.1
 eCAR 0.1.2
 ecb 0.4.3
@@ -7624,7 +7624,7 @@ geoBayes 0.7.6
 geobounds 0.1.1
 geobr 2.0.0
 geocacheR 0.1.0
-geocausal 0.4.0
+geocausal 0.4.1
 geocmeans 0.3.4
 geocodebr 0.6.3
 geocomplexity 0.3.0
@@ -8777,7 +8777,7 @@ hbbr 1.1.2
 hbim 1.1.2
 hbmem 0.3-4
 hbsae 1.2
-hbsaems 0.1.1
+hbsaems 1.0.0
 HBSTM 1.0.2
 HBV.IANIGLA 0.2.6
 hcandersenr 0.2.0

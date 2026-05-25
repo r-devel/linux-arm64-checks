@@ -5981,7 +5981,7 @@ ERPM 0.2.0
 errorist 0.1.3
 errorlocate 1.1.2
 errors 0.4.4
-ErrorTracer 1.0.2
+ErrorTracer 1.1.0
 errum 0.0.4
 ERSA 0.1.4
 eRTG3D 0.7.0
@@ -11691,7 +11691,7 @@ mcmcsae 0.8.0
 mcmcse 1.5-1
 MCMCvis 0.16.5
 McMiso 0.2.0
-mcmodule 1.2.0
+mcmodule 1.3.0
 mcmsector 1.0.2
 mcMST 1.1.1
 mcmsupply 1.1.1
@@ -14010,7 +14010,7 @@ omnibus 1.2.15
 omock 0.6.2
 OmopConstructor 0.3.0
 omopgenerics 1.3.7
-omophub 1.7.0
+omophub 1.8.0
 OmopOnSpark 0.1.0
 OmopSketch 1.0.1
 OmopStudyBuilder 0.1.1
@@ -19283,7 +19283,7 @@ seroreconstruct 1.1.5
 serosv 1.3.0
 SeroTrackR 1.1.0
 serp 0.2.5
-serpstatr 0.4.0
+serpstatr 0.4.1
 serrsBayes 0.5-0
 servr 0.32
 SEset 1.0.1
@@ -21356,7 +21356,7 @@ tabpfn 0.2.0
 tabr 0.5.5
 tabs 0.2.0
 tabshiftr 0.4.1
-tabstats 0.1.0
+tabstats 0.2.0
 tabtibble 0.0.1
 tabula 3.3.2
 tabulapdf 1.0.5-5
@@ -21430,7 +21430,7 @@ taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
 taxnames 0.1.0
-taxodist 0.3.0
+taxodist 0.4.0
 taxonomizr 0.11.1
 taylor 4.0.0
 TaylorRussell 1.2.1
@@ -23332,7 +23332,7 @@ wikilake 0.7.0
 WikipediR 1.7.1
 wikiprofiler 0.1.6
 wikitaxa 0.5.0
-wikiTools 1.2.21
+wikiTools 1.2.24
 wikkitidy 0.1.14
 wilcoxmed 0.0.1
 wildcard 1.1.0

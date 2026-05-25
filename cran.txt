@@ -2993,7 +2993,7 @@ clintrialx 0.1.1
 clinUtils 0.2.2
 cliot 1.0.0
 clipp 1.1.1
-clipr 0.8.0
+clipr 0.8.1
 CliquePercolation 0.4.0
 clisymbols 1.2.0
 clitable 0.1.0
@@ -7143,7 +7143,7 @@ frequentistSSDBinary 0.1.0
 FRESA.CAD 3.4.8
 fresh 0.2.2
 freshr 1.0.2
-FrF2 2.3-4
+FrF2 2.3-5
 FrF2.catlg128 1.2-4
 frheritage 0.1.1
 FRI 1.0
@@ -7865,7 +7865,7 @@ ggHoriPlot 1.0.1
 gghourglass 0.0.3
 ggimage 0.3.5
 ggimg 0.1.2
-ggincerta 0.1.0
+ggincerta 0.2.0
 gginference 0.1.3
 gginnards 0.2.0-2
 ggInterval 0.2.5
@@ -11861,7 +11861,7 @@ messy 0.1.0
 messy.cats 1.0
 messydates 0.5.4
 Mestim 0.2.1
-meta 8.3-0
+meta 8.5-0
 meta.shrinkage 0.1.4
 meta4diag 2.1.1
 MetaAnalyser 0.2.1
@@ -17388,7 +17388,6 @@ ResistorArray 1.0-32
 resizableSplitLayout 0.1.1
 reslife 0.2.1
 resLIK 0.1.2
-reslr 0.1.1
 resmush 1.0.0
 resourcecode 0.5.4
 resourcecodedata 1.0.0

@@ -380,7 +380,7 @@ aiRthermo 1.2.2
 AIscreenR 0.3.2
 aisdk 1.1.0
 aisoph 0.4
-AIUQ 0.5.3
+AIUQ 0.5.4
 ajv 1.0.0
 aka 0.2.0
 akc 0.9.9.3
@@ -6568,7 +6568,7 @@ FDRsamplesize2 0.2.0
 FDRsampsize 1.0
 fdrtool 1.2.18
 fds 1.9
-fdth 1.3-4
+fdth 1.5-0
 fdWasserstein 1.0
 FDX 2.0.2
 FEA 0.0.2
@@ -11524,7 +11524,7 @@ MasterBayes 2.59
 mastif 2.4
 MAT 2.3.2
 MATA 0.7.1
-matahari 0.1.3
+matahari 0.1.4
 matchedcc 0.1.1
 matchFeat 1.0
 MatchGATE 0.0.10

@@ -1222,7 +1222,7 @@ BayesGWQS 0.1.1
 bayesian 1.0.1
 BayesianDEB 0.1.4
 BayesianDisaggregation 0.1.2
-bayesianETAS 2.0.0
+bayesianETAS 2.0.1
 BayesianFitForecast 1.1.0
 Bayesiangammareg 0.1.1
 BayesianInference 0.0.1

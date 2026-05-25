@@ -31,6 +31,10 @@ jobs:
           version <- sub(".tar.gz", "", strsplit(filename, '_')[[1]][2])
           writeLines(version, 'version.txt')
           install.packages(package, dependencies = TRUE)
+
+          # Potentially new dependencies
+          install.packages("remotes")
+          try(remotes::install_deps(filename, TRUE))
         shell: Rscript {0}
 
       - name: Build package

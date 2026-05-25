@@ -1991,7 +1991,7 @@ bp 2.1.1
 bpa 0.1.1
 bpAcc 0.0-2
 bpbounds 0.1.7
-bpca 1.4-3
+bpca 1.5-0
 bpcp 1.5.1
 bpDir 0.1.2
 bpgmm 1.1.1
@@ -7479,7 +7479,7 @@ gdpc 1.1.4
 GDPuc 1.6.1
 gds 0.1.1
 GDSARM 0.1.1
-gdtools 0.5.0
+gdtools 0.5.1
 gdverse 1.6
 gdxdt 0.1.0
 GE 0.5.4

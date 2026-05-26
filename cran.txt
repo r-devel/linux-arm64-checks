@@ -17148,7 +17148,7 @@ REDCapDM 1.0.1
 REDCapExporter 0.3.4
 REDCapR 1.6.0
 REDCapSync 0.1.0
-REDCapTidieR 1.2.4
+REDCapTidieR 1.2.5
 redcas 0.1.1
 redditadsR 0.1.0
 RedditExtractoR 3.0.9

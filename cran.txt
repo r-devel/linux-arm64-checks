@@ -2032,7 +2032,7 @@ brant 0.3-0
 braQCA 1.4.11.27
 brar 0.1
 brassica 1.0.3
-bravo 3.2.2
+bravo 4.0.0
 BrazilCrime 0.3.0
 BrazilDataAPI 0.2.0
 BrazilMet 0.4.0
@@ -10112,7 +10112,7 @@ jenga 1.3.0
 jentre 0.1.0
 jetpack 0.5.5
 jetty 0.2.2
-jewel 2.0.2
+jewel 2.0.3
 jfa 0.7.4
 JFE 2.5.11
 JFM 1.0.1
@@ -10206,7 +10206,7 @@ jSDM 0.2.7
 JSDNE 4.6
 jsdtools 0.1.0
 jshintr 0.1.0
-jskm 0.6.2
+jskm 0.6.3
 JSM 1.0.2
 JSmediation 0.2.3
 jsmodule 2.0.1
@@ -12186,7 +12186,7 @@ minerva 1.5.10
 minesweeper 1.0.1
 mineSweepR 0.1.1
 minFactorial 0.1.0
-mini007 0.3.0
+mini007 0.4.0
 minic 1.0.3
 miniCRAN 0.3.2
 minidown 0.4.0
@@ -12721,7 +12721,7 @@ mousetrap 3.2.3
 move 4.2.7
 move2 0.5.0
 movecost 2.2
-movedesign 0.3.2
+movedesign 0.3.3
 moveEZ 1.2.0
 movegroup 2024.03.05
 moveHMM 1.12
@@ -15445,7 +15445,7 @@ polySegratio 0.2-6
 polySegratioMM 0.6-5
 PolyTree 0.0.1
 polywog 0.4-2
-POMADE 0.2.0
+POMADE 0.2.1
 POMaSPU 1.0.0
 pomcheckr 0.1.1
 pomdp 1.2.5
@@ -16148,7 +16148,7 @@ qcc 2.7
 qccrs 0.1.0
 QCEWAS 1.2-3
 QCGWAS 1.0-9
-qch 2.1.2
+qch 2.1.3
 qcluster 2.0.0
 qcpm 0.4
 qcQpcr 1.5
@@ -17266,8 +17266,8 @@ reliabilitydiag 0.2.1
 ReliabilityTheory 0.3.1
 reliacoef 1.0.1
 ReliaGrowR 0.7
-ReliaLearnR 0.3
-ReliaPlotR 0.5
+ReliaLearnR 0.5
+ReliaPlotR 0.6
 reliaR 0.2
 ReliaShiny 0.5
 relimp 1.0-5
@@ -17623,6 +17623,7 @@ ricu 0.6.3
 rid 0.0.1
 RIdeogram 0.2.2
 ridge 3.3
+ridgeBART 1.0.2
 ridgetorus 1.0.3
 ridgregextra 0.1.1
 ridigbio 0.4.1
@@ -19096,7 +19097,7 @@ SeaVal 1.2.0
 SeBR 1.1.0
 SECFISH 0.1.7
 SECP 0.1.5
-secr 5.4.2
+secr 5.4.3
 secrdesign 2.10.1
 secret 1.1.0
 secretbase 1.2.2
@@ -21965,7 +21966,7 @@ tkRplotR 0.1.7
 tLagInterim 1.1
 tLagPropOdds 1.10
 tlars 1.0.1
-TLCAR 0.1.0
+TLCAR 0.1.1
 tlda 0.1.0
 tldr 0.4.0
 tldrDocs 0.0.1
@@ -23138,7 +23139,7 @@ WAnova 0.4.0
 waou 0.1.0
 warabandi 0.1.0
 warbleR 1.1.37
-WARDEN 2.0.2
+WARDEN 2.0.3
 WAreg 0.1.0
 warehouseTools 0.1.4
 wARMASVp 0.2.0

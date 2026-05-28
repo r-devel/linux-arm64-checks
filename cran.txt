@@ -874,7 +874,7 @@ atakrig 0.9.8.2
 ATbounds 0.1.1
 ATE.ERROR 1.0.0
 AteMeVs 0.1.0
-Athlytics 0.1.2
+Athlytics 1.0.5
 atime 2026.4.2
 atlas 1.0.0
 atlasapprox 0.1.0

@@ -5798,7 +5798,7 @@ engression 0.1.6
 EngrExpt 0.1-8
 enhancer 1.1.1
 ENMeval 2.0.5.2
-enmpa 0.2.3
+enmpa 0.2.4
 enmSdmX 1.2.12
 ENMTools 1.1.5
 enpls 6.1.1
@@ -6038,7 +6038,7 @@ estimraw 1.0.0
 estmeansd 1.0.1
 estprod 1.2
 esvis 0.3.1
-esviz 0.0.2
+esviz 0.0.3
 et.nwfva 0.2.0
 etable 1.3.1
 ETAS 0.7.2
@@ -18746,7 +18746,7 @@ sameplot 0.1.0
 SAMGEP 0.1.0-1
 samon 4.0.2
 sampbias 2.0.0
-sampcompR 0.3.2
+sampcompR 0.3.3
 sampledatasets 0.1.0
 sampler 0.2.4
 sampleSelection 1.2-14

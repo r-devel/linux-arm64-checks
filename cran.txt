@@ -1175,7 +1175,7 @@ batchtools 0.9.18
 bate 0.1.0
 batman 0.1.0
 batsch 0.1.1
-BATSS 1.1.1
+BATSS 1.2.0
 batteryreduction 0.1.1
 BAwiR 1.5
 bayclumpr 0.1.0
@@ -2898,6 +2898,7 @@ ckanr 0.7.0
 CKAT 0.1.0
 CKLRT 0.2.3
 Ckmeans.1d.dp 4.3.5
+CKNNRLD 0.1.2
 CLA 0.96-3
 Claddis 0.7.0
 cladoRcpp 0.15.1
@@ -3947,7 +3948,7 @@ cryptotrackr 1.3.3
 cryptoverse 0.1.0
 cryptowatchR 0.2.0
 CryptRndTest 1.2.7
-crystract 1.0.0
+crystract 1.0.1
 csa 0.7.1
 csalert 2024.6.24
 csampling 1.2-4.1
@@ -4379,6 +4380,7 @@ DCPO 0.5.3
 dcsvm 0.0.1
 dcTensor 1.3.1
 dCUR 1.0.2
+Dcurvature 0.0.3
 dcurver 0.9.3
 dcurves 0.5.1
 dcvar 0.2.0
@@ -6084,6 +6086,7 @@ eva 0.2.6
 eva3dm 1.20
 evabic 0.1.4
 Evacluster 0.1.0
+evacpath 0.1.0
 evalHTE 0.1.1
 evalITR 1.0.0
 evalR 0.0.1
@@ -10579,7 +10582,7 @@ LAIr 0.3.0
 lakefetch 0.1.3
 LakeMetabolizer 1.5.6
 lakemorpho 1.3.2
-lakhesis 1.1
+lakhesis 1.1.2
 LAM 0.7-22
 LaMa 2.1.1
 lambda.r 1.2.4
@@ -17406,7 +17409,7 @@ reservoir 1.1.5
 reservoirnet 0.3.0
 reservr 0.0.3
 RESET 1.0.0
-resevol 0.4.0.2
+resevol 0.4.0.4
 reshape 0.8.10
 reshape2 1.4.5
 RESI 1.3.2
@@ -23690,7 +23693,7 @@ yyjsonr 0.1.22
 Z10 0.1.0
 z22 1.1.4
 zalpha 0.3.0
-zarr 0.3.0
+zarr 0.4.0
 zCompositions 1.6.1
 zctaCrosswalk 2.0.0
 zcurve 2.4.6

@@ -2081,7 +2081,7 @@ brms 2.23.0
 brms.mmrm 1.1.1
 brmsmargins 0.3.0
 brnn 0.9.4
-broadcast 0.1.8
+broadcast 0.1.9
 Brobdingnag 1.2-9
 BrokenAdaptiveRidge 1.0.2
 brokenstick 2.7.0
@@ -3404,7 +3404,7 @@ compositional.mle 2.0.0
 CompositionalClust 1.2
 CompositionalHDDA 1.0
 CompositionalML 1.0
-CompositionalNAimp 1.0
+CompositionalNAimp 1.1
 CompositionalRF 1.6
 CompositionalSR 1.4
 compositions 2.0-9
@@ -6035,7 +6035,7 @@ essentialstools 0.1.4
 essHist 1.2.2
 essurvey 1.0.8
 estadistica 1.2.2
-estar 1.0-1
+estar 2.0-0
 estatapi 0.4.0
 estats 1.1
 EstCRM 1.6
@@ -6079,7 +6079,7 @@ Euclimatch 1.0.2
 eudract 1.1.1
 eufmdis.adapt 0.1.0
 EUfootball 0.0.1
-eulerr 7.1.0
+eulerr 8.0.0
 eummd 0.2.0
 eunis.habitats 0.1.0
 Eunomia 2.1.0
@@ -6903,7 +6903,7 @@ flowcluster 0.2.1
 FlowerMate 1.1
 flowmapblue 0.0.2
 flowmapper 0.1.4
-flownet 0.2.2
+flownet 0.3.0
 FlowRegEnvCost 0.1.1
 FlowScreen 2.1
 flowTraceR 0.1.1
@@ -8054,7 +8054,7 @@ ggWebGL 0.4.0
 ggwidth 0.1.1
 ggwordcloud 0.6.2
 ggx 0.1.1
-gh 1.5.0
+gh 1.6.0
 ghapps 1.1.1
 Ghat 0.2.0
 ghclass 0.4.0
@@ -10567,7 +10567,7 @@ labNorm 1.0.1
 LabourMarketAreas 3.4
 LabRS 0.2.1
 labsimplex 0.1.2
-labstatR 1.0.13
+labstatR 1.0.14
 labstats 1.0.1
 LABTNSCPSS 1.0.2
 lacm 0.1.2
@@ -10850,7 +10850,7 @@ libbib 1.6.4
 libcoin 1.0-12
 libdeflate 1.25-0
 libgeos 3.11.1-3
-libimath 3.2.2-0
+libimath 3.2.2-1
 libipldr 0.1.1
 LiblineaR 2.10-24
 libopenexr 3.4.4-2
@@ -11246,7 +11246,7 @@ LSDsensitivity 1.3.2
 LSE 1.0.0
 LSEbootLS 0.1.0
 lsei 1.3-1
-lsirm12pl 2.0.1
+lsirm12pl 2.0.2
 lsl 0.5.6
 lslx 0.6.11
 lsm 0.2.1.5
@@ -11482,7 +11482,7 @@ maps 3.4.3
 mapsapi 0.5.4
 mapscanner 0.1.1
 mapSenegal 0.1.1
-mapsf 1.2.0
+mapsf 1.2.1
 mapSpain 1.1.0
 mapsPERU 2.0.1
 mapsRinteractive 2.0.1
@@ -12016,7 +12016,7 @@ meteR 1.2
 metevalue 0.2.4
 MethComp 1.30.2
 methcon5 0.1.0
-MethEvolSIM 0.2.1
+MethEvolSIM 0.3.0
 methFuse 1.1.0
 MethodCompare 1.1.0
 MethodOpt 1.0.0
@@ -13208,7 +13208,7 @@ mvSUSY 0.1.0
 MVT 0.3-81
 MVTests 2.3.1
 mvtmeta 1.1
-mvtnorm 1.3-7
+mvtnorm 1.4-0
 mvtsplot 1.0-5
 mvtweedie 1.2.0
 mvvg 0.1.0
@@ -14914,7 +14914,7 @@ peramo 0.1.5
 perARMA 1.7
 Perc 0.1.6
 perccalc 1.0.5
-percentiles 0.2.3
+percentiles 0.3.0
 PerFit 1.4.7
 PerfMeas 1.2.5
 performance 0.17.0
@@ -20214,7 +20214,7 @@ sourcetools 0.1.7-2
 sourcoise 1.1.0
 SouthParkRshiny 1.0.0
 sov 1.0.3
-sox 1.2.2
+sox 1.2.3
 SoyNAM 1.6.2
 SoyURT 1.0.0
 sp 2.2-1
@@ -20241,7 +20241,7 @@ SpaDES 2.0.11
 SpaDES.core 3.1.2
 SpaDES.tools 2.1.1
 spagmix 0.4-2
-spam 2.11-3
+spam 2.11-4
 spam64 2.10-0
 spaMM 4.6.65
 spanish 0.4.2
@@ -20362,7 +20362,7 @@ SpatialVx 1.0-3
 spatialwarnings 3.1.1
 spatialwidget 0.2.6
 SpatMCA 1.0.7
-SpaTopic 1.2.0
+SpaTopic 1.3.1
 SpatPCA 1.3.8
 spatPomp 1.1.0
 SpATS 1.0-20
@@ -20707,7 +20707,7 @@ SSsimple 0.6.6
 sssvcqr 0.0.4
 Sstack 1.0.1
 sstn 1.0.1
-sstvars 1.2.3
+sstvars 1.2.4
 ssutil 1.0.0
 SSVS 2.2.0
 ssw 0.2.1

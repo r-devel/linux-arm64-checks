@@ -3675,7 +3675,7 @@ corrViz 0.1.0
 corset 0.1-5
 corTest 1.0.7
 corTESTsrd 1.0-0
-corteza 0.6.3
+corteza 0.6.9
 corto 1.2.4
 CortSineScore 0.1.0
 corx 1.0.7.3
@@ -6606,6 +6606,7 @@ features 2025.1
 FeatureTerminatoR 1.0.0
 featurizer 0.2
 fec16 0.1.6
+fechner 1.0-4
 fect 2.4.1
 FedData 4.3.0
 federalregister 0.2.0
@@ -8723,7 +8724,7 @@ h3jsr 1.3.1
 h3lib 0.1.4
 h3o 0.3.0
 h3r 0.1.2
-h3sdm 0.1.2
+h3sdm 0.1.3
 h5lite 2.1.1.1
 haarfisz 4.5.4
 hablar 0.3.2
@@ -16322,7 +16323,7 @@ qualpalr 2.0.0
 qualtRics 3.2.2
 qualV 0.3-5
 qualvar 0.2.0
-QUALYPSO 3.0
+QUALYPSO 3.1
 QuanDA 1.0.0
 quantbayes 0.1.0
 QuantBondCurves 0.3.2

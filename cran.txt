@@ -95,6 +95,7 @@ acopula 0.9.4
 acoRn 0.1.0
 acro 0.1.7
 acroname 0.1.0
+acsmoe 0.1.0
 acss 0.3-2
 acss.data 1.2
 ACSWR 1.0
@@ -1682,6 +1683,7 @@ BioGSP 1.0.0
 Bioi 0.2.10
 bioimagetools 1.1.9
 bioinactivation 1.3.1
+BioIndex 0.6.4
 BioInsight 0.3.1
 bioLeak 0.3.8
 biolink 0.1.8
@@ -2976,6 +2978,7 @@ climetrics 1.0-15
 climextRemes 0.3.1
 ClimInd 0.1-3
 ClimMobTools 1.8.2
+climniche 0.0.1
 climodr 1.0.0
 ClimProjDiags 0.3.5
 climwin 1.2.33
@@ -3802,7 +3805,7 @@ CPMCGLM 1.2
 CpmERCCutoff 1.0.0
 cpmr 0.1.1
 CPNCoverageAnalysis 1.1.0
-cpop 1.0.8
+cpop 1.0.9
 CPoptim 0.1.0
 CPP 0.1.0
 cpp11 0.5.5
@@ -5688,6 +5691,7 @@ elfgen 2.3.5
 elgbd 0.9.0
 elhmc 1.2.1
 ELIC 0.1.0
+ElicitationWizard 0.1.0
 ELISAtools 0.1.8
 elisr 0.1.1
 eList 0.2.0
@@ -5969,6 +5973,7 @@ EQUIVNONINF 1.0.2
 equivUMP 0.1.1
 ER 1.1.2
 era 0.5.0
+EraBrewer 0.2.0
 erah 2.2.0
 eratosthenes 0.0.9
 erboost 1.5
@@ -7643,7 +7648,7 @@ geoAr 1.2.2
 geoarrow 0.4.2
 geoarrowWidget 0.1.0
 geoBayes 0.7.6
-geobounds 0.1.1
+geobounds 0.1.2
 geobr 2.0.0
 geocacheR 0.1.0
 geocausal 0.4.1
@@ -9676,6 +9681,7 @@ ineq 0.2-13
 ineq.2d 0.1.0
 ineqJD 1.0
 inequality 0.1.0
+inequantiles 0.1.0
 inet 0.1.0
 INetTool 0.1.2
 iNEXT 3.0.2
@@ -10610,6 +10616,7 @@ landscapeR 1.3.1
 landsepi 1.5.3
 lang 0.1.0
 Langevin 1.3.3
+LangevinFlow 0.1.0
 langevitour 0.8.1
 languagelayeR 1.2.4
 languageR 1.6
@@ -11334,8 +11341,6 @@ mactivate 0.6.6
 maczic 1.1.0
 MAd 0.8-3
 mada 0.5.12
-MadanText 0.1.0
-MadanTextNetwork 0.1.0
 maddison 0.2
 MaddisonData 1.1.0
 madgrad 0.2.0
@@ -14018,6 +14023,7 @@ ohun 1.0.4
 ohvbd 1.0.1
 oii 1.0.2.1
 ojsr 0.1.5
+okBATHTUB 0.1.10
 okcolors 0.1.0
 OkNNE 1.0.1
 okxAPI 0.1.1
@@ -14940,7 +14946,6 @@ PerRegMod 4.4.3
 perry 0.3.1
 perryExamples 0.1.1
 persDx 0.5.0
-PersianStemmer 1.0
 persistence 1.0.0
 PersomicsArray 1.0
 personalized 0.2.8
@@ -16783,7 +16788,6 @@ rbounds 2.2
 RBPcurve 1.3
 rbranding 0.1.1
 rbreak 1.0.7
-rbrsa 0.2.0
 rbscCI 0.1.1
 rbtc 0.1-7
 RBtest 1.1
@@ -17431,7 +17435,7 @@ resizableSplitLayout 0.1.1
 reslife 0.2.1
 resLIK 0.1.2
 reslr 0.2.0
-resmush 1.0.0
+resmush 1.0.1
 resourcecode 0.5.4
 resourcecodedata 1.0.0
 resourcer 1.5.1
@@ -18402,7 +18406,6 @@ rsf 0.3.0
 rSFA 1.5
 Rsfar 0.0.1
 Rsgf 1.0.0
-RSGHB 1.2.2
 rshift 3.1.2
 rsi 0.3.3
 rsides 0.1
@@ -18701,6 +18704,7 @@ saber 0.7.1
 sabre 0.4.3
 saccadr 0.1.3
 SACCR 3.4
+saCI 0.1.0
 sacRebleu 0.2.0
 sad 0.1.3
 SADEG 1.0.0
@@ -20887,7 +20891,7 @@ StereoMorph 1.6.7
 stevedata 1.8.0
 stevedore 0.9.6
 stevemisc 1.9.0
-stevetemplates 1.1.0
+stevetemplates 1.3.0
 stevethemes 0.1.0
 stfit 0.99.9
 STFTS 0.1.0

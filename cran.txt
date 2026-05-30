@@ -6616,7 +6616,7 @@ FeatureTerminatoR 1.0.0
 featurizer 0.2
 fec16 0.1.6
 fechner 1.0-4
-fect 2.4.1
+fect 2.4.5
 FedData 4.3.0
 federalregister 0.2.0
 FedIRT 1.1.0
@@ -17049,7 +17049,7 @@ RDML 1.1
 rdmulti 2.0.0
 rdnb 0.1-5
 RDnp 1.3
-rdocdump 0.2.0
+rdocdump 0.3.0
 rdomains 0.4.0
 RDota2 0.1.6
 rdoxygen 1.0.0
@@ -17551,7 +17551,7 @@ rfPermute 2.5.5
 RFplus 1.5-4
 RFPM 1.1
 Rfractran 1.0.1
-rfriend 3.0.0
+rfriend 3.1.0
 rFSA 0.9.6
 Rfuzzycoco 0.1.0
 rfVarImpOOB 1.0.3
@@ -23378,7 +23378,7 @@ WhatIf 1.5-11
 whatifbandit 0.3.0
 WhatsR 1.0.6
 whatthreewords 0.1.3
-wheatmap 0.2.0
+wheatmap 0.2.4
 when 1.0.0
 whep 0.3.0
 where 1.0.0

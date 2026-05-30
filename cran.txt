@@ -2649,7 +2649,7 @@ CFF 1.0
 cffdrs 1.9.2
 cffr 1.4.0
 cfid 0.1.8
-CFilt 1.0.0
+CFilt 1.0.1
 CFM 0.8.0
 cfmortality 0.3.0
 CFO 2.2.0

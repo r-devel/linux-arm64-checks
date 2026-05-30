@@ -489,7 +489,7 @@ AMDconfigurations 0.1.0
 Amelia 1.8.3
 amelie 0.2.1
 amen 1.4.5
-ameras 0.3.0
+ameras 0.4.0
 amerika 0.1.1
 AmesHousing 0.0.4
 ami 0.2.1
@@ -3468,7 +3468,7 @@ confintr 1.0.2
 confintROB 1.1-1
 conflicted 1.2.0
 ConFluxPro 1.3.1
-ConfMatrix 0.2.0
+ConfMatrix 0.2.1
 confMeta 0.1.0
 conforest 2.0.1
 conformalbayes 0.1.4
@@ -5138,7 +5138,7 @@ drcte 1.0.65
 drda 2.0.5
 DrData 0.2.0
 DRDID 1.2.3
-dream 1.1.1
+dream 2.1.1
 dreamer 3.2.0
 dreamerr 1.5.0
 DREGAR 0.1.4.0
@@ -5816,7 +5816,7 @@ enmpa 0.2.4
 enmSdmX 1.2.12
 ENMTools 1.1.5
 enpls 6.1.1
-EnrichIntersect 0.7
+EnrichIntersect 1.0
 enrichit 0.1.4
 enrichR 3.4
 enrichwith 0.5.0
@@ -7868,7 +7868,7 @@ ggflowchart 1.0.0
 ggfocus 1.0.1
 ggfootball 0.3.0
 ggforce 0.5.0
-ggforestplotR 0.2.0
+ggforestplotR 0.2.1
 ggformula 1.0.1
 ggfortify 0.4.19
 ggfoundry 0.3.1
@@ -18035,7 +18035,7 @@ robsurvey 0.7-3
 RoBTT 1.3.1
 robumeta 2.1
 robust 0.7-5
-robust.prioritizr 1.0.3
+robust.prioritizr 1.1.0
 robust2sls 0.2.3
 RobustAdaptiveDecomposition 0.1.0
 RobustAFT 1.4-7
@@ -18856,7 +18856,7 @@ SASmixed 1.0-5
 sasquatch 0.1.3
 sasr 0.1.5
 sass 0.4.10
-sassy 1.3.0
+sassy 1.3.2
 satdad 1.1
 sate 3.1.1
 satellite 1.0.6
@@ -22288,7 +22288,7 @@ treesitter.c 0.0.4.2
 treesitter.r 1.2.0
 treesliceR 1.1.0
 treespace 1.1.4.4
-treeSS 0.1.44
+treeSS 0.1.50
 treestartr 0.1.0
 treestats 1.70.11
 treestructure 0.7.0

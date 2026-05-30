@@ -14059,7 +14059,7 @@ OmicsPrepR 0.1.1
 OmicsQC 1.1.1
 omicsTools 1.1.7
 omicwas 0.8.0
-Omisc 0.1.5
+Omisc 0.2.0
 omnibus 1.2.15
 omock 0.6.2
 OmopConstructor 0.3.0
@@ -14710,8 +14710,8 @@ paws.customer.engagement 0.10.0
 paws.database 0.9.0
 paws.developer.tools 0.10.0
 paws.end.user.computing 0.10.0
-paws.machine.learning 0.9.0
-paws.management 0.9.0
+paws.machine.learning 0.10.0
+paws.management 0.10.0
 paws.networking 0.10.0
 paws.security.identity 0.9.0
 paws.storage 0.10.0

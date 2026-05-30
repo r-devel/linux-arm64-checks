@@ -3724,6 +3724,7 @@ countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
 couplr 1.4.1
+courieR 0.2.0
 covadap 1.0.1
 covafillr 0.4.4
 covalchemy 1.0.0
@@ -8510,6 +8511,7 @@ gridBase 0.4-7
 gridBezier 1.1-1
 GRIDCOPULA 1.1.1
 gridDebug 0.5-1
+griddy 0.1.0
 gridExtra 2.3
 gridGeometry 0.4-0
 gridGraphics 0.5-1
@@ -21591,6 +21593,7 @@ tempodisco 2.1.0
 Temporal 0.3.0.2
 TemporalForest 0.1.4
 TemporalGSSA 1.0.1
+TemporalHazard 1.0.3
 tempR 0.10.1.1
 TempStable 0.2.2
 tempted 0.1.1

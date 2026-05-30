@@ -383,7 +383,7 @@ airship 1.4.3
 airt 0.2.2
 aiRthermo 1.2.2
 AIscreenR 0.3.2
-aisdk 1.4.10
+aisdk 1.4.11
 aisoph 0.4
 AIUQ 0.5.4
 ajv 1.0.0
@@ -2669,7 +2669,7 @@ cglasso 2.0.7
 cgmanalysis 3.2.0
 CGManalyzer 1.3.1
 cgmguru 1.0.1
-CGMissingDataR 0.0.1
+CGMissingDataR 0.0.2
 cgmquantify 0.1.0
 CGNM 0.9.3
 CGP 2.1-1
@@ -3084,7 +3084,7 @@ ClustImpute 0.2.4
 clustlearn 1.0.0
 ClustMC 0.1.2
 clustMD 1.2.2
-clustMixType 0.4-2
+clustMixType 0.5-1
 clustNet 1.2.0
 ClustOfVar 1.2
 clustord 2.0.1
@@ -9868,6 +9868,7 @@ iNZightTools 2.0.3
 iNZightTS 2.0.4
 io 0.3.2
 ioanalysis 0.3.4
+IOBR 2.2.3
 IOLS 0.1.4
 ioncopy 2.2.2
 ionet 0.2.2
@@ -19881,7 +19882,7 @@ sits 1.5.4
 sivs 0.2.11
 SixSigma 0.11.1
 sixtyfour 0.2.0
-sizeMat 1.1.2
+sizeMat 1.2.0
 SiZer 0.1-8
 sjdbc 1.6.1
 sjlabelled 1.2.0

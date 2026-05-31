@@ -567,7 +567,7 @@ anominate 0.7
 anomo 1.3.2
 ANOPA 0.2.3
 ANOVAIREVA 0.1.0
-anovapowersim 1.0.0
+anovapowersim 1.1.0
 ANOVAShiny 0.1.0
 ANOVAShiny2 0.1.0
 anovir 0.1.0
@@ -2797,7 +2797,7 @@ choroplethrAdmin1 1.1.1
 choroplethrMaps 1.0.1
 chouca 0.1.99
 christmas 1.4.1
-chromConverter 0.7.5
+chromConverter 0.9.0
 chromer 0.10
 chromoMap 4.1.1
 chromote 0.5.1
@@ -11606,6 +11606,7 @@ matRiks 0.1.5
 matrisk 0.1.0
 Matrix 1.7-5
 matrixcalc 1.0-6
+matrixCorr 0.12.2
 MatrixCorrelation 0.10.1
 matrixcut 0.0.1
 matrixdist 1.1.9
@@ -14723,7 +14724,7 @@ pbbd 1.0.0
 pbcc 0.0.7
 PBD 1.4
 pbdMPI 0.5-5
-pbdSLAP 0.3-7
+pbdSLAP 0.3-8
 pbdZMQ 0.3-14
 PBIBD 1.4
 PBImisc 1.0
@@ -14794,7 +14795,7 @@ pcpr 1.0.0
 PCPS 1.0.8
 PCRA 1.2.1
 PCRedux 1.2-1
-pcreg 0.1.0
+pcreg 0.1.1
 PCS 1.3
 pcse 1.9.1.1
 PCSinR 0.2.0
@@ -15774,7 +15775,7 @@ pricelevels 1.4.0
 priceR 1.0.4
 pricesensitivitymeter 1.3.3
 prider 1.0.6
-pridit 1.1.0
+pridit 1.1.1
 prim 1.0.23
 PRIMAL 1.0.3
 primarycensored 1.4.0
@@ -23598,7 +23599,7 @@ XGeoRTR 0.7.0
 xgrove 0.1-15
 xgxr 1.1.2
 xhaz 2.1.0
-xiacf 0.6.0
+xiacf 0.6.1
 XICOR 0.4.1
 XiMpLe 0.11-3
 xkcd 0.1.0

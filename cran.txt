@@ -21850,7 +21850,7 @@ tidyEmoji 0.1.1
 tidyestimate 1.1.1
 tidyextreme 1.0.0
 tidyfast 0.4.0
-tidyfinance 0.5.0
+tidyfinance 0.6.0
 tidyfit 0.7.4
 tidyfst 1.8.4
 tidyft 0.9.20

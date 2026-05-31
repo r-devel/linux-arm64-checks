@@ -6,7 +6,7 @@
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-05-24 02:41:31 UTC
+* current time: 2026-05-31 03:00:34 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘hibayes/DESCRIPTION’ ... OK
 * this is package ‘hibayes’ version ‘3.1.0’
@@ -22,7 +22,7 @@
 * checking whether package ‘hibayes’ can be installed ... OK
 * used C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
 * checking installed package size ... INFO
-  installed size is 17.9Mb
+  installed size is 17.8Mb
   sub-directories of 1Mb or more:
     libs  17.4Mb
 * checking package directory ... OK

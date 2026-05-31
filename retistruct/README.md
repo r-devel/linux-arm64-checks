@@ -1,6 +1,6 @@
 # retistruct 0.8.1
 
-Latest run: 2026-05-24: https://github.com/r-devel/linux-arm64-checks/actions/runs/26350004762
+Latest run: 2026-05-31: https://github.com/r-devel/linux-arm64-checks/actions/runs/26701749434
 
 ```
 Package: retistruct

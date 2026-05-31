@@ -1,6 +1,6 @@
 # pcreg 0.1.0
 
-Latest run: 2026-05-29: https://github.com/r-devel/linux-arm64-checks/actions/runs/26632286205
+Latest run: 2026-05-31: https://github.com/r-devel/linux-arm64-checks/actions/runs/26701653647
 
 ```
 Package: pcreg

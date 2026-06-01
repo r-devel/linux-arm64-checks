@@ -5115,7 +5115,7 @@ DPTM 3.0.2
 DQA 0.1.1
 DQAgui 0.2.6
 DQAstats 0.3.9
-dqcheckr 0.1.2
+dqcheckr 0.2.0
 dqrng 0.4.1
 dQTG.seq 1.0.2
 dr 3.0.11
@@ -8518,7 +8518,7 @@ gridGeometry 0.4-0
 gridGraphics 0.5-1
 gridGraphviz 0.3-2
 gridify 0.7.7
-gridmicrotex 0.0.3
+gridmicrotex 0.0.4
 GridOnClusters 0.3.2
 gridOT 1.0.2
 gridpattern 1.3.1
@@ -14698,7 +14698,7 @@ Patterns 1.7
 PAutilities 1.3.0
 pavo 2.9.0
 pawacc 1.2.4
-paws 0.9.0
+paws 0.10.0
 paws.analytics 0.10.0
 paws.application.integration 0.10.0
 paws.common 0.8.9
@@ -16385,7 +16385,7 @@ quasar 0.2.1
 quaxnat 1.0.1
 QuClu 1.0.1
 queryBuilder 0.1.0
-querychat 0.2.0
+querychat 0.3.0
 queryparser 0.3.2
 queryup 1.0.5
 quest 0.2.1
@@ -22978,7 +22978,7 @@ vennplot 1.0
 venny 0.0.3
 verbaliseR 0.1
 verbalisr 0.7.2
-verdadecu 1.0.1
+verdadecu 1.0.2
 verdata 1.0.2
 verhoeff 0.4.0
 verification 1.45

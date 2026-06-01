@@ -3634,6 +3634,7 @@ corHMM 2.8
 corkscrew 1.1
 corlink 1.0.0
 CorMID 0.3.1
+corMLPE 0.1.0
 corncob 0.4.2
 cornet 1.0.0
 coro 1.1.0
@@ -5216,7 +5217,7 @@ dsos 0.1.2
 dsp 1.4.0
 dspline 1.0.4
 DSpoty 0.1.0
-dsROCrate 0.0.2
+dsROCrate 0.1.0
 dsrTest 1.0.0
 DSSAT 0.0.9
 dssd 1.0.3
@@ -5474,7 +5475,7 @@ echos 1.0.3
 ecic 0.0.4
 ecipex 1.1.1
 eclipseplot 0.9.7
-eClosure 0.9.4
+eClosure 0.9.5
 ecm 7.2.0
 ECMLE 0.1.0
 ecmwfr 2.0.3
@@ -6391,7 +6392,7 @@ fam.recrisk 0.1
 FAMetA 0.1.7
 FamEvent 3.3
 familial 1.0.7
-familiar 2.0.1
+familiar 2.0.2
 Familias 2.6.4
 Families 2.0.2
 famish 0.2.0
@@ -8810,7 +8811,7 @@ hbbr 1.1.2
 hbim 1.1.2
 hbmem 0.3-4
 hbsae 1.2
-hbsaems 1.0.0
+hbsaems 1.1.0
 HBSTM 1.0.2
 HBV.IANIGLA 0.2.6
 hcandersenr 0.2.0
@@ -8956,7 +8957,7 @@ heterometa 0.5
 heteromixgm 2.0.2
 hetGP 1.1.9
 HEtools 1.0.0
-HetSeq 0.1.0
+HetSeq 0.1.1
 hetsurr 1.0
 hetsurrSurv 1.0
 hett 0.3-3
@@ -11664,7 +11665,7 @@ MBBEFDLite 1.0.0
 MBC 0.10-7
 MBCbook 0.1.2
 mbend 1.3.1
-MBESS 4.9.42
+MBESS 5.0.0
 mbest 0.6.1
 mbg 1.2.0
 MBHdesign 2.3.15
@@ -12126,6 +12127,7 @@ micEconCES 1.0-2
 micEconDistRay 0.1-4
 micEconIndex 0.1-8
 micEconSNQP 0.6-10
+miceDRF 0.1.0
 miceFast 0.9.1
 micemd 1.10.1
 micer 0.2.1
@@ -12253,7 +12255,7 @@ minty 0.0.6
 mintyr 0.1.2
 mipfp 3.2.1
 mipplot 0.3.1
-mirai 2.7.0
+mirai 2.7.1
 MIRDD 0.2.4
 miRecSurv 1.0.2
 MIRES 0.1.1
@@ -12290,7 +12292,7 @@ missDiag 1.0.1
 missForest 1.6.1
 missForestPredict 1.0.1
 MissingHandle 0.1.1
-missingHE 1.6.0
+missingHE 1.6.1
 MissingPlotLSD 0.1.0
 MissingPlotRBD 1.1.0
 missMDA 1.21
@@ -12639,7 +12641,7 @@ modMax 1.1
 modnets 0.9.0
 modopt.matlab 1.0-2
 modQR 0.1.3
-modsem 1.0.19
+modsem 1.0.20
 ModStatR 1.4.2
 ModTools 0.9.13
 modTurPoint 0.1.0
@@ -13688,7 +13690,7 @@ nntmvn 1.3.0
 NO.PING.PONG 0.1.9.1
 noaa 1.0.0
 noah 0.1.0
-NobBS 1.1.0
+NobBS 1.1.1
 noctua 2.6.3
 nodbi 0.14.0
 node2vec 0.1.0
@@ -14703,7 +14705,7 @@ paws.common 0.8.9
 paws.compute 0.10.0
 paws.cost.management 0.10.0
 paws.customer.engagement 0.10.0
-paws.database 0.9.0
+paws.database 0.10.0
 paws.developer.tools 0.10.0
 paws.end.user.computing 0.10.0
 paws.machine.learning 0.10.0
@@ -15222,7 +15224,7 @@ pkgndep 2.0.0
 pkgnet 0.6.0
 pkgnews 0.0.2
 pkgsearch 3.1.5
-pkgstats 0.2.2
+pkgstats 0.2.3
 pkgverse 0.0.1
 PKI 0.1-15
 PKLMtest 1.0.1
@@ -17020,6 +17022,7 @@ rddtools 2.0.2
 rde 0.1.1
 rDEA 1.2-8
 rdecision 1.3.0
+rDeckgl 0.1.0
 rDecode 0.1.0
 rdeps 0.4
 rdflib 0.2.9
@@ -18410,6 +18413,7 @@ rshift 3.1.2
 rsi 0.3.3
 rsides 0.1
 RSiena 1.6.6
+RsimdDispatch 0.1.1
 rsimsum 0.13.1
 rsinaica 1.1.1
 rsixel 0.0.4
@@ -21093,6 +21097,7 @@ suncalc 0.5.1
 SunCalcMeeus 0.1.3
 Sunclarco 1.0.0
 sundialr 0.1.7
+SUNGEO 1.4.0
 SunsVoc 0.1.2
 suntools 1.1.0
 supabaseR 1.0.0
@@ -21511,6 +21516,7 @@ TBox 0.2.2
 TBRDist 2.0.0
 tbrf 0.1.7
 TCA 1.2.1
+tceper 0.1.4
 tcftt 0.1.0
 TCGAretriever 1.10.3
 tcgaViz 1.0.2
@@ -23249,7 +23255,7 @@ wavethresh 4.7.3
 wavScalogram 1.1.3
 waydown 1.1.0
 WayFindR 0.7.0
-Waypoint 1.2.1
+Waypoint 1.3.0
 waysign 0.1.1
 waywiser 0.6.3
 wbacon 0.6-3

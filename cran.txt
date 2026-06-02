@@ -8000,7 +8000,7 @@ ggseg.formats 0.0.2
 ggseg.meshes 0.0.1
 ggseg3d 2.1.1
 ggsegmentedtotalbar 0.1.0
-ggsem 1.0.0
+ggsem 1.0.0.1
 ggseqlogo 0.2.2
 ggseqplot 0.8.9
 ggshadow 0.0.5
@@ -12559,7 +12559,7 @@ MNARclust 1.1.0
 MNB 1.2.0
 mnda 1.0.9
 mnet 0.1.4
-mnirs 0.6.4
+mnirs 0.6.5
 mniw 1.0.2
 mnlfa 0.3-4
 MNLR 0.1.0

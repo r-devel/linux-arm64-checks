@@ -225,6 +225,7 @@ admisc 0.40
 AdMit 2.1.9
 admix 2.6.1
 admixr 0.9.2
+admixr2 0.1.0
 ADMM 0.3.4
 admmDensestSubmatrix 0.1.0
 admtools 0.6.0
@@ -338,6 +339,7 @@ agvgd 0.1.2
 ahaz 1.15.1
 AHMbook 0.2.12
 ahnr 0.3.1
+ahocorasick 0.2.0
 AhoCorasickTrie 0.1.3
 AHPGaussian 0.1.3
 AHPhybrid 0.1.0
@@ -2759,6 +2761,7 @@ childdevdata 1.1.0
 childesr 0.2.3
 childeswordfreq 0.2.0
 childfree 0.0.5
+childpen 0.2.3
 childsds 0.9.11
 ChileDataAPI 0.2.0
 ChillModels 1.0.2
@@ -4347,7 +4350,7 @@ dbnR 0.8.0
 dbparser 2.2.1
 dbplot 0.4.0
 dbplyr 2.5.2
-dbProject 0.1.0
+dbProject 0.1.1
 DBR 1.4.1
 dbrobust 1.0.0
 dbscan 1.2.4
@@ -6931,7 +6934,7 @@ fluxfinder 1.2.2
 fluxfixer 1.1.0
 fluxible 1.3.6
 FluxPoint 0.1.2
-FluxSeparator 1.0.1
+FluxSeparator 2.0.0
 fluxtools 0.7.1
 fluxweb 2.0.1
 flying 0.1.3
@@ -9129,6 +9132,7 @@ holobiont 0.1.3
 holodeck 0.2.2
 Holomics 1.2.1
 homals 1.0-11
+HOME 0.1.0
 Homeric 0.1-3
 hommel 1.8
 homnormal 0.1
@@ -9360,7 +9364,7 @@ ibmcraftr 1.0.0
 ibmdbR 1.51.0
 IBMPopSim 1.1.0
 ibmsunburst 0.1.4
-ibr 2.4-1
+ibr 2.4-2
 iBreakDown 2.1.2
 IBrokers 0.10-2
 IBRtools 0.1.3
@@ -9384,7 +9388,7 @@ ICCbin 1.2.0
 iccCompare 1.1.0
 iccCounts 1.1.4
 iccde 0.3.8
-ICCDesign 0.1.0
+ICCDesign 0.1.1
 ICcforest 0.5.1
 iccmult 1.0.1
 iccTraj 1.1.0
@@ -9775,7 +9779,7 @@ instantiate 0.2.3
 instaR 0.2.4
 insulin.secretion 0.0.2
 insuranceData 1.0
-insurancerating 0.7.5
+insurancerating 0.8.0
 InsuSensCalc 0.0.1
 int3ract 1.0.7
 intamap 1.5-11
@@ -11478,6 +11482,7 @@ maplegend 0.6.3
 mapme.biodiversity 0.9.6
 mapmisc 2.1.3
 mapmixture 1.2.0
+mapnhanespa 0.1.0
 mappeR 2.4.0
 MapperAlgo 1.1.0
 mappestRisk 0.1.2
@@ -14986,6 +14991,7 @@ peticontrast 0.1.0
 pewdata 0.3.2
 pexm 1.1.3
 pez 1.2-5
+PFCI 0.1.0
 pfclust 0.1.0
 pfica 0.1.3
 PFIM 7.0.3
@@ -15604,7 +15610,7 @@ Power2Stage 0.5-4
 power4mome 0.2.1
 poweRbal 0.1.0
 powerbiR 0.1.0
-powerbrmsINLA 1.1.1
+powerbrmsINLA 1.2.0
 powerbydesign 1.0.5
 powerCompRisk 1.0.1
 powerEQTL 0.3.6
@@ -16689,6 +16695,7 @@ rar 0.0.3
 rare 0.1.2
 RareComb 1.1
 rareflow 0.1.0
+rarefun 0.1.0
 rareNMtests 1.2
 rarestR 1.1.1
 raretrans 1.0.5
@@ -18085,7 +18092,7 @@ robustsur 0.0-8
 robustT2 0.1.0
 robustvarComp 0.1-7
 robustX 1.2-8
-robvis 0.3.0
+robvis 0.3.1
 Robyn 3.12.1
 ROCaggregator 1.0.1
 rocbc 3.2.0
@@ -18424,7 +18431,7 @@ rsides 0.1
 RSiena 1.6.6
 RsimdDispatch 0.1.1
 rsimsum 0.13.1
-rsinaica 1.1.1
+rsinaica 1.2.0
 rsixel 0.0.4
 RSizeBiased 0.1.0
 RSKC 2.4.2
@@ -19218,6 +19225,7 @@ selectiveInference 1.2.5
 selectMeta 1.0.9
 selectr 0.5-1
 selectspm 0.7
+selectTWFE 0.2.1
 SeleMix 1.0.4
 selenider 0.4.1
 selenium 0.2.0
@@ -19337,6 +19345,7 @@ sequential.pops 0.1.1
 SequentialDesign 1.0
 sequoia 3.2.0
 seqwrap 0.7.0
+serad 0.2.0
 sergeant 0.9.1
 serial 3.0
 seriation 1.5.8

@@ -21273,7 +21273,7 @@ svDialogstcltk 1.0.1
 SVDMx 0.1.0
 SVDNF 0.1.11
 SveltePlots 0.1.0
-SVEMnet 3.2.0
+SVEMnet 3.2.1
 svenssonm 0.1.0
 SVG 1.0.0
 svgedit 1.0.0

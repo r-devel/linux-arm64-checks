@@ -20818,7 +20818,7 @@ StatDA 1.7.11
 StatDataML 1.0-27
 statdecideR 0.1.6
 StatDeriveR 0.1.0
-statease 1.1.0
+statease 1.2.0
 statebins 1.4.0
 StateLevelForest 0.1.0
 states 0.3.3

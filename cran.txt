@@ -1182,7 +1182,7 @@ batman 0.1.0
 batsch 0.1.1
 BATSS 1.2.0
 batteryreduction 0.1.1
-BAwiR 1.5
+BAwiR 1.5.1
 bayclumpr 0.1.0
 baycn 2.0.0
 bayefdr 0.2.1
@@ -2550,7 +2550,7 @@ cdfinv 0.1.0
 cdfquantreg 1.3.1-2
 CDFt 1.2
 cdgd 1.0.1
-CDGHMM 0.1.4
+CDGHMM 0.1.5
 cdid 0.1.1
 cdiWG2WS 0.2.0
 cdlei 1.0
@@ -3235,7 +3235,7 @@ coefplot 1.2.9
 coenocliner 0.2-4
 coenoflex 2.2-0
 cofad 0.3.3
-coFAST 0.2.0
+coFAST 0.3.0
 coffee 0.4.3
 cofid 1.0.0
 CoFM 1.1.4
@@ -3732,7 +3732,7 @@ countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
 couplr 1.4.1
-courieR 0.2.0
+courieR 0.2.2
 covadap 1.0.1
 covafillr 0.4.4
 covalchemy 1.0.0
@@ -3972,7 +3972,7 @@ CSCNet 0.1.4
 csdata 2026.3.30
 csdb 2026.5.13
 csdm 1.0.1
-CSDownscale 0.0.2
+CSDownscale 0.0.3
 cSEM 0.6.1
 csemGT 1.0.0
 CSeqpat 0.1.2
@@ -6410,6 +6410,7 @@ famish 0.2.0
 FAmle 1.3.7
 FAMoS 0.3.1
 famSKATRC 1.1.0
+fanc 2.3.13
 fANCOVA 0.6-1
 fancycut 0.1.3
 fangs 0.2.22
@@ -6683,7 +6684,7 @@ Fgmutils 0.9.5
 FGRepo 1.3.2.0
 fgui 1.0-8
 FHDI 1.4.1
-fhircrackr 2.3.0
+fhircrackr 2.4.0
 fHMM 1.4.3
 FHtest 1.5.1
 FI 1.1
@@ -7771,7 +7772,7 @@ getable 1.0.3
 GetBCBData 0.9.1
 getCRUCLdata 2.0.0
 GETdesigns 1.2.0
-GetDFPData2 0.6.3
+GetDFPData2 0.6.5
 getDTeval 0.0.2
 GetFREData 1.0.1
 getip 0.1-4
@@ -7787,7 +7788,7 @@ getRad 0.2.4
 gets 0.38
 getspanel 0.2.1
 getspres 0.2.0
-GetTDData 1.5.7
+GetTDData 1.6.0
 gettz 0.0.5
 getwiki 0.9.0
 GEVACO 1.0.1
@@ -11310,7 +11311,7 @@ LTRCtrees 1.1.2
 ltsa 1.4.6.1
 ltsk 1.1.2
 ltxsparklines 1.1.3
-luajr 0.3.0
+luajr 0.3.1
 lubridate 1.9.5
 lubrilog 1.3.0
 lucas 1.0
@@ -11686,7 +11687,7 @@ MBBEFDLite 1.0.0
 MBC 0.10-7
 MBCbook 0.1.2
 mbend 1.3.1
-MBESS 5.0.0
+MBESS 5.0.1
 mbest 0.6.1
 mbg 1.2.0
 MBHdesign 2.3.15
@@ -12986,7 +12987,7 @@ mueRelativeRisk 0.1.1
 MuFiMeshGP 0.0.1
 MUGS 0.1.0
 muhaz 1.2.6.4
-muiMaterial 0.1.3
+muiMaterial 0.2.0
 muir 0.1.0
 muiTreeView 0.1.1
 mulea 1.1.1
@@ -13206,7 +13207,7 @@ mvna 2.0.1
 MVNBayesian 0.0.8-11
 mvnfast 0.2.8
 mvngGrAd 0.1.6
-MVNGmod 0.1.0
+MVNGmod 0.1.1
 mvnimpute 1.0.1
 mvnma 0.1-0
 mvnmle 0.1-11.2
@@ -14379,7 +14380,7 @@ OscillatorGenerator 0.1.0
 OSCV 1.0
 osd 0.1
 osdatahub 0.3.0
-osdc 0.9.19
+osdc 0.11.3
 osDesign 1.8
 OSDR 1.1.4
 OSFD 3.1
@@ -15167,7 +15168,7 @@ picker 0.2.6
 pickmax 0.1.0
 picohdr 0.1.1
 picR 1.0.1
-picreg 0.1.2
+picreg 0.1.3
 pid 0.65
 PIE 1.0.0
 piecemaker 1.0.2
@@ -16864,7 +16865,6 @@ rcdklibs 2.9
 rcdo 0.3.2
 RCEIM 0.3
 rcens 0.1.1
-RcensusPkg 0.1.5
 Rcereal 1.3.2
 RCGLS 1.0.3
 rchallenge 1.3.4
@@ -19004,7 +19004,7 @@ schemr 0.3.1
 schmear 0.1.0
 schoenberg 2.0.3
 scholar 0.2.6
-scholid 0.1.1
+scholid 0.2.0
 scholidonline 0.1.1
 SchoolDataIT 0.2.13
 schoolmath 0.4.2
@@ -19364,7 +19364,7 @@ sequoia 3.2.0
 seqwrap 0.7.0
 serad 0.2.0
 sergeant 0.9.1
-serial 3.0
+serial 3.1.1
 seriation 1.5.8
 serieshaz 0.2.0
 serieslcb 0.4.0
@@ -19382,7 +19382,7 @@ servr 0.32
 SEset 1.0.1
 SESraster 0.7.1
 sessioncheck 0.1
-sessioninfo 1.2.3
+sessioninfo 1.2.4
 set 1.2
 setariaviridis 0.1.0
 setartree 0.2.1
@@ -19657,7 +19657,7 @@ shoredate 1.1.1
 shorm 0.1.3
 shortcuts 1.4.0
 ShortForm 0.5.8
-shortIRT 1.0.0
+shortIRT 2.0.0
 shortr 1.0.3
 shorts 3.2.0
 shortuuid 0.1.1
@@ -20926,7 +20926,7 @@ steppedwedge 1.0.0
 stepPenal 0.2
 stepPlr 0.93
 stepR 2.1-11
-StepReg 1.6.5
+StepReg 1.6.6
 StepRegShiny 1.6.1
 steprf 1.0.2
 stepSplitReg 1.0.5
@@ -21451,7 +21451,7 @@ tableone 0.13.2
 tableParser 1.0.5
 tabler 0.1.0
 tablerDash 0.1.5
-tables 0.9.33
+tables 0.9.35
 tablesgg 0.9-1
 tablespan 0.3.2
 tablet 0.7.1
@@ -21610,7 +21610,7 @@ teal.modules.clinical 0.12.0
 teal.modules.general 0.6.0
 teal.picks 0.1.0
 teal.reporter 0.6.1
-teal.slice 0.7.1
+teal.slice 0.8.0
 teal.transform 0.7.1
 teal.widgets 0.6.0
 tealeaves 1.0.7
@@ -21667,7 +21667,7 @@ terminalgraphics 0.3.0
 tern 0.9.10
 tern.gee 0.1.5
 tern.mmrm 0.3.3
-Ternary 2.3.6
+Ternary 2.3.7
 TernTables 1.6.4
 ternvis 1.3
 terra 1.9-27
@@ -22101,7 +22101,7 @@ tmaptools 3.3
 tmapverse 0.1.0
 TMB 1.9.21
 tmbstan 1.1.0
-TmCalculator 1.0.4
+TmCalculator 1.0.5
 tmcn 0.2-13
 TMDb 1.1
 tmfast 0.1.1

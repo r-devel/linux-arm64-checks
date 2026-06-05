@@ -359,7 +359,7 @@ AiES 0.99.6
 aifeducation 1.1.5
 AIFFtools 1.0
 AIGovernance 0.1.0
-AIGRA 0.1.1
+AIGRA 0.1.2
 aihuman 1.0.1
 aimPlot 1.0.0
 aimsir17 0.0.2
@@ -1491,6 +1491,7 @@ betareg 3.2-4
 betaregscale 2.6.9
 betaSandwich 1.0.8
 betaselectr 0.1.4
+betaStability 0.0.4
 betategarch 3.4
 bethel 0.2
 bets.covid19 1.0.0
@@ -2285,7 +2286,7 @@ CalibratR 0.1.2
 calidad 0.8.2
 callback 0.1.3
 callme 0.1.11
-callr 3.7.6
+callr 3.8.0
 callsync 0.2.3
 calmate 0.13.0
 calmr 0.8.1
@@ -3408,7 +3409,7 @@ CompositeReliability 1.0.3
 compositeReliabilityInNestedDesigns 1.0.4
 Compositional 8.2
 compositional.mle 2.0.0
-CompositionalClust 1.2
+CompositionalClust 1.3
 CompositionalHDDA 1.0
 CompositionalML 1.0
 CompositionalNAimp 1.1
@@ -3965,6 +3966,7 @@ crystract 1.0.1
 csa 0.7.1
 csalert 2024.6.24
 csampling 1.2-4.1
+csbewma 1.0.1
 CsChange 0.1.7
 csci 0.9.3
 CSclone 1.0
@@ -5838,6 +5840,7 @@ enrichR 3.4
 enrichwith 0.5.0
 EnsCat 1.1
 ensembleBMA 5.1.8
+ensembleML 0.2.5
 ensembleMOS 0.8.2
 ensemblepp 1.0-0
 ensembleTax 1.1.1
@@ -7677,6 +7680,7 @@ geocomplexity 0.3.0
 geodaData 0.1.0
 geodata 0.6-9
 geoDeltaAudit 0.1.0
+GeoDensityR 0.1.2
 geodetector 1.0-5
 geodimension 2.0.0
 geodist 0.1.1
@@ -7888,7 +7892,7 @@ ggflowchart 1.0.0
 ggfocus 1.0.1
 ggfootball 0.3.0
 ggforce 0.5.0
-ggforestplotR 0.2.1
+ggforestplotR 0.2.2
 ggformula 1.0.1
 ggfortify 0.4.19
 ggfoundry 0.3.1
@@ -8345,7 +8349,7 @@ gontr 1.1.0
 GoodFibes 1.0.0
 GoodFitSBM 0.0.1
 GoodmanKruskal 0.0.3
-goodpractice 1.0.5
+goodpractice 1.1.0
 Goodreader 0.1.2
 googleadsR 1.0.0
 googleAnalyticsR 1.2.0
@@ -13514,6 +13518,7 @@ neuroSCC 1.0.2
 neuRosim 0.2-14
 neuroUp 0.3.1
 neutralitytestr 0.0.3
+NeutroIBDAnalysis 0.1.1
 neutrostat 0.0.2
 neutroSurvey 0.1.0
 nev 1.0.0.0
@@ -13629,6 +13634,7 @@ nlmixr2extra 5.0.0
 nlmixr2lib 0.3.2
 nlmixr2plot 5.0.1
 nlmixr2rpt 0.2.2
+nlmixr2targets 0.1.0
 nlmm 1.1.1
 nlmrt 2016.3.2
 nlMS 1.1
@@ -13704,7 +13710,7 @@ nnmf 1.4
 NNMIS 1.0.1
 NNMoMo 0.1.0
 nnR 0.1.0
-NNS 12.0
+NNS 12.1
 nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
@@ -15715,7 +15721,7 @@ prcbench 1.1.10
 prcr 0.2.1
 PRDA 1.0.2
 pre 1.0.8
-PRECAST 1.8
+PRECAST 1.9
 pRecipe 3.0.3
 precisely 0.1.2
 precisePlacement 0.2.0
@@ -15809,6 +15815,7 @@ primate 0.2.0
 primefactr 0.1.1
 primePCA 1.2
 PRIMEplus 1.0.16
+primer 1.2.1
 primerTree 1.1.0
 primes 1.6.1
 PRIMME 3.2-6
@@ -16223,7 +16230,7 @@ qccrs 0.1.0
 QCEWAS 1.2-3
 QCGWAS 1.0-9
 qch 2.1.3
-qcluster 2.0.0
+qcluster 2.0.1
 qcpm 0.4
 qcQpcr 1.5
 qcr 1.4
@@ -16361,7 +16368,7 @@ quadprogXT 0.0.6
 quadraticSD 0.1.0
 QuadratiK 1.2.0
 QuadRoot 0.2.1
-quadrupen 0.2-13
+quadrupen 1.0-0
 quadVAR 0.1.2
 qualitycontrol 0.1.0
 QualityMeasure 2.0.1
@@ -17756,6 +17763,7 @@ riskscores 1.2.3
 RiskScorescvd 0.3.1
 risksetROC 1.0.4.1
 riskSimul 0.1.2
+RiskyCNV 0.1.0
 riskyr 0.5.0
 RISmed 2.3.0
 Rita 1.2.0
@@ -18375,7 +18383,7 @@ rrefine 2.1.0
 rreg 0.2.1
 rregm 1.1
 rrepast 0.8.0
-Rrepest 1.6.12
+Rrepest 1.6.13
 rres 1.1
 RRF 1.9.4.1
 RRgeo 0.0.6
@@ -18465,6 +18473,7 @@ Rsmlx 2024.1.0
 rsnell 0.1
 RSNNS 0.4-18
 rsocialwatcher 0.1.1
+rsocsim 1.9.18
 rsofun 5.1.0
 rsoi 0.5.8
 Rsolnp 2.0.1
@@ -19038,6 +19047,7 @@ SciViews 0.9-13.2
 sClust 1.0
 scMappR 1.0.12
 scMetaTraj 0.1.1
+scModels 1.0.5
 scmSpillover 0.1.1
 scOntoMatch 0.1.1
 scoper 1.5.0
@@ -22272,7 +22282,7 @@ TRAMPR 1.0-10
 tramvs 0.0-9
 transDA 1.0.2
 transforEmotion 0.1.7
-Transform 1.0
+Transform 1.1
 transform.hazards 0.1.1
 transformer 0.2.0
 transformerForecasting 0.1.0
@@ -22316,7 +22326,7 @@ tree3d 0.1.2
 treebalance 1.2.0
 treebase 0.1.5
 TreeBUGS 1.5.3
-treeclim 2.0.7.1
+treeclim 2.0.8.0
 treeClust 1.1-7.1
 treeDA 0.0.5
 treedata.table 0.1.1
@@ -23491,7 +23501,7 @@ wktmo 1.0.5
 WLogit 2.1
 WLreg 1.0.0.1
 wlsd 1.0.1
-WMAP 1.2.0
+WMAP 1.3.0
 wmm 1.1.1
 wmwAUC 0.2.0
 wmwm 1.0.0

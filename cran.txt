@@ -305,7 +305,7 @@ agfh 0.2.1
 agghoo 0.1-0
 aggreCAT 1.1.0
 AggregateR 0.1.1
-aggregation 1.0.1
+aggregation 1.0.2
 aggTrees 2.1.0
 aggutils 1.0.2
 AGHmatrix 2.1.4
@@ -1284,7 +1284,7 @@ BayesPIM 1.0.1
 bayesplay 0.9.3
 bayesplot 1.15.0
 bayespm 0.2.0
-bayespmtools 0.0.1
+bayespmtools 0.0.2
 bayesPO 0.5.0
 BayesPocket 0.1.0
 bayesPop 12.0-1
@@ -1874,7 +1874,7 @@ BMIselect 1.0.3
 bmixture 1.7
 bml 0.9.0
 bmlm 1.3.15
-bmm 1.3.0
+bmm 1.3.1
 bmp 0.3.1
 BMRMM 1.0.1
 BMS 0.3.5
@@ -2031,7 +2031,7 @@ braids 1.0.0
 BrainCon 0.3.0
 brainGraph 3.1.2
 brainKCCA 0.1.0
-BrainNetTest 0.2.0
+BrainNetTest 0.2.1
 brainR 1.7.0
 BranchGLM 3.0.1
 Branching 0.9.7
@@ -2217,7 +2217,7 @@ bvarnet 1.0.0
 bvarsv 1.1
 bvartools 0.2.4
 BVARverse 0.0.1
-bvhar 2.4.0
+bvhar 2.4.1
 bvls 1.4
 bvpa 1.0.0
 bwd 0.1.0
@@ -2312,7 +2312,7 @@ cancerGI 1.0.1
 CancerGram 1.0.0
 cancerR 0.1.1
 cancerradarr 3.0.0
-candisc 1.1.0
+candisc 1.1.1
 CANE 0.1.1
 Canek 0.2.5
 CanonicalFamilyExtra 1.0.0
@@ -2523,7 +2523,7 @@ cclustr 0.1.1
 CCM 1.2
 ccmEstimator 1.0.0
 CCMMR 0.2.1
-CCMnet 1.1.0
+CCMnet 1.1.1
 ccmReportR 0.1.0
 ccoptimalmatch 0.1.0
 ccostr 0.1.1
@@ -4118,7 +4118,7 @@ cvmaPLFAM 0.1.1
 cvmdisc 0.1.0
 cvmgof 1.0.3
 CvmortalityMult 1.1.1
-cvms 2.0.0
+cvms 2.0.1
 CVrisk 1.2.1
 cvsem 1.0.0
 CVST 0.2-3
@@ -6130,7 +6130,7 @@ evenBreak 1.0
 eventdataR 0.3.1
 eventglm 1.4.5
 eventInterval 1.3
-eventPred 0.2.9
+eventPred 0.3.0
 EventPredInCure 1.0
 eventreport 0.1.2
 eventstream 0.1.1
@@ -6319,7 +6319,7 @@ EzGP 0.1.0
 ezknitr 0.6.3
 ezplot 0.8.2
 ezr 0.1.5
-ezTrack 0.1.0
+ezTrack 0.1.1
 EZtune 3.1.1
 f1dataR 2.0.1
 f1pits 1.3.1
@@ -10097,7 +10097,7 @@ ivgets 0.1.2
 ivmodel 1.9.1
 ivmte 1.4.0
 ivo.table 0.7.1
-ivolcano 0.0.5
+ivolcano 0.0.6
 IVPP 1.1.2
 ivreg 0.6-7
 ivs 0.2.0
@@ -10515,7 +10515,7 @@ kriging 1.2
 KrigInv 1.4.2
 krippendorffsalpha 2.0
 KRIS 1.1.6
-KRLS 1.1-0
+KRLS 1.7-0
 krm 2022.10-17
 KRMM 1.0
 kronos 1.0.0
@@ -12671,7 +12671,7 @@ moduleColor 1.8-4
 modules 0.13.0
 MOEADr 1.1.3
 MoEClust 1.6.0
-moewishart 1.1
+moewishart 1.2
 MOFAT 1.0
 mogiw 0.1.0
 mojson 0.1
@@ -13144,7 +13144,7 @@ MultSurvTests 0.2
 multvardiv 1.0.15
 multxpert 0.1.1
 MulvariateRandomForestVarImp 0.0.2
-mumarinex 1.0
+mumarinex 2.0
 MuMIn 1.48.19
 munch 0.0.2
 munfold 0.3.5
@@ -14600,7 +14600,7 @@ pannotator 1.1.0
 PANPRSnext 1.2.1
 panstarrs 0.2.3
 PantaRhei 0.1.2
-papaja 0.1.4
+papaja 0.1.5
 papeR 1.0-6
 paperplanes 0.0.1.9
 parabar 1.4.2
@@ -16443,6 +16443,7 @@ quid 0.0.1
 quiddich 1.0.0
 quietR 0.1.0
 quiltr 0.1.0
+quincunx 0.2.0
 quint 2.2.2
 quitefastmst 0.9.1
 quollr 1.0.6
@@ -19445,7 +19446,7 @@ sgee 0.6-0
 sgeostat 1.0-27
 SGL 1.3
 sglasso 1.2.6
-sglg 0.2.6
+sglg 0.2.7
 sglr 0.8
 sgmean 0.1.0
 sgmodel 0.1.2
@@ -22049,7 +22050,7 @@ tipa 1.0.8
 TipDatingBeast 1.1-0
 tipitaka 1.0.0
 tipitaka.critical 1.0.0
-tipmap 1.0.0
+tipmap 1.0.1
 tippy 0.1.0
 tipr 1.0.2
 TiPS 1.3.0
@@ -22136,7 +22137,7 @@ tolerance 3.0.0
 tomba 1.0.1
 toml 1.1.0
 tomledit 0.1.1
-tongfen 0.3.6
+tongfen 0.3.7
 toolbox 0.1.1
 toolero 0.3.0
 toolmaRk 0.0.1

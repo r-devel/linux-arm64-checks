@@ -895,7 +895,7 @@ atpolR 0.1.1
 ATQ 0.2.3
 ATR 0.1-1
 atRisk 0.2.0
-atrrr 0.1.1
+atrrr 0.2.0
 aTSA 3.1.2.1
 attachment 1.0.0
 attempt 0.3.1
@@ -1090,7 +1090,7 @@ bamdit 3.6.0
 bamlss 1.2-5
 bamm 0.6.2
 BAMMtools 2.1.12
-bamp 2.1.3
+bamp 2.1.5
 BANAM 0.2.2
 bandicoot 1.0.0
 bandit 0.5.1
@@ -5299,7 +5299,7 @@ duckdbfs 0.1.2
 duckduckr 1.0.0
 duckh3 0.1.0
 duckplyr 1.2.1
-duckspatial 1.1.0
+duckspatial 1.1.1
 duet 0.1.1
 dumbbell 0.1
 dummy 0.1.3

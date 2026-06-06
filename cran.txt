@@ -380,7 +380,7 @@ AirportProblems 0.1.0
 airportr 0.1.3
 airports 0.1.0
 airqualityES 1.0.0
-airr 1.6.1
+airr 2.0.0
 AirScreen 0.1.0
 airship 1.4.3
 airt 0.2.2
@@ -1256,7 +1256,7 @@ bayesLife 5.3-1
 bayeslist 0.0.1.6
 bayeslm 2.0
 BayesLN 0.2.12
-BayesLogit 2.3
+BayesLogit 2.4
 bayeslongitudinal 0.1.0
 bayesm 3.1-7
 BayesMallows 2.2.7
@@ -13241,7 +13241,7 @@ mvSUSY 0.1.0
 MVT 0.3-81
 MVTests 2.3.1
 mvtmeta 1.1
-mvtnorm 1.4-0
+mvtnorm 1.4-1
 mvtsplot 1.0-5
 mvtweedie 1.2.0
 mvvg 0.1.0

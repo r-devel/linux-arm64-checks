@@ -14126,7 +14126,7 @@ OneSampleMR 0.1.7
 ONEST 0.1.0
 OneStep 0.9.4
 onetime 0.2.0
-OneTwoSamples 1.2-0
+OneTwoSamples 1.3-0
 onewaytests 3.1
 onion 1.5-3
 onlineBcp 0.1.8
@@ -17914,7 +17914,7 @@ rmdwc 0.3.1
 rMEA 1.2.2
 RmecabKo 0.1.6.2
 RMediation 1.3.0
-RMeDPower2 1.0.1
+RMeDPower2 1.0.2
 rmedsem 1.0.0
 rmerec 0.1.1
 rmet 0.1.0

@@ -5164,7 +5164,7 @@ drglm 1.1
 DRHotNet 2.3
 drhur 2.0.0
 drhutools 1.1.1
-dRiftDM 0.3.1
+dRiftDM 0.3.2
 drifter 0.2.1
 DrillR 0.1
 drimmR 1.0.3

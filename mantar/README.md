@@ -1,6 +1,6 @@
 # mantar 0.3.0
 
-Latest run: 2026-05-31: https://github.com/r-devel/linux-arm64-checks/actions/runs/26701560394
+Latest run: 2026-06-07: https://github.com/r-devel/linux-arm64-checks/actions/runs/27080949316
 
 ```
 Package: mantar

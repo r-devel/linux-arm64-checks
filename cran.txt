@@ -7483,7 +7483,7 @@ GCCfactor 1.1.6
 GCD 4.0.7
 gcdnet 1.0.6
 gcerisk 19.05.24
-GCEstim 0.1.0
+GCEstim 1.1.0
 gchartsmap 1.0.1
 gcite 0.11.0
 gcKrig 1.1.8
@@ -13833,7 +13833,7 @@ npde 3.5
 npDoseResponse 0.2
 npdsim 1.0.0
 npExact 0.2
-NPFD 1.0.0
+NPFD 1.0.1
 NPflow 0.13.6
 npfseir 0.2.1
 nph 2.1

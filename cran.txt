@@ -17869,7 +17869,7 @@ rlog 0.2.0
 RLogicalOps 0.1
 RLoptimal 1.2.2
 rlowdb 0.2.0
-rlppinv 1.0.0
+rlppinv 1.1.0
 RLRsim 3.1-9
 RLT 3.2.6
 rLTP 0.1.4
@@ -22975,7 +22975,7 @@ VCBART 1.2.5
 vccp 0.1.1
 vcd 1.4-13
 vcd2df 1.0.1
-vcdExtra 0.9.3
+vcdExtra 0.9.6
 vcfheader 0.1.0
 vcfppR 0.8.3
 vcfR 1.16.0

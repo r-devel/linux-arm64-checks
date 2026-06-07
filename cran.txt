@@ -139,7 +139,7 @@ adana 1.1.0
 AdapDiscom 1.0.0
 adaplots 0.1.0
 AdapSamp 1.1.1
-adapt3 2.0.7
+adapt3 2.0.9
 adapt4pv 0.2-3
 adaptalint 0.2.4
 adaptDiag 0.1.0
@@ -395,7 +395,7 @@ akc 0.9.9.3
 Ake 1.0.2
 akiFlagger 0.3.0
 akima 0.6-3.6
-akin 0.3.3
+akin 0.3.6
 akmbiclust 0.1.0
 alabama 2025.1.0
 alakazam 1.4.3
@@ -2641,7 +2641,7 @@ Certara.RsNLME.ModelExecutor 3.1.0
 Certara.VPCResults 3.0.2
 Certara.Xpose.NLME 2.0.2
 certify 0.1.0
-ces 1.0.2
+ces 1.1.0
 ceser 1.0.0
 cetcolor 0.2.0
 ceterisParibus 0.6
@@ -2798,7 +2798,6 @@ chopper 1.0
 chopthin 0.2.2
 chords 0.95.4
 chores 0.3.1
-choroplethr 5.0.1
 choroplethrAdmin1 1.1.1
 choroplethrMaps 1.0.1
 chouca 0.1.99
@@ -3289,7 +3288,7 @@ collpcm 1.4
 coloc 5.2.3
 colocalization 1.0.2
 colocalized 0.2.0
-colocboost 1.0.7
+colocboost 1.0.8
 colocPropTest 0.9.3
 ColombiAPI 0.3.2
 ColOpenData 1.0.0
@@ -4152,7 +4151,7 @@ CytoSimplex 0.2.0
 czechrates 0.2.5
 czso 0.4.4
 D3GB 2.0
-D3mirt 2.0.4
+D3mirt 2.0.5
 d3Network 0.5.2.1
 D3partitionR 0.5.0
 d3plus 0.1.0
@@ -6763,7 +6762,7 @@ finnsurveytext 2.1.1
 finnts 0.6.0
 finto 0.1.1
 FinTS 0.4-9
-fio 1.0.0
+fio 1.1.0
 fiodata 0.2.0
 fioRa 0.3.7
 fipio 1.1.2
@@ -8074,7 +8073,7 @@ ggview 0.2.2
 ggvis 0.4.10
 ggvolc 0.1.0
 ggvolcano 0.1.4
-ggWebGL 0.4.0
+ggWebGL 0.8.0
 ggwidth 0.1.1
 ggwordcloud 0.6.2
 ggx 0.1.1
@@ -10535,7 +10534,7 @@ ksformat 0.7.1
 KSgeneral 2.0.2
 ksharp 0.1.0.1
 KSIC 1.0.2
-ksm 1.0
+ksm 1.1
 ksNN 0.1.2
 KSPM 0.2.1
 ksrlive 1.0
@@ -11535,6 +11534,7 @@ marginaleffects 0.32.0
 marginalizedRisk 2024.5-17
 MarginalMaxTest 1.0.1
 MarginalMediation 0.7.3
+marginme 0.1.2
 margins 0.3.28
 marimekko 0.1.0
 marinepredator 0.0.1
@@ -12764,7 +12764,7 @@ mosaic 1.10.2
 mosaicCalc 0.6.4
 mosaicCore 0.9.5
 mosaicData 0.20.4
-MOSAlloc 1.2.5
+MOSAlloc 1.2.6
 mosclust 1.0.2
 MOsemiind 0.1.2
 MOST 0.1.2
@@ -14526,7 +14526,7 @@ pairwise 0.6.2-0
 pairwiseCI 0.1-27
 pairwiseLLM 1.1.0
 paisaje 0.2.0
-pak 0.9.5
+pak 0.10.0
 PakPC2017 1.0.0
 PakPC2023 0.2.0
 PakPMICS2014Ch 0.1.0
@@ -15729,6 +15729,7 @@ PreciseSums 0.7
 precmed 1.1.0
 precommit 0.4.3
 precrec 0.14.5
+precviasBR 0.1.1
 predfairness 0.1.0
 predhy 2.1.2
 predhy.GUI 2.1.1
@@ -15818,7 +15819,6 @@ PRIMEplus 1.0.16
 primer 1.2.1
 primerTree 1.1.0
 primes 1.6.1
-PRIMME 3.2-6
 princurve 2.1.6
 PrInDT 2.0.2
 prinsurf 1.0
@@ -18618,6 +18618,7 @@ rTRNG 4.23.1-5
 Rtropical 1.2.1
 rtry 1.1.0
 rts 1.1-14
+rts2 1.0.3
 RTSA 0.2.2
 RtsEva 1.1.0
 Rtsne 0.17
@@ -20299,7 +20300,7 @@ spam 2.11-4
 spam64 2.11-4
 spaMM 4.6.65
 spanish 0.4.2
-spanishoddata 0.2.5
+spanishoddata 0.2.6
 spanner 1.0.4
 spANOVA 0.99.4
 spant 4.1.0
@@ -22402,7 +22403,7 @@ trimr 1.1.1
 trinROC 0.7
 TrioSGL 1.1.0
 trip 1.10.0
-tripack 1.3-9.3
+tripack 1.3-9.4
 tripEstimation 0.0-46
 triplediff 0.2.0
 TripleR 1.5.5
@@ -22992,7 +22993,7 @@ vdar 0.1.3-2
 vdiffr 1.0.9
 vDiveR 2.2.0
 VDJgermlines 0.1
-VDPO 0.1.0
+VDPO 0.2.0
 VDSM 0.1.1
 VDSPCalibration 1.0
 vec2dtransf 1.1.5

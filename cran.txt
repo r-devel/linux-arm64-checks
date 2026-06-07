@@ -5524,7 +5524,7 @@ econtools 0.1.1
 econullnetr 0.2.2
 ecopower 0.2.0
 ecoreg 0.2.5
-ecoregime 0.3.0
+ecoregime 0.3.1
 ecorest 2.0.3
 ecorisk 0.3.1
 ecos 0.1.7
@@ -10131,7 +10131,7 @@ JADE 2.0-4
 jadeLizardOptions 1.0.1
 jage 0.1.0
 jaggR 0.1.1
-jagshelper 0.4.1
+jagshelper 0.4.2
 jagstargets 1.2.2
 jagsUI 1.6.3
 jalcal 0.3.0
@@ -16951,7 +16951,7 @@ rconf 0.1.2
 rconfig 0.3.0
 RConics 1.1.2
 rcontroll 0.1.2
-rconvertu 1.0.0
+rconvertu 1.1.0
 Rcope 1.0.0
 rCoreGage 1.1.0
 rcorpora 2.0.1

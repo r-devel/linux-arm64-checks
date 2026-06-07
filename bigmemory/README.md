@@ -1,6 +1,6 @@
 # bigmemory 4.6.4
 
-Latest run: 2026-05-31: https://github.com/r-devel/linux-arm64-checks/actions/runs/26701417824
+Latest run: 2026-06-07: https://github.com/r-devel/linux-arm64-checks/actions/runs/27080798092
 
 ```
 Package: bigmemory

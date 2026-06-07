@@ -1,6 +1,6 @@
 # gbm 2.2.3
 
-Latest run: 2026-05-31: https://github.com/r-devel/linux-arm64-checks/actions/runs/26701487475
+Latest run: 2026-06-07: https://github.com/r-devel/linux-arm64-checks/actions/runs/27080873849
 
 ```
 Package: gbm

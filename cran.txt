@@ -2475,6 +2475,7 @@ causalreg 0.1.2
 causalsens 0.1.3
 causalSLSE 0.4-1
 CausalSpline 0.1.0
+causalweight 1.1.5
 causalWins 0.1.0
 CausCor 0.1.3
 causens 0.0.3
@@ -3289,7 +3290,7 @@ collpcm 1.4
 coloc 5.2.3
 colocalization 1.0.2
 colocalized 0.2.0
-colocboost 1.0.8
+colocboost 1.0.9
 colocPropTest 0.9.3
 ColombiAPI 0.3.2
 ColOpenData 1.0.0
@@ -5128,7 +5129,7 @@ DPTM 3.0.2
 DQA 0.1.1
 DQAgui 0.2.6
 DQAstats 0.3.9
-dqcheckr 0.2.0
+dqcheckr 0.2.1
 dqrng 0.4.1
 dQTG.seq 1.0.2
 dr 3.0.11
@@ -6021,7 +6022,6 @@ ERPM 0.2.0
 errorist 0.1.3
 errorlocate 1.1.2
 errors 0.4.4
-ErrorTracer 1.1.0
 errum 0.0.4
 ERSA 0.1.4
 eRTG3D 0.7.0
@@ -6079,7 +6079,7 @@ ETAS 0.7.2
 ETASbootstrap 0.2.1
 etasFLP 2.3.0
 ETC 1.5
-ETDQualitizer 1.0.0
+ETDQualitizer 1.1.0
 ethiodate 0.3.1
 ethnobotanyR 0.2.0
 EthSEQ 3.0.2
@@ -9050,7 +9050,7 @@ highMLR 1.0.1
 highOrderPortfolios 0.1.1
 highr 0.12
 highriskzone 1.4.9
-highs 1.12.0-3
+highs 1.14.0-2
 hightR 0.3.0
 highTtest 1.4
 higrad 0.1.0
@@ -9846,7 +9846,7 @@ intervals 0.15.5
 IntervalSurgeon 1.3
 intervcomp 0.1.2
 inTextSummaryTable 3.4.0
-inti 0.6.92
+inti 0.7.0
 intkrige 1.0.2
 intmap 1.0.0
 intmed 0.1.2
@@ -10744,6 +10744,7 @@ LDAandLDAS 1.1.3
 LDAcoop 0.1.2
 ldamatch 1.0.3
 ldaPrototype 0.3.2
+LDAShiny 1.0.0
 LDATree 0.2.0
 LDATS 0.3.0
 LDAvis 0.3.2
@@ -11466,7 +11467,7 @@ manydata 1.1.3
 manydist 0.4.9
 ManyIVsNets 0.1.1
 manymodelr 0.4.0
-manymome 0.3.5
+manymome 0.3.6
 manymome.table 0.4.0
 manynet 2.0.1
 manystates 1.0.3
@@ -16959,7 +16960,7 @@ RCPA 0.2.8
 RCPA3 1.3.1
 Rcplex 0.3-8
 Rcpp 1.1.1-1.1
-RcppAlgos 2.10.0
+RcppAlgos 2.10.1
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
 RcppArmadillo 15.2.7-1
@@ -17458,6 +17459,7 @@ requiRements 0.0.3
 requireR 1.0.0.1
 rerandPower 0.0.1
 rerddap 1.2.3
+rerddapUtils 1.0.2
 rerddapXtracto 1.2.5
 reReg 1.4.7
 resample 0.6
@@ -18386,7 +18388,7 @@ Rrdap 1.0.7
 rredlist 1.1.1
 rrefine 2.1.0
 rreg 0.2.1
-rregm 1.1
+rregm 1.2
 rrepast 0.8.0
 Rrepest 1.6.13
 rres 1.1
@@ -19596,7 +19598,7 @@ shinyhttr 1.1.0
 shinyHugePlot 0.3.0
 shinyInvoice 0.0.5
 shinyIRT 0.1
-ShinyItemAnalysis 1.5.5
+ShinyItemAnalysis 1.6.0
 shinyjqui 0.4.1
 shinyjs 2.1.1
 shinykanban 0.0.1

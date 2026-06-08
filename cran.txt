@@ -224,6 +224,7 @@ admiralvaccine 0.6.0
 admisc 0.40
 AdMit 2.1.9
 admix 2.6.1
+AdmixPoly 1.0.0
 admixr 0.9.2
 admixr2 0.1.0
 ADMM 0.3.4
@@ -387,6 +388,7 @@ airt 0.2.2
 aiRthermo 1.2.2
 AIscreenR 0.3.2
 aisdk 1.4.12
+aisdk.providers 0.1.0
 aisoph 0.4
 AIUQ 0.5.4
 ajv 1.0.0
@@ -927,6 +929,7 @@ auto.pca 0.3
 AutoAds 0.1.0
 autoann 0.1.0
 autoBagging 0.1.0
+autocodebook 0.1.0
 autocogs 0.1.5
 autoCovariateSelection 1.0.0
 autodb 3.2.4
@@ -1224,6 +1227,7 @@ BayesFluxR 0.1.3
 BayesFM 0.1.7
 BayesfMRI 0.11.0
 bayesforecast 1.0.5
+BayesForge 0.0.1
 bayesGARCH 2.1.10
 BayesGmed 0.0.3
 BayesGP 0.1.3
@@ -1416,7 +1420,7 @@ BEACH 1.3.2
 beadplexr 0.5.0
 beakr 0.4.4
 beam 2.0.4
-bean 0.2.0
+bean 0.2.1
 beanplot 1.3.1
 beans 0.1.0
 bearishTrader 1.0.2
@@ -1591,7 +1595,7 @@ biglm 0.9-3
 biglmm 0.9-3
 bigmatch 0.6.4
 bigmds 3.0.0
-bigmemory 4.6.4
+bigmemory 4.6.6
 bigmemory.sri 0.1.8
 bigMICE 1.0.0
 bignum 0.3.2
@@ -1642,6 +1646,7 @@ bindata 0.9-24
 bindr 0.1.3
 bindrcpp 0.2.4
 binequality 1.0.4
+binest 0.2-1
 binford 0.1.0
 binfunest 0.1.0
 bingadsR 0.1.0
@@ -1960,7 +1965,7 @@ bootLRTpairwise 0.2.0
 bootmlm 0.1.1
 BootMRMR 0.1
 bootnet 1.8
-bootPLS 1.1.0
+bootPLS 1.2.0
 BootPR 1.0
 bootruin 1.2-4
 bootStateSpace 1.0.3
@@ -2217,6 +2222,7 @@ buzzMed 0.1.2
 Bvalue 1.0
 BVAR 1.0.5
 bvarnet 1.0.0
+bvars 1.0
 bvarsv 1.1
 bvartools 0.2.4
 BVARverse 0.0.1
@@ -2782,6 +2788,7 @@ chisquare 1.2
 chk 0.10.0
 chlorpromazineR 0.2.0
 CHMM 0.1.1
+chmsflow 0.1.0
 CHNCapitalStock 0.1.1
 chngpt 2024.11-15
 CHNOSZ 2.2.0
@@ -2837,6 +2844,7 @@ cifmodeling 0.9.8
 cifti 0.5.0
 ciftiTools 0.19.0
 CIM 1.0.0
+CIMEHR 0.1.0
 cimir 0.4-1
 CimpleG 1.0.1
 CIMTx 1.2.0
@@ -4229,6 +4237,7 @@ DasGuptR 2.1.0
 dashboardthemes 1.1.6
 Dasst 0.3.4
 dat 0.7.0
+data.checker 2.0.0
 data.table 1.18.4
 data.table.threads 1.0.1
 data.tree 1.2.0
@@ -5173,6 +5182,7 @@ DrillR 0.1
 drimmR 1.0.3
 DrImpute 1.0
 DRIP 2.4
+DrivePlotR 0.1.0
 driveR 0.5.0
 drMAIC 0.1.0
 drmeta 0.1.0
@@ -5421,6 +5431,7 @@ easypower 1.0.2
 easyPSID 0.1.2
 easyPubMed 3.1.6
 easyr 0.5-11
+easyRasch2 0.8.0
 easyRaschBayes 0.2.0.1
 easyRef 0.1.0
 easyreg 4.0
@@ -6516,6 +6527,7 @@ fastRG 0.4.0
 fastRhockey 0.4.0
 fastrmodels 2.1.0
 FastRWeb 1.2-3
+FastSegmentation 0.0.1
 FastStepGraph 0.1.1
 FastSurvival 0.1.0
 fastText 1.0.8
@@ -7595,6 +7607,7 @@ GENEAread 2.0.10
 GeneCycle 1.1.6
 geneExpressionFromGEO 1.3
 GeneF 1.0.1
+genefindr 1.0.0
 geneHummus 1.0.11
 genekitr 1.2.8
 genemodel 1.1.0
@@ -9480,6 +9493,7 @@ ider 0.1.1
 IDetect 0.1.1
 IDF 2.1.3
 idiffomix 1.0.0
+iDIFr 1.0.1
 iDINGO 1.0.4
 idiogramFISH 2.0.13
 idiolect 1.2.0
@@ -9675,7 +9689,7 @@ incidentally 1.0.4
 IncomPair 0.1.0
 incR 2.1.1
 inctools 1.0.15
-incubate 1.4.0
+incubate 1.4.1
 INCVCommunityDetection 0.1.0
 inDAGO 1.0.3
 indelmiss 1.0.10
@@ -9979,6 +9993,7 @@ irrICC 1.0
 irrNA 0.2.3
 irt 0.2.9
 irtawsi 0.4.1
+irtbem2pl 1.0.0
 IRTBEMM 1.0.8
 irtDemo 0.1.5
 IRTest 2.2.0
@@ -9998,6 +10013,7 @@ isatabr 1.0.1
 ISCA 0.1.0
 ISCAM 1.2.0
 ISCO08ConveRsions 0.2.0
+Iscores 1.2.0
 isdals 3.0.1
 isdparser 0.4.0
 ISEtools 3.2.1
@@ -11091,6 +11107,7 @@ lncDIFF 1.0.0
 LncFinder 1.1.6
 LNIRT 0.5.1
 lnmCluster 0.3.1
+lnmixsurv 3.1.7
 LNPar 1.1.3
 loa 0.3.1.1
 loadeR 1.3.0
@@ -12165,7 +12182,7 @@ micemd 1.10.1
 micer 0.2.1
 miceRanger 1.5.0
 michelRodange 1.0.0
-miclust 1.2.8
+miclust 1.3.0
 micompr 1.3.0
 miCoPTCM 1.1
 microbats 0.1-1
@@ -13527,6 +13544,7 @@ neuRosim 0.2-14
 neuroUp 0.3.1
 neutralitytestr 0.0.3
 NeutroIBDAnalysis 0.1.1
+NeutroRCDsAnalysis 0.1.0
 neutrostat 0.0.2
 neutroSurvey 0.1.0
 nev 1.0.0.0
@@ -14148,6 +14166,7 @@ OnlineSurr 0.0.4
 onls 0.1-4
 onmaRg 1.0.3
 onnx 0.0.3
+onnxr 0.1.2
 OnomasticDiversity 0.1
 onpoint 1.1
 ons 0.1.3
@@ -15416,6 +15435,7 @@ pmev 0.1.2
 PMEvapotranspiration 0.1.0
 pminternal 0.1.0
 pmlbr 0.3.0
+PMLE4SCR 0.1.0
 pmledecon 0.2.1
 pmlsp 1.0.1
 pmml 2.6.0
@@ -18416,6 +18436,7 @@ rrr 1.0.0
 RRreg 0.7.6
 RRRR 1.1.1
 rrscale 1.0
+rrstools 1.1.0
 rrtable 0.3.0
 RRTCS 0.0.4
 rrum 0.2.2
@@ -18438,7 +18459,7 @@ RSCAT 1.1.3
 rscc 0.2.1
 RScelestial 1.0.4
 RSclient 0.7-12
-rsconnect 1.8.0
+rsconnect 1.10.0
 rscontract 0.1.2
 rscopus 0.9.0
 rscorecard 0.33.0
@@ -18465,6 +18486,7 @@ rsf 0.3.0
 rSFA 1.5
 Rsfar 0.0.1
 Rsgf 1.0.0
+rsgl 0.1.0
 rshift 3.1.2
 rsi 0.3.3
 rsides 0.1
@@ -18809,6 +18831,7 @@ safejoin 0.2.0
 SAFEMCN 1.0.0
 SAFEPG 0.0.1
 safer 0.2.2
+saferDev 1.0.0
 safestats 0.8.7
 safetensors 0.2.1
 safetyData 1.0.0
@@ -19586,7 +19609,7 @@ shinydbauth 1.0.0.1
 shinydisconnect 0.1.1
 shinyDND 0.1.0
 shinydrive 0.1.5
-shinyds 0.2.2
+shinyds 0.3.0
 shinyDTC 0.1.0
 shinyEditor 1.0.0
 shinyEffects 0.2.0
@@ -19613,7 +19636,7 @@ shinykanban 0.0.1
 shinyKGode 1.0.5
 shinyKnobs 0.1.3
 shinylight 1.2
-shinylive 0.4.1
+shinylive 0.5.0
 shinyloadtest 1.2.1
 shinylogs 0.2.1
 shinyLottie 1.0.0
@@ -20343,6 +20366,7 @@ sparsecommunity 0.1.1
 sparseCov 0.0.1
 SparseDC 0.1.17
 sparseDFM 1.0
+sparsediff 0.4.0
 sparsediscrim 0.3.0
 sparseEigen 0.1.0
 sparseFLMM 0.4.2
@@ -20457,6 +20481,7 @@ spbabel 0.6.0
 spbal 1.0.1
 spBayes 0.4-9
 spBayesSurv 1.1.9
+spboost 0.7.0
 spBPS 2.0-1
 Spbsampling 1.3.5
 spc 0.7.2
@@ -20942,7 +20967,7 @@ stenographer 1.0.0
 stenR 0.6.9
 StepBeta 2.1.0
 STEPCAM 1.2.3
-stepcount 0.3.2
+stepcount 0.5.0
 stepdownfdp 1.0.0
 stepgbm 1.0.1
 StepGWR 0.1.0
@@ -21239,7 +21264,7 @@ survextrap 1.0.1
 survey 4.5
 surveybootstrap 0.0.3
 SurveyCC 0.2.1
-surveycore 0.8.3
+surveycore 1.0.0
 surveyCV 0.2.0
 surveydata 0.2.8
 SurveyDefense 0.2.0
@@ -22104,6 +22129,7 @@ TLCAR 0.1.1
 tlda 0.1.0
 tldr 0.4.0
 tldrDocs 0.0.1
+tlgarima 0.1.0
 TLIC 0.4
 tlm 0.2.0
 TLMoments 0.7.5.3
@@ -22352,7 +22378,7 @@ treedater 1.0.2
 treeDbalance 1.2.0
 TreeDep 0.1.3
 TreeDiagram 0.1.1
-treediff 0.2.2
+treediff 0.2.3
 TreeDimensionTest 0.0.2
 TreeDist 2.14.0
 treefit 1.0.3
@@ -22631,6 +22657,7 @@ twig 1.0.0.0
 twilio 0.1.0
 twingp 1.0.0
 twinning 1.1
+twinsvm 0.0.1
 twitteradsR 0.1.0
 twitterwidget 0.1.1
 twl 1.0
@@ -22792,6 +22819,7 @@ unjoin 0.1.0
 unmarked 1.5.1
 unmconf 1.0.0
 unnest 0.1
+Uno 2.7.3
 UNPaC 1.2.0
 unpivotr 0.6.4
 UnplanSimon 0.1.0
@@ -23167,6 +23195,7 @@ vivainsights 0.7.2
 vivaldi 1.0.1
 vivid 0.3.0
 vivo 0.2.1
+vizClust 0.1.0
 vizdraws 2.0.0
 VizModules 0.1.1
 VizTest 0.7
@@ -23606,7 +23635,7 @@ writeAlizer 1.7.3
 writer 0.1.0
 writexl 1.5.4
 WriteXLS 6.8.0
-wrMisc 2.0.2
+wrMisc 2.1.0
 wrProteo 2.0.2
 WRS2 1.1-7
 WRSS 3.2

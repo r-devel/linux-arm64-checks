@@ -2929,7 +2929,7 @@ ClamR 2.1-3
 clap 0.1.0
 clarabel 0.11.2
 clarifai 0.4.2
-clarify 0.2.2
+clarify 0.2.3
 clarkeTest 0.2.0
 class 7.3-23
 ClassComparison 3.3.5
@@ -13653,7 +13653,7 @@ nlmeU 0.71.7
 nlmeVPC 2.8
 nlmixr2 5.0.0
 nlmixr2auto 1.0.0
-nlmixr2autoinit 1.0.0
+nlmixr2autoinit 1.0.1
 nlmixr2data 2.0.9
 nlmixr2est 6.0.1
 nlmixr2extra 5.1.0
@@ -19326,7 +19326,7 @@ seminr 2.5.0
 seminrExtras 1.0.1
 SemiPar.depCens 0.1.3
 SemiparMF 1.0.0
-semlbci 0.11.5
+semlbci 0.11.6
 semlrtp 0.1.1
 semmcci 1.1.5
 semnar 0.8.2
@@ -19540,7 +19540,7 @@ shapr 1.0.8
 shapviz 0.10.3
 shar 2.3.1
 shard 0.1.1
-SHARK4R 1.1.1
+SHARK4R 1.2.0
 SharkDemography 1.1.0
 sharp 1.4.8
 sharpData 1.4
@@ -20912,7 +20912,7 @@ statioVAR 0.1.3
 statip 0.2.3
 statisfactory 1.0.4
 statisR 1.0.1
-StatisticTeach1 0.1.1
+StatisticTeach1 0.1.2
 statlingua 0.1.0
 StatMatch 1.4.3
 statMatchLCM 1.2
@@ -22080,7 +22080,7 @@ tint 0.1.6
 tinter 0.1.0
 tintin 0.2
 tinyarray 2.4.3
-tinycodet 0.6.2
+tinycodet 0.7.0
 tinyimg 0.4
 tinylabels 0.2.5
 tinylens 0.1.0

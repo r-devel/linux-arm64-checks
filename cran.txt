@@ -16330,7 +16330,7 @@ qrmtools 0.0-19
 qrng 0.0-11
 qrNLMM 4.0
 qrnn 2.1.1
-qryflow 0.2.0
+qryflow 0.4.0
 qs2 0.2.2
 QSARdata 1.3
 qshap 1.0.1

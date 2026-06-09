@@ -2100,7 +2100,7 @@ Brobdingnag 1.2-9
 BrokenAdaptiveRidge 1.0.2
 brokenstick 2.7.0
 brolgar 1.0.2
-broman 0.92
+broman 0.94
 broom 1.0.13
 broom.helpers 1.22.0
 broom.mixed 0.2.9.7
@@ -2409,6 +2409,7 @@ CaseBasedReasoning 0.4.1
 CaseCohortCoxSurvival 0.0.36
 caseMatch 1.1.0
 cases 0.2.0
+cash 1.0.2
 CASIdata 0.2.1
 casimir 0.3.3
 CASMI 2.0.0
@@ -2431,7 +2432,7 @@ catdata 1.2.5
 CatDataAnalysis 0.1-5
 CatDyn 1.1-1
 categoryEncodings 1.4.3
-catekappa 0.1.0
+catekappa 0.1.1
 CatEncoders 0.1.1
 catfun 0.1.4
 cati 0.99.6
@@ -2533,7 +2534,7 @@ cclustr 0.1.1
 CCM 1.2
 ccmEstimator 1.0.0
 CCMMR 0.2.1
-CCMnet 1.1.1
+CCMnet 1.1.2
 ccmReportR 0.1.0
 ccoptimalmatch 0.1.0
 ccostr 0.1.1
@@ -3534,6 +3535,7 @@ ConsensusOPLS 1.1.0
 conserveR 1.0.4
 consibiocloudclient 1.0.0
 consolechoice 1.1.1
+consolidatePacks 1.0.0
 consort 1.2.3
 consortr 0.9.1
 ConSpline 1.2
@@ -3717,7 +3719,7 @@ COST 0.1.0
 costat 2.4.1
 costsensitive 0.1.2.10
 CoTiMA 1.0.2
-cotram 0.6-0
+cotram 0.6-1
 cotrend 1.0.2
 COUNT 1.3.5
 countcolors 0.9.1
@@ -4136,7 +4138,7 @@ cvsem 1.0.0
 CVST 0.2-3
 CVThresh 1.1.2
 cvTools 0.3.3
-CVXR 1.8.2
+CVXR 1.9.1
 cwot 0.1.0
 CWT 0.2.1
 cxr 1.1.1
@@ -6287,7 +6289,7 @@ ExtendedLaplace 0.1.6
 exteriorMatch 1.0.0
 extlasso 0.3
 ExtMallows 0.1.0
-extr 1.1.0
+extr 1.1.1
 extractFAERS 0.1.4
 ExtractTrainData 9.1.6
 extraDistr 1.10.0.4
@@ -8806,7 +8808,7 @@ hapassoc 1.2-9
 Hapi 0.0.3
 Haplin 7.3.2
 haplo.stats 1.9.8.7
-HaploCatcher 1.0.4
+HaploCatcher 2.0.1
 HaploDiploidEquilibrium 0.1.0
 HaploSim 1.8.4.2
 haplotyper 0.1
@@ -9466,7 +9468,7 @@ icr 0.6.6
 ICS 1.4-2
 ICSClust 0.1.1
 ICSKAT 0.3.0
-ICSNP 1.1-2
+ICSNP 1.1-3
 ICSOutlier 0.4-1
 ICSS 1.1
 ICSShiny 0.6
@@ -12253,6 +12255,7 @@ mildsvm 0.4.1
 miLineage 2.1
 milorGWAS 0.7.1
 milr 0.4.1
+mimar 0.8.0
 mimdo 0.1.0
 mime 0.13
 MIMER 1.0.6
@@ -12760,7 +12763,7 @@ mopac 0.1.0
 MOQA 2.0.0
 morepls 0.2.1
 morestopwords 0.2.0
-mori 0.2.0
+mori 0.2.1
 morph 1.1.0
 morphemepiece 1.2.3
 morphemepiece.data 1.2.0
@@ -13498,6 +13501,7 @@ netSEM 0.7.0
 NetSimR 0.1.5
 netstat 0.1.2
 netsubsamp 1.0.0
+NetSurvProx 1.0.0
 nett 1.0.0
 nettskjemar 1.0.4
 netUtils 0.8.5
@@ -13543,6 +13547,7 @@ neuroSCC 1.0.2
 neuRosim 0.2-14
 neuroUp 0.3.1
 neutralitytestr 0.0.3
+NeutroCODsAnalysis 0.0.1
 NeutroIBDAnalysis 0.1.1
 NeutroRCDsAnalysis 0.1.0
 neutrostat 0.0.2
@@ -13719,7 +13724,7 @@ NMsim 0.2.7
 nmslibR 1.0.7
 NMTox 0.1.0
 NMVANOVA 1.1.0
-nmw 0.3.0
+nmw 0.3.1
 nn2poly 0.1.3
 nna 0.0.2.1
 nncc 2.0.0
@@ -15331,7 +15336,7 @@ PlayerChart 1.0.0
 PlayerRatings 1.1-0
 pldamixture 0.1.1
 pleio 1.9
-pleioh2g 0.1.2
+pleioh2g 0.1.3
 pleLMA 0.2.2
 PLEXI 1.0.0
 PLFD 0.2.1
@@ -18472,7 +18477,7 @@ RSDK 1.0.1
 rsdmx 0.6-5
 rsdNE 1.3.0
 rSDR 1.0.3.0
-rsdv 0.1.0
+rsdv 0.2.0
 RSE 1.3
 rSEA 2.1.2
 Rsearch 1.0.0
@@ -19799,7 +19804,7 @@ SimComp 3.6
 SimCop 0.7.4
 SimCorMultRes 1.9.0
 SimCorrMix 0.1.1
-simcross 0.8
+simcross 0.10
 simctest 2.6.1
 simDAG 1.0.0
 simdata 0.4.1
@@ -20498,6 +20503,7 @@ spcr 2.1.1
 spd 2.0-1
 spData 2.3.5
 spDates 1.1
+spDBL 1.0.2
 spdep 1.4-2
 spdesign 0.0.5
 spdgp 0.1.0

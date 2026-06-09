@@ -901,7 +901,6 @@ aTSA 3.1.2.1
 attachment 1.0.0
 attempt 0.3.1
 attention 0.4.0
-attenuation 1.0.0
 attrib 2021.1.2
 AUC 0.3.2
 auctionr 0.1.0
@@ -2250,7 +2249,7 @@ C443 3.4.0
 C50 0.2.0
 ca 0.71.1
 CA3variants 3.3.1
-cABCanalysis 1.0
+cABCanalysis 1.0.1
 cabinets 0.6.0
 cabootcrs 2.1.0
 cacc 0.1.1
@@ -3522,7 +3521,6 @@ connector.databricks 0.1.0
 connector.sharepoint 0.1.0
 connectwidgets 0.2.1
 ConnMatTools 0.3.5
-conogive 1.0.0
 conos 1.5.4
 conover.test 1.1.7
 conquer 1.3.3
@@ -3787,6 +3785,7 @@ cowbell 0.1.0
 cowfootR 0.1.3
 cowplot 1.2.0
 cowsay 1.2.2
+cox.rvph 0.1.1
 CoxAIPW 0.0.3
 CoxBcv 0.0.1.0
 CoxBoost 1.5.1
@@ -4461,7 +4460,7 @@ DecisionDrift 0.1.0
 decisionpaths 0.1.0
 decisionSupport 1.115
 deckgl 0.3.0
-deckroadmap 0.1.4
+deckroadmap 0.1.5
 declared 0.26
 DeclareDesign 1.1.1
 decode 1.2
@@ -6165,6 +6164,7 @@ evitaicossa 0.0-1
 evmissing 1.0.2
 evmix 2.12
 evmr 0.1.0
+evoFE 0.1.0
 evola 1.0.7
 evolMap 1.3.14
 evolqg 0.3-6
@@ -8815,6 +8815,7 @@ harmonicmeanp 3.0.1
 harmonizer 0.3.2
 harmony 2.0.4
 harmonydata 0.3.1
+harness 0.1.0
 HARplus 1.2.0
 HARr 1.1.0
 harrietr 0.2.3
@@ -11035,7 +11036,7 @@ llamaR 0.2.4
 LLM 1.1.0
 llm.api 0.1.4
 LLMAgentR 0.3.2
-llmclean 0.1.0
+llmclean 0.1.1
 llmcoder 1.2.0
 llmflow 3.0.2
 llmhelper 1.0.0
@@ -12509,7 +12510,7 @@ mlr3filters 0.9.1
 mlr3fselect 1.6.0
 mlr3hyperband 1.1.0
 mlr3inferr 0.2.1
-mlr3learners 0.14.0
+mlr3learners 0.15.0
 mlr3mbo 1.1.1
 mlr3measures 1.3.0
 mlr3misc 0.21.0
@@ -12540,7 +12541,7 @@ mlstm 0.1.7
 mlstrOpalr 1.0.3
 mlsurvlrnrs 0.0.8
 mlt 1.8-0
-mlt.docreg 1.1-12
+mlt.docreg 1.1-13
 mltest 1.0.3
 mltools 0.3.5
 mlts 2.0.1
@@ -14064,6 +14065,7 @@ officer 0.7.5
 offlineChange 0.0.4
 offsetreg 1.2.0
 ofGEM 1.0
+ofhsyn 0.1.1
 ofpetrial 0.1.3
 OGI 1.0.0
 oglcnac 0.1.5
@@ -14239,7 +14241,7 @@ opensimplex2 0.0.3
 openSkies 1.3.0
 OpenSourceAP.DownloadR 0.1.0
 OpenSpecy 1.5.3
-openssl 2.4.1
+openssl 2.4.2
 OpenStreetMap 0.4.1
 opentripplanner 0.5.2
 openVA 1.2.0
@@ -15309,6 +15311,7 @@ planets 0.1.0
 planr 0.6.4
 planscorer 0.0.3
 plantecophys 1.4-6
+plantmix 1.0.2
 plantphysioR 1.0.0
 plantTracker 1.2.1
 plasma 1.1.5
@@ -16363,6 +16366,7 @@ qsplines 1.0.1
 QsRutils 0.2.1
 qst 0.1.2
 qsub 1.1.3
+qtbi 0.1.2
 qte 1.3.1
 QTE.RD 1.2.0
 qtkit 1.1.1
@@ -16370,7 +16374,7 @@ qtl 1.74
 QTL.gCIMapping 3.4
 QTL.gCIMapping.GUI 2.1.1
 qtl2 0.42
-qtl2convert 0.32
+qtl2convert 0.34
 qtl2fst 0.30
 qtl2ggplot 1.2.6
 qtl2pattern 1.2.1
@@ -16397,6 +16401,7 @@ QuadratiK 1.2.0
 QuadRoot 0.2.1
 quadrupen 1.0-0
 quadVAR 0.1.2
+quak 0.1.0
 qualitycontrol 0.1.0
 QualityMeasure 2.0.1
 quallmer 0.4.0
@@ -17261,6 +17266,7 @@ REDCapCAST 26.1.1
 REDCapDM 1.0.1
 REDCapExporter 0.3.4
 REDCapR 1.6.0
+REDCapSync 0.1.1
 REDCapTidieR 1.2.5
 redcas 0.1.1
 redditadsR 0.1.0
@@ -19333,7 +19339,7 @@ semptools 0.3.3
 SEMsens 1.5.5
 SEMsensitivity 0.1.0
 semsfa 1.2
-semTests 0.7.1
+semTests 0.9.0
 semTools 0.5-8
 semtree 0.9.23
 semver 0.2.1
@@ -21132,7 +21138,6 @@ stylo 0.7.7
 Stype.est 0.1.0
 Styperidge.reg 0.1.0
 subdetect 1.3
-subformula 0.1.0
 subgroup 1.1
 SubgrpID 0.14
 subincomeR 0.5.0
@@ -21722,7 +21727,7 @@ terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.0
 TesiproV 0.9.6
-tesouror 0.2.2
+tesouror 0.2.3
 tesselle 1.6.0
 tesseract 5.2.5
 test.assessr 2.1.0
@@ -23352,6 +23357,7 @@ Waypoint 1.3.0
 waysign 0.1.1
 waywiser 0.6.3
 wbacon 0.6-3
+wbCorr 0.3.1
 WBI 0.1.0
 wbids 1.1.5
 wbs 1.4.1
@@ -23540,7 +23546,7 @@ wktmo 1.0.5
 WLogit 2.1
 WLreg 1.0.0.1
 wlsd 1.0.1
-WMAP 1.3.0
+WMAP 1.3.1
 wmm 1.1.1
 wmwAUC 0.2.0
 wmwm 1.0.0

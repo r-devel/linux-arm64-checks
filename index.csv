@@ -33,4 +33,3 @@ stelfi,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD
 taxonomizr,0.11.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/taxonomizr
 tidyILD,0.4.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/tidyILD
 tiledb,0.33.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/tiledb
-wjake,1.0.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/wjake

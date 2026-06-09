@@ -1,0 +1,4 @@
+ERROR: dependencies ‘cli’, ‘colorspace’, ‘dplyr’, ‘english’, ‘ggplot2’, ‘ggtext’, ‘gh’, ‘glue’, ‘gt’, ‘knitr’, ‘pak’, ‘rlang’, ‘rstudioapi’, ‘scales’, ‘showtextdb’, ‘stringr’, ‘sysfonts’, ‘systemfonts’, ‘xfun’ are not available for package ‘wjake’
+Perhaps try a variation of:
+install.packages(c('cli', 'colorspace', 'dplyr', 'english', 'ggplot2', 'ggtext', 'gh', 'glue', 'gt', 'knitr', 'pak', 'rlang', 'rstudioapi', 'scales', 'showtextdb', 'stringr', 'sysfonts', 'systemfonts', 'xfun'))
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/wjake’

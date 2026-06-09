@@ -2051,7 +2051,7 @@ brant 0.3-0
 braQCA 1.4.11.27
 brar 0.1
 brassica 1.0.3
-bravo 4.0.0
+bravo 4.1.0
 BrazilCrime 0.3.0
 BrazilDataAPI 0.2.0
 BrazilMet 0.4.0
@@ -2683,7 +2683,7 @@ CGGP 1.0.4
 cglasso 2.0.7
 cgmanalysis 3.2.0
 CGManalyzer 1.3.1
-cgmguru 1.0.1
+cgmguru 1.1.0
 CGMissingDataR 0.0.2
 cgmquantify 0.1.0
 CGNM 0.9.3
@@ -16373,7 +16373,7 @@ qtkit 1.1.1
 qtl 1.74
 QTL.gCIMapping 3.4
 QTL.gCIMapping.GUI 2.1.1
-qtl2 0.40
+qtl2 0.42
 qtl2convert 0.32
 qtl2fst 0.30
 qtl2ggplot 1.2.6
@@ -16821,7 +16821,7 @@ rBahadur 1.0.0
 RBaM 1.1.2
 RBaseX 1.1.2
 rBayesianOptimization 1.2.2
-rbbnp 0.3.0
+rbbnp 1.1.0
 RBBR 0.1.0
 rbc 0.1.1
 rbcb 0.1.14
@@ -21022,7 +21022,7 @@ stochcorr 0.0.1
 stochLAB 1.1.2
 stochQN 0.1.2-1
 StochSimR 1.1.0
-stochtree 0.4.2
+stochtree 0.4.4
 stochvol 3.2.9
 stochvolTMB 0.3.0
 stockAnalyst 1.0.1

@@ -1,6 +1,6 @@
 # gbm 2.2.3
 
-Latest run: 2026-06-07: https://github.com/r-devel/linux-arm64-checks/actions/runs/27080873849
+Latest run: 2026-06-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/27217229435
 
 ```
 Package: gbm
@@ -15,7 +15,7 @@ ARM64: ERROR
     test_relative_influence.R.....    0 tests    
     test_relative_influence.R.....    0 tests    
     test_relative_influence.R.....    0 tests    
-    test_relative_influence.R.....    1 tests OK 5.1s
+    test_relative_influence.R.....    1 tests OK 5.0s
     ----- FAILED[data]: test_least_squares.R<68--69>
      call| expect_true(abs(mean(data2$Y - f.predict)) < 0.01, info = "LS: checking if Gaussian absolute error within tolerance.")
      diff| Expected TRUE, got FALSE

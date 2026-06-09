@@ -1,6 +1,6 @@
 # mig 2.0
 
-Latest run: 2026-06-07: https://github.com/r-devel/linux-arm64-checks/actions/runs/27080995846
+Latest run: 2026-06-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/27217617322
 
 ```
 Package: mig
@@ -16,7 +16,7 @@ ARM64: ERROR
     test-loocv.R..................    2 tests OK 
     test-loocv.R..................    2 tests OK 
     test-loocv.R..................    2 tests OK 
-    test-loocv.R..................    3 tests OK 8ms
+    test-loocv.R..................    3 tests OK 9ms
     ----- FAILED[data]: test-derivatives.R<22--25>
      call| expect_equal(max(abs(mig_loglik_grad(x = samp, xi = xi, Omega = Omega, 
      call| -->    beta = beta) - t(apply(samp, 1, function(x) {

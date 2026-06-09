@@ -35,7 +35,6 @@ ABM 0.4.3
 abms 0.2
 abn 3.1.13
 abodOutlier 0.1
-aboveR 1.0.0
 ABPS 0.3
 ABRSQOL 1.0.0
 abseil 2023.8.2.1
@@ -2983,7 +2982,7 @@ CliftLRD 0.1-2
 climaemet 1.6.0
 ClimaRep 1.0
 climate 1.3.0
-climatehealth 1.0.1
+climatehealth 1.0.2
 climatekit 0.2.0
 climateStability 0.1.4
 climatol 4.5-0
@@ -3943,8 +3942,6 @@ CrossValidate 2.3.5
 crossvalidationCP 1.1
 crosswalkr 0.4.0
 crov 0.3.0
-CrownScorchTLS 0.1.1
-crownsegmentr 1.0.1
 crqa 2.1.0
 crrcbcv 1.0
 crrSC 1.1.2
@@ -4004,7 +4001,6 @@ csn 1.1.3
 csodata 1.5.1
 cspp 0.3.3
 csppData 0.2.61
-CspStandSegmentation 0.2.0
 csquares 0.1.0
 csranks 1.2.3
 cssTools 1.0
@@ -4114,7 +4110,7 @@ CUtools 0.1.0
 cutpoint 1.0.0
 cutpointr 1.2.1
 CutpointsOEHR 0.1.2
-cv 2.0.4
+cv 2.0.6
 cvap 0.1.6
 cvar 0.6
 cvasi 1.5.1
@@ -4474,7 +4470,7 @@ decompML 0.1.1
 decomposedPSF 0.2
 DecomposeR 1.0.7
 decompositionLE 1.0.0
-decompr 6.4.0
+decompr 6.9.0
 deconvolveR 1.2-1
 decor 1.0.2
 DecorateR 0.1.2
@@ -5239,7 +5235,6 @@ DSLite 1.4.1
 dsm 2.3.4
 dsmmR 1.0.7
 DSMolgenisArmadillo 4.0.1
-dsmSearch 1.2.2
 DSOpal 1.5.0
 dsos 0.1.2
 dsp 1.4.0
@@ -5298,7 +5293,7 @@ DTSg 2.1.0
 dtt 0.1-2.1
 dttr2 0.5.2
 dtts 0.1.4
-dtw 1.23-2
+dtw 1.23-3
 DTWBI 1.1
 dtwclust 6.0.0
 DTwrappers 0.0.2
@@ -6558,7 +6553,7 @@ faviconPlease 0.2.0
 favnums 1.0.0
 favr 1.0.0
 FAwR 1.2.0
-fb4package 2.0.0
+fb4package 2.1.0
 fbardl 1.0.2
 fBasics 4052.98
 fbati 1.0-11
@@ -6999,7 +6994,7 @@ FnR 1.1.0
 fntl 0.1.2
 FOCI 0.1.3
 FoCo2 0.1.3
-focus 0.1.5
+focus 0.1.6
 focusedMDS 1.3.3
 foghorn 1.6.1
 folda 0.2.0
@@ -7090,7 +7085,6 @@ forplo 0.2.5
 forrel 1.8.1
 forrest 0.3.0
 forstringr 1.0.0
-FORTLS 2.0.1
 fortniteR 0.1.0
 fortunes 1.5-4
 forward 1.0.7
@@ -8529,7 +8523,6 @@ GREENeR 1.0.2
 greenfeedr 1.3.1
 greenR 0.0.1.7
 GREENREG 0.1.0
-greenSD 0.1.1
 Greg 2.0.3
 GregoryQuadrature 1.0.0
 gregRy 0.1.0
@@ -10912,8 +10905,6 @@ librarysnapshot 0.1.2
 libstable4u 1.0.5
 LIC 0.0.2
 licoread 0.3.0
-lidaRtRee 4.0.8
-lidR 4.3.2
 lievens 0.0.1
 lifecontingencies 1.4.4
 lifecourse 2.0
@@ -12019,7 +12010,7 @@ metaMA 3.1.3
 metamedian 1.2.2
 metamer 0.3.0
 metamisc 0.4.0
-metamorphr 0.3.0
+metamorphr 0.4.0
 metan 1.19.0
 MetaNet 0.3.2
 metanetwork 0.7.0
@@ -13133,7 +13124,7 @@ MultiResponseR 1.4.1
 MultiRFM 1.1.0
 multirich 2.1.3
 multiridge 1.11
-multiRL 0.3.7
+multiRL 0.4.5
 MultiRNG 1.2.4
 MultiRobust 1.0.5
 multiSA 0.2.0
@@ -13220,7 +13211,7 @@ MVET 0.1.0
 mvfmr 0.1.0
 mvgam 1.1.594
 mvgb 0.0.6
-mvglmmRank 1.2-4
+mvglmmRank 1.2-5
 mvGPS 1.2.2
 mvhist 1.2
 mvhtests 1.2
@@ -15755,7 +15746,7 @@ PRBMSdesigns 1.0.1
 prcbench 1.1.10
 prcr 0.2.1
 PRDA 1.0.2
-pre 1.0.8
+pre 1.0.9
 PRECAST 1.9
 pRecipe 3.0.3
 precisely 0.1.2
@@ -16877,7 +16868,6 @@ rbtt 0.1.0
 rbw 0.3.2
 RbyExample 0.0.100
 RCA 2.0
-rcaiman 2.0.1
 RCAL 2.0
 RCALI 0.3.7
 RcamelsCL 0.2-0
@@ -16982,7 +16972,6 @@ rcompendium 1.4
 rconf 0.1.2
 rconfig 0.3.0
 RConics 1.1.2
-rcontroll 0.1.2
 rconvertu 1.1.0
 Rcope 1.0.0
 rCoreGage 1.1.0
@@ -17876,7 +17865,6 @@ rLakeAnalyzer 1.11.4.1
 rLakeHabitat 1.0.2
 rlandfire 2.0.2
 rlang 1.2.0
-rlas 1.9.3
 rlcv 1.0.0
 rLDCP 1.0.2
 rle 0.10.0
@@ -20345,7 +20333,6 @@ spam64 2.11-4
 spaMM 4.6.65
 spanish 0.4.2
 spanishoddata 0.2.6
-spanner 1.0.4
 spANOVA 0.99.4
 spant 4.1.0
 spantest 1.1-3
@@ -21322,7 +21309,7 @@ survNMA 1.1-1
 survobj 3.1.1
 survout 0.1.0
 survParamSim 0.1.7
-survPen 2.0.4
+survPen 2.0.5
 survPresmooth 1.1-12
 SurvRegCensCov 1.8
 survregVB 0.0.2
@@ -22409,7 +22396,6 @@ treestartr 0.1.0
 treestats 1.70.11
 treestructure 0.7.0
 TreeTools 2.4.0
-tReeTraits 0.1.2
 trekcolors 0.2.0
 trekfont 0.9.6
 trelliscopejs 0.2.11
@@ -23239,7 +23225,6 @@ voson.tcn 0.5.0
 VOSONDash 0.5.7
 vosonSML 0.35.1
 Voss 0.1.5
-vostokR 0.2.1
 vote 2.5-2
 voteogram 0.3.2
 votesmart 0.1.2

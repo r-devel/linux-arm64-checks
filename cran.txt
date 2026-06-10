@@ -213,7 +213,7 @@ adlift 1.4-6
 ADLP 0.1.0
 admiral 1.4.2
 admiral.test 0.7.0
-admiraldev 1.4.1
+admiraldev 1.5.0
 admiralmetabolic 0.3.0
 admiralneuro 0.2.1
 admiralonco 1.4.1
@@ -389,7 +389,7 @@ AIscreenR 0.3.2
 aisdk 1.4.12
 aisdk.providers 0.1.0
 aisoph 0.4
-AIUQ 0.5.4
+AIUQ 0.5.5
 ajv 1.0.0
 aka 0.2.0
 akc 0.9.9.3
@@ -933,7 +933,7 @@ autoCovariateSelection 1.0.0
 autodb 3.2.4
 AutoDeskR 0.5.0
 autoEnsemble 0.3
-autoFC 1.0.0.1000
+autoFC 1.0.0.1001
 autoFlagR 1.0.0
 autoFRK 1.4.4
 autogam 0.1.0
@@ -2884,6 +2884,7 @@ circular 0.5-2
 CircularBoxplots 0.1.2
 CircularDDM 0.1.0
 circularKDE 0.1.1
+CircularRegression 0.5.1
 CircularSilhouette 0.0.1
 circumplex 1.1.0
 cirls 0.4.0
@@ -3079,6 +3080,7 @@ clusteredMSM 0.1.0
 ClusteredMutations 1.0.2
 clusterGeneration 1.3.8
 clusterGGM 0.1.1
+clusterindices 1.0
 Clustering 1.7.10
 clustering.sc.dp 1.1
 clusterMI 1.6
@@ -4398,6 +4400,7 @@ dcmdata 0.2.0
 dcmle 0.4-2
 dcmodify 0.9.0
 dcmstan 0.1.0
+dcorBSS 1.0-0
 dcortools 0.1.7
 dcorVS 1.1
 dcov 0.1.1
@@ -4487,6 +4490,7 @@ deep 0.1.0
 deepdep 0.4.4
 deepgmm 0.2.1
 deepgp 1.2.1
+deepImp 1.1.0
 DeepLearningCausal 0.0.107
 deeplr 2.1.0
 deepMOU 0.1.1
@@ -5162,7 +5166,7 @@ drcSeedGerm 1.0.1
 drcte 1.0.65
 drda 2.0.5
 DrData 0.2.0
-DRDID 1.2.3
+DRDID 1.3.0
 dream 2.1.2
 dreamer 3.2.0
 dreamerr 1.5.0
@@ -5969,7 +5973,7 @@ epos 1.2
 epoxy 1.0.0
 eppoFindeR 2.0.0
 epr 3.0
-epsiwal 0.1.0
+epsiwal 0.2.0
 EPT 0.7.6
 epts 1.2.2
 epubr 0.6.5
@@ -6229,6 +6233,7 @@ excursions 2.5.11
 exdex 1.2.4
 exdqlm 1.0.0
 executablePackeR 0.0.2
+exeval 0.0.1
 ExGaussEstim 0.1.2
 exhaustiveRasch 0.3.7
 ExhaustiveSearch 1.0.2
@@ -6371,7 +6376,7 @@ FactoMineR 2.14
 factoptd 1.0.3
 factor.switching 1.4
 factor256 0.1.0
-factorana 1.3.4
+factorana 1.7.1
 FactorAssumptions 2.0.1
 FactorCopula 0.9.3
 FactorCopulaModel 0.1.1
@@ -6943,6 +6948,7 @@ flps 1.1.0
 FLR 1.0
 flsa 1.5.5
 FLSSS 9.2.8
+fluffy 1.0.0
 Fluidigm 0.2
 fluidsynth 1.0.2
 fluorojip 0.1.1
@@ -8310,7 +8316,7 @@ gmtFD 0.1.0
 gmvarkit 2.2.1
 gmvjoint 0.4.5
 gmwmx 1.0.3
-gmwmx2 0.0.4
+gmwmx2 0.0.5
 gMWT 1.4
 GMX 0.9-2
 GNAR 1.1.4
@@ -8349,7 +8355,7 @@ goft 1.3.6
 goftest 1.2-3
 gogarch 0.7-6
 goldfish 1.6.12
-goldilocks 0.4.0
+goldilocks 0.5.0
 golem 0.5.1
 golfastr 0.2.0
 golfr 0.1.0
@@ -8853,6 +8859,7 @@ HCD 1.0
 hce 0.9.3
 hchinamap 0.1.0
 hcidata 0.1.0
+hcinfer 0.1.0
 hclust1d 0.1.1
 hclusteasy 0.1.0
 hclustTeach 0.1.0
@@ -12498,7 +12505,7 @@ MLPUGS 0.2.0
 mlpwr 1.1.1
 mlquantify 0.2.0
 mlr 2.19.3
-mlr3 1.6.0
+mlr3 1.7.0
 mlr3batchmark 0.2.2
 mlr3benchmark 0.1.7
 mlr3cluster 0.3.0
@@ -12513,7 +12520,7 @@ mlr3inferr 0.2.1
 mlr3learners 0.15.0
 mlr3mbo 1.1.1
 mlr3measures 1.3.0
-mlr3misc 0.21.0
+mlr3misc 0.22.0
 mlr3oml 0.12.0
 mlr3pipelines 0.11.0
 mlr3resampling 2026.5.19
@@ -13170,6 +13177,7 @@ multxpert 0.1.1
 MulvariateRandomForestVarImp 0.0.2
 mumarinex 2.0
 MuMIn 1.48.19
+mums2 0.1.0
 munch 0.0.2
 munfold 0.3.5
 munsell 0.5.1
@@ -13445,7 +13453,6 @@ neptune 0.2.3
 nestable 0.1.0
 NeStage 0.8.0
 nestcolor 0.1.3
-nestedcv 0.8.2
 nestedLogit 0.4.2
 NestedMenu 0.2.0
 nestedpp 0.2.0
@@ -13476,7 +13483,7 @@ NetLogoR 1.0.6
 netmap 0.1.4
 netmediate 1.1.1
 netmem 1.0-3
-netmeta 3.5-0
+netmeta 3.6-0
 netmhc2pan 1.3.2
 NetMix 0.2.0.3
 NetOrigin 1.1-7
@@ -13539,7 +13546,7 @@ neuroSCC 1.0.2
 neuRosim 0.2-14
 neuroUp 0.3.1
 neutralitytestr 0.0.3
-NeutroCODsAnalysis 0.0.1
+NeutroCODsAnalysis 0.1.0
 NeutroIBDAnalysis 0.1.1
 NeutroRCDsAnalysis 0.1.0
 neutrostat 0.0.2
@@ -14477,7 +14484,7 @@ outlying 0.0.1
 outreg 0.2.2
 outrigger 1.1.0
 OutSeekR 1.1.0
-outstandR 1.0.0
+outstandR 2.0.0
 OUwie 2.10
 ovbsa 2.0.0
 overdisp 0.1.2
@@ -15283,6 +15290,7 @@ pkgGraphR 0.3.1
 pkgKitten 0.2.4
 pkglite 0.2.5
 pkgload 1.5.2
+pkgmatch 0.5.4
 pkgndep 2.0.0
 pkgnet 0.6.0
 pkgnews 0.0.2
@@ -15386,7 +15394,7 @@ plotrr 1.0.2
 plotscale 0.1.6
 plotscaper 0.2.8
 plotSEMM 2.4
-plotthis 0.12.0
+plotthis 0.12.1
 PlotTools 0.4.0
 plotwidgets 0.5.1
 plpoisson 0.3.1
@@ -16542,7 +16550,7 @@ r2r 0.1.2
 r2redux 1.0.18
 r2resize 2.0
 R2ROC 1.0.1
-r2rtf 1.3.0
+r2rtf 1.3.1
 R2sample 4.1.0
 r2shortcode 0.2
 r2social 1.2.1
@@ -18597,7 +18605,7 @@ RTCC 0.1.1
 rTCRBCRr 0.1.1
 RTD 0.4.2
 RTDE 0.2-2
-rtdists 0.11-5
+rtdists 0.11-6
 rtemis 1.0.0
 rtemis.a3 0.5.3
 rtemis.core 0.1.0
@@ -18767,7 +18775,7 @@ RYandexTranslate 1.0
 rym 1.1.2
 rYoutheria 1.0.3
 rytstat 0.3.2
-rYWAASB 0.3
+rYWAASB 0.4
 rzentra 0.1.0
 RZigZag 0.2.1
 rzmq 0.9.16
@@ -19115,7 +19123,7 @@ scov 2.0.0
 scPairs 0.1.8
 SCperf 1.1.1
 scperturbR 0.1.0
-scpi 4.0.0
+scpi 4.0.1
 scPloidy 0.6.2
 scplot 0.7.0
 scPOEM 0.1.3
@@ -20632,7 +20640,7 @@ spm2 1.1.3
 spMaps 0.5.0
 spMC 0.3.15
 spmixW 0.2.2
-spmodel 0.12.0
+spmodel 0.13.0
 spmoran 0.3.3
 spnaf 1.1.0
 spNetwork 0.4.4.7
@@ -21209,7 +21217,6 @@ SuperpixelImageSegmentation 1.0.6
 Superpower 0.2.4.1
 SuperRanker 1.2.1
 superspreading 0.4.0
-SuperSurv 0.1.2
 supervisedPRIM 2.0.0
 SupMZ 0.2.0
 SuppDists 1.1-9.9
@@ -21732,7 +21739,7 @@ TesiproV 0.9.6
 tesouror 0.2.3
 tesselle 1.6.0
 tesseract 5.2.5
-test.assessr 2.1.0
+test.assessr 2.1.2
 test2norm 0.3.0.1
 TestAnaAPP 1.1.2
 testarguments 0.0.1

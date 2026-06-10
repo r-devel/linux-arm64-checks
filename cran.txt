@@ -10231,7 +10231,7 @@ joineR 1.2.8
 joineRML 0.4.7
 joinet 1.0.0
 joinless 0.0.1
-joinpointR 0.6.2
+joinpointR 1.0.0
 joinspy 0.8.0
 joint.Cox 3.16
 JointAI 1.1.0
@@ -13282,7 +13282,7 @@ mwmapdata 1.0.0
 MWright 0.3.2
 mwshiny 2.1.0
 mwTensor 1.2.2
-mx.api 0.2.0
+mx.api 0.3.0
 mxcc 0.0.5
 mxfda 0.2.2-1
 mxkssd 1.2
@@ -19731,7 +19731,7 @@ shrink 1.2.3
 ShrinkageTrees 2.0.2
 ShrinkCovMat 2.1.0
 shrinkDSM 1.0.2
-shrinkem 0.2.0
+shrinkem 0.3.0
 shrinkGPR 2.0.0
 shrinkTVP 3.1.1
 shrinkTVPVAR 1.0.1
@@ -21611,7 +21611,7 @@ tbea 1.7.0
 TBEST 5.2
 TBFmultinomial 0.1.3
 tbl2xts 1.0.4
-tbm 0.3-10
+tbm 0.3-11
 tboot 0.2.1
 TBox 0.2.2
 TBRDist 2.0.0
@@ -23080,7 +23080,7 @@ velociraptr 1.1.0
 vembedr 0.1.5
 venn 1.13
 VennDiagram 1.8.2
-vennDiagramLab 2.0.5
+vennDiagramLab 2.4.2
 venneuler 1.1-4
 VennItem 1.1.0
 vennplot 1.0
@@ -23548,7 +23548,7 @@ wishmom 1.1.0
 withdots 0.1.1
 wither 0.1.0
 withr 3.0.2
-wizaRdry 0.6.8
+wizaRdry 0.6.16
 wjake 1.0.1
 wk 0.9.5
 wkb 0.4-0

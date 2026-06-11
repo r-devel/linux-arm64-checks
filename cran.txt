@@ -4676,7 +4676,7 @@ dexter 1.7.2
 dextergui 1.0.3
 df2yaml 0.3.1
 DFA 1.0.0
-DFA.CANCOR 0.3.9
+DFA.CANCOR 0.4.3
 dfadjust 1.1.0
 DFBA 0.1.0
 dfcomb 3.1-5
@@ -6830,7 +6830,7 @@ fitODBODRshiny 1.0.2
 fitplc 1.2-3.1
 fitPlotR 0.1.0
 fitPoly 4.0.0
-fitPS 1.0.1
+fitPS 1.0.6
 fitscape 0.1.0
 FITSio 2.1-6
 fitteR 0.2.0
@@ -10272,7 +10272,7 @@ jquerylib 0.1.4
 jrc 0.6.0
 jrich 0.60-35
 jrSiCKLSNMF 1.2.4
-jrt 1.1.3
+jrt 1.2.0
 jrvFinance 1.4.3
 js 1.2.1
 JSconsole 0.1.0
@@ -10737,7 +10737,7 @@ LBBNN 0.1.5
 LBDiscover 0.1.0
 lbfgs 1.2.1.2
 lbfgsb3c 2024-3.5
-LBI 0.2.4
+LBI 0.2.5
 lbm 0.9.0.2
 lboxcox 1.2
 LBPG 0.1.2

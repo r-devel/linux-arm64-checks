@@ -3396,7 +3396,7 @@ CompGR 0.1.3
 comphy 1.0.5
 Compind 3.4
 compIndexBuilder 1.0.0
-compindexR 0.1.3
+compindexR 0.1.4
 compindPCA 0.1.0
 completejourney 1.1.1
 complex 1.0.2
@@ -6871,7 +6871,7 @@ flexCountReg 0.1.1
 flexCWM 1.92
 flexdashboard 0.6.3
 FlexDir 1.0
-flexFitR 1.2.2
+flexFitR 1.2.3
 FlexGAM 0.7.2
 flexhaz 0.5.2
 flexiblas 3.4.0
@@ -7994,7 +7994,7 @@ ggquickeda 0.3.3
 ggquiver 0.4.0
 ggragged 0.2.0
 ggrain 0.1.2
-ggRandomForests 2.7.3
+ggRandomForests 3.1.0
 ggraph 2.2.2
 ggraptR 1.3
 ggrastr 1.0.2
@@ -21935,7 +21935,7 @@ tidygraph 1.3.1
 tidyHeatmap 1.13.1
 tidyheatmaps 0.2.1
 tidyhte 1.0.4
-tidyhydat 1.0.0
+tidyhydat 1.0.1
 tidyILD 0.4.0
 tidyjson 0.3.3.1
 tidyklips 0.3.0

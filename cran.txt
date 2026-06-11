@@ -4531,7 +4531,7 @@ deming 1.4-1
 DEmixR 0.1.1
 DemoDecomp 1.14.1
 demodelr 2.0.1
-demofit 0.1.3
+demofit 0.1.4
 demogR 0.6.0
 DemographicTable 0.2.3
 demography 2.0.1
@@ -11363,7 +11363,7 @@ maclogp 0.1.1
 macro 0.1.6
 macroBiome 0.4.0
 macrocol 0.1.0
-MacroFilters 0.1.0
+MacroFilters 0.2.1
 macrosyntR 0.3.3
 MacroZooBenthosWaterA 0.1.0
 mactivate 0.6.6
@@ -21251,7 +21251,7 @@ surveyframe 0.3.1
 surveygraph 1.0.0
 surveyplanning 4.0
 surveyPrev 1.0.0
-surveysd 2.0.2
+surveysd 2.0.3
 surveysearch 0.1.0
 surveySimR 0.1.0
 SurveyStat 1.0.3

@@ -1180,7 +1180,7 @@ batman 0.1.0
 batsch 0.1.1
 BATSS 1.2.0
 batteryreduction 0.1.1
-BAwiR 1.5.1
+BAwiR 1.5.2
 bayclumpr 0.1.0
 baycn 2.0.0
 bayefdr 0.2.1
@@ -1342,7 +1342,7 @@ BB 2026.1.0
 bbdetection 1.0
 BBEST 0.1-8
 BBI 0.3.0
-bbk 0.10.0
+bbk 0.11.0
 bbknnR 2.0.2
 bbl 1.0.0
 BBmisc 1.13.1
@@ -5984,7 +5984,7 @@ equateIRT 2.5.2
 equateMultiple 1.1.3
 equatiomatic 0.4.8
 equiBSPD 0.1.0
-equil2 1.0.0
+equil2 1.1.0
 EquiSurv 0.1.0
 EquiTrends 1.0.0
 equivalence 0.8.2
@@ -6934,7 +6934,7 @@ flsa 1.5.5
 FLSSS 9.2.8
 fluffy 1.0.0
 Fluidigm 0.2
-fluidsynth 1.0.2
+fluidsynth 1.0.3
 fluorojip 0.1.1
 fluoSurv 1.0.0
 fluspect 1.0.0
@@ -9638,6 +9638,7 @@ ImportanceIndice 0.0.2
 important 0.2.1
 ImportExport 1.3.1
 importinegi 1.2.1
+impower133 1.0.0
 imprecise101 0.2.2.4
 impressionist.colors 1.0
 imprinting 0.1.1
@@ -9794,7 +9795,7 @@ instaR 0.2.4
 insulin.secretion 0.0.2
 insuranceData 1.0
 insurancerating 0.8.0
-InsuSensCalc 0.0.1
+InsuSensCalc 0.1.0
 int3ract 1.0.7
 intamap 1.5-11
 intamapInteractive 1.2-7
@@ -12481,10 +12482,10 @@ MLPUGS 0.2.0
 mlpwr 1.1.1
 mlquantify 0.2.0
 mlr 2.19.3
-mlr3 1.7.0
+mlr3 1.7.1
 mlr3batchmark 0.2.2
 mlr3benchmark 0.1.7
-mlr3cluster 0.3.0
+mlr3cluster 0.4.0
 mlr3data 0.9.0
 mlr3db 0.7.2
 mlr3fairness 0.4.0
@@ -13271,6 +13272,7 @@ mycobacrvR 1.1
 mycolorsTB 0.1.1
 mycor 0.1.1
 myCRAN 1.3
+myIO 1.2.0
 MyoScore 1.0.1
 myownrobs 1.0.0
 myrror 0.1.2
@@ -14550,7 +14552,7 @@ PakPMICS2018mm 0.1.0
 PakPMICS2018mn 0.1.0
 pakret 0.3.1
 palaeoSig 2.1-4
-palaeoverse 1.4.0
+palaeoverse 1.5.0
 palasso 1.0.0
 pald 0.0.5
 paleoAM 1.0.1
@@ -16144,6 +16146,7 @@ pumBayes 1.0.2
 pumilioR 1.3.1
 PUMP 1.0.4
 puniform 0.2.8
+punycoder 1.0.0
 PUPAK 0.1.1
 PupillometryR 0.0.7
 PupilPre 0.6.3
@@ -16167,6 +16170,7 @@ Pv3Rs 1.0.0
 PVAClone 0.1-8
 pvaluefunctions 1.6.3
 pvar 2.2.7
+pvarife 0.1.1
 pvars 1.1.1
 PVBcorrect 0.3.1
 pvclass 1.4.1
@@ -16904,7 +16908,7 @@ RClickhouse 0.6.10
 RClimacell 0.1.4
 rclipboard 0.2.1
 rcloner 0.0.1
-rclsp 2.0.0
+rclsp 2.0.1
 rcmdcheck 1.4.0
 Rcmdr 2.12.3
 RcmdrMisc 2.10.1
@@ -18608,7 +18612,7 @@ rtlr 0.1.0
 rTLS 0.2.6.1
 RTMB 1.9
 RTMBdist 1.0.4
-rtmpinv 1.1.0
+rtmpinv 2.0.0
 rtmpinvi 1.1.0
 rtmpt 2.0-3
 rtms 0.2.0
@@ -18621,6 +18625,7 @@ rTPC 1.1.0
 rtpcr 2.1.8
 Rtrack 2.0.4
 RTransferEntropy 0.2.21
+rtrees 2.0.2
 rtrek 0.5.2
 rtrend 0.1.5
 rtrends 0.1.0
@@ -19150,7 +19155,7 @@ SDCNway 1.0.1
 sdcSpatial 0.6.1
 sdcTable 0.34.0
 sde 2.0.21
-SdeaR 1.0.2
+SdeaR 1.1.0
 sdetorus 0.1.10
 sdf.test 0.0.1.0
 SDGdetector 2.7.3
@@ -19561,6 +19566,7 @@ shinyaframe 1.0.1
 shinyalert 3.1.0
 shinyanimate 0.4.0
 shinyauthr 1.0.0
+ShinyBlock 0.1.3
 shinybody 0.1.3
 shinybrms 1.8.1
 shinybrowser 1.0.0
@@ -20300,7 +20306,7 @@ SpaceTimeBSS 0.4-0
 SPACO 1.0.1
 SpaCOAP 1.3
 spacyr 1.3.0
-spada 0.1.5
+spada 0.1.6
 SPADAR 1.0
 spAddins 0.2.0
 SpadeR 0.1.1
@@ -20684,6 +20690,7 @@ sqlq 1.0.1
 SqlRender 1.19.5
 sqlstrings 1.0.0
 sqltargets 0.3.0
+SQMtools 1.8.0
 SQN 1.0.6
 SQRL 1.0.3
 squant 1.1.7
@@ -20815,7 +20822,7 @@ stampr 0.3.1
 stan4bart 0.0-12
 STAND 2.0
 standardize 0.2.2
-standardlastprofile 1.1.0
+standardlastprofile 2.0.0
 standartox 0.0.2
 standby 0.2.0
 standrecon 0.1.0
@@ -21440,6 +21447,7 @@ sysfonts 0.8.9
 sysid 1.0.5
 syslognet 0.1.2.1
 Sysrecon 0.1.3
+sysreqr 0.1.0
 systemfit 1.1-30
 systemfonts 1.3.2
 SystemicR 0.1.0
@@ -21490,6 +21498,7 @@ tabstats 0.2.0
 tabtibble 0.0.1
 tabula 3.3.2
 tabulapdf 1.0.5-5
+tabular 0.1.0
 tabularaster 0.7.2
 tabularmaps 0.1.0
 tabularMLC 0.0.4
@@ -22594,6 +22603,7 @@ turner 0.2.0
 TurtleGraphics 1.0-8
 Tushare 0.1.4
 tutorial.helpers 0.6.1
+tutorizeR 0.4.5
 TUvalues 1.1.1
 TUWmodel 1.1-1
 tv 2.0.2
@@ -23595,7 +23605,7 @@ wrassp 1.0.6
 wrds 0.1.1
 WrensBookshelf 0.1.0
 WRestimates 0.1.0
-wrGraph 1.3.15
+wrGraph 1.3.16
 WRI 0.2.3
 wrictools 1.0.1
 WrightMap 1.4

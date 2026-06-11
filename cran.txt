@@ -4848,7 +4848,7 @@ disclap 1.5.1
 disclapmix 1.7.5
 disclapmix2 0.6.1
 disclosuR 0.6.0
-discnorm 0.2.1
+discnorm 0.2.2
 discoCVI 0.1.1
 discord 1.3
 DiSCos 0.1.3
@@ -6827,7 +6827,7 @@ fivethirtyeight 0.6.2
 FixedPoint 0.6.3
 fixedTimeEvents 1.0.1
 fixerapi 0.1.6
-fixes 0.8.1
+fixes 0.11.2
 fixest 0.14.1
 fixr 0.2.0
 FixSeqMTP 0.1.2
@@ -7789,7 +7789,7 @@ GetoptLong 1.1.1
 getPass 0.2-4
 getProxy 1.13
 GetQuandlData 1.0.0
-getRad 0.2.4
+getRad 0.3.0
 gets 0.38
 getspanel 0.2.1
 getspres 0.2.0
@@ -15844,7 +15844,7 @@ priorCON 0.1.7
 PriorGen 2.0
 prioriactions 0.5.0
 prioritizr 8.1.0
-prioritizrdata 0.3.2
+prioritizrdata 0.3.3
 priorityelasticnet 1.2.1
 prioritylasso 0.3.1
 priorsense 1.2.0
@@ -16719,7 +16719,7 @@ rapidraker 0.1.3
 rapidsplithalf 0.7
 rapidxmlr 0.1.0
 RApiSerialize 0.1.4
-Rapp 0.3.0
+Rapp 0.4.0
 RAppArmor 3.2.5
 rappdirs 0.3.4
 rappleads 0.1.3
@@ -17517,7 +17517,7 @@ RESTK 1.0.2
 restoptr 1.1.1
 RestoreNet 1.0.1
 restrictR 0.1.0
-restriktor 0.6-30
+restriktor 0.6-50
 RestRserve 1.2.4
 result 0.1.0
 resultcheck 0.2.1
@@ -17764,7 +17764,7 @@ RISCA 1.0.7
 rise 1.0.4
 rIsing 0.1.0
 Risk 1.0
-risk.assessr 3.1.1
+risk.assessr 4.1.0
 riskclustr 0.4.1
 riskCommunicator 1.0.1
 riskdiff 0.3.0
@@ -17882,7 +17882,7 @@ rlog 0.2.0
 RLogicalOps 0.1
 RLoptimal 1.2.2
 rlowdb 0.2.0
-rlppinv 1.1.0
+rlppinv 2.0.0
 RLRsim 3.1-9
 RLT 3.2.6
 rLTP 0.1.4
@@ -18613,7 +18613,7 @@ rTLS 0.2.6.1
 RTMB 1.9
 RTMBdist 1.0.4
 rtmpinv 2.0.0
-rtmpinvi 1.1.0
+rtmpinvi 2.0.0
 rtmpt 2.0-3
 rtms 0.2.0
 rtmsEcho 0.2.4
@@ -23580,7 +23580,7 @@ wosr 0.3.0
 WOTPLY 0.1.0
 woylier 0.0.9
 wpa 1.10.1
-wpeR 0.1.0
+wpeR 0.2.0
 WPKDE 1.0
 wpp2008 1.0-1
 wpp2010 1.2-0

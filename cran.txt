@@ -4930,7 +4930,7 @@ distrDoc 2.8.5
 distrEllipse 2.8.4
 distrEx 2.9.6
 Distributacalcul 0.4.0
-distributional 0.7.0
+distributional 0.7.1
 DistributionIV 0.1.3
 DistributionOptimization 1.2.6
 distributions3 0.2.3
@@ -5167,7 +5167,7 @@ drcte 1.0.65
 drda 2.0.5
 DrData 0.2.0
 DRDID 1.3.0
-dream 2.1.2
+dream 2.1.3
 dreamer 3.2.0
 dreamerr 1.5.0
 DREGAR 0.1.4.0
@@ -13663,7 +13663,7 @@ nlmixr2data 2.0.9
 nlmixr2est 6.0.1
 nlmixr2extra 5.1.0
 nlmixr2lib 0.3.2
-nlmixr2plot 5.0.1
+nlmixr2plot 5.0.2
 nlmixr2rpt 0.2.2
 nlmixr2targets 0.1.0
 nlmm 1.1.1
@@ -14259,7 +14259,7 @@ openxlsx2 1.27
 operator.tools 1.6.3.1
 operators 0.2.0
 opGMMassessment 0.4.1
-OPI 3.1.0
+OPI 3.1.1
 opImputation 0.6
 opinAr 1.0.0
 OPL 1.0.2
@@ -17538,7 +17538,7 @@ restatapi 0.25.0
 restatis 0.4.1
 restaurant 0.1.0
 restez 2.1.5
-restfulr 0.0.16
+restfulr 0.0.17
 restimizeapi 1.0.0
 RESTK 1.0.2
 restoptr 1.1.1

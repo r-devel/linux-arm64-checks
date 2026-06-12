@@ -1210,6 +1210,7 @@ bayesDiagnostics 0.1.0
 BayesDIP 0.1.1
 BayesDissolution 0.2.1
 bayesDP 1.3.7
+bayesefa 0.0.0.6
 bayesEO 0.2.2
 BayesERtools 0.2.5
 BayesESS 0.1.19
@@ -3585,6 +3586,7 @@ Convolutioner 0.1.0
 convoSPAT 1.2.7
 cooccure 0.1.1
 CooccurrenceAffinity 2.0.0
+cookie 1.0.0
 cookiecutter 0.1.0
 cookiemonster 0.1.0
 cookies 0.2.3
@@ -3618,6 +3620,7 @@ CopulaGAMM 0.6.5
 CopulaInference 0.5.0
 copulareg 0.1.0
 CopulaREMADA 1.7.5
+CopulaSCR 1.0.1
 copulaSFM 0.2.0
 copulaSim 0.0.1
 copulaSQM 0.1.0
@@ -3640,6 +3643,7 @@ corels 0.0.5
 CoreMicrobiomeR 0.1.0
 coreNLP 0.4-3
 coreSim 0.2.4
+coresynth 0.2.0
 corHMM 2.8
 corkscrew 1.1
 corlink 1.0.0
@@ -5456,7 +5460,7 @@ EBMAforecast 1.0.33
 ebmc 1.0.1
 ebmstate 0.1.5
 ebnm 1.1-42
-ebrahim.gof 1.0.0
+ebrahim.gof 2.0.0
 EBrank 1.0.0
 eBsc 4.17
 ebTobit 1.0.2
@@ -11137,6 +11141,7 @@ LogConcDEAD 1.6-12
 logconcens 0.17-4
 logcondens 2.1.9
 logcondiscr 1.0.7
+logcumulant 0.1.0
 logger 0.4.2
 logging 0.10-111
 loggit 2.1.1
@@ -13620,6 +13625,7 @@ nixtlar 0.6.2
 NlcOptim 0.6
 nlcv 0.3.6
 nleqslv 3.3.7
+nlfh 0.1.0
 nlgeocoder 0.2.2
 nlgm 1.0
 NlinTS 1.4.7
@@ -14611,7 +14617,6 @@ pangoling 1.0.3
 PanJen 1.6
 pannotator 1.1.0
 PANPRSnext 1.2.1
-panstarrs 0.2.3
 PantaRhei 0.1.2
 papaja 0.1.5
 papeR 1.0-6
@@ -16138,6 +16143,7 @@ pullword 0.3
 PulmoDataSets 0.2.1
 puls 0.1.3
 pulsar 0.3.13
+pulso 0.1.0
 pumBayes 1.0.2
 pumilioR 1.3.1
 PUMP 1.0.4
@@ -19023,6 +19029,7 @@ scGOclust 0.2.1
 scgwr 0.1.2-21
 SChangeBlock 0.1.1
 sched 1.0.3
+schemate 0.1.0
 schematic 0.1.2
 schemr 0.3.1
 schmear 0.1.0
@@ -19044,6 +19051,7 @@ scidesignR 1.0.0
 scientific 2025.1
 scientoText 0.1
 scifigure 0.2
+scilintr 0.1.1
 scimetr 1.2.0
 scimo 0.0.3
 scindex 0.1.0
@@ -20511,6 +20519,7 @@ SPEDInstabR 2.2
 spEDM 1.12
 speech 0.1.5
 speechbr 2.0.0
+speechmatics 0.1.0
 speedglm 0.3-5
 speedyBBT 1.0
 speedycode 0.3.0

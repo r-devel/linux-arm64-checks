@@ -207,13 +207,13 @@ adjustr 0.2.0
 adklakedata 0.7.1
 adlift 1.4-6
 ADLP 0.1.0
-admiral 1.4.2
+admiral 1.5.0
 admiral.test 0.7.0
 admiraldev 1.5.0
 admiralmetabolic 0.3.0
 admiralneuro 0.2.1
 admiralonco 1.4.1
-admiralophtha 1.4.0
+admiralophtha 1.5.0
 admiralpeds 0.3.0
 admiralvaccine 0.6.0
 admisc 0.40
@@ -762,7 +762,7 @@ arkhe 1.11.0
 arl 0.1.4
 arlclustering 1.0.5
 arm 1.15-3
-armadillo4r 0.9.0
+armadillo4r 1.0.0
 ARMALSTM 0.1.0
 armaOptions 1.0.1
 armspp 0.0.3
@@ -1997,7 +1997,7 @@ box.linters 0.10.7
 box.lsp 0.1.4
 boxcoxmix 0.46
 boxfilter 0.2
-boxly 0.1.1
+boxly 0.1.2
 boxplotcluster 0.3
 boxplotdbl 1.4.0
 boxr 0.3.7
@@ -3829,7 +3829,7 @@ cpp11armadillo 0.5.4
 cpp11bigwig 0.1.3
 cpp11eigen 0.2.0
 cpp11qpdf 1.3.5
-cpp4r 0.6.0
+cpp4r 1.0.0
 cppally 0.1.0
 cppcheckR 1.0.0
 cppcontainers 1.0.5
@@ -6509,7 +6509,7 @@ fastqrs 1.0.0
 fastR2 1.2.5
 fastrc 0.0.2
 FastRCS 0.0.9
-fastreg 0.13.0
+fastreg 0.13.8
 fastrep 0.7
 fastrerandomize 0.3
 FastRet 1.3.0
@@ -7324,7 +7324,7 @@ future.callr 0.10.2
 future.mirai 0.10.1
 future.tests 0.9.0
 futureverse 0.2.0
-futurize 0.3.0
+futurize 1.0.0
 fuzzr 0.2.2
 FuzzyAHP 0.9.5
 FuzzyClass 0.1.7
@@ -9426,7 +9426,7 @@ icensBKL 1.5
 icensmis 1.5.0
 icertool 0.0.3
 icesAdvice 2.1.1
-IceSat2R 1.0.9
+IceSat2R 1.1.0
 icesConnect 1.1.4
 icesDatras 1.4.1
 icesDatsu 1.2.1
@@ -10164,7 +10164,7 @@ jcolors 0.0.5
 jcp 1.2
 JCRImpactFactor 1.0.0
 Jcvrisk 0.1.3
-JDCruncheR 0.3.6
+JDCruncheR 0.4.0
 jdenticon 0.1.1
 Jdmbs 1.4
 jds.rmd 0.3.4
@@ -11991,7 +11991,7 @@ metalcor 1.0.0
 metaLik 0.44.0
 metalite 0.1.4
 metalite.ae 0.1.3
-metalite.sl 0.1.1
+metalite.sl 0.1.2
 metalite.table1 0.4.0
 metaLong 0.1.0
 MetAlyzer 1.1.0
@@ -12971,7 +12971,7 @@ MTA 0.6.0
 mtanan 0.0.1
 mtaOpenData 0.1.0
 MTAR 0.1.1
-mtarm 0.1.8
+mtarm 0.1.9
 mtb 0.1.9
 mtdesign 0.1.4
 MTE 1.2.1
@@ -18400,7 +18400,7 @@ rrefine 2.1.0
 rreg 0.2.1
 rregm 1.2
 rrepast 0.8.0
-Rrepest 1.6.13
+Rrepest 1.6.14
 rres 1.1
 RRF 1.9.4.1
 RRgeo 0.0.6
@@ -21492,7 +21492,7 @@ tablespan 0.3.2
 tablet 0.8.1
 TableToLongForm 1.3.2
 tablexlsx 1.1.0
-tabnet 0.8.0
+tabnet 0.9.0
 taboolaR 0.1.0
 tabpfn 0.2.0
 tabr 0.5.5

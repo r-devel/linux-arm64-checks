@@ -8674,6 +8674,7 @@ gtexture 1.0.1
 gtfs2emis 0.1.2
 gtfs2gps 2.1-4
 gtfsio 1.2.1
+gtfsrealtime 0.2.1
 gtfsrouter 0.1.4
 gtfstools 1.4.0
 gtheoryr 0.1.0
@@ -11828,6 +11829,7 @@ MDMA 2.0.0
 mdmb 1.9-22
 MDMR 0.5.2
 MDOLS 1.0
+MDP2 2.2.2.0
 mdpeer 1.0.1
 MDPIexploreR 0.3.0
 MDPtoolbox 4.0.3
@@ -13260,6 +13262,7 @@ MWright 0.3.2
 mwshiny 2.1.0
 mwTensor 1.2.2
 mx.api 0.3.0
+mx.crypto 0.2.0
 mxcc 0.0.5
 mxfda 0.2.2-1
 mxkssd 1.2
@@ -13481,7 +13484,7 @@ netsubsamp 1.0.0
 NetSurvProx 1.0.0
 nett 1.0.0
 nettskjemar 1.0.4
-netUtils 0.8.5
+netUtils 0.8.6
 NetVAR 0.1-2
 NetWeaver 0.0.6
 network 1.20.0
@@ -20098,6 +20101,7 @@ SMNCensReg 3.1
 SMNlmec 1.0.2
 smof 1.2.2
 smoke 2.0.1
+SmokingHistoryGenerator 6.5.3-1.0.1
 smoof 1.7.0
 smooth 4.4.0
 smoothbp 0.2.2

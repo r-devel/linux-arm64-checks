@@ -1212,7 +1212,7 @@ BayesDissolution 0.2.1
 bayesDP 1.3.7
 bayesefa 0.0.0.6
 bayesEO 0.2.2
-BayesERtools 0.2.5
+BayesERtools 0.2.6
 BayesESS 0.1.19
 bayesestdft 1.0.0
 BayesFactor 0.9.12-4.8
@@ -1350,7 +1350,7 @@ BBmisc 1.13.1
 bbmix 1.0.0
 bbmle 1.0.25.1
 bbnet 1.2.1
-bbotk 1.10.0
+bbotk 1.10.1
 bbreg 2.0.2
 bbssr 1.0.2
 bbw 0.3.1
@@ -1710,7 +1710,7 @@ BioPETsurv 0.1.0
 biopixR 1.2.0
 BioPred 1.0.2
 BioProbability 1.0
-bioRad 0.11.0
+bioRad 0.12.0
 bioregion 1.4.0
 BioRssay 1.1.0
 Bios2cor 2.2.2
@@ -2511,6 +2511,7 @@ CC 1.0
 CCA 1.2.2
 CCAMLRGIS 4.3.1
 ccaPP 0.3.5
+ccar3 0.1.2
 cccd 1.6
 cccm 0.1.0
 cccp 0.3-3
@@ -15875,7 +15876,7 @@ probaverse 0.1.0
 ProbBayes 1.1
 ProbBreed 1.0.4.9
 probe 1.1
-ProbeDeveloper 1.1.1
+ProbeDeveloper 1.1.2
 ProbitSpatial 1.1
 ProbMarg 1.0.1
 probout 1.1.2
@@ -17666,7 +17667,7 @@ rgph 0.1.0
 rgplates 0.6.1
 rgraph6 2.0-5
 RGraphics 3.0-2
-RGraphSpace 1.3.0
+RGraphSpace 1.4.0
 rgrass 0.5-3
 RGreenplum 0.1.2
 RGremlinsConjoint 0.9.1
@@ -18541,7 +18542,7 @@ rstackdeque 1.1.1
 rstan 2.32.7
 rstanarm 2.32.2
 rstanbdp 0.0.3
-rstanemax 0.1.9
+rstanemax 0.1.10
 rstantools 2.6.0
 RStanTVA 0.3.2
 RStata 1.1.2

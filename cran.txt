@@ -2214,7 +2214,7 @@ BuyseTest 3.3.9
 buzzMed 0.1.2
 Bvalue 1.0
 BVAR 1.0.5
-bvarnet 1.0.0
+bvarnet 1.0.1
 bvars 1.0
 bvarsv 1.1
 bvartools 0.2.4
@@ -4953,7 +4953,7 @@ diveR 0.1.2
 diverge 2.0.6
 DiversificationR 0.1.0
 diversitree 0.10-1
-diversityArch 0.3.0
+diversityArch 0.4.0
 diversityForest 0.6.0
 DiversityStats 0.1.0
 divest 1.2.0

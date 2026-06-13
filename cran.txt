@@ -4284,7 +4284,7 @@ datarium 0.1.0
 datarobot 2.18.8
 datasauRus 0.1.9
 dataSDA 0.2.6
-dataseries 0.2.0
+dataseries 1.0.0
 dataset 0.4.5
 datasetjson 0.3.0
 datasets.load 2.3.0
@@ -22434,7 +22434,7 @@ TrioSGL 1.1.0
 trip 1.10.0
 tripack 1.3-9.4
 tripEstimation 0.0-46
-triplediff 0.2.0
+triplediff 0.2.4
 TripleR 1.5.5
 triplesmatch 1.1.0
 tripsAndDipR 0.1.0

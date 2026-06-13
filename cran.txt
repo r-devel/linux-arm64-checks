@@ -12057,7 +12057,7 @@ MethEvolSIM 0.3.0
 methFuse 1.1.0
 MethodCompare 1.1.0
 MethodOpt 1.0.0
-MethScope 1.0.1
+MethScope 1.0.2
 MeTo 0.1.1
 metools 1.0.0
 metR 0.18.3
@@ -23203,7 +23203,6 @@ vntrs 0.2.1
 vocaldia 0.8.4
 voi 1.0.3
 voice 0.5.6
-voiceR 0.1.0
 voigt 2.0
 vol2birdR 1.3.0
 volatilityTrader 1.0.1

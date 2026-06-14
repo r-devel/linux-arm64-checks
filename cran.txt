@@ -2350,7 +2350,7 @@ carbonr 0.2.7
 carcass 1.9
 card 0.1.1
 card.pro 2.3.0
-cardargus 0.2.2
+cardargus 0.2.3
 carData 3.0-6
 CardiacDP 0.4.2
 cardidates 0.4.9

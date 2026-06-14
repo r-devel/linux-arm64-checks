@@ -1,6 +1,6 @@
 # HausdorffGoF 0.3.0
 
-Latest run: 2026-06-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/27216508061
+Latest run: 2026-06-14: https://github.com/r-devel/linux-arm64-checks/actions/runs/27486291009
 
 ```
 Package: HausdorffGoF

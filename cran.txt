@@ -8569,7 +8569,7 @@ GroupBN 1.2.0
 groupcompare 1.0.1
 GroupComparisons 0.1.0
 groupdata2 2.0.5
-groupedHyperframe 0.4.1
+groupedHyperframe 0.4.2
 groupedHyperframe.random 0.3.1
 groupedSurv 1.0.5.1
 grouper 0.5.0
@@ -9317,7 +9317,7 @@ hydroTSM 0.8-6
 hyfo 1.4.6
 HyMETT 1.1.3
 hyper.fit 1.2.2
-hyper.gam 0.3.0
+hyper.gam 0.3.1
 hyper2 3.2
 hyperbolicDEA 1.0.2
 HyperbolicDist 0.6-5
@@ -22174,7 +22174,7 @@ togglr 0.2.1
 TOHM 1.4
 tokenbrowser 0.1.6
 tokenizers 0.3.0
-tokenizers.bpe 0.1.5
+tokenizers.bpe 0.1.6
 tolerance 3.0.0
 tomba 1.0.1
 toml 1.1.0

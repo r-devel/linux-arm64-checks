@@ -1,6 +1,6 @@
 # ecoregime 0.3.1
 
-Latest run: 2026-06-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/27217162834
+Latest run: 2026-06-14: https://github.com/r-devel/linux-arm64-checks/actions/runs/27486483545
 
 ```
 Package: ecoregime

@@ -7958,7 +7958,7 @@ ggmuller 0.7.0
 ggmulti 1.0.9
 ggnetwork 0.5.14
 ggnewscale 0.5.2
-ggnormalviolin 0.2.1
+ggnormalviolin 0.3.0
 ggOceanMaps 2.3.0
 ggokabeito 0.1.0
 ggordiplots 0.4.3
@@ -13694,7 +13694,7 @@ NMcalc 0.0.4
 NMdata 0.2.4
 NMF 0.28
 nmfbin 0.2.1
-nmfkc 0.7.3
+nmfkc 0.8.2
 NMFN 2.0.1
 Nmisc 0.3.7
 Nmix 2.0.5

@@ -524,7 +524,7 @@ analogsea 1.0.7.2
 analogue 0.18.1
 AnalyzeFMRI 1.1-25
 analyzer 1.0.1
-ananke 0.2.0
+ananke 0.3.0
 AnanseSeurat 1.2.0
 aNCA 0.1.0
 AnchorRegression 0.1.3
@@ -1338,6 +1338,7 @@ bayou 2.3.2
 bayprior 0.2.12
 baystability 0.2.0
 BAYSTAR 0.2-10
+baytaAAR 1.0.3
 baytrends 2.0.14
 BB 2026.1.0
 bbdetection 1.0
@@ -2458,6 +2459,7 @@ causalDisco 1.1.0
 causaldrf 0.4.2
 causalDT 1.0.0
 causaleffect 1.3.15
+causalfrag 0.1.1
 CausalGPS 0.5.1
 causalHyperGraph 0.1.0
 CausalImpact 1.4.1
@@ -2546,6 +2548,7 @@ cd 0.1.0
 cdata 1.2.1
 CDatanet 2.2.2
 cdcanthro 0.2.0
+cdCAT 0.1.0
 cdcatR 1.0.7
 CDCPLACES 1.2.1
 cdcsis 2.0.5
@@ -5490,7 +5493,7 @@ echo.find 4.0.1
 echogram 0.1.3
 echoice2 0.2.5
 echor 0.1.9
-echos 1.0.3
+echos 1.0.4
 ecic 0.0.4
 ecipex 1.1.1
 eclipseplot 0.9.7
@@ -8087,7 +8090,7 @@ ghapps 1.1.1
 Ghat 0.2.0
 ghclass 0.4.0
 ghcm 3.0.1
-GHCNr 1.4.6
+GHCNr 1.4.7
 ghibli 0.3.4
 Ghost 0.1.0
 ghql 0.1.2
@@ -8152,7 +8155,7 @@ gittargets 0.0.7
 givitiR 1.3
 gjam 2.7
 gJLS2 0.2.0
-GJRM 0.2-6.8
+GJRM 0.2-6.9
 GJRM.data 0.1-1
 gk 0.6.0
 GK2011 0.1.3
@@ -8244,7 +8247,7 @@ globe 1.2-0
 glober 1.0
 gloBFPr 0.1.3
 globpso 1.3.1
-glogis 1.0-2
+glogis 1.0-3
 glorenz 0.1.1
 glossa 1.2.4
 glossary 1.0.0
@@ -10786,6 +10789,7 @@ leafpop 0.1.0
 leafSTAR 1.0
 leafsync 0.1.0
 leaftime 0.2.0
+leafwax 0.2.7
 leakr 0.1.0
 leakyIV 0.0.1
 leapgp 1.0.0
@@ -11298,6 +11302,7 @@ lsr 0.5.2
 lsReg 1.0.0
 LSRS 0.2.0
 lss2 1.1
+lssdoc 0.1.0
 LST 2.0.0
 LSTbook 0.6
 LSTMfactors 1.0.0
@@ -11988,6 +11993,7 @@ metaHelper 1.0.0
 metaheuristicOpt 2.0.0
 MetaHunt 0.1.0
 metainc 0.2-1
+metainsight 7.1.0
 MetaIntegration 0.1.2
 MetaLandSim 2.0.0
 metalcor 1.0.0
@@ -12788,6 +12794,7 @@ moult 2.3.1
 mountainplot 1.4
 mousetRajectory 0.2.1
 mousetrap 3.2.3
+MOutliers 0.1.1
 move 4.2.7
 move2 0.5.0
 movecost 2.2
@@ -13681,7 +13688,7 @@ nlts 1.0-2
 nLTT 1.4.10
 nlWaldTest 1.1.3
 NMA 3.1-1
-NMADTA 0.1.3
+NMADTA 0.1.4
 NMAforest 0.1.3
 nmaINLA 1.1.0
 NMAoutlier 0.2.1
@@ -14040,7 +14047,7 @@ ODT 1.0.0
 OdysseusCharacterizationModule 0.0.1
 OdysseusPathwayModule 0.0.1
 OdysseusSurvivalModule 0.1.0
-odyssey 1.0.0
+odyssey 1.0.1
 OECD 0.2.5
 oecdoda 0.1.0
 OEFPIL 0.1.2
@@ -14414,7 +14421,7 @@ osktnorm 1.1.2
 OSLdecomposition 1.2
 osmapiR 0.2.5
 osmclass 0.1.5
-osmdata 0.3.0
+osmdata 0.4.0
 osmextract 0.6.0
 OSMscale 0.5.23
 OSNMTF 0.1.0
@@ -15270,7 +15277,7 @@ pkggraph 0.3.1
 pkgGraphR 0.3.1
 pkgKitten 0.2.4
 pkglite 0.2.6
-pkgload 1.5.2
+pkgload 1.5.3
 pkgmatch 0.5.4
 pkgndep 2.0.0
 pkgnet 0.6.0
@@ -15646,6 +15653,7 @@ POV 0.1.4
 pow.int 1.3
 powdist 0.1.4
 PoweR 1.1.4
+power.nb 0.1.0
 power.transform 1.0.4
 Power2Stage 0.5-4
 power4mome 0.2.1
@@ -15829,7 +15837,7 @@ prider 1.0.6
 pridit 1.1.1
 prim 1.0.23
 PRIMAL 1.0.3
-primarycensored 1.5.0
+primarycensored 1.5.1
 primate 0.2.0
 primefactr 0.1.1
 primePCA 1.2
@@ -16616,7 +16624,7 @@ ragg 1.5.2
 RagGrid 0.2.0
 ragnar 0.3.0
 rags2ridges 2.2.9
-ragtop 1.2.0
+ragtop 1.2.1
 rai 1.0.0
 rainbow 3.8
 RAINBOWR 0.1.38
@@ -16674,7 +16682,7 @@ RandomProjectionTest 0.1.4
 randomUniformForest 1.1.6
 Randomuseragent 0.0.1
 RandomWalker 1.0.0
-randotools 0.2.6
+randotools 0.2.8
 randPedPCA 1.1.3
 RandPro 0.2.2
 randtests 1.0.2
@@ -16806,7 +16814,7 @@ raymolecule 0.5.3
 rayrender 0.38.10
 rayshader 0.37.3
 raytracing 0.6.0
-rayvertex 0.12.0
+rayvertex 0.15.0
 rb3 0.1.0
 rbacon 3.5.2
 rBahadur 1.0.0
@@ -16872,7 +16880,7 @@ Rcapture 1.4-4
 RCarb 0.1.8
 rcarbon 1.5.2
 rcartocolor 2.1.2
-Rcatch22 0.2.3
+Rcatch22 0.2.5
 rcatfish 1.0.3
 RCaucTile 1.0.4
 RcausalEGM 0.3.3
@@ -17160,6 +17168,7 @@ readelan 0.1.0
 readepi 1.0.6
 reader 1.1.0
 readHAC 1.0
+readimf 0.1.0
 readJDX 0.6.4
 readMDTable 0.3.3
 readme2vignette 0.1.0
@@ -17303,7 +17312,7 @@ refseqR 1.1.5
 refset 0.1.1
 REFT 0.1.4
 refuge 0.3.3
-refugees 2025.06.1
+refugees 2025.12.0
 refund 0.1-40
 refund.shiny 1.1.1
 refundBayes 0.6.0
@@ -17718,7 +17727,7 @@ ribiosMath 1.2.0
 ribiosPlot 1.3.0
 ribiosUtils 1.7.7
 ricci 0.1.1
-rice 2.1.0
+rice 2.2.0
 ricegeneann 1.0.2
 riceidconverter 1.1.1
 riceware 0.4
@@ -17754,6 +17763,7 @@ rinat 0.1.10
 rineq 0.3.0
 rinet 0.1.1
 ring 1.0.8
+ringbp 1.0.0
 ringostat 0.1.5
 RInside 0.2.19
 RInSp 1.2.5
@@ -18884,7 +18894,7 @@ sams 0.4.3
 SAMtool 1.9.1
 SAMTx 0.3.0
 SAMUR 1.1
-sanba 0.0.3
+sanba 0.0.4
 sand 2.0.0
 sandbox 0.2.2
 sandwich 3.1-1
@@ -19293,6 +19303,7 @@ sem 3.1-16
 semantic.assets 1.1.0
 semantic.dashboard 0.2.1
 SemanticDistance 0.1.1
+semanticfa 0.1.0
 semaphore 1.2.0
 semboottools 0.1.2.1
 SEMdeep 1.1.1
@@ -21912,6 +21923,7 @@ tidyclust 0.3.0
 tidycmprsk 1.1.2
 tidycomm 0.4.2
 TidyConsultant 0.1.2
+tidycorrgram 0.1.0
 tidycountries 0.1.0
 tidyCpp 0.0.11
 tidycwl 1.0.7

@@ -2446,7 +2446,7 @@ catSurv 1.6.0
 CATT 2.0
 CATTexact 0.1.1
 catviz 0.1.1
-cauchypca 1.3
+cauchypca 1.4
 caugi 1.2.0
 cauphy 1.0.3
 causact 0.6.0

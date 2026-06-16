@@ -1061,7 +1061,7 @@ baffle 0.2.2
 bage 0.10.9
 bagged.outliertrees 1.0.0
 baggingbwsel 1.1
-baggr 0.8
+baggr 0.8.2
 BAGofT 1.0.0
 baguette 1.1.0
 BagWhiskerPlot 0.1.0
@@ -1546,7 +1546,7 @@ BiasCorrector 0.2.3
 BiasedUrn 2.0.12
 bib2df 1.1.2.0
 biblio 0.0.12
-bibliometrix 5.4.0
+bibliometrix 5.4.1
 bibliometrixData 0.3.0
 biblionetwork 0.1.0
 bibliorefer 0.1.3
@@ -1934,7 +1934,7 @@ bonsaiforest 0.1.1
 booami 0.1.3
 boodd 0.1
 boodist 1.0.0
-bookdown 0.46
+bookdown 0.47
 booklet 1.0.0
 BoolNet 2.1.9
 Boom 0.9.16
@@ -2018,7 +2018,7 @@ bpnreg 2.0.3
 bpp 1.0.6
 bpr 1.0.8
 BPrinStratTTE 0.0.7
-bpvars 1.0
+bpvars 2.0
 bqror 1.7.1
 bqtl 1.0-39
 BRACE 0.1.0
@@ -2379,7 +2379,7 @@ CARM 2.0.0
 CARME 0.1.1
 CARMS 1.0.1
 caROC 0.1.5
-caroline 0.9.9
+caroline 1.0.0
 carpenter 0.2.3
 carrier 0.3.0.4
 CARRoT 3.0.2
@@ -2403,7 +2403,7 @@ CaseBasedReasoning 0.4.1
 CaseCohortCoxSurvival 0.0.36
 caseMatch 1.1.0
 cases 0.2.0
-cash 1.0.2
+cash 1.0.3
 CASIdata 0.2.1
 casimir 0.3.3
 CASMI 2.0.0
@@ -3549,7 +3549,7 @@ container 1.1.0
 containr 0.1.3
 ContaminatedMixt 1.3.8
 contdid 0.1.0
-contentanalysis 1.1.0
+contentanalysis 1.1.1
 contentid 0.0.19
 contentValidity 0.2.0
 conText 3.0.1
@@ -5221,7 +5221,7 @@ dsBaseClient 6.3.5
 DSBayes 2023.1.0
 dscore 2.0.0
 dscoreMSM 0.1.0
-dsem 2.0.1
+dsem 3.0.0
 DSFM 1.0.1
 dsge 1.0.0
 DSI 1.8.0
@@ -5843,7 +5843,7 @@ enmSdmX 1.2.12
 ENMTools 1.1.5
 enpls 6.1.1
 EnrichIntersect 1.0
-enrichit 0.1.4
+enrichit 0.1.5
 enrichR 3.4
 enrichwith 0.5.0
 EnsCat 1.1
@@ -6457,7 +6457,7 @@ fastbeta 0.5.1
 fastbioclim 0.4.2
 fastcluster 1.3.0
 fastcox 1.1.4
-fastcpd 0.16.2
+fastcpd 1.0.0
 FastCUB 0.0.4
 fastdid 1.0.6
 fastDummies 1.7.6
@@ -7032,7 +7032,7 @@ forecastLSW 1.1.1
 FoReco 1.2.1
 FoRecoML 1.0.0
 ForeComp 1.0.0
-forecTheta 3.0
+forecTheta 3.0.3
 foreign 0.8-91
 forensicolors 1.0.0
 forensicpopdata 1.0.4
@@ -10453,7 +10453,7 @@ kkmeans 0.1.3
 kknn 1.4.1
 kko 1.0.1
 klaR 1.7-4
-klassR 1.0.5
+klassR 1.0.6
 klausuR 0.12-14
 kldest 1.0.0
 kldtools 1.2
@@ -11151,7 +11151,6 @@ logcondiscr 1.0.7
 logcumulant 0.1.0
 logger 0.4.2
 logging 0.10-111
-loggit 2.1.1
 loggit2 2.4.0
 logib 0.2.1
 logiBin 0.3
@@ -12062,7 +12061,7 @@ MethEvolSIM 0.3.0
 methFuse 1.1.0
 MethodCompare 1.1.0
 MethodOpt 1.0.0
-MethScope 1.0.2
+MethScope 1.0.3
 MeTo 0.1.1
 metools 1.0.0
 metR 0.18.3
@@ -12794,7 +12793,7 @@ moult 2.3.1
 mountainplot 1.4
 mousetRajectory 0.2.1
 mousetrap 3.2.3
-MOutliers 0.1.1
+MOutliers 0.1.2
 move 4.2.7
 move2 0.5.0
 movecost 3.0.0
@@ -13423,7 +13422,7 @@ neighbours 0.1-5
 neldermead 1.0-13
 Nematode 0.3.0
 nemBM 1.00.01
-nemsqar 1.2.0
+nemsqar 1.2.1
 nemtr 0.0.1.0
 neo2R 3.0.0
 neo4jshell 0.1.2
@@ -13960,7 +13959,6 @@ nVennR2 2.0.1
 nvmix 0.1-2
 nycflights13 1.0.2
 nycflights23 0.2.0
-nycOpenData 0.2.1
 nzffdr 2.1.0
 nzilbb.labbcat 1.5-1
 nzilbb.vowels 0.4.3
@@ -15580,7 +15578,7 @@ pop.wolf 1.0
 popbayes 1.3
 popbio 2.8
 PopComm 1.0.0
-popdemo 1.3-3
+popdemo 1.3-4
 PoPdesign 1.1.0
 PopED 0.7.0
 popEpi 0.4.14
@@ -15859,7 +15857,7 @@ prioriactions 0.5.0
 prioritizr 8.1.0
 prioritizrdata 0.3.3
 priorityelasticnet 1.2.1
-prioritylasso 0.3.1
+prioritylasso 0.4.0
 priorsense 1.2.0
 prism 0.3.0
 PRISM.forecast 0.2.1
@@ -16160,7 +16158,7 @@ pumBayes 1.0.2
 pumilioR 1.3.1
 PUMP 1.0.4
 puniform 0.2.8
-punycoder 1.0.0
+punycoder 1.1.0
 PUPAK 0.1.1
 PupillometryR 0.0.7
 PupilPre 0.6.3
@@ -16811,7 +16809,7 @@ raws.profile 0.1.0
 raybevel 0.2.2
 rayimage 0.26.1
 raymolecule 0.5.3
-rayrender 0.38.10
+rayrender 0.41.3
 rayshader 0.37.3
 raytracing 0.6.0
 rayvertex 0.15.0
@@ -18180,7 +18178,6 @@ ROCR 1.0-12
 rocrateR 0.1.0
 ROCS 1.4
 ROCSI 0.1.0
-ROCsurf 0.1.1
 ROCsurvcomp 0.1.2
 rocsvm.path 0.1.0
 rocTools 0.1.3
@@ -19165,7 +19162,7 @@ sdam 1.1.4
 sdamr 0.2.0
 SDAR 0.9-55
 SDAResources 0.1.1
-sdbuildR 1.0.8
+sdbuildR 2.0.0
 sdcHierarchies 0.23.1
 sdcLog 0.5.1
 sdcMicro 5.8.2
@@ -19428,7 +19425,7 @@ SeroTrackR 1.1.1
 serp 0.2.5
 serpstatr 0.4.2
 serrsBayes 0.5-0
-servr 0.32
+servr 0.33
 SEset 1.0.1
 SESraster 0.7.1
 sessioncheck 0.1
@@ -20032,7 +20029,7 @@ SLIC 0.3
 SlicedLHD 1.0
 Slick 1.0.1
 SlideCNA 0.1.0
-slideimp 1.1.0
+slideimp 1.2.0
 slider 0.3.3
 slideview 0.2.1
 SlidingWindows 0.2.0
@@ -20117,7 +20114,7 @@ smoke 2.0.1
 SmokingHistoryGenerator 7.0.0
 smoof 1.7.0
 smooth 4.4.0
-smoothbp 0.2.4
+smoothbp 0.2.7
 smoothedIPW 0.1.0
 smoothedLasso 1.6
 smoothemplik 0.0.17
@@ -20445,7 +20442,7 @@ spatialreg.hp 0.0-2
 SpatialRegimes 1.2
 spatialRegroup 0.1.0
 spatialRF 1.1.5
-spatialrisk 0.8.0
+spatialrisk 0.8.1
 SpatialRoMLE 0.1.1.1
 spatialsample 0.6.1
 spatialTIME 1.3.4-5
@@ -22095,7 +22092,7 @@ tinyspotifyr 0.2.3
 tinytable 0.16.0
 tinytest 1.4.3
 tinytest2JUnit 1.1.3
-tinytex 0.59
+tinytex 0.60
 tinythemes 0.0.4
 tinytiger 0.0.11
 tinyVAST 1.6.0

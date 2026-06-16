@@ -545,7 +545,7 @@ animation 2.8
 animbook 1.0.1
 animejs 0.1.0
 animint2 2025.10.17
-animl 3.2.0
+animl 3.3.0
 anipaths 0.10.6
 aniSNA 1.1.1
 aniview 0.1.0
@@ -1321,6 +1321,7 @@ bayesTFR 7.4-4
 BayesTools 0.3.0
 BayesTree 0.3-1.5
 BayesTreePrior 1.0.1
+BayesTSM 1.0.1
 BayesTwin 1.0
 BayesVarSel 2.4.5
 bayesvl 1.0.0
@@ -1664,7 +1665,7 @@ BinSegBstrap 1.0-1
 binsegRcpp 2025.5.13
 binseqtest 1.0.4
 binsmooth 0.2.2
-binspp 0.2.3
+binspp 0.2.4
 binsreg 2.1
 binst 0.2.1
 BINtools 0.2.0
@@ -2018,6 +2019,7 @@ bpnreg 2.0.3
 bpp 1.0.6
 bpr 1.0.8
 BPrinStratTTE 0.0.7
+bptips 0.1.0
 bpvars 2.0
 bqror 1.7.1
 bqtl 1.0-39
@@ -2576,6 +2578,7 @@ CDSE 0.3.2
 CDSim 0.1.2
 CDSS 0.3-1
 CDVI 0.1.0
+CEACT 0.5.0
 ceas 1.3.0
 ceblR 1.0.0
 CEC 0.11.3
@@ -2895,6 +2898,7 @@ CITAN 2025.7.1
 citation 0.12.2
 citationchaser 0.0.4
 citecorp 0.3.0
+CiteSource 0.2.1
 citestR 0.1.1
 cities 0.1.3
 CITMIC 0.1.3
@@ -5417,6 +5421,7 @@ easyDes 6.0
 EasyDescribe 0.1.2
 easyEWAS 1.0.1
 easylabel 0.3.3
+easyLSEA 0.2.1
 EasyMx 0.4-2
 easyNCDF 0.1.4
 easynem 1.0.3
@@ -7072,6 +7077,7 @@ formatR 1.14
 formattable 0.2.1
 formatters 0.5.12
 formods 0.2.2
+formr 1.1.0
 FormShare 1.0.1
 Formula 1.2-5
 formula.tools 1.7.1
@@ -7618,6 +7624,7 @@ GeneralizedUmatrixGPU 0.1.14
 GeneralizedWendland 0.6.1
 GeneralOaxaca 1.0
 generalRSS 0.1.3
+GenerateIndexPedigree 1.0.0
 generator 0.1.0
 GenericML 0.2.2
 generics 0.1.4
@@ -7949,6 +7956,7 @@ ggmapcn 0.3.0
 ggmapinset 0.5.0
 ggmatplot 0.1.3
 ggmcmc 1.5.1.2
+ggmemo 0.1.0
 ggmice 0.1.1
 ggmix 0.0.2
 ggmlR 0.7.8
@@ -8174,6 +8182,7 @@ glasso 1.11
 glassoFast 1.0.1
 glasstabs 0.3.2
 glba 0.2.1
+GLBFP 0.5.1
 glca 1.4.2
 glcm 1.6.6
 GLCMTextures 0.6.3
@@ -9300,6 +9309,7 @@ hydra 0.1.0
 hydraulics 0.7.2
 hydReng 1.0.0
 HYDROCAL 1.0.0
+hydrocan 0.0.1
 HydroCode 1.0.3
 hydroDCindex 1.0.0
 hydrodownloadR 0.1.3
@@ -9521,6 +9531,7 @@ ie2miscdata 1.0.4
 ieeeround 0.2-2
 ieegio 0.1.0
 iemisctext 1.0.1
+ierd 0.1.1
 IETD 1.0.0
 ieTest 2.1
 ieugwasr 1.1.0
@@ -11040,6 +11051,7 @@ llmcoder 1.2.0
 llmflow 3.0.2
 llmhelper 1.0.0
 LLMing 1.2.1
+llmjoin 0.3.0
 llmjson 0.1.0
 LLMR 0.6.4
 llmshieldr 0.1.0
@@ -13598,6 +13610,7 @@ niaidMI 1.1.0
 niarules 0.3.1
 nic 0.0.2
 nice 0.4-2
+nicheR 0.1.0
 nicheROVER 1.1.2
 nichetools 0.3.3
 nichevol 0.1.20
@@ -14114,7 +14127,7 @@ OmopConstructor 0.3.0
 omopgenerics 1.3.7
 omophub 1.8.1
 OmopOnSpark 0.1.0
-OmopSketch 1.0.1
+OmopSketch 1.1.0
 OmopStudyBuilder 0.1.1
 OmopViewer 0.7.0
 ompr 1.0.4
@@ -16190,7 +16203,7 @@ pvclass 1.4.1
 pvclust 2.2-0
 pvcurveanalysis 1.0.0
 pvda 0.0.4
-pvEBayes 0.2.2
+pvEBayes 0.3.0
 pvldcurve 1.2.6
 pvLRT 0.5.1
 PVR 0.3
@@ -17750,7 +17763,7 @@ rifreg 1.1.0
 RIFS 0.1.6
 rifttable 0.7.2
 Rigma 0.3.0
-rigr 1.0.9
+rigr 1.0.10
 riingo 0.3.1
 Rilostat 2.5.0
 rim 0.8.1
@@ -18520,6 +18533,7 @@ rsparkling 0.2.19
 rsparse 0.5.3
 Rspc 1.2.2
 rSPDE 2.5.2
+rspdlite 0.1.0-1
 RSpectra 0.16-2
 rSpectral 1.0.0.16
 RSpincalc 1.0.2

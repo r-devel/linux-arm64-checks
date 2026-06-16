@@ -3958,7 +3958,7 @@ CRTSize 1.2
 CRTspat 1.4.0
 crul 1.6.0
 crumble 0.1.2
-crunch 1.31.1
+crunch 1.31.2
 cruts 1.1
 crwbmetareg 1.0
 cry 0.5.2
@@ -13191,7 +13191,7 @@ MuViCP 1.3.2
 MUVR2 0.1.0
 MVA 1.0-9
 mvabund 4.2.8
-mvalpha 0.5.1
+mvalpha 0.6.0
 MVar 2.2.9
 MVar.pt 2.2.9
 mvardlurt 1.0.2
@@ -13439,7 +13439,7 @@ neotoma2 1.0.12
 nephro 1.5
 NEpiC 1.0.1
 neptune 0.2.3
-nestable 0.1.0
+nestable 0.1.1
 NeStage 0.8.0
 nestcolor 0.1.3
 nestedLogit 0.4.2

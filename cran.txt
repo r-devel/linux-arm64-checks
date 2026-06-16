@@ -2565,7 +2565,7 @@ cdlei 1.0
 cdlsim 0.1.0
 cdlTools 1.13
 CDM 8.3-14
-CDMConnector 2.5.1
+CDMConnector 2.6.0
 cdmTools 1.0.6
 cdnbcr 1.1.1
 cdom 0.1.1
@@ -2881,6 +2881,7 @@ circuitscaper 0.1.0
 circular 0.5-2
 CircularBoxplots 0.1.2
 CircularDDM 0.1.0
+circularEV 0.1.2
 circularKDE 0.1.1
 CircularRegression 0.5.1
 CircularSilhouette 0.0.1
@@ -3994,7 +3995,7 @@ CSIndicators 1.2.0
 csmaps 2025.8.21
 csmbuilder 0.1.0
 CSMES 1.0.1
-csmGmm 0.4.0
+csmGmm 0.5.0
 csmpv 1.0.5
 csn 1.1.3
 csodata 1.5.1
@@ -4082,7 +4083,7 @@ curl 7.1.0
 currencyapi 0.1.0
 currentSurvival 1.1
 CurricularAnalytics 1.0.0
-CurricularComplexity 1.0.1
+CurricularComplexity 1.0.2
 CurricularComplexityData 0.2.0
 curriculr 0.3.0
 currr 0.1.2
@@ -4580,7 +4581,7 @@ DEoptimR 1.2-0
 depcache 0.1-2
 DepCens 0.2.3
 depCensoring 0.1.10
-depcoeff 0.1.1
+depcoeff 1.0.1
 depend.truncation 3.0
 dependentsimr 1.0.0.0
 DepLogo 1.2.2
@@ -5526,7 +5527,7 @@ econdataverse 0.1.2
 econet 1.0.0.1
 EcoNetGen 0.2.4
 EconGeo 2.0
-EcoNiche 1.0.2
+EcoNiche 1.0.3
 econid 0.0.3
 economiccomplexity 2.1.0
 econtools 0.1.1
@@ -7164,7 +7165,7 @@ frechet 0.3.0
 fred 0.2.0
 fredr 2.1.0
 free 1.0.2
-free1way.docreg 1.0-0
+free1way.docreg 1.0-1
 freealg 1.1-8
 freebird 1.0
 freebsdcontribs 0.1.0
@@ -7716,7 +7717,7 @@ geomapdata 2.0-2
 GeomArchetypal 1.0.3
 geomaroc 0.1.1
 geomerge 0.3.4
-geometa 0.9.3
+geometa 0.10.0
 GeometricMorphometricsMix 0.6.1.1
 geometries 0.2.5
 geometry 0.5.2
@@ -11699,7 +11700,7 @@ MBA 0.1-3
 MBAnalysis 2.2.0
 mbbefd 0.8.14
 MBBEFDLite 1.0.0
-MBC 0.10-7
+MBC 0.10-8
 MBCbook 0.1.2
 mbend 1.3.1
 MBESS 5.0.1
@@ -16582,7 +16583,7 @@ RAC 1.5.5
 racademyocean 0.3.3
 rAccess 0.1.1.3
 RaCE.NMA 1.0.3
-RaceID 0.4.1
+RaceID 0.4.2
 raceland 1.2.2
 racir 2.0.0
 Racmacs 1.2.9
@@ -16925,7 +16926,7 @@ rcloner 0.0.1
 rclsp 2.0.1
 rcmdcheck 1.4.0
 Rcmdr 2.12.3
-RcmdrMisc 2.10.1
+RcmdrMisc 2.10.2
 RcmdrPlugin.aRnova 0.0.6
 RcmdrPlugin.BWS1 0.3-0
 RcmdrPlugin.BWS2 0.3-0
@@ -18574,6 +18575,7 @@ rsurvstat 0.1.4
 rsvd 1.0.5
 rsvddpd 1.0.1
 rsvg 2.7.0
+rswipl 10.1.9
 Rsymphony 0.1-33
 rsyncrosim 2.1.13
 rsyntax 0.1.4
@@ -21131,7 +21133,7 @@ STV 1.0.3
 stxplore 0.1.0
 styler 1.11.0
 stylest2 0.1
-stylo 0.7.7
+stylo 0.7.71
 Stype.est 0.1.0
 Styperidge.reg 0.1.0
 subdetect 1.3
@@ -21726,7 +21728,7 @@ terrainr 0.7.6
 terralink 1.8.0
 TesiproV 0.9.6
 tesouror 0.2.3
-tesselle 1.6.0
+tesselle 1.7.0
 tesseract 5.2.5
 test.assessr 2.1.2
 test2norm 0.3.0.1
@@ -22397,7 +22399,7 @@ treesliceR 1.1.0
 treespace 1.1.4.4
 treeSS 0.1.50
 treestartr 0.1.0
-treestats 1.70.11
+treestats 1.71.12
 treestructure 0.7.0
 TreeTools 2.4.0
 trekcolors 0.2.0

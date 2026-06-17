@@ -796,7 +796,7 @@ arulesSequences 0.2-32
 arulesViz 1.5.4
 ARUtools 0.7.3
 ArvindSt 1.0.0
-aRxiv 0.18
+aRxiv 0.20
 asaur 0.50
 asbio 1.13-1
 ascii 2.6
@@ -1229,7 +1229,7 @@ BayesGPfit 1.1.0
 BayesGrowth 1.0.0
 BayesGWQS 0.1.1
 bayesian 1.0.1
-BayesianDEB 0.1.4
+BayesianDEB 0.2.1
 BayesianDisaggregation 0.1.2
 bayesianETAS 2.0.1
 BayesianFitForecast 1.1.0
@@ -1702,7 +1702,7 @@ BioM2 1.1.3
 biomartr 1.0.7
 BIOMASS 2.2.7
 biometrics 1.0.4
-biometryassist 1.4.0
+biometryassist 1.5.0
 biomod2 4.3-4-6
 BioMonTools 1.2.4
 BioMoR 0.1.1
@@ -3176,7 +3176,7 @@ CNID 2.1.1
 CNLTreg 0.1-2
 CNLTtsa 0.1-2
 cnmap 0.1.2
-cNORM 3.5.4
+cNORM 3.6.0
 CNprep 2.2
 CNPS 1.0.0
 CNSigs 0.1.0
@@ -5041,7 +5041,7 @@ docopt 0.7.2
 docopulae 0.4.0
 docorator 0.6.0
 docore 1.0
-Docovt 0.3
+Docovt 0.6
 docstring 1.0.0
 doctest 0.4.0
 document 4.0.1
@@ -7685,7 +7685,7 @@ GeoAdjust 2.0.1
 geoAr 1.2.2
 geoarrow 0.4.3
 geoarrowWidget 0.1.0
-geoBayes 0.7.6
+geoBayes 0.7.7
 geobounds 0.1.2
 geobr 2.0.0
 geocacheR 0.1.0
@@ -9165,7 +9165,7 @@ holobiont 0.1.3
 holodeck 0.2.2
 Holomics 1.2.1
 homals 1.0-11
-HOME 0.1.0
+HOME 0.1.1
 Homeric 0.1-3
 hommel 1.8
 homnormal 0.1
@@ -9993,7 +9993,7 @@ iRoCoDe 1.0.1
 IRon 0.1.5
 ironseed 0.3.0
 irpfR 0.1.1
-irr 0.84.1
+irr 0.85
 IRR2FPR 0.1.1
 irrCAC 1.4
 IrregLong 0.4.1
@@ -10569,7 +10569,7 @@ kssa 0.0.5
 kst 0.5-5
 kStatistics 2.1.1
 kstIO 0.5-1
-kstMatrix 2.3-2
+kstMatrix 2.3-3
 ktaucenters 1.0.0
 KTensorGraphs 1.1
 ktsolve 1.4
@@ -15412,7 +15412,7 @@ plsmselect 0.2.0
 plspm 0.6.0
 plsRbeta 0.3.3
 plsRcox 1.8.2
-plsRglm 1.7.0
+plsRglm 1.7.1
 plssem 0.1.2
 plsVarSel 0.10.0
 plu 0.3.0
@@ -18545,7 +18545,7 @@ rsppfp 1.0.4
 rsprite2 0.2.1
 rsq 2.7
 RSQL 0.2.2
-RSQLite 3.53.1
+RSQLite 3.53.2
 RSQLite.toolkit 0.1.2
 RSqlParser 1.5
 RsqMed 1.1
@@ -19426,7 +19426,7 @@ sequential.pops 0.1.1
 SequentialDesign 1.0
 sequoia 3.2.0
 seqwrap 0.7.0
-serad 0.2.0
+serad 0.2.1
 sergeant 0.9.1
 serial 3.1.1
 seriation 1.5.8
@@ -19759,7 +19759,7 @@ sidrar 0.2.9
 Sie2nts 0.1.0
 siebanxicor 1.0.0
 SiER 0.1.0
-siera 0.5.5
+siera 0.5.6
 Sieve 2.1
 sievePH 1.1
 sievetest 1.2.3

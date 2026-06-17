@@ -2663,7 +2663,7 @@ cfda 0.12.1
 cfdecomp 0.4.0
 CFF 1.0
 cffdrs 1.9.2
-cffr 1.4.0
+cffr 1.4.1
 cfid 0.1.8
 CFilt 1.0.1
 CFM 0.8.0
@@ -3509,7 +3509,7 @@ ConjointChecks 0.2.0
 conjurer 1.7.1
 conleyreg 0.1.9
 conmet 0.1.0
-conMItion 0.3.1
+conMItion 0.4.0
 ConNEcT 0.7.27
 connectapi 0.12.1
 connectcreds 0.2.0
@@ -7994,6 +7994,7 @@ ggplot2movies 0.0.1
 ggplotAssist 0.1.3
 ggplotgui 1.0.0
 ggplotify 0.1.3
+ggplotplus 0.5.5
 ggpmisc 0.7.0
 ggPMX 1.3.2
 ggpointdensity 0.2.1
@@ -8172,6 +8173,7 @@ GK2011 0.1.3
 gkgraphR 1.0.3
 gkmSVM 0.83.0
 gKRLS 1.0.4
+gkrreg 0.4.0
 gkwdist 1.1.4
 gkwreg 2.1.14
 glam 1.0.2
@@ -8974,6 +8976,7 @@ hellno 0.0.1
 hellodatascience 0.1.1
 HelloFrog 0.1.1
 helloJavaWorld 0.0-9
+hellokitty 0.1
 hellorust 1.2.3
 HelpersMG 2026.3.31
 helsinki 1.0.6
@@ -11537,7 +11540,7 @@ mapsapi 0.5.4
 mapscanner 0.1.1
 mapSenegal 0.1.1
 mapsf 1.2.1
-mapSpain 1.1.0
+mapSpain 1.2.0
 mapsPERU 2.0.1
 mapsRinteractive 2.0.1
 mapStats 3.2
@@ -12383,6 +12386,7 @@ mixdist 0.5-5
 mixedBayes 0.2.5
 mixedbiastest 1.0.2
 mixedCCA 1.6.3
+mixedClust 1.0.2.1
 mixedfact 0.1.1
 mixediffusion 1.0.1
 MixedIndTests 1.2.0
@@ -12756,6 +12760,7 @@ moodleR 1.0.5
 moonBook 0.3.1
 moonboot 2.0.1
 moonlit 0.1.1
+MoonShineR 1.1.0
 mooplot 0.1.1
 moose 0.0.1
 mop 0.1.4
@@ -13396,7 +13401,7 @@ NBShiny3 0.1.0
 nbTransmission 1.2.0
 NBtsVarSel 1.0
 nc 2026.4.20
-NCA 5.0.1
+NCA 5.0.2
 ncaavolleyballr 0.5.1
 ncappc 1.0.0
 ncbit 2013.03.29.1
@@ -13669,6 +13674,7 @@ nlmixr2extra 5.1.0
 nlmixr2lib 0.3.2
 nlmixr2plot 5.0.2
 nlmixr2rpt 0.2.2
+nlmixr2save 0.1.0
 nlmixr2targets 0.1.0
 nlmm 1.1.1
 nlmrt 2016.3.2
@@ -14037,6 +14043,7 @@ octopucs 0.1.1
 octopus 0.4.2
 octopusR 1.0.1
 od 0.5.1
+oda 0.1.2
 ODataQuery 0.5.3
 odbc 1.7.0
 odbc.resourcer 1.0.0
@@ -14148,6 +14155,7 @@ OncoDataSets 0.1.0
 Oncofilterfast 1.0.0
 OncoSubtype 1.0.0
 Oncotree 0.3.5
+ondisc 1.3.5
 One4All 0.5
 OneArm2stage 1.2.1
 OneArmTTE 1.0
@@ -15297,6 +15305,7 @@ pkgndep 2.0.0
 pkgnet 0.6.0
 pkgnews 0.0.2
 pkgsearch 3.1.5
+pkgsite 0.1.0
 pkgstats 0.2.3
 pkgverse 0.0.1
 PKI 0.1-15
@@ -19311,6 +19320,7 @@ selenider 0.4.1
 selenium 0.2.0
 SELF 0.1.1
 SelfControlledCaseSeries 6.1.5
+SelfControlledCohort 2.0.0
 selfingTree 0.2
 seliNDRIx 0.1.2
 sem 3.1-16
@@ -20678,6 +20688,7 @@ spphpr 1.1.5
 SpPOP 0.1.0
 SppTrend 0.4
 spqdep 0.1.3.6
+spqrp 0.1.0
 spray 1.1-1
 spreadr 0.3.0
 SPREDA 1.2
@@ -21685,6 +21696,7 @@ tealeaves 1.0.7
 teamcolors 0.0.4
 tectonicr 0.4.8
 tEDM 1.3
+teems 0.1.1
 tehtuner 0.3.0
 teigen 2.2.2
 Tejapi 1.0.1

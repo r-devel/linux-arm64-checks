@@ -5933,7 +5933,7 @@ EpiModel 2.6.1
 epinet 2.1.11
 epinetr 0.96
 EpiNova 0.1.0
-EpiNow2 1.8.0
+EpiNow2 1.9.0
 epiomics 1.2.0
 epiparameter 0.4.1
 epiparameterDB 0.1.0
@@ -23211,7 +23211,7 @@ vivid 0.3.0
 vivo 0.2.1
 vizClust 0.1.0
 vizdraws 2.0.0
-VizModules 0.1.1
+VizModules 0.2.0
 VizTest 0.7
 vkR 0.2
 VLF 1.1-3

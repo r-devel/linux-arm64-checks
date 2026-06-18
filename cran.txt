@@ -5212,7 +5212,7 @@ drugdevelopR 1.0.2
 DrugExposureDiagnostics 1.1.7
 drugsens 0.1.0
 DrugSim2DR 0.1.2
-DrugUtilisation 1.1.0
+DrugUtilisation 1.2.0
 drumr 0.1.0
 DRviaSPCN 0.1.5
 ds 4.0
@@ -6022,7 +6022,7 @@ ergm.ego 1.1.4
 ergm.multi 0.3.0
 ergm.rank 4.1.2
 ergm.sign 0.1.2
-ergMargins 1.6.1
+ergMargins 1.6.2
 ergmclust 1.0.1
 ergmgp 0.1-2
 ergmharris 1.0
@@ -9992,7 +9992,7 @@ iRfcb 0.9.0
 irg 0.1.6
 IrishDirectorates 1.5
 IRISMustangMetrics 2.4.8
-IRISSeismic 1.8.0
+IRISSeismic 1.9.0
 IRkernel 1.3.2
 irlba 2.3.7
 irls 1.0
@@ -10333,7 +10333,7 @@ just.install 1.0.2
 justifier 0.2.8
 JustifyAlpha 0.1.2
 jvcoords 1.0.3
-JWileymisc 1.4.4
+JWileymisc 1.4.5
 K4PrestasiSiswa 0.1.0
 K4ProsesSiswa 0.1.0
 K4Sekolah 0.1.0
@@ -14104,7 +14104,6 @@ ohsome 0.2.2
 ohun 1.0.4
 ohvbd 1.0.1
 oii 1.0.2.1
-ojsr 0.1.5
 okBATHTUB 0.1.10
 okcolors 0.1.0
 OkNNE 1.0.1
@@ -16522,7 +16521,7 @@ qvcalc 1.0.4
 qvirus 0.0.6
 qwalkr 0.1.0
 QWDAP 1.1.20
-qwraps2 0.6.2
+qwraps2 0.6.3
 QZ 0.2-4
 R.AlphA.Home 2.0.2
 R.cache 0.17.0
@@ -17292,7 +17291,7 @@ redbookperu 0.0.3
 redcapAPI 2.12.0
 REDCapCAST 26.1.1
 REDCapDM 1.0.1
-REDCapExporter 0.3.4
+REDCapExporter 0.3.5
 REDCapR 1.6.0
 REDCapSync 0.1.1
 REDCapTidieR 1.2.5
@@ -19474,7 +19473,7 @@ settingsSync 3.0.2
 setweaver 1.0.0
 setwidth 1.1.0
 Seurat 5.5.0
-SeuratExplorer 0.1.4
+SeuratExplorer 0.1.6
 SeuratObject 5.4.0
 sevenbridges2 0.4.0
 sever 0.0.7
@@ -20687,7 +20686,7 @@ spotifyr 2.2.5
 spotoroo 0.1.5
 spotr 0.1.0
 SPOUSE 0.1.0
-Spower 0.6.3
+Spower 0.6.4
 SPPcomb 0.1
 spphpr 1.1.5
 SpPOP 0.1.0
@@ -21785,7 +21784,7 @@ TestGardener 3.3.6
 TestGenerator 0.8.0
 TestIndVars 0.1.0
 TestingSimilarity 1.1
-testit 1.0
+testit 1.1
 TestNet 1.0
 TestScorer 1.7.2
 TestsSymmetry 1.0.0

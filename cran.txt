@@ -3841,7 +3841,7 @@ CPoptim 0.1.0
 CPP 0.1.0
 cpp11 0.5.5
 cpp11armadillo 0.5.4
-cpp11bigwig 0.1.3
+cpp11bigwig 0.2.0
 cpp11eigen 0.2.0
 cpp11qpdf 1.3.5
 cpp4r 1.0.0
@@ -3866,6 +3866,7 @@ cqrReg 1.2.1
 cquad 2.3
 CR2 0.2.1
 CRABS 1.2.0
+craftgrn 0.1.6
 cragg 0.0.1
 cramer 0.9-4
 cramR 0.1.1
@@ -6122,7 +6123,7 @@ eulerr 8.0.0
 eummd 0.2.0
 eunis.habitats 0.1.0
 Eunomia 2.1.0
-eurodata 1.7.0
+eurodata 1.8.0
 euroleaguer 0.2.0
 europepmc 0.4.3
 europop 0.3.1
@@ -7428,6 +7429,7 @@ gamlssbssn 0.1.0
 gamlssx 1.0.2
 gamm4 0.2-7
 gamma 1.1.0
+GammaFrailty 0.1.0
 gammaFuncModel 6.0
 Gammareg 3.0.1
 gammi 0.2
@@ -11114,7 +11116,7 @@ lmomco 2.5.5
 Lmoments 1.3-2
 lmomPi 0.6.7
 lmomRFA 3.8
-LMPdata 0.2.0
+LMPdata 0.2.1
 lmPerm 2.1.6
 lmQCM 0.2.4
 lmreg 1.3
@@ -22387,6 +22389,7 @@ transfR 1.1.4
 transGFM 1.0.2
 TransHDM 1.0.1
 Transition 1.0.3
+transitiontrees 0.1.2
 translate.logit 1.0.2
 translit.uk 1.0.2
 transltr 0.1.0
@@ -23097,6 +23100,7 @@ vec2dtransf 1.1.5
 VeccTMVN 1.3.2
 VecDep 0.1.3
 vecmatch 1.3.0
+vecrep 0.1.0
 vecsets 1.4
 vectorbitops 1.1.2
 VectorCodeR 0.2.0
@@ -23610,6 +23614,7 @@ WMWssp 0.5.3
 wnl 0.8.5
 wNNSel 0.1
 wnominate 1.5
+wnpmle 0.1.2
 WOAkMedoids 0.2.2
 wodds 0.1.0
 woe 0.2

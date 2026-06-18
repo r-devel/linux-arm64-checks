@@ -67,6 +67,7 @@ AccSamplingDesign 0.0.8
 accSDA 1.1.3
 accucor 0.3.1
 accumulate 1.0.0
+accuracylevel 0.1.0
 acdcquery 1.2.3
 acdcR 1.0.0
 ACDm 1.1.0
@@ -2992,6 +2993,7 @@ climate 1.3.0
 climatehealth 1.0.2
 climatekit 0.2.0
 climateStability 0.1.4
+climatestatsr 0.1.2
 climatol 4.5-0
 climatrends 1.2
 ClimClass 2.1.1
@@ -4258,7 +4260,7 @@ dataCompare 1.0.5
 datacult 0.1.0
 datacutr 0.2.4
 datadictionary 1.0.1
-datadiff 0.4.4
+datadiff 0.5.0
 DataDNA 0.1.0
 datadogr 0.1.2
 datadriftR 1.1.0
@@ -5438,7 +5440,7 @@ easyPSID 0.1.2
 easyPubMed 3.1.6
 easyr 0.5-11
 easyRasch2 0.8.0
-easyRaschBayes 0.2.0.1
+easyRaschBayes 0.3.0
 easyRef 0.1.0
 easyreg 4.0
 easyScieloPack 0.1.1
@@ -5613,6 +5615,7 @@ eDNAjoint 0.3.3
 EDNE.EQ 1.0
 EDOIF 0.1.4
 EDOtrans 0.3.5
+edr4r 0.1.0
 edstan 1.1.0
 EdSurvey 4.0.7
 educabR 1.0.0
@@ -6145,7 +6148,7 @@ evclass 2.0.2
 EvCombR 0.1-4
 evd 2.3-7.1
 evdbayes 1.1-3
-eve 1.0
+eve 1.1
 evenBreak 1.0
 eventdataR 0.3.1
 eventglm 1.4.5
@@ -6271,7 +6274,7 @@ explore 1.4.0
 exploreR 0.1
 ExploreTheData 0.1.0
 expm 1.0-0
-export 0.3.2
+export 0.3.3
 ExPosition 2.11.0
 ExposR 1.2
 expowo 3.0
@@ -6525,7 +6528,7 @@ fastqrs 1.0.0
 fastR2 1.2.5
 fastrc 0.0.2
 FastRCS 0.0.9
-fastreg 0.13.8
+fastreg 0.14.1
 fastrep 0.7
 fastrerandomize 0.3
 FastRet 1.3.0
@@ -7607,6 +7610,7 @@ genderBR 1.3.0
 gendercoder 0.1.1
 GenderInfer 0.1.0
 genderstat 0.1.5
+gendertext 0.1.0
 gendist 2.0
 GENEAclassify 1.5.5
 GENEAcore 1.2.0
@@ -8041,7 +8045,7 @@ ggsci 5.0.0
 ggscidca 0.2.8
 ggscribe 0.1.1
 ggseg 2.1.1
-ggseg.formats 0.0.2
+ggseg.formats 0.0.3
 ggseg.meshes 0.0.1
 ggseg3d 2.1.1
 ggsegmentedtotalbar 0.1.0
@@ -8094,7 +8098,7 @@ ggvegan 0.2.1
 ggvenn 0.1.19
 ggVennDiagram 1.5.7
 ggversa 0.1.1
-ggvfields 1.0.0
+ggvfields 1.0.1
 ggview 0.2.2
 ggvis 0.4.10
 ggvolc 0.1.0
@@ -8321,6 +8325,7 @@ gmresls 0.2.3
 gms 0.31.2
 GMSE 1.0.0.2
 GMSimpute 0.0.1.0
+gmsp 0.4.6
 gmt 2.0.3
 gmtFD 0.1.0
 gmvarkit 2.2.1
@@ -10457,7 +10462,7 @@ kin.cohort 0.7
 kindisperse 0.10.2
 kindling 0.3.0
 kinematics 1.0.0
-kinesis 0.3.1
+kinesis 0.4.0
 KinformR 0.1.2
 KingCountyHouses 0.1.0
 KinMixLite 2.2.1
@@ -11067,7 +11072,7 @@ llmjoin 0.3.0
 llmjson 0.1.0
 LLMR 0.8.6
 llmshieldr 0.1.0
-LLMTranslate 0.3.0
+LLMTranslate 0.4.0
 llogistic 1.0.3
 llrem 0.1.1
 LLSR 0.0.4
@@ -11900,6 +11905,7 @@ MEDesigns 1.0.1
 medExtractR 0.4.1
 medfate 5.0.0
 medfateland 3.0.0
+medfit 0.2.1
 medflex 0.6-11
 MediaK 1.0
 Mediana 1.0.8
@@ -12013,7 +12019,7 @@ metagear 0.7
 metaggR 0.3.0
 metagroup 1.0.2
 MetaHD 0.1.4
-metaHelper 1.0.0
+metaHelper 1.0.1
 metaheuristicOpt 2.0.0
 MetaHunt 0.1.0
 metainc 0.2-1
@@ -12580,6 +12586,7 @@ mmand 1.7.0
 mmap 0.6-26
 mmapcharr 0.3.1
 mmaqshiny 1.0.0
+mMARCH.AC 3.3.4.3
 mmb 0.13.3
 mmbcv 0.3.0
 mmc 0.0.3
@@ -13430,6 +13437,7 @@ ndi 0.2.2
 ndjson 0.9.1
 ndl 0.2.18
 NDP 0.1.0
+NDPalette 1.0.0
 ndtv 0.13.4
 nearfar 1.3
 neat 1.2.4
@@ -13791,6 +13799,7 @@ nomiShape 1.0.2
 nomnoml 0.3.0
 nomogramEx 3.0
 nomogramFormula 1.2.0.0
+nonabsdid 0.3.2
 NonCompart 0.8.0
 noncompliance 0.2.2
 noncomplyR 1.0
@@ -16001,6 +16010,7 @@ propOverlap 1.0
 PropScrRand 1.1.2
 proPubBills 0.1
 ProPublicaR 1.1.4
+proratar 0.1.0
 PROreg 1.3.2
 PROscorer 0.0.4
 PROscorerTools 0.0.4
@@ -16737,6 +16747,7 @@ rankCorr 1.0.3
 rankdifferencetest 2025.12.4
 rankdist 1.1.4
 rankFD 0.1.1
+RankGWASK 0.1.1
 rankhazard 1.1.1
 rankICC 1.0.2
 RankingProject 0.4.0
@@ -19199,6 +19210,7 @@ sdamr 0.2.0
 SDAR 0.9-55
 SDAResources 0.1.1
 sdbuildR 2.0.0
+sdc.redistribute 0.1.0
 sdcHierarchies 0.23.1
 sdcLog 0.5.1
 sdcMicro 5.8.2
@@ -21394,6 +21406,7 @@ svIDE 0.9-54
 svines 0.2.7
 svKomodo 1.0.0
 SVMD 0.1.0
+svmf 1.0
 svMisc 1.4.3
 SVMMaj 0.2.9.4
 svmpath 0.970
@@ -22684,7 +22697,7 @@ tvtools 0.0.3
 twang 2.6.2
 twangContinuous 1.0.0
 twangMediation 1.2.1
-twbparser 0.4.0
+twbparser 0.5.0
 twc 0.0.2
 twdtw 1.0-1
 tweedie 3.1.0
@@ -22796,7 +22809,7 @@ umiAnalyzer 1.0.0
 Umoments 1.0.1
 ump 0.5-8
 Umpire 2.0.11
-umweltapir 0.1.0
+umweltapir 0.2.0
 umx 4.65.0
 unbalhaar 2.1
 UncDecomp 1.0.1
@@ -22931,6 +22944,7 @@ USpopcenters 0.2.0
 usportsR 1.0.0
 ussherR 1.10
 UStatBookABSC 1.0.0
+ustats 0.1.5
 ustfd 0.4.4
 ustyc 1.0.0
 utc 0.1.5
@@ -23569,6 +23583,7 @@ winputall 1.0.1
 winr 1.0.0
 WinRatio 1.0
 WINS 1.5.1
+WinsCRT 0.1.0
 wintime 0.4.4
 WIPF 0.1.0-4
 wired 1.0.1

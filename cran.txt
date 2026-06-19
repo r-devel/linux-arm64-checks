@@ -5409,7 +5409,7 @@ eAnalytics 0.4
 earlygating 1.1
 earlyR 0.0.5
 earth 5.3.5
-earthdatalogin 0.0.4
+earthdatalogin 0.0.5
 earthtide 0.1.8
 earthtones 0.2.0
 earthUI 0.8.0

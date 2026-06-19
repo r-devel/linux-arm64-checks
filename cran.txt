@@ -4225,6 +4225,7 @@ dang 0.0.17
 dani 0.1-1
 DanielBiostatistics10th 0.2.6
 dann 1.1.0
+daoh 0.1.0
 dapper 1.1.0
 daqapo 0.3.2
 DArand 0.0.1.2
@@ -4673,6 +4674,7 @@ detzrcr 0.3.3
 devEMF 4.6
 devFunc 0.1
 devianLM 1.1.0
+devkit 1.0.0
 devoid 0.1.2
 Devore7 0.7.6
 devRate 0.2.6
@@ -5124,6 +5126,7 @@ dpasurv 0.1.0
 dpcc 1.0.0
 DPCD 0.0.1
 dpcid 1.1
+DPComb 1.0
 dPCP 2.0.1
 dpcR 0.6
 dpdr 0.1.0
@@ -5552,7 +5555,7 @@ ecos 0.1.7
 ecosim 1.3-5
 ECOSolveR 0.6.1
 ecospace 1.4.2
-ecospat 4.1.3
+ecospat 4.1.4
 ecostate 0.3.0
 ecostats 1.2.2
 ecostatscale 1.1
@@ -8562,7 +8565,6 @@ grf 2.6.1
 GrFA 0.2.2
 gridBase 0.4-7
 gridBezier 1.1-1
-GRIDCOPULA 1.1.1
 gridDebug 0.5-1
 griddy 0.1.0
 gridExtra 2.3
@@ -9663,6 +9665,7 @@ IMPACT 0.1.1
 ImpactEffectsize 0.8
 impactflu 0.1.0
 impactr 0.4.2
+impala 0.1.0
 impARI 0.0.3
 impectR 2.5.5
 impermanentlosscalc 0.1.0
@@ -10532,6 +10535,7 @@ KoboconnectR 2.0.0
 KODAMA 3.3
 kofdata 0.2.1
 KOFM 1.1.1
+kofn 0.4.0
 kofnGA 1.3
 KOGMWU 1.2
 kohonen 3.0.13
@@ -12477,7 +12481,6 @@ mlbstats 0.1.0
 MLCausal 0.1.0
 MLCIRTwithin 2.1.2
 MLCM 0.4.4
-MLCOPULA 1.1.0
 MLDataR 1.0.1
 mldr 0.4.3
 mldr.datasets 0.4.2
@@ -12619,7 +12622,7 @@ mMPA 1.2.0
 mmpca 2.0.4
 mmr 0.1.0
 MMRcaseselection 0.2.0
-mmrm 0.3.17
+mmrm 0.3.18
 mmsample 0.1
 mmstat4 0.2.1
 mmtdiff 1.0.0
@@ -13624,6 +13627,7 @@ nhm 0.1.2
 NHPoisson 3.4
 nhppp 1.0.5
 nhs.predict 1.4.0
+nhscancerwaits 1.0.2
 NHSDataDictionaRy 1.2.5
 nhsnumber 0.1.2
 NHSRdatasets 0.3.0
@@ -13662,6 +13666,7 @@ nipals 1.0
 nipnTK 0.2.2
 NipponMap 0.2
 NIPTeR 1.0.2
+nirs4alldatasets 0.2.0
 NIRStat 1.1
 NISTnls 0.9-13
 NISTunits 1.0.1
@@ -15514,6 +15519,7 @@ PoiClaClu 1.0.2.1
 poilog 0.4.2.1
 POINT 1.4
 pointblank 0.12.3
+pointcoral 0.1.0
 pointdensityP 0.3.5
 PointedSDMs 2.1.5
 PointFore 0.2.0
@@ -15912,6 +15918,7 @@ prismjs 2.1.0
 prithulib 1.0.2
 privacyR 1.0.1
 PrivateLR 1.2-22
+prLogistic 2.0.2
 PRMethods 0.1.0
 prmisc 0.0.3
 PRNG 0.0.2.1.2
@@ -16422,7 +16429,7 @@ qtl2pattern 1.2.1
 qtl2pleio 1.4.4
 qtlbook 0.20
 qtlc 1.0
-qtlcharts 0.20
+qtlcharts 0.22
 qtlDesign 0.953
 QTLEMM 3.1.0
 qtlhot 1.2.10
@@ -16687,7 +16694,7 @@ ramcmc 0.1.2
 rameritrade 0.1.5
 ramify 0.4.0
 RAMP 2.0.2
-rampage 0.2.0
+rampage 0.2.1
 RAMpath 0.5.1
 ramps 0.6.18
 RaMS 1.4.3
@@ -17563,6 +17570,7 @@ ResourceSelection 0.3-6
 ResPBIBD 0.1.0
 RespirAnalyzer 1.0.2
 respirometry 2.0.2
+respondeR 0.1.0
 responsePatterns 0.1.1
 respR 2.3.4
 resquin 0.1.1
@@ -18317,6 +18325,7 @@ rotasym 1.2.0
 rotationForest 0.1.3
 rotations 1.6.6
 rotatogram 0.1.3
+rotio 0.1.0
 rotl 3.1.1
 rotor 0.3.7
 rotulador 1.0.0
@@ -19918,6 +19927,7 @@ simplermarkdown 0.0.6
 simpleSetup 0.1.0
 simpletex 1.0.5
 SimpleUpset 0.1.4
+simplexgof 0.1.0
 SIMPLICA 1.0.0
 SimplicialComplex 0.1.0
 SimplicialCubature 1.3
@@ -21376,6 +21386,7 @@ survsim 1.1.8
 survSNP 0.26
 SurvSparse 0.1
 survSpearman 1.0.1
+SurvSPro 0.1.0
 survstan 0.0.7.1
 SurvTrunc 0.2.0
 SUSENAS 0.1.0
@@ -23079,6 +23090,7 @@ vcfppR 0.8.3
 vcfR 1.16.0
 vchartr 0.1.5
 vcmeta 1.6.0
+VCMoE 0.1.0
 vcov 0.0.1
 vcPB 1.1.1
 vcpen 1.9

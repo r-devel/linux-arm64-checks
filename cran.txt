@@ -1403,7 +1403,7 @@ bdf3 0.1.1
 BDgraph 2.74
 bdl 1.0.5
 bdlim 0.5.0
-bdlnm 0.1.0
+bdlnm 0.1.1
 bdlp 0.9-2
 bdots 2.0.0
 bdpar 3.1.0
@@ -17943,7 +17943,7 @@ Rlgt 0.2-3
 Rlibeemd 1.4.4
 Rlibkdv 1.1
 rlibkriging 1.0-0
-rLifting 0.9.0
+rLifting 1.0.0
 rliger 2.2.1
 Rlinkedin 0.2
 rlinkedinads 0.2.0

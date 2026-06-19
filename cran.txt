@@ -645,6 +645,7 @@ aplot 0.2.9
 aplotExtra 0.0.4
 aplpack 1.3.5
 apm 0.1.1
+APML0 0.11
 apmx 1.1.1
 apng 1.1
 Apoderoides 3.0.1
@@ -2415,7 +2416,7 @@ casimir 0.3.3
 CASMI 2.0.0
 cassandRa 0.2.0
 cassowaryr 2.0.2
-CAST 1.0.4
+CAST 1.1.0
 castgen 1.0.2
 castor 1.8.5
 cat 0.0-9
@@ -9349,7 +9350,7 @@ hydroTSM 0.8-6
 hyfo 1.4.6
 HyMETT 1.1.3
 hyper.fit 1.2.2
-hyper.gam 0.3.1
+hyper.gam 0.3.2
 hyper2 3.2
 hyperbolicDEA 1.0.2
 HyperbolicDist 0.6-5
@@ -13306,6 +13307,7 @@ MWright 0.3.2
 mwshiny 2.1.0
 mwTensor 1.2.2
 mx.api 0.3.0
+mx.client 0.1.1
 mx.crypto 0.2.0
 mxcc 0.0.5
 mxfda 0.2.2-1
@@ -14396,6 +14398,7 @@ ordiBreadth 1.0
 ordinal 2025.12-29
 ordinalbayes 0.1.2
 ordinalClust 1.3.5.1
+OrdinalCompositions 0.1.0
 ordinalCont 2.0.2
 ordinalForest 2.4-4
 ordinalgmifs 1.0.9
@@ -14796,6 +14799,7 @@ patternize 0.0.5
 patternplot 2.0.0
 Patterns 1.7
 PAutilities 1.3.0
+pavdata 0.1.0
 pavo 2.9.0
 pawacc 1.2.4
 paws 0.10.0
@@ -14968,7 +14972,7 @@ pedprobr 1.0.1
 pedquant 0.2.6
 pedSimulate 1.4.3
 pedsuite 1.4.0
-pedtools 2.10.0
+pedtools 2.11.0
 pedtricks 0.5.0
 PeerPerformance 2.3.2
 pegas 1.4
@@ -15755,6 +15759,7 @@ ppmHR 1.0
 PPMiss 0.1.2
 ppmlasso 1.5
 PPMR 1.0.1
+ppmSDR 2.0.0
 ppmSuite 0.3.4
 PPQplan 1.1.0
 ppRank 0.1.1
@@ -15822,6 +15827,7 @@ predictset 0.3.0
 predictsr 0.2.1
 predieval 0.1.1
 predint 2.3.0
+predmicror 1.3.2
 PredPsych 0.5
 predReliability 0.1.0
 predRupdate 0.2.1
@@ -16976,7 +16982,7 @@ rclipboard 0.2.1
 rcloner 0.0.1
 rclsp 2.0.1
 rcmdcheck 1.4.0
-Rcmdr 2.12.3
+Rcmdr 2.13.0
 RcmdrMisc 2.10.2
 RcmdrPlugin.aRnova 0.0.6
 RcmdrPlugin.BWS1 0.3-0
@@ -18271,6 +18277,7 @@ roll 1.2.1
 rollama 0.3.0
 rollbar 0.1.0
 rolldown 0.2
+rolleigen 1.0.0
 rollinglda 0.1.4
 rollout 0.1.0
 rollshap 1.0.1
@@ -18488,7 +18495,7 @@ RRreg 0.7.6
 RRRR 1.1.1
 rrscale 1.0
 rrstools 1.1.0
-rrtable 0.3.0
+rrtable 0.3.4
 RRTCS 0.0.4
 rrum 0.2.2
 RSA 0.10.8
@@ -18743,6 +18750,7 @@ runstats 1.1.0
 Runuran 0.41
 rupturesRcpp 1.0.2
 rurality 0.1.1
+rurl 1.2.0
 rush 1.1.0
 rusk 0.1.1
 rust 1.4.4
@@ -21330,7 +21338,7 @@ surveyexplorer 0.2.0
 surveyframe 0.3.2
 surveygraph 1.0.0
 surveyplanning 4.0
-surveyPrev 1.0.0
+surveyPrev 2.0.0
 surveysd 2.0.3
 surveysearch 0.1.0
 surveySimR 0.1.0
@@ -21785,7 +21793,7 @@ tern.mmrm 0.3.3
 Ternary 2.3.7
 TernTables 1.7.2
 ternvis 1.3
-terra 1.9-27
+terra 1.9-34
 terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.0
@@ -22108,6 +22116,7 @@ tiler 0.3.2
 tilting 1.1.1
 timbeR 2.0.1
 timbr 0.2.2
+Time.R 1.0.0
 timechange 0.4.0
 timechecker 1.1.5
 timeDate 4052.112
@@ -22803,7 +22812,7 @@ ukbabynames 0.3.0
 ukbflow 0.3.4
 ukbnmr 3.3.2
 ukc19 0.0.3
-UKFE 2.0.1
+UKFE 2.0.2
 ukgasapi 0.21
 UKgrid 0.1.3
 ukhousing 0.1.0
@@ -23960,7 +23969,7 @@ zoteR 1.0.0
 ZRA 0.2
 zscorer 0.3.1
 Zseq 0.2.2
-ztable 0.2.3
+ztable 0.2.5
 ztils 1.0.0
 ztpln 0.1.3
 zTree 1.0.7

@@ -8310,7 +8310,7 @@ gmfamm 0.1.1
 gmfd 1.0.1
 gmGeostats 0.11.4
 gmgm 1.1.3
-Gmisc 3.3.0
+Gmisc 3.4.0
 gmm 1.9-1
 GMMAT 1.5.0
 GMMBoost 1.1.5

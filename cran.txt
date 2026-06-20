@@ -10104,7 +10104,7 @@ ISPYARDSWinProbabilityGSDesign 0.1.0
 ISR 2025.5.16
 ISRaD 2.5.5
 ISS 1.0.0
-IssueTrackeR 1.3.1
+IssueTrackeR 1.4.0
 istacr 0.3.0
 istat 1.1.2
 istatR 0.1.0
@@ -22401,7 +22401,7 @@ traktok 0.1.1
 tram 1.4-3
 tramicp 0.1-0
 TraMineR 2.2-13
-TraMineRextras 0.6.8
+TraMineRextras 0.6.9
 tramME 1.0.8
 tramnet 0.0-991
 TRAMPR 1.0-10

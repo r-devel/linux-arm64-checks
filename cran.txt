@@ -6133,7 +6133,7 @@ euroleaguer 0.2.0
 europepmc 0.4.3
 europop 0.3.1
 eurostat 4.0.0
-eva 0.2.6
+eva 0.2.7
 eva3dm 1.20
 evabic 0.1.4
 Evacluster 0.1.0
@@ -13222,7 +13222,7 @@ muRty 0.3.1
 MUS 0.1.6
 musclesyneRgies 1.2.5
 music 0.1.2
-musicMCT 0.4.0
+musicMCT 0.5.0
 musicNMR 1.0
 musicXML 1.0.1
 mutationtypes 0.0.1
@@ -18772,7 +18772,7 @@ Rvcg 0.25
 rvcheck 0.2.1
 RVCompare 0.1.8
 rvec 1.0.1
-Rveg 0.1.9
+Rveg 0.1.11
 RVerbalExpressions 0.1.1
 rversions 3.0.0
 rvertnet 0.8.4
@@ -20192,7 +20192,7 @@ smof 1.2.2
 smoke 2.0.1
 SmokingHistoryGenerator 7.0.0
 smoof 1.7.0
-smooth 4.4.0
+smooth 4.5.0
 smoothbp 0.2.7
 smoothedIPW 0.1.0
 smoothedLasso 1.6
@@ -23498,7 +23498,7 @@ webmap 1.1.1
 webmockr 2.2.0
 webp 1.3.0
 WebPower 0.9.4
-webr 0.1.5
+webr 0.1.7
 webreadr 0.4.0
 webSDM 1.1-5
 websearchr 0.0.3

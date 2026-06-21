@@ -281,7 +281,7 @@ affluenceIndex 2.2
 afmpar 0.2.0
 afmToolkit 1.0.0
 afpt 1.1.0.4
-AFR 0.3.8
+AFR 0.3.9
 africamonitor 0.2.4
 aftables 2.0.1
 aftgee 1.2.1
@@ -8225,7 +8225,7 @@ glm.predict 4.3-2
 glm2 1.2.1
 glm4 0.1.0
 GLMBasedRaschEstimation 0.2.0
-glmbayes 0.9.5
+glmbayes 0.9.6
 glmbb 0.5-1
 glmc 0.4-1
 GLMcat 1.0.0
@@ -13236,7 +13236,7 @@ MUVR2 0.1.0
 MVA 1.0-9
 mvabund 4.2.8
 mvalpha 0.6.0
-MVar 2.2.9
+MVar 2.3.0
 MVar.pt 2.2.9
 mvardlurt 1.0.2
 mvBayes 1.2.1

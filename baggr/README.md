@@ -1,6 +1,6 @@
 # baggr 0.8.2
 
-Latest run: 2026-06-16: https://github.com/r-devel/linux-arm64-checks/actions/runs/27614170794
+Latest run: 2026-06-21: https://github.com/r-devel/linux-arm64-checks/actions/runs/27891579967
 
 ```
 Package: baggr

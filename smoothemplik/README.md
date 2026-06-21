@@ -1,6 +1,6 @@
 # smoothemplik 0.0.17
 
-Latest run: 2026-06-14: https://github.com/r-devel/linux-arm64-checks/actions/runs/27486797949
+Latest run: 2026-06-21: https://github.com/r-devel/linux-arm64-checks/actions/runs/27892021960
 
 ```
 Package: smoothemplik

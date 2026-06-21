@@ -1091,7 +1091,7 @@ bamdit 3.6.0
 bamlss 1.2-5
 bamm 0.6.2
 BAMMtools 2.1.12
-bamp 2.1.5
+bamp 2.2.0
 BANAM 0.2.2
 bandicoot 1.0.0
 bandit 0.5.1
@@ -1369,7 +1369,7 @@ BCC1997 0.1.1
 BCClong 1.0.3
 bccp 0.5.0
 BCD 0.1.1
-BCDAG 1.1.3
+BCDAG 1.1.4
 bcdata 0.5.2
 BCEA 2.4.83
 BCEE 1.3.2
@@ -5351,7 +5351,7 @@ DWLS 0.1.0
 dwp 1.2
 DWreg 3.0
 DyadiCarma 1.0.1
-dyadicMarkov 0.1.0
+dyadicMarkov 0.1.1
 DyadRatios 2.1
 dyads 1.2.1
 dycdtools 0.4.4
@@ -8092,7 +8092,7 @@ ggtext 0.1.2
 ggThemeAssist 0.1.5
 ggthemes 5.2.0
 ggthemeUL 0.1.3
-ggtibble 1.0.3
+ggtibble 1.0.4
 ggtikz 0.1.5
 ggtime 0.2.0
 ggtrace 0.2.0
@@ -9367,7 +9367,7 @@ hypergeo 1.2-14
 hypergeo2 0.2.0
 hyperoverlap 1.1.4
 hyperSpec 0.100.3
-hypertext 1.2.0
+hypertext 1.3.0
 hypervolume 3.1.6
 HYPEtools 1.6.7
 hypoRF 1.0.1
@@ -10881,7 +10881,7 @@ leprechaun 1.0.0
 leptokurticMixture 1.1
 lero.lero 0.2
 less 0.1.0
-lessR 4.5.4
+lessR 4.5.5
 lessSEM 1.5.7
 lest 1.1.0
 lestat 1.9
@@ -11519,7 +11519,7 @@ ManyIVsNets 0.1.1
 manymodelr 0.4.0
 manymome 0.3.6
 manymome.table 0.4.0
-manynet 2.0.1
+manynet 2.1.2
 manystates 1.0.3
 ManyTests 1.2
 MaOEA 0.6.2
@@ -13816,7 +13816,7 @@ nomnoml 0.3.0
 nomogramEx 3.0
 nomogramFormula 1.2.0.0
 nonabsdid 0.3.2
-NonCompart 0.8.0
+NonCompart 0.8.1
 noncompliance 0.2.2
 noncomplyR 1.0
 NonlinearDiD 0.2.0
@@ -14920,7 +14920,7 @@ pda 1.3.0
 pdc 1.0.3
 pdcor 1.3
 PDE 1.4.10
-PDEnaiveBayes 0.2.9
+PDEnaiveBayes 0.3.0
 pder 1.0-2
 pdfCluster 1.0-4
 pdfcombiner 1.9.8
@@ -19640,7 +19640,7 @@ ShiftConvolvePoibin 1.0.0
 shiftR 1.5
 ShiftShareSE 1.1.0
 shinipsum 0.1.1
-shiny 1.13.0
+shiny 1.14.0
 shiny.blueprint 0.3.0
 shiny.destroy 0.1.0
 shiny.emptystate 0.1.0
@@ -21026,7 +21026,7 @@ STCYP 1.0.0
 stdbscan 0.2.0
 stddiff 3.1
 stddiff.spark 1.0
-STDistance 0.6.6
+STDistance 0.6.8
 stdmod 0.2.13
 stdReg 3.4.2
 stdReg2 1.0.7
@@ -21224,7 +21224,7 @@ submitr 0.1.0
 subniche 1.6
 subplex 1.9
 subrank 0.9.9.3
-subsampling 0.3.0
+subsampling 0.4.0
 subscore 3.3
 subscreen 4.0.1
 subselect 0.16.1
@@ -23442,7 +23442,7 @@ wavethresh 4.7.3
 wavScalogram 1.1.3
 waydown 1.1.0
 WayFindR 0.7.0
-Waypoint 1.3.0
+Waypoint 1.3.1
 waysign 0.1.1
 waywiser 0.6.3
 wbacon 0.6-3
@@ -23818,7 +23818,7 @@ xmrr 1.1.1
 xnet 0.1.11
 XNomial 1.0.4.1
 xoi 0.74
-XOMultinom 0.8.7
+XOMultinom 0.9.0
 xopen 1.0.1
 xpect 1.2
 xpectr 0.4.5

@@ -7726,7 +7726,7 @@ geoelectrics 0.2.2
 geofacet 0.2.4
 geofi 1.2.1
 GeoFIS 1.1.1
-geoflow 1.2.1
+geoflow 1.3.0
 geoGAM 0.1-4
 geogenr 2.0.1
 geographiclib 0.4.2
@@ -8433,7 +8433,7 @@ gp 1.1
 GPAbin 1.1.1
 gpairs 1.4.0
 GPareto 1.1.9
-GPArotateDF 2025.7-1
+GPArotateDF 2026.6-1
 GPArotation 2026.6-1
 GPBayes 0.1.0-6
 gpboost 1.6.7
@@ -8605,7 +8605,7 @@ GroupBN 1.2.0
 groupcompare 1.0.1
 GroupComparisons 0.1.0
 groupdata2 2.0.5
-groupedHyperframe 0.4.2
+groupedHyperframe 0.4.3
 groupedHyperframe.random 0.3.1
 groupedSurv 1.0.5.1
 grouper 0.5.0
@@ -13748,6 +13748,7 @@ NMAoutlier 0.2.1
 nmaplateplot 1.0.3
 NMAR 0.1.2
 nmarank 0.3-0.1
+nmathopencl 0.8.2
 nmathresh 0.1.6
 NMcalc 0.0.4
 NMdata 0.2.5
@@ -14928,6 +14929,7 @@ PDFEstimator 4.5
 pdfetch 0.3.3
 pdfminer 1.0
 pdfsearch 0.4.3
+pdfsigner 0.2.2
 pdftables 0.1
 pdftools 3.9.0
 pdi 0.4.2
@@ -22267,6 +22269,7 @@ TOC 0.0-6
 todor 0.1.2
 togglr 0.2.1
 TOHM 1.4
+tok 0.2.3
 tokenbrowser 0.1.6
 tokenizers 0.3.0
 tokenizers.bpe 0.1.6

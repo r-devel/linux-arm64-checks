@@ -3285,7 +3285,7 @@ coinmarketcapr 0.4
 CoinMinD 1.2.1
 Coinprofile 0.1.9
 COINr 1.1.14
-COINT 0.0.3
+COINT 0.0.4
 cointests 1.0.0
 cointmonitoR 0.1.0
 cointReg 0.2.0
@@ -18803,7 +18803,7 @@ RWDataPlyr 0.6.6
 RweaveExtra 1.3-1
 RWeka 0.4-48
 RWekajars 3.9.3-2
-rwetools 0.1.2
+rwetools 0.2.0
 rwfec 0.2
 RWgraph 1.0.0
 rwhatsapp 0.2.4

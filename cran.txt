@@ -2992,7 +2992,7 @@ cliff 0.1.2
 clifford 1.1-3
 CliftLRD 0.1-2
 climaemet 1.6.0
-ClimaRep 1.0
+ClimaRep 1.1
 climate 1.3.0
 climatehealth 1.0.2
 climatekit 0.2.0
@@ -14806,7 +14806,7 @@ pater 1.0.0
 Path.Analysis 0.1
 path.chain 1.0.0
 pathdb 0.1.0
-pathfindR 2.7.0
+pathfindR 3.0.0
 pathfindR.data 2.1.0
 pathling 9.7.1
 pathlit 0.1.0
@@ -20947,7 +20947,7 @@ stampr 0.3.1
 stan4bart 0.0-12
 STAND 2.0
 standardize 0.2.2
-standardlastprofile 2.0.0
+standardlastprofile 2.0.1
 standartox 0.0.2
 standby 0.2.0
 standrecon 0.1.0
@@ -23950,6 +23950,7 @@ zctaCrosswalk 2.0.0
 zcurve 2.4.6
 zdeskR 0.6.0
 zeallot 0.2.0
+ZeBook 1.2
 zebu 0.2.2.0
 zeitgebr 0.3.6
 zen4R 0.10.5

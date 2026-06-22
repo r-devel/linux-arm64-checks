@@ -455,7 +455,7 @@ AlphaPart 0.9.8
 alphashape3d 1.3.3
 AlphaSimR 2.1.0
 alphastable 0.2.1
-alphavantagepf 0.3.2
+alphavantagepf 0.8.0
 alphavantager 0.1.3
 alpmixBayes 0.1.0
 alqrfe 1.3
@@ -494,7 +494,6 @@ amen 1.4.5
 ameras 0.4.0
 amerika 0.1.1
 AmesHousing 0.0.4
-ami 0.2.1
 AmigaFFH 0.4.8
 AMIM 1.0.0
 AMISforInfectiousDiseases 0.1.0
@@ -3100,7 +3099,7 @@ clusternomics 0.1.1
 ClusterR 1.3.6
 ClusterRankTest 1.0
 clusterRepro 0.9
-clusterSEs 2.6.5
+clusterSEs 2.6.6
 clusterSim 0.51-6
 ClusterStability 1.0.4
 clustertend 1.7
@@ -3273,7 +3272,7 @@ CohortCharacteristics 1.1.3
 CohortConstructor 0.6.3
 CohortContrast 1.0.0
 CohortGenerator 1.1.0
-CohortMethod 6.0.2
+CohortMethod 6.0.3
 CohortPlat 1.0.5
 cohorts 1.0.1
 CohortSurvival 1.1.1
@@ -5327,7 +5326,7 @@ duckdbfs 0.1.2
 duckduckr 1.0.0
 duckh3 0.1.0
 duckplyr 1.2.1
-duckspatial 1.1.1
+duckspatial 1.1.2
 duet 0.1.1
 dumbbell 0.1
 dummy 0.1.3
@@ -7052,7 +7051,7 @@ forecasteR 3.0.2
 forecastHybrid 5.1.21
 ForecastingEnsembles 0.5.1
 forecastLSW 1.1.1
-FoReco 1.2.1
+FoReco 1.3.0
 FoRecoML 1.0.0
 ForeComp 1.0.0
 forecTheta 3.0.3
@@ -7347,8 +7346,8 @@ futility 0.5
 future 1.70.0
 future.apply 1.20.2
 future.batchtools 0.22.0
-future.callr 0.10.2
-future.mirai 0.10.1
+future.callr 1.0.0
+future.mirai 1.0.0
 future.tests 0.9.0
 futureverse 0.2.0
 futurize 1.0.0
@@ -7356,7 +7355,7 @@ fuzzr 0.2.2
 FuzzyAHP 0.9.5
 FuzzyClass 0.1.7
 fuzzyforest 1.0.8
-FuzzyImputationTest 0.5.2
+FuzzyImputationTest 0.5.5
 fuzzyjoin 0.1.8
 fuzzylink 0.4.1
 FuzzyM 0.1.0
@@ -7991,7 +7990,7 @@ ggmulti 1.0.9
 ggnetwork 0.5.14
 ggnewscale 0.5.2
 ggnormalviolin 0.3.0
-ggOceanMaps 2.3.0
+ggOceanMaps 3.0.0
 ggokabeito 0.1.0
 ggordiplots 0.4.3
 GGoutlieR 1.0.2
@@ -8053,7 +8052,7 @@ ggsced 0.1.6
 ggsci 5.0.0
 ggscidca 0.2.8
 ggscribe 0.1.1
-ggseg 2.1.1
+ggseg 2.2.0
 ggseg.formats 0.0.3
 ggseg.meshes 0.0.1
 ggseg3d 2.1.1
@@ -9896,7 +9895,7 @@ intervals 0.15.5
 IntervalSurgeon 1.3
 intervcomp 0.1.2
 inTextSummaryTable 3.4.0
-inti 0.7.0
+inti 0.7.1
 intkrige 1.0.2
 intmap 1.0.0
 intmed 0.1.2
@@ -10887,7 +10886,7 @@ lest 1.1.0
 lestat 1.9
 letsHerp 0.1.0
 letsR 6.0
-letsRept 1.1.1
+letsRept 1.1.2
 lettervalue 0.2.1
 leunbachR 0.1.0
 levitate 0.2.2
@@ -11047,7 +11046,7 @@ listArray 0.1.1
 listarrays 0.4.0
 listcomp 0.4.1
 listcompr 0.4.0
-listenv 0.10.1
+listenv 1.0.0
 LISTO 0.7.3
 listr 0.1.0
 listviewer 4.0.0
@@ -11875,7 +11874,7 @@ MDMA 2.0.0
 mdmb 1.9-22
 MDMR 0.5.2
 MDOLS 1.0
-MDP2 2.2.2.0
+MDP2 3.0.0
 mdpeer 1.0.1
 MDPIexploreR 0.3.0
 MDPtoolbox 4.0.3
@@ -13237,7 +13236,7 @@ MVA 1.0-9
 mvabund 4.2.8
 mvalpha 0.6.0
 MVar 2.3.0
-MVar.pt 2.2.9
+MVar.pt 2.3.0
 mvardlurt 1.0.2
 mvBayes 1.2.1
 MvBinary 1.1
@@ -13324,7 +13323,7 @@ mxnorm 1.1.0
 mxsem 0.1.0
 My.stepwise 0.1.0
 mycaas 0.0.1
-Mychisq 0.1.3
+Mychisq 1.0.0
 myClim 1.5.1
 mycobacrvR 1.1
 mycolorsTB 0.1.1
@@ -14274,7 +14273,7 @@ opengraph 0.0.4
 OpEnHiMR 0.1.1
 openholidaysR 0.1.0
 OpenImageR 1.3.0
-openintro 2.5.0
+openintro 2.5.1
 openmetrics 0.3.0
 OpenMindat 1.0.1
 OpenML 1.12
@@ -16220,7 +16219,7 @@ pullword 0.3
 PulmoDataSets 0.2.1
 puls 0.1.3
 pulsar 0.3.13
-pulso 0.1.0
+pulso 0.1.1
 pumBayes 1.0.2
 pumilioR 1.3.1
 PUMP 1.0.4
@@ -20318,7 +20317,7 @@ soilfoodwebs 1.0.2
 SoilFunctionality 0.1.0
 SoilHyP 0.1.7
 soilhypfit 0.1-8
-soilKey 0.9.97
+soilKey 0.9.155
 SoilManageR 1.1.0
 soilphysics 5.1
 SoilR 1.2.107
@@ -23412,7 +23411,7 @@ washr 1.0.1
 WASP 1.4.5
 waspasR 0.1.5
 waspr 1.0.1
-watcher 0.1.6
+watcher 0.2.0
 WaterBalanceR 0.1.21
 waterfalls 1.1.4
 waterYearType 1.0.1

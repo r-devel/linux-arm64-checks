@@ -26,6 +26,7 @@ minired,1.0.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEA
 mmap,0.6-26,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mmap
 power.nb,0.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/power.nb
 profoc,1.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/profoc
+pwrss,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/pwrss
 quanteda.textmodels,0.9.10,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/quanteda.textmodels
 recmap,1.0.20,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/recmap
 retistruct,0.8.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/retistruct

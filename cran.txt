@@ -641,7 +641,7 @@ apisensr 2.0.0
 aplms 0.1.0
 aplore3 0.9
 AplosNCA 1.0.1
-aplot 0.2.9
+aplot 0.3.0
 aplotExtra 0.0.4
 aplpack 1.3.5
 apm 0.1.1
@@ -1045,7 +1045,7 @@ babynamesIL 0.2.3
 babyTimeR 0.1.0
 BACCO 2.1-0
 BacenAPI 0.3.1
-bacenR 0.3.1
+bacenR 0.4.3
 bacistool 1.0.0
 backbone 3.0.4
 backpipe 0.2.3
@@ -5132,7 +5132,7 @@ dpcc 1.0.0
 DPCD 0.0.1
 dpcid 1.1
 DPComb 1.0
-dPCP 2.0.1
+dPCP 2.0.3
 dpcR 0.6
 dpdr 0.1.0
 dpGMM 1.0.0
@@ -7017,7 +7017,7 @@ fNonlinear 4052.83
 FnR 1.1.0
 fntl 0.1.2
 FOCI 0.1.3
-FoCo2 0.1.3
+FoCo2 0.1.4
 focus 0.1.7
 focusedMDS 1.3.3
 foghorn 1.6.1
@@ -9301,7 +9301,7 @@ httptest 4.2.3
 httptest2 1.2.2
 httpuv 1.6.17
 httr 1.4.8
-httr2 1.2.2
+httr2 1.2.3
 hubeau 0.5.2
 hubEnsembles 1.0.0
 hubUtils 1.2.0
@@ -13544,7 +13544,7 @@ netplot 0.3-0
 NetPreProc 1.2
 netrankr 1.2.4
 NetRep 1.2.10
-netrics 0.2.1
+netrics 0.3.1
 netropy 0.3.0
 NetSci 1.0.1
 netseer 0.1.3
@@ -13621,7 +13621,7 @@ newsmap 0.9.2
 newsmd 0.5.1
 newTestSurvRec 1.0.2
 nextGenShinyApps 2.1
-nexus 0.6.0
+nexus 0.6.1
 nFactors 2.4.1.2
 nfcore.utils 0.0.4
 nfer 1.1.3
@@ -13835,7 +13835,7 @@ nomiShape 1.0.2
 nomnoml 0.3.0
 nomogramEx 3.0
 nomogramFormula 1.2.0.0
-nonabsdid 0.3.2
+nonabsdid 0.4.1
 NonCompart 0.8.1
 noncompliance 0.2.2
 noncomplyR 1.0
@@ -14983,7 +14983,7 @@ PearsonICA 1.2-5
 PEAXAI 1.0.2
 pec 2025.06.24
 pecan 0.1.0
-pecanr 0.2.0
+pecanr 0.3.0
 pecora 0.1.2
 pECV 1.0.1
 pedalfast.data 1.0.2
@@ -16059,7 +16059,7 @@ PROscorer 0.0.4
 PROscorerTools 0.0.4
 PROsetta 0.4.2
 ProSGPV 1.0.0
-prospectr 0.2.9
+prospectr 0.2.10
 PROSPER 0.3.3
 ProSportsDraftData 1.0.3
 protag 1.0.0
@@ -17478,7 +17478,7 @@ relSim 1.0.0
 relsurv 2.3-3
 rema 0.0.1
 remaCor 0.0.20
-remap 0.3.2
+remap 0.3.3
 rematch 2.0.0
 rematch2 2.1.2
 remdata 0.2.0
@@ -17856,7 +17856,7 @@ ringbp 1.0.0
 ringostat 0.1.5
 RInside 0.2.19
 RInSp 1.2.5
-rintcal 1.4.0
+rintcal 1.4.1
 rintimg 0.1.0
 rintrojs 0.3.4
 rio 1.3.0
@@ -19221,7 +19221,7 @@ scpropreg 1.2
 SCpubr 3.0.1
 scqe 1.0.0
 scquantum 1.0.0
-scR 0.4.0
+scR 0.7.0
 scraEP 1.2
 scrapeR 0.1.8
 scrappy 0.0.1
@@ -19388,7 +19388,7 @@ SelectionBias 2.1.0
 selectiongain 2.0.710
 selectiveInference 1.2.5
 selectMeta 1.0.9
-selectr 0.5-1
+selectr 0.6-0
 selectspm 0.7
 selectTWFE 0.2.1
 SeleMix 1.0.4
@@ -21239,7 +21239,7 @@ stxplore 0.1.0
 styler 1.11.0
 stylest2 0.1
 stylo 0.7.71
-Stype.est 0.1.0
+Stype.est 0.2.0
 Styperidge.reg 0.1.0
 subdetect 1.3
 subgroup 1.1
@@ -21370,7 +21370,7 @@ surveycore 1.0.0
 surveyCV 0.2.0
 surveydata 0.2.8
 SurveyDefense 0.2.0
-surveydown 1.0.1
+surveydown 1.3.0
 surveyexplorer 0.2.0
 surveyframe 0.3.2
 surveygraph 1.0.0
@@ -23170,7 +23170,7 @@ vectorsurvR 1.6.3
 vectorwavelet 0.1.0
 vectra 0.7.1
 VectrixDB 1.1.2
-vecvec 1.1.0
+vecvec 1.2.0
 VedicDateTime 0.1.9
 veesa 0.1.7
 vegalite 0.6.1
@@ -23945,7 +23945,7 @@ Z10 0.1.0
 z22 1.1.4
 zalpha 0.3.0
 zarr 0.4.1
-zCompositions 1.6.1
+zCompositions 1.6.2
 zctaCrosswalk 2.0.0
 zcurve 2.4.6
 zdeskR 0.6.0

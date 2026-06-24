@@ -789,6 +789,7 @@ arsenal 3.6.3
 arthistory 0.1.0
 artma 0.3.3
 ARTofR 0.4.1
+artoo 0.1.1
 ARTool 0.11.2
 artpack 0.2.0
 aRtsy 1.0.1
@@ -916,6 +917,7 @@ AUKtest 0.1.0
 aum 2024.6.19
 AurieLSHGaussian 0.2.0
 auRoc 0.2-1
+aurora 0.1.12
 ausplotsR 2.0.5
 AustralianPoliticians 0.1.0
 AUtests 0.99
@@ -1431,6 +1433,7 @@ beastier 2.5.2
 BeastJar 10.5.1
 beastt 0.0.3
 beautier 2.6.12
+beautils 0.2.0
 beaver 1.0.0
 BED 1.6.2
 BEDASSLE 1.6.1
@@ -1505,6 +1508,7 @@ bethel 0.2
 bets.covid19 1.0.0
 BetterReg 0.3.0
 BeviMed 7.0
+bewrs 0.1.1
 bexy 0.1.3
 BeyondBenford 1.4
 beyondWhittle 1.3.1
@@ -1605,6 +1609,7 @@ bigparallelr 0.3.2
 bigPCAcpp 0.9.1
 bigPLScox 0.8.1
 bigPLSR 0.7.2
+BIGpopA 1.0.5
 bigQF 1.6
 BigQuic 1.1-13
 BIGr 0.7.2
@@ -3752,6 +3757,7 @@ countmaskr 0.1.1
 countprop 1.1.1
 Countr 3.6.1
 countries 1.2.3
+countryatlas 1.0.0
 countrycode 1.8.0
 CountsEPPM 3.1
 countsplit 4.0.0
@@ -3889,6 +3895,7 @@ crassmat 0.0.6
 crawl 2.3.1
 crayon 1.5.3
 crayons 0.0.4
+CRBHSF 0.1.0
 crc32c 0.0.3
 crch 1.2-2
 crctStepdown 0.5.2
@@ -4296,6 +4303,7 @@ DataPackageR 0.16.2
 datapasta 3.1.0
 dataprep 0.1.5
 dataPreparation 1.1.2
+dataProfilerR 0.2.1
 DataQualityDashboard 2.8.9
 dataquieR 2.8.9
 datardis 0.0.5
@@ -5159,6 +5167,7 @@ DQA 0.1.1
 DQAgui 0.2.6
 DQAstats 0.3.9
 dqcheckr 0.2.2
+dqcheckrGUI 0.1.0
 dqrng 0.4.1
 dQTG.seq 1.0.2
 dr 3.0.11
@@ -5203,6 +5212,7 @@ DrImpute 1.0
 DRIP 2.4
 DrivePlotR 0.1.0
 driveR 0.5.0
+drlate 0.3.1
 drMAIC 0.1.0
 drmeta 0.1.0
 drogonR 0.1.6
@@ -7106,6 +7116,7 @@ FormShare 1.0.1
 Formula 1.2-5
 formula.tools 1.7.1
 formulaic 0.0.8
+formulaiv 0.1.0
 formulops 0.5.1
 FormulR 1.0.0
 forplo 0.2.5
@@ -7466,6 +7477,7 @@ gapclosing 1.0.3
 gapmap 1.0.0
 gapminder 1.0.1
 GAPR 0.1.5
+gaQSAR 1.2.3
 GARCH.X 2.0
 GARCHIto 0.1.0
 GARCHSK 0.1.0
@@ -9190,6 +9202,7 @@ HOasso 1.0.1
 hoboR 1.1.0
 hockeystick 0.8.7
 HodgesTools 1.0.0
+HOIF 0.2.0
 HOIFCar 1.1.1
 holi 0.1.1
 holideh 0.1.0
@@ -9358,6 +9371,7 @@ hydroloom 1.2.0
 HydroMe 2.1.2
 hydroMOPSO 0.1-14
 hydropeak 0.1.3
+HydroPonicsK 1.0.3
 HydroPortailStats 1.1.0
 hydroroute 0.1.2
 hydroState 0.2.0.0
@@ -9377,6 +9391,7 @@ HyperG 1.0.0
 hypergate 0.8.5
 hypergeo 1.2-14
 hypergeo2 0.2.0
+hypergraph.sizing 1.0.0
 hyperoverlap 1.1.4
 hyperSpec 0.100.3
 hypertext 1.3.0
@@ -9723,6 +9738,7 @@ imuGAP 0.1.0
 imv 0.3
 ImVol 0.1.0
 inaparc 1.2.1
+inatpick 0.2.2
 inbreedR 0.3.3
 inca 0.1.0
 incase 0.4.0
@@ -9890,7 +9906,7 @@ interleave 0.1.2
 interlineaR 1.0
 InterNL 0.1.0
 interp 1.1-6
-interplot 0.2.3
+interplot 1.2.0
 InterpolateR 1.4-3
 interpolators 1.0.1
 interpret 0.1.35
@@ -10165,6 +10181,7 @@ ivDiag 1.0.6
 IVDML 1.0.1
 ivdoctr 1.0.1
 ivgets 0.1.2
+ivgls 0.1.0
 ivmodel 1.9.1
 ivmte 1.4.0
 ivo.table 0.7.1
@@ -10387,7 +10404,7 @@ KappaGUI 2.0.2
 kappalab 0.4-12
 kappaSize 1.2
 karaoke 3.0
-kardl 1.3.1
+kardl 2.0.2
 Karen 1.0
 karlen 0.0.2
 KarsTS 2.4.1
@@ -11185,6 +11202,7 @@ locateip 0.1.2
 locatexec 0.2.0
 locationgamer 0.1.0
 LocaTT 1.3.0
+locdiff 1.4
 locfdr 1.1-8
 locfit 1.5-9.12
 locits 1.7.8
@@ -11988,6 +12006,7 @@ MendelianRandomization 0.10.0
 Mercator 1.1.7
 merDeriv 0.2-5
 mergedblocks 1.1.1
+mergeGridR 0.2.0
 mergen 0.2.1
 mergenstudio 1.0
 mergingTools 1.0.1
@@ -12726,6 +12745,7 @@ modeltuning 0.1.3
 moder 0.2.1
 moderate.mediation 0.0.12
 modernBoot 0.1.1
+moderncor 0.2.0
 moderndive 0.7.0
 modernVA 0.1.3
 modest 0.3-1
@@ -12938,7 +12958,7 @@ MRFA 0.6
 MRFcov 1.0.39
 mrfDepth 1.0.17
 mrfse 0.4.2
-MRG 0.3.25
+MRG 0.3.29
 MRgrowth 0.1.2
 mrgsim.parallel 0.3.0
 mrgsim.sa 0.3.0
@@ -16003,6 +16023,7 @@ prodlim 2026.03.11
 ProduceR 1.3
 productivity 1.1.0
 productplots 0.1.2
+productshotaiR 0.1.0
 ProFAST 1.9
 ProfessR 2.4-3
 profExtrema 0.2.1
@@ -19388,6 +19409,7 @@ Sejong 0.01
 SEL 1.0-4
 selcorr 1.0
 Select 1.6
+selecta 0.6.0
 selectapref 0.1.2
 SelectBoost 2.3.0
 SelectBoost.beta 0.4.5
@@ -21229,6 +21251,7 @@ strip 1.0.0
 stripless 1.0-3
 striprtf 0.6.0
 stRoke 25.9.2
+strollur 0.1.2
 StroupGLMM 0.3.0
 strs 0.1.0
 strucchange 1.5-4
@@ -22789,6 +22812,7 @@ twitterwidget 0.1.1
 twl 1.0
 twn 0.2.6
 twoCoprimary 1.0.0
+TwoCutoff 0.1.0
 TwoDcDAPSA 0.1.1
 TwoDiRef 0.1.0
 twomodeclusteringGA 1.0.0

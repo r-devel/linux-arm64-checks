@@ -5266,6 +5266,7 @@ DSLite 1.4.1
 dsm 2.3.4
 dsmmR 1.0.7
 DSMolgenisArmadillo 4.0.1
+dsmSearch 1.2.4
 DSOpal 1.5.0
 dsos 0.1.2
 dsp 1.5.0
@@ -5293,7 +5294,7 @@ DTAT 0.3-8
 dtaudit 0.1.1
 DTAXG 0.1.0
 dTBM 3.0
-dtComb 1.0.7
+dtComb 1.0.8
 DTComPair 1.2.6
 DTDA 3.0.1
 DTDA.cif 1.0.2
@@ -7213,7 +7214,7 @@ freebsdcontribs 0.1.0
 freecurrencyapi 0.1.0
 freedom 1.0.1
 freegroup 1.2-0
-freestiler 0.1.7
+freestiler 0.2.0
 freesurfer 1.8.1
 freesurferformats 1.0.0
 FREEtree 0.1.0
@@ -11844,6 +11845,7 @@ MCMC4Extremes 1.1
 mcmcderive 0.1.2
 mcmcensemble 3.2.0
 MCMCglmm 2.36
+MCMChybridGP 7.0.1
 MCMCpack 1.7-1
 MCMCprecision 0.4.2
 mcmcr 0.6.2
@@ -12906,7 +12908,7 @@ MPI 0.1.0
 mpindex 0.3.0
 mpitbR 1.0.1
 mplot 1.0.6
-MplusAutomation 1.2
+MplusAutomation 1.3
 MplusLGM 1.0.0
 mplusParallel.automation 0.0.1.1
 MplusTrees 0.2.3
@@ -13272,7 +13274,7 @@ mutationtypes 0.0.1
 mutoss 0.1-14
 mutossGUI 0.1-12
 mutSignatures 2.1.1
-muttest 0.2.0
+muttest 0.2.1
 mutualinf 2.0.4
 MuViCP 1.3.2
 MUVR2 0.1.0
@@ -17216,6 +17218,7 @@ RDHonest 1.0.1
 rdhs 0.8.1
 rdhte 0.2.0
 rdi 1.0.0
+Rdiagnosislist 1.5.1
 rdian 0.1.1
 Rdice 1.0.0
 RDieHarder 0.2.7
@@ -18441,6 +18444,7 @@ RPatternJoin 1.0.0
 rPBK 0.2.5
 rpc 2.0.3
 rpca 0.2.3
+Rpcop 1.2.3
 rpcss 0.1.1
 Rpdb 2.4.5
 rPDBapi 3.0.1
@@ -21072,7 +21076,7 @@ StatsTFLValR 1.0.0
 statswalesr 0.2.0
 StatTeacherAssistant 0.0.3
 StatTools 0.1.1
-statuser 0.3.0
+statuser 0.3.1
 STB 0.6.6
 stbimageheaders 0.1.0
 stbl 0.3.0
@@ -22230,9 +22234,9 @@ tinyimg 0.4
 tinylabels 0.2.5
 tinylens 0.1.0
 tinyoauth 0.1.1
-tinypkgr 0.2.1
+tinypkgr 0.2.2
 tinyplot 0.6.1
-tinyrox 0.3.3
+tinyrox 0.4.0
 tinyscholar 0.1.7
 tinyshinyserver 0.1.0
 tinysnapshot 0.2.0

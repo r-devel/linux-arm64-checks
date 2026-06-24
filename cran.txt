@@ -8459,7 +8459,7 @@ GPareto 1.1.9
 GPArotateDF 2026.6-1
 GPArotation 2026.6-1
 GPBayes 0.1.0-6
-gpboost 1.6.7
+gpboost 1.6.8
 gpbStat 0.4.4
 GPCMlasso 0.1-9
 gpcp 0.1.0
@@ -14183,7 +14183,7 @@ ohsome 0.2.2
 ohun 1.0.4
 ohvbd 1.0.1
 oii 1.0.2.1
-okBATHTUB 0.1.10
+okBATHTUB 0.1.11
 okcolors 0.1.0
 OkNNE 1.0.1
 okxAPI 0.1.1
@@ -23280,7 +23280,7 @@ ViewPipeSteps 0.1.0
 viewpoly 0.4.1
 ViewR 2.0.0
 viewscape 2.0.2
-vigicaen 1.0.0
+vigicaen 2.0.0
 VIGoR 1.1.5
 viking 1.0.2
 villager 2.0.0

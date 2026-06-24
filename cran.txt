@@ -17736,7 +17736,7 @@ rfold 0.2.0
 Rfolding 1.0
 rfordummies 0.1.6
 Rforestry 0.11.1.0
-rformat 0.1.0
+rformat 0.2.0
 RFormatter 0.1.1
 rfPermute 2.5.5
 RFplus 1.5-4

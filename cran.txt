@@ -3872,7 +3872,7 @@ cPseudoMaRg 1.0.1
 cpsR 1.0.0
 CPsurv 1.0.0
 cpsurvsim 1.2.2
-cpsvote 0.1.0
+cpsvote 0.2.0
 cpt 1.0.2
 cptcity 1.1.1
 CptNonPar 0.3.2
@@ -8577,6 +8577,7 @@ GREENeR 1.0.2
 greenfeedr 1.3.1
 greenR 0.0.1.7
 GREENREG 0.1.0
+greenSD 0.2.0
 Greg 2.0.3
 GregoryQuadrature 1.0.0
 gregRy 0.1.0
@@ -8597,7 +8598,7 @@ gridBase 0.4-7
 gridBezier 1.1-1
 gridDebug 0.5-1
 griddy 0.1.0
-gridExtra 2.3
+gridExtra 2.3.1
 gridGeometry 0.4-0
 gridGraphics 0.5-1
 gridGraphviz 0.3-2
@@ -9703,7 +9704,7 @@ impactflu 0.1.0
 impactr 0.4.2
 impala 0.1.0
 impARI 0.0.3
-impectR 2.5.5
+impectR 2.5.6
 impermanentlosscalc 0.1.0
 impimp 0.3.1
 implicitExpansion 0.1.0
@@ -14619,7 +14620,7 @@ packagepal 0.1.1
 packager 1.15.3
 packageRank 0.9.8
 packcircles 0.3.7
-PacketLLM 0.1.1
+PacketLLM 0.1.2
 packHV 2.4
 packMBPLSDA 0.9.0
 packrat 0.9.3
@@ -15909,6 +15910,7 @@ pRepDesigns 1.2.0
 prepkit 0.1.1
 prepost 0.3.0
 prepplot 1.0-2
+prepR4pcm 1.0.0
 PreProcess 3.1.9
 PreProcessing 0.1.0
 PreProcessRecordLinkage 1.0.1
@@ -17432,7 +17434,7 @@ refseqR 1.1.5
 refset 0.1.1
 REFT 0.1.4
 refuge 0.3.3
-refugees 2025.12.0
+refugees 2025.12.1
 refund 0.1-40
 refund.shiny 1.1.1
 refundBayes 0.6.0
@@ -22885,7 +22887,7 @@ ugatsdb 0.2.3
 uGMAR 3.6.0
 ugomquantreg 1.0.0
 UHM 0.3.0
-ui 0.1.1
+ui 1.0.1
 uisapi 0.1.1
 uiucthemes 0.3.3
 uk2us 0.1.0

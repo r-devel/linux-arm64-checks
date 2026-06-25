@@ -4601,7 +4601,7 @@ densityClust 0.3.3
 densityratio 0.2.2
 DensParcorr 1.1
 densratio 0.3.1
-denstest 1.0.0
+denstest 1.0.1
 denstrip 1.5.5
 dentomedical 0.2.0
 denvax 0.1.2
@@ -13052,7 +13052,7 @@ MSMwRA 1.5
 MSN 0.1.0
 msos 1.2.0
 MSoutcomes 0.2.1
-msPCA 0.4.1
+msPCA 0.5.0
 msprog 1.0.0
 MSPRT 3.0
 mssearchr 0.2.0

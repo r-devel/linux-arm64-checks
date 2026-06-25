@@ -2742,7 +2742,7 @@ chartreview 1.0
 chatAI4R 1.3.1
 chatgpt 0.2.3
 chatLLM 0.1.4
-chatRater 1.3.0
+chatRater 1.3.1
 chattr 0.3.1
 ChauBoxplot 1.0.0
 chcd 0.1.1
@@ -11892,7 +11892,7 @@ mcvis 1.0.8
 mcwr 1.0.0
 md 1.0.4
 md.log 0.2.0
-MD2sample 1.2.1
+MD2sample 1.2.2
 md4r 0.5.3.0
 mda 0.5-5
 mda.biber 1.0.1
@@ -13254,7 +13254,7 @@ multxpert 0.1.1
 MulvariateRandomForestVarImp 0.0.2
 mumarinex 2.0
 MuMIn 1.48.19
-mums2 0.1.0
+mums2 0.1.1
 munch 0.0.2
 munfold 0.3.5
 munsell 0.5.1
@@ -14290,7 +14290,7 @@ opa 0.8.3
 opalr 3.6.1
 OPC 0.0.2
 OPCreg 3.0.0
-opdisDownsampling 1.0.1
+opdisDownsampling 1.6
 OPDOE 1.0-10
 Open.Visualization.Academy 1.0.0
 openai 0.4.1
@@ -15018,7 +15018,7 @@ pecora 0.1.2
 pECV 1.0.1
 pedalfast.data 1.0.2
 pedbp 2.1.0
-pedbuildr 0.3.0
+pedbuildr 0.4.0
 pedFamilias 0.2.5
 pedgene 4.1
 pedigree 1.4.2
@@ -18915,7 +18915,7 @@ S4DM 0.0.2
 S7 0.2.2
 s7contract 0.1.0
 S7schema 0.1.1
-saber 0.7.1
+saber 0.7.2
 sabre 0.4.3
 saccadr 0.1.3
 SACCR 3.4
@@ -23247,7 +23247,7 @@ versions 0.3
 versionsort 1.1.0
 versus 0.3.1
 VertexSimilarity 0.1
-VertexWiseR 1.5.1
+VertexWiseR 1.5.2
 VeryLargeIntegers 0.2.1
 vetiver 0.2.7
 vetr 0.2.22

@@ -6377,7 +6377,7 @@ fabisearch 0.0.4.5
 fable 0.5.0
 fable.ata 0.0.6
 fable.bayesRecon 0.1.0
-fable.intermittent 0.1.0
+fable.intermittent 0.1.1
 fable.prophet 0.1.0
 fableCount 0.1.0
 fabletools 0.7.0
@@ -8227,7 +8227,7 @@ GlarmaVarSel 1.0
 glassdoor 0.9.0
 glasso 1.11
 glassoFast 1.0.1
-glasstabs 0.3.2
+glasstabs 0.3.3
 glba 0.2.1
 GLBFP 0.5.2
 glca 1.4.2
@@ -15060,7 +15060,7 @@ PenguinR 0.1.0
 PenIC 1.0.0
 penMSM 0.99
 penppml 0.2.4
-pensar 0.6.3
+pensar 0.6.4
 pense 2.5.2
 pensim 1.3.6
 pensynth 0.8.2
@@ -17315,7 +17315,7 @@ readtext 0.92.1
 readtextgrid 0.2.0
 readxl 1.5.0
 ready4 0.1.19
-readyomics 0.2.0
+readyomics 0.2.1
 realestatebr 1.0.1
 RealSurvSim 1.0.0
 realtest 0.2.3

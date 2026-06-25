@@ -1215,7 +1215,7 @@ bayesdfa 1.3.4
 bayesDiagnostics 0.1.0
 BayesDIP 0.1.1
 BayesDissolution 0.2.1
-bayesDP 1.3.7
+bayesDP 1.3.8
 bayesefa 0.0.0.6
 bayesEO 0.2.2
 BayesERtools 0.2.6
@@ -1985,7 +1985,7 @@ BootstrapQTL 1.0.5
 BootstrapTests 0.1.0
 bootsurv 0.0.1
 bootSVD 1.2
-bootUR 1.0.4
+bootUR 1.0.5
 bootwar 0.2.1
 BootWPTOS 1.2.1
 BOP2FE 1.0.3
@@ -3999,7 +3999,7 @@ cryptotrackr 1.3.3
 cryptoverse 0.1.0
 cryptowatchR 0.2.0
 CryptRndTest 1.2.7
-crystract 1.0.1
+crystract 1.0.2
 csa 0.7.1
 csalert 2024.6.24
 csampling 1.2-4.1
@@ -4275,6 +4275,7 @@ DataClean 1.0
 datacleanr 1.0.5
 datacommons 0.1.0
 dataCompare 1.0.5
+DataCraftR 0.3.2
 datacult 0.1.0
 datacutr 0.2.4
 datadictionary 1.0.1
@@ -7183,6 +7184,7 @@ fractD 0.1.0
 FRACTION 1.1.1
 fractional 0.1.3
 fracture 0.2.2
+FragiliTidy 0.1.0
 fragility 1.6.1
 Fragman 1.1.0
 FrailtyCompRisk 0.1.1
@@ -12467,6 +12469,7 @@ mixedMem 1.1.2
 MixedPoisson 2.0
 MixedPsy 1.3.0
 mixedsde 5.0
+mixedsubjectsirt 1.0.0
 MixedTS 1.0.4
 MIXFIM 1.1
 MixfMRI 0.1-4
@@ -12486,6 +12489,7 @@ MixOptim 0.1.2
 mixPHM 0.7-2
 mixpoissonreg 1.0.0
 mixpower 0.1.0
+mixqr 0.2.0
 mixR 0.2.1
 mixRaschTools 1.1.1
 MixRF 1.0
@@ -14401,7 +14405,7 @@ optimg 0.1.2
 optimization 1.0-9
 optimizeR 1.3.0
 optimizr 1.0.1
-optimLanduse 1.2.1
+optimLanduse 2.0.0
 OptimModel 2.0-3
 optimos.prime 0.1.2
 optimParallel 1.0-2
@@ -16010,6 +16014,7 @@ probout 1.1.2
 probs 0.9.9
 ProbSamplingI 2.0
 probstats4econ 0.3.1
+ProbSVMs 0.1.0
 ProbYX 1.1-0.1
 pROC 1.19.0.1
 proccalibrad 0.14
@@ -16530,7 +16535,7 @@ quallmer 0.4.0
 quallmer.app 0.1.0
 qualmap 0.2.2
 qualpalr 2.0.0
-qualtRics 3.2.2
+qualtRics 3.3.0
 qualV 0.3-5
 qualvar 0.2.0
 QUALYPSO 3.1
@@ -16904,6 +16909,7 @@ rasterpic 0.5.1
 rasterVis 0.51.7
 RAT 0.3.1
 ratdat 1.1.0
+ratecalib 0.3.0
 ratelimitr 0.4.2
 ratematrix 1.2.5
 rater 1.3.2
@@ -18113,6 +18119,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
+rMosaic 0.1.3
 Rmosek 1.3.5
 rMOST 1.0.1
 rmp 2.2
@@ -19893,6 +19900,7 @@ SiER 0.1.0
 siera 0.5.6
 Sieve 2.1
 sievePH 1.1
+SIEVEseq 0.0.0
 sievetest 1.2.3
 SiFINeT 1.13
 sig 0.0-6
@@ -20189,7 +20197,7 @@ slm 1.2.0
 SLModels 0.1.2
 sloop 1.0.1
 SLOPE 2.1.0
-slopes 1.0.2
+slopes 2.0.0
 SLOS 1.0.1
 SlotLim 0.0.2
 slouch 2.1.5
@@ -21713,6 +21721,7 @@ TangledFeatures 0.1.1
 tangram 0.8.3
 tangram.pipe 1.1.2
 TapeR 0.5.3
+taperNOR 0.2.1
 TapeS 0.14.1
 tapkee 1.2
 tapLock 0.2.0
@@ -21778,6 +21787,7 @@ tclust 2.2-0
 Tcomp 1.0.1
 tcpl 3.3.1
 tcplfit2 0.1.9
+TCpRepDesigns 0.0.1
 TCRconvertR 1.0
 tcv 0.1.0
 tcxr 0.1.0
@@ -21805,7 +21815,7 @@ tdROC 2.0
 tdsa 1.1-2
 tdsc 1.0.4
 TDSTNN 0.1.0
-tdthap 1.3
+tdthap 1.4
 tea 1.1
 TeachHist 0.2.1
 TeachingDemos 2.13

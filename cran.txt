@@ -1016,7 +1016,7 @@ awsMethods 1.1-1
 axisandallies 0.1.1
 AZIAD 0.0.3
 azlogr 0.0.6
-azr 0.3.4
+azr 0.3.5
 AzureAppInsights 0.3.1
 AzureAuth 1.3.4
 AzureCognitive 1.0.2
@@ -3110,6 +3110,7 @@ clustermole 1.1.1
 clustermq 0.10.1
 clusternomics 0.1.1
 ClusterR 1.3.6
+ClusterRandSSAdj 1.0.0
 ClusterRankTest 1.0
 clusterRepro 0.9
 clusterSEs 2.6.6
@@ -3672,7 +3673,7 @@ corels 0.0.5
 CoreMicrobiomeR 0.1.0
 coreNLP 0.4-3
 coreSim 0.2.4
-coresynth 0.2.0
+coresynth 0.2.2
 corHMM 2.8
 corkscrew 1.1
 corlink 1.0.0
@@ -4625,6 +4626,7 @@ deprivateR 0.2.0
 deps 0.4.1
 depth.plot 0.1
 DepthProc 2.1.6
+depthR 0.1.8
 depthTools 0.7
 DER 1.5
 DeRezende.Ferreira 0.1.2
@@ -4762,7 +4764,7 @@ dialr 0.4.2
 dialrjars 9.0.21
 dials 1.4.4
 diaplt 1.4.0
-diario 0.1.1
+diario 0.1.2
 diathor 0.1.5
 dibble 0.3.2
 dice 1.2
@@ -4800,6 +4802,7 @@ DiffCorr 0.4.5
 diffcp 0.1.1
 diffdf 1.1.2
 diffdfs 0.9.0
+diffdriver 0.1.7
 diffEnrich 0.1.2
 diffeqr 2.1.0
 diffeR 0.0-8
@@ -5367,6 +5370,7 @@ DWDLargeR 0.2-0
 dwdradar 0.2.13
 dwlm 0.1.0
 DWLS 0.1.0
+dwmmlRidge 0.1.1
 dwp 1.2
 DWreg 3.0
 DyadiCarma 1.0.1
@@ -5690,6 +5694,7 @@ eFRED 0.1.0
 EFSATools 1.0.0
 ega 2.0.0
 EGAnet 2.4.1
+egfr 1.1.1
 egg 0.4.5
 eggCounts 2.5-1
 eglhmm 0.1-3
@@ -6674,7 +6679,7 @@ featForge 0.1.2
 feather 0.4.0
 feature 1.2.16
 featureCorMatrix 0.4.0
-FeatureExtraction 3.13.0
+FeatureExtraction 3.14.0
 featurefinder 1.2
 featureflag 0.2.0
 FeatureImpCluster 0.1.5
@@ -6879,7 +6884,7 @@ FixedPoint 0.6.3
 fixedTimeEvents 1.0.1
 fixerapi 0.1.6
 fixes 0.11.2
-fixest 0.14.1
+fixest 0.14.2
 fixr 0.2.0
 FixSeqMTP 0.1.2
 fizzbuzzR 0.1.1
@@ -7733,7 +7738,7 @@ geoBayes 0.7.7
 geobounds 0.1.2
 geobr 2.0.1
 geocacheR 0.1.0
-geocausal 0.4.1
+geocausal 0.4.2
 geocmeans 0.3.4
 geocodebr 0.6.3
 geocomplexity 0.3.0
@@ -9620,7 +9625,7 @@ iglu 4.2.2
 igoR 1.0.3
 IgorR 0.9.0
 igr 1.0.1
-igraph 2.3.2
+igraph 2.3.3
 igraphdata 1.0.1
 igraphinshiny 0.1
 iGraphMatch 2.0.5
@@ -10289,7 +10294,7 @@ Jmisc 0.3.1.1
 jmotif 1.2.1
 jmSurface 0.1.0
 jmuOutlier 2.2
-jmv 2.7.7
+jmv 2.8.0
 jmvconnect 2.5.7
 jmvcore 2.7.35
 jmvReadWrite 0.4.13
@@ -10724,7 +10729,7 @@ lancor 0.1.3
 LandComp 0.0.5
 landest 1.2
 landform 0.2
-landmaRk 0.1.1
+landmaRk 0.1.2
 Landmarking 1.0.2
 landmix 1.0
 landmulti 0.5.0
@@ -12905,6 +12910,7 @@ movMF 0.2-11
 mp 0.4.1
 mpactr 0.3.3
 mpae 0.1.2
+mpaR 0.4.0
 mpath 0.4-2.26
 mpathr 1.0.4
 mpathsenser 1.2.4
@@ -19185,6 +19191,7 @@ scenfire 0.1.0
 SCEnt 0.0.1
 SCEPtER 0.2-4
 SCEPtERbinary 0.1-1
+sceua 0.1.0
 scf 1.0.10
 SCFMonitor 0.3.5
 scGate 1.7.2
@@ -20156,6 +20163,7 @@ skmeans 0.2-20
 SKNN 4.1.3
 skpr 1.9.2
 skylight 1.4
+skymodelr 0.3.1
 skytrackr 2.0
 slackr 3.3.1
 slam 0.1-55
@@ -20345,6 +20353,7 @@ snpAIMeR 2.1.1
 SNPannotator 1.4.7
 SNPassoc 2.3.1
 SNPfiltR 1.0.7
+SNPkit 0.1.0
 snplinkage 1.2.0
 snplist 0.18.3
 sNPLS 1.0.27
@@ -22316,7 +22325,7 @@ tm.plugin.lexisnexis 1.4.2
 tm.plugin.mail 0.3-1
 tm1r 1.1.8
 tma 0.3.1
-tmap 4.4
+tmap 4.4-1
 tmap.cartogram 0.2-1
 tmap.glyphs 0.2
 tmap.mapgl 0.3

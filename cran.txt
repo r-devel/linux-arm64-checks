@@ -20070,7 +20070,7 @@ simulator 0.2.5
 simulist 0.7.0
 simulMGF 0.1.1
 SimuRg 0.2.0
-SimVitD 1.0.3
+SimVitD 1.0.4
 sinaplot 1.1.0
 sinar 0.1.0
 sindyr 0.2.4

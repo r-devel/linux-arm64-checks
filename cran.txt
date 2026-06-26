@@ -1360,7 +1360,7 @@ BBmisc 1.13.1
 bbmix 1.0.0
 bbmle 1.0.25.1
 bbnet 1.2.1
-bbotk 1.10.1
+bbotk 1.11.0
 bbreg 2.0.2
 bbssr 1.0.2
 bbw 0.3.1
@@ -2692,7 +2692,7 @@ cfr 0.2.0
 cft 1.0.0
 CFtime 1.7.3
 cg 1.0-4
-cgaim 1.0.3
+cgaim 1.0.4
 cgal4h 0.1.0
 cgam 1.32
 cgAUC 1.2.1
@@ -3723,7 +3723,7 @@ corrViz 0.1.0
 corset 0.1-5
 corTest 1.0.7
 corTESTsrd 1.0-0
-corteza 0.6.9
+corteza 0.7.0
 corto 1.2.4
 CortSineScore 0.1.0
 corx 1.0.7.3
@@ -3805,6 +3805,7 @@ covKCD 0.1
 covr 3.6.5
 covRobust 1.1-3
 CovSel 1.2.2
+covsep 1.1.1
 covsim 1.1.0
 CovTools 0.5.6
 covtracer 0.0.2
@@ -8917,7 +8918,7 @@ HBV.IANIGLA 0.2.6
 hcandersenr 0.2.0
 hcci 1.2.0
 HCD 1.0
-hce 0.9.3
+hce 0.9.4
 hchinamap 0.1.0
 hcidata 0.1.0
 hcinfer 0.1.0
@@ -11461,7 +11462,7 @@ mabacR 0.1.0
 mable 4.1.1
 MacBehaviour 1.2.8
 MACER 0.2.1
-MachineShop 3.9.2
+MachineShop 3.9.3
 macleish 0.3.10
 maclogp 0.1.1
 macro 0.1.6
@@ -11857,7 +11858,7 @@ MCMC4Extremes 1.1
 mcmcderive 0.1.2
 mcmcensemble 3.2.0
 MCMCglmm 2.36
-MCMChybridGP 7.0.1
+MCMChybridGP 7.0.2
 MCMCpack 1.7-1
 MCMCprecision 0.4.2
 mcmcr 0.6.2
@@ -17731,7 +17732,7 @@ RFclust 0.1.2
 rFDP 0.1.1
 RfEmpImp 2.1.8
 rFerns 6.0.0
-rFIA 1.1.3
+rFIA 1.1.4
 rfieldclimate 0.1.1
 RFIF 1.0.2
 rfinterval 1.0.0
@@ -20182,7 +20183,7 @@ sleepr 0.3.1
 sleepwalk 0.3.2
 sleev 1.2.0
 SLEMI 1.0.2
-slendr 1.4.0
+slendr 1.5.0
 Sleuth2 2.0-7
 Sleuth3 1.0-6
 slfm 1.0.2
@@ -22269,7 +22270,7 @@ tinyscholar 0.1.7
 tinyshinyserver 0.1.0
 tinysnapshot 0.2.0
 tinyspotifyr 0.2.3
-tinytable 0.16.0
+tinytable 0.17.0
 tinytest 1.4.3
 tinytest2JUnit 1.1.3
 tinytex 0.60

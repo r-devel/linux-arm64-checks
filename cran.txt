@@ -4269,7 +4269,7 @@ data.table.threads 1.0.1
 data.tree 1.2.0
 data.validator 0.2.1
 data360r 1.0.9
-DatabaseConnector 7.1.0
+DatabaseConnector 7.2.0
 DatabaseConnectorJars 1.1.0
 DatabionicSwarm 2.0.0
 DataClean 1.0
@@ -6408,7 +6408,7 @@ FactEff 1.0
 factiv 0.1.0
 FACTMLE 1.1
 FactoClass 1.2.9
-factoextra 2.0.0
+factoextra 2.1.0
 FactoInvestigate 1.9.1
 FactoMineR 2.15
 factoptd 1.0.3
@@ -7912,7 +7912,7 @@ ggbreak 0.1.7
 ggbrick 0.3.2
 ggBubbles 0.1.4
 ggbuildr 0.1.0
-ggchangepoint 0.2.0
+ggchangepoint 0.3.0
 ggcharts 0.2.1
 ggChernoff 0.3.0
 ggchord 0.2.0
@@ -11120,7 +11120,7 @@ LKT 1.7.0
 llama 0.10.1
 llamaR 0.2.4
 LLM 1.1.0
-llm.api 0.1.4
+llm.api 0.1.8
 LLMAgentR 0.3.2
 llmclean 0.1.1
 llmcoder 1.2.0
@@ -14993,7 +14993,7 @@ PDFEstimator 4.5
 pdfetch 0.3.3
 pdfminer 1.0
 pdfsearch 0.4.3
-pdfsigner 0.2.2
+pdfsigner 0.2.4
 pdftables 0.1
 pdftools 3.9.0
 pdi 0.4.2

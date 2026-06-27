@@ -11850,7 +11850,7 @@ mclogit 0.9.15
 mclust 6.1.2
 mclustAddons 0.10
 mclustcomp 0.3.5
-MCM 0.1.7
+MCM 0.1.8
 mcmapper 0.0.11
 mcmc 0.9-8
 MCMC.qpcr 1.2.4

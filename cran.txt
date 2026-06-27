@@ -4328,7 +4328,7 @@ datasetsICR 1.0
 DataSetsUni 0.1
 DataSetsVerse 0.1.0
 DataSimilarity 0.4.0
-DataSpaceR 0.7.7
+DataSpaceR 1.0.0
 dataspice 1.1.1
 datastat 0.1.0
 DatastreamDSWS2R 1.9.12

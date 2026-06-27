@@ -4229,7 +4229,7 @@ DALEX 2.5.3
 DALEXtra 2.3.1
 DALSM 0.9.1
 daltoolbox 1.3.747
-daltoolboxdp 1.3.747
+daltoolboxdp 1.3.757
 DALY 1.5.0
 dam 0.0.1
 DamageDetective 1.0.0
@@ -11194,7 +11194,7 @@ lnmixsurv 3.1.7
 LNPar 1.1.3
 loa 0.3.1.1
 loadeR 1.3.0
-loadings 0.5.1
+loadings 0.6.1
 lobby 0.0.2
 lobbyR 0.1.1
 LoBrA 1.0

@@ -5862,7 +5862,7 @@ emulator 1.2-24
 emuR 2.6.0
 enaho 0.2.5
 eNchange 1.1
-encharter 0.9
+encharter 0.9.1
 encode 0.3.7
 EncompassTest 0.22
 encryptedRmd 0.2.1

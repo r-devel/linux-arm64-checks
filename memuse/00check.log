@@ -1,12 +1,12 @@
 * using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/memuse.Rcheck’
-* using R version 4.6.0 (2026-04-24)
+* using R version 4.6.1 (2026-06-24)
 * using platform: aarch64-unknown-linux-gnu
 * R was compiled by
     aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-06-21 03:12:11 UTC
+* current time: 2026-06-28 03:00:34 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘memuse/DESCRIPTION’ ... OK
 * this is package ‘memuse’ version ‘4.2-3’

@@ -140,7 +140,7 @@ AdapSamp 1.1.1
 adapt3 2.0.9
 adapt4pv 0.2-3
 adaptalint 0.2.4
-adaptDiag 0.1.0
+adaptDiag 0.1.1
 AdaptGauss 1.6
 AdaptiveBoxplot 0.1.1
 adaptiveGPCA 0.1.3
@@ -9872,7 +9872,7 @@ InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
 inshiny 0.1.4
-insight 1.5.1
+insight 1.5.2
 InSilicoVA 1.4.2
 InspectChangepoint 1.2
 InspectionPlanner 1.2
@@ -10302,7 +10302,7 @@ JNplots 0.1.2
 job 0.3.1
 jobqueue 1.7.0
 JoF 0.1.0
-joineR 1.2.8
+joineR 1.2.9
 joineRML 0.4.8
 joinet 1.0.0
 joinless 0.0.1
@@ -13695,7 +13695,7 @@ nhanesdiva 1.0.1
 nhdplusTools 1.5.0
 nhdR 0.6.1
 NHLData 1.0.0
-nhlscraper 0.6.1
+nhlscraper 0.7.0
 nhm 0.1.2
 NHPoisson 3.4
 nhppp 1.0.5
@@ -16933,7 +16933,7 @@ rATTAINS 1.1.0
 rattle 5.6.2
 Ravages 1.2.0
 ravecore 0.1.1
-ravel 0.1.1
+ravel 0.1.2
 ravelRy 0.1.0
 raven.rdf 0.2.0
 RavenR 2.2.4

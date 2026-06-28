@@ -6389,7 +6389,7 @@ fable.bayesRecon 0.1.0
 fable.intermittent 0.1.1
 fable.prophet 0.1.0
 fableCount 0.1.0
-fabletools 0.7.0
+fabletools 0.8.0
 fabMix 5.1
 fabPrediction 1.0.4
 fabR 2.1.1
@@ -7130,7 +7130,7 @@ formulaiv 0.1.0
 formulops 0.5.1
 FormulR 1.0.0
 forplo 0.2.5
-forrel 1.8.1
+forrel 1.9.0
 forrest 0.3.0
 forstringr 1.0.0
 fortniteR 0.1.0
@@ -8769,7 +8769,7 @@ Guerry 1.8.3
 guescini 0.1.0
 guess 0.3.0
 GUEST 0.2.0
-guidedPLS 1.1.0
+guidedPLS 1.2.1
 guideR 0.9.0
 guildai 0.0.1
 GUILDS 1.4.7
@@ -10163,7 +10163,7 @@ itcSegment 1.0
 itdr 2.0.1
 itemanalysis 1.1
 ItemRest 0.2.5
-iTensor 1.0.5
+iTensor 1.0.6
 IterativeHardThresholding 1.0.3
 iteratoR 0.1.1
 iterators 1.0.14
@@ -12508,7 +12508,7 @@ mixSPE 0.9.3
 mixsqp 0.3-54
 mixSSG 2.1.1
 MixStable 0.1.0
-mixtime 0.1.0
+mixtime 0.2.0
 mixtools 2.0.0.1
 mixtox 1.5.0
 mixtree 0.0.1

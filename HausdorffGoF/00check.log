@@ -1,12 +1,12 @@
 * using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/HausdorffGoF.Rcheck’
-* using R version 4.6.0 (2026-04-24)
+* using R version 4.6.1 (2026-06-24)
 * using platform: aarch64-unknown-linux-gnu
 * R was compiled by
     aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-06-21 02:54:36 UTC
+* current time: 2026-06-28 02:43:34 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘HausdorffGoF/DESCRIPTION’ ... OK
 * checking extension type ... Package

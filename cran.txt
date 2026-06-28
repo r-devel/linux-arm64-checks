@@ -11910,7 +11910,7 @@ md4r 0.5.3.0
 mda 0.5-5
 mda.biber 1.0.1
 mDAG 1.2.3
-mdatools 0.15.0
+mdatools 0.16.0
 mdbplyr 0.4.0
 mdbr 0.3.1
 MDCcure 0.1.0

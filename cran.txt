@@ -4575,7 +4575,6 @@ demogR 0.6.0
 DemographicTable 0.2.3
 demography 2.0.1
 demoKde 1.0.1
-DemoKin 1.0.3
 demor 1.0.10
 demoShiny 0.1
 demovuln 0.1.0
@@ -13111,7 +13110,7 @@ MuFiMeshGP 0.0.1
 MUGS 0.1.0
 muhaz 1.2.6.4
 muiDataGrid 0.1.2
-muiMaterial 0.2.0
+muiMaterial 0.2.1
 muir 0.1.0
 muiTreeView 0.1.1
 mulea 1.1.1
@@ -16566,7 +16565,7 @@ QuantilePeer 0.0.1
 quantilogram 3.2.1
 quantities 0.2.3
 quantkriging 0.1.0
-quantmod 0.4.28
+quantmod 0.4.29
 QuantPsyc 1.6
 quantreg 6.1
 quantreg.nonpar 1.0
@@ -19636,7 +19635,7 @@ sfislands 1.1.2
 SFM 0.2.1
 sfnetworks 0.6.6
 SFOCDs 1.2.0
-SFPL 1.0.0
+SFPL 1.0.1
 sfReapportion 0.2.0
 sfsmisc 1.1-24
 sft 2.4

@@ -2548,7 +2548,7 @@ cclust 0.6-27
 cclustr 0.1.1
 CCM 1.2
 ccmEstimator 1.0.0
-CCMMR 0.2.1
+CCMMR 0.2.2
 CCMnet 1.1.2
 ccmReportR 0.1.0
 ccoptimalmatch 0.1.0

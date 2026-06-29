@@ -501,6 +501,7 @@ ammiBayes 2.1-1
 AMModels 0.1.4
 AmmoniaConcentration 0.1
 aMNLFA 1.1.2
+amorem 1.0.0
 AmoudSurv 0.1.0
 amp 1.0.0
 amp.dm 0.2.1
@@ -945,7 +946,7 @@ autokeras 1.0.12
 autoLibLoad 1.0
 automagic 0.5.1
 automap 1.1-20
-automatedRecLin 1.1.1
+automatedRecLin 1.1.2
 automatedtests 0.1.2
 automerge 0.4.0
 autometric 0.1.2
@@ -1293,7 +1294,7 @@ bayesPO 0.5.0
 BayesPocket 0.1.0
 bayesPop 12.0-1
 BayesPostEst 0.4.0
-BayesPower 1.0.4
+BayesPower 1.0.5
 BayesPPD 1.1.3
 BayesPPDSurv 1.0.3
 BayesPPR 0.1.0
@@ -1846,6 +1847,7 @@ blockr.dplyr 0.1.0
 blockr.ggplot 0.1.0
 blockr.io 0.1.0
 blockrand 1.5
+blockRAR 1.0.3
 blocksdesign 4.9
 blockstrap 1.0.0
 blockTools 0.6.6
@@ -2349,7 +2351,7 @@ capr 0.2.0
 Capsule 0.2.0
 captain 1.2.0
 capushe 1.1.3
-capybara 2.0.0
+capybara 2.1.0
 car 3.1-5
 caracas 2.1.1
 caradpt 0.1.0
@@ -3047,7 +3049,7 @@ clisymbols 1.2.0
 clitable 0.1.0
 CLME 2.0-13
 clmplus 1.0.1
-clmstan 0.1.1
+clmstan 0.1.2
 clock 0.7.4
 clockify 0.1.7
 clockplot 0.8.3
@@ -4834,7 +4836,7 @@ dimensionsR 0.0.3
 Dimodal 1.0.4
 DImodels 1.3.3
 DImodelsMulti 1.2.1
-DImodelsVis 1.0.4
+DImodelsVis 1.0.5
 DIMORA 0.3.6
 dimRed 0.2.7
 dina 2.0.2
@@ -5595,6 +5597,7 @@ ecoval 1.2.10
 ecoXCorr 0.2.2
 ecp 3.1.6
 ecpdist 0.2.1
+ecpromethee 0.1.0
 ecr 2.1.1
 ectotemp 0.2.0
 ECTSVR 0.1.0
@@ -6745,6 +6748,7 @@ FI 1.1
 fiber 0.1.2
 fiberLD 0.1-8
 fibos 2.0.1
+fibr 0.1.1
 fic 1.0.1
 fICA 1.1-3
 fidelius 0.0.2
@@ -7087,7 +7091,7 @@ forestControl 0.2.2
 ForestDisc 0.1.0
 forestecology 0.2.1
 forested 0.2.0
-ForestElementsR 2.2.0
+ForestElementsR 3.0.0
 forestError 1.1.0
 ForestFit 2.4.3
 ForestGapR 0.1.7
@@ -7407,6 +7411,7 @@ fxl 1.7.3
 fxregime 1.0-4
 fxTWAPLS 0.1.3
 fy 0.4.2
+fz 1.1
 g.data 2.4.1
 g.ridge 1.0
 G2Sd 2.2
@@ -8459,6 +8464,7 @@ goweragreement 1.0-1
 GowerSom 0.1.0
 goxygen 1.4.5
 gp 1.1
+gp3tools 1.0.1
 GPAbin 1.1.1
 gpairs 1.4.0
 GPareto 1.1.9
@@ -9329,6 +9335,7 @@ httr 1.4.8
 httr2 1.2.3
 hubeau 0.5.2
 hubEnsembles 1.0.0
+hubEvals 0.3.0
 hubUtils 1.2.0
 hudr 1.2.0
 hues 0.2.0
@@ -9399,7 +9406,7 @@ HyperG 1.0.0
 hypergate 0.8.5
 hypergeo 1.2-14
 hypergeo2 0.2.0
-hypergraph.sizing 1.0.0
+hypergraph.sizing 1.0.1
 hyperoverlap 1.1.4
 hyperSpec 0.100.3
 hypertext 1.3.0
@@ -9838,7 +9845,7 @@ ini 0.3.1
 injectoR 0.2.4
 InjurySeverityScore 0.0.0.2
 injurytools 2.0.1
-inkaR 0.6.2
+inkaR 0.6.6
 INLABMA 0.1-12
 inlabru 2.14.1
 INLAjoint 26.6.2
@@ -11609,6 +11616,7 @@ mapsapi 0.5.4
 mapscanner 0.1.1
 mapSenegal 0.1.1
 mapsf 1.2.1
+mapsf.gui 0.1.0
 mapSpain 1.2.0
 mapsPERU 2.0.1
 mapsRinteractive 2.0.1
@@ -11986,7 +11994,7 @@ meetupr 0.3.1
 mefa 3.2-10
 mefa4 0.3-12
 MEFM 0.1.1
-megatrees 1.0.0
+megatrees 1.0.1
 MEGB 0.2
 meifly 0.3.1
 mekko 0.1.0
@@ -13334,7 +13342,7 @@ MVOPR 2.0.0
 mvord 1.2.6
 mvout 1.2
 mvoutlier 2.1.4
-mvp 1.0-18
+mvp 1.1-1
 MVPBT 1.2-1
 mvpd 0.0.5
 mvPot 0.1.7
@@ -14108,6 +14116,7 @@ OBsMD 12.0
 obsSens 1.4
 oc 1.2.1
 occ 1.2
+occCite 0.6.2
 occumb 1.3.0
 occupancy 1.2
 occupationMeasurement 0.3.2
@@ -14242,6 +14251,7 @@ oncmap 0.1.7
 OncoBayes2 0.9-4
 OncoDataSets 0.1.0
 Oncofilterfast 1.0.0
+oncoPredict 1.3.1
 OncoSubtype 1.0.0
 Oncotree 0.3.5
 ondisc 1.3.5
@@ -14750,7 +14760,7 @@ paradox 1.0.1
 parafac4microbiome 1.3.2
 parallelDist 0.2.7
 ParallelLogger 3.5.1
-parallelly 1.47.0
+parallelly 1.48.0
 parallelMap 1.5.1
 parallelMCMCcombine 2.0
 parallelpam 1.4.3
@@ -16220,6 +16230,7 @@ psycCleaning 0.1.1
 psych 2.6.5
 psychmeta 2.7.0
 psycho 0.6.2
+PsychoMatic 0.3.0
 psychometric 2.4
 psychomix 1.1-9
 psychonetrics 0.15
@@ -16642,6 +16653,7 @@ R2Addhaz 0.1.0
 R2admb 0.7.16.3
 R2BayesX 1.1-6
 R2BEAT 1.0.5
+R2camtrapdp 2.0.0
 r2country 2.0.2.4.0
 r2d2 1.0.2
 R2D2ordinal 1.0.2
@@ -19384,7 +19396,7 @@ secsse 3.7.0
 sectorgap 0.1.0
 secuTrialR 1.3.3
 sedproxy 0.7.6
-see 0.14.0
+see 0.14.1
 seeclickfixr 1.1.0
 seecolor 0.2.0
 seedCCA 3.1
@@ -19789,7 +19801,7 @@ shinyloadtest 1.2.1
 shinylogs 0.2.1
 shinyLottie 1.0.0
 shinyLP 1.1.3
-shinymanager 1.0.410
+shinymanager 1.1.0
 shinymaterial 1.2.0
 shinyMatrix 0.8.1
 shinyMergely 0.2.0
@@ -19819,7 +19831,8 @@ shinyr 0.4.2
 shinyRadioMatrix 0.2.1
 shinyRatings 0.1.0
 shinyrecipes 0.1.0
-shinyreprex 0.1.0
+shinyReports 1.0.3
+shinyreprex 0.2.0
 shinyRGL 0.1.0
 shinySbm 0.2.0
 shinyscholar 0.4.5
@@ -20815,7 +20828,7 @@ Spower 0.6.4
 SPPcomb 0.1
 spphpr 1.1.5
 SpPOP 0.1.0
-SppTrend 0.4
+SppTrend 0.5
 spqdep 0.1.3.6
 spqrp 0.1.0
 spray 1.1-1
@@ -22466,7 +22479,7 @@ TrackTrap 1.0.0
 tractor.base 3.5.0
 trade 0.8.3
 tradeoffaucdim 0.2.0
-tradepolicy 0.7.0
+tradepolicy 0.8.0
 TRADER 1.2-6
 tradestatistics 6.0.0
 Trading 3.2
@@ -23226,7 +23239,7 @@ VectorForgeML 0.1.0
 vectorialcalculus 1.0.5
 vectorsurvR 1.6.3
 vectorwavelet 0.1.0
-vectra 0.9.1
+vectra 0.9.7
 VectrixDB 1.1.2
 vecvec 1.2.0
 VedicDateTime 0.1.9
@@ -23738,6 +23751,7 @@ wodds 0.1.0
 woe 0.2
 woeBinning 0.1.6
 womblR 1.0.6
+wompwomp 0.99.0
 WoodburyMatrix 0.0.4
 WoodSimulatR 0.6.2
 woodValuationDE 1.0.2

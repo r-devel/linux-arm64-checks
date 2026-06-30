@@ -966,6 +966,7 @@ autoshiny 0.0.3
 autoslider.core 0.3.2
 autostats 0.4.2
 AutoStepwiseGLM 0.2.0
+AutoStrataK 0.1.4
 autostsm 3.1.5
 autotab 1.0.1
 autotesteR 0.1.12
@@ -1140,6 +1141,7 @@ basedosdados 0.2.3
 basefun 1.2-6
 baseline 1.3-7
 baselinenowcast 0.2.0
+baselinr 0.5.0
 basemaps 0.0.8
 basemodels 1.1.0
 basepenguins 0.1.0
@@ -1774,6 +1776,7 @@ bit64 4.8.2
 bitfield 1.0.0
 bitmexr 0.3.3
 bitops 1.0-9
+bitriad 0.4
 BiTrinA 1.3.2
 BiTSLS 0.1.0
 bitstreamio 0.1.0
@@ -3000,6 +3003,7 @@ clidatajp 0.5.2
 cliff 0.1.2
 clifford 1.2-0
 CliftLRD 0.1-2
+clim4health 0.1.0
 climaemet 1.6.0
 ClimaRep 1.1
 climate 1.3.0
@@ -4264,6 +4268,7 @@ dartRverse 1.0.6
 DasGuptR 2.1.0
 dashboardthemes 1.1.6
 Dasst 0.3.4
+DAST 0.1.0
 dat 0.7.0
 data.checker 2.0.0
 data.table 1.18.4
@@ -4551,6 +4556,7 @@ DEHOGT 0.99.0
 deident 1.0.0
 dejaVu 0.3.1
 Delaporte 8.4.3
+delarr 0.1.0
 delaydiscount 0.0.1
 delayed 0.5.0
 DelayedEffect.Design 1.1.3
@@ -5232,6 +5238,7 @@ dropR 1.0.6
 droptest 0.1.3
 drord 1.0.1
 drought 1.2
+droughtevents 0.1.0
 drpop 0.0.3
 DRPT 1.1
 DRquality 0.2.1
@@ -5797,6 +5804,7 @@ emailvalidation 0.1.0
 EMAR 1.0.0
 EMAS 0.2.4
 EMAtools 0.1.6
+emaxnls 0.1.1
 emayili 0.9.3
 emBALVI 0.1.0
 emBayes 0.1.6
@@ -6177,6 +6185,7 @@ EvaluationMeasures 1.1.0
 EValue 4.1.4
 evapoRe 1.0.1
 Evapotranspiration 1.16
+evbsreg 1.0.0
 eVCGsampler 1.0.0
 EVchargcost 0.1.0
 evclass 2.0.2
@@ -6885,6 +6894,7 @@ fitur 0.6.2
 fitVARMxID 1.0.3
 fitzRoy 1.7.0
 fivethirtyeight 0.6.2
+fixedCV 0.1.0
 FixedPoint 0.6.3
 fixedTimeEvents 1.0.1
 fixerapi 0.1.6
@@ -9348,6 +9358,7 @@ hubUtils 1.2.0
 hudr 1.2.0
 hues 0.2.0
 huge 1.6
+huggingfaceR 2.1.0
 huito 0.2.6
 HUM 2.0
 humanFormat 1.2
@@ -9487,6 +9498,7 @@ ical 0.1.6
 iCAMP 1.5.12
 ICAOD 1.0.2
 icardaFIGSr 1.0.2
+icarm 0.1.0
 icarus 0.3.3
 ICBioMark 0.1.4
 ICC 2.4.0
@@ -9740,6 +9752,7 @@ importinegi 1.2.1
 impower133 1.0.0
 imprecise101 0.2.2.4
 impressionist.colors 1.0
+ImprintCapASM 0.1.1
 imprinting 0.1.1
 ImpShrinkage 1.0.0
 imputeFin 0.1.2
@@ -11410,6 +11423,7 @@ LSTS 2.1
 LSVAR 1.2
 LSWPlib 0.1.0
 LSX 1.5.2
+lt 0.1
 ltable 2.0.4
 LTASR 0.1.4
 ltc 0.3.0
@@ -11449,6 +11463,7 @@ luzlogr 0.2.1
 LVGP 2.1.5
 lvimp 1.0.0
 lvmisc 0.1.2
+lvmPlot 0.1.0
 lvnet 0.3.5
 lvplot 0.2.2
 lwc2022 1.0.0
@@ -13198,6 +13213,7 @@ multimark 2.1.7
 multimedia 0.2.0
 multimediate 0.1.6
 multimix 1.0-10
+MultiModalR 1.0.0
 multimode 1.5
 multiModTest 1.0
 multimolang 0.1.1
@@ -13289,6 +13305,7 @@ murphydiagram 0.12.2
 muRty 0.3.1
 MUS 0.1.6
 musclesyneRgies 1.2.5
+muse 0.1.0
 music 0.1.2
 musicMCT 0.5.0
 musicNMR 1.0
@@ -13582,6 +13599,7 @@ NetGreg 0.0.4
 netgsa 4.0.7
 netgwas 1.14.5
 netie 1.0
+netify 1.5.3
 NetIndices 1.4.4.1
 NetInt 1.0.1
 netknitr 0.2.1
@@ -16155,6 +16173,7 @@ provParseR 1.0
 provSummarizeR 1.5.1
 provTraceR 1.0
 provViz 1.0.9
+proximetricsR 0.6.4
 proxirr 0.5
 ProxReg 1.1.2
 proxy 0.4-29
@@ -17297,6 +17316,7 @@ rdwd 1.9.8
 rdwplus 1.0.1
 re 0.1.0
 re2 0.1.4
+reaborn 1.0.0
 Reacnorm 0.2.1
 react 2024.1.0
 reactable 0.4.5
@@ -20832,6 +20852,7 @@ spork 0.3.5
 sport 0.2.2
 SportMiner 0.1.0
 SPORTSCausal 1.0
+sportsfeatures 0.1.0
 SportsTour 0.1.0
 sportyR 2.2.3
 spotidy 0.1.0
@@ -22923,6 +22944,7 @@ UComp 5.3.1
 UCR.ColumnNames 0.1.0
 UCSCXenaShiny 2.2.1
 UCSCXenaTools 1.7.0
+uddbart 0.2.0
 UdderQuarterInfectionData 1.0.0
 udpipe 0.8.16
 udunits2 0.13.2.2
@@ -23213,6 +23235,7 @@ vayr 1.0.0
 vazul 1.1.0
 VBel 1.1.7
 VBLPCM 2.4.9
+vbm 0.1.0
 VBMS 1.0.0
 VBphenoR 1.1.0
 vbracket 1.4.0

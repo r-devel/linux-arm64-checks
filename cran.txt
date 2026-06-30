@@ -1216,7 +1216,7 @@ BayesDissolution 0.2.1
 bayesDP 1.3.8
 bayesefa 0.0.0.6
 bayesEO 0.2.2
-BayesERtools 0.2.6
+BayesERtools 0.2.7
 BayesESS 0.1.19
 bayesestdft 1.0.0
 BayesFactor 0.9.12-4.8
@@ -1832,7 +1832,7 @@ BlockCov 0.1.1
 blockCV 3.2-0
 blockedFF 0.1.0
 blockForest 0.2.7
-blocking 1.0.2
+blocking 1.0.3
 blocklength 0.2.2
 blockmatrix 1.0
 BlockMissingData 0.1.1
@@ -2848,7 +2848,7 @@ cia 1.0.0
 CIAAWconsensus 1.3
 CIARA 0.1.0
 CICA 1.1.1
-cicalc 0.2.1
+cicalc 0.2.2
 ciCalibrate 0.42.2
 cicerone 1.0.4
 CICI 1.0
@@ -5366,7 +5366,7 @@ Durga 2.1.0
 DUToolkit 1.0.2
 dverse 0.2.0
 DVHmetrics 0.4.3
-dvir 3.4.1
+dvir 3.4.2
 DWaveNARDL 0.1.0
 dwctaxon 2.0.4
 DWDLargeR 0.2-0
@@ -6154,7 +6154,7 @@ Euclimatch 1.0.2
 eudract 1.1.1
 eufmdis.adapt 0.1.0
 EUfootball 0.0.1
-eulerr 8.0.0
+eulerr 8.1.0
 eunis.habitats 0.1.0
 Eunomia 2.1.0
 eurodata 1.8.0
@@ -7221,7 +7221,7 @@ frechet 0.3.0
 fred 0.2.0
 fredr 2.1.0
 free 1.0.2
-free1way.docreg 1.0-1
+free1way.docreg 1.0-2
 freealg 1.1-8
 freebird 1.0
 freebsdcontribs 0.1.0
@@ -7787,7 +7787,7 @@ geometries 0.2.5
 geometry 0.5.2
 geommc 1.3.2
 geomod 0.1.0
-GeoModels 2.2.4
+GeoModels 2.2.5
 GeoMongo 1.0.3
 geomorph 4.1.0
 geomtextpath 0.2.0
@@ -10794,7 +10794,7 @@ latticeDensity 1.2.7
 LatticeDesign 4.0-1
 latticeExtra 0.6-31
 LatticeKrig 9.4.1
-lava 1.9.1
+lava 1.9.2
 lavaan 0.6-21
 lavaan.mi 0.1-0
 lavaan.printer 0.1.0
@@ -10817,7 +10817,7 @@ lazysql 0.1.3
 lazytrade 0.5.4
 lba 2.4.52
 lbaModel 0.2.9.2
-LBBNN 0.1.5
+LBBNN 0.1.6
 LBDiscover 0.1.0
 lbfgs 1.2.1.2
 lbfgsb3c 2024-3.5
@@ -11044,7 +11044,7 @@ LimnoPalettes 0.1.0
 limonaid 25.5.5
 limorhyde 1.0.3
 limorhyde2 0.1.1
-limSolve 2.0.2
+limSolve 2.0.3
 lin.eval 0.1.2
 linbin 0.1.3
 LinCal 1.0.1
@@ -11168,7 +11168,7 @@ lmfor 1.7
 lmForc 1.0.0
 lmhelprs 0.4.5
 lmls 0.1.1
-lmm 1.4
+lmm 1.5
 LMMELSM 0.2.1
 lmmot 0.1.4
 lmmpar 0.1.0
@@ -11385,7 +11385,7 @@ LSDsensitivity 1.3.2
 LSE 1.0.0
 LSEbootLS 0.1.0
 lsei 1.3-1
-lsirm12pl 2.0.2
+lsirm12pl 2.0.3
 lsl 0.5.6
 lslx 0.6.11
 lsm 0.2.1.5
@@ -12735,7 +12735,7 @@ ModalForecast 0.1.0
 modeest 2.4.0
 modehunt 1.0.8
 model4you 0.9-9
-modelbased 0.15.0
+modelbased 0.16.0
 modelbpp 0.3.0
 modelc 1.0.0.0
 Modelcharts 0.1.0
@@ -13373,7 +13373,7 @@ mvtsplot 1.0-5
 mvtweedie 1.2.0
 mvvg 0.1.0
 mwa 0.5.1
-mwcsr 0.1.11
+mwcsr 0.1.12
 mwlaxeref 0.0.1
 mwmap 1.0.0
 mwmapdata 1.0.0
@@ -13549,7 +13549,7 @@ neodistr 0.1.2
 neojags 0.1.7
 neonOS 1.1.0
 neonPlantEcology 1.6.1
-neonSoilFlux 3.0.0
+neonSoilFlux 4.0.0
 neonstore 0.5.1
 neonUtilities 4.0.0
 neotoma2 1.0.12
@@ -13855,7 +13855,7 @@ nnmf 1.4
 NNMIS 1.0.1
 NNMoMo 0.1.0
 nnR 0.1.0
-NNS 12.1
+NNS 13.0
 nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
@@ -15755,7 +15755,7 @@ PortfolioAnalytics 2.1.2
 portfolioBacktest 0.4.2
 PortfolioOptim 1.1.1
 PortfolioTesteR 0.1.4
-portion 0.1.2
+portion 0.1.3
 portn 1.0.0
 portvine 1.0.3
 poset 1.0.0
@@ -16946,7 +16946,7 @@ RationalExp 0.2.2
 rationalfun 0.1-1
 ratios 1.2.0
 Rato 0.1.0
-rATTAINS 1.1.0
+rATTAINS 1.2.0
 rattle 5.6.2
 Ravages 1.2.0
 ravecore 0.1.1
@@ -17061,7 +17061,7 @@ RCGLS 1.0.3
 rchallenge 1.3.4
 RChASM 1.0.1
 rChEA3 1.0.1
-rchemo 0.1-3
+rchemo 0.1-4
 rcheology 4.6.0.0
 RChest 1.0.3
 RchivalTag 0.2.2
@@ -17357,7 +17357,7 @@ RealSurvSim 1.0.0
 realtest 0.2.3
 realTimeloads 1.0.0
 RealVAMS 0.4-6
-ream 1.0-10
+ream 1.0-12
 reappraised 0.2
 Rearrangement 2.1
 rearrr 0.3.5
@@ -19497,7 +19497,7 @@ SEMID 0.5.1
 semidist 0.1.0
 SemiMarkov 1.4.6
 seminr 2.5.0
-seminrExtras 1.0.1
+seminrExtras 1.0.2
 SemiPar.depCens 0.1.3
 SemiparMF 1.0.0
 semlbci 0.11.6
@@ -20216,7 +20216,7 @@ slider 0.3.3
 slideview 0.2.1
 SlidingWindows 0.2.0
 slim 0.1.1
-SlimR 1.1.5
+SlimR 1.1.6
 slippymath 0.3.1
 slm 1.2.0
 SLModels 0.1.2
@@ -20421,7 +20421,7 @@ soilfoodwebs 1.0.2
 SoilFunctionality 0.1.0
 SoilHyP 0.1.7
 soilhypfit 0.1-8
-soilKey 0.9.155
+soilKey 0.9.157
 SoilManageR 1.1.0
 soilphysics 5.1
 SoilR 1.2.107
@@ -21207,7 +21207,7 @@ stochcorr 0.0.1
 stochLAB 1.1.2
 stochQN 0.1.2-1
 StochSimR 1.1.0
-stochtree 0.4.4
+stochtree 0.4.5
 stochvol 3.2.9
 stochvolTMB 0.3.0
 stockAnalyst 1.0.1
@@ -21849,7 +21849,7 @@ tea 1.1
 TeachHist 0.2.1
 TeachingDemos 2.13
 TeachingSampling 4.1.1
-teal 1.1.0
+teal 1.2.0
 teal.code 0.7.2
 teal.data 0.8.1
 teal.logger 0.4.2
@@ -21859,7 +21859,7 @@ teal.picks 0.2.0
 teal.reporter 0.6.2
 teal.slice 0.8.0
 teal.transform 0.7.2
-teal.widgets 0.6.0
+teal.widgets 0.6.1
 tealeaves 1.0.7
 teamcolors 0.0.4
 tectonicr 0.4.8
@@ -22321,7 +22321,7 @@ TKCat 1.2.2
 tkImgR 0.0.5
 tkrplot 0.0-32
 tkRplotR 0.1.7
-tl 0.0.1
+tl 0.0.2
 tLagInterim 1.1
 tLagPropOdds 1.10
 tlars 1.0.1
@@ -22468,7 +22468,7 @@ TPES 1.0.0
 tpfp 0.0.1
 tpglp 0.1.0
 TPLSr 1.0.5
-Tplyr 1.3.2
+Tplyr 1.3.3
 tpm 2.0.2
 TPmsm 1.2.15
 tpn 1.12

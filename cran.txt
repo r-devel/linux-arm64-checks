@@ -350,7 +350,7 @@ AIBias 0.1.1
 aIc 1.0
 AICcmodavg 2.3-4
 AID 3.1
-AIDA 0.1.5
+AIDA 0.2.0
 aiDIF 0.1.0
 aieconindex 0.1.1
 AiES 0.99.6
@@ -2385,6 +2385,7 @@ caresid 0.1
 caret 7.0-1
 caretEnsemble 4.0.1
 caretForecast 0.1.3
+caretMultimodal 1.0.0
 caretSDM 1.8.3
 carfima 2.0.2
 cargo 0.4.9
@@ -2514,6 +2515,7 @@ CBCgrps 2.8.2
 cbcTools 0.7.1
 cbinom 1.6
 cbioportalR 1.1.1
+CbKST 0.1-0
 cbl 0.1.3
 CBnetworkMA 0.1.0
 CBPE 0.1.0
@@ -2745,7 +2747,7 @@ chatterbox 0.2.1
 chattr 0.3.1
 ChauBoxplot 1.0.0
 chcd 0.1.1
-cheapr 1.5.1
+cheapr 1.5.2
 cheatsheet 0.1.2
 checkarg 0.1.0
 checkCLI 1.0
@@ -2993,7 +2995,7 @@ ClickClust 1.1.6
 ClickHouseHTTP 1.0.0
 clickR 0.9.45
 clickstream 1.3.4
-clidamonger 1.5.0
+clidamonger 1.6.0
 clidatajp 0.5.2
 cliff 0.1.2
 clifford 1.2-0
@@ -3102,6 +3104,7 @@ clusterGGM 0.1.1
 clusterindices 1.0
 Clustering 1.7.10
 clustering.sc.dp 1.1
+clusterIV 0.1.0
 clusterMI 1.6
 clustermole 1.1.1
 clustermq 0.10.1
@@ -3829,6 +3832,7 @@ coxrobust 1.0.2
 coxsei 0.4
 coxstream 0.1.0
 CP 1.8
+cp1919 0.1
 cp4p 0.3.6
 cpa 1.0.1
 cpam 0.2.1
@@ -4070,7 +4074,7 @@ CTRing 0.1.0
 ctrlGene 1.0.1
 ctrlvee 0.1.0
 cts 1.0-26
-ctsem 3.10.6
+ctsem 3.11.0
 ctsemOMX 2.0.0
 ctsfeatures 1.2.2
 CTShiny 0.1.0
@@ -4770,6 +4774,7 @@ DiceEval 1.6.1
 DiceKriging 1.6.1
 DiceOptim 2.1.2
 diceplot 0.2.2
+dicepro 1.0.2
 diceR 3.1.0
 DICErClust 0.1.2
 DiceView 4.0
@@ -8353,6 +8358,7 @@ gmfd 1.0.1
 gmGeostats 0.11.4
 gmgm 1.1.3
 Gmisc 3.4.0
+GMLTM 0.1.0
 gmm 1.9-1
 GMMAT 1.5.0
 GMMBoost 1.1.5
@@ -8683,6 +8689,7 @@ gsalib 2.2.1
 gsaot 1.1.1
 gsarima 0.1-5
 gsbDesign 1.0-3
+GSbench 0.1.0
 gsbm 0.2.2
 gscaLCA 0.0.5
 gsClusterDetect 1.0.0
@@ -9354,6 +9361,7 @@ hurricaneexposure 0.1.1
 hutils 2.0.0
 hutilscpp 0.10.10
 huxtable 5.8.0
+HVS 1.0.0
 HVT 26.1.3
 hwde 0.67-3
 HWEintrinsic 1.2.3
@@ -13527,6 +13535,7 @@ NegBinBetaBinreg 1.0
 negenes 1.4
 negligible 0.1.11
 Neighboot 1.0.1
+NeighborFinder 1.0.1
 neighbours 0.1-5
 neldermead 1.0-13
 Nematode 0.3.0
@@ -14442,6 +14451,7 @@ optRF 1.2.1
 OPTS 0.1
 OptSig 2.2
 optsize 0.1.0
+OptSurvCutR 0.10.0
 OPTtesting 1.0.0
 optweight 2.0.1
 opusminer 0.1-1
@@ -15104,7 +15114,7 @@ perccalc 1.0.5
 percentiles 0.3.0
 PerFit 1.4.7
 PerfMeas 1.2.5
-performance 0.17.0
+performance 0.17.1
 PerformanceAnalytics 2.1.0
 peRiodiCS 0.5.0
 PeriodicTable 0.1.2
@@ -18696,7 +18706,7 @@ RSQLite.toolkit 0.1.3
 RSqlParser 1.5
 RsqMed 1.1
 RSquaredMI 0.2.0
-rSRD 0.1.8
+rSRD 0.2.0
 Rssa 1.1
 RSSampling 1.0
 RsSimulx 2024.1
@@ -19554,6 +19564,7 @@ sepkoski 0.0.1
 SepTest 0.0.1
 seq2R 2.0.1
 SeqAlignR 0.1.1
+seqcomp 0.1.0
 seqDesign 1.2
 seqgendiff 1.2.4
 seqhandbook 0.1.2
@@ -20035,8 +20046,9 @@ simpleRCache 0.3.3
 simplermarkdown 0.0.6
 simpleSetup 0.1.0
 simpletex 1.0.5
-SimpleUpset 0.1.4
+SimpleUpset 0.1.5
 simplexgof 0.1.0
+SimplexRegression 0.1.3
 SIMPLICA 1.0.0
 SimplicialComplex 0.1.0
 SimplicialCubature 1.3
@@ -21538,6 +21550,7 @@ SVMD 0.1.0
 svmf 1.0
 svMisc 1.4.3
 SVMMaj 0.2.9.4
+svmodt 0.1.0
 svmpath 0.970
 SVN 1.0.1
 svplots 0.1.0
@@ -21766,6 +21779,7 @@ taxalight 0.1.5
 TaxaNorm 2.4
 taxdiv 0.1.0
 TaxicabCA 0.1.1
+taxify 0.2.12
 taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
@@ -23638,6 +23652,7 @@ weightedScores 0.9.5.3
 weightedsurv 0.1.0
 WeightedTreemaps 0.1.4
 weightedVoronoi 1.1.1
+weightflow 0.1.0
 WeightIt 1.7.0
 WeightMyItems 0.1.4
 weightQuant 1.0.1

@@ -10287,7 +10287,7 @@ jewel 2.0.3
 jfa 0.7.4
 JFE 2.5.11
 JFM 1.0.1
-jgd 0.1.0
+jgd 0.1.1
 JGR 1.9-2
 jgsbook 1.0.8
 JICO 0.1
@@ -18186,7 +18186,7 @@ rmt 1.0
 RMT4DS 0.0.1
 RMThreshold 1.1
 RMTL 1.0.0
-RMTstat 0.3.1
+RMTstat 0.3.2
 rMultiNet 0.1
 rmumps 5.2.1-43
 rmutil 1.1.10
@@ -18423,7 +18423,7 @@ Romeb 0.1.2
 romic 1.3.3
 Romney 0.1.0
 ronfig 0.0.10
-Rook 1.2
+Rook 1.2.1
 ROOPSD 0.3.9
 ROOT 0.1.1
 RootscanR 0.0.1
@@ -18721,7 +18721,7 @@ rsppfp 1.0.4
 rsprite2 0.2.1
 rsq 2.7
 RSQL 0.2.2
-RSQLite 3.53.2
+RSQLite 3.53.3
 RSQLite.toolkit 0.1.3
 RSqlParser 1.5
 RsqMed 1.1
@@ -20229,7 +20229,7 @@ SLGP 1.0.2
 SLHD 2.1-1
 SLIC 0.3
 SlicedLHD 1.0
-Slick 1.0.1
+Slick 1.0.2
 SlideCNA 0.1.0
 slideimp 1.2.0
 slider 0.3.3
@@ -22317,7 +22317,7 @@ tinytest2JUnit 1.1.3
 tinytex 0.60
 tinythemes 0.0.4
 tinytiger 0.0.11
-tinyVAST 1.6.0
+tinyVAST 1.6.1
 tip 0.1.0
 tipa 1.0.8
 TipDatingBeast 1.1-0

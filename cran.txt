@@ -5338,7 +5338,7 @@ dtrSurv 1.5
 DTS 0.1.1
 DTSEA 0.0.3
 DTSg 2.1.0
-dtsmartr 0.1.0
+dtsmartr 0.2.0
 DTSR 0.2.2
 dtt 0.1-2.1
 dttr2 0.5.2
@@ -8708,7 +8708,7 @@ gscramble 1.0.1
 GSD 1.0.0
 GSDA 1.0
 gsDesign 3.9.0
-gsDesign2 1.1.8
+gsDesign2 1.1.9
 gsDesignNB 0.2.6
 gsDesignTune 0.1.0
 GSE 4.2-4
@@ -23058,7 +23058,7 @@ unsystation 0.2.1
 untb 1.7-7-1
 unusualprofile 0.1.4
 unvotes 0.3.0
-unvs.med 1.1.0
+unvs.med 1.1.1
 uotm 0.1.6
 UpAndDownPlots 0.5.0
 UPCM 0.0-5

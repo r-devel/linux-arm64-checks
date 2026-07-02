@@ -636,6 +636,7 @@ APFr 1.0.2
 aphid 1.3.6
 aphylo 0.3-6
 api2lm 0.2
+apifetch 0.1.0
 APIS 2.0.8
 apisensr 2.0.0
 aplms 0.1.0
@@ -2766,6 +2767,7 @@ checkLuhn 1.1.0
 checkmate 2.3.4
 checkstring 0.2.0
 checkthat 0.1.0
+checktor 0.1.0
 cheddar 0.1-639
 cheem 0.4.2
 cheese 0.1.3
@@ -4478,6 +4480,7 @@ deadband 0.1.0
 deadwood 0.9.0-3
 deal 1.2-42
 deaR 1.5.4
+deaviz 0.1.0
 debar 0.1.1
 DEBBI 0.1.0
 debest 0.1.0
@@ -5578,7 +5581,7 @@ econdatasets 0.1.0
 econdataverse 0.1.2
 econet 1.0.0.1
 EcoNetGen 0.2.4
-EconGeo 2.0
+EconGeo 2.1
 EcoNiche 1.0.3
 econid 0.0.3
 economiccomplexity 2.1.0
@@ -8106,7 +8109,7 @@ ggscribe 0.1.1
 ggseg 2.2.0
 ggseg.formats 0.0.4
 ggseg.meshes 0.0.1
-ggseg3d 2.1.1
+ggseg3d 2.1.2
 ggsegmentedtotalbar 0.1.0
 ggsem 1.0.0.1
 ggseqlogo 0.2.2
@@ -12070,7 +12073,7 @@ MetaAnalyser 0.2.1
 metabias 0.1.1
 metaBLUE 1.0.0
 metaBMA 0.6.9
-metaboData 0.6.3
+metaboData 0.6.4
 metabodecon 1.6.2
 MetabolAnalyze 1.3.1
 metabolic 0.1.2
@@ -12499,6 +12502,7 @@ mixedMem 1.1.2
 MixedPoisson 2.0
 MixedPsy 1.3.0
 mixedsde 5.0
+mixedsubjects 1.0.0
 mixedsubjectsirt 1.0.0
 MixedTS 1.0.4
 MIXFIM 1.1
@@ -14816,6 +14820,7 @@ parasiteR 1.0
 parcats 0.1.0
 ParCC 1.4.0
 parcr 0.6.1
+parcxl 0.1.0
 ParDNAcopy 2.0
 PaRe 0.1.16
 Pareto 2.4.5
@@ -15082,6 +15087,7 @@ pedSimulate 1.4.3
 pedsuite 1.4.0
 pedtools 2.11.0
 pedtricks 0.5.0
+peeky 0.1.0
 PeerPerformance 2.3.2
 pegas 1.4
 PEGroupTesting 1.0
@@ -19227,6 +19233,7 @@ scDIFtest 0.1.1
 scdtb 0.2.0
 SCE 1.1.4
 scellpam 1.4.7
+SCEM 1.2.0
 scenes 0.1.0
 scenfire 0.1.0
 SCEnt 0.0.1
@@ -19358,6 +19365,7 @@ sd2R 0.2.1
 sda 1.3.9
 SDaA 0.1-5
 sdafilter 1.0.1
+SDALGCP2 0.1.0
 sdamr 0.2.0
 SDAR 0.9-55
 SDAResources 0.1.1
@@ -21970,6 +21978,7 @@ testDriveR 0.5.3
 testequavar 0.1.5
 tester 0.3.0
 testex 0.2.1
+testflow 0.8.2
 testforDEP 0.2.0
 TestFunctions 0.2.2
 TestGardener 3.3.6

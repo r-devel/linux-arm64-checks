@@ -786,7 +786,7 @@ arrg 0.1.0
 arrow 24.0.0
 arrowheadr 1.0.2
 ars 0.8
-arsenal 3.6.3
+arsenal 3.7.1
 arthistory 0.1.0
 artma 0.3.3
 ARTofR 0.4.1
@@ -2067,7 +2067,7 @@ brar 0.1
 brassica 1.0.3
 bravo 4.1.0
 BrazilCrime 0.3.0
-BrazilDataAPI 0.2.0
+BrazilDataAPI 0.3.0
 BrazilMet 0.4.0
 BRcal 1.0.1
 brclimr 0.2.0
@@ -2145,6 +2145,7 @@ bsicons 0.1.2
 bSims 0.3-3
 bsitar 0.3.3
 bskyr 0.4.0
+BSL 3.2.6
 bslib 0.11.0
 BsMD 2023.920
 bsnsing 1.0.1
@@ -2911,7 +2912,7 @@ circularEV 0.1.2
 circularKDE 0.1.1
 CircularRegression 0.5.1
 CircularSilhouette 0.0.1
-circumplex 1.1.0
+circumplex 1.2.0
 cirls 0.4.0
 cIRT 1.3.3
 CIS.DGLM 0.1.0
@@ -3431,7 +3432,7 @@ competitiontoolbox 0.7.1
 CompExpDes 1.0.9
 CompGR 0.1.3
 comphy 1.0.5
-Compind 3.4
+Compind 3.5
 compIndexBuilder 1.0.0
 compindexR 0.1.4
 compindPCA 0.1.0
@@ -4018,7 +4019,7 @@ CsChange 0.1.7
 csci 0.9.3
 CSclone 1.0
 CSCNet 0.1.4
-csdata 2026.3.30
+csdata 2026.7.2
 csdb 2026.5.13
 csdm 1.0.1
 CSDownscale 0.0.3
@@ -4439,7 +4440,7 @@ dcmle 0.4-2
 dcmodify 0.9.0
 dcmstan 0.1.0
 dcorBSS 1.0-0
-dcortools 0.1.7
+dcortools 0.2.0
 dcorVS 1.1
 dcov 0.1.1
 dCovTS 1.5
@@ -6427,7 +6428,7 @@ FACTMLE 1.1
 FactoClass 1.2.9
 factoextra 2.1.0
 FactoInvestigate 1.9.1
-FactoMineR 2.15
+FactoMineR 2.16
 factoptd 1.0.3
 factor.switching 1.4
 factor256 0.1.0
@@ -7984,7 +7985,7 @@ ggforestplotR 0.2.2
 ggformula 1.0.1
 ggfortify 0.4.19
 ggfoundry 0.3.1
-ggfun 0.2.0
+ggfun 0.2.1
 ggfx 1.0.3
 gggap 1.0.1
 gggda 0.1.1
@@ -8075,7 +8076,7 @@ ggpointless 0.3.0
 ggpolar 0.2.2
 ggpolypath 0.4.0
 ggpop 1.7.1
-ggpp 0.6.0
+ggpp 0.6.1
 ggprism 1.0.7
 ggpubr 0.6.3
 ggpval 0.2.5
@@ -11913,7 +11914,7 @@ MCPModPack 0.5
 mcprofile 1.0-1
 mcprogress 0.1.1
 MCPtests 1.0.1
-mcptools 0.2.1
+mcptools 1.0.0
 mcqAnalysis 0.1.0
 mcr 1.3.3.1
 mcradds 1.1.1
@@ -13573,7 +13574,7 @@ neonOS 1.1.0
 neonPlantEcology 1.6.1
 neonSoilFlux 4.0.0
 neonstore 0.5.1
-neonUtilities 4.0.0
+neonUtilities 4.0.1
 neotoma2 1.0.12
 nephro 1.5
 NEpiC 1.0.1
@@ -14399,7 +14400,7 @@ OpenStreetMap 0.4.1
 opentripplanner 0.5.2
 openVA 1.2.0
 openxlsx 4.2.8.1
-openxlsx2 1.27
+openxlsx2 1.28
 operator.tools 1.6.3.1
 operators 0.2.0
 opGMMassessment 0.4.1
@@ -17321,7 +17322,7 @@ Rduckhts 1.3.0-0.1.0
 Rduino 0.1
 Rduinoiot 0.1.0
 Rdune 1.1.1
-rdwd 1.9.8
+rdwd 1.9.17
 rdwplus 1.0.1
 re 0.1.0
 re2 0.1.4
@@ -21887,11 +21888,11 @@ teal 1.2.0
 teal.code 0.7.2
 teal.data 0.8.1
 teal.logger 0.4.2
-teal.modules.clinical 0.12.0
+teal.modules.clinical 0.13.0
 teal.modules.general 0.7.0
 teal.picks 0.2.0
 teal.reporter 0.6.2
-teal.slice 0.8.0
+teal.slice 0.8.1
 teal.transform 0.7.2
 teal.widgets 0.6.1
 tealeaves 1.0.7
@@ -22248,7 +22249,7 @@ tidytitanic 0.0.1
 tidytlg 0.12.0
 tidytransit 1.8.0
 tidytreatment 0.3.2
-tidytree 0.4.7
+tidytree 0.4.8
 tidyttmoment 0.0.5
 tidytuesdayR 1.3.2
 tidyusmacro 0.2.0

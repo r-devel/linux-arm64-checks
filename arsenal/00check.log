@@ -1,0 +1,87 @@
+* using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/arsenal.Rcheck’
+* using R version 4.6.1 (2026-06-24)
+* using platform: aarch64-unknown-linux-gnu
+* R was compiled by
+    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+* running under: Ubuntu 26.04 LTS
+* using session charset: UTF-8
+* current time: 2026-07-03 04:53:49 UTC
+* using options ‘--no-manual --no-vignettes’
+* checking for file ‘arsenal/DESCRIPTION’ ... OK
+* this is package ‘arsenal’ version ‘3.7.1’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘arsenal’ can be installed ... OK
+* checking installed package size ... INFO
+  installed size is  6.7Mb
+  sub-directories of 1Mb or more:
+    doc   6.0Mb
+* checking package directory ... OK
+* checking ‘build’ directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking contents of ‘data’ directory ... OK
+* checking data for non-ASCII characters ... OK
+* checking LazyData ... OK
+* checking data for ASCII and uncompressed saves ... OK
+* checking installed files from ‘inst/doc’ ... OK
+* checking files in ‘vignettes’ ... OK
+* checking examples ... OK
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... ERROR
+  Running ‘testthat.R’
+Running the tests in ‘tests/testthat.R’ failed.
+Last 13 lines of output:
+    'test_write2.R:126:3', 'test_write2.R:131:3', 'test_write2.R:137:3',
+    'test_write2.R:192:3'
+  
+  ══ Failed tests ════════════════════════════════════════════════════════════════
+  ── Failure ('test_lhs_modelsum.R:19:3'): A modelsum call with strata ───────────
+  Expected `capture.kable(...)` to be identical to `c(...)`.
+  Differences:
+  1/20 mismatches
+  x[5]: "|      |Treatment Arm B |-1.813   |2.331     |0.444   |              |"
+  y[5]: "|      |Treatment Arm B |-1.812   |2.331     |0.444   |              |"
+  
+  [ FAIL 1 | WARN 0 | SKIP 12 | PASS 499 ]
+  Error:
+  ! Test failures.
+  Execution halted
+* checking for unstated dependencies in vignettes ... OK
+* checking package vignettes ... OK
+* checking running R code from vignettes ... SKIPPED
+* checking re-building of vignette outputs ... SKIPPED
+* DONE
+Status: 1 ERROR

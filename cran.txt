@@ -3288,7 +3288,7 @@ cogmapr 0.9.5
 cognitoR 1.0.5
 cograph 2.3.6
 cohetsurr 2.0
-cohortBuilder 0.4.0
+cohortBuilder 1.0.0
 CohortCharacteristics 1.1.3
 CohortConstructor 0.6.3
 CohortContrast 1.0.0
@@ -4740,7 +4740,7 @@ dfrr 0.1.5
 dfsaneacc 1.0.3
 dfvad 0.3.6
 dga 2.0.2
-DGEAR 0.1.4
+DGEAR 0.2.1
 DGEobj 1.1.2
 DGEobj.utils 1.0.6
 dggridR 3.1.1
@@ -7853,7 +7853,7 @@ gert 2.3.1
 gesca 1.0.5
 GESE 2.0.1
 gesisdata 0.1.2
-geslaR 1.0-1
+geslaR 1.0-3
 gestalt 0.2.0
 gestate 1.6.0
 GET 1.0-8
@@ -8706,7 +8706,7 @@ gsbm 0.2.2
 gscaLCA 0.0.5
 gsClusterDetect 1.0.0
 gscounts 0.1-4
-gscramble 1.0.1
+gscramble 1.0.2
 GSD 1.0.0
 GSDA 1.0
 gsDesign 3.10.0
@@ -10976,7 +10976,7 @@ LFDR.MME 1.0
 LFDREmpiricalBayes 1.0
 lfe 3.1.1
 lfebd3 0.2.0
-lfl 2.3.1
+lfl 2.4.0
 LFM 0.3.4
 lfmm 1.1
 lfproQC 1.4.3
@@ -12518,6 +12518,7 @@ MixMatrix 0.2.8
 mixmeta 1.2.2
 mixopt 0.1.3
 MixOptim 0.1.2
+mixor 1.0.7
 mixPHM 0.7-2
 mixpoissonreg 1.0.0
 mixpower 1.1.1
@@ -17322,7 +17323,7 @@ rdwd 1.9.17
 rdwplus 1.0.1
 re 0.1.0
 re2 0.1.4
-reaborn 1.0.0
+reaborn 1.0.1
 Reacnorm 0.2.1
 react 2024.1.0
 reactable 0.4.5
@@ -18013,7 +18014,7 @@ RJalaliDate 0.1.0
 rJava 1.0-18
 rJavaEnv 0.3.0
 rjd3bench 3.1.2
-rjd3jars 0.0.3
+rjd3jars 0.0.4
 rjd3production 1.1.0
 rjd3providers 3.7.1
 rjd3toolkit 3.7.1
@@ -19116,7 +19117,7 @@ sapevom 0.2.0
 sapfluxnetr 0.1.5
 sapo 0.8.0
 SAPP 1.0.9-4
-saqgetr 0.2.21
+saqgetr 0.2.24
 SAR 1.0.4
 sara4r 0.1.0
 sarima 0.9.5

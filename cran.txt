@@ -3792,7 +3792,7 @@ covercorr 1.1.0
 CovEsts 1.1.0
 covfefe 1.0.0
 covglasso 1.0.3
-COVID19 3.0.3
+COVID19 3.0.4
 covid19.analytics 2.1.3.3
 covid19br 1.0.0.1
 covid19dbcand 0.1.1
@@ -6827,6 +6827,7 @@ findR 0.2.1
 findSVI 0.2.0
 findviews 0.1.3
 FinePop 1.5.2
+FinePop2 0.6
 finetune 1.3.0
 fingerprint 3.5.10
 fingerPro 2.1
@@ -13575,7 +13576,7 @@ neodistr 0.1.2
 neojags 0.1.7
 neonOS 1.1.0
 neonPlantEcology 1.6.1
-neonSoilFlux 4.0.0
+neonSoilFlux 4.0.1
 neonstore 0.5.1
 neonUtilities 4.0.1
 neotoma2 1.0.12
@@ -18759,7 +18760,7 @@ rstanemax 0.1.10
 rstantools 2.6.0
 RStanTVA 0.3.2
 RStata 1.1.2
-rstatix 0.7.3
+rstatix 1.0.0
 Rstg 0.0.1
 rstiefel 1.0.1
 RStoolbox 1.0.2.2

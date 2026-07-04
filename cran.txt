@@ -16,6 +16,7 @@ ABCDscores 7.0.0
 abcel 1.0
 abclass 0.5.1
 ABCoptim 0.15.0
+abcpp 1.0.0
 abcrf 2.0
 abcrlda 1.0.3
 abctools 1.1.8
@@ -2837,7 +2838,7 @@ chords 0.95.4
 chores 0.3.1
 choroplethrAdmin1 1.1.1
 choroplethrMaps 1.0.1
-chouca 0.1.99
+chouca 0.1.991
 christmas 1.4.1
 chromConverter 0.9.0
 chromer 0.10
@@ -3214,7 +3215,7 @@ CNSigs 0.1.1
 cnum 0.1.5
 CNVreg 1.0
 CNVRG 1.0.0
-CNVScope 3.7.5
+CNVScope 3.7.6
 coala 0.7.2
 coalescentMCMC 0.4-4
 CoalescentPhylo 0.1.0
@@ -5367,7 +5368,7 @@ duckdbfs 0.1.2
 duckduckr 1.0.0
 duckh3 0.1.0
 duckplyr 1.2.1
-duckspatial 1.2.0
+duckspatial 1.2.1
 duet 0.1.1
 dumbbell 0.1
 dummy 0.1.3
@@ -9485,6 +9486,7 @@ ibdsim2 2.3.2
 ibelief 1.3.1
 IBFS 1.0.0
 ibger 0.1.0
+IBGS 1.0.0
 ibkrcp 0.1.2
 IBLM 1.0.2
 ibm 0.3.0
@@ -10490,6 +10492,7 @@ kerasnip 0.1.2
 kerDAA 0.1.1
 kerdiest 1.3-1
 kergp 0.5.8
+kernda 1.0
 kerndwd 2.0.3
 kernelboot 0.1.10
 kernelFactory 0.3.0
@@ -16357,7 +16360,7 @@ PupilPre 0.6.3
 PUPMCR 0.2.0
 PUPMSI 0.1.0
 puremoe 1.1.0
-pureseqtmr 1.4
+pureseqtmr 1.4.2
 purge 0.2.1
 purgeR 1.8.3
 purging 1.0.0
@@ -16960,7 +16963,7 @@ rashnu 0.1.2
 rassta 1.0.6
 RastaRocket 1.1.5
 raster 3.6-32
-rasterbc 1.0.2
+rasterbc 1.0.3
 rasterdiv 0.3.8
 rasterDT 0.3.2
 rasterImage 0.4.1
@@ -17257,6 +17260,7 @@ RCT 1.2
 RCT2 0.0.1
 rct3 1.0.4
 RCtest 1.0
+rCTOOL 3.1.0
 RCTRecruit 0.2.0
 RCTrep 1.2.0
 RCTS 0.2.4
@@ -20387,7 +20391,7 @@ snakecase 0.11.1
 snakeplot 0.3.0
 snap 1.1.0
 snapchatadsR 0.1.0
-snapKrig 0.0.2
+snapKrig 0.0.3
 snapr 0.1.0
 snapshot 0.1.2
 snazzieR 0.1.2
@@ -22089,6 +22093,7 @@ TGST 1.0
 tgstat 2.3.32
 TH.data 1.1-5
 thames 0.1.2
+thamesblock 0.1.0
 thamesmix 0.1.3
 thankr 1.0.0
 theft 0.8.4
@@ -22344,6 +22349,7 @@ tinytest2JUnit 1.1.3
 tinytex 0.60
 tinythemes 0.0.4
 tinytiger 0.0.11
+tinytrail 0.1.0
 tinyVAST 1.6.1
 tip 0.1.0
 tipa 1.0.8

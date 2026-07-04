@@ -6907,7 +6907,7 @@ fixedCV 0.1.0
 FixedPoint 0.6.3
 fixedTimeEvents 1.0.1
 fixerapi 0.1.6
-fixes 0.11.2
+fixes 0.12.0
 fixest 0.14.2
 fixr 0.2.0
 FixSeqMTP 0.1.2

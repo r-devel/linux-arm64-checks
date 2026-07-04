@@ -5238,7 +5238,7 @@ driveR 0.5.0
 drlate 0.3.1
 drMAIC 0.1.0
 drmeta 0.1.0
-drogonR 0.1.6
+drogonR 0.1.8
 droll 0.1.0
 DRomics 2.6-2
 drone 1.0.0

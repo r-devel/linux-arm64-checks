@@ -6332,7 +6332,7 @@ ExposR 1.2
 expowo 3.0
 expperm 1.6
 ExpRep 1.0
-ExpressionCellNet 0.1.1
+ExpressionCellNet 0.1.2
 expSBM 1.3.6
 expsmooth 2.3
 expss 0.11.7
@@ -6769,7 +6769,7 @@ fhircrackr 2.4.0
 fHMM 1.4.3
 FHtest 1.5.1
 FI 1.1
-fiber 0.1.2
+fiber 0.2.0
 fiberLD 0.1-8
 fibos 2.0.1
 fibr 0.1.1
@@ -19255,7 +19255,7 @@ scenfire 0.1.0
 SCEnt 0.0.1
 SCEPtER 0.2-4
 SCEPtERbinary 0.1-1
-sceua 0.1.0
+sceua 0.1.1
 scf 1.0.10
 SCFMonitor 0.3.5
 scGate 1.7.2

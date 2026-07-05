@@ -428,7 +428,7 @@ AlignLV 0.1.0.0
 alkahest 1.3.0
 allcontributors 0.2.3
 alleHap 0.9.9
-allelematch 2.5.5
+allelematch 2.6.0
 AlleleRetain 2.0.2
 AlleleShift 1.1-3
 AllelicSeries 0.1.1.5
@@ -6642,7 +6642,7 @@ fcirt 0.2.1
 fcl 0.1.4
 fclust 2.1.3
 fcm 0.1.3
-fcmfd 0.1.1
+fcmfd 0.1.2
 FCO 2.0.2
 fCopulae 4052.86
 fcp 0.1.0
@@ -7816,7 +7816,7 @@ geonapi 0.8-1
 geonetwork 0.6.0
 geonode4R 0.1-2
 geonuts 1.0.1
-geoperu 0.0.0.2
+geoperu 0.0.1
 geoprofiler 0.0.3
 geopsych 0.1.0
 geoR 1.9-6
@@ -7981,7 +7981,7 @@ ggfacto 0.3.2
 ggfields 0.0.7
 ggfigdone 0.1.2
 ggFishPlots 0.4.0
-ggfittext 0.10.3
+ggfittext 0.10.4
 ggfixest 0.4.0
 ggflowchart 1.0.0
 ggfocus 1.0.1
@@ -11886,7 +11886,7 @@ MCL 1.0
 mclink 1.1.1
 mclm 0.2.7
 mclogit 0.9.15
-mclust 6.1.2
+mclust 6.1.3
 mclustAddons 0.10
 mclustcomp 0.3.5
 MCM 0.1.8
@@ -16529,7 +16529,7 @@ qqvases 1.0.0
 QR 0.1.3
 QR.break 1.0.2
 qra 0.2.8.1
-QRAGadget 0.3.0
+QRAGadget 0.4
 QRank 1.0
 qrcm 3.3
 qrcmNP 0.2.2
@@ -19631,7 +19631,7 @@ seqtest 0.1-0
 seqtrie 0.4.0
 sequenceR 1.0.1
 SequenceSpikeSlab 1.0.1
-Sequential 4.6.0
+Sequential 4.6.1
 sequential.pops 0.1.1
 SequentialDesign 1.0
 sequoia 3.2.0
@@ -22640,7 +22640,7 @@ TreeDist 2.14.1
 treefit 1.0.3
 treeheatr 0.2.3
 treemap 2.4-4
-treemapify 2.6.0
+treemapify 2.6.1
 TreeMineR 1.0.4
 TreeOrderTests 0.1.0
 treePlotArea 3.1.0
@@ -22798,7 +22798,7 @@ tsibbledata 0.4.1
 tsibbletalk 0.1.0
 tsintermittent 1.10
 tsiR 0.4.3
-tsissm 1.0.2
+tsissm 1.0.3
 tsitter 0.1.0
 TSLA 0.1.2
 TSLSTM 0.1.0

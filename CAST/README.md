@@ -1,6 +1,6 @@
 # CAST 1.1.0
 
-Latest run: 2026-06-28: https://github.com/r-devel/linux-arm64-checks/actions/runs/28309012007
+Latest run: 2026-07-05: https://github.com/r-devel/linux-arm64-checks/actions/runs/28726545689
 
 ```
 Package: CAST

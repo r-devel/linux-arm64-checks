@@ -1,6 +1,6 @@
 # stelfi 1.0.2
 
-Latest run: 2026-06-28: https://github.com/r-devel/linux-arm64-checks/actions/runs/28309718233
+Latest run: 2026-07-05: https://github.com/r-devel/linux-arm64-checks/actions/runs/28727258179
 
 ```
 Package: stelfi

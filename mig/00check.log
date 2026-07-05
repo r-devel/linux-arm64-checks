@@ -6,7 +6,7 @@
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-06-28 03:00:39 UTC
+* current time: 2026-07-05 02:36:29 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘mig/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -76,7 +76,7 @@ Last 13 lines of output:
   test-loocv.R..................    2 tests OK 
   test-loocv.R..................    2 tests OK 
   test-loocv.R..................    2 tests OK 
-  test-loocv.R..................    3 tests OK 12ms
+  test-loocv.R..................    3 tests OK 9ms
   ----- FAILED[data]: test-derivatives.R<22--25>
    call| expect_equal(max(abs(mig_loglik_grad(x = samp, xi = xi, Omega = Omega, 
    call| -->    beta = beta) - t(apply(samp, 1, function(x) {

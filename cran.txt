@@ -4179,6 +4179,7 @@ CVXR 1.9.1
 cwot 0.1.0
 CWT 0.2.1
 cxr 1.1.1
+cxreg 1.1.2
 cxxfunplus 1.0.2
 cyclestreets 1.0.3
 cyclicwave 0.1.0
@@ -8075,7 +8076,7 @@ ggplotAssist 0.1.3
 ggplotgui 1.0.0
 ggplotify 0.1.3
 ggplotplus 0.5.5
-ggpmisc 0.7.0
+ggpmisc 1.0.0
 ggPMX 1.3.2
 ggpointdensity 0.2.1
 ggpointless 0.3.0
@@ -8862,7 +8863,7 @@ h3jsr 1.3.1
 h3lib 0.1.4
 h3o 0.3.0
 h3r 0.1.2
-h3sdm 0.1.6
+h3sdm 0.1.7
 h5lite 2.1.1.1
 haarfisz 4.5.4
 hablar 0.3.2
@@ -14595,6 +14596,7 @@ osmapiR 0.2.5
 osmclass 0.1.5
 osmdata 0.4.0
 osmextract 0.6.0
+osmnxr 0.1.1
 OSMscale 0.5.23
 OSNMTF 0.1.0
 osqp 1.0.0

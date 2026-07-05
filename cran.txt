@@ -402,7 +402,7 @@ alakazam 1.4.3
 alarmdata 0.2.4
 ALassoSurvIC 0.1.1
 albatross 0.3-9
-albersdown 1.0.0
+albersdown 2.0.0
 aLBI 0.1.9
 albopictus 0.5
 alcoholSurv 0.7.2
@@ -18346,6 +18346,7 @@ RobustIV 0.3.1
 RobustLinearReg 1.2.0
 robustlm 0.1.0
 robustlmm 3.4-5
+RobustLPA 0.1.0
 robustmatrix 0.1.5
 RobustMediate 0.1.1
 robustmeta 1.2-1
@@ -22304,7 +22305,7 @@ timeDate 4052.112
 timedelay 1.0.11
 TimeDepFrail 0.1.0
 timedeppar 1.0.3
-timeDF 0.9.1
+timeDF 0.9.2
 timeEL 0.9.1
 timefully 0.1.0
 timeLineGraphics 1.0

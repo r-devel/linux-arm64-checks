@@ -5377,7 +5377,7 @@ duckh3 0.1.0
 duckplyr 1.2.1
 duckspatial 1.2.1
 duet 0.1.1
-dumbbell 0.1
+dumbbell 0.2
 dummy 0.1.3
 dundermifflin 0.1.1
 dunlin 0.1.12
@@ -8731,7 +8731,7 @@ GSD 1.0.0
 GSDA 1.0
 gsDesign 3.10.0
 gsDesign2 1.1.9
-gsDesignNB 0.2.6
+gsDesignNB 0.3.2
 gsDesignTune 0.1.0
 GSE 4.2-4
 gsearly 1.0.0

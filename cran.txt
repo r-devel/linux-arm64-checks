@@ -1592,7 +1592,7 @@ bigBits 1.4
 bigD 0.3.1
 bigdatadist 1.1
 BigDataPE 0.1.0
-BigDataStatMeth 2.0.2
+BigDataStatMeth 2.0.3
 BIGDAWG 3.1.0
 bigDM 0.5.7
 bigergm 1.2.6
@@ -2406,7 +2406,7 @@ CARM 2.0.0
 CARME 0.1.1
 CARMS 1.0.1
 caROC 0.1.5
-caroline 1.0.0
+caroline 1.1.1
 carpenter 0.2.3
 carrier 0.3.0.4
 CARRoT 3.0.2
@@ -8359,7 +8359,7 @@ glueDo 0.1.0
 gluedown 1.0.9
 gluvarpro 7.0
 glvmfit 0.1.0
-glyparse 0.6.1
+glyparse 0.7.0
 glyrepr 0.13.0
 gm 2.0.0
 GMAC 3.2
@@ -9721,7 +9721,7 @@ IMD 1.2.2
 imdbapi 0.1.0
 imdR 0.1.1
 iMediate 0.5.5
-imf.data 0.1.7
+imf.data 0.2.0
 imfapi 0.1.2
 ImFoR 0.1.0
 imfweo 0.1.0
@@ -21037,7 +21037,7 @@ SSRA 0.1-1
 SSReliabilityClaytonMWD 1.0.2
 SSRMST 0.1.1
 ssrn 0.1.0
-SSRTcalc 0.3.3
+SSRTcalc 2.1.1
 sss 0.2.2
 SSsimple 0.6.6
 sssvcqr 0.0.4
@@ -21959,7 +21959,7 @@ TensorPreAve 1.1.0
 tensorregress 5.1
 tensorsparse 3.0
 TensorTest2D 1.1.2
-tensorTS 1.0.2
+tensorTS 1.0.3
 tensr 1.0.2
 tepr 1.1.15
 TEQR 6.0-0

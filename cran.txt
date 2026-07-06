@@ -3324,7 +3324,7 @@ collatz 1.0.0
 collections 0.3.12
 collegeScorecard 0.2.0
 collett 0.1.2
-colleyRstats 0.1.1
+colleyRstats 0.1.2
 collidr 0.1.3
 collin 0.0.4
 collinear 3.0.2
@@ -4157,7 +4157,7 @@ cvar 0.6
 cvasi 1.5.1
 cvAUC 1.1.4
 cvCovEst 1.2.2
-cvcqv 1.0.3
+cvcqv 1.0.4
 cvcrand 0.1.1
 CVD 1.0.2
 cvdprevent 0.2.5
@@ -6195,7 +6195,7 @@ EValue 4.1.4
 evapoRe 1.0.1
 Evapotranspiration 1.16
 evbsreg 1.0.0
-eVCGsampler 1.0.0
+eVCGsampler 1.1.0
 EVchargcost 0.1.0
 evclass 2.0.2
 EvCombR 0.1-4
@@ -7299,6 +7299,7 @@ FSA 0.10.1
 FSAdata 0.4.1
 fsbrain 0.5.6
 fscache 1.0.5
+fscontext 0.2.0
 FSDAM 2024.7-30
 fsdaR 0.9-1
 FSelector 0.34
@@ -7459,7 +7460,7 @@ galah 2.2.0
 GALAHAD 2.0.0
 galamm 0.4.0
 galaxias 0.1.2
-GalaxyR 0.1.1
+GalaxyR 0.1.2
 galisats 2.2.0
 gallery 1.0.0
 GALLO 2.0
@@ -10652,7 +10653,7 @@ kriging 1.2
 KrigInv 1.4.2
 krippendorffsalpha 2.0
 KRIS 1.1.6
-KRLS 1.7-0
+KRLS 1.7-1
 krm 2022.10-17
 KRMM 1.0
 kronos 1.0.0
@@ -11049,7 +11050,7 @@ LightFitR 1.0.0
 lightgbm 4.6.0
 LightLogR 0.10.3
 lightparser 0.1.0
-lightr 2.0.0
+lightr 2.1.0
 lightsf 0.1.0
 lightsout 0.3.2
 likelihood 1.9
@@ -13003,7 +13004,7 @@ mrap 1.0.1
 mratios 1.4.4
 mrbayes 0.5.2
 mrbin 1.9.5
-mrbsizeR 1.3
+mrbsizeR 1.3.1
 mRc 0.1.2
 MRCE 2.4
 mrct 0.0.1.0
@@ -13011,7 +13012,7 @@ MRCV 0.4-0
 mrddGlobal 0.1.0
 mrds 3.0.1
 mreg 1.2.1
-mregions2 1.1.2
+mregions2 1.3.0
 mrf 0.1.9
 mrf2d 1.0
 MRFA 0.6
@@ -18726,6 +18727,7 @@ rsmatrix 0.2.10
 Rsmlx 2024.1.0
 rsnell 0.1
 RSNNS 0.4-18
+RSO 1.0.0
 rsocialwatcher 0.1.1
 rsocsim 1.9.18
 rsofun 5.1.0
@@ -20233,6 +20235,7 @@ sklarsomega 3.0-3
 skmeans 0.2-20
 SKNN 4.1.3
 skpr 1.9.2
+sksr 0.1.0
 skylight 1.4
 skymodelr 0.3.2
 skytrackr 2.0
@@ -20670,6 +20673,7 @@ SpatialGraph 1.0-4
 SpatialInference 0.1.0
 spatialising 0.6.2
 SpatialKDE 0.8.2
+SpatialML 1.8.2
 SpatialNP 1.1-6
 SpatialPack 0.4-1
 SpatialPOP 0.1.0

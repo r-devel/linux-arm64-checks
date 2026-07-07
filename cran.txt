@@ -106,6 +106,7 @@ actfts 0.3.0
 actibase 0.2.0
 actigraph.sleepr 0.3.1
 actilifecounts 1.1.1
+actiread 0.2.0
 activAnalyzer 2.1.2
 activatr 0.2.1
 ActiveDriver 1.0.0
@@ -644,7 +645,7 @@ apisensr 2.0.0
 aplms 0.1.0
 aplore3 0.9
 AplosNCA 1.0.1
-aplot 0.3.0
+aplot 0.3.1
 aplotExtra 0.0.4
 aplpack 1.3.5
 apm 0.1.1
@@ -702,6 +703,7 @@ arcgis 0.2.0
 arcgisgeocode 0.4.0
 arcgislayers 0.6.0
 arcgisplaces 0.1.2
+arcgisrouting 1.0.0
 arcgisutils 0.5.0
 ArchaeoPhases 2.1.1
 ArchaeoPhases.dataset 0.2.0
@@ -2002,6 +2004,7 @@ Boptbd 1.0.7
 boral 2.0.3
 BORG 0.3.1
 borrowr 0.2.0
+BORT 0.1.0
 Boruta 10.0.0
 bosfr 0.1.0
 BosonSampling 0.1.5
@@ -4290,6 +4293,7 @@ data.table.threads 1.0.1
 data.tree 1.2.0
 data.validator 0.2.1
 data360r 1.0.9
+data4health 0.1.1
 DatabaseConnector 7.2.0
 DatabaseConnectorJars 1.1.0
 DatabionicSwarm 2.0.0
@@ -4375,6 +4379,7 @@ DateTimeRangePicker 1.1.0
 datetimeutils 0.6-6
 datetoiso 1.2.1
 dateutils 0.1.5
+datey 0.1.0
 datoramar 0.1.0
 datos 0.5.1
 datplot 1.1.1
@@ -4810,6 +4815,7 @@ didec 1.1.0
 DiDforBigData 1.0
 DIDHAD 2.0.0
 didimputation 0.5.1
+didintrjl 0.2.6
 DIDmultiplegt 2.1.0
 DIDmultiplegtDYN 2.4.0
 didrooRFM 1.0.0
@@ -5698,7 +5704,7 @@ ef 1.2.0
 EFA.dimensions 0.1.8.6
 EFA.MRFA 1.1.2
 EFAfactors 1.2.4
-EFAtools 0.7.1
+EFAtools 0.8.0
 EFAutilities 2.1.3
 eFCM 1.0
 efdm 0.2.3
@@ -6007,6 +6013,7 @@ epiphy 0.5.0
 EpiPvr 0.0.1
 epiR 2.0.94
 EpiReport 1.0.4
+EpiScopeK 0.1.1
 EpiSemble 0.1.1
 episensr 2.1.0
 EpiSignalDetection 0.1.3
@@ -8067,6 +8074,7 @@ ggordiplots 0.4.3
 GGoutlieR 1.0.2
 ggpackets 0.2.2
 ggpage 0.2.3
+ggpaintr 0.11.1
 ggparty 1.0.0.1
 ggpath 1.1.1
 ggpattern 1.3.1
@@ -10349,6 +10357,7 @@ jobqueue 1.7.0
 JoF 0.1.0
 joineR 1.2.9
 joineRML 0.4.8
+joinery 1.0.0
 joinet 1.0.0
 joinless 0.0.1
 joinpointR 1.0.0
@@ -12340,7 +12349,7 @@ MicrobTiSDA 0.1.0
 microCRAN 0.9.0-1
 MicroDatosEs 0.8.15
 microdiluteR 1.0.1
-microeco 2.2.0
+microeco 2.3.0
 microinverterdata 0.4.0
 MicroMacroMultilevel 0.4.0
 micromap 1.9.12
@@ -13965,6 +13974,7 @@ nonParQuantileCausality 0.1.0
 NonParRolCor 0.8.0
 nonparTrendR 0.1.0
 NonProbEst 0.2.4
+nonprobsampling 0.1.0
 nonprobsvy 0.2.3
 nonsmooth 1.0.0
 nonstat 0.0.6
@@ -13976,7 +13986,7 @@ nordstatExtras 0.1.0
 norm 1.0-11.1
 NORMAgene 0.1.1
 normaliseR 0.1.2
-normality 0.0.1
+normality 0.0.3
 NormalityAssessment 0.1.1
 normalize 0.1.3
 normalizeH 1.0.0
@@ -15505,6 +15515,7 @@ plan 0.4-5
 Planesmuestra 0.1
 PlanetNICFI 1.0.5
 planets 0.1.0
+planisphere 0.1.0
 planr 0.6.4
 planscorer 0.0.3
 plantecophys 1.4-6
@@ -19293,7 +19304,7 @@ schematic 0.1.2
 schemr 0.3.1
 schmear 0.1.0
 schoenberg 2.0.3
-scholar 0.2.6
+scholar 1.0.0
 scholid 0.2.0
 scholidonline 0.2.0
 SchoolDataIT 0.2.13

@@ -581,7 +581,7 @@ ANSM5 1.1.1
 AntAngioCOOL 1.2
 antaresEditObject 1.0.1
 antaresProcessing 0.18.3
-antaresRead 3.0.1
+antaresRead 3.1.0
 antaresViz 0.18.3
 AntClassify 0.2.2
 antedep 0.2.0
@@ -6568,7 +6568,7 @@ FastKNN 0.0.1
 fastkqr 1.0.1
 FastKRR 0.1.2
 fastLink 0.6.1
-fastLISA 1.0.0
+fastLISA 1.0.1
 fastliu 1.0
 fastLogisticRegressionWrap 1.2.0
 fastlogitME 0.1.0
@@ -6985,7 +6985,7 @@ FlexScan 0.2.2
 flexsiteboard 0.0.7
 flexsurv 2.3.2
 flexsurvcure 1.3.3
-flextable 0.9.12
+flextable 0.10.0
 flexurba 0.2.3
 FlexVarJM 0.1.0
 FlickrAPI 0.1.0.1
@@ -18065,7 +18065,7 @@ RJalaliDate 0.1.0
 rJava 1.0-18
 rJavaEnv 0.3.0
 rjd3bench 3.1.2
-rjd3jars 0.0.4
+rjd3jars 0.0.5
 rjd3production 1.1.0
 rjd3providers 3.7.1
 rjd3toolkit 3.7.1
@@ -19416,7 +19416,7 @@ sd2R 0.2.1
 sda 1.3.9
 SDaA 0.1-5
 sdafilter 1.0.1
-SDALGCP2 0.1.0
+SDALGCP2 0.1.1
 sdamr 0.2.0
 SDAR 0.9-55
 SDAResources 0.1.1
@@ -22829,7 +22829,7 @@ tsforecast 1.3.0
 tsg 0.1.4
 tsgarch 1.0.4
 tsgc 0.0
-TSGS 1.0
+TSGS 1.0.1
 TSGSIS 0.1
 TSHRC 0.1-6
 tsibble 1.2.0
@@ -23037,7 +23037,7 @@ uk2us 0.1.0
 ukbabynames 0.3.0
 UKBAnalytica 1.0.0
 ukbflow 0.3.4
-ukbnmr 3.3.2
+ukbnmr 3.4
 ukc19 0.0.3
 UKFE 2.0.2
 ukgasapi 0.21
@@ -23809,7 +23809,7 @@ wideRhino 1.2.0
 widgetframe 0.3.1
 widr 0.1.1
 widyr 0.1.5
-WienR 0.3-15
+WienR 0.3-17
 wig 0.1.0
 wikibooks 0.2.1
 wikifacts 0.4.2

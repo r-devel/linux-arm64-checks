@@ -694,7 +694,7 @@ arabic2kansuji 0.1.3
 arabicStemR 1.3
 arakno 1.3.2
 aramappings 0.2.0
-araponga 1.0.1
+araponga 1.1.0
 ArArRedux 1.0
 arc 1.4.2
 ARCensReg 3.0.2
@@ -762,7 +762,7 @@ ARIbrain 0.2
 aricode 1.1.0
 aridagri 2.0.3
 AriGaMyANNSVR 0.1.0
-arima2 3.4.3
+arima2 3.4.4
 ARIMAANN 0.1.0
 arkdb 0.0.19
 arkhaia 0.5.5
@@ -1674,7 +1674,7 @@ BinMat 0.1.6
 binMto 0.0-7
 BinNonNor 1.5.3
 BinNor 2.3.4
-binom 1.1-1.1
+binom 1.1-2
 binomCI 1.3
 binomialtrend 0.0.0.3
 BinOrdNonNor 1.5.2
@@ -2993,7 +2993,7 @@ cleandata 0.3.0
 cleanepi 1.1.2
 cleaner 1.5.5
 Cleanet 1.0.0
-cleangeo 0.3-1
+cleangeo 0.3-2
 CleaningValidation 1.0
 cleanNLP 3.1.0
 cleanr 1.4.0
@@ -8462,7 +8462,7 @@ goftest 1.2-3
 gogarch 0.7-6
 goldfish 1.6.12
 goldilocks 0.5.0
-golem 1.0.0
+golem 1.0.1
 golfastr 0.2.0
 golfr 0.1.0
 GoMiner 1.3
@@ -8857,7 +8857,7 @@ GWlasso 1.0.2
 GWLelast 1.2.2
 GWmodel 2.4-1
 GWnnegPCA 0.0.6
-GWnorm 1.0.1
+GWnorm 1.0.2
 GWpcor 0.1.8
 gwpcormapper 0.1.3
 GWPR.light 1.0.0
@@ -10357,7 +10357,7 @@ jobqueue 1.7.0
 JoF 0.1.0
 joineR 1.2.9
 joineRML 0.4.8
-joinery 1.0.0
+joinery 1.0.1
 joinet 1.0.0
 joinless 0.0.1
 joinpointR 1.0.0
@@ -12498,7 +12498,7 @@ MissingHandle 0.1.1
 missingHE 1.6.1
 MissingPlotLSD 0.1.0
 MissingPlotRBD 1.1.0
-missMDA 1.21
+missMDA 1.22
 MissMech 1.0.4
 missMethods 0.4.0
 missoNet 1.5.1
@@ -15479,7 +15479,7 @@ pkgconfig 2.0.3
 pkgdepends 0.9.1
 pkgdepR 1.1.1
 pkgdiff 1.0.3
-pkgdown 2.2.0
+pkgdown 2.2.1
 pkgdown.offline 0.1.2
 pkgfilecache 0.1.5
 pkggraph 0.3.1
@@ -17110,7 +17110,7 @@ RCarb 0.1.8
 rcarbon 1.5.2
 rcartocolor 2.1.2
 Rcatch22 0.2.5
-rcatfish 1.0.3
+rcatfish 1.0.4
 RCaucTile 1.0.4
 RcausalEGM 0.3.3
 rCausalMGM 1.0.1
@@ -19685,7 +19685,7 @@ seroreconstruct 1.1.5
 serosv 1.3.0
 SeroTrackR 1.1.1
 serp 0.2.5
-serpstatr 0.4.3
+serpstatr 0.5.0
 serrsBayes 0.5-0
 servr 0.33
 SEset 1.0.1
@@ -20507,7 +20507,7 @@ soilfoodwebs 1.0.2
 SoilFunctionality 0.1.0
 SoilHyP 0.1.7
 soilhypfit 0.1-8
-soilKey 0.9.157
+soilKey 0.9.184
 SoilManageR 1.1.0
 soilphysics 5.1
 SoilR 1.2.107
@@ -20608,7 +20608,7 @@ spaMM 4.6.65
 spanish 0.4.2
 spanishoddata 0.2.6
 spANOVA 0.99.4
-spant 4.2.0
+spant 4.3.0
 spantest 1.1-3
 sparcl 1.0.4
 spareg 1.1.1
@@ -23367,6 +23367,7 @@ vegan 2.7-5
 vegan3d 1.4-1
 vegawidget 0.5.0
 vegclust 2.0.3
+vegdata 1.9.18
 vegetablesSriLanka 1.1.0
 vegIndexCalc 0.1.0
 vegperiod 0.4.0

@@ -2716,7 +2716,7 @@ CGGP 1.0.4
 cglasso 2.0.7
 cgmanalysis 3.2.0
 CGManalyzer 1.3.1
-cgmguru 1.1.0
+cgmguru 1.2.0
 CGMissingDataR 0.0.2
 cgmquantify 0.1.0
 CGNM 0.9.3
@@ -3831,7 +3831,7 @@ cowbell 0.1.0
 cowfootR 0.1.3
 cowplot 1.2.0
 cowsay 1.2.2
-cox.rvph 0.1.1
+cox.rvph 0.1.2
 CoxAIPW 0.0.3
 CoxBcv 0.0.1.0
 CoxBoost 1.5.1
@@ -8355,7 +8355,7 @@ globalKinhom 0.1.10
 GlobalOptions 0.1.4
 globalOptTests 1.1
 globals 0.19.1
-globaltrends 0.0.14
+globaltrends 0.2.1
 globe 1.2-0
 glober 1.0
 gloBFPr 0.1.3
@@ -8376,7 +8376,7 @@ glueDo 0.1.0
 gluedown 1.0.9
 gluvarpro 7.0
 glvmfit 0.1.0
-glyparse 0.7.0
+glyparse 0.7.1
 glyph 0.1.0
 glyrepr 0.13.0
 gm 2.0.0
@@ -8691,7 +8691,7 @@ groupdata2 2.0.5
 groupedHyperframe 0.4.3
 groupedHyperframe.random 0.3.2
 groupedSurv 1.0.5.1
-grouper 0.5.0
+grouper 0.7.3
 groupr 0.1.2
 grouprar 0.1.0
 GroupSeq 1.4.3
@@ -10082,7 +10082,7 @@ ipred 0.9-15
 iprior 0.7.4
 iPRISM 0.1.1
 iPRSue 1.0.0
-ips 0.0.13
+ips 0.1.1
 ipsecr 1.4.4
 ipsfs 1.0.0
 ipsRdbs 1.0.0
@@ -10456,7 +10456,7 @@ K4PrestasiSiswa 0.1.0
 K4ProsesSiswa 0.1.0
 K4Sekolah 0.1.0
 k5 0.2.1
-kableExtra 1.4.0
+kableExtra 1.4.1
 kader 0.0.8
 kaigiroku 0.5
 kairos 2.3.0
@@ -11342,7 +11342,7 @@ lomb 2.5.0
 long2lstmarray 0.2.0
 LongCART 3.2
 longclust 1.5
-LongDat 1.1.3
+LongDat 1.1.4
 LongDecompHE 0.1.0
 longevity 1.3
 longit 0.1.0
@@ -12150,7 +12150,7 @@ metaGE 1.2.2
 metagear 0.7
 metaggR 0.3.0
 metagroup 1.0.2
-MetaHD 0.1.4
+MetaHD 0.1.5
 metaHelper 1.0.1
 metaheuristicOpt 2.0.0
 MetaHunt 0.1.0
@@ -13025,7 +13025,7 @@ MRAM 1.0.1
 mrangr 1.0.1
 mrap 1.0.1
 mratios 1.4.4
-mrbayes 0.5.2
+mrbayes 0.5.3
 mrbin 1.9.5
 mrbsizeR 1.3.1
 mRc 0.1.2
@@ -13519,7 +13519,7 @@ nat 1.8.25
 nat.nblast 1.6.9
 nat.templatebrains 1.2.1
 nat.utils 0.6.1
-natcpp 0.2
+natcpp 0.3.0
 nativeORT 1.0.1
 natmanager 0.5.2
 NatParksPalettes 0.2.0
@@ -14890,7 +14890,7 @@ parseRPDR 1.1.2
 parSim 0.3.1
 parsnip 1.6.0
 PartCensReg 1.39
-partDSA 0.9.14
+partDSA 0.9.15
 partialised 0.1.1
 partialling.out 0.2.0
 Partiallyoverlapping 2.0
@@ -16814,7 +16814,7 @@ RaCE.NMA 1.0.3
 RaceID 0.4.2
 raceland 1.2.2
 racir 2.0.0
-Racmacs 1.2.9
+Racmacs 1.2.10
 rACMEMEEV 1.0.1
 ractivecampaign 0.6.0
 rADA 1.1.9
@@ -18705,7 +18705,7 @@ RSCAT 1.1.3
 rscc 0.2.1
 RScelestial 1.0.4
 RSclient 0.7-12
-rsconnect 1.10.0
+rsconnect 1.10.1
 rscontract 0.1.2
 rscopus 0.9.0
 rscorecard 0.33.0
@@ -20089,7 +20089,7 @@ simgof 1.0.2
 simhelpers 0.3.1
 simIC 0.1.0
 SIMICO 0.2.0
-simIDM 0.1.0
+simIDM 0.1.1
 SimilarityMeasures 1.4
 Simile 1.3.4
 SimIndep 0.1.2
@@ -20133,7 +20133,7 @@ simpleSetup 0.1.0
 simpletex 1.0.5
 SimpleUpset 0.1.5
 simplexgof 0.1.0
-SimplexRegression 0.1.3
+SimplexRegression 0.1.4
 SIMPLICA 1.0.0
 SimplicialComplex 0.1.0
 SimplicialCubature 1.3
@@ -22178,7 +22178,7 @@ ThresholdROC 2.9.6
 ThresholdROCsurvival 1.2.1
 threshr 1.0.8
 thriftr 1.1.8
-ThSQCA 2.0.0
+ThSQCA 2.0.1
 thunder 1.1.5
 ThurMod 1.1.20
 thurstonianIRT 0.12.5
@@ -23444,7 +23444,6 @@ VineCopula 2.6.1
 vinereg 0.12.1
 violinplotter 3.0.1
 vioplot 0.5.1
-vip 0.4.6
 vipor 0.4.7
 VIProDesign 0.1.0
 ViralEntropR 0.6.2

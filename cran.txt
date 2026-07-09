@@ -265,7 +265,7 @@ aelab 1.1.3
 aemo 0.4.1
 AEP 0.1.4
 AER 1.2-16
-AeRobiology 2.0.2
+AeRobiology 2.0.3
 AeroEvapR 0.1.6
 AeroSampleR 0.3.0
 aesopR 0.1.0
@@ -1383,7 +1383,7 @@ BCClong 1.0.3
 bccp 0.5.0
 BCD 0.1.1
 BCDAG 1.1.4
-bcdata 0.5.2
+bcdata 0.5.3
 BCEA 2.4.83
 BCEE 1.3.2
 bcf 2.0.2
@@ -1898,7 +1898,7 @@ bmet 0.1.0
 bmgarch 2.1.0
 bmggum 0.1.0
 BMisc 1.4.9
-BMIselect 1.0.3
+BMIselect 1.0.4
 bmixture 1.7
 bml 0.9.0
 bmlm 1.3.15
@@ -2600,6 +2600,7 @@ cdlsim 0.1.0
 cdlTools 1.13
 CDM 8.3-14
 CDMConnector 2.6.0
+cdmetapopR 1.0.0
 cdmTools 1.0.6
 cdnbcr 1.1.1
 cdom 0.1.1
@@ -3501,7 +3502,7 @@ conditionalProbNspades 1.0
 conditionz 0.1.0
 condMVNorm 2025.1
 CondMVT 0.1.1
-condor 3.0.2
+condor 3.0.3
 condorOptions 1.0.1
 condSURV 2.0.4
 condTruncMVN 0.0.3
@@ -4288,6 +4289,7 @@ Dasst 0.3.4
 DAST 0.1.0
 dat 0.7.0
 data.checker 2.0.0
+data.sketches 0.1.0
 data.table 1.18.4
 data.table.threads 1.0.1
 data.tree 1.2.0
@@ -4351,6 +4353,7 @@ datasets.load 2.3.0
 datasetsICR 1.0
 DataSetsUni 0.1
 DataSetsVerse 0.1.0
+datasetviewer 0.1.1
 DataSimilarity 0.4.0
 DataSpaceR 1.0.0
 dataspice 1.1.1
@@ -5760,7 +5763,7 @@ eiIT 0.0.1-1
 eikosograms 1.0.0
 eimpute 0.2.4
 einops 0.2.1
-einsum 0.1.2
+einsum 0.2.0
 eiopaR 0.1.1
 eiopt2 0.1.1-6
 eiPack 0.2-2
@@ -6853,6 +6856,7 @@ fingerPro 2.1
 finiteruinprob 0.6
 finity 0.1.5
 finlabR 1.0.0
+finna 0.1.3
 FinNet 0.2.1
 finnishgrid 0.2.0
 finnsurveytext 2.1.1
@@ -7118,7 +7122,7 @@ forecasteR 3.0.2
 forecastHybrid 5.1.21
 ForecastingEnsembles 0.5.1
 forecastLSW 1.1.1
-FoReco 1.3.0
+FoReco 1.3.1
 FoRecoML 1.1.0
 ForeComp 1.0.0
 forecTheta 3.0.3
@@ -9530,7 +9534,7 @@ ical 0.1.6
 iCAMP 1.5.12
 ICAOD 1.0.2
 icardaFIGSr 1.0.2
-icarm 0.1.0
+icarm 0.2.0
 icarus 0.3.3
 ICBioMark 0.1.4
 ICC 2.4.0
@@ -10058,12 +10062,13 @@ ipd 0.4.1
 IPDfromKM 0.1.10
 ipdw 2.0-0
 ipeadatar 0.2.0
-ipeaplot 0.5.3
+ipeaplot 0.5.4
 IPEC 1.1.2
 IPEDS 0.1.0
 IPEDSuploadables 3.0.1
 iperform 0.0.3
 ipeval 0.1.0
+ipf 0.0.1
 ipflasso 1.1
 ipfp 1.0.2
 ipfr 1.0.2
@@ -10608,7 +10613,7 @@ klustR 0.1.0
 km.ci 0.5-6
 kmBlock 0.1.4
 kmc 0.4-2
-KMD 0.1.0
+KMD 0.1.1
 KMEANS.KNN 0.1.0
 kmed 0.4.2
 Kmedians 2.2.0
@@ -10796,6 +10801,7 @@ landpred 2.0
 landsat 1.1.2
 landscapemetrics 2.2.1
 landscapeR 1.3.1
+landscapetools 0.6.3
 landsepi 1.5.3
 lang 0.1.2
 Langevin 1.3.3
@@ -12153,7 +12159,7 @@ metaGE 1.2.2
 metagear 0.7
 metaggR 0.3.0
 metagroup 1.0.2
-MetaHD 0.1.5
+MetaHD 0.1.6
 metaHelper 1.0.1
 metaheuristicOpt 2.0.0
 MetaHunt 0.1.0
@@ -12881,7 +12887,7 @@ monashtipr 0.1.0
 mondate 1.0
 Mondrian 1.1.2
 mongolite 4.0.0
-mongolstats 0.1.1
+mongolstats 0.2.0
 mongopipe 0.1.2
 monitoR 1.2
 monitOS 0.1.6
@@ -15596,7 +15602,7 @@ plotrr 1.0.2
 plotscale 0.1.6
 plotscaper 0.2.8
 plotSEMM 2.4
-plotthis 0.12.1
+plotthis 0.13.1
 PlotTools 0.4.0
 plotwidgets 0.5.1
 plpoisson 0.3.1
@@ -16103,6 +16109,7 @@ probably 1.2.0
 probaverse 0.1.0
 ProbBayes 1.1
 ProbBreed 1.0.4.9
+probcal 0.2.0
 probe 1.1
 ProbeDeveloper 1.1.2
 ProbitSpatial 1.1
@@ -16308,7 +16315,7 @@ PSSIM 0.1.0
 PSSMCOOL 0.2.4
 pssmooth 1.0.3
 psSubpathway 0.1.3
-PSsurvival 0.2.0
+PSsurvival 0.2.1
 Pstat 1.2
 PSTR 2.0.0
 PStrata 1.0.1
@@ -19201,6 +19208,7 @@ sate 3.1.1
 satellite 1.0.6
 satin 1.2.0
 satres 1.1.1
+SATS 1.0.10
 SaturnCoefficient 1.6
 SAutomata 0.1.0
 SAVER 1.1.2
@@ -20545,7 +20553,7 @@ someMTP 1.4.1.1
 SOMEnv 1.1.2
 somhca 0.4.0
 SOMMD 0.1.2
-sommer 4.4.5
+sommer 4.4.6
 SOMnmR 0.3.0
 sonar 1.0.2
 SongEvo 1.0.0
@@ -21871,7 +21879,7 @@ taxalight 0.1.5
 TaxaNorm 2.4
 taxdiv 0.1.0
 TaxicabCA 0.1.1
-taxify 0.2.12
+taxify 0.3.4
 taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
@@ -23201,7 +23209,7 @@ ustats 0.1.5
 ustfd 0.4.4
 ustyc 1.0.0
 utc 0.1.5
-uteals 0.0.3
+uteals 0.0.5
 utest 0.4.0
 utf8 1.2.6
 utf8ify 0.2.0
@@ -23219,6 +23227,7 @@ uwedragon 0.1.0
 UWHAM 1.1
 uwot 0.2.4
 uxr 0.2.0
+uygeo 0.1.0
 V8 8.2.0
 vacalibration 2.2
 vaccinationimpact 0.1.0
@@ -23249,7 +23258,7 @@ validmind 2.12.5
 valmetrics 1.0.0
 valorate 1.0-5
 valottery 0.0.1
-valr 0.9.1
+valr 0.10.0
 valueEQ5D 0.7.2
 valuemap 2.0.4
 valueprhr 0.1.0
@@ -24006,7 +24015,7 @@ xegaPopulation 1.0.0.12
 xegaSelectGene 1.0.0.4
 xergm.common 1.7.8
 xesreadR 0.2.3
-xfun 0.59
+xfun 0.60
 xgb2sql 0.1.3
 xgboost 3.2.1.1
 XGeoRTR 0.7.0
@@ -24186,7 +24195,7 @@ zipsae 1.0.2
 ZLAvian 0.2.0
 zlib 1.0.3
 zlog 1.0.2
-zmctp 0.1.0
+zmctp 0.1.1
 zmisc 0.2.3
 zoeppritz 1.0-9
 zoib 1.6.1

@@ -5624,7 +5624,7 @@ EcotoneFinder 0.2.3
 ecotourism 0.1.0
 ecotox 1.4.4
 ecotoxicology 1.0.1
-ECOTOXr 1.2.4
+ECOTOXr 1.2.5
 ecotraj 1.2.2
 ecotrends 1.2
 EcoTroph 1.6.1
@@ -8299,7 +8299,7 @@ glinternet 1.0.12
 glinvci 1.2.4
 glioblastomaEHRsData 1.1.0
 gllm 0.38
-gllvm 2.0.11
+gllvm 2.0.13
 glm.deploy 1.0.4
 glm.predict 4.3-2
 glm2 1.2.1
@@ -10598,6 +10598,7 @@ klassR 1.0.6
 klausuR 0.12-14
 kldest 1.0.0
 kldtools 1.2
+KlerRSS 0.2.4
 KLexp 1.0.0
 klineR 0.1.1
 KLINK 1.2.0
@@ -10893,6 +10894,7 @@ LCPA 1.0.2
 lcpm 0.1.1
 lcra 1.1.5
 lcsm 0.3.2
+lctools 0.3
 lcyanalysis 1.0.4
 lda 1.5.2
 LDAandLDAS 1.1.3
@@ -23270,6 +23272,7 @@ VARcpDetectOnline 0.2.1
 vardiag 0.2-2
 vardpoor 0.21.0
 VarED 1.0.0
+varequal 0.0.1
 VaRES 1.0.2
 varEst 0.1.0
 varGuid 0.1.5
@@ -23960,6 +23963,7 @@ wsjplot 0.1.0
 wskm 1.4.40
 wsMed 1.0.2
 wsprv 0.1.0
+WSPsignal 1.0.0
 wsrf 1.7.32
 wstats 0.1.1
 wstdiff 1.0.0

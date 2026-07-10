@@ -1470,7 +1470,7 @@ benchden 1.0.8
 Benchmarking 0.33
 benchmarkme 1.0.8
 benchmarkmeData 2.0.0
-BEND 2.0.1
+BEND 2.1.0
 benford 1.0.1
 benford.analysis 0.1.5
 BenfordTests 1.2.0
@@ -1833,7 +1833,7 @@ Blendstat 1.0.6
 blindrecalc 1.1.1
 blindspiker 0.2.1
 blink 1.1.0
-blisa 0.2.0
+blisa 1.0.0
 bliss 1.1.1
 blm 2022.0.0.1
 blme 1.0-7
@@ -2941,7 +2941,7 @@ ciTools 0.6.1
 citrus 1.0.2
 citsr 0.1.3
 ciu 0.8
-ciuupi 1.2.3
+ciuupi 1.2.4
 ciuupi2 1.0.1
 civ 0.1.0
 civic.icarm 0.3.0
@@ -4558,7 +4558,7 @@ deepNN 1.2
 deepRstudio 0.0.9
 deepspat 0.3.1
 deepSTRAPP 1.0.0
-deeptime 2.3.1
+deeptime 2.4.0
 deeptimedata 1.0.0
 DEET 1.0.12
 DEEVD 1.2.3
@@ -5085,7 +5085,7 @@ DNNSIM 0.1.1
 dnr 0.3.6
 do 2.0.0.1
 do3PCA 1.0.0
-dobin 1.0.4
+dobin 1.0.5
 dobson 0.4
 doBy 4.7.2
 doc2concrete 0.6.0
@@ -5680,7 +5680,7 @@ eDNAjoint 0.3.3
 EDNE.EQ 1.0
 EDOIF 0.1.4
 EDOtrans 0.3.5
-edr4r 0.1.0
+edr4r 0.1.1
 edstan 1.1.0
 EdSurvey 4.0.7
 educabR 1.0.0
@@ -10577,7 +10577,7 @@ kimfilter 2.0.0
 kimisc 1.0.1
 kin.cohort 0.7
 kindisperse 0.10.2
-kindling 0.3.1
+kindling 0.3.2
 kinematics 1.0.0
 kinesis 0.5.0
 KinformR 0.1.2
@@ -11580,7 +11580,7 @@ maGUI 4.0
 maicChecks 0.3.0
 maicplus 0.1.2
 MAICtools 0.1.1
-maidr 0.3.0
+maidr 0.4.0
 MAIHDA 0.2.1
 mailchimpR 0.1.0
 mailmerge 0.2.5
@@ -14425,7 +14425,7 @@ OpEnHiMR 0.1.1
 openholidaysR 0.1.0
 OpenImageR 1.3.0
 openintro 2.5.1
-OpenLand 1.0.4
+OpenLand 1.0.5
 openmetrics 0.3.0
 OpenMindat 1.0.1
 OpenML 1.12
@@ -16161,7 +16161,7 @@ profvis 0.4.0
 progress 1.2.3
 progressify 0.2.0
 progressr 1.0.0
-PROJ 0.6.0
+PROJ 0.7.0
 proj4 1.0-15
 ProjectionBasedClustering 1.2.2
 projections 0.6.1
@@ -17376,7 +17376,7 @@ rdstagger 0.1.0
 RDStreeboot 1.0
 Rdta 1.0.1
 rdtLite 1.4
-Rduckhts 1.3.0-0.1.0
+Rduckhts 1.4.0-0.1.0
 Rduino 0.1
 Rduinoiot 0.1.0
 Rdune 1.1.1
@@ -18079,9 +18079,9 @@ rjd3jars 0.0.5
 rjd3production 1.1.0
 rjd3providers 3.7.1
 rjd3toolkit 3.8.0
-rjd3tramoseats 3.7.1
+rjd3tramoseats 3.8.0
 rjd3workspace 3.7.1
-rjd3x13 3.7.1
+rjd3x13 3.8.0
 rjd3xjars 0.1.1
 RJDBC 0.2-10
 RJDemetra 0.2.8
@@ -19772,7 +19772,7 @@ sgmodel 0.1.2
 sGMRFmix 0.3.0
 sgo 0.9.2
 sgof 2.3.5
-sgolay 1.0.3
+sgolay 1.0.4
 SGP 2.2-0.0
 SGPdata 28.0-0.0
 sgplot 0.5.0
@@ -20605,7 +20605,7 @@ SpaceTimeBSS 0.4-0
 SPACO 1.0.2
 SpaCOAP 1.3
 spacyr 1.3.0
-spada 0.1.6
+spada 0.1.7
 SPADAR 1.0
 spAddins 0.2.0
 SpadeR 0.1.1
@@ -21140,7 +21140,7 @@ starburst 0.3.8
 staRdom 1.1.32
 STAREG 1.0.4
 stargazer 5.2.3
-starling 0.6.5
+starling 1.1.0
 starm 0.1.0
 starma 1.3
 starnet 1.0.2
@@ -21465,7 +21465,7 @@ summata 0.11.5
 SUMMER 2.0.0
 SUMO 1.2.3
 sumSome 1.1.0
-sumup 1.0.2
+sumup 1.0.3
 sumvar 0.2.0
 sunburstR 2.1.8
 sunburstShinyWidget 0.5.0

@@ -1,0 +1,4 @@
+ERROR: dependency ‘ggplot2’ is not available for package ‘starling’
+Perhaps try a variation of:
+install.packages('ggplot2')
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/starling’

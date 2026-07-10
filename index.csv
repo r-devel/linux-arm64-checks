@@ -34,6 +34,7 @@ retistruct,0.8.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/
 rvtk,0.1.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/rvtk
 singleRcapture,1.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/singleRcapture
 smoothemplik,0.0.17,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/smoothemplik
+starling,1.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/starling
 stelfi,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/stelfi
 taxonomizr,0.11.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/taxonomizr
 tiledb,0.33.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/tiledb

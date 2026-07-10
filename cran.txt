@@ -550,7 +550,7 @@ animation 2.8
 animbook 1.0.1
 animejs 0.1.0
 animint2 2025.10.17
-animl 3.3.0
+animl 3.3.1
 anipaths 0.10.6
 aniSNA 1.1.1
 aniview 0.1.0
@@ -2044,6 +2044,7 @@ bpr 1.0.8
 BPrinStratTTE 0.0.7
 bptips 0.1.0
 bpvars 2.0
+bqmm 0.1.0
 bqror 1.7.1
 bqtl 1.0-39
 BRACE 0.1.0
@@ -3301,7 +3302,7 @@ cohortBuilder 1.0.0
 CohortCharacteristics 1.1.3
 CohortConstructor 0.6.3
 CohortContrast 1.0.0
-CohortGenerator 1.1.0
+CohortGenerator 1.1.1
 CohortMethod 6.0.3
 CohortPlat 1.0.5
 cohorts 1.3.0
@@ -4087,6 +4088,7 @@ ctoclient 0.1.0
 cTOST 1.0.1
 ctqr 2.2
 ctrdata 1.26.1
+ctreeMI 0.1.0
 ctrialsgov 0.2.7
 CTRing 0.1.0
 ctrlGene 1.0.1
@@ -5288,6 +5290,7 @@ dsBaseClient 6.3.5
 DSBayes 2023.1.0
 dscore 2.0.0
 dscoreMSM 0.1.0
+DSDRM 0.1.3
 dsem 3.0.0
 DSFM 1.0.1
 dsge 1.0.0
@@ -9792,6 +9795,7 @@ imputeREE 0.0.5
 ImputeRobust 1.3-1
 imputeTestbench 3.0.3
 imputeTS 3.4
+IMR 1.0.0
 iMRMC 2.1.0
 imsig 1.1.3
 imt 1.0.0
@@ -11859,6 +11863,7 @@ mbend 1.3.1
 MBESS 5.0.1
 mbest 0.6.1
 mbg 1.2.0
+MBGapp 0.1.0
 MBHdesign 2.3.15
 mbir 1.3.5
 mblm 0.12.1
@@ -13703,7 +13708,7 @@ neurobase 1.34.0
 neuroblastoma 2023.9.3
 NeuroDataSets 0.3.0
 NeuroDecodeR 0.2.0
-neurohcp 0.11.0
+neurohcp 0.12.0
 neuroim 0.0.6
 neuroim2 0.13.0
 neuroimaGene 0.1.4
@@ -16241,6 +16246,7 @@ Przewodnik 0.16.12
 ps 1.9.3
 PSAboot 1.3.9
 PSAgraphics 2.1.3
+psAve 1.0.1
 PSAWR 0.1.0
 psBayesborrow 1.1.0
 psbcGroup 1.7

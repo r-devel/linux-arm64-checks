@@ -701,7 +701,7 @@ ARCensReg 3.0.2
 arcgeocoder 0.4.1
 arcgis 0.2.0
 arcgisgeocode 0.4.0
-arcgislayers 0.6.0
+arcgislayers 0.6.1
 arcgisplaces 0.1.2
 arcgisrouting 1.0.0
 arcgisutils 0.5.0
@@ -2140,6 +2140,7 @@ bs4Dash 2.3.5
 bs4Dashkit 0.2.0
 BSagri 0.1-10
 bsamGP 1.2.7
+BSCB 1.0.0
 bscui 0.1.6
 BSDA 1.2.2
 bsearchtools 0.0.61
@@ -2608,6 +2609,7 @@ cdrcR 0.1.1
 CDsampling 0.1.6
 CDSE 0.3.2
 CDSim 0.1.2
+CDSimX 1.1.2
 CDSS 0.3-1
 CDVI 0.1.0
 CEACT 0.5.0
@@ -3523,6 +3525,7 @@ configural 0.1.5
 confinterpret 1.0.0
 confintr 1.0.2
 confintROB 1.1-1
+conflibertR 0.5.3
 conflicted 1.2.0
 ConFluxPro 1.3.1
 ConfMatrix 0.2.1
@@ -4661,6 +4664,7 @@ DER 1.5
 DeRezende.Ferreira 0.1.2
 Deriv 4.2.0
 derivmkts 0.2.5.1
+derrick 0.1.1
 DES 1.0.0
 DESA 1.0.0
 desc 1.4.3
@@ -5093,6 +5097,7 @@ DockerParallel 1.0.4
 docket 1.33
 docknitr 1.0.1
 dockViewR 0.3.0
+doclingr 0.1.0
 doclisting 0.1.0
 doconv 0.4.0
 docopt 0.7.2
@@ -8102,6 +8107,7 @@ ggpointless 0.3.0
 ggpolar 0.2.2
 ggpolypath 0.4.0
 ggpop 1.7.1
+ggpower 0.1.2
 ggpp 0.6.1
 ggprism 1.0.7
 ggpubr 1.0.0
@@ -9860,6 +9866,7 @@ iNEXT.beta3D 1.0.2
 infectiousR 0.1.1
 infer 1.1.0
 inferCSN 1.2.0
+inferencer 0.1.4.5
 InferenceSMR 1.0.2
 inferference 1.0.3
 inferMM 0.0.3
@@ -10186,6 +10193,7 @@ isopam 3.6
 isopleuros 1.4.0
 IsoplotR 6.8
 IsoplotRgui 6.8
+isoreader2 0.6.1
 IsoriX 0.9.4
 IsoSpecR 2.3.3
 isoSurv 0.3.0
@@ -10392,6 +10400,7 @@ JPEN 1.0
 jpgrid 0.4.0
 jpinfect 2024.2026.18
 jpmap 0.1.3
+jpmapdata 0.1.0
 jpmesh 2.1.0
 jpstat 0.4.0
 JPSurv 3.0.20
@@ -14376,6 +14385,7 @@ oolong 0.7.0
 oompaBase 3.2.11
 oompaData 3.1.5
 OOR 0.1.4
+OORRT 0.1.0
 oosse 1.0.11
 oottest 0.9.1
 opa 0.8.3
@@ -16447,6 +16457,7 @@ pxR 0.42.8
 pxweb 0.17.0
 PxWebApiData 1.9.0
 pycno 1.4.1
+pycnogrid 0.2.0
 pye 0.1.0
 pyinit 1.1.5
 pylintR 0.1.0
@@ -17784,6 +17795,7 @@ reticulate 1.46.0
 retimer 0.1.3
 retistruct 0.8.1
 retmort 1.0.0
+retraction 0.1.0
 retriever 0.2.1
 retrodesign 0.2.2
 retroharmonize 0.2.8
@@ -19086,6 +19098,7 @@ safestats 0.8.7
 safetensors 0.2.1
 safetyData 1.0.0
 SafeVote 1.0.2
+safuzzy 0.1.1
 sageR 0.7.0
 SAGM 1.0.0
 SAGMM 0.2.5
@@ -19463,6 +19476,7 @@ SeaGraphs 0.1.3
 SEAHORS 1.9.0
 seairmobility 0.1.0
 sealasso 0.1-3
+sealeveltools 0.3.0
 searchAnalyzeR 0.1.0
 searcher 0.0.7
 SearchTrees 0.5.5
@@ -20750,6 +20764,7 @@ spBPS 2.0-1
 Spbsampling 1.3.5
 spc 0.7.2
 spc4sts 0.6.5
+spca 1.1.1
 spcadjust 1.1
 SPCALDA 1.0
 spCF 0.1.2
@@ -21254,6 +21269,7 @@ StepRegShiny 1.6.1
 steprf 1.0.2
 stepSplitReg 1.0.5
 stepssurvey 0.1.0
+stepwedgepower 0.1.0
 StepwiseTest 1.0
 StereoMorph 1.6.7
 stevedata 1.8.0
@@ -21655,6 +21671,7 @@ svylme 1.5-1
 svymargins 0.1.0
 SvyNom 1.2
 svyROC 1.1.0
+svySE 0.1.0
 svytest 1.1.0
 svyVarSel 1.0.1
 svyVGAM 1.3
@@ -22753,6 +22770,7 @@ trps 0.1.0
 TrtCombo.FactorialExp.SR 4.0.4
 trtf 0.4-3
 trtswitch 0.2.7
+truchet 0.0.1.1
 trud 0.2.1
 truelies 0.2.0
 TrueSkillThroughTime 1.0.0
@@ -23296,7 +23314,7 @@ varTestnlme 1.3.5
 VARtests 2.0.7
 varycoef 0.3.6
 vasicek 0.0.3
-vasicekfit 0.1.0
+vasicekfit 0.2.0
 vasicekreg 1.0.2
 vaster 0.6.0
 vatcheckapi 0.1.0

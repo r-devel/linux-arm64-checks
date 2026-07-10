@@ -837,7 +837,7 @@ aspect 1.0-7
 aspi 0.2.0
 aspline 0.2.0
 aSPU 1.50
-asremlPlus 4.4.58
+asremlPlus 4.4.63
 ASRgenomics 1.1.6
 ASSA 2.0
 assemblykor 0.1.2
@@ -1140,7 +1140,6 @@ bartXViz 1.0.11
 baRulho 2.1.6
 BAS 2.0.2
 basad 0.3.0
-base.rms 1.0
 base64 2.0.2
 base64enc 0.1-6
 base64url 1.4
@@ -1620,7 +1619,6 @@ bigPLScox 0.8.1
 bigPLSR 0.7.2
 BIGpopA 1.0.5
 bigQF 1.6
-BigQuic 1.1-13
 BIGr 0.7.2
 bigreadr 0.2.5
 bigReg 0.1.5
@@ -3442,7 +3440,7 @@ competitiontoolbox 0.7.1
 CompExpDes 1.0.9
 CompGR 0.1.3
 comphy 1.0.5
-Compind 3.5
+Compind 3.6
 compIndexBuilder 1.0.0
 compindexR 0.1.4
 compindPCA 0.1.0
@@ -4154,7 +4152,6 @@ customknitrender 1.0.2
 CustosAscensor 0.1.0
 cusumcharter 0.1.0
 CUSUMdesign 1.1.8
-cutoff 1.3
 CUtools 0.1.0
 cutpoint 1.0.0
 cutpointr 1.2.1
@@ -5083,7 +5080,6 @@ DNMF 1.4.2
 dnn 0.0.7
 DNNSIM 0.1.1
 dnr 0.3.6
-do 2.0.0.1
 do3PCA 1.0.0
 dobin 1.0.5
 dobson 0.4
@@ -7262,7 +7258,6 @@ fredr 2.1.0
 free 1.0.2
 free1way.docreg 1.0-2
 freealg 1.1-8
-freebird 1.0
 freebsdcontribs 0.1.0
 freecurrencyapi 0.1.0
 freedom 1.0.1
@@ -7434,7 +7429,6 @@ fuzzyjoin 0.1.8
 fuzzylink 0.4.1
 FuzzyM 0.1.0
 FuzzyNumbers 0.4-7
-FuzzyNumbers.Ext.2 3.2
 FuzzyPovertyR 3.0.2
 FuzzyQ 0.1.0
 FuzzyR 2.3.2
@@ -8126,7 +8120,6 @@ ggrepel 0.9.8
 ggreveal 0.2.0
 GGRidge 1.1.0
 ggridges 0.5.7
-ggrisk 1.3
 ggrounded 0.2.0
 ggroups 2.1.2
 ggRtsy 1.2.1
@@ -8523,7 +8516,7 @@ GPArotateDF 2026.6-1
 GPArotation 2026.6-1
 GPBayes 0.1.0-6
 gpbiometrics 0.1.0
-gpboost 1.6.8
+gpboost 1.7.0
 gpbStat 0.4.4
 GPCMlasso 0.1-9
 gpcp 0.1.0
@@ -8570,7 +8563,6 @@ gquad 2.1-2
 GRAB 0.2.5
 grabsampling 1.0.0
 GrabSVG 0.0.2
-Grace 0.5.3
 grade 0.2-1
 gradeR 2.0.1
 graDiEnt 1.0.1
@@ -9008,7 +9000,6 @@ hdflex 0.3.2
 hdfqlr 0.6-2
 hdftsa 1.1
 HDGLM 0.1
-hdi 0.1-10
 hdImpute 0.2.1
 HDInterval 0.2.4
 hdiVAR 1.0.2
@@ -9193,7 +9184,6 @@ hilbertSimilarity 0.4.4
 hildareadR 0.2.0
 hillR 0.5.2
 hillshader 0.1.2
-HIMA 2.3.3
 himach 1.0.1
 hindexcalculator 1.0.0
 hint 0.1-3
@@ -9858,7 +9848,6 @@ ineq.2d 0.1.0
 ineqJD 1.0
 inequality 0.1.0
 inequantiles 0.1.0
-inet 0.1.0
 INetTool 0.1.2
 iNEXT 3.0.2
 iNEXT.3D 1.0.12
@@ -11022,7 +11011,6 @@ LFDREmpiricalBayes 1.0
 lfe 3.1.1
 lfebd3 0.2.0
 lfl 2.4.0
-LFM 0.3.4
 lfmm 1.1
 lfproQC 1.4.3
 lfstat 0.9.13
@@ -11983,7 +11971,7 @@ mda 0.5-5
 mda.biber 1.0.1
 mDAG 1.2.3
 mdatools 0.16.0
-mdbplyr 0.4.0
+mdbplyr 0.4.1
 mdbr 0.3.1
 MDCcure 0.1.0
 MDDC 1.1.0
@@ -13114,7 +13102,6 @@ MSGARCH 2.51
 MSGARCHelm 0.1.0
 msgps 1.3.5
 msgr 1.1.2
-msig 1.0
 msigdbr 26.1.0
 mSigPlot 2.0.38
 MSigSeg 0.2.0
@@ -13960,7 +13947,6 @@ nomisdata 0.1.2
 nomiShape 1.0.2
 nomnoml 0.3.0
 nomogramEx 3.0
-nomogramFormula 1.2.0.0
 nonabsdid 0.4.1
 NonCompart 0.8.1
 noncompliance 0.2.2
@@ -15612,7 +15598,6 @@ pls 2.9-0
 plsdepot 0.3.1
 plsdof 0.5-0
 plsgenomics 1.5-3
-plsmmLasso 1.1.0
 plsmod 1.0.0
 plsmselect 0.2.0
 plspm 0.6.0
@@ -16873,7 +16858,7 @@ rairtable 0.1.2
 RaJIVE 1.0
 rakeR 0.2.1
 ralger 2.3.0
-RALSA 1.6.6
+RALSA 1.7.0
 Ramble 0.1.1
 rAmCharts 2.1.16
 rAmCharts4 1.6.0
@@ -17234,7 +17219,6 @@ RcppBessel 1.0.1
 RcppBigIntAlgos 1.1.0
 RcppBlaze 1.0.2
 RcppCCTZ 0.2.14
-RcppCensSpatial 1.0.0
 RcppCGAL 6.1
 RcppClassic 0.9.14
 RcppClassicExamples 0.1.4
@@ -17630,7 +17614,6 @@ reliaR 0.2
 ReliaShiny 0.5
 relimp 1.0-5
 RelimpPCR 0.3.0
-relliptical 1.4.0
 relMix 1.4.1
 relSim 1.0.0
 relsurv 2.3-3
@@ -19252,7 +19235,6 @@ scaledescr 0.2.7
 Scalelink 1.0-2
 scales 1.4.0
 ScaleSpikeSlab 1.0
-scalreg 1.0.1
 scam 1.2-22
 scan 0.68.1
 scanCP 0.1.0
@@ -19703,7 +19685,6 @@ SEset 1.0.1
 SESraster 0.7.1
 sessioncheck 0.1
 sessioninfo 1.2.4
-set 1.2
 setariaviridis 0.1.0
 setartree 0.2.1
 SetMethods 4.1
@@ -20052,7 +20033,6 @@ SILGGM 1.0.0
 Silhouette 0.9.6
 silicate 0.7.1
 SillyPutty 0.4.2
-SILM 1.0.0
 silp 1.0.3
 silviculture 0.2.0
 sim.BA 0.1.0
@@ -22127,7 +22107,7 @@ TFORGE 0.1.17
 tfprobability 0.15.2
 tframe 2015.12-1.1
 TFRE 0.1.0
-tfrmt 0.3.0
+tfrmt 0.4.0
 tfrmtbuilder 0.1.1
 tfruns 1.5.4
 TFunHDDC 1.0.2
@@ -22461,7 +22441,6 @@ tmapverse 0.1.0
 TMB 1.9.21
 tmbstan 1.1.0
 TmCalculator 1.0.7
-tmcn 0.2-13
 TMDb 1.1
 tmfast 0.1.1
 Tmisc 1.0.1
@@ -22545,7 +22524,6 @@ tosca 0.3-4
 toscca 1.0
 toscmask 1.2.3
 toscutil 2.8.0
-TOSI 0.3.0
 tost.suite 3.1.9
 TOSTER 0.8.6
 totalcensus 0.6.6

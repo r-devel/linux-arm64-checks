@@ -16331,9 +16331,9 @@ psychmeta 2.7.0
 psycho 0.6.2
 PsychoMatic 0.3.0
 psychometric 2.4
-psychomix 1.1-9
+psychomix 1.1-10
 psychonetrics 0.15
-psychotools 0.7-6
+psychotools 0.7-7
 psychotree 0.16-2
 psychReport 4.0.1
 psychrolib 2.5.2
@@ -16628,7 +16628,7 @@ quadcleanR 1.1.0
 quadform 0.0-4
 quadkeyr 0.1.0
 quadmatrix 0.1.0
-quadmesh 0.5.5
+quadmesh 0.6.0
 quadprog 1.5-8
 quadprogXT 0.0.6
 quadraticSD 0.1.0
@@ -18649,7 +18649,7 @@ rQSAR 1.0.0
 rqti 1.2.1
 Rquake 2.5-1
 rqualify 1.0.2
-RQuantLib 0.4.27
+RQuantLib 0.4.28
 Rquefts 1.2-8
 rquery 1.4.99
 rquest 1.0.5

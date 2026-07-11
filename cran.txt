@@ -14418,7 +14418,7 @@ OpEnCAST 0.1.1
 opencesp 0.4.0
 opencis 0.1.1
 OpenCL 0.2-11
-opencltools 0.8.1
+opencltools 0.8.2
 opencpu 2.2.15
 openCR 2.2.7
 opencv 0.5.2
@@ -18146,7 +18146,7 @@ rLFT 1.0.1
 Rlgt 0.2-3
 Rlibeemd 1.4.4
 Rlibkdv 1.1
-rlibkriging 1.0-0
+rlibkriging 1.1-0
 rLifting 1.0.0
 rliger 2.2.1
 Rlinkedin 0.2
@@ -22681,7 +22681,7 @@ trawl 0.2.2
 trc 0.2
 TRD 1.1
 trdist 1.0.1
-treasury 0.5.0
+treasury 0.6.0
 TreatmentPatterns 3.1.2
 treats 1.1.6
 TREDesigns 1.0.1

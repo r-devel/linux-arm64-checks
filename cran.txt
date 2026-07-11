@@ -9916,7 +9916,7 @@ INLAjoint 26.6.2
 inlamemi 1.1.0
 INLAspacetime 0.1.14
 INLAtools 0.1.4
-INLAvaan 0.2.5
+INLAvaan 0.3.0
 inlcolor 1.0.6
 inline 0.3.21
 inlinedocs 2023.9.4

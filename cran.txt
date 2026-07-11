@@ -1329,6 +1329,7 @@ BayesSIM 1.0.4
 bayesSSM 0.7.1
 BayesSUR 2.3-3
 bayesSurv 3.8
+BayesSurveillance 0.0.2
 BayesSurvival 0.2.0
 BayesSurvive 0.1.0
 bayest 1.5
@@ -1509,7 +1510,7 @@ betaper 1.1-3
 betareg 3.2-4
 betaregscale 2.6.9
 betaSandwich 1.0.9
-betaselectr 0.2.1
+betaselectr 0.2.2
 betaStability 0.0.4
 betategarch 3.4
 bethel 0.2
@@ -1584,6 +1585,7 @@ bidsr 0.1.1
 bidux 0.4.0
 BIEN 1.2.8
 BifactorIndicesCalculator 0.2.2
+bifactory 0.5.1
 bife 0.7.3
 BIFIEsurvey 3.8.0
 bifrost 0.1.4
@@ -2801,6 +2803,7 @@ chess 1.0.1
 chess2plyrs 0.3.0
 chessboard 0.1
 ChessGmooG 0.1.0
+chessResults 2026.07.05
 chest 0.3.7
 ChestVolume 1.0.1
 chevron 0.2.12
@@ -6321,6 +6324,7 @@ exif 0.1.1
 exifr 0.3.2
 exiftoolr 0.2.8
 ExNRuleEnsemble 0.1.1
+exoplanetdata 0.1.0
 ExpAnalysis3d 0.1.3
 ExPanDaR 0.5.3
 EXPAR 0.1.0
@@ -7573,6 +7577,7 @@ GB2 2.1.2
 GB2group 0.3.0
 GB5mcPred 0.1.0
 GBASS 2.0.1
+gbcrosswalk 0.0.5
 gbeta 0.1.0
 gbfs 1.3.10
 gbifdb 1.0.0
@@ -7966,6 +7971,7 @@ ggcharts 0.2.1
 ggChernoff 0.3.0
 ggChinaFlag 0.2.0
 ggchord 0.2.0
+ggchord2 0.0.1
 ggcircular 0.1.0
 GGClassification 0.1
 ggcleveland 0.1.0
@@ -10885,6 +10891,7 @@ lboxcox 1.2
 LBPG 0.1.2
 lbreg 1.3
 LBSPR 0.1.6
+lbugr 0.1.1
 LCAextend 1.3
 lcars 0.4.1
 lcc 3.2.2
@@ -12707,6 +12714,7 @@ mlsbm 0.99.2
 mlsjunkgen 0.1.2
 MLSP 0.1.0
 mlspatial 0.1.1
+mlstats 0.1.0
 mlstm 0.1.7
 mlstrOpalr 1.0.3
 mlsurvlrnrs 0.0.8
@@ -15258,6 +15266,7 @@ pfica 0.1.3
 PFIM 7.0.3
 PFLR 1.1.0
 pfr 1.0.1
+pft 1.0.1
 PFW 0.1.0
 pfwim 1.0.2
 pg 0.2.4
@@ -18477,6 +18486,7 @@ rollbar 0.1.0
 rolldown 0.2
 rolleigen 1.0.0
 rollinglda 0.1.4
+rolloptim 1.0.0
 rollout 0.1.0
 rollshap 1.0.1
 rollup 0.1.0
@@ -19080,6 +19090,7 @@ saekernel 0.1.1
 saeME 1.3.1
 saemix 3.5
 saens 0.1.2
+saeproj.multilevel 0.1.0
 saePseudo 0.1.0
 saeRobust 0.5.0
 saery 2.0
@@ -19447,6 +19458,7 @@ sdf.test 0.0.1.0
 SDGdetector 2.7.3
 SDGLM 0.4.0
 SDI 0.1.0
+sdim 0.1.0
 SDLfilter 2.3.3
 sdlrm 0.1.2
 sdm 1.2-59
@@ -20512,7 +20524,7 @@ SOIL 1.1
 soilassessment 1.3.1
 soilchemistry 0.1.0
 SoilConservation 1.0.1
-soilDB 2.9.1
+soilDB 2.9.2
 SoilFDA 0.1.0
 soilFlux 0.1.5
 soilfoodwebs 1.0.2
@@ -22156,6 +22168,7 @@ theiaR 0.4.0
 thematic 0.1.8
 themis 1.0.3
 TheOpenAIR 0.1.0
+TheOrdinals 0.1.0
 theorytools 0.1.3
 theRefdate 1.0.0
 ThermalSampleR 0.1.2
@@ -22824,6 +22837,7 @@ TSE 0.1.0
 TSEAL 0.1.5
 tseffects 0.2.1
 TSEind 0.1.0
+tseLCA 1.0.2
 tsensembler 0.1.0
 tsentiment 1.0.5
 TSEntropies 0.9
@@ -23541,6 +23555,7 @@ voigt 2.0
 vol2birdR 1.3.0
 volatilityTrader 1.0.1
 volcano3D 2.0.11
+volcanoes 0.1.1
 volcanoPlot 1.0.0
 volesti 1.1.2-10
 volker 3.3.1

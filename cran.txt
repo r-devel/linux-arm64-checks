@@ -452,7 +452,7 @@ alpaca 0.3.5
 alpha.correction.bh 0.1.0
 alphabetr 0.2.2
 alphahull 2.5
-alphaN 0.1.2
+alphaN 0.2.0
 alphaOutlier 1.2.2
 AlphaPart 0.9.8
 alphashape3d 1.3.3
@@ -4312,7 +4312,7 @@ DataCraftR 0.3.2
 datacult 0.1.0
 datacutr 0.2.4
 datadictionary 1.0.1
-datadiff 0.5.0
+datadiff 0.6.0
 DataDNA 0.1.0
 datadogr 0.1.2
 datadriftR 1.1.0
@@ -10183,7 +10183,7 @@ isoband 0.3.0
 isoboost 1.0.2
 isobxr 2.0.0
 isocalcR 0.1.1
-isocat 1.0.0
+isocat 1.0.1
 isocir 2.1
 ISOcodes 2026.03.28
 IsoCor 0.2.8
@@ -13448,7 +13448,7 @@ mvSUSY 0.1.0
 MVT 0.3-81
 MVTests 2.3.1
 mvtmeta 1.1
-mvtnorm 1.4-1
+mvtnorm 1.4-2
 mvtsplot 1.0-5
 mvtweedie 1.2.0
 mvvg 0.1.0
@@ -13618,7 +13618,7 @@ Neighboot 1.0.1
 NeighborFinder 1.0.1
 neighbours 0.1-5
 neldermead 1.0-13
-Nematode 0.3.0
+Nematode 0.3.1
 nemBM 1.00.01
 nemoR 0.99.3
 nemsqar 1.2.1
@@ -17273,7 +17273,7 @@ RcppHungarian 0.3
 RcppInt64 0.0.5
 RcppJagger 0.0.2
 RcppMagicEnum 0.0.1
-RcppMeCab 0.0.1.5
+RcppMeCab 0.0.1.6
 RcppML 0.3.7.1
 rcppmlpackexamples 0.0.1
 RcppMsgPack 0.2.4
@@ -17720,7 +17720,7 @@ represent 1.0.1
 representr 0.1.6
 represtools 0.1.3
 reprex 2.1.1
-reproducer 0.6.0
+reproducer 0.7.0
 reproducible 3.1.1
 reproducibleRchunks 1.2.0
 reproducr 0.2.0
@@ -21724,7 +21724,7 @@ switchSelection 2.1.0
 swjm 0.1.0
 SWMPr 2.5.2
 SwPcIndex 0.1.0
-SWTools 1.1.0
+SWTools 1.1.1
 sylcount 0.2-6
 syllabifyr 0.1.1
 syllogi 1.0.5
@@ -21873,6 +21873,7 @@ tapnet 0.6
 TAQMNGR 2018.5-1
 TAR 1.0
 tarchetypes 0.14.1
+tarchives 0.2.0
 tardis 0.1.5
 targeted 0.7.1
 targets 1.12.0

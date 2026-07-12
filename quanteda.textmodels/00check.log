@@ -6,7 +6,7 @@
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-07-05 02:40:53 UTC
+* current time: 2026-07-12 02:24:35 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘quanteda.textmodels/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -23,7 +23,7 @@
 * checking whether package ‘quanteda.textmodels’ can be installed ... OK
 * used C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
 * checking installed package size ... INFO
-  installed size is  9.3Mb
+  installed size is  9.2Mb
   sub-directories of 1Mb or more:
     data   3.8Mb
     libs   5.1Mb

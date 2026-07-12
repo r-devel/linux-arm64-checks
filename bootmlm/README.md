@@ -1,6 +1,6 @@
 # bootmlm 0.1.1
 
-Latest run: 2026-07-05: https://github.com/r-devel/linux-arm64-checks/actions/runs/28726828405
+Latest run: 2026-07-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/29176261191
 
 ```
 Package: bootmlm

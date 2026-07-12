@@ -2943,7 +2943,7 @@ CITMIC 0.1.3
 cito 1.1
 ciTools 0.6.1
 citrus 1.0.2
-citsr 0.1.3
+citsr 0.1.4
 ciu 0.8
 ciuupi 1.2.4
 ciuupi2 1.0.2
@@ -3697,7 +3697,7 @@ corels 0.0.5
 CoreMicrobiomeR 0.1.0
 coreNLP 0.4-3
 coreSim 0.2.4
-coresynth 0.2.4
+coresynth 0.3.0
 corHMM 2.8
 corkscrew 1.1
 corlink 1.0.0
@@ -12919,7 +12919,7 @@ MonotonicityTest 1.3
 monreg 0.1.4.1
 Monte.Carlo.se 0.1.1
 MonteCarloSEM 2.0.0
-moocore 0.3.1
+moocore 0.3.2
 MOODE 1.1.0
 moodef 1.2.0
 moodlequiz 0.2.1
@@ -13685,7 +13685,7 @@ NetSci 1.0.1
 netseer 0.1.3
 netseg 1.0-3
 netSEM 0.7.0
-NetSimR 0.1.5
+NetSimR 0.1.6
 netstat 0.1.2
 netsubsamp 1.0.0
 NetSurvProx 1.0.0
@@ -18146,7 +18146,7 @@ rLFT 1.0.1
 Rlgt 0.2-3
 Rlibeemd 1.4.4
 Rlibkdv 1.1
-rlibkriging 1.1-0
+rlibkriging 1.1-1
 rLifting 1.0.0
 rliger 2.2.1
 Rlinkedin 0.2
@@ -18878,6 +18878,7 @@ rTephra 0.1
 rtern 0.1.2
 rtestim 1.0.2
 RTextTools 1.4.3
+rtf 0.4-15
 RTFA 0.1.0
 rtForecastEval 0.1.0
 rTG 1.0.4
@@ -21229,7 +21230,7 @@ statsearchanalyticsr 0.1.4
 statsExpressions 2.0.0
 statsr 0.3.0
 StatsTFLValR 1.0.0
-statswalesr 0.2.0
+statswalesr 1.0.0
 StatTeacherAssistant 0.0.3
 StatTools 0.1.1
 statuser 0.3.1
@@ -22432,7 +22433,7 @@ tipsae 1.0.3
 tipse 2.0
 tirt 0.3.1
 tis 1.39
-tissot 0.2.0
+tissot 0.3.0
 TITAN2 2.4.4
 titanic 0.1.0
 TITEgBOIN 0.4.0

@@ -1,6 +1,6 @@
 # profoc 1.3.4
 
-Latest run: 2026-07-05: https://github.com/r-devel/linux-arm64-checks/actions/runs/28727095584
+Latest run: 2026-07-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/29176568399
 
 ```
 Package: profoc

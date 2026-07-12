@@ -1507,7 +1507,7 @@ betaNB 1.0.7
 betapart 1.6.1
 BetaPASS 1.1-2
 betaper 1.1-3
-betareg 3.2-4
+betareg 3.2-5
 betaregscale 2.6.9
 betaSandwich 1.0.9
 betaselectr 0.2.2
@@ -3888,7 +3888,7 @@ cpp11bigwig 0.3.1
 cpp11eigen 0.2.0
 cpp11qpdf 1.3.5
 cpp4r 1.0.0
-cppally 1.0.0
+cppally 1.1.0
 cppcheckR 1.0.0
 cppcontainers 1.0.5
 cppdoubles 0.4.0

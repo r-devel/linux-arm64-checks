@@ -12059,7 +12059,7 @@ MedianaDesigner 0.13
 mediateP 0.2.0
 mediation 4.5.1
 mediationsens 0.0.3
-medicalcoder 0.8.1
+medicalcoder 0.9.0
 medicaldata 0.2.0
 medicare 0.2.1
 meditations 1.0.1
@@ -21219,7 +21219,7 @@ statnetWeb 0.6.1
 statnipokladna 0.7.7
 StatPerMeCo 0.1.0
 statprograms 0.3.0
-statpsych 1.9.0
+statpsych 2.0.0
 statquotes 0.3.3
 StatRank 0.0.6
 StatRec 1.0.0

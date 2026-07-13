@@ -10364,7 +10364,7 @@ jmuOutlier 2.2
 jmv 2.8.0
 jmvconnect 2.5.7
 jmvcore 2.7.35
-jmvReadWrite 0.4.13
+jmvReadWrite 0.4.14
 JNplots 0.1.2
 job 0.3.1
 jobqueue 1.7.0
@@ -15225,7 +15225,7 @@ perms 1.14
 permubiome 1.3.2
 permuco 1.1.3
 PermutationR 0.1.0
-permutations 1.1-6
+permutations 1.1-9-1
 permute 0.9-10
 permutes 2.8
 permutest 1.0.0
@@ -16300,7 +16300,7 @@ psidR 2.3
 psidread 1.0.7
 PSIM 0.1.0
 PSIndependenceTest 0.0.1
-PSinference 0.2.2
+PSinference 1.0.0
 PsiUEngineRL 0.1.3
 PSLM2015 0.2.0
 pslr 1.0.1
@@ -20007,7 +20007,7 @@ shrinkDSM 1.0.2
 shrinkem 0.3.0
 shrinkGPR 2.0.0
 shrinkr 0.4.5
-shrinkTVP 3.1.1
+shrinkTVP 3.1.2
 shrinkTVPVAR 1.0.1
 shroomDK 0.3.0
 SHT 0.1.9

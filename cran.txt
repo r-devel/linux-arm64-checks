@@ -1892,7 +1892,7 @@ bmass 1.0.3
 bmco 0.1.0
 BMconcor 2.0.0
 bmem 2.2
-BMEmapping 1.2.2
+BMEmapping 2.0.0
 bmemLavaan 0.7
 bmet 0.1.0
 bmgarch 2.1.0
@@ -2133,16 +2133,16 @@ Brq 3.0
 BRRAT 0.0.2
 brsim 0.3
 bruceR 2026.1
-brulee 1.1.0
+brulee 1.1.1
 bruneimap 0.3.1
 brunnermunzel 2.0
 brxx 0.1.2
 bs4cards 0.1.1
 bs4Dash 2.3.5
-bs4Dashkit 0.2.0
+bs4Dashkit 0.3.0
 BSagri 0.1-10
 bsamGP 1.2.7
-BSCB 1.0.0
+BSCB 1.0.1
 bscui 0.1.6
 BSDA 1.2.2
 bsearchtools 0.0.61
@@ -2960,7 +2960,7 @@ ckanr 0.7.0
 CKAT 0.1.0
 CKLRT 0.2.3
 Ckmeans.1d.dp 4.3.5
-CKNNRLD 0.2.0
+CKNNRLD 0.2.2
 CLA 0.96-3
 Claddis 0.7.0
 cladoRcpp 0.15.1
@@ -3458,6 +3458,7 @@ complexNet 0.2.0
 complexr 1.0.1
 ComplexUpset 1.3.3
 complmrob 0.7.1
+CompMix 1.1.0
 CompModels 0.3.0
 COMPoissonReg 0.8.1
 CompositeReliability 1.0.3
@@ -3865,7 +3866,7 @@ CPC 2.6.2
 CPCAT 1.0.0
 cpd 0.3.3
 CPE 1.6.3
-cpfa 1.3.0
+cpfa 1.3.1
 CpGassoc 2.70
 CpGFilter 1.1
 cpgfR 0.0.1.0
@@ -8991,7 +8992,7 @@ HCR 0.1.1
 hcruR 1.0.0
 HCTDesign 0.7.4
 hctrial 0.1.0
-HCUPtools 1.0.1
+HCUPtools 1.0.2
 hda 0.2-14
 HDANOVA 0.8.5
 hdar 1.0.7
@@ -9098,7 +9099,7 @@ HelpersMG 2026.3.31
 helsinki 1.0.6
 hemat 1.1.3
 hemispheR 1.1.8
-henna 0.7.5
+henna 0.8.5
 heplots 1.8.1
 hera 0.1.1
 here 1.0.2
@@ -10876,7 +10877,7 @@ lay 0.1.3
 layer 0.0.4
 lazyData 1.1.0
 lazyeval 0.2.3
-lazysf 0.3.0
+lazysf 0.4.0
 lazysql 0.1.3
 lazytrade 0.5.4
 lba 2.4.52
@@ -11172,7 +11173,7 @@ listarrays 0.4.0
 listcomp 0.4.1
 listcompr 0.4.0
 listenv 1.0.0
-LISTO 0.7.3
+LISTO 0.8.1
 listr 0.1.0
 listviewer 4.0.0
 listWithDefaults 1.2.0
@@ -15499,7 +15500,7 @@ pkgdepends 0.9.1
 pkgdepR 1.1.1
 pkgdiff 1.0.3
 pkgdown 2.2.1
-pkgdown.offline 0.1.2
+pkgdown.offline 0.1.3
 pkgfilecache 0.1.5
 pkggraph 0.3.1
 pkgGraphR 0.3.1
@@ -16721,7 +16722,7 @@ quickpsy 0.1.5.2
 quickPWCR 1.2
 quickr 0.3.0
 quickregression 0.2
-quickSentiment 0.3.4
+quickSentiment 0.3.5
 QuICSeedR 0.1.2
 quid 0.0.1
 quiddich 1.0.0
@@ -17258,7 +17259,6 @@ RcppDist 0.1.1.1
 RcppDPR 0.1.10
 RcppDynProg 0.2.1
 RcppEigen 0.3.4.0.2
-RcppEigenAD 1.1.0
 RcppEnsmallen 0.3.10.0.1
 RcppExamples 0.1.10
 RcppFarmHash 0.0.3
@@ -18087,7 +18087,7 @@ rJavaEnv 0.3.0
 rjd3bench 3.1.2
 rjd3jars 0.0.5
 rjd3production 1.1.0
-rjd3providers 3.7.1
+rjd3providers 3.8.0
 rjd3toolkit 3.8.0
 rjd3tramoseats 3.8.0
 rjd3workspace 3.7.1
@@ -18306,7 +18306,7 @@ rngWELL 0.10-10
 RNifti 1.9.0
 RNiftyReg 2.8.5
 Rnightly 0.1.0
-rnmamod 0.5.0
+rnmamod 0.5.1
 Rnmr1D 1.3.2
 rnn 1.9.1
 rnndescent 0.2.0
@@ -18653,7 +18653,7 @@ rQCC 2.22.12
 rqdatatable 1.3.3
 RQdeltaCT 1.3.3
 RQEntangle 0.1.3
-rqlm 4.3-2
+rqlm 4.4-1
 rqPen 4.2
 rQSAR 1.0.0
 rqti 1.2.1

@@ -1264,7 +1264,7 @@ bayesiansurpriser 0.1.0
 BayesianTools 0.1.9
 Bayesiantreg 1.0.1
 bayesianVARs 0.1.8
-bayesics 2.1.1
+bayesics 3.0.0
 bayesImageS 0.7-1
 BayesLCA 1.9
 bayesLife 5.3-1
@@ -9391,7 +9391,7 @@ httptest 4.2.3
 httptest2 1.2.2
 httpuv 1.6.17
 httr 1.4.8
-httr2 1.2.3
+httr2 1.3.0
 hubeau 0.5.2
 hubEnsembles 1.0.0
 hubEvals 0.3.0
@@ -13157,7 +13157,7 @@ mStats 3.4.0
 mstclustering 1.0.0.0
 mstDIF 0.1.8
 mSTEM 1.0-1
-MSTest 0.1.8
+MSTest 0.1.9
 mstherm 0.4.7
 mstknnclust 1.0.0
 mstudentd 1.1.2
@@ -14306,7 +14306,7 @@ ollamar 1.2.2
 ollg 1.0.0
 ollggamma 1.0.2
 olr 1.2
-OLSengine 1.0.0
+OLSengine 1.1.0
 olsrr 0.7.0
 OLStrajr 0.1.0
 OlympicRshiny 1.0.2
@@ -15262,7 +15262,7 @@ pewdata 0.3.2
 pexm 1.1.3
 pez 1.2-5
 PFCI 0.1.1
-pfclust 0.1.0
+pfclust 0.1.1
 pfica 0.1.3
 PFIM 7.0.3
 PFLR 1.1.0
@@ -16260,7 +16260,7 @@ prrd 0.0.6
 PRROC 1.4
 pRSR 3.1.1
 prt 0.2.1
-PRTree 1.0.3
+PRTree 1.1.0
 prWarp 1.0.1
 Przewodnik 0.16.12
 ps 1.9.3
@@ -17232,7 +17232,7 @@ Rcope 1.0.0
 rCoreGage 1.1.0
 rCoros 0.1.0
 rcorpora 2.0.1
-RCPA 0.2.8
+RCPA 0.2.9
 RCPA3 1.3.1
 Rcplex 0.3-8
 Rcpp 1.1.2
@@ -20865,7 +20865,7 @@ sphunif 1.4.4
 SpiceFP 0.1.2
 SPIChanges 0.2.1
 spicy 0.12.0
-spider 1.5.2
+spider 1.5.3
 spiderbar 0.2.5
 spidR 1.0.2
 spikes 1.1
@@ -21496,7 +21496,7 @@ SuperCell 1.1
 supercells 1.0.0
 supercompress 1.1
 superdiag 2.0
-SuperExactTest 1.1.0
+SuperExactTest 1.2.0
 SuperGauss 2.0.4
 SuperLearner 2.0-40
 supernova 3.0.2
@@ -23795,7 +23795,7 @@ wesanderson 0.3.7
 Westerlund 0.1.3
 wevid 0.7.0
 wex 0.1.1
-weyl 0.0-7
+weyl 0.0-8
 wf 0.0.1
 wfe 1.9.1
 wfg 0.1

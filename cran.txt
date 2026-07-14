@@ -2581,7 +2581,7 @@ CCWeights 0.1.6
 cd 0.1.0
 cdata 1.2.1
 CDatanet 2.2.2
-cdcanthro 0.2.0
+cdcanthro 0.2.1
 cdCAT 0.1.0
 cdcatR 1.0.7
 CDCPLACES 1.2.2
@@ -4105,7 +4105,7 @@ ctsemOMX 2.0.1
 ctsfeatures 1.2.2
 CTShiny 0.1.0
 CTShiny2 0.1.0
-ctsmTMB 1.0.1
+ctsmTMB 1.1.1
 CTT 2.3.4
 CTTShiny 0.1
 CTTvis 0.1.1
@@ -7970,7 +7970,7 @@ ggbuildr 0.1.0
 ggchangepoint 0.3.0
 ggcharts 0.2.1
 ggChernoff 0.3.0
-ggChinaFlag 0.2.0
+ggChinaFlag 0.3.0
 ggchord 0.2.0
 ggchord2 0.0.1
 ggcircular 0.1.0
@@ -11400,7 +11400,7 @@ lorentz 1.1-2
 LorenzRegression 2.3.1
 lori 2.2.3
 LorMe 2.0.2
-LOST 2.1.3
+LOST 2.1.4
 lotri 1.0.4
 LoTTA 0.1.1
 lovecraftr 1.2.0
@@ -11560,7 +11560,7 @@ MaddisonData 1.1.0
 madgrad 0.2.0
 maditr 0.8.7
 MADMMplasso 1.0.1
-madness 0.2.8
+madness 0.2.9
 MADPop 1.1.7
 madrat 3.37.1
 madshapR 2.0.0
@@ -16086,7 +16086,7 @@ primes 1.6.1
 princurve 2.1.6
 PrInDT 2.0.2
 prinsurf 1.0
-printify 1.0.2
+printify 1.0.3
 printr 0.3
 printtree 0.2.1
 prinvars 1.0.0

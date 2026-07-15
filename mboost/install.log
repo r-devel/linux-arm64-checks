@@ -1,0 +1,23 @@
+* installing *source* package ‘mboost’ ...
+** this is package ‘mboost’ version ‘2.9-12’
+** package ‘mboost’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=/usr/src/r-base-4.6.1-1.2604.1 -Wdate-time -D_FORTIFY_SOURCE=3  -c init.c -o init.o
+aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG       -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=/usr/src/r-base-4.6.1-1.2604.1 -Wdate-time -D_FORTIFY_SOURCE=3  -c mboost.c -o mboost.o
+aarch64-linux-gnu-gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.6.1-1.2604.1%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -o mboost.so init.o mboost.o -lblas -lgfortran -lm -L/usr/lib/R/lib -lR
+installing to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-mboost/00new/mboost/libs
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (mboost)

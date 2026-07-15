@@ -2441,7 +2441,7 @@ casimir 0.3.3
 CASMI 2.0.0
 cassandRa 0.2.0
 cassowaryr 2.0.2
-CAST 1.1.0
+CAST 1.1.1
 castgen 1.0.2
 castor 1.8.5
 cat 0.0-9
@@ -7272,7 +7272,7 @@ freealg 1.1-8
 freebsdcontribs 0.1.0
 freecurrencyapi 0.1.0
 freedom 1.0.1
-freegroup 1.2-0
+freegroup 1.2-1
 freestiler 0.2.0
 freesurfer 1.8.1
 freesurferformats 1.0.1
@@ -7428,7 +7428,7 @@ future.apply 1.20.2
 future.batchtools 0.22.0
 future.callr 1.0.0
 future.mirai 1.0.0
-future.tests 0.9.0
+future.tests 1.0.0
 futureverse 0.3.0
 futurize 1.0.0
 fuzzr 0.2.2
@@ -8049,7 +8049,7 @@ ggip 0.3.2
 GGIR 3.3-6
 ggiraph 0.9.6
 ggiraphExtra 0.3.0
-GGIRread 1.0.8
+GGIRread 1.0.9
 ggisotonic 0.1.2
 ggkodom 1.0.3
 gglasso 1.6
@@ -11127,7 +11127,7 @@ linelist 2.0.1
 linelistBayes 1.0
 linemap 0.3.0
 linERR 1.0
-lineup 0.44
+lineup 0.46
 lineup2 0.8
 lineupjs 4.6.0
 linevis 1.0.0
@@ -11766,7 +11766,7 @@ maskedcauses 0.10.0
 maskedhaz 0.1.0
 maskr 0.1.0
 maskRangeR 1.1
-MASS 7.3-65
+MASS 7.3-66
 masscor 0.0.7.1
 MASSExtra 1.2.2
 Massign 1.1.0
@@ -11887,7 +11887,7 @@ MBMethPred 0.1.4.4
 mbmixture 0.6
 MBNMAdose 0.5.1
 MBNMAtime 0.2.6
-mboost 2.9-11
+mboost 2.9-12
 mbr 0.0.1
 mbrdr 1.1.1
 mbreaks 1.0.1
@@ -12160,7 +12160,7 @@ MetaEntropy 1.3
 metafolio 0.1.2
 metafor 5.0-1
 metaforest 0.1.5
-metafrontier 0.2.2
+metafrontier 0.3.0
 metafuse 2.0-1
 metagam 0.4.1
 metaGE 1.2.2
@@ -13123,7 +13123,7 @@ MSGARCHelm 0.1.0
 msgps 1.3.5
 msgr 1.1.2
 msigdbr 26.1.0
-mSigPlot 2.0.38
+mSigPlot 2.0.41
 MSigSeg 0.2.0
 mSigTools 1.0.7
 mSimCC 0.0.3
@@ -16855,7 +16855,7 @@ radir 1.0.4
 radlibs 0.2.0
 RadOnc 1.1.9
 radous 0.1.3
-radsafer 2.4.0
+radsafer 2.4.1
 RADstackshelpR 0.1.0
 Radviz 0.9.5
 radviz3d 2.3.1

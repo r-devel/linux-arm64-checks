@@ -106,7 +106,7 @@ actfts 0.3.0
 actibase 0.3.0
 actigraph.sleepr 0.3.1
 actilifecounts 1.1.1
-actiread 0.2.0
+actiread 0.3.0
 activAnalyzer 2.1.2
 activatr 0.2.1
 ActiveDriver 1.0.0
@@ -654,6 +654,7 @@ apng 1.1
 Apoderoides 3.0.1
 apollo 0.3.9
 apor 0.1.1
+appac 4.0.3
 appeears 1.2
 APPEstimation 0.1.1
 appleadsR 0.1.0
@@ -1366,6 +1367,7 @@ BBmisc 1.13.1
 bbmix 1.0.0
 bbmle 1.0.25.1
 bbnet 1.2.1
+BBNI 0.1.1
 bbotk 1.11.0
 bbreg 2.0.2
 bbssr 1.0.2
@@ -6967,6 +6969,7 @@ flatr 0.1.1
 flattabler 2.1.2
 flatxml 0.1.1
 fledge 0.1.4
+fletcher 0.1.0
 flevr 0.0.5
 flex 0.1.0
 flexBART 2.0.3
@@ -10690,6 +10693,7 @@ KRIS 1.1.6
 KRLS 1.7-1
 krm 2022.10-17
 KRMM 1.0
+kro.inv.test 0.1.1
 kronos 1.0.0
 KRONX 0.1.0
 kronxNBC 0.1.1
@@ -11722,6 +11726,7 @@ MarginalMediation 0.7.3
 marginme 0.1.2
 margins 0.3.28
 marimekko 0.1.0
+MarineChain 1.1.0
 marinepredator 0.0.1
 MariNET 1.0.0
 mark 0.8.3
@@ -14770,7 +14775,7 @@ pairwise 0.6.2-0
 pairwiseCI 0.1-27
 pairwiseLLM 1.1.0
 paisaje 0.3.0
-pak 0.10.0
+pak 0.11.0
 PakPC2017 1.0.0
 PakPC2023 0.2.0
 PakPMICS2014Ch 0.1.0
@@ -18560,6 +18565,7 @@ roxygen2 8.0.0
 roxygen2md 1.0.1
 roxyglobals 1.0.0
 roxylint 0.1.0
+roxyreqs 1.3.0
 roxytest 0.0.2
 roxytypes 0.1.2
 rPACI 0.2.2
@@ -22971,6 +22977,7 @@ twbparser 0.5.0
 twc 0.0.2
 twdtw 1.0-1
 tweedie 3.1.0
+tweedieDistr 0.1.0
 tweenr 2.0.3
 tweetcheck 0.1.0
 twenty48 0.2.1

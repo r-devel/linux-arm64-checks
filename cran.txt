@@ -743,7 +743,7 @@ arenar 0.2.0
 arete 0.2
 arf 0.2.4
 arfima 1.8-2
-arg 0.1.1
+arg 0.2.0
 ArgentinAPI 0.2.1
 Argentum 1.0.0
 argminCS 1.1.0
@@ -17362,7 +17362,7 @@ RDieHarder 0.2.7
 Rdimtools 1.1.4
 rdist 0.0.5
 Rdistance 4.4.3
-rdiversity 2.2.0
+rdiversity 2.3.0
 rdkitpyr 0.2.1
 rdlearn 0.1.1
 rdlocrand 2.0
@@ -22839,7 +22839,7 @@ TSDT 1.0.8
 tsDyn 11.0.5.2
 TSE 0.1.0
 TSEAL 0.1.5
-tseffects 0.2.1
+tseffects 0.3.1
 TSEind 0.1.0
 tseLCA 1.0.2
 tsensembler 0.1.0

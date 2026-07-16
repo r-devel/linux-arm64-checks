@@ -5322,7 +5322,7 @@ DSMolgenisArmadillo 4.0.1
 dsmSearch 1.2.4
 DSOpal 1.5.0
 dsos 0.1.2
-dsp 1.5.0
+dsp 1.5.1
 dspline 1.0.4
 DSpoty 0.1.0
 dsROCrate 0.1.0
@@ -5376,7 +5376,7 @@ dtrSurv 1.5
 DTS 0.1.1
 DTSEA 0.0.3
 DTSg 2.1.0
-dtsmartr 0.3.0
+dtsmartr 0.4.1
 DTSR 0.2.2
 dtt 0.1-2.1
 dttr2 0.5.2
@@ -12137,7 +12137,7 @@ messaging 0.1.0
 messi 0.1.2
 messy 0.1.0
 messy.cats 1.0
-messydates 0.5.4
+messydates 1.0.0
 Mestim 0.2.1
 meta 8.5-0
 meta.shrinkage 0.1.4
@@ -13957,7 +13957,7 @@ nnmf 1.4
 NNMIS 1.0.1
 NNMoMo 0.1.0
 nnR 0.1.0
-NNS 13.0
+NNS 13.1
 nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
@@ -16580,7 +16580,7 @@ qmap 1.0-6
 qmd 1.1.3
 qmethod 1.8.4
 qmj 0.2.1
-qMRI 1.2.7.9
+qMRI 1.2.8
 qmrparser 0.1.6
 qmvs 0.2.2
 qoi 0.1.0

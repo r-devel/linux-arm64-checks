@@ -2404,7 +2404,7 @@ caret 7.0-1
 caretEnsemble 4.0.2
 caretForecast 0.1.3
 caretMultimodal 1.0.0
-caretSDM 1.8.3
+caretSDM 1.9.7
 carfima 2.0.2
 cargo 0.4.9
 caribou 1.1-1
@@ -2426,7 +2426,7 @@ cartogramR 1.5-1
 cartographer 0.2.2
 cartographr 0.2.5
 cartography 3.1.5
-carts 0.1.0
+carts 0.2.0
 Cascade 2.4
 CascadeData 1.6
 cascadeSelect 1.1.0
@@ -15137,7 +15137,7 @@ PEAXAI 1.0.2
 pec 2025.06.24
 pecan 0.1.0
 pecanr 0.3.1
-pecora 0.1.2
+pecora 0.1.3
 pECV 1.0.1
 pedalfast.data 1.0.2
 pedbp 2.1.0
@@ -22265,7 +22265,7 @@ tidyfinance 0.8.0
 tidyfit 0.7.4
 tidyfst 1.8.4
 tidyft 0.9.20
-tidyfun 0.1.2
+tidyfun 0.2.0
 tidygam 1.0.0
 tidygapminder 1.0.0
 tidygate 1.0.19

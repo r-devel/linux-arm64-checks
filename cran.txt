@@ -2244,7 +2244,7 @@ butterfly 1.1.2
 butterflyOptions 1.0.1
 ButtR 1.1.1
 BuyseTest 3.3.9
-buzzMed 0.1.2
+buzzMed 0.1.3
 Bvalue 1.0
 BVAR 1.0.5
 bvarnet 1.0.1
@@ -4467,7 +4467,7 @@ dcmle 0.4-2
 dcmodify 0.9.0
 dcmstan 0.1.0
 dcorBSS 1.0-0
-dcortools 0.2.0
+dcortools 0.2.1
 dcorVS 1.1
 dcov 0.1.1
 dCovTS 1.5
@@ -7690,7 +7690,7 @@ gemini.R 0.17.2
 gemma2 0.1.3
 gemR 1.2.2
 gems 1.1.1
-GEMSS 0.1.1
+GEMSS 0.1.2
 gemtc 1.1-1
 gen2stage 1.0
 gen3sis 1.6.0
@@ -16365,7 +16365,7 @@ psycho 0.6.2
 PsychoMatic 0.3.0
 psychometric 2.4
 psychomix 1.1-10
-psychonetrics 0.15
+psychonetrics 0.16.9
 psychotools 0.7-7
 psychotree 0.16-2
 psychReport 4.0.1
@@ -16496,7 +16496,7 @@ pylintR 0.1.0
 pyMTurkR 1.1.6
 pyramid 1.5
 pysd2r 0.1.0
-pysparklyr 0.2.1
+pysparklyr 0.2.2
 PytrendsLongitudinalR 0.1.4
 pzfx 0.3.1
 Q2q 0.1.2
@@ -22539,7 +22539,7 @@ toml 1.1.0
 tomledit 0.1.1
 tongfen 0.3.7
 toolbox 0.1.1
-toolero 0.3.0
+toolero 0.4.0
 toolmaRk 0.0.1
 tools4uplift 1.0.0
 ToolsForCoDa 1.1.0

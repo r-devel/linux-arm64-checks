@@ -495,7 +495,7 @@ AMDconfigurations 0.1.0
 Amelia 1.8.3
 amelie 0.2.1
 amen 1.4.5
-ameras 0.4.0
+ameras 0.5.1
 amerika 0.1.1
 AmesHousing 0.0.4
 AmigaFFH 0.4.8
@@ -5489,6 +5489,7 @@ earthtide 0.1.8
 earthtones 0.2.0
 earthUI 0.8.0
 Ease 0.1.2
+easieRnmt 0.0.5
 easy.glmnet 1.1
 easy.utils 0.1.0
 EasyABC 1.6
@@ -7101,7 +7102,7 @@ FOCI 0.1.3
 FoCo2 0.1.4
 focus 0.1.8
 focusedMDS 1.3.3
-foghorn 1.6.1
+foghorn 1.6.2
 folda 0.2.0
 foldedt 1.0
 folders 0.1.0
@@ -7843,7 +7844,7 @@ geometries 0.2.5
 geometry 0.5.2
 geommc 1.3.2
 geomod 0.1.0
-GeoModels 2.2.5
+GeoModels 2.2.6
 GeoMongo 1.0.3
 geomorph 4.1.1
 geomtextpath 0.2.0
@@ -9689,7 +9690,7 @@ IFTPredictor 0.1.0
 ig.degree.betweenness 0.2.1
 ig.vancouver.2014.topcolour 0.1.2.0
 IgAScores 0.1.2
-iGasso 1.6.1
+iGasso 1.6.2
 IGC.CSM 0.3.1
 igcop 1.0.2
 igfetchr 0.1.0
@@ -14292,7 +14293,7 @@ OenoKPM 2.4.1
 oews2020 1.0.0
 oews2021 1.0.0
 officedown 0.4.1
-officer 0.7.5
+officer 0.7.6
 offlineChange 0.0.4
 offsetreg 1.2.0
 ofGEM 1.0
@@ -14770,7 +14771,7 @@ pacviz 1.0.4
 PACVr 1.1.5
 paddleR 0.1.2
 Pade 1.1.0
-padr 0.6.3
+padr 0.7.0
 pafdR 1.0
 PAFit 1.2.11
 PAGE 0.4.0
@@ -20182,7 +20183,7 @@ SimpleUpset 0.1.5
 simplexgof 0.1.0
 SimplexRegression 0.1.4
 SIMPLICA 1.0.0
-SimplicialComplex 0.1.0
+SimplicialComplex 0.1.1
 SimplicialCubature 1.3
 simplifyNet 0.0.1
 SimplyAgree 0.3.0
@@ -20227,7 +20228,7 @@ simulator 0.2.5
 simulist 0.7.0
 simulMGF 0.1.1
 SimuRg 0.2.0
-SimVitD 1.0.4
+SimVitD 1.0.5
 sinaplot 1.1.0
 sinar 0.1.0
 sindyr 0.2.4
@@ -22069,7 +22070,7 @@ TesiproV 0.9.6
 tesouror 0.2.3
 tesselle 1.7.0
 tesseract 5.2.5
-test.assessr 2.1.2
+test.assessr 2.1.3
 test2norm 0.3.0.1
 TestAnaAPP 1.1.2
 testarguments 0.0.1

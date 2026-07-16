@@ -1,0 +1,76 @@
+* using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/lorax.Rcheck’
+* using R version 4.6.1 (2026-06-24)
+* using platform: aarch64-unknown-linux-gnu
+* R was compiled by
+    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+* running under: Ubuntu 26.04 LTS
+* using session charset: UTF-8
+* current time: 2026-07-16 16:31:41 UTC
+* using options ‘--no-manual --no-vignettes’
+* checking for file ‘lorax/DESCRIPTION’ ... OK
+* this is package ‘lorax’ version ‘0.1.0’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘lorax’ can be installed ... OK
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking whether startup messages can be suppressed ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... INFO
+Package unavailable to check Rd xrefs: ‘rules’
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking examples ... OK
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... ERROR
+  Running ‘spelling.R’
+  Running ‘testthat.R’
+Running the tests in ‘tests/testthat.R’ failed.
+Last 13 lines of output:
+  • Skipping (1): 'test-cforest.R:2:1'
+  • TOOOO LONG (1): 'test-party.R:1:1'
+  
+  ══ Failed tests ════════════════════════════════════════════════════════════════
+  ── Failure ('test-ObliqueForest.R:316:5'): extract_rules.ObliqueForest() node assignments are consistent ──
+  Expected `obs_in_node_aorsf` to have the same values as `obs_in_node_rule`.
+  Actual: 3, 65, 99, 127, 144
+  Expected: 3, 65, 127, 134, 144
+  Needs: 99
+  Absent: 134
+  
+  [ FAIL 1 | WARN 0 | SKIP 71 | PASS 1411 ]
+  Error:
+  ! Test failures.
+  Execution halted
+* DONE
+Status: 1 ERROR

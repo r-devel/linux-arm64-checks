@@ -17032,7 +17032,6 @@ rasterpic 0.5.1
 rasterVis 0.51.7
 RAT 0.3.1
 ratdat 1.1.0
-ratecalib 0.3.0
 ratelimitr 0.4.2
 ratematrix 1.2.5
 rater 1.3.2
@@ -18086,7 +18085,7 @@ rjags 4-17
 RJalaliDate 0.1.0
 rJava 1.0-18
 rJavaEnv 0.3.0
-rjd3bench 3.1.2
+rjd3bench 3.1.3
 rjd3jars 0.0.5
 rjd3production 1.1.0
 rjd3providers 3.8.0
@@ -20764,7 +20763,7 @@ spatstat.model 3.7-1
 spatstat.random 3.5-0
 spatstat.sparse 3.2-0
 spatstat.univar 3.2-0
-spatstat.utils 3.2-3
+spatstat.utils 3.2-4
 spatsurv 2.0-1
 SPB 1.0
 spbabel 0.6.0
@@ -21484,7 +21483,7 @@ sumup 1.0.3
 sumvar 0.2.0
 sunburstR 2.1.8
 sunburstShinyWidget 0.5.0
-suncalc 0.5.1
+suncalc 0.5.3
 SunCalcMeeus 0.1.3
 Sunclarco 1.0.0
 sundialr 0.1.7

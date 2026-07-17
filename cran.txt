@@ -14069,7 +14069,7 @@ nowcast 0.1.0
 nowcastr 0.2.1
 noweb 1.1-4
 np 0.70-5
-npANCOVA 0.1.1
+npANCOVA 0.2.0
 nparACT 0.9.1
 nparcomp 3.0
 nparLD 2.2

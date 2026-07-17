@@ -14930,7 +14930,7 @@ parsel 0.3.0
 parseLatex 0.4.1
 parsermd 0.2.0
 parseRPDR 1.1.2
-parSim 0.3.1
+parSim 0.4.0
 parsnip 1.6.0
 PartCensReg 1.39
 partDSA 0.9.15
@@ -22388,7 +22388,7 @@ tilemaps 0.2.2
 tiler 0.3.2
 tilting 1.1.1
 timbeR 2.0.1
-timbr 0.2.2
+timbr 0.3.0
 Time.R 1.0.0
 timechange 0.4.0
 timechecker 1.1.5

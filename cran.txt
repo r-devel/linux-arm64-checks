@@ -292,6 +292,7 @@ aftsem 1.0
 afttest 4.5.3
 ag5Tools 0.0.3
 AGBQR 0.1.0
+AGCA4extremes 0.1.0
 agcounts 0.7.0
 AGD 0.45.0
 AgeBandDecomposition 2.0.1
@@ -1371,7 +1372,7 @@ bbmix 1.0.0
 bbmle 1.0.25.1
 bbnet 1.2.1
 BBNI 0.1.1
-bbotk 1.11.0
+bbotk 1.12.0
 bbreg 2.0.2
 bbssr 1.0.2
 bbw 0.3.1
@@ -3839,7 +3840,7 @@ cowbell 0.1.0
 cowfootR 0.1.3
 cowplot 1.2.0
 cowsay 1.2.2
-cox.rvph 0.1.2
+cox.rvph 0.1.3
 CoxAIPW 0.0.3
 CoxBcv 0.0.1.0
 CoxBoost 1.5.1
@@ -5321,6 +5322,7 @@ dsm 2.3.4
 dsmmR 1.0.7
 DSMolgenisArmadillo 4.0.1
 dsmSearch 1.2.4
+dsn 0.1.0
 DSOpal 1.5.0
 dsos 0.1.2
 dsp 1.5.1
@@ -7477,7 +7479,7 @@ fz 1.1
 g.data 2.4.1
 g.ridge 1.0
 G2Sd 2.2
-g6R 0.6.0
+g6R 0.6.5
 GA 3.2.5
 gaawr2 0.0.8
 GABB 0.3.10
@@ -7952,6 +7954,7 @@ gFormulaMI 1.0.3
 gfunctions 1.1
 gg.gap 1.3
 gg1d 0.1.0
+ggadjustedforest 0.1.0
 ggalign 1.2.0
 ggaligner 0.1
 ggalignment 1.0.2
@@ -8166,6 +8169,7 @@ ggseqplot 0.8.9
 ggshadow 0.0.5
 ggside 0.4.1
 ggsignif 0.6.4
+ggsketch 2.0.0
 ggskewboxplots 1.0.0
 ggsky 0.1.0
 ggsmc 0.2.0
@@ -8653,7 +8657,7 @@ GreedyEPL 1.3
 GreedyExperimentalDesign 1.6.1
 GreedyExperimentalDesignJARs 1.0
 greekLetters 1.0.4
-greeks 1.5.3
+greeks 1.5.6
 greenbook 0.1.0
 greenclust 1.1.1
 greencrab.toolkit 0.2
@@ -9304,6 +9308,7 @@ homologene 1.4.68.19.3.27
 homomorpheR 0.3
 HomomorphicEncryption 0.9.0
 HonestDiD 0.2.8
+hood2net 1.0.0
 hoopR 3.0.0
 hopbyhop 3.41
 hopit 0.11.6
@@ -9405,7 +9410,7 @@ httr 1.4.8
 httr2 1.3.0
 hubeau 0.5.2
 hubEnsembles 1.0.0
-hubEvals 0.3.0
+hubEvals 0.3.1
 hubUtils 1.2.1
 hudr 1.2.0
 hues 0.2.0
@@ -10501,7 +10506,7 @@ KappaGUI 2.0.2
 kappalab 0.4-12
 kappaSize 1.2
 karaoke 3.0
-kardl 2.0.2
+kardl 2.0.4
 Karen 1.0
 karlen 0.0.2
 KarsTS 2.4.1
@@ -11147,6 +11152,7 @@ lineup 0.46
 lineup2 0.8
 lineupjs 4.6.0
 linevis 1.0.0
+lingamr 0.1.2
 lingdist 1.0
 lingglosses 0.0.11
 lingmatch 1.0.7
@@ -12764,7 +12770,7 @@ mmc 0.0.3
 mmcards 0.1.1
 mmcm 1.2-8
 mmcmcBayes 0.2.0
-mmconvert 0.12
+mmconvert 0.14
 Mmcsd 1.0.0
 MMD 1.0.0
 MMDai 2.0.0
@@ -12964,7 +12970,7 @@ morpheus 1.0-5
 Morpho 2.13
 morphomap 1.5
 moRphomenses 1.0.3
-MorphoRegions 0.1.0
+MorphoRegions 0.2.0
 MorphoTools2 1.0.2.1
 MorphSim 1.2.0
 morrowplots 0.2.0
@@ -13804,6 +13810,7 @@ NHANES 2.1.0
 nhanesA 1.4.1
 nhanesdata 0.2.2
 nhanesdiva 1.0.1
+nhanesR 0.1.5
 nhdplusTools 1.5.0
 nhdR 0.6.1
 NHLData 1.0.0
@@ -14418,12 +14425,12 @@ oompaBase 3.2.11
 oompaData 3.1.5
 OOR 0.1.4
 OORRT 0.1.0
-oosse 1.0.11
+oosse 1.0.12
 oottest 0.9.1
 opa 0.8.3
 opalr 3.6.1
 OPC 0.0.2
-OPCreg 3.0.0
+OPCreg 4.0.2
 opdisDownsampling 1.6
 OPDOE 1.0-10
 Open.Visualization.Academy 1.0.0
@@ -18025,6 +18032,7 @@ ridgregextra 0.1.1
 ridigbio 0.4.1
 riem 1.0.0
 Riemann 0.1.7
+riemannianStats 0.1.1
 RiemBase 0.2.6
 riemtan 0.2.5
 Riex 1.0.2
@@ -21749,6 +21757,7 @@ swjm 0.1.0
 SWMPr 2.5.2
 SwPcIndex 0.1.0
 SWTools 1.1.1
+sybilion 0.1.0
 sylcount 0.2-6
 syllabifyr 0.1.1
 syllogi 1.0.5
@@ -23134,6 +23143,7 @@ uni.shrinkage 1.0.0
 uni.survival.tree 1.5
 uniah 1.2
 unicefData 2.3.0
+UniCensor 0.1.0
 Unico 0.1.0
 Unicode 17.0.0-1
 unicol 0.4.0

@@ -8691,7 +8691,7 @@ gridGraphics 0.5-1
 gridGraphviz 0.3-2
 gridify 0.8.1
 gridmicrotex 0.0.4
-GridOnClusters 0.3.2
+GridOnClusters 0.4.1
 gridOT 1.0.2
 gridpattern 1.4.2
 gridsampler 0.6

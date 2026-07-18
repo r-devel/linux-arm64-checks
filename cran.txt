@@ -3785,7 +3785,7 @@ countland 0.1.2
 countmaskr 0.1.1
 countprop 1.1.1
 Countr 3.6.1
-countries 1.2.3
+countries 1.2.4
 countryatlas 1.0.0
 countrycode 1.8.0
 CountsEPPM 3.1
@@ -6607,7 +6607,7 @@ fastOnlineCpt 1.0
 FastPCS 0.1.4
 fastPLS 0.2
 fastplyr 0.9.92
-fastpng 0.1.8
+fastpng 0.1.9
 fastpolicytree 1.0
 fastpos 0.6.0
 fastqcr 0.1.3
@@ -8037,7 +8037,7 @@ ggfoundry 0.3.1
 ggfun 0.2.1
 ggfx 1.0.3
 gggap 1.0.1
-gggda 0.1.1
+gggda 0.2.0
 gggenes 0.7.0
 gggenomes 1.1.3
 ggghost 0.2.3
@@ -24106,7 +24106,7 @@ xmpdf 0.2.1
 xmrr 1.1.1
 xnet 0.1.11
 XNomial 1.0.4.1
-xoi 0.74
+xoi 0.76
 XOMultinom 0.9.0
 xopen 1.0.1
 xpect 1.2

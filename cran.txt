@@ -1232,7 +1232,7 @@ BayesERtools 0.2.7
 BayesESS 0.1.19
 bayesestdft 1.0.0
 BayesFactor 0.9.12-4.8
-BayesFBHborrow 2.0.12
+BayesFBHborrow 2.0.14
 BayesFluxR 0.1.3
 BayesFM 0.1.7
 BayesfMRI 0.11.0
@@ -2353,7 +2353,7 @@ cancerR 0.1.1
 cancerradarr 3.0.0
 candisc 1.1.1
 CANE 0.1.1
-Canek 0.2.5
+Canek 0.3.1
 CanonicalFamilyExtra 1.0.0
 canprot 2.0.0
 canpumf 0.5.2
@@ -4469,7 +4469,7 @@ dcmle 0.4-2
 dcmodify 0.9.0
 dcmstan 0.1.0
 dcorBSS 1.0-0
-dcortools 0.2.1
+dcortools 0.2.2
 dcorVS 1.1
 dcov 0.1.1
 dCovTS 1.5
@@ -8874,7 +8874,7 @@ gwas2crispr 0.1.5
 GWASbyCluster 0.1.7
 GWASExactHW 1.2
 gwasforest 1.0.0
-GWASinlps 2.4
+GWASinlps 2.5
 GWASinspector 1.7.4
 gwasrapidd 0.99.18
 gwbr 1.0.5
@@ -13950,7 +13950,7 @@ nmslibR 1.0.7
 NMTox 0.1.0
 NMVANOVA 1.1.0
 nmw 0.3.1
-nn2poly 1.0.0
+nn2poly 1.0.1
 nna 0.0.2.1
 nncc 2.0.0
 nndiagram 1.0.0
@@ -14701,7 +14701,7 @@ otsfeatures 1.0.0
 OtsuFire 0.1.4
 OtsuSeg 0.1.0
 otTensor 0.99.0
-ottr 1.5.3
+ottr 1.6.0
 ottrpal 2.0.0
 otuSummary 0.1.2
 OTUtable 1.1.2
@@ -16280,7 +16280,7 @@ provParseR 1.0
 provSummarizeR 1.5.1
 provTraceR 1.0
 provViz 1.0.9
-proximetricsR 0.6.4
+proximetricsR 0.6.5
 proxirr 0.5
 ProxReg 1.1.2
 proxy 0.4-29
@@ -21212,6 +21212,7 @@ Statamarkdown 0.9.6
 statAPA 0.1.0
 statar 0.7.7
 statBasics 0.2.3
+statcanR 0.3.0
 statcheck 1.5.0
 statcodelists 0.9.2
 statcomp 0.1.0
@@ -23426,7 +23427,7 @@ VectorForgeML 0.1.0
 vectorialcalculus 1.0.5
 vectorsurvR 1.6.3
 vectorwavelet 0.1.0
-vectra 0.11.1
+vectra 0.11.3
 VectrixDB 1.1.2
 vecvec 1.2.0
 VedicDateTime 0.1.9
@@ -23743,7 +23744,7 @@ wbsd 1.0.1
 wbstats 1.1
 wbsts 2.1
 wbwdi 1.0.4
-wcc 0.4.0
+wcc 0.4.1
 wcde 0.0.8
 WCE 1.0.4
 wcep 1.0.3

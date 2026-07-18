@@ -3741,7 +3741,7 @@ CorrMixed 1.1
 corrplot 0.95
 corrr 0.4.5
 corrRF 1.1.0
-corrselect 3.2.1
+corrselect 3.2.3
 corrsieve 1.6-9
 corrtable 0.1.1
 CorrToolBox 1.6.4
@@ -17695,7 +17695,7 @@ remss 1.0.1
 remstats 4.1.0
 remstimate 3.1.0
 remulate 2.1.0
-remverse 0.1.0
+remverse 0.2.0
 REN 0.1.0
 rENA 0.3.1
 rencher 0.1.6
@@ -22332,7 +22332,7 @@ tidypaleo 0.1.4
 TidyPanel 0.1.2
 tidyplate 2.2.0
 tidyplots 0.4.0
-tidyplus 0.2.0
+tidyplus 0.2.1
 tidypopgen 0.4.4
 tidyposterior 1.0.2
 tidypredict 1.1.0

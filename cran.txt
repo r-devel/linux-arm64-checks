@@ -11105,7 +11105,7 @@ LiftTest 0.2.0
 lifx 0.2.0
 lightAUC 0.1.3
 LightFitR 1.0.0
-lightgbm 4.6.0
+lightgbm 4.7.0
 LightLogR 0.10.3
 lightparser 0.1.0
 lightr 2.1.0
@@ -18970,7 +18970,7 @@ Rtwobitlib 0.3.10
 rtype 0.1-1
 rtypeform 2.1.1
 rucrdtw 0.1.7
-rugarch 1.5-5
+rugarch 1.5-6
 RuHere 1.0.1
 Ruido 1.0.3
 ruijter 0.1.3
@@ -19992,7 +19992,7 @@ shinyscholar 0.4.5
 shinyscreenshot 0.2.1
 shinySearchbar 1.0.0
 shinySelect 1.3.0
-shinyseo 0.1.1
+shinyseo 1.2.0
 shinystan 2.7.0
 shinystate 0.1.0
 shinyStep 0.5.1
@@ -22933,7 +22933,7 @@ TSsmoothing 0.1.0
 TSSS 1.3.4-7
 TSstudio 0.1.7
 TSSVM 0.1.0
-tstests 1.0.1
+tstests 1.0.2
 tstools 0.4.4
 TSTutorial 1.2.7
 tsutils 0.9.4

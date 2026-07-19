@@ -1,6 +1,6 @@
 # hdf5r 1.3.12
 
-Latest run: 2026-07-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/29176395990
+Latest run: 2026-07-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/29669681317
 
 ```
 Package: hdf5r

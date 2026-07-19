@@ -3209,7 +3209,6 @@ CMShiny 0.1.0
 cmstatr 0.10.0
 cmstatrExt 0.4.1
 cmtest 0.1-2
-CMTFtoolbox 1.0.1
 cmtkr 0.2.3
 cmvnorm 1.1-1
 cna 4.0.3
@@ -11909,7 +11908,7 @@ mbir 1.3.5
 mblm 0.12.1
 MBmca 1.1-0
 MBMethPred 0.1.4.4
-mbmixture 0.6
+mbmixture 0.8
 MBNMAdose 0.5.1
 MBNMAtime 0.2.6
 mboost 2.9-13
@@ -19644,7 +19643,7 @@ seminrExtras 1.0.2
 SemiPar.depCens 0.1.3
 SemiparMF 1.0.0
 semlbci 0.12.0
-semlrtp 0.1.1
+semlrtp 0.1.2
 semmcci 1.1.6
 semnar 0.8.2
 SemNeT 1.4.5

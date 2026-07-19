@@ -1,6 +1,6 @@
 # DPQ 0.6-1
 
-Latest run: 2026-07-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/29175885085
+Latest run: 2026-07-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/29669175099
 
 ```
 Package: DPQ

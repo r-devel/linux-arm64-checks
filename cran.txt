@@ -2572,7 +2572,7 @@ ccmEstimator 1.0.0
 CCMMR 0.2.2
 CCMnet 1.1.2
 ccmReportR 0.1.0
-ccoptimalmatch 0.1.0
+ccoptimalmatch 0.1.1
 ccostr 0.1.1
 CCP 1.2
 ccpsyc 0.2.6
@@ -8335,7 +8335,7 @@ glm.predict 4.3-2
 glm2 1.2.1
 glm4 0.1.0
 GLMBasedRaschEstimation 0.2.0
-glmbayes 0.9.6
+glmbayes 0.9.7
 glmbb 0.5-1
 glmc 0.4-1
 GLMcat 1.0.0
@@ -11326,7 +11326,7 @@ LOCOM2 1.0
 locpol 0.9.0
 locStra 1.9
 LOCUS 1.0
-locuszoomr 0.3.8
+locuszoomr 0.3.10
 loder 0.2.1
 lodGWAS 1.0-7
 loedata 1.1
@@ -18073,7 +18073,7 @@ rioplot 1.1.2
 rip.opencv 0.3-1
 ripc 1.0.0
 ripserr 1.0.0
-rirods 0.2.0
+rirods 0.3.0
 Rirt 0.0.2
 RISCA 1.0.7
 rise 1.0.4
@@ -18966,7 +18966,7 @@ rTRNG 4.23.1-5
 Rtropical 1.2.1
 rtry 1.1.0
 rts 1.1-14
-rts2 1.0.3
+rts2 1.0.4
 RTSA 0.2.2
 RtsEva 1.1.0
 Rtsne 0.17
@@ -19665,6 +19665,7 @@ semptools 0.3.3
 SEMsens 1.5.5
 SEMsensitivity 0.1.0
 semsfa 1.2
+semTests 1.0.0
 semTools 0.5-9
 semtree 0.9.23
 semver 0.2.1
@@ -21217,7 +21218,7 @@ starvz 0.8.4
 starwarsdb 0.1.3
 Stat2Data 2.0.0
 statAfrikR 0.1.0
-Statamarkdown 0.9.6
+Statamarkdown 0.9.7
 statAPA 0.1.0
 statar 0.7.7
 statBasics 0.2.3

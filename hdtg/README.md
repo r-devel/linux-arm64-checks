@@ -1,6 +1,6 @@
 # hdtg 0.3.4
 
-Latest run: 2026-07-12: https://github.com/r-devel/linux-arm64-checks/actions/runs/29176420469
+Latest run: 2026-07-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/29669712365
 
 ```
 Package: hdtg

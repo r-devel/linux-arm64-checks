@@ -12505,7 +12505,7 @@ minty 0.0.6
 mintyr 0.1.3
 mipfp 3.2.1
 mipplot 0.3.1
-mirai 2.7.1
+mirai 2.7.2
 MIRDD 0.2.4
 miRecSurv 1.0.2
 MIRES 0.1.1

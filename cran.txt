@@ -8374,7 +8374,7 @@ glmpca 0.2.0
 glmpermu 0.0.1
 GLMsData 1.4
 GlmSimulatoR 1.0.0
-glmSTARMA 1.0.0
+glmSTARMA 1.1.0
 glmtlp 2.0.2
 glmtoolbox 0.1.12
 glmtrans 2.1.0
@@ -8768,7 +8768,7 @@ gscounts 0.1-4
 gscramble 1.0.2
 GSD 1.0.0
 GSDA 1.0
-gsDesign 3.10.0
+gsDesign 3.10.1
 gsDesign2 1.1.9
 gsDesignNB 0.3.2
 gsDesignTune 0.1.0
@@ -10884,7 +10884,7 @@ LatticeKrig 9.4.1
 lava 1.9.2
 lavaan 0.7-2
 lavaan.mi 0.1-1
-lavaan.printer 0.1.0
+lavaan.printer 0.1.2
 lavaan.shiny 1.2
 lavaanExtra 0.2.2
 lavaangui 0.4.0
@@ -12633,7 +12633,7 @@ MixtureMissing 3.0.6
 MixTwice 2.0
 mixvlmc 0.2.2
 mize 0.2.5
-mizer 3.1.0
+mizer 3.2.0
 MJMbamlss 0.1.0
 mKBO 0.1.0
 MKclass 0.5
@@ -17096,7 +17096,7 @@ raybevel 0.2.2
 rayimage 0.26.1
 raymolecule 0.9.0
 rayrender 0.41.3
-rayshader 0.37.3
+rayshader 0.41.2
 raytracing 0.6.0
 rayvertex 0.15.0
 rb3 0.1.0

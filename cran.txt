@@ -11952,7 +11952,7 @@ MChtest 1.0-3
 MCI 1.3.3
 MCID 0.1.0
 MCL 1.0
-mclink 1.1.1
+mclink 1.1.2
 mclm 0.2.7
 mclogit 0.9.15
 mclust 6.1.3
@@ -13197,7 +13197,6 @@ mt 2.0-1.21
 mt.surv 1.1.1
 MTA 0.6.0
 mtanan 0.0.1
-mtaOpenData 0.1.0
 MTAR 0.1.1
 mtarm 0.1.9
 mtb 0.1.9
@@ -14003,7 +14002,7 @@ nomiShape 1.0.2
 nomnoml 0.3.0
 nomogramEx 3.0
 nonabsdid 0.4.1
-NonCompart 0.8.1
+NonCompart 0.8.2
 noncompliance 0.2.2
 noncomplyR 1.0
 NonlinearDiD 0.2.0

@@ -2172,7 +2172,7 @@ BSPBSS 1.0.6
 bspcov 1.0.3
 bspec 1.6
 bspline 2.5.1
-BsplineQuantReg 0.1.0
+BsplineQuantReg 0.2.0
 bsplus 0.1.5
 bspm 0.5.8
 bsreg 0.0.2
@@ -3222,7 +3222,7 @@ cncaGUI 1.1
 cnd 0.1.1
 cnefetools 0.2.5
 CNID 2.1.1
-CNLTreg 0.1-2
+CNLTreg 0.1-3
 CNLTtsa 0.1-2
 cnmap 0.1.2
 cNORM 3.6.2
@@ -8704,7 +8704,7 @@ gridGeometry 0.4-0
 gridGraphics 0.5-1
 gridGraphviz 0.3-2
 gridify 0.8.1
-gridmicrotex 0.0.4
+gridmicrotex 0.0.5
 GridOnClusters 0.4.1
 gridOT 1.0.2
 gridpattern 1.4.2
@@ -11557,7 +11557,7 @@ lunar 0.2-1
 lutz 0.3.2
 luz 0.5.2
 luzlogr 0.2.1
-LVGP 2.1.5
+LVGP 2.1.6
 lvimp 1.0.0
 lvmisc 0.1.2
 lvmPlot 0.1.0
@@ -14890,7 +14890,7 @@ pandoc 0.2.0
 pandocfilters 0.1-6
 panelbuild 0.1.0
 PanelCount 2.0.1
-paneldesc 0.1.1
+paneldesc 0.2.0
 panelhetero 1.0.1
 PanelMatch 3.1.3
 panelPomp 1.8.0.0
@@ -15762,7 +15762,7 @@ pointblank 0.12.4
 pointcoral 0.1.0
 pointdensityP 0.3.5
 PointedSDMs 2.1.5
-PointFore 0.2.0
+PointFore 0.2.1
 pointr 0.2.0
 pointRes 2.0.2
 PoisBinNonNor 1.3.3
@@ -21994,7 +21994,7 @@ tbm 0.3-11
 tbnb 0.1.0
 tboot 0.2.1
 TBox 0.2.2
-TBRDist 2.0.0
+TBRDist 2.0.1
 tbrf 0.1.7
 TCA 1.2.1
 tceper 0.1.4
@@ -23088,7 +23088,7 @@ TwoStepCLogit 1.2.6
 TwoStepSDFM 0.2.2
 TwoTimeScales 1.2.1
 twotrials 0.6
-twoway 0.6.3
+twoway 0.7.0
 TwoWayFEWeights 2.1.0
 twowaytests 1.5
 twoxtwo 0.1.0
@@ -23875,7 +23875,7 @@ weights 1.1.2
 WeightSVM 1.7-16
 weird 3.0.0
 weirs 0.26
-welo 0.1.4
+welo 0.1.5
 WeMix 4.0.3
 wesanderson 0.3.7
 Westerlund 0.1.3

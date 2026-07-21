@@ -1337,6 +1337,7 @@ BayesSurvive 0.1.0
 bayest 1.5
 bayestestR 0.18.1
 bayesTFR 7.4-4
+bayesTLS 1.0.0
 BayesTools 0.3.0
 BayesTree 0.3-1.5
 BayesTreePrior 1.0.1
@@ -1699,7 +1700,7 @@ bioacoustics 0.2.10
 BiObjClass 0.1.0
 biobricks 0.2.2
 bioC.logs 1.2.1
-biocharkit 0.2.0
+biocharkit 0.3.0
 bioclim 0.4.0
 BiocManager 1.30.27
 biocompute 1.1.1
@@ -2040,7 +2041,7 @@ bpa 0.1.1
 bpAcc 0.0-2
 bpbounds 0.1.8
 bpca 1.5-0
-bpcp 1.5.1
+bpcp 1.5.4
 bpDir 0.1.2
 bpgmm 1.3.1
 bplsr 1.0.5
@@ -3891,7 +3892,7 @@ cpp11armadillo 0.5.4
 cpp11bigwig 0.3.1
 cpp11eigen 0.2.0
 cpp11qpdf 1.3.5
-cpp4r 1.0.0
+cpp4r 1.1.0
 cppally 1.1.0
 cppcheckR 1.0.0
 cppcontainers 1.0.5
@@ -4002,6 +4003,7 @@ CrossValidate 2.3.5
 crossvalidationCP 1.1
 crosswalkr 0.4.0
 crov 0.3.0
+crownmetrics 0.1.0
 crqa 2.1.0
 crrcbcv 1.0
 crrSC 1.1.2
@@ -4327,6 +4329,7 @@ DataExplorer 0.9.0
 dataframeexplorer 1.0.2
 datafsm 0.2.4
 DataFusionGDM 1.3.2
+dataganger 0.6.1
 DataGraph 1.2.15
 DataLoader 1.3
 dataMaid 1.4.2
@@ -5291,6 +5294,7 @@ DrugSim2DR 0.1.2
 DrugUtilisation 1.2.1
 drumr 0.1.0
 DRviaSPCN 0.1.5
+dryingkineticmodels 1.0.0
 ds 4.0
 ds4psy 1.3.0
 dsa 1.0.12
@@ -7305,6 +7309,7 @@ freqparcoord 1.0.1
 freqpcr 0.4.0
 FreqProf 0.0.1
 freqtables 0.1.1
+freqTLS 0.1.0
 frequency 0.4.1
 frequencyConnectedness 0.2.4
 frequentdirections 0.1.0
@@ -8637,6 +8642,7 @@ GraphRankTest 0.1
 graphsim 1.0.4
 graposas 1.0.0
 grasps 0.1.1
+grassr 0.7.4
 grateful 0.3.0
 grates 1.8.0
 gratia 0.11.2
@@ -9384,6 +9390,7 @@ HTGM3D 1.0.3
 HTGM4D 1.0
 HTLR 1.0
 htm2txt 2.2.2
+html2excel 1.0.1
 html2pdfR 0.1.0
 html2R 0.1.0
 html5 1.0.2
@@ -10049,6 +10056,7 @@ intsvy 2.9
 inum 1.0-5
 invacost 1.1-7
 InvariantCausalPrediction 0.8
+invasible 0.1.0
 InvasionCorrection 0.1
 invctr 0.2.0
 inventorize 1.1.2
@@ -10294,6 +10302,7 @@ ivo.table 0.7.1
 ivolcano 0.0.6
 IVPP 1.1.2
 ivreg 0.6-8
+ivreg2r 0.1.0
 ivs 0.2.0
 ivtools 2.3.0
 ivx 1.1.1
@@ -10804,6 +10813,7 @@ ladder 0.0.3
 LadderFuelsR 0.0.7
 laeken 0.5.3
 LaF 0.8.6
+lagdynamics 0.32
 lagged 0.3.2
 LAGOSNE 2.0.5
 laGP 1.5-9
@@ -12370,7 +12380,7 @@ mi 1.2
 mi4p 1.3
 MIAmaxent 1.4.1
 miapack 0.1.0
-MIC 2.0.0
+MIC 2.0.1
 micar 1.2.0
 micd 1.1.2
 mice 3.19.0
@@ -12724,7 +12734,7 @@ mlr3fselect 1.6.0
 mlr3hyperband 1.1.0
 mlr3inferr 0.2.1
 mlr3learners 0.15.0
-mlr3mbo 1.1.1
+mlr3mbo 1.2.0
 mlr3measures 1.3.0
 mlr3misc 0.22.0
 mlr3oml 0.12.0
@@ -14225,6 +14235,7 @@ oaColors 0.0.4
 oai 0.4.0
 OAIHarvester 0.3-5
 oaii 0.5.0
+oalasso 1.0.0
 oaPlots 0.0.25
 oaqc 2.0.0
 Oarray 1.4-9
@@ -14333,6 +14344,7 @@ ohsome 0.2.2
 ohun 1.0.4
 ohvbd 1.0.1
 oii 1.0.2.1
+OjaNP 2.0
 okBATHTUB 0.1.11
 okcolors 0.1.2
 okf 0.7.0
@@ -15633,7 +15645,7 @@ PlotBivInvGaus 0.1.0
 plotcli 0.2.0
 PlotContour 0.1.0
 plotdap 1.2.0
-PlotFTIR 1.2.1
+PlotFTIR 1.3.0
 plotfunctions 1.5
 plotGMM 0.2.2
 plotHMM 2023.8.28
@@ -16197,7 +16209,7 @@ productplots 0.1.2
 productshotaiR 0.1.0
 ProFAST 1.9
 ProfessR 2.4-3
-profExtrema 0.2.1
+profExtrema 0.2.2
 proffer 0.2.2
 profile 1.0.4
 profileCI 1.1.1
@@ -16595,7 +16607,7 @@ qiitr 0.1.1
 Qindex 0.2.0
 Qindex.data 0.1.3
 qkiosk 0.2.31
-qlcal 0.1.2
+qlcal 0.1.3
 qlcData 0.3
 qlcMatrix 0.9.9
 qlifetable 0.0.2-6
@@ -18019,6 +18031,7 @@ rhype 0.3.0
 ri2 0.4.1
 RI2by2 1.4
 RIA 1.7.2
+ria.test 0.2.1
 rIACI 1.0.0
 riAFTBART 0.3.3
 rib 0.30.4
@@ -18568,6 +18581,7 @@ ROpenWeatherMap 1.1
 roperators 1.4.0
 ropercenter 0.3.2
 Ropj 0.3-6
+ropper 0.2
 ROptEst 1.3.5
 roptim 0.1.7
 ROptimus 3.0.0
@@ -19056,6 +19070,7 @@ RweaveExtra 1.3-1
 RWeka 0.4-49
 RWekajars 3.9.3-2
 rwetools 0.2.0
+rwevalidate 0.1.2
 rwfec 0.2
 RWgraph 1.0.0
 rwhatsapp 0.2.4
@@ -19626,6 +19641,7 @@ selectiongain 2.0.710
 selectiveInference 1.2.5
 selectMeta 1.0.9
 selectr 0.6-0
+SelectSim 0.1.6
 selectspm 0.7
 selectTWFE 0.2.1
 SeleMix 1.0.4
@@ -21289,6 +21305,7 @@ statswalesr 1.0.0
 StatTeacherAssistant 0.0.3
 StatTools 0.1.1
 statuser 0.3.1
+statwitness 0.1.0
 STB 0.6.6
 stbimageheaders 0.1.0
 stbl 0.3.0
@@ -21310,6 +21327,7 @@ steadyICA 1.0.1
 StealLikeBayes 1.0
 steepness 0.3-0
 SteinIV 0.1-1
+steinsampling 0.1.0
 stelfi 1.0.2
 stellaR 0.3-6
 StemAnalysis 0.1.0
@@ -21635,6 +21653,7 @@ surveySimR 0.1.0
 SurveyStat 1.0.3
 surveytable 0.9.10
 surveytidy 0.6.0
+surveyverse 0.1.1
 surveyvoi 1.1.1
 SurvGME 0.1.0
 survHE 2.0.51
@@ -24104,6 +24123,7 @@ xgxr 1.1.2
 xhaz 2.1.0
 xiacf 0.6.2
 XICOR 0.4.1
+ximage 0.1.0
 XiMpLe 0.11-3
 xkcd 0.1.0
 xkcdcolors 1.0

@@ -1699,6 +1699,7 @@ bioacoustics 0.2.10
 BiObjClass 0.1.0
 biobricks 0.2.2
 bioC.logs 1.2.1
+biocharkit 0.2.0
 bioclim 0.4.0
 BiocManager 1.30.27
 biocompute 1.1.1
@@ -1708,6 +1709,7 @@ BiodiversityR 2.17-4
 biodosetools 3.7.2
 BIOdry 0.9.1
 BIOEFIC 0.1.1
+biofetchR 0.1.0
 biogas 1.64.0
 biogeom 1.5.2
 biogram 1.6.3
@@ -2569,7 +2571,7 @@ cclust 0.6-27
 cclustr 0.1.1
 CCM 1.2
 ccmEstimator 1.0.0
-CCMMR 0.2.2
+CCMMR 0.2.3
 CCMnet 1.1.2
 ccmReportR 0.1.0
 ccoptimalmatch 0.1.1
@@ -4018,7 +4020,6 @@ CRTspat 1.4.0
 crul 1.6.0
 crumble 0.1.2
 crunch 1.31.2
-cruts 1.1
 crwbmetareg 1.0
 cry 0.5.2
 crypto2 2.0.5
@@ -6458,9 +6459,11 @@ facebookadsR 0.1.0
 facebookleadsR 0.1.0
 facebookorganicR 0.1.0
 facerec 0.1.0
+facetsviz 0.1.1
 facilityepimath 0.2.1
 facmodCS 1.0
 facmodTS 1.0
+facomplex 0.0.3
 FactChar 1.0
 FactEff 1.0
 factiv 0.1.0
@@ -6588,7 +6591,7 @@ FastKM 1.2
 fastkmedoids 1.6
 FastKNN 0.0.1
 fastkqr 1.0.1
-FastKRR 0.1.2
+FastKRR 0.2.1
 fastLink 0.6.1
 fastLISA 1.0.1
 fastliu 1.0
@@ -8676,6 +8679,7 @@ GREMLINS 0.2.1
 greport 0.7-4
 grepreaper 0.1.1
 greta 0.6.0
+greta.gp 0.2.3
 gretel 0.0.1
 gretlR 0.1.4
 grex 1.9.1
@@ -8983,7 +8987,7 @@ havel 0.1.2
 haven 2.5.5
 hawkes 0.0-4
 hawkesbow 1.0.3
-hawkinR 2.0.0
+hawkinR 2.0.1
 HazardDiff 0.1.0
 hazer 1.1.1
 hbal 1.2.15
@@ -9754,7 +9758,7 @@ imagefx 0.4.1
 imager 1.0.8
 imagerExtra 1.3.2
 imageRy 0.4.0
-imageseg 0.5.0
+imageseg 0.5.2
 imageviewer 0.1.0
 imaginarycss 0.1.0
 imaginator 1.0.0
@@ -11232,6 +11236,8 @@ LLMing 1.2.1
 llmjoin 0.3.0
 llmjson 0.1.0
 LLMR 0.8.10
+LLMR.shiny 0.1.1
+LLMRagent 0.8.0
 llmshieldr 0.1.0
 LLMTranslate 0.4.0
 llogistic 1.0.3
@@ -11401,7 +11407,7 @@ longRPart2 0.2.3
 longsurr 1.1
 longurl 0.3.3
 loo 2.10.0
-lookout 2.0.1
+lookout 2.0.2
 lookup 1.1
 loon 1.4.3
 loon.data 0.1.4
@@ -11806,6 +11812,7 @@ mastif 2.4
 MAT 2.3.2
 MATA 0.7.1
 matchedcc 0.1.1
+matchednull 0.1.0
 matchFeat 1.0
 MatchGATE 0.0.10
 Matching 4.10-15
@@ -11815,7 +11822,7 @@ matchingR 2.0.0
 MatchIt 4.7.2
 MatchLinReg 0.8.1
 matchmaker 0.1.1
-matchMulti 1.1.14
+matchMulti 1.1.15
 matchpointR 0.1.0
 matchr 0.1.0
 MatchThem 1.2.1
@@ -11936,7 +11943,7 @@ mcbette 1.15.3
 mcbiopi 1.1.7
 mcboost 0.4.4
 mcca 0.8.2
-mccca 2.2
+mccca 2.4
 mcclust 1.0.1
 MCCM 0.1.0
 mccount 0.1.1
@@ -12681,6 +12688,7 @@ MLGdata 0.1.0
 MLGL 1.0.1
 MLID 1.0.1
 mlim 0.3.0
+mLLMCelltype 2.0.7
 mllrnrs 0.0.8
 mlma 6.3-1
 mlmc 2.1.1
@@ -12965,7 +12973,7 @@ mopac 0.1.0
 MOQA 2.0.0
 morepls 0.2.1
 morestopwords 0.2.0
-mori 0.2.1
+mori 0.2.2
 morph 1.1.0
 morphemepiece 1.2.3
 morphemepiece.data 1.2.0
@@ -15638,7 +15646,7 @@ plotMElm 0.1.5
 plotmm 0.1.2
 plotmo 3.7.0
 PlotNormTest 1.0.1
-plotor 1.0.0
+plotor 1.1.0
 plotpc 1.0.4
 PlotPrjNetworks 1.0.0
 plotprotein 1.0
@@ -15964,7 +15972,7 @@ ppcSpatial 0.3.0
 ppdiag 0.1.1
 ppendemic 0.2.2
 PPforest 0.2.0
-ppforest2 0.1.1
+ppforest2 0.1.2
 ppgam 1.0.2
 ppgm 1.1
 ppgmmga 1.3.1
@@ -18644,6 +18652,7 @@ rphylopic 1.7.0
 rpic 0.6.2
 rpinterest 0.3.1
 RPIV 1.1.0
+rpkgkit 0.1.7
 rplanes 0.1.0
 rplec 0.1.3
 rplotengine 1.0-9
@@ -18687,6 +18696,7 @@ rptR 0.9.23
 rPublic 1.2.0
 RPublica 0.1.3
 RPushbullet 0.3.5
+RPWNSC 0.1.0
 rpyANTs 0.0.6
 RPyGeo 1.0.0
 rpymat 0.1.9
@@ -21793,7 +21803,7 @@ SymTS 1.0-2
 syn 0.1.0
 syncdr 0.1.2
 synchronicity 1.3.10
-synchrony 0.3.8
+synchrony 0.3.9
 SynchWave 1.1.2
 SyncMove 0.1-0
 SyncRNG 1.3.3
@@ -21960,6 +21970,7 @@ TBEST 5.2
 TBFmultinomial 0.1.3
 tbl2xts 1.0.6
 tbm 0.3-11
+tbnb 0.1.0
 tboot 0.2.1
 TBox 0.2.2
 TBRDist 2.0.0
@@ -22170,6 +22181,7 @@ textshaping 1.0.5
 textstem 0.1.4
 textTinyR 1.1.8
 textTools 0.1.0
+textures 0.1.0
 textutils 0.4-3
 tf 0.5.0
 TFactSR 0.99.0
@@ -22269,7 +22281,7 @@ tictactoe 0.2.2
 tictoc 1.2.1
 TideCurves 0.0.5
 TideHarmonics 0.1-1
-Tides 2.1
+Tides 2.1.1
 TideTables 0.0.3
 tidier 0.2.0
 tidyactuarial 0.1.4
@@ -23286,7 +23298,7 @@ utile.visuals 0.3.3
 utility 1.4.7
 utilityFunctionTools 1.0
 utilsIPEA 0.0.6
-utsf 1.3.3
+utsf 1.3.4
 uuid 1.2-2
 uuidx 0.0.1
 UVdose 0.1.1

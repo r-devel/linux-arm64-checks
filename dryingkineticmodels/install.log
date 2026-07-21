@@ -1,4 +1,0 @@
-ERROR: dependency ‘officer’ is not available for package ‘dryingkineticmodels’
-Perhaps try a variation of:
-install.packages('officer')
-* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/dryingkineticmodels’

@@ -18,7 +18,6 @@ blocking,1.0.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HE
 bootmlm,0.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bootmlm
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr
-dryingkineticmodels,1.0.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/dryingkineticmodels
 ecoregime,0.3.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ecoregime
 gsDesign2,1.1.9,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gsDesign2
 hdf5r,1.3.12,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hdf5r

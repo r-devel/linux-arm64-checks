@@ -24243,7 +24243,7 @@ YPmodel 1.4
 YPmodelPhreg 1.0.0
 YPPE 1.0.1
 ypr 0.6.0
-yrnd 0.1.4
+yrnd 0.1.5
 YTAnalytics 0.2.1
 yuima 1.15.34
 yuimaGUI 1.4.0

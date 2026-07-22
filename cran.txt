@@ -3446,7 +3446,7 @@ compas 0.1.1
 CompClassMetrics 1.0.1
 compdb 0.0.1
 CompDist 1.0
-comperank 0.1.1
+comperank 0.1.2
 comperes 0.2.7
 competitiontoolbox 0.7.1
 CompExpDes 1.0.9
@@ -5249,6 +5249,7 @@ drcte 1.0.65
 drda 2.0.5
 DrData 0.2.0
 DRDID 1.3.0
+DrDimont 0.1.7
 dream 2.1.5
 dreamer 3.2.0
 dreamerr 1.5.0
@@ -5329,7 +5330,7 @@ dsmSearch 1.2.4
 dsn 0.1.0
 DSOpal 1.5.0
 dsos 0.1.2
-dsp 1.5.1
+dsp 1.6.0
 dspline 1.0.4
 DSpoty 0.1.0
 dsROCrate 0.1.0
@@ -5726,7 +5727,7 @@ EEML 0.1.1
 eemR 1.0.2
 eeptools 1.3.0
 ef 1.2.0
-EFA.dimensions 0.1.8.6
+EFA.dimensions 0.1.8.8
 EFA.MRFA 1.1.2
 EFAfactors 1.2.4
 EFAtools 0.8.0
@@ -7824,7 +7825,7 @@ GeoDensityR 0.1.2
 geodetector 1.0-5
 geodimension 2.0.0
 geodist 0.1.1
-geodiv 1.1.0
+geodiv 1.1.1
 geodrawr 2.0.0
 GeodRegr 0.2.0
 geoelectrics 0.2.2
@@ -8697,6 +8698,7 @@ grf 2.6.1
 GrFA 0.2.2
 gridBase 0.4-7
 gridBezier 1.1-1
+GRIDCOPULA 1.1.2
 gridDebug 0.5-1
 griddy 0.1.0
 gridExtra 2.3.1
@@ -9949,7 +9951,7 @@ INLAjoint 26.6.2
 inlamemi 1.1.0
 INLAspacetime 0.1.14
 INLAtools 0.1.4
-INLAvaan 0.3.0
+INLAvaan 0.3.1
 inlcolor 1.0.6
 inline 0.3.21
 inlinedocs 2023.9.4
@@ -11803,7 +11805,7 @@ MarZIC 1.0.1
 mas 0.4
 maSAE 2.0.3
 masc 0.1.0
-mascarade 0.3.5
+mascarade 0.4.1
 mase 0.1.5.2
 mashr 0.2.79
 maskedcauses 0.10.0
@@ -12570,7 +12572,7 @@ Missplot 0.1.0
 missPLS 0.2.1
 missr 1.0.1
 missRanger 2.6.1
-missSBM 1.0.5
+missSBM 1.1.0
 mistr 0.0.6
 mistral 2.2.4
 misty 0.8.2
@@ -18267,7 +18269,7 @@ rmdplugr 0.4.1
 rmdwc 0.3.1
 rMEA 1.2.2
 RmecabKo 0.3.0
-RMediation 1.5.0
+RMediation 1.6.1
 RMeDPower2 1.0.2
 rmedsem 1.0.0
 rmerec 0.1.1
@@ -18750,7 +18752,7 @@ Rrdap 1.0.7
 rredlist 1.1.1
 rrefine 2.1.0
 rreg 0.2.1
-rregm 1.2
+rregm 1.3
 rrepast 0.8.0
 Rrepest 1.6.14
 rres 1.1

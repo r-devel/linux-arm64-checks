@@ -1131,7 +1131,7 @@ bark 1.0.5
 Barnard 1.8
 barrel 0.1.0
 barrks 1.1.2
-barry 0.2.1
+barry 0.2.2
 BART 2.9.10
 bartCause 1.0-10
 bartcs 1.3.0
@@ -1731,7 +1731,7 @@ BIOMASS 2.2.7-1
 biometrics 1.0.4
 biometryassist 1.5.0
 biomod2 4.3-4-6
-BioMonTools 1.2.4
+BioMonTools 1.3.1
 BioMoR 0.1.1
 bionetdata 1.1
 BioPET 0.2.2
@@ -7289,7 +7289,7 @@ FRApp 1.0.0
 frapplot 0.1.3
 FRB 2.0-1
 frbinom 1.0.0
-frbs 3.2-0
+frbs 3.3-0
 FRCC 1.1.0
 FRCI 0.1.0
 frechet 0.3.0
@@ -12689,6 +12689,7 @@ mlbstats 0.1.0
 MLCausal 0.1.0
 MLCIRTwithin 2.1.2
 MLCM 0.4.4
+MLCOPULA 1.1.1
 MLDataR 1.0.1
 mldr 0.4.3
 mldr.datasets 0.4.2
@@ -24211,7 +24212,7 @@ xtcspqardl 1.0.2
 xtdhcoint 1.0.1
 xtdml 0.1.12
 xtfifevd 1.0.2
-xtife 0.1.3
+xtife 0.1.4
 xtpqardl 1.0.1
 xtranat 0.1.0
 xtrec 1.0.0

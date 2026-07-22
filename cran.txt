@@ -3469,7 +3469,7 @@ ComplexUpset 1.3.3
 complmrob 0.7.1
 CompMix 1.1.0
 CompModels 0.3.0
-COMPoissonReg 0.8.1
+COMPoissonReg 0.8.2
 CompositeReliability 1.0.3
 compositeReliabilityInNestedDesigns 1.0.4
 Compositional 8.2
@@ -3659,7 +3659,7 @@ coop 0.6-3
 CoopGame 0.2.2
 CoordinateCleaner 3.0.1
 CooRTweet 2.1.2
-copBasic 2.2.14
+copBasic 2.2.15
 copCAR 2.0-4
 copcor 2024.7-31
 CopCTS 1.0.0
@@ -5161,6 +5161,7 @@ DOS2 0.5.2
 dosearch 1.0.12
 dosedesignR 0.3.0
 DoseFinding 1.4-1
+doseminer 0.2.1
 doseSens 1.0.0
 doSNOW 1.0.20
 DOSPortfolio 0.1.0
@@ -5567,7 +5568,7 @@ EBMAforecast 1.0.33
 ebmc 1.0.1
 ebmstate 0.1.5
 ebnm 1.1-42
-ebrahim.gof 2.1.0
+ebrahim.gof 2.4.0
 EBrank 1.0.0
 eBsc 4.17
 ebTobit 1.0.2
@@ -5810,7 +5811,7 @@ elastic 1.2.2
 elasticnet 1.3
 elcf4R 0.4.2
 EleChemr 1.2.0
-elect 1.2
+elect 1.2.1
 ElectDecomp 0.0.1-8
 elections 1.0.1
 electionsBR 0.5.0
@@ -6719,7 +6720,7 @@ fdapaceShiny 1.0.5
 fdaPDE 1.1-24
 fdaPOIFD 2.0.1
 fdarep 0.1.1
-fdaSP 1.1.2
+fdaSP 1.1.3
 fdasrvf 2.4.4
 fdatest 2.1.1
 FDboost 1.1-4
@@ -6788,7 +6789,7 @@ fetchGoogleAnalyticsR 0.1.0
 fetchSalesforceR 0.1.0
 fetwfe 1.10.0
 fExtremes 4032.84
-ff 4.5.2
+ff 4.5.3
 ffaframework 0.1.2
 FFD 1.0-9
 FFdownload 1.2.0
@@ -7074,7 +7075,7 @@ fluoSurv 1.0.0
 fluspect 1.0.0
 fluxfinder 1.2.2
 fluxfixer 1.1.0
-fluxible 1.3.6
+fluxible 1.4.0
 FluxPoint 0.1.2
 FluxSeparator 2.0.0
 fluxtools 0.7.1
@@ -7822,7 +7823,7 @@ geobr 2.0.1
 geocacheR 0.1.0
 geocausal 0.4.2
 geocmeans 0.3.4
-geocodebr 0.6.3
+geocodebr 0.6.4
 geocomplexity 0.3.0
 geodaData 0.1.0
 geodata 0.6-9
@@ -8567,7 +8568,7 @@ GPArotateDF 2026.6-1
 GPArotation 2026.6-1
 GPBayes 0.1.0-6
 gpbiometrics 0.1.0
-gpboost 1.7.0.1
+gpboost 1.7.1
 gpbStat 0.4.4
 GPCMlasso 0.1-9
 gpcp 0.1.0
@@ -9436,7 +9437,7 @@ httr 1.4.8
 httr2 1.3.0
 hubeau 0.5.2
 hubEnsembles 1.0.0
-hubEvals 0.3.1
+hubEvals 0.4.0
 hubUtils 1.2.1
 hudr 1.2.0
 hues 0.2.0
@@ -10112,7 +10113,7 @@ IPCWK 1.0
 ipd 0.4.1
 IPDfromKM 0.1.10
 ipdw 2.0-0
-ipeadatar 0.2.0
+ipeadatar 0.2.1
 ipeaplot 0.5.4
 IPEC 1.1.2
 IPEDS 0.1.0
@@ -11564,7 +11565,7 @@ lulab.utils 1.0.2
 lulcc 1.0.4
 lumberjack 1.3.1
 lumbermark 0.9.0
-Luminescence 1.2.1
+Luminescence 1.3.0
 lunar 0.2-1
 lutz 0.3.2
 luz 0.5.2
@@ -12728,7 +12729,7 @@ mlmtools 1.0.2
 MLMusingR 0.4.0
 mlogit 2.0-0
 mlogitBMA 0.1-9
-mlpack 4.8.0
+mlpack 4.8.0-1
 MLpreemption 1.0.1
 MLPUGS 0.2.0
 mlpwr 1.1.1
@@ -13146,6 +13147,7 @@ mrPStrata 0.1.0
 MRQoL 1.0.1
 MRReg 0.1.6
 mrregression 1.0.0
+MRS 1.3.2
 MRStdCRT 0.1.1
 MRStdLCRT 0.1.1
 MRTAnalysis 0.4.1
@@ -14211,7 +14213,7 @@ nucim 1.0.13
 NUCOMBog 1.0.4.2
 nudibranch 0.0.1.1
 NUETON 0.2.0
-nuggets 2.2.1
+nuggets 2.2.2
 nullabor 0.3.15
 nullcat 0.2.0
 numbat 1.5.2
@@ -14349,7 +14351,7 @@ OGI 1.0.0
 oglcnac 0.1.5
 ogrdbstats 0.5.5
 OhdsiReportGenerator 2.2.0
-OhdsiShinyAppBuilder 1.0.0
+OhdsiShinyAppBuilder 1.1.0
 ohenery 0.1.4
 Ohit 1.0.0
 oHMMed 1.0.2
@@ -14841,7 +14843,7 @@ pairwise 0.6.2-0
 pairwiseCI 0.1-27
 pairwiseLLM 1.1.0
 paisaje 0.3.0
-pak 0.11.0
+pak 0.11.1
 PakPC2017 1.0.0
 PakPC2023 0.2.0
 PakPMICS2014Ch 0.1.0
@@ -16618,7 +16620,7 @@ QHScrnomo 3.0.2
 QI 0.1.0
 qicharts 0.5.10
 qicharts2 0.8.1
-qif 1.5
+qif 1.5.1
 qiitr 0.1.1
 Qindex 0.2.0
 Qindex.data 0.1.3
@@ -17168,7 +17170,7 @@ rbibutils 2.4.1
 rbin 0.2.1
 rbioacc 1.3.1
 rbioapi 0.8.3
-rbiodatacr 0.1.1
+rbiodatacr 0.1.2
 rbiom 3.1.0
 rbiouml 1.11
 rbit 1.0.0
@@ -20419,7 +20421,7 @@ slider 0.3.3
 slideview 0.2.1
 SlidingWindows 0.2.0
 slim 0.1.1
-SlimR 1.1.6
+SlimR 1.1.7
 slippymath 0.3.1
 slm 1.2.0
 SLModels 0.1.2
@@ -21242,7 +21244,7 @@ StanMoMo 1.2.0
 stanza 1.0-3
 stapler 0.8.0
 staplr 3.2.2
-starburst 0.3.8
+starburst 0.3.9
 staRdom 1.1.32
 STAREG 1.0.4
 stargazer 5.2.3
@@ -22053,7 +22055,7 @@ tdcmStan 3.0.0
 TDCor 0.1-2
 TDIagree 0.2.0
 tdigest 0.4.3
-TDLM 1.1.3
+TDLM 1.1.4
 TDPanalysis 1.0
 tdPRC 1.0.0
 tdr 0.14
@@ -23888,7 +23890,7 @@ weightedScores 0.9.5.3
 weightedsurv 0.1.0
 WeightedTreemaps 0.1.4
 weightedVoronoi 1.1.1
-weightflow 0.1.0
+weightflow 0.2.0
 WeightIt 1.7.0
 WeightMyItems 0.1.4
 weightQuant 1.0.1
@@ -24319,7 +24321,7 @@ zipsae 1.0.2
 ZLAvian 0.2.0
 zlib 1.0.3
 zlog 1.0.2
-zmctp 0.1.1
+zmctp 0.1.2
 zmisc 0.2.3
 zoeppritz 1.0-9
 zoib 1.6.1

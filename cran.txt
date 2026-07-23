@@ -1949,7 +1949,7 @@ boinet 1.5.0
 boiwsa 1.1.4
 BOJ 0.3.4
 bolasso 0.5.0
-BOLDconnectR 1.0.0
+BOLDconnectR 1.0.1
 bolder 0.1.1
 bolsec 0.1.1
 Bolstad 0.2.42
@@ -7570,7 +7570,7 @@ GANPAdata 1.0
 ganttify 0.2.7
 gap 1.15.2
 gap.datasets 0.0.6
-GapAnalysis 2.0.2
+GapAnalysis 2.1.0
 GAparsimony 0.9.5
 gapclosing 1.0.3
 gapmap 1.0.0
@@ -23824,7 +23824,7 @@ Waypoint 2.0.0
 waysign 0.1.1
 waywiser 0.6.3
 wbacon 0.6-3
-wbCorr 0.3.1
+wbCorr 0.3.2
 WBI 0.1.0
 wbids 1.1.5
 wbs 1.4.1
@@ -24105,7 +24105,7 @@ writer 0.1.0
 writexl 1.5.4
 WriteXLS 6.8.0
 wrMisc 2.1.1
-wrProteo 2.0.2
+wrProteo 2.1.0
 WRS2 1.1-7
 WRSS 3.2
 wrswoR 1.2.1

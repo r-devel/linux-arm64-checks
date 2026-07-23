@@ -3418,7 +3418,7 @@ CoMiRe 0.8
 COMIX 1.0.2
 COMMA 1.1.1
 commafree 0.2.0
-command 0.1.3
+command 0.2.0
 CommEcol 1.8.1
 commecometrics 1.1.1
 CommKern 1.0.1
@@ -3435,7 +3435,6 @@ Comp2ROC 1.1.4
 comparator 0.1.4
 compare 0.2-6
 compareC 1.3.3
-CompareCausalNetworks 0.2.6.2
 compareCstat 0.1.0
 CompAREdesign 2.4.0
 compareDF 2.3.5
@@ -4678,7 +4677,7 @@ depthR 0.1.8
 depthTools 0.7
 DER 1.5
 DeRezende.Ferreira 0.1.2
-Deriv 4.2.0
+Deriv 4.3.0
 derivmkts 0.2.5.1
 derrick 0.1.1
 DES 1.0.0
@@ -10591,7 +10590,7 @@ kernopt 1.0.0
 kernreg 1.0
 kernscr 1.0.7
 KernSmooth 2.23-26
-KernSmoothIRT 6.4
+KernSmoothIRT 6.6
 kernstadapt 0.4.0
 kerntools 1.2.1
 kerSeg 1.1
@@ -17227,7 +17226,7 @@ rcdk 3.8.2
 rcdklibs 2.9
 rcdo 0.3.2
 RCEIM 0.3
-rcens 0.1.1
+rcens 0.2.2
 Rcereal 1.3.2
 RCGLS 1.0.3
 rchallenge 1.3.4
@@ -19672,7 +19671,6 @@ selectTWFE 0.2.1
 SeleMix 1.0.4
 selenider 0.4.1
 selenium 0.2.0
-SELF 0.1.1
 SelfControlledCaseSeries 6.1.5
 SelfControlledCohort 2.0.0
 selfingTree 0.2
@@ -19827,7 +19825,7 @@ SeuratObject 5.4.0
 sevenbridges2 0.4.0
 sever 0.0.7
 sewage 0.2.5
-sf 1.1-1
+sf 1.1-2
 sfa 1.0.4
 sfadv 1.0.1
 sfaR 1.0.1
@@ -22311,7 +22309,7 @@ ThresholdROC 2.9.6
 ThresholdROCsurvival 1.2.1
 threshr 1.0.8
 thriftr 1.1.8
-ThSQCA 2.0.2
+ThSQCA 2.0.4
 thunder 1.1.5
 ThurMod 1.1.20
 thurstonianIRT 0.12.5
@@ -22580,7 +22578,7 @@ tmap.networks 0.2-1
 tmap.sources 0.1
 tmaptools 3.3
 tmapverse 0.1.0
-TMB 1.9.22
+TMB 1.9.23
 tmbstan 1.1.0
 TmCalculator 1.0.7
 TMDb 1.1
@@ -23996,7 +23994,7 @@ WLogit 2.1
 WLreg 1.0.0.1
 wlsd 1.0.1
 WMAP 1.3.1
-WMFM 1.0.4
+WMFM 1.1.4
 wmm 1.1.1
 wmwAUC 0.2.0
 wmwm 1.0.0

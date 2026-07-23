@@ -1197,7 +1197,7 @@ batman 0.1.0
 batsch 0.1.1
 BATSS 1.2.0
 batteryreduction 0.1.1
-BAwiR 1.5.2
+BAwiR 1.5.3
 bayclumpr 0.1.0
 baycn 2.0.0
 bayefdr 0.2.1
@@ -2476,6 +2476,7 @@ cati 0.99.6
 catIrt 0.5.1
 catlearn 1.1
 catmaply 0.9.5
+catmodeling 0.0.1
 catool 1.0.1
 caTools 1.18.4
 CatPredi 2.0
@@ -3237,7 +3238,7 @@ CNVreg 1.0
 CNVRG 1.0.0
 CNVScope 3.7.6
 coala 0.7.2
-coalescentMCMC 0.4-4
+coalescentMCMC 0.5
 CoalescentPhylo 0.1.0
 coalitions 0.6.27
 COAP 1.3
@@ -4359,7 +4360,7 @@ dataReporter 1.0.5
 datareportR 0.1.2
 dataresqc 1.1.1
 dataRetrieval 2.7.25
-datarium 0.1.0
+datarium 0.2.0
 datarobot 2.18.8
 datasauRus 0.1.9
 dataSDA 0.2.6
@@ -5294,6 +5295,7 @@ drtmle 1.1.2
 drugDemand 0.1.3
 drugdevelopR 1.0.2
 DrugExposureDiagnostics 1.1.9
+drugprepr 0.0.7
 drugsens 0.1.0
 DrugSim2DR 0.1.2
 DrugUtilisation 1.2.1
@@ -5733,7 +5735,7 @@ ef 1.2.0
 EFA.dimensions 0.1.8.8
 EFA.MRFA 1.1.2
 EFAfactors 1.2.4
-EFAtools 0.8.0
+EFAtools 1.0.0
 EFAutilities 2.1.3
 eFCM 1.0
 efdm 0.2.3
@@ -8567,7 +8569,7 @@ GPArotateDF 2026.6-1
 GPArotation 2026.6-1
 GPBayes 0.1.0-6
 gpbiometrics 0.1.0
-gpboost 1.7.1
+gpboost 1.7.1.1
 gpbStat 0.4.4
 GPCMlasso 0.1-9
 gpcp 0.1.0
@@ -13739,7 +13741,7 @@ netmeta 3.6-1
 netmhc2pan 1.3.3
 NetMix 0.2.0.3
 NetOrigin 1.1-7
-netplot 0.3-0
+netplot 0.4-0
 NetPreProc 1.2
 netrankr 1.2.4
 NetRep 1.2.10
@@ -15945,7 +15947,7 @@ postlogic 0.1.0.1
 POSTm 1.4
 postpack 0.5.4
 POT 1.1-11
-potential 0.2.0
+potential 0.3.0
 potentiomap 0.2.0
 poth 0.3-0
 potions 0.2.0
@@ -16441,7 +16443,7 @@ ptools 2.0.0
 PtProcess 3.3-17
 PTSDdiag 0.4.1
 PTSR 0.1.3
-PTT 1.0
+PTT 1.0.1
 pttstability 1.4
 ptvalue 0.2.0
 ptvapi 2.0.5
@@ -16686,6 +16688,7 @@ QsRutils 0.2.1
 qst 0.1.2
 qsub 1.1.3
 qtbi 0.1.2
+qte 2.0.0
 QTE.RD 1.2.0
 qtkit 1.1.1
 qtl 1.74
@@ -17140,7 +17143,7 @@ raytracing 0.6.0
 rayvertex 0.15.0
 rb3 0.1.0
 rbacon 3.5.2
-rBahadur 1.0.0
+rBahadur 1.1.0
 RBaM 1.1.2
 RBaseX 1.1.2
 rBayesianOptimization 1.2.2
@@ -17352,7 +17355,7 @@ rcppmlpackexamples 0.0.1
 RcppMsgPack 0.2.4
 RcppNLoptExample 0.0.2
 RcppNumerical 0.7-0
-RcppParallel 5.1.11-2
+RcppParallel 6.0.0
 RcppPlanc 2.0.15
 RcppProgress 0.4.2
 RcppQuantuccia 0.1.4
@@ -17985,6 +17988,7 @@ RGeode 0.1.0
 rgeomorphon 0.3.0
 rgeomstats 0.0.1
 rgeopat2 0.4.1
+rgexf 0.17.0
 RGF 1.1.1
 Rgff 0.1.7
 RGIFT 0.1-7
@@ -21994,7 +21998,7 @@ taxalight 0.1.5
 TaxaNorm 2.4
 taxdiv 0.1.0
 TaxicabCA 0.1.1
-taxify 0.3.4
+taxify 0.4.0
 taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
@@ -22308,7 +22312,7 @@ ThresholdROC 2.9.6
 ThresholdROCsurvival 1.2.1
 threshr 1.0.8
 thriftr 1.1.8
-ThSQCA 2.0.4
+ThSQCA 2.0.5
 thunder 1.1.5
 ThurMod 1.1.20
 thurstonianIRT 0.12.5
@@ -23748,7 +23752,7 @@ WAnova 0.4.0
 waou 0.1.0
 warabandi 0.1.0
 warbleR 1.1.37
-WARDEN 2.0.3
+WARDEN 2.0.6
 WAreg 0.1.0
 warehouseTools 0.1.4
 wARMASVp 0.2.0
@@ -23916,7 +23920,7 @@ WH 2.0.0
 whalestrike 0.6.2
 whapi 0.0.2
 WhatIf 1.5-11
-whatifbandit 0.3.0
+whatifbandit 1.0.2
 WhatsR 1.0.6
 whatthreewords 0.1.3
 wheatmap 0.2.4

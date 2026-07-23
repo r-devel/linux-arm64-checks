@@ -5791,6 +5791,7 @@ eiCircles 0.0.1-14
 eicm 1.0.3
 EIEntropy 0.0.1.4
 eiExpand 1.0.5
+eigencore 1.0.0
 eigenmodel 1.12
 eiIT 0.0.1-1
 eikosograms 1.0.0
@@ -9013,6 +9014,7 @@ hatsurvey 1.1.1
 HausdorffGoF 0.3.0
 havel 0.1.2
 haven 2.5.5
+HawaSpatial 0.1.10
 hawkes 0.0-4
 hawkesbow 1.0.3
 hawkinR 2.0.1
@@ -10376,7 +10378,7 @@ jcolors 0.0.5
 jcp 1.2
 JCRImpactFactor 1.0.0
 Jcvrisk 0.1.3
-JDCruncheR 0.4.0
+JDCruncheR 0.4.1
 jdenticon 0.1.1
 Jdmbs 1.4
 jds.rmd 0.3.4
@@ -10756,7 +10758,7 @@ kronxNBC 0.1.1
 ks 1.15.2
 KSA 0.1.0
 kSamples 1.2-12
-KScorrect 1.4.0
+KScorrect 1.4.2
 KSEAapp 2.0
 kselection 0.2.1
 ksformat 0.8.2
@@ -11354,6 +11356,7 @@ locaR 0.2.0
 locateip 0.1.2
 locatexec 0.2.0
 locationgamer 0.1.0
+locatr 0.1.0
 LocaTT 1.3.0
 locdiff 1.4
 locfdr 1.1-8
@@ -11710,7 +11713,7 @@ mantar 0.3.1
 mantis 1.0.2
 manureshed 0.1.5
 manydata 1.1.3
-manydist 0.5.0
+manydist 0.5.1
 ManyIVsNets 0.1.1
 manymodelr 0.4.0
 manymome 0.3.6
@@ -11764,7 +11767,7 @@ mapSpain 1.2.0
 mapsPERU 2.0.1
 mapsRinteractive 2.0.1
 mapStats 3.2
-maptiles 0.11.0
+maptiles 0.12.0
 maptpx 1.9-7
 maptree 1.4-9
 mapview 2.11.4
@@ -12709,6 +12712,7 @@ MLE 1.8
 mlearning 1.2.1
 MLEce 2.1.0
 MLEcens 0.1-7.1
+MleCensoR 0.1.0
 mlegp 3.1.10
 mlelod 1.0.0.1
 mlergm 0.8.1
@@ -17249,6 +17253,7 @@ rChEA3 1.0.1
 rchemo 0.1-4
 rcheology 4.6.1.0
 RChest 1.0.3
+rchime 0.1.0
 RchivalTag 0.2.2
 Rchoice 0.3-6
 rChoiceDialogs 1.0.6.1
@@ -18097,7 +18102,7 @@ ridgregextra 0.1.1
 ridigbio 0.4.1
 riem 1.0.0
 Riemann 0.1.7
-riemannianStats 0.1.1
+riemannianStats 0.2.0
 RiemBase 0.2.6
 riemtan 0.2.5
 Riex 1.0.2
@@ -20851,7 +20856,7 @@ spatialTIME 1.3.4-5
 SpatialTools 1.0.5
 SpatialVS 1.1
 SpatialVx 1.0-3
-spatialwarnings 3.1.1
+spatialwarnings 3.1.2
 spatialwidget 0.2.6
 SpatMCA 1.0.7
 SpaTopic 1.3.1
@@ -22402,7 +22407,7 @@ tidyklips 0.3.0
 tidylaslog 0.1.2
 tidylda 0.0.7
 tidylearn 0.3.1
-tidyllm 0.5.0
+tidyllm 0.5.1
 tidylo 0.2.0
 tidylog 1.1.0
 tidyLPA 2.0.2
@@ -23097,7 +23102,7 @@ twbparser 0.5.0
 twc 0.0.2
 twdtw 1.0-1
 tweedie 3.1.0
-tweedieDistr 0.1.0
+tweedieDistr 0.1.1
 tweenr 2.0.3
 tweetcheck 0.1.0
 twenty48 0.2.1
@@ -23703,7 +23708,7 @@ VOWR 0.1.0
 VoxR 1.0.0
 vpc 1.2.4
 VPdtw 2.2.1
-vprint 1.2
+vprint 1.3
 vrnmf 1.0.2
 vroom 1.7.1
 vrpr 0.1.0

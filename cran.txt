@@ -797,7 +797,7 @@ arsenal 3.7.1
 arthistory 0.1.0
 artma 0.3.3
 ARTofR 0.4.1
-artoo 0.1.2
+artoo 0.1.3
 ARTool 0.11.2
 artpack 0.2.0
 aRtsy 1.0.1
@@ -2042,7 +2042,7 @@ bpa 0.1.1
 bpAcc 0.0-2
 bpbounds 0.1.8
 bpca 1.5-0
-bpcp 1.5.4
+bpcp 1.5.5
 bpDir 0.1.2
 bpgmm 1.3.1
 bplsr 1.0.5
@@ -4371,7 +4371,7 @@ datasets.load 2.3.0
 datasetsICR 1.0
 DataSetsUni 0.1
 DataSetsVerse 0.1.0
-datasetviewer 0.1.1
+datasetviewer 0.2.0
 DataSimilarity 0.4.0
 DataSpaceR 1.0.0
 dataspice 1.1.1
@@ -4426,7 +4426,7 @@ DBHC 0.0.3
 dbhydroR 0.2-8
 DBI 1.3.0
 dbi.table 1.0.7
-DBItest 1.8.2
+DBItest 1.8.3
 dblcens 1.1.9
 dBlockmodeling 0.2.3
 DBmaps 0.1.0
@@ -16602,7 +16602,7 @@ Qest 1.0.2
 QF 0.0.9
 qfa 5.0
 QFASA 1.2.1
-qfratio 1.1.1
+qfratio 1.1.2
 QFRM 1.0.1
 QGA 1.0
 qgam 2.0.0
@@ -17181,7 +17181,7 @@ Rblpapi 0.3.16
 rblt 0.2.4.7
 rbm25 0.0.4
 rBMF 1.1
-rbmi 1.6.0
+rbmi 1.6.1
 rbmiUtils 0.3.0
 rbmn 0.9-6
 RBNZ 3.0.0
@@ -20284,7 +20284,6 @@ simsurv 1.0.1
 SimSurvey 0.1.8
 SimtablR 1.2.0
 simTargetCov 1.0.1
-SimTimeVar 1.0.0
 simTool 1.1.9
 SimTOST 1.0.2
 simtrait 1.1.3

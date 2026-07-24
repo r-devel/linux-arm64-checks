@@ -84,6 +84,7 @@ acfMPeriod 1.1.0
 achieveGap 0.1.0
 Achilles 1.7.2
 acid 1.1
+ackwards 0.1.1
 acled.api 1.1.8
 acledR 1.0.1
 aclhs 1.0.1
@@ -193,6 +194,7 @@ adestr 1.0.0
 adfExplorer 2.1.0
 adformR 0.1.0
 ADGofTest 0.3
+adheaping 1.0.0
 adheRenceRX 1.0.0
 AdhereR 0.8.3
 AdhereRViz 0.2.2
@@ -2702,6 +2704,7 @@ ces 1.1.0
 ceser 1.0.0
 cetcolor 0.2.0
 ceterisParibus 0.6
+cevcmm 0.1.3
 cfa 0.10-2
 CFAcoop 1.0.0
 cfbfastR 2.0.0
@@ -6487,7 +6490,7 @@ FactEff 1.0
 factiv 0.1.0
 FACTMLE 1.1
 FactoClass 1.2.9
-factoextra 2.1.0
+factoextra 2.2.0
 FactoInvestigate 1.9.1
 FactoMineR 2.16
 factoptd 1.0.3
@@ -7162,6 +7165,7 @@ ForeCA 0.2.7
 forecast 9.0.2
 forecastADAPT 0.1.0
 ForecastCombinations 1.1
+forecastdom 0.1.0
 forecasteR 3.0.2
 forecastHybrid 5.1.21
 ForecastingEnsembles 0.5.1
@@ -9120,6 +9124,7 @@ heartbeatr 1.0.0
 heatex 1.0
 heatindex 0.0.2
 heatmap3 1.1.9
+heatmapbehavior 0.1.0
 heatmapFit 2.0.4
 heatmapFlex 0.1.2
 heatmaply 1.6.0
@@ -11829,7 +11834,7 @@ MarZIC 1.0.1
 mas 0.4
 maSAE 2.0.3
 masc 0.1.0
-mascarade 0.4.1
+mascarade 0.4.2
 mase 0.1.5.2
 mashr 0.2.79
 maskedcauses 0.10.0
@@ -12228,6 +12233,7 @@ MetaDose 1.0.1
 metaDyn 1.0.1
 metadynminer 0.1.7
 metadynminer3d 0.0.2
+MetaEEEA 1.0.0
 metaEnsembleR 0.1.0
 MetaEntropy 1.3
 metafolio 0.1.2
@@ -13325,6 +13331,7 @@ multifamm 0.1.1
 multiFANOVA 0.1.0
 multifear 0.1.5
 MultiFit 1.1.1
+multiflexscan 0.1.0
 multifunc 0.9.4
 multifwf 0.2.2
 MultiGlarmaVarSel 1.0
@@ -14287,6 +14294,7 @@ obliqueRSF 0.1.2
 obm 2.1
 OBMbpkg 1.0.0
 obr 0.2.5
+obrasgovr 0.1.0
 OBRE 0.2-0
 Observation 0.3.0
 observationalBlocks 1.0.0
@@ -16919,6 +16927,7 @@ R6Nomogram 1.0
 R6P 0.4.0
 r6qualitytools 1.0.1
 ra4bayesmeta 1.0-8
+rabhit 0.4.0
 RABR 0.1.1
 RAC 1.5.5
 racademyocean 0.3.3
@@ -17103,6 +17112,7 @@ Rarity 1.3-8
 rarms 1.0.0
 rARPACK 0.11-0
 RARtrials 0.0.2
+RAS 1.0.3
 RaschSampler 0.8-10
 rasciidoc 4.1.1
 RaSEn 3.0.0
@@ -17480,7 +17490,7 @@ RDStreeboot 1.0
 Rdta 1.0.1
 rdtLite 1.4
 rdtools 0.1.0
-Rduckhts 1.4.0-0.1.0
+Rduckhts 1.5.0-0.1.0
 Rduino 0.1
 Rduinoiot 0.1.0
 Rdune 1.1.1
@@ -19710,6 +19720,7 @@ semds 0.9-7
 semEff 0.7.2
 semEffect 1.2.3
 semfindr 0.2.0
+semFromKeys 0.2.2
 semgram 0.1.0
 SEMgraph 1.2.4
 semhelpinghands 0.1.15
@@ -20808,6 +20819,7 @@ sparsevctrs 0.3.6
 SparseVFC 0.1.2
 sparsio 1.0.1
 sparta 1.0.1
+SPARTAAS 1.2.7
 sparvaride 1.0.0
 spass 1.3
 spate 1.7.5
@@ -22779,7 +22791,7 @@ transformer 0.2.0
 transformerForecasting 0.1.0
 transformmos 0.1.0
 transformr 0.1.5
-transfR 1.1.12
+transfR 1.1.18
 transGFM 1.0.2
 TransHDM 1.0.1
 Transition 1.0.3
@@ -23047,6 +23059,7 @@ tTOlr 0.2.3
 TTR 0.24.4
 TTR.PGM 1.0.0
 TTS 1.1
+tts.api 0.3.0
 ttScreening 1.8
 ttservice 0.5.3
 ttt 1.0
@@ -23627,7 +23640,7 @@ visdat 0.6.0
 ViSe 0.1.3
 VisitorCounts 2.0.4
 vismeteor 3.0.1
-vismi 0.9.5
+vismi 1.0.0
 visNetwork 2.1.4
 visOmopResults 1.5.0
 visor 0.1.1

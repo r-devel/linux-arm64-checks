@@ -19086,7 +19086,7 @@ Runuran 0.41
 rupturesRcpp 1.0.2
 rurality 0.1.1
 rurl 1.2.0
-rush 1.2.0
+rush 1.2.1
 rusk 0.1.1
 rust 1.4.4
 rutifier 1.0.4

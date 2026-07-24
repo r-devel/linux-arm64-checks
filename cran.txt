@@ -2206,7 +2206,7 @@ BTM 0.3.8
 btml 0.4.0
 btrm 0.2.0
 BTSPAS 2024.11.1
-BTSR 1.0.2
+BTSR 1.1.0
 BTtest 0.10.3
 BTTL 1.0.0
 btw 1.3.0
@@ -5306,7 +5306,7 @@ DrugExposureDiagnostics 1.1.9
 drugprepr 0.0.7
 drugsens 0.1.0
 DrugSim2DR 0.1.2
-DrugUtilisation 1.2.1
+DrugUtilisation 1.3.0
 drumr 0.1.0
 DRviaSPCN 0.1.5
 dryingkineticmodels 1.0.0
@@ -6388,7 +6388,7 @@ expm 1.0-0
 export 0.3.3
 ExPosition 2.11.0
 ExposR 1.2
-expowo 3.0
+expowo 3.1
 expperm 1.6
 ExpRep 1.0
 ExpressionCellNet 0.1.2
@@ -8092,7 +8092,7 @@ gginference 0.1.3
 gginnards 0.2.0-2
 ggInterval 0.2.5
 ggip 0.3.2
-GGIR 3.3-6
+GGIR 3.3-8
 ggiraph 0.9.6
 ggiraphExtra 0.3.0
 GGIRread 1.0.9
@@ -13771,7 +13771,7 @@ netplot 0.4-0
 NetPreProc 1.2
 netrankr 1.2.4
 NetRep 1.2.10
-netrics 0.3.1
+netrics 0.4.0
 netropy 0.3.0
 NetSci 1.0.1
 netseer 0.1.3
@@ -24227,7 +24227,7 @@ xopen 1.0.1
 xpect 1.2
 xpectr 0.4.5
 xplain 0.2.2
-xplainfi 1.1.0
+xplainfi 1.2.0
 xplorerr 0.2.0
 Xplortext 1.6.1
 xportr 0.5.0

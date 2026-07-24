@@ -1950,6 +1950,7 @@ BOIN 2.7.2
 boinet 1.5.0
 boiwsa 1.1.4
 BOJ 0.3.4
+bojapi 0.1.0
 bolasso 0.5.0
 BOLDconnectR 1.0.1
 bolder 0.1.1
@@ -4758,7 +4759,7 @@ devtools 2.5.2
 DevTreatRules 1.1.0
 DEXiR 1.0.2
 dexisensitivity 1.0.2
-dexter 1.8.0
+dexter 1.8.1
 dextergui 1.0.3
 df2yaml 0.3.1
 DFA 1.0.0
@@ -6742,7 +6743,7 @@ fdicdata 0.1.2
 fdid 1.0.2
 fdm2id 0.9.9
 fDMA 2.2.9
-FDOTT 0.1.0
+FDOTT 0.2.0
 fdp 1.0.0
 fdq 0.12
 fdrci 2.4
@@ -9236,6 +9237,7 @@ hierSDR 0.1
 HiGarrote 2.0.0
 highcharter 0.9.5
 highd2means 1.0
+HighDimenCDM 0.1.0
 highdir 0.5.0
 highDmean 0.1.0
 HighestMedianRules 1.0
@@ -10199,6 +10201,7 @@ irt 0.2.9
 irtawsi 0.4.1
 irtbem2pl 1.0.0
 IRTBEMM 1.0.8
+IRTC 1.1.1
 irtDemo 0.1.5
 IRTest 2.2.0
 irtGUI 0.2
@@ -11257,6 +11260,7 @@ litterfitter 0.1.4
 littler 0.3.23
 liureg 1.1.2
 live 1.5.13
+livelink 0.1.0
 liver 1.29
 LJexm 1.0.5
 LJmp3converter 1.0.7
@@ -12593,6 +12597,7 @@ MissingHandle 0.1.1
 missingHE 1.6.1
 MissingPlotLSD 0.1.0
 MissingPlotRBD 1.1.0
+missknn 1.0.0
 missMDA 1.22
 MissMech 1.0.4
 missMethods 0.4.0
@@ -14546,7 +14551,7 @@ OpenRepGrid.ic 0.6.2
 openrouteservice 0.6.2
 openscoring 1.1.0
 opensimplex2 0.0.3
-openSkies 1.3.0
+openSkies 1.3.1
 OpenSourceAP.DownloadR 0.1.0
 OpenSpecy 1.5.3
 openssl 2.4.2
@@ -19148,7 +19153,7 @@ rwunderground 0.1.8
 RXKCD 2.0.1
 RxnSim 1.0.4
 rxode2 5.1.4
-rxode2ll 2.0.15
+rxode2ll 2.0.16
 rxode2mrgsolvebridge 0.1.0
 rxref 0.4.0
 rxSeq 0.99.3
@@ -20191,6 +20196,7 @@ SILGGM 1.0.0
 Silhouette 0.9.6
 silicate 0.7.1
 SillyPutty 0.4.2
+sillysplines 1.0.1
 silp 1.0.3
 silviculture 0.2.0
 sim.BA 0.1.0
@@ -20628,6 +20634,7 @@ sobolnp 0.1.0
 socceR 0.1.1
 social 1.0
 socialdrift 0.1.0
+SocialFacts 1.3.0
 socialh 0.1.1
 socialmixr 0.6.0
 socialranking 1.2.0
@@ -21381,6 +21388,7 @@ stdReg 3.4.2
 stdReg2 1.0.7
 stdvectors 0.0.5
 steadyICA 1.0.1
+SteadyStateBVAR 0.1.0
 StealLikeBayes 1.0
 steepness 0.3-0
 SteinIV 0.1-1
@@ -23756,7 +23764,7 @@ vvtableau 0.9.0
 vvtermtime 0.1.0
 vwline 0.2-4
 VWPre 1.2.5
-vws 0.3.0
+vws 0.4.0
 W2CWM2C 2.2
 W3CMarkupValidator 0.2-4
 W4MRUtils 1.2.2

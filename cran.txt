@@ -13073,7 +13073,7 @@ movMF 0.2-11
 mp 0.4.1
 mpactr 0.3.3
 mpae 0.1.2
-mpaR 0.4.0
+mpaR 0.5.0
 mpath 0.4-2.27
 mpathr 1.0.4
 mpathsenser 1.2.4
@@ -18032,7 +18032,7 @@ rgph 0.1.0
 rgplates 0.6.1
 rgraph6 2.0-5
 RGraphics 3.0-2
-RGraphSpace 1.4.1
+RGraphSpace 1.5.0
 rgrass 0.5-3
 RGreenplum 0.1.2
 RGremlinsConjoint 0.9.1
@@ -21364,7 +21364,7 @@ stdbscan 0.2.0
 stddiff 3.1
 stddiff.spark 1.0
 STDistance 0.6.8
-stdmod 0.2.13
+stdmod 0.2.14
 stdReg 3.4.2
 stdReg2 1.0.7
 stdvectors 0.0.5

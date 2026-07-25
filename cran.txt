@@ -2584,7 +2584,7 @@ ccmReportR 0.1.0
 ccoptimalmatch 0.1.1
 ccostr 0.1.1
 CCP 1.2
-ccpsyc 0.2.6
+ccpsyc 0.2.8
 ccRemover 1.0.4
 ccrtm 0.1.6
 CCSRfind 0.1.0
@@ -3087,7 +3087,7 @@ CliquePercolation 0.4.0
 clisymbols 1.2.0
 clitable 0.1.0
 CLME 2.0-13
-clmplus 1.0.1
+clmplus 1.1.0
 clmstan 0.1.2
 clock 0.7.4
 clockify 0.1.7
@@ -5795,7 +5795,7 @@ eiCircles 0.0.1-14
 eicm 1.0.3
 EIEntropy 0.0.1.4
 eiExpand 1.0.5
-eigencore 1.0.0
+eigencore 1.0.1
 eigenmodel 1.12
 eiIT 0.0.1-1
 eikosograms 1.0.0
@@ -21709,7 +21709,7 @@ surveydata 0.2.8
 SurveyDefense 0.2.0
 surveydown 1.3.0
 surveyexplorer 0.2.0
-surveyframe 0.3.3
+surveyframe 0.3.4
 surveygraph 1.0.0
 surveyplanning 4.0
 surveyPrev 2.0.0

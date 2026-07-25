@@ -11891,7 +11891,7 @@ matrans 0.2.0
 matricks 0.8.2
 matRiks 0.1.5
 matrisk 0.1.0
-Matrix 1.7-5
+Matrix 1.7-6
 matrixcalc 1.0-6
 matrixCorr 0.12.2
 MatrixCorrelation 0.10.1

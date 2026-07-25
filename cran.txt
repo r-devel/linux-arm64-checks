@@ -15860,7 +15860,7 @@ PolycrossDesigns 1.1.0
 polyCub 0.9.4
 polyglotr 1.7.4
 PolyHaplotyper 1.0.1
-polykde 1.1.7
+polykde 1.2.0
 polylabelr 1.0.0
 polymapR 1.1.7
 polymatching 1.0.1
@@ -17344,7 +17344,7 @@ Rcpp 1.1.2
 RcppAlgos 2.10.1
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
-RcppArmadillo 15.4.0-1
+RcppArmadillo 15.4.2-1
 RcppArray 0.3.0
 Rcppautodiff 0.1.0
 RcppBDT 0.2.8

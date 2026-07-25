@@ -2266,7 +2266,7 @@ bvhar 2.4.1
 bvls 1.4
 bvpa 1.0.0
 bwd 0.1.0
-bWGR 2.2.17
+bWGR 2.2.18
 BWGS 0.2.1
 bwimage 1.3
 BwQuant 0.1.0
@@ -3808,7 +3808,7 @@ countSTAR 1.2.0
 countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
-couplr 1.5.0
+couplr 1.5.3
 courieR 0.3.1
 covadap 1.0.1
 covafillr 0.4.4
@@ -4110,7 +4110,7 @@ ctoclient 0.1.0
 cTOST 1.0.1
 ctqr 2.2
 ctrdata 1.26.2
-ctreeMI 0.2.0
+ctreeMI 0.3.0
 ctrialsgov 0.2.7
 CTRing 0.1.0
 ctrlGene 1.0.1
@@ -5794,7 +5794,7 @@ eiCircles 0.0.1-14
 eicm 1.0.3
 EIEntropy 0.0.1.4
 eiExpand 1.0.5
-eigencore 1.0.1
+eigencore 1.0.2
 eigenmodel 1.12
 eiIT 0.0.1-1
 eikosograms 1.0.0
@@ -15517,7 +15517,7 @@ PhytosanitaryCalculator 1.1.3
 piar 0.9.0
 PiC 3.3.1
 picante 1.8.2
-picasso 1.5
+picasso 2.0.1
 PICBayes 1.0
 picClip 0.1.0
 picker 0.2.6

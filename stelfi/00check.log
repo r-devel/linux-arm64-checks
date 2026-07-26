@@ -6,7 +6,7 @@
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04 LTS
 * using session charset: UTF-8
-* current time: 2026-07-19 02:28:30 UTC
+* current time: 2026-07-26 02:35:10 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘stelfi/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -23,7 +23,7 @@
 * checking whether package ‘stelfi’ can be installed ... OK
 * used C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
 * checking installed package size ... INFO
-  installed size is 97.6Mb
+  installed size is 97.7Mb
   sub-directories of 1Mb or more:
     libs  96.5Mb
 * checking package directory ... OK

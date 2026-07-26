@@ -4627,7 +4627,7 @@ DEmixR 0.1.1
 DemoDecomp 1.14.1
 demodelr 2.0.1
 demofit 0.1.4
-DemogAnr 0.1.0
+DemogAnr 0.2.0
 demogR 0.6.0
 DemographicTable 0.2.3
 demography 2.0.1
@@ -5362,7 +5362,7 @@ DSWE 1.8.4
 DT 0.34.0
 DT2 0.1.2
 Dtableone 1.1.0
-dtametaTMB 0.1.0
+dtametaTMB 0.1.1
 dtangle 2.0.9
 DTAplots 1.0.2.5
 DTAT 0.3-8
@@ -8305,7 +8305,7 @@ ginormal 0.0.2
 GInSARCorW 1.15.8
 gIPFrm 3.1
 GIplot 0.1.0
-gips 1.2.3
+gips 1.3.0
 gipsDA 0.1.2
 GiRaF 1.0.2
 giscoR 1.1.1
@@ -12774,7 +12774,7 @@ mlr3fselect 1.6.0
 mlr3hyperband 1.1.1
 mlr3inferr 0.2.1
 mlr3learners 0.15.1
-mlr3mbo 1.2.0
+mlr3mbo 1.2.1
 mlr3measures 1.3.0
 mlr3misc 0.22.0
 mlr3oml 0.12.0

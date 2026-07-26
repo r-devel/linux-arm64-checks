@@ -1,6 +1,6 @@
 # ROI.plugin.qpoases 1.0-3
 
-Latest run: 2026-07-19: https://github.com/r-devel/linux-arm64-checks/actions/runs/29669309640
+Latest run: 2026-07-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/30183777654
 
 ```
 Package: ROI.plugin.qpoases

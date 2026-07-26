@@ -10,7 +10,6 @@ ROI.plugin.qpoases,1.0-3,linux-arm64,https://github.com/r-devel/linux-arm64-chec
 RSSL,0.9.8,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RSSL
 RTriangle,1.6-0.15,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RTriangle
 Rbeast,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/Rbeast
-Rtinycc,0.1.12,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/Rtinycc
 ShortRead,1.69.3-2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ShortRead
 arsenal,3.7.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/arsenal
 baggr,0.8.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/baggr

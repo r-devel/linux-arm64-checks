@@ -8260,7 +8260,7 @@ ggx 0.1.1
 gh 1.6.1
 ghapps 1.1.1
 Ghat 0.2.0
-ghclass 0.4.0
+ghclass 0.4.1
 ghcm 3.0.1
 GHCNr 1.4.7
 ghibli 0.3.4
@@ -8398,7 +8398,7 @@ glmnetcr 1.0.7
 glmnetr 0.6-3
 glmnetSE 0.0.1
 glmnetUtils 1.1.9
-GLmom 2.0.0
+GLmom 2.0.1
 GLMpack 0.1.0
 glmpath 0.98
 glmpathcr 1.0.10
@@ -17385,7 +17385,7 @@ rcppmlpackexamples 0.0.1
 RcppMsgPack 0.2.4
 RcppNLoptExample 0.0.2
 RcppNumerical 0.7-0
-RcppParallel 6.0.0
+RcppParallel 6.1.0
 RcppPlanc 2.0.15
 RcppProgress 0.4.2
 RcppQuantuccia 0.1.4
@@ -18945,7 +18945,7 @@ rstan 2.32.7
 rstanarm 2.32.2
 rstanbdp 0.0.3
 rstanemax 0.1.10
-rstantools 2.6.0
+rstantools 2.7.0
 RStanTVA 0.3.2
 RStata 1.1.2
 rstatix 1.1.0
@@ -19012,7 +19012,7 @@ rtide 0.0.12
 rtika 3.2.3
 rtiktokads 0.3.4
 rtiktoken 0.0.7
-Rtinycc 0.1.12
+Rtinycc 0.1.15
 rtip 1.1.1
 rtist 1.0.0
 rtk 0.2.7

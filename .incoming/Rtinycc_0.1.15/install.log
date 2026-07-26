@@ -1,0 +1,127 @@
+* installing *source* package ‘Rtinycc’ ...
+** this is package ‘Rtinycc’ version ‘0.1.15’
+** using staged installation
+Starting configure for Rtinycc
+Package source directory: /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc
+TinyCC source directory: /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc
+TinyCC install directory: /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc
+WebAssembly package build: no
+Unpacking vendored TinyCC source
+RUN: /usr/lib/R/bin/Rscript /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/tools/vendortinycc.R unpack
+RUN: mkdir -p /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/include
+Building TinyCC in /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc
+Selected shared library target: libtcc.so
+RUN: ./configure --prefix=/tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc --cc=aarch64-linux-gnu-gcc --ar=ar --extra-cflags=-fPIC --disable-rpath --debug
+Adding relocatable loader path to TinyCC CLI
+RUN: make CONFIG_static=no libtcc.a libtcc.so libtcc1.a tcc
+Installing TinyCC artifacts (replicates install-unx, minus docs)
+RUN: mkdir -p /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/bin /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/include /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc/include
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/tcc /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/bin/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/libtcc.h /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/include/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/libtcc.so /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/libtcc.a /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/libtcc1.a /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc/
+RUN: cp -R /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/include/. /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc/include/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/tcclib.h /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc/include/
+Running minimal TCC JIT test
+Minimal TCC JIT test exit code: 0
+TinyCC built and installed successfully
+Removing temporary source tree: /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc
+Starting configure for Rtinycc
+Package source directory: /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc
+TinyCC source directory: /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc
+TinyCC install directory: /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc
+WebAssembly package build: no
+Unpacking vendored TinyCC source
+RUN: /usr/lib/R/bin/Rscript /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/tools/vendortinycc.R unpack
+Unpacking tinycc tarball...
+Renaming tinycc-199f07becdc89cbfb33c54a509d99aab8ff53299 to tinycc
+tinycc unpacked to /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc
+RUN: mkdir -p /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/include
+Building TinyCC in /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc
+Selected shared library target: libtcc.so
+RUN: ./configure --prefix=/tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc --cc=aarch64-linux-gnu-gcc --ar=ar --extra-cflags=-fPIC --disable-rpath --debug
+Binary directory    /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/bin
+TinyCC directory    /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc
+Library directory   /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib
+Include directory   /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/include
+Manual directory    /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/share/man
+Info directory      /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/share/info
+Doc directory       /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/share/doc
+Source path         /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc
+Build OS            Linux aarch64
+C compiler          aarch64-linux-gnu-gcc (15.2)
+Target OS           Linux
+CPU                 arm64
+Triplet             aarch64-linux-gnu
+Config              rpath=no debug
+Creating config.mak and config.h
+Adding relocatable loader path to TinyCC CLI
+RUN: make CONFIG_static=no libtcc.a libtcc.so libtcc1.a tcc
+aarch64-linux-gnu-gcc -o libtcc.o -c libtcc.c -I. -DONE_SOURCE=0 -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -DC2STR conftest.c -o c2str.exe
+./c2str.exe include/tccdefs.h tccdefs_.h
+aarch64-linux-gnu-gcc -o tccpp.o -c tccpp.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o tccgen.o -c tccgen.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o tccdbg.o -c tccdbg.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o tccelf.o -c tccelf.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o tccasm.o -c tccasm.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o tccrun.o -c tccrun.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o arm64-gen.o -c arm64-gen.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o arm64-link.o -c arm64-link.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o arm64-asm.o -c arm64-asm.c -I. -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+ar rcs libtcc.a libtcc.o tccpp.o tccgen.o tccdbg.o tccelf.o tccasm.o tccrun.o arm64-gen.o arm64-link.o arm64-asm.o
+aarch64-linux-gnu-gcc -shared -Wl,-soname,libtcc.so -o libtcc.so libtcc.o tccpp.o tccgen.o tccdbg.o tccelf.o tccasm.o tccrun.o arm64-gen.o arm64-link.o arm64-asm.o -lm -ldl -lpthread -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.6.1-1.2604.1%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -Wl,-rpath,'$ORIGIN' -Wl,-rpath,'$ORIGIN/../lib' -g -fPIC
+aarch64-linux-gnu-gcc -o tcc.o -c tcc.c -I. -DONE_SOURCE=0 -fPIC -Wdeclaration-after-statement -Wno-unused-result -g
+aarch64-linux-gnu-gcc -o tcc tcc.o libtcc.so -lm -ldl -lpthread -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.6.1-1.2604.1%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -Wl,-rpath,'$ORIGIN' -Wl,-rpath,'$ORIGIN/../lib' -g
+make[1]: Entering directory '/tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/lib'
+../tcc -c lib-arm64.c -o lib-arm64.o -B.. -I..
+../tcc -c stdatomic.c -o stdatomic.o -B.. -I..
+../tcc -c atomic.S -o atomic.o -B.. -I..
+../tcc -c builtin.c -o builtin.o -B.. -I..
+../tcc -c alloca.S -o alloca.o -B.. -I..
+../tcc -c alloca-bt.S -o alloca-bt.o -B.. -I..
+../tcc -c tcov.c -o tcov.o -B.. -I..
+../tcc -c armflush.c -o armflush.o -B.. -I..
+../tcc -c dsohandle.c -o dsohandle.o -B.. -I..
+../tcc -ar rcs ../libtcc1.a lib-arm64.o stdatomic.o atomic.o builtin.o alloca.o alloca-bt.o tcov.o armflush.o dsohandle.o
+../tcc -c runmain.c -o ../runmain.o -B.. -I..
+../tcc -c bt-exe.c -o ../bt-exe.o -B.. -I..
+../tcc -c bt-log.c -o ../bt-log.o -B.. -I..
+../tcc -c bcheck.c -o ../bcheck.o -B.. -I.. -bt
+make[1]: Leaving directory '/tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/lib'
+make: 'tcc' is up to date.
+Installing TinyCC artifacts (replicates install-unx, minus docs)
+RUN: mkdir -p /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/bin /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/include /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc/include
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/tcc /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/bin/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/libtcc.h /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/include/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/libtcc.so /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/libtcc.a /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/libtcc1.a /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc/
+RUN: cp -R /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/include/. /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc/include/
+RUN: cp /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc/tcclib.h /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/inst/tinycc/lib/tcc/include/
+Running minimal TCC JIT test
+forty_two() = 42
+Minimal TCC JIT test exit code: 0
+TinyCC built and installed successfully
+Removing temporary source tree: /tmp/RtmpJVqWYt/R.INSTALL5e32365131b/Rtinycc/src/tinycc
+** libs
+using C compiler: ‘aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/tinycc/include -I../inst/tinycc/lib/tcc/include     -I../inst/tinycc/include -I../inst/tinycc/lib/tcc/include -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=/usr/src/r-base-4.6.1-1.2604.1 -Wdate-time -D_FORTIFY_SOURCE=3  -c RC_libtcc.c -o RC_libtcc.o
+aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/tinycc/include -I../inst/tinycc/lib/tcc/include     -I../inst/tinycc/include -I../inst/tinycc/lib/tcc/include -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=/usr/src/r-base-4.6.1-1.2604.1 -Wdate-time -D_FORTIFY_SOURCE=3  -c init.c -o init.o
+aarch64-linux-gnu-gcc -I"/usr/share/R/include" -DNDEBUG -I../inst/tinycc/include -I../inst/tinycc/lib/tcc/include     -I../inst/tinycc/include -I../inst/tinycc/lib/tcc/include -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-UEX4wg/r-base-4.6.1=/usr/src/r-base-4.6.1-1.2604.1 -Wdate-time -D_FORTIFY_SOURCE=3  -c platform_async.c -o platform_async.o
+aarch64-linux-gnu-gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.6.1-1.2604.1%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -o Rtinycc.so RC_libtcc.o init.o platform_async.o ../inst/tinycc/lib/libtcc.so -Wl,-rpath,$ORIGIN/../tinycc/lib -L/usr/lib/R/lib -lR
+installing via 'install.libs.R' to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-Rtinycc/00new/Rtinycc
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (Rtinycc)

@@ -84,7 +84,7 @@ acfMPeriod 1.1.0
 achieveGap 0.1.0
 Achilles 1.7.2
 acid 1.1
-ackwards 0.1.1
+ackwards 0.2.0
 acled.api 1.1.8
 acledR 1.0.1
 aclhs 1.0.1
@@ -2706,7 +2706,7 @@ ces 1.1.0
 ceser 1.0.0
 cetcolor 0.2.0
 ceterisParibus 0.6
-cevcmm 0.1.3
+cevcmm 0.1.4
 cfa 0.10-2
 CFAcoop 1.0.0
 cfbfastR 2.0.0
@@ -2991,7 +2991,7 @@ clarify 0.2.3
 clarkeTest 0.2.0
 class 7.3-23
 ClassComparison 3.3.5
-ClassDiscovery 3.4.9
+ClassDiscovery 3.4.10
 classGraph 0.7-7
 classicaltest 0.7.5
 ClassificationEnsembles 1.0.2
@@ -8151,7 +8151,7 @@ ggplot2movies 0.0.1
 ggplotAssist 0.1.3
 ggplotgui 1.0.0
 ggplotify 0.1.3
-ggplotplus 0.5.5
+ggplotplus 0.5.6
 ggpmisc 1.0.0
 ggPMX 1.3.2
 ggpointdensity 0.2.1
@@ -8887,7 +8887,7 @@ guescini 0.1.0
 guess 0.3.0
 GUEST 0.2.0
 guidedPLS 1.2.1
-guideR 0.9.0
+guideR 0.10.0
 guildai 0.0.1
 GUILDS 1.4.7
 guiplot 0.5.0
@@ -11282,7 +11282,7 @@ llmjoin 0.3.0
 llmjson 0.1.0
 LLMR 0.8.11
 LLMR.shiny 0.1.1
-LLMRagent 0.8.0
+LLMRagent 0.8.1
 llmshieldr 0.1.0
 LLMTranslate 0.4.0
 llogistic 1.0.3
@@ -13878,7 +13878,7 @@ ngspatial 1.2-2
 NHANES 2.1.0
 nhanesA 1.4.1
 nhanesdata 0.2.2
-nhanesdiva 1.0.1
+nhanesdiva 1.0.2
 nhanesR 0.1.5
 nhdplusTools 1.5.0
 nhdR 0.6.1
@@ -14030,7 +14030,7 @@ nngeo 0.4.8
 nnlasso 0.3
 nnlib2Rcpp 0.2.9
 nnls 1.6
-nnmf 1.4
+nnmf 1.6
 NNMIS 1.0.1
 NNMoMo 0.1.0
 nnR 0.1.0
@@ -18302,7 +18302,7 @@ rmapzen 0.5.1
 rmarchingcubes 0.1.4
 rmargint 2.0.3
 RMariaDB 1.3.5
-RMark 3.0.8
+RMark 3.1.0
 rmarkdown 2.31
 rmass2 0.0.0.2
 RMAT 0.2.0
@@ -22374,7 +22374,7 @@ TideHarmonics 0.1-1
 Tides 2.1.1
 TideTables 0.0.3
 tidier 0.2.0
-tidyactuarial 0.1.5
+tidyactuarial 0.1.6
 tidyAML 0.0.6
 tidyaudit 0.2.1
 tidybayes 3.0.7

@@ -5313,7 +5313,7 @@ dryingkineticmodels 1.0.0
 ds 4.0
 ds4psy 1.3.0
 dsa 1.0.12
-DSAIDE 0.9.6
+DSAIDE 1.0.0
 DSAIRM 1.0.0
 DSAM 1.0.2
 dsample 0.91.3.4
@@ -5707,7 +5707,7 @@ editbl 1.3.2
 editData 0.1.8
 eDITH 1.1.0
 editrules 2.9.6
-EDIutils 2.1.0
+EDIutils 3.0.0
 edl 1.1
 edlibR 1.0.3
 eDMA 1.5-4
@@ -13880,7 +13880,7 @@ nhanesA 1.4.1
 nhanesdata 0.2.2
 nhanesdiva 1.0.2
 nhanesR 0.1.5
-nhdplusTools 1.5.0
+nhdplusTools 1.5.1
 nhdR 0.6.1
 NHLData 1.0.0
 nhlscraper 0.7.0
@@ -14302,7 +14302,7 @@ oblicubes 1.0.1
 obliqueRSF 0.1.2
 obm 2.1
 OBMbpkg 1.0.0
-obr 0.2.5
+obr 0.5.1
 obrasgovr 0.1.0
 OBRE 0.2-0
 Observation 0.3.0
@@ -22120,7 +22120,7 @@ teal.logger 0.4.2
 teal.modules.clinical 0.13.0
 teal.modules.general 0.7.0
 teal.picks 0.2.0
-teal.reporter 0.6.2
+teal.reporter 0.6.3
 teal.slice 0.8.1
 teal.transform 0.7.2
 teal.widgets 0.6.1
@@ -23659,7 +23659,7 @@ visOmopResults 1.5.0
 visor 0.1.1
 visPedigree 1.9.0
 visreg 2.8.1
-visStatistics 0.2.0
+visStatistics 0.3.0
 vistime 1.3.0
 vistla 2.1.2
 visTree 0.8.1
@@ -23706,7 +23706,7 @@ vocaldia 0.8.4
 voi 1.0.3
 voice 0.5.6
 voigt 2.0
-vol2birdR 1.3.0
+vol2birdR 1.3.1
 volatilityTrader 1.0.1
 volcano3D 2.0.11
 volcanoes 0.1.1

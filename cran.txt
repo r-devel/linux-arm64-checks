@@ -6466,7 +6466,7 @@ fabisearch 0.0.4.5
 fable 0.5.0
 fable.ata 0.0.6
 fable.bayesRecon 0.1.0
-fable.intermittent 0.1.1
+fable.intermittent 0.2.0
 fable.prophet 0.1.0
 fableCount 0.1.0
 fabletools 0.8.0
@@ -12048,7 +12048,7 @@ MCPModPack 0.5
 mcprofile 1.0-1
 mcprogress 0.1.1
 MCPtests 1.0.1
-mcptools 1.0.0
+mcptools 1.0.1
 mcqAnalysis 0.1.0
 mcr 1.3.3.1
 mcradds 1.1.1
@@ -12741,7 +12741,7 @@ MLGL 1.0.1
 MLID 1.0.1
 mlim 0.3.0
 mLLMCelltype 2.0.7
-mllrnrs 0.0.8
+mllrnrs 0.0.9
 mlma 6.3-1
 mlmc 2.1.1
 MLmetrics 1.1.3
@@ -20224,7 +20224,7 @@ simctest 2.6.1
 simDAG 1.0.0
 simdata 0.4.1
 simdd 1.1-2
-SimDesign 2.25
+SimDesign 2.26
 SimDissolution 0.1.0
 simdistr 1.0.1
 simDNAmixtures 1.1.2
@@ -21525,7 +21525,7 @@ straweib 1.1
 strawr 0.0.92
 stray 0.1.1
 STREAK 1.0.0
-stream 2.0-3
+stream 2.0.6
 streambugs 1.4
 StreamCatTools 0.11.0
 streamDAG 1.6
@@ -23686,7 +23686,7 @@ vivid 0.3.0
 vivo 0.2.1
 vizClust 0.1.0
 vizdraws 2.0.0
-VizModules 0.2.0
+VizModules 0.3.0
 VizTest 0.7
 vkR 0.2
 VLF 1.1-3

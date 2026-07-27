@@ -1222,7 +1222,7 @@ BayesCTDesign 0.6.1
 bayesCureRateModel 1.6
 BayesCVI 1.0.2
 bayesDccGarch 3.0.4
-BayesDecon 0.1.6
+BayesDecon 0.1.7
 BayesDesign 0.1.1
 bayesdfa 1.3.4
 bayesDiagnostics 0.1.0
@@ -6654,7 +6654,7 @@ fastrmodels 2.1.0
 FastRWeb 1.2-3
 FastSegmentation 0.0.1
 FastStepGraph 0.1.1
-FastSurvival 0.1.0
+FastSurvival 0.2.0
 fastText 1.0.8
 fastTextR 2.1.1
 fasttime 1.1-0
@@ -6697,7 +6697,7 @@ fbroc 0.4.1
 fbst 2.2
 fca 0.1.0
 fcall 0.1.6
-fcaR 1.5.0
+fcaR 2.1.0
 fcci 1.0.2
 fcfdr 1.0.0
 fChange 2.1.0
@@ -7594,7 +7594,7 @@ garma 1.0.1
 garray 1.1.2
 gasanalyzer 0.4.3
 gaselect 1.0.25
-gasfluxes 0.7
+gasfluxes 0.7-2
 gasmodel 0.6.2
 GaSP 1.0.6
 gasper 1.1.6
@@ -7776,7 +7776,7 @@ GenericML 0.2.3
 generics 0.1.4
 GeneScape 1.0
 GeneScoreR 0.2.0
-geneset 0.2.7
+geneset 0.2.8
 GenEst 1.4.9
 genesysr 2.2.0
 genetic.algo.optimizeR 0.3.3
@@ -7924,7 +7924,7 @@ gepaf 0.2.0
 GephiForR 0.1.1
 geppe 1.1
 gerbil 0.1.9
-gerda 0.8.0
+gerda 0.8.1
 gerefer 0.1.4
 GerminaR 2.1.6
 germinationmetrics 0.1.10
@@ -10104,6 +10104,7 @@ invitroTKstats 0.0.14
 invivoPKfit 2.0.2
 InvStablePrior 0.1.1
 iNZightMR 2.3.0
+iNZightTools 2.0.4
 iNZightTS 2.0.4
 io 0.3.2
 ioanalysis 0.3.4
@@ -12201,7 +12202,7 @@ messaging 0.1.0
 messi 0.1.2
 messy 0.1.0
 messy.cats 1.0
-messydates 1.0.0
+messydates 1.1.0
 Mestim 0.2.1
 meta 8.5-0
 meta.shrinkage 0.1.4
@@ -14621,7 +14622,7 @@ options 0.3.1
 optionstrat 1.4.1
 optiscale 1.2.3
 optiSel 2.1.0
-optiSolve 1.0
+optiSolve 1.0.1
 optistock 0.0.2
 OptM 0.1.9
 optmatch 0.10.8
@@ -14666,7 +14667,7 @@ orderstats 0.1.0
 OrdFacReg 1.0.8
 ordgam 0.9.1
 ordiBreadth 1.0
-ordinal 2025.12-29
+ordinal 2026.7-26
 ordinalbayes 0.1.2
 ordinalClust 1.3.5.1
 OrdinalCompositions 0.1.0
@@ -16301,7 +16302,7 @@ prompter 1.2.1
 promptr 1.0.0
 promr 0.1.3
 prop.comb.RR 1.2
-propagate 1.1-0
+propagate 1.2-0
 PropCIs 0.3-0
 PropClust 1.4-7
 propensity 0.1.0
@@ -16960,7 +16961,7 @@ radiant.design 1.6.6
 radiant.model 1.6.11
 radiant.multivariate 1.6.8
 RadioSonde 4.2
-radir 1.0.4
+radir 1.0.5
 radlibs 0.2.0
 RadOnc 1.1.9
 radous 0.1.3
@@ -20886,7 +20887,7 @@ SpATS 1.0-20
 spatsoc 0.2.13
 spatstat 3.6-1
 spatstat.data 3.1-9
-spatstat.explore 3.8-1
+spatstat.explore 3.8-2
 spatstat.geom 3.8-2
 spatstat.gui 3.1-0
 spatstat.Knet 3.1-3
@@ -21766,7 +21767,7 @@ survRM2perm 0.1.0
 survSAKK 1.3.3
 survSampleSize 0.1.2
 survSens 1.1.0
-survsim 1.1.8
+survsim 1.1.9
 survSNP 0.26
 SurvSparse 0.1
 survSpearman 1.0.1

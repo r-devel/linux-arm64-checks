@@ -9513,6 +9513,7 @@ hydroEvents 0.13.0
 hydroGOF 0.7-0
 hydroloom 1.2.0
 HydroMe 2.1.2
+hydromeso 0.1.0
 hydroMOPSO 0.1-14
 hydropeak 0.1.3
 HydroPonicsK 1.0.3
@@ -21204,6 +21205,7 @@ SSDM 0.2.11
 sSDR 1.2.0
 ssdtools 2.6.0
 ssebiEF 1.0.1
+ssel 0.3.1
 SSEparser 0.1.0
 ssev 0.1.0
 ssfa 1.2.3
@@ -23274,6 +23276,7 @@ uni.survival.tree 1.5
 uniah 1.2
 unicefData 2.3.0
 UniCensor 0.1.0
+UniCensorEM 0.1.0
 Unico 0.1.0
 Unicode 17.0.0-1
 unicol 0.4.0
@@ -23671,7 +23674,7 @@ visNetwork 2.1.4
 visOmopResults 1.5.0
 visor 0.1.1
 visPedigree 1.9.0
-visreg 2.8.1
+visreg 3.0.0
 visStatistics 0.3.0
 vistime 1.3.0
 vistla 2.1.2

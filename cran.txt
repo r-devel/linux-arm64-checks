@@ -497,7 +497,7 @@ AMDconfigurations 0.1.0
 Amelia 1.8.3
 amelie 0.2.1
 amen 1.4.5
-ameras 0.5.1
+ameras 0.5.2
 amerika 0.1.1
 AmesHousing 0.0.4
 AmigaFFH 0.4.8
@@ -4170,7 +4170,7 @@ curvir 0.1.1
 cusna 0.1.0
 cusp 2.3.8
 custom.gauss.quad 1.0.0
-CustomDerivative 0.1.1
+CustomDerivative 0.2.0
 CustomerScoringMetrics 1.0.0
 customiser 0.1.1
 customizedTraining 1.3
@@ -9085,7 +9085,7 @@ hdme 0.6.0
 HDMFA 0.1.1
 HDMT 1.0.5
 hdMTD 0.1.4
-hdnom 6.2.0
+hdnom 6.2.1
 HDNRA 2.1.0
 HDOMDesign 1.0-2
 hdpca 1.1.5
@@ -11259,7 +11259,7 @@ litRiddle 1.0.0
 litteR 1.0.2
 litterfitter 0.1.4
 littler 0.3.23
-liureg 1.1.2
+liureg 1.1.3
 live 1.5.13
 livelink 0.1.0
 liver 1.29
@@ -17500,7 +17500,7 @@ RDStreeboot 1.0
 Rdta 1.0.1
 rdtLite 1.4
 rdtools 0.1.0
-Rduckhts 1.5.0-0.1.0
+Rduckhts 1.5.1-0.1.3
 Rduino 0.1
 Rduinoiot 0.1.0
 Rdune 1.1.1
@@ -20895,7 +20895,7 @@ spatstat.gui 3.1-0
 spatstat.Knet 3.1-3
 spatstat.linnet 3.5-1
 spatstat.local 5.1-0
-spatstat.model 3.7-1
+spatstat.model 3.7-2
 spatstat.random 3.5-1
 spatstat.sparse 3.2-0
 spatstat.univar 3.2-0

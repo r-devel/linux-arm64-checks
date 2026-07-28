@@ -1947,7 +1947,7 @@ boids4R 0.3.1
 boilerpipeR 1.3.2
 boilerplate 1.4.0
 BOIN 2.7.2
-boinet 1.5.0
+boinet 1.6.0
 boiwsa 1.1.4
 BOJ 0.3.4
 bojapi 0.1.0
@@ -6126,7 +6126,7 @@ erah 2.2.0
 eratosthenes 0.0.9
 erboost 1.5
 ercv 1.0.1
-ERDbuilder 1.0.0
+ERDbuilder 2.0.0
 erer 4.0
 ergm 4.12.0
 ergm.count 4.1.3
@@ -7028,7 +7028,7 @@ flexmix 2.3-20
 flexmsm 0.1.2
 flexoki 0.0.2
 flexord 1.0.0
-FlexParamCurve 1.5-7
+FlexParamCurve 1.5-8
 flexpolyline 0.3.0
 FlexReg 1.4.2
 FlexRL 0.1.1
@@ -7954,7 +7954,7 @@ getPass 0.2-4
 getProxy 1.13
 GetQuandlData 1.0.0
 getRad 0.3.0
-gets 0.38
+gets 0.40
 getspanel 0.2.1
 getspres 0.2.0
 GetTDData 1.6.0
@@ -8757,7 +8757,7 @@ GroupBN 1.2.0
 groupcompare 1.0.1
 GroupComparisons 0.1.0
 groupdata2 2.0.5
-groupedHyperframe 0.4.3
+groupedHyperframe 0.4.4
 groupedHyperframe.random 0.3.2
 groupedSurv 1.0.5.1
 grouper 0.7.3
@@ -10070,7 +10070,7 @@ intervals 0.15.5
 IntervalSurgeon 1.3
 intervcomp 0.1.2
 inTextSummaryTable 3.4.0
-inti 0.7.1
+inti 0.7.2
 intkrige 1.0.2
 intmap 1.0.0
 intmed 0.1.2
@@ -12415,7 +12415,7 @@ MHTdiscrete 1.0.1
 MHTmult 0.1.0
 MHTrajectoryR 1.0.1
 mhurdle 1.3-2
-mi 1.2
+mi 1.3.1
 mi4p 1.3
 MIAmaxent 1.4.1
 miapack 0.1.0
@@ -13170,7 +13170,7 @@ mrMLM.GUI 4.0.2
 mRMRe 2.1.2.2
 mro 0.1.1
 MRPC 3.2.0
-mRpostman 1.2.2
+mRpostman 1.4.0
 mrPStrata 0.1.0
 MRQoL 1.0.1
 MRReg 0.1.6
@@ -18133,7 +18133,6 @@ Rigma 0.3.0
 rigr 1.0.10
 riingo 0.3.1
 Rilostat 2.5.0
-rim 0.8.1
 RImageJROI 0.1.3
 RImagePalette 0.1.1
 RImpact 1.0

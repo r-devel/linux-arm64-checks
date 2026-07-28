@@ -871,7 +871,7 @@ astgrepr 0.1.1
 AsthmaNHANES 1.1.0
 astrochron 1.8
 astroFns 4.2-1
-astronomR 0.1.0
+astronomR 0.3.0
 astronomyengine 0.1.0
 astsa 2.5
 asus 1.5.0
@@ -2851,7 +2851,7 @@ choicedata 0.1.0
 choiceDes 0.9-3
 ChoiceModelR 1.3.1
 choicer 0.2.0
-CHOIRBM 0.0.2
+CHOIRBM 0.0.3
 cholera 0.9.1
 CholWishart 1.1.4
 chomper 0.1.3
@@ -4449,7 +4449,7 @@ dbplot 0.4.0
 dbplyr 2.6.0
 dbProject 0.1.1
 DBR 1.4.1
-dbrobust 1.1.0
+dbrobust 1.1.1
 dbscan 1.2.5
 dbSpatial 0.1.2
 dbstats 2.0.3
@@ -5006,7 +5006,7 @@ distfree.cr 1.5.1
 distfreereg 1.2
 distfromq 1.0.4
 distill 1.6
-distilleR 1.0.0
+distilleR 1.1.0
 distillery 1.2-2
 distinctiveness 1.0.1
 distionary 0.1.1
@@ -5879,7 +5879,7 @@ embryogrowth 2025.12.22
 emburden 0.6.2
 EMC2 3.5.0
 emcAdr 1.3
-EMCluster 0.2-17
+EMCluster 0.2-18
 EMD 1.5.9
 EMDANNhybrid 0.2.0
 emdbook 1.3.14
@@ -5931,7 +5931,7 @@ EMSaov 2.3
 EMSC 0.9.4
 EMSNM 1.0
 EMSS 1.1.1
-emstreeR 3.1.3
+emstreeR 3.2.0
 EMT 1.3.2
 emulator 1.2-24
 emuR 2.6.0
@@ -6922,7 +6922,7 @@ firesafety 0.1.0
 firesale 0.1.1
 firestorm 0.1.0
 FIRM 0.1.2
-firmmatchr 0.1.3
+firmmatchr 0.2.0
 first 2.1
 Fiscal 1.0.2
 FiSh 1.1
@@ -6990,8 +6990,7 @@ FLAG 0.1
 flagr 0.3.2
 flam 3.2
 FLAME 2.1.1
-flametree 0.1.3
-flan 1.0
+flametree 0.2.0
 flankr 1.2.0
 flap 0.2.0
 flare 1.8
@@ -8359,7 +8358,6 @@ gldrm 1.6
 gleam 0.8.0
 gleifr 0.2.0
 glinternet 1.0.13
-glinvci 1.2.4
 glioblastomaEHRsData 1.1.0
 gllm 0.38
 gllvm 2.0.13
@@ -8580,7 +8578,7 @@ GPAbin 1.1.1
 gpairs 1.4.0
 GPareto 1.1.9
 GPArotateDF 2026.6-1
-GPArotation 2026.6-1
+GPArotation 2026.7-1
 GPBayes 0.1.0-6
 gpbiometrics 0.1.0
 gpboost 1.7.1.1
@@ -9187,7 +9185,7 @@ hettx 1.0.1
 hetu 1.1.0
 heumilkr 0.3.0
 heuristica 1.0.3
-hexbin 1.28.5
+hexbin 1.28.6
 hexDensity 1.4.10
 hexfont 1.0.0
 hexify 0.6.5
@@ -9977,7 +9975,7 @@ InjurySeverityScore 0.0.0.2
 injurytools 2.0.1
 inkaR 0.6.6
 INLABMA 0.1-12
-inlabru 2.14.1
+inlabru 2.15.0
 INLAjoint 26.6.2
 inlamemi 1.1.0
 INLAspacetime 0.1.14
@@ -11657,7 +11655,7 @@ magick 2.9.1
 magickGUI 1.3.1
 magicLamp 0.1.0
 magicrect 1.0.0
-MAGMA.R 1.0.4
+MAGMA.R 1.1
 MagmaClustR 1.2.1
 magmaR 1.0.4
 MAGNAMWAR 2.0.4
@@ -14201,7 +14199,7 @@ NPStability 0.1.0
 npsurv 0.5-0
 npsurvSS 1.1.0
 nptest 1.2
-npwbs 0.3.0
+npwbs 0.4.0
 nQuack 1.0.4
 nrba 0.3.1
 nRegression 0.5.1
@@ -14225,7 +14223,6 @@ NSO1212 1.4.0
 nsp 1.0.0
 nspmix 2.0-0
 nsprcomp 0.5.1-2
-NSR 0.1.0
 nsRFA 0.7-17
 nsROC 1.1
 NST 3.1.10
@@ -16145,7 +16142,6 @@ PreProcessRecordLinkage 1.0.1
 PREPShiny 0.1.0
 preputils 1.0.3
 prereg 0.6.0
-preregr 0.2.9
 PresenceAbsence 1.1.11
 presens 2.1.0
 presenter 0.1.2
@@ -16461,7 +16457,7 @@ PsyControl 1.0.0.0
 psymetadata 1.0.1
 psyntur 0.1.1
 psyphy 0.3
-PsyToolkit 1.1.4
+PsyToolkit 1.1.6
 psyverse 0.2.6
 ptable 1.0.0
 PTAk 2.0.0
@@ -17366,7 +17362,7 @@ RcppCNPy 0.2.15
 RcppColMetric 0.1.0
 RcppColors 0.6.0
 RcppCWB 0.6.10
-RcppDate 0.0.6
+RcppDate 0.0.7
 RcppDE 0.1.9
 RcppDist 0.1.1.1
 RcppDPR 0.1.10
@@ -19156,7 +19152,7 @@ rwty 1.0.3
 rwunderground 0.1.8
 RXKCD 2.0.1
 RxnSim 1.0.4
-rxode2 5.1.4
+rxode2 5.1.5
 rxode2ll 2.0.16
 rxode2mrgsolvebridge 0.1.0
 rxref 0.4.0
@@ -19653,7 +19649,6 @@ sectorgap 0.1.0
 secuTrialR 1.3.3
 sedproxy 0.7.6
 see 0.14.1
-seeclickfixr 1.1.0
 seecolor 0.2.0
 seedCCA 3.1
 seededlda 1.4.4
@@ -20504,7 +20499,7 @@ smartsnp 1.2.0
 SmartSVA 0.1.3
 SMASH 1.0.0
 smashr 1.3-12
-smatr 3.4-8
+smatr 3.5-1
 smbdata 0.2.0
 smbinning 0.9
 SmCCNet 2.0.7
@@ -21392,7 +21387,7 @@ stdReg 3.4.2
 stdReg2 1.0.7
 stdvectors 0.0.5
 steadyICA 1.0.1
-SteadyStateBVAR 0.1.0
+SteadyStateBVAR 0.1.1
 StealLikeBayes 1.0
 steepness 0.3-0
 SteinIV 0.1-1
@@ -22626,7 +22621,7 @@ tmap.sources 0.1
 tmaptools 3.3
 tmapverse 0.1.0
 TMB 1.9.23
-tmbstan 1.1.0
+tmbstan 1.2.0
 TmCalculator 1.0.7
 TMDb 1.1
 tmfast 0.1.1
@@ -24009,6 +24004,7 @@ wildcard 1.1.0
 wildlifeDI 1.0.1
 wildmeta 0.3.2
 wildpoker 1.1
+wilson 2.4.4
 winch 0.1.3
 windAC 1.3.0
 WindCurves 0.2
@@ -24079,7 +24075,7 @@ WordR 0.3.6
 words 1.0.1
 wordsalad 0.2.0
 wordspace 0.2-9
-wordvector 0.6.2
+wordvector 0.6.3
 workflowr 1.7.2
 workflows 1.3.0
 workflowsets 1.1.1

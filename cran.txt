@@ -300,6 +300,7 @@ AGD 0.45.0
 AgeBandDecomposition 2.0.1
 ageg 1.0.0
 agena.ai 1.1.2
+agenticr 0.3.3
 agentr 0.2.8.4
 AgePopDenom 1.2.3
 AgeTopicModels 0.3.0
@@ -928,6 +929,7 @@ aum 2024.6.19
 AurieLSHGaussian 0.2.0
 auRoc 0.2-1
 aurora 0.1.12
+ausOpenData 0.1.0
 ausplotsR 2.0.5
 AustralianPoliticians 0.1.0
 AUtests 0.99
@@ -2612,6 +2614,7 @@ CDGHMM 0.1.5
 cdid 0.1.1
 cdiWG2WS 0.2.0
 cdlei 1.0
+cdlogit 1.0.0
 cdlsim 0.1.0
 cdlTools 1.13
 CDM 8.3-14
@@ -2921,6 +2924,7 @@ CircaCP 0.1.2
 CirceR 1.3.3
 circhelp 1.1
 circle 0.7.4
+circlecorR 0.1.0
 circles 0.1.0
 CirclesIntersections 1.1
 circletyper 1.0.2
@@ -4865,6 +4869,7 @@ diffdriver 0.1.7
 diffEnrich 0.1.2
 diffeqr 2.1.0
 diffeR 0.0-8
+diffHTS 0.1.0
 diffIRT 1.5
 diffmatchpatch 0.1.0
 diffMeshGP 0.1.1
@@ -5434,6 +5439,7 @@ dverse 0.2.0
 DVHmetrics 0.4.3
 dvir 3.4.2
 DWaveNARDL 0.1.0
+DWBmodelUN 2.0.1
 dwctaxon 2.0.4
 DWDLargeR 0.2-0
 dwdradar 0.2.13
@@ -5564,6 +5570,7 @@ EAVA 1.0.0
 eba 1.10-1
 ebal 0.2.1
 EBASE 1.1.0
+ebaTools 0.1.0
 EbayesThresh 1.4-12
 EBCHS 0.1.1
 ebci 1.0.0
@@ -7084,6 +7091,7 @@ fluidsynth 1.0.3
 fluorojip 0.1.1
 fluoSurv 1.0.0
 fluspect 1.0.0
+fluxCore 2.0.0
 fluxfinder 1.2.2
 fluxfixer 1.1.0
 fluxible 1.4.0
@@ -7807,7 +7815,7 @@ GenomicTools.fileHandler 0.1.5.9
 genoPlotR 0.8.11
 GenoPop 1.0.0
 GenOrd 2.1.0
-GenoTriplo 1.1.3
+GenoTriplo 2.2.1
 GenOU 0.2.1
 genpathmox 1.1
 genproc 0.2.0
@@ -10505,6 +10513,7 @@ jsonstat 0.0.2
 jsonvalidate 1.5.0
 JSparO 1.5.0
 jsplyr 0.1.0
+jsslintr 1.1.0-1
 jstable 1.3.25
 jstager 0.0.6
 jsTree 1.2
@@ -10978,7 +10987,7 @@ lcopula 1.0.7
 LCPA 1.0.2
 lcpm 0.1.1
 lcra 1.1.5
-lcsm 0.3.2
+lcsm 0.3.3
 lctools 0.3
 lcyanalysis 1.0.4
 lda 1.5.2
@@ -11240,6 +11249,7 @@ lisrelToR 0.3
 list 9.2.6
 listArray 0.1.1
 listarrays 0.4.0
+LISTC 1.0.0
 listcomp 0.4.1
 listcompr 0.4.0
 listenv 1.0.0
@@ -13283,6 +13293,7 @@ mueRelativeRisk 0.1.1
 MuFiMeshGP 0.0.1
 MUGS 0.1.0
 muhaz 1.2.6.4
+muiCharts 0.1.0
 muiDataGrid 0.1.2
 muiMaterial 0.2.2
 muir 0.1.0
@@ -13332,6 +13343,7 @@ multiDimBio 1.2.5
 MultiDiscreteRNG 0.1.0
 multiDoE 0.9.4
 multidplyr 0.1.4
+MultiEFM 0.1.3
 multifamm 0.1.1
 multiFANOVA 0.1.0
 multifear 0.1.5
@@ -15389,6 +15401,7 @@ pGPx 0.1.4
 pgraph 1.6
 PGRdup 0.3.0
 pGRN 0.3.5
+pgt 0.5.0
 pgTools 1.0.2
 pguIMP 0.1.1
 PH1XBAR 0.11.3
@@ -15523,6 +15536,7 @@ picante 1.8.2
 picasso 2.0.1
 PICBayes 1.0
 picClip 0.1.0
+PiChange 0.0.6
 picker 0.2.6
 pickmax 0.1.0
 picohdr 0.1.1
@@ -15654,7 +15668,7 @@ PlatformDesign 2.1.4
 platowork 0.0.1
 plattice 1.1
 plausibounds 1.0.1
-plavaan 0.0.1
+plavaan 0.0.2
 player 0.1.0
 PlayerChart 1.0.0
 PlayerRatings 1.1-0
@@ -15962,6 +15976,7 @@ positron.tutorials 0.2.1
 posologyr 1.2.8
 PosRatioDist 1.2.1
 POSSA 0.6.5
+possum 0.1.0
 postcard 1.1.0
 postcards 0.2.3
 PostcodesioR 0.3.1
@@ -16036,6 +16051,7 @@ ppforest2 0.1.2
 ppgam 1.0.2
 ppgm 1.1
 ppgmmga 1.3.1
+pphotspot 0.1-2
 ppitables 0.6.1
 ppks 1.0
 pplot 0.9
@@ -17269,7 +17285,7 @@ rChEA3 1.0.1
 rchemo 0.1-4
 rcheology 4.6.1.0
 RChest 1.0.3
-rchime 0.1.0
+rchime 0.1.1
 RchivalTag 0.2.2
 Rchoice 0.3-6
 rChoiceDialogs 1.0.6.1
@@ -18154,6 +18170,7 @@ ripserr 1.0.0
 rirods 0.3.0
 Rirt 0.0.2
 RISCA 1.0.7
+risdr 0.3.1
 rise 1.0.4
 rIsing 0.1.0
 Risk 1.0
@@ -20033,6 +20050,7 @@ shinyfilter 0.1.1
 shinyfilters 0.3.0
 shinyfullscreen 1.1.0
 shinyGizmo 0.5.0
+shinyglass 0.1.0
 shinyglide 0.1.4
 shinyGovstyle 0.2.0
 shinyHeatmaply 0.2.0
@@ -21371,7 +21389,7 @@ statuser 0.3.1
 statwitness 0.1.0
 STB 0.6.6
 stbimageheaders 0.1.0
-stbl 0.3.0
+stbl 0.4.0
 STCCGEV 1.0.0
 stCEG 0.1.0
 stcos 0.3.2
@@ -21443,6 +21461,7 @@ stima 1.2.4
 stinepack 1.5
 stlARIMA 0.1.0
 stlELM 0.1.1
+stLMM 0.0.2
 stlnpp 0.5.0
 stlplus 0.5.2
 stlTDNN 0.1.0
@@ -23243,7 +23262,7 @@ uncmbb 0.2.2
 uncorbets 0.1.2
 UNCOVER 1.1.0
 undidR 3.0.2
-unexcel 0.1.0
+unexcel 0.2.0
 unfold 1.0.1
 unglue 0.1.0
 ungroup 1.4.4
@@ -23983,7 +24002,7 @@ whoa 0.0.2
 whoami 1.3.0
 whomds 1.1.1
 WHORiskCalculator 1.0.0
-wid 0.0.2
+wid 0.0.3
 widals 0.6.2
 wideRhino 1.2.0
 widgetframe 0.3.1

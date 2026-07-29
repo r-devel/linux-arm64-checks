@@ -1437,6 +1437,7 @@ bdsm 0.3.0
 bdsmatrix 1.3-7
 bdsvd 1.2.1
 BDWreg 1.3.0
+BE 0.3.0
 bea.R 1.0.6
 BEACH 1.3.2
 beadplexr 0.5.0
@@ -4578,7 +4579,7 @@ dedupewider 0.1.1
 deep 0.1.0
 deepdep 0.4.4
 deepgmm 0.2.1
-deepgp 1.2.1
+deepgp 1.2.2
 deepImp 1.1.0
 DeepLearningCausal 0.0.107
 deeplr 2.1.0
@@ -21756,7 +21757,7 @@ survivalMPL 0.2-4
 survivalPLANN 0.4
 survivalREC 1.1
 survivalROC 1.0.3.1
-survivalSL 1.0
+survivalSL 1.1
 survivalsurrogate 1.1
 survivalsvm 0.0.6
 SurvivalTests 1.0

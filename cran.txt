@@ -24138,7 +24138,7 @@ wrassp 1.0.6
 wrds 0.1.1
 WrensBookshelf 0.1.0
 WRestimates 0.1.0
-wrGraph 1.3.16
+wrGraph 1.3.17
 WRI 0.2.3
 wrictools 1.0.1
 WrightMap 1.4

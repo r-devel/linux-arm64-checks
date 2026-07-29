@@ -1929,7 +1929,7 @@ bnns 1.0.0
 bnnSurvival 0.1.5
 bnpa 0.3.0
 BNPmix 1.2.1
-bnpMTP 1.0.0
+bnpMTP 1.0.1
 bnpsd 1.3.13
 BNPTSclust 2.0
 bnRep 0.0.6
@@ -13294,7 +13294,7 @@ mudfold 1.1.21
 mueRelativeRisk 0.1.1
 MuFiMeshGP 0.0.1
 MUGS 0.1.0
-muhaz 1.2.6.4
+muhaz 1.2.6.5
 muiCharts 0.1.0
 muiDataGrid 0.1.2
 muiMaterial 0.2.2
@@ -13891,7 +13891,6 @@ NHANES 2.1.0
 nhanesA 1.4.1
 nhanesdata 0.2.2
 nhanesdiva 1.0.2
-nhanesR 0.1.5
 nhdplusTools 1.5.1
 nhdR 0.6.1
 NHLData 1.0.0
@@ -19028,7 +19027,6 @@ rtgstat 0.3.6
 Rthingsboard 0.2.7
 rticles 0.27
 rticulate 2.2.0
-rtiddlywiki 0.5.2
 rtide 0.0.12
 rtika 3.2.3
 rtiktokads 0.3.4
@@ -22644,7 +22642,7 @@ tmaptools 3.3
 tmapverse 0.1.0
 TMB 1.9.23
 tmbstan 1.2.0
-TmCalculator 1.0.7
+TmCalculator 1.0.8
 TMDb 1.1
 tmfast 0.1.1
 Tmisc 1.0.1
@@ -23521,7 +23519,7 @@ VC2copula 0.1.6
 VCA 1.5.2
 VCBART 1.2.5
 vccp 0.1.1
-vcd 1.4-13
+vcd 1.4-14
 vcd2df 1.0.1
 vcdExtra 0.9.6
 vcfheader 0.1.0

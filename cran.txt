@@ -2660,7 +2660,7 @@ cenROC 2.0.0
 censable 0.0.8
 CensMFM 3.1
 censo2022arg 1.0.1
-censobr 0.5.0
+censobr 0.6.0
 censorcopula 2.0
 censored 0.3.4
 censoredAIDS 1.0.0
@@ -3852,7 +3852,7 @@ covRobust 1.1-3
 CovSel 1.2.2
 covsep 1.1.1
 covsim 1.1.0
-CovTools 0.5.6
+CovTools 0.5.7
 covtracer 0.0.3
 cowbell 0.1.0
 cowfootR 0.1.3
@@ -18102,7 +18102,7 @@ rhub 2.0.1
 RHybridFinder 0.2.0
 rhymer 1.2.4
 rhype 0.3.0
-ri2 0.4.1
+ri2 0.5.0
 RI2by2 1.4
 RIA 1.7.2
 ria.test 0.2.1

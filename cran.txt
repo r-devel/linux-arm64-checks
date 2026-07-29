@@ -108,6 +108,7 @@ actibase 0.3.0
 actigraph.sleepr 0.3.1
 actilifecounts 1.1.1
 actiread 0.3.0
+actiRhythm 0.1.0
 activAnalyzer 2.1.2
 activatr 0.2.1
 ActiveDriver 1.0.0
@@ -459,6 +460,7 @@ alphahull 2.5
 alphaN 0.3.0
 alphaOutlier 1.2.2
 AlphaPart 0.9.8
+AlphaPowerHazard 0.1.0
 alphashape3d 1.3.3
 AlphaSimR 2.1.0
 alphastable 0.2.1
@@ -1367,6 +1369,7 @@ BAYSTAR 0.2-10
 baytaAAR 1.0.3
 baytrends 2.0.14
 BB 2026.1.0
+BBC 1.0.0
 bbdetection 1.0
 BBEST 0.1-8
 BBI 0.3.0
@@ -4064,6 +4067,7 @@ csdm 1.0.1
 CSDownscale 0.0.3
 cSEM 0.6.1
 csemGT 1.0.0
+csemTools 0.1.4
 CSeqpat 0.1.2
 CSeQTL 1.0.1
 CSESA 1.2.0
@@ -7067,6 +7071,7 @@ float 0.3-3
 flock 0.7
 flocker 1.0-2
 flood 0.1.1
+floodflow 0.1.1
 FloodFreqPlot 0.1.0
 FLOPART 2024.6.19
 flora 0.3.4
@@ -7418,6 +7423,7 @@ fullfact 1.6
 fullRankMatrix 0.1.0
 fullROC 0.1.0
 fun 0.4
+funbiogeo 0.0.1
 funbootband 0.2.0
 func2vis 1.0-3
 FuncDiv 1.0.0
@@ -8534,7 +8540,7 @@ goft 1.3.6
 goftest 1.2-3
 gogarch 0.7-6
 goldfish 1.6.12
-goldilocks 0.5.0
+goldilocks 0.6.0
 golem 1.0.1
 golfastr 0.2.0
 golfr 0.1.0
@@ -10744,6 +10750,7 @@ kohonen 3.0.13
 kokudosuuchi 1.0.0
 KOLaide 0.0.1
 kollaR 1.1.4
+koma 0.3.1
 komaletter 0.5.0
 konfound 1.0.3
 KONPsurv 1.0.4
@@ -11035,6 +11042,7 @@ leafSTAR 1.0
 leafsync 0.1.0
 leaftime 0.2.0
 leafwax 0.2.7
+leakaudit 0.1.0
 leakr 0.1.0
 leakyIV 0.0.1
 leapgp 1.0.0
@@ -12174,6 +12182,7 @@ meifly 0.3.1
 mekko 0.1.0
 melidosData 1.0.6
 mellio 1.0.2
+melodi 1.1.0
 melt 1.11.4
 meltt 0.4.3
 mem 2.19
@@ -12424,6 +12433,7 @@ MHQoL 0.14.0
 mhsmm 0.4.21
 MHTdiscrete 1.0.1
 MHTmult 0.1.0
+mhtopt 1.0.0
 MHTrajectoryR 1.0.1
 mhurdle 1.3-2
 mi 1.3.1
@@ -13694,7 +13704,7 @@ ncdf4 1.24
 ncdfCF 0.8.2
 ncdfgeom 1.2.2
 ncf 1.3-3
-ncmeta 0.4.0
+ncmeta 0.5.0
 NCmisc 1.3.1
 ncmR 0.3.1
 ncodeR 0.2.0.1
@@ -13784,6 +13794,7 @@ netmeta 3.6-1
 netmhc2pan 1.3.3
 NetMix 0.2.0.3
 NetOrigin 1.1-7
+netpanel 0.0.1
 netplot 0.4-0
 NetPreProc 1.2
 netrankr 1.2.4
@@ -14058,7 +14069,7 @@ noaa 1.0.0
 noah 0.1.0
 NobBS 1.1.1
 noctua 2.6.3
-nocturn 1.1.3
+nocturn 1.2.0
 nodbi 0.14.0
 node2vec 0.1.0
 nodeSub 1.2.9
@@ -16288,7 +16299,7 @@ profmem 0.7.0
 profoc 1.3.4
 profr 0.3.3
 profrep 1.0.0
-proftools 0.99-3
+proftools 0.99-4
 profvis 0.4.0
 progress 1.2.3
 progressify 0.2.0
@@ -19993,6 +20004,7 @@ shewhartr 1.3.0
 shidashi 0.2.0
 shide 0.3.0
 ShiftConvolvePoibin 1.0.0
+ShiftHappens 1.0.1
 shiftR 1.5
 ShiftShareSE 1.1.0
 shinipsum 0.1.1
@@ -21062,6 +21074,7 @@ SplitSplitPlot 0.0.1
 splitstackshape 1.4.8.1
 splitTools 1.0.1
 SplitWise 1.0.2
+spliv 0.1.1
 splm 1.6-5
 splmm 1.2.0
 splot 0.5.4
@@ -21312,6 +21325,7 @@ starling 1.1.0
 starm 0.1.0
 starma 1.3
 starnet 1.0.2
+STARRS 1.0
 starry 0.1.2
 stars 0.7-3
 starschemar 1.2.5
@@ -21613,6 +21627,7 @@ subscreen 4.0.1
 subselect 0.16.1
 subsemble 0.1.0
 substackR 0.1.15
+subtitles 0.1.1
 subtools 1.1.0
 SubTS 1.0
 SubtypeDrug 0.1.9
@@ -22129,7 +22144,7 @@ tea 1.1
 TeachHist 0.2.1
 TeachingDemos 2.13
 TeachingSampling 4.1.1
-teal 1.2.0
+teal 1.2.1
 teal.code 0.7.2
 teal.data 0.8.1
 teal.logger 0.4.2
@@ -22137,7 +22152,7 @@ teal.modules.clinical 0.13.0
 teal.modules.general 0.7.0
 teal.picks 0.2.0
 teal.reporter 0.6.3
-teal.slice 0.8.1
+teal.slice 0.8.2
 teal.transform 0.7.2
 teal.widgets 0.6.1
 tealeaves 1.0.7
@@ -22913,6 +22928,7 @@ TRexSelector 1.0.0
 Tri.Hierarchical.IBDs 1.0.0
 triact 0.3.1
 TriadSim 0.3.1
+triageR 0.1.0
 TrialEmulation 0.0.4.11
 trialr 0.1.6
 TrialSimulator 1.20.1

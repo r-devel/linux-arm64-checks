@@ -13424,7 +13424,7 @@ multipleNCC 1.2-5
 multipleOutcomes 0.18.1
 MultipleRegression 0.1.0
 multiplestressR 0.1.1
-multiplex 3.9
+multiplex 4.0
 MultiplierDEA 0.1.19
 multipol 1.0-9
 multiRec 1.0.6

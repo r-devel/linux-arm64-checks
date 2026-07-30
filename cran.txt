@@ -719,7 +719,7 @@ ArchaeoPhases.dataset 0.2.0
 archdata 1.2-1
 archeofrag 1.2.4
 archeofrag.gui 1.1.4
-archeoViz 1.4.1
+archeoViz 1.4.2
 archetypal 1.3.1
 archetypes 2.2-0.2
 archiDART 3.4
@@ -9877,7 +9877,7 @@ IMPACT 0.1.1
 ImpactEffectsize 0.8
 impactflu 0.1.0
 impactr 0.4.2
-impala 0.1.2
+impala 0.1.3
 impARI 0.0.3
 impectR 2.5.6
 impermanentlosscalc 0.1.0
@@ -13528,7 +13528,7 @@ mvalpha 0.6.3
 MVar 2.3.0
 MVar.pt 2.3.0
 mvardlurt 1.0.2
-mvBayes 1.2.1
+mvBayes 1.2.2
 MvBinary 1.1
 mvbutils 2.12.120
 mvcauchy 1.1
@@ -17069,6 +17069,7 @@ RaMS 1.4.3
 ramsvm 2.4
 randChecks 0.2.1
 randcorr 1.0
+randelves 0.1.0
 randgeo 0.3.0
 RandMeta 0.1.0
 randnet 1.0
@@ -21183,7 +21184,7 @@ spThin 0.2.0
 spTimer 3.3.4
 sptotal 1.0.1
 spup 1.4-0
-spuriouscorrelations 0.1
+spuriouscorrelations 0.2
 SpuriousMemory 1.0.0
 spuRs 2.0.3
 SPYvsSPY 0.1.1
@@ -21933,7 +21934,7 @@ swissparl 0.3.0
 switchcase 0.1.1
 switchr 0.14.8
 switchSelection 2.1.0
-swjm 0.1.0
+swjm 0.1.2
 SWMPr 2.5.2
 SwPcIndex 0.1.0
 SWTools 1.1.1
@@ -22186,7 +22187,7 @@ teal.data 0.8.1
 teal.logger 0.4.2
 teal.modules.clinical 0.13.0
 teal.modules.general 0.7.0
-teal.picks 0.2.0
+teal.picks 0.3.0
 teal.reporter 0.6.3
 teal.slice 0.8.2
 teal.transform 0.7.2

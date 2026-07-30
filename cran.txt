@@ -725,7 +725,7 @@ archiDART 3.4
 archipelago 0.1.0
 ArchipelagoEngine 0.1.1
 ARCHISSUR 0.0.1
-archive 1.1.13
+archive 1.1.14
 archiveRetriever 0.4.1
 archivist 2.3.9
 ArCo 0.3-1
@@ -1343,7 +1343,7 @@ BayesSurvival 0.2.0
 BayesSurvive 0.1.0
 bayest 1.5
 bayestestR 0.18.1
-bayesTFR 7.4-4
+bayesTFR 7.4-5
 bayesTLS 1.0.0
 BayesTools 0.3.0
 BayesTree 0.3-1.5
@@ -3827,7 +3827,7 @@ covafillr 0.4.4
 covalchemy 1.0.0
 covatest 1.2.5
 covBM 0.1.0
-CovCorTest 1.1.0
+CovCorTest 1.2.0
 coveffectsplot 1.0.7
 covequal 0.1.0
 COveR 1.1.0
@@ -3969,7 +3969,7 @@ CREDS 0.1.0
 credsubs 1.1.1
 credule 0.1.4
 creepyalien 1.0.0
-crew 1.3.1
+crew 1.3.2
 crew.aws.batch 0.1.0
 crew.cluster 0.4.0
 cricketdata 0.3.0
@@ -4586,7 +4586,7 @@ dedupewider 0.1.1
 deep 0.1.0
 deepdep 0.4.4
 deepgmm 0.2.1
-deepgp 1.2.2
+deepgp 1.2.3
 deepImp 1.1.0
 DeepLearningCausal 0.0.107
 deeplr 2.1.0
@@ -7452,6 +7452,7 @@ funique 0.0.1
 fUnitRoots 4052.82
 funkycells 1.1.1
 funkyheatmap 0.5.2
+funLBM 2.3.1
 funmediation 1.0.2
 funModeling 1.9.6
 funMoDisco 1.1.5
@@ -8181,6 +8182,7 @@ ggpop 1.7.1
 ggpower 0.1.2
 ggpp 0.6.1
 ggprism 1.0.7
+ggpsychro 0.1.0
 ggpubr 1.0.0
 ggpval 0.2.5
 ggQQunif 0.1.5
@@ -8206,7 +8208,7 @@ ggRtsy 1.2.1
 ggsankeyfier 0.1.8
 ggScatRidges 1.1.0
 ggsced 0.1.9
-ggsci 5.1.0
+ggsci 5.2.0
 ggscidca 0.2.8
 ggscribe 0.2.0
 ggseg 2.2.1
@@ -10137,9 +10139,9 @@ iotarelr 0.1.9
 iotools 0.4-0
 ip2location 8.1.3
 ip2location.io 0.0.0-2
-ip2locationio 1.1.0
+ip2locationio 1.1.1
 ip2proxy 1.2.0
-ip2whois 1.0.0
+ip2whois 1.0.1
 ipa 0.1.0
 ipaddress 1.0.3
 ipADMIXTURE 0.1.2
@@ -11818,7 +11820,7 @@ marelac 2.1.11
 MareyMap 1.3.10
 marg 1.2-4
 margaret 0.1.4
-margEVT 0.1.0
+margEVT 0.1.1
 marginaleffects 0.32.0
 marginalizedRisk 2024.5-17
 MarginalMaxTest 1.0.1
@@ -13482,7 +13484,7 @@ munch 0.0.2
 mundoLindey 0.1.0
 munfold 0.3.5
 munsell 0.5.1
-munsellinterpol 3.4-0
+munsellinterpol 3.5-1
 mupet 0.1.0
 MuPETFlow 0.1.1
 muRL 0.1-13
@@ -13601,7 +13603,7 @@ mycobacrvR 1.1
 mycolorsTB 0.1.1
 mycor 0.1.1
 myCRAN 1.3
-myIO 1.2.0
+myIO 1.3.0
 MyoScore 1.0.1
 myownrobs 1.0.0
 myrror 0.1.2
@@ -13634,7 +13636,7 @@ name 0.0.2
 namedropR 2.4.1
 NameNeedle 1.2.10
 namer 0.1.9
-nametagger 0.1.7
+nametagger 0.1.8
 nandb 2.1.1
 naniar 1.1.0
 nanoarrow 0.8.0-1
@@ -15659,6 +15661,7 @@ PKNCA 0.12.1
 pkpd.Release 0.1.0
 PKPDindex 0.2.1
 PKPDsim 1.4.1
+pkr 0.1.6
 pks 0.7-0
 pKSEA 0.0.1
 pksensi 1.2.3
@@ -16638,7 +16641,7 @@ qbr 1.3.0
 qbrms 1.0.1
 QCA 3.25
 QCAcluster 0.2.0
-qcaERT 0.1.0
+qcaERT 0.1.2
 qcapower 0.2.0
 qcauchyreg 1.0
 qCBA 1.0.2
@@ -17155,6 +17158,7 @@ rarms 1.0.0
 rARPACK 0.11-0
 RARtrials 0.0.2
 RAS 1.0.3
+rasch 1.11.7
 RaschSampler 0.8-10
 rasciidoc 4.1.1
 RaSEn 3.0.0
@@ -18282,7 +18286,7 @@ rkvo 0.1
 Rlab 4.5.1
 Rlabkey 3.5.0
 rLakeAnalyzer 1.11.4.1
-rLakeHabitat 1.0.2
+rLakeHabitat 1.0.3
 rlandfire 2.0.2
 rlang 1.3.0
 rlcv 1.0.0
@@ -19092,7 +19096,7 @@ Rtsne 0.17
 rtson 1.3
 Rttf2pt1 1.3.14
 Rtumblr 0.1.1
-Rtwalk 2.0.1
+Rtwalk 2.0.2
 rTwig 1.4.0
 Rtwobitlib 0.3.10
 rtype 0.1-1
@@ -19760,7 +19764,7 @@ semds 0.9-7
 semEff 0.7.2
 semEffect 1.2.3
 semfindr 0.2.1
-semFromKeys 0.2.2
+semFromKeys 0.3.0
 semgram 0.1.0
 SEMgraph 1.2.4
 semhelpinghands 0.1.15
@@ -20927,7 +20931,7 @@ spatstat.explore 3.8-2
 spatstat.geom 3.8-2
 spatstat.gui 3.1-0
 spatstat.Knet 3.1-3
-spatstat.linnet 3.5-1
+spatstat.linnet 3.5-3
 spatstat.local 5.1-0
 spatstat.model 3.7-2
 spatstat.random 3.5-1
@@ -21291,7 +21295,7 @@ stable 1.1.7
 stabledist 0.7-2
 StableEstim 2.4
 stableGR 1.2
-stablelearner 0.1-7
+stablelearner 0.1-8
 StablePopulation 1.0.3
 stabm 1.2.2
 stabs 0.7-1
@@ -22161,7 +22165,7 @@ teal.picks 0.2.0
 teal.reporter 0.6.3
 teal.slice 0.8.2
 teal.transform 0.7.2
-teal.widgets 0.6.1
+teal.widgets 0.7.0
 tealeaves 1.0.7
 teamcolors 0.0.4
 tectonicr 0.4.8
@@ -22886,7 +22890,7 @@ treeClust 1.1-7.1
 treeDA 0.0.5
 treedata.table 0.1.1
 treedater 2.0.0
-treeDbalance 1.2.0
+treeDbalance 1.2.1
 TreeDep 0.1.3
 TreeDiagram 0.1.1
 treediff 0.2.3
@@ -23057,7 +23061,7 @@ tsibbletalk 0.1.0
 tsintermittent 1.10
 tsiR 0.4.3
 tsissm 1.0.3
-tsitter 0.1.0
+tsitter 0.2.0
 TSLA 0.1.2
 TSLSTM 0.1.0
 TSLSTMplus 1.0.6
@@ -24312,7 +24316,7 @@ xvm 0.0.2
 xwf 0.2-4
 xxdi 1.26.4
 xxhashlite 0.2.2
-XYomics 0.1.4
+XYomics 0.1.5
 yaap 1.0.0
 yacca 1.4-2
 yaConsensus 1.1

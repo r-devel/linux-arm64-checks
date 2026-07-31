@@ -6981,7 +6981,6 @@ fitHeavyTail 0.2.0
 fitlandr 0.1.1
 fitmix 0.1.1
 fitnmr 1.0
-fitODBOD 1.5.5
 fitODBODRshiny 1.0.2
 fitplc 1.2-3.1
 fitPlotR 0.1.0
@@ -8398,7 +8397,6 @@ glm.predict 4.3-2
 glm2 1.2.1
 glm4 0.1.0
 GLMBasedRaschEstimation 0.2.0
-glmbayes 0.9.72
 glmbb 0.6
 glmc 0.4-1
 GLMcat 1.0.0
@@ -12957,7 +12955,6 @@ modeldatatoo 0.3.0
 modeldb 0.3.1
 modeldiag 0.1.0
 modeldiagramR 0.2.1
-modelDown 1.1
 modelenv 0.2.0
 Modeler 3.4.9
 modelfree 1.2.1
@@ -24449,7 +24446,7 @@ zoltr 1.0.2
 ZonationR 1.0.1
 zonebuilder 0.1.0
 zonohedra 0.6-0
-zoo 1.8-15
+zoo 1.9-0
 ZooID 0.2.0
 zooimage 5.5.2
 zoolog 1.1.0

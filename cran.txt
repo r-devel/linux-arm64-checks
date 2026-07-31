@@ -3516,7 +3516,7 @@ ComRiskModel 0.2.0
 comsimitv 0.1.5
 comstab 0.0.3
 comtrade 0.1.0
-comtradr 1.0.5
+comtradr 1.0.6
 con2aqi 0.1.0
 con2lki 0.1.0
 concatipede 1.0.1
@@ -4287,7 +4287,7 @@ dail 1.5.2
 DAIME 2.1.3
 daiquiri 1.2.1
 daiR 1.2.0
-DAISIE 4.6.0
+DAISIE 5.0.2
 DAISIEprep 1.0.1
 DAKS 2.1-3
 DALEX 2.5.4
@@ -8108,7 +8108,7 @@ gggrid 0.2-0
 ggguides 1.1.10
 ggh4x 0.3.1
 gghalfnorm 1.1.2
-gghdx 0.1.4
+gghdx 0.2.0
 gghexsize 0.1.0
 gghighlight 0.5.0
 gghinton 0.1.0
@@ -8841,7 +8841,7 @@ gscramble 1.0.2
 GSD 1.0.0
 GSDA 1.0
 gsDesign 3.10.1
-gsDesign2 1.1.9
+gsDesign2 1.2.0
 gsDesignNB 0.3.2
 gsDesignTune 0.1.0
 GSE 4.2-4
@@ -11882,7 +11882,7 @@ MarZIC 1.0.1
 mas 0.4
 maSAE 2.0.3
 masc 0.1.0
-mascarade 0.4.2
+mascarade 0.4.3
 mase 0.1.5.2
 mashr 0.2.79
 maskedcauses 0.10.0
@@ -13509,7 +13509,7 @@ murphydiagram 0.12.2
 muRty 0.3.1
 MUS 0.1.6
 musclesyneRgies 1.2.5
-muse 0.1.0
+muse 0.1.1
 music 0.1.2
 musicMCT 0.5.0
 musicNMR 1.0
@@ -15572,7 +15572,7 @@ phytoclass 2.3.1
 PhytoIn 0.2.0
 phytools 2.5-2
 PhytosanitaryCalculator 1.1.3
-piar 0.9.0
+piar 0.10.1
 PiC 3.3.3
 picante 1.8.2
 picasso 2.0.1
@@ -15965,7 +15965,7 @@ poolHelper 1.1.0
 poolr 1.2-0
 PoolTestR 0.2.0
 poolVIM 1.0.0
-poorman 0.2.7
+poorman 0.2.8
 pop 0.1
 pop.lion 1.0.1
 pop.wolf 1.0
@@ -17713,7 +17713,7 @@ redistverse 0.1.2
 redland 1.0.17-19
 redlist 0.2.0
 redlistr 2.1.0
-rEDM 1.15.4
+rEDM 2.0.1
 redoc 2.0.0.75
 redquack 0.3.0
 redux 1.1.5
@@ -19674,7 +19674,7 @@ sdtmval 0.4.1
 sdwd 1.0.5
 SE.EQ 1.0
 SEA 2.0.1
-seacarb 3.4.0
+seacarb 3.4.1
 SEAGLE 1.0.1
 SeaGraphs 0.1.3
 SEAHORS 1.9.0
@@ -20476,7 +20476,7 @@ skewlmm 1.1.3
 skewMLRM 1.7
 skewsamp 1.0.0
 skewt 1.0
-skewunit 1.0
+skewunit 1.1
 SKFCPD 0.2.4
 skiftiTools 0.1.0
 Skillings.Mack 1.10
@@ -23611,7 +23611,7 @@ VectorForgeML 0.1.0
 vectorialcalculus 1.0.5
 vectorsurvR 1.6.3
 vectorwavelet 0.1.0
-vectra 0.11.3
+vectra 0.11.8
 VectrixDB 1.1.2
 vecvec 1.2.0
 VedicDateTime 0.1.9
@@ -23968,7 +23968,7 @@ webdeveloper 1.0.5
 webdriver 1.0.6
 webexercises 1.1.0
 webfakes 1.5.0
-WebGestaltR 0.4.6
+WebGestaltR 1.0.0
 webglobe 1.0.3
 webmap 1.1.1
 webmockr 2.2.0

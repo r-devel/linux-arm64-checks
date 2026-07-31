@@ -986,7 +986,7 @@ AutoStepwiseGLM 0.2.0
 AutoStrataK 0.1.4
 autostsm 3.1.5
 autosync 0.1.0
-autotab 1.0.1
+autotab 1.1
 autotesteR 0.1.12
 autotestR 1.2.15
 autothresholdr 1.4.3

@@ -1485,7 +1485,7 @@ benchden 1.0.8
 Benchmarking 0.33
 benchmarkme 1.0.8
 benchmarkmeData 2.0.0
-BEND 2.1.0
+BEND 2.1.1
 benford 1.0.1
 benford.analysis 0.1.5
 BenfordTests 1.2.0
@@ -1514,7 +1514,7 @@ betaBayes 1.0.1
 BetaBit 2.2
 betacal 0.1.0
 betaclust 1.0.5
-BetaDanish 0.2.0
+BetaDanish 0.3.0
 betaDelta 1.0.7
 betafunctions 1.9.0
 betaMC 1.3.4
@@ -3879,6 +3879,7 @@ CoxICPen 1.1.0
 CoxLikelihood 0.1.0
 coxme 2.2-22
 CoxMK 0.1.1
+coxmnar 0.1.0
 Coxmos 1.1.5
 coxphf 1.13.4
 coxphm 0.2.1
@@ -5304,7 +5305,7 @@ drMAIC 0.1.0
 drmeta 0.1.0
 drogonR 0.1.8
 droll 0.1.0
-DRomics 2.6-2
+DRomics 2.6.3
 drone 1.0.0
 dropout 2.2.0
 dropR 1.0.6
@@ -6007,6 +6008,7 @@ entropy 1.3.2
 EntropyEstimation 1.2.1
 entrymodels 0.2.1
 envalysis 0.7.0
+envar 0.1.0
 EnvCpt 1.1.5
 envDocument 2.4.2
 enveomics.R 1.10.0
@@ -6354,9 +6356,9 @@ exams 2.4-4
 exams.forge 1.0.13
 exams.forge.data 0.1.3
 exams.mylearn 1.4
-exams2forms 0.2-1
+exams2forms 0.2-2
 exams2ilias 0.0.1
-exams2learnr 0.1-0
+exams2learnr 0.1-1
 exams2sakai 0.4
 ExceedanceTools 1.3.6
 excel2eprime 0.4.0
@@ -8376,7 +8378,7 @@ GlarmaVarSel 1.0
 glassdoor 0.9.0
 glasso 1.11
 glassoFast 1.0.1
-glasstabs 0.3.3
+glasstabs 0.3.4
 glba 0.2.1
 GLBFP 0.5.2
 glca 1.4.2
@@ -9272,7 +9274,7 @@ HiGarrote 2.0.0
 highcharter 0.9.5
 highd2means 1.0
 HighDimenCDM 0.1.0
-highdir 0.5.0
+highdir 0.6.0
 highDmean 0.1.0
 HighestMedianRules 1.0
 HighFive 3.3.0
@@ -14454,7 +14456,7 @@ ollamar 1.2.2
 ollg 1.0.0
 ollggamma 1.0.2
 olr 1.2
-OLSengine 1.1.0
+OLSengine 1.1.1
 olsrr 0.7.0
 OLStrajr 0.1.0
 olympicAthletes 0.5.10
@@ -17512,7 +17514,7 @@ rddi 0.1.1
 rddtools 2.0.2
 rde 0.1.1
 rDEA 1.2-8
-rdecision 1.3.0
+rdecision 1.3.1
 rDeckgl 0.1.0
 rDecode 0.1.0
 rdeps 0.4
@@ -17767,6 +17769,7 @@ regmed 2.1.5
 regmedint 1.0.2
 regmhmm 1.0.0
 regMMD 0.1.0
+regMR 1.0.0
 regnet 1.0.2
 regport 0.3.1
 regr.easy 1.0.2
@@ -20391,7 +20394,7 @@ SimTOST 1.0.2
 simtrait 1.1.3
 simtrial 1.0.2
 simts 0.2.4
-simtte 1.0.1
+simtte 1.0.2
 simuclustfactor 0.0.3
 simukde 1.3.0
 simulariatools 3.1.0
@@ -21426,7 +21429,7 @@ statpsych 2.0.0
 statquotes 0.3.3
 StatRank 0.0.6
 StatRec 1.0.0
-stats19 4.0.0
+stats19 4.1.0
 stats4teaching 0.1.0
 statsapps 0.1.0
 statsearchanalyticsr 0.1.4
@@ -22423,7 +22426,7 @@ ThresholdROC 2.10.0
 ThresholdROCsurvival 1.2.1
 threshr 1.0.8
 thriftr 1.1.8
-ThSQCA 2.0.5
+ThSQCA 2.0.6
 thunder 1.1.5
 ThurMod 1.1.20
 thurstonianIRT 0.12.5

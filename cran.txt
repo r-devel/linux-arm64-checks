@@ -2361,7 +2361,7 @@ campfin 1.0.11
 campsis 1.8.2
 campsismod 1.4.0
 camsRad 0.3.0
-camtrapdp 0.5.0
+camtrapdp 0.6.0
 camtrapR 3.1.0
 canadamaps 0.1
 canadianmaps 2.0.0
@@ -14457,6 +14457,7 @@ olr 1.2
 OLSengine 1.1.0
 olsrr 0.7.0
 OLStrajr 0.1.0
+olympicAthletes 0.5.10
 OlympicRshiny 1.0.2
 OmegaG 1.0.1
 OmicFlow 1.6.0
@@ -21200,7 +21201,7 @@ sqlm 0.1.0
 SQLove 1.0.2
 sqlparseR 0.1.0
 sqlq 1.0.1
-SqlRender 1.19.5
+SqlRender 1.19.6
 sqlstrings 1.0.0
 sqltargets 0.3.0
 SQMtools 1.8.0
@@ -22506,7 +22507,7 @@ tidymodels 1.5.0
 tidymodlr 1.0.0
 TidyMultiqc 1.0.3
 tidyna 0.4.0
-tidync 0.4.0
+tidync 0.5.0
 tidynorm 0.4.1
 tidyOhdsiSolutions 0.1.0
 tidypaleo 0.1.4

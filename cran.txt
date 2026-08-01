@@ -2493,7 +2493,7 @@ cati 0.99.6
 catIrt 0.5.1
 catlearn 1.1
 catmaply 0.9.5
-catmodeling 0.0.1
+catmodeling 0.0.2
 catool 1.0.1
 caTools 1.18.4
 CatPredi 2.0
@@ -7533,7 +7533,7 @@ fwlplot 0.3.0
 FWRGB 0.1.0
 fwtraits 1.0.0
 fxl 1.7.3
-fxregime 1.0-4
+fxregime 1.0-5
 fxTWAPLS 0.1.3
 fy 0.4.2
 fz 1.1
@@ -12775,7 +12775,7 @@ mlegp 3.1.10
 mlelod 1.0.0.1
 mlergm 0.8.1
 MLeval 0.3
-mlexperiments 1.0.0
+mlexperiments 1.0.1
 mlf 1.2.1
 MLFDR 0.1.0
 mlfit 0.5.3
@@ -17907,6 +17907,7 @@ REPS 1.1.1
 repsd 1.0.1
 repsim 0.1.0
 reptiledb.data 0.0.1
+reptiledbr 0.1.0
 repurrrsive 1.1.0
 reqres 1.2.0
 REQS 0.8-13
@@ -20459,7 +20460,7 @@ sjmisc 2.8.11
 sjPlot 2.9.0
 sjSDM 1.0.7
 sjstats 0.19.1
-sjtable2df 0.0.5
+sjtable2df 0.0.6
 SK4FGA 0.1.1
 SKAT 2.2.5
 skater 0.2.0

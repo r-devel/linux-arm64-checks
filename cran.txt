@@ -2473,7 +2473,7 @@ castgen 1.0.2
 castor 1.8.6
 cat 0.0-9
 cat2cat 0.6.1
-cata 0.1.1.2
+cata 0.1.2.0
 CATAcode 1.0.0
 catalog 0.1.1
 catalytic 0.1.0
@@ -6466,7 +6466,7 @@ eye 1.3.0
 eyedata 0.1.0
 eyelinker 0.2.2
 eyelinkReader 1.0.3
-eyeris 3.2.0
+eyeris 3.3.0
 eyetools 0.10.0
 eyetrackingR 0.2.2
 eyeTrackR 1.0.1
@@ -6512,7 +6512,7 @@ facetsviz 0.1.1
 facilityepimath 0.2.1
 facmodCS 1.0
 facmodTS 1.0
-facomplex 0.0.3
+facomplex 1.0.0
 FactChar 1.0
 FactEff 1.0
 factiv 0.1.0
@@ -11303,7 +11303,7 @@ litterfitter 0.1.4
 littler 0.3.23
 liureg 1.1.3
 live 1.5.13
-livelink 0.1.0
+livelink 0.1.1
 liver 1.29
 LJexm 1.0.5
 LJmp3converter 1.0.7
@@ -13498,7 +13498,7 @@ MuMIn 1.48.19
 mums2 0.1.1
 munch 0.0.2
 mundoLindey 0.1.0
-munfold 0.3.5
+munfold 0.3.7
 munsell 0.5.1
 munsellinterpol 3.5-1
 mupet 0.1.0
@@ -16059,7 +16059,7 @@ powerbydesign 1.0.5
 powerCompRisk 1.0.1
 powerEQTL 0.3.6
 PoweREST 0.1.2
-powergrid 0.5.0
+powergrid 0.6.2
 powerGWASinteraction 1.1.3
 powerHE 1.0.1
 powerindexR 1.6
@@ -16343,7 +16343,7 @@ ProjectManagement 2.1.4
 projects 2.1.3
 ProjectTemplate 0.11.2
 projmgr 0.1.2
-projoint 1.1.2
+projoint 1.1.3
 projpred 2.10.0
 ProliferativeIndex 1.0.1
 prolific.api 0.5.2
@@ -18687,7 +18687,7 @@ Romney 0.1.0
 ronfig 0.0.10
 Rook 1.2.1
 ROOPSD 0.3.9
-ROOT 0.1.1
+ROOT 0.2.0
 RootscanR 0.0.1
 RootsExtremaInflections 1.2.5
 rootSolve 1.8.2.4
@@ -20526,7 +20526,7 @@ slider 0.3.3
 slideview 0.2.1
 SlidingWindows 0.2.0
 slim 0.1.1
-SlimR 1.1.7
+SlimR 1.1.8
 slippymath 0.3.1
 slm 1.2.0
 SLModels 0.1.2
@@ -21898,7 +21898,7 @@ svylme 1.5-1
 svymargins 0.1.0
 SvyNom 1.2
 svyROC 1.1.0
-svySE 0.2.0
+svySE 0.2.1
 svytest 1.1.0
 svyVarSel 1.0.1
 svyVGAM 1.3

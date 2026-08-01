@@ -22406,7 +22406,7 @@ ThinkingGrid 0.1.0
 thinkr 0.16
 thinr 0.3.0
 this.path 2.8.0
-thisplot 0.4.0
+thisplot 0.4.3
 thisutils 0.4.7
 ThomasJeffersonUniv 0.1.3
 thor 1.2.0

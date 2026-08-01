@@ -3084,7 +3084,7 @@ clinicalomicsdbR 1.0.6
 clinicalsignificance 3.0.0
 ClinicalTrialSummary 1.1.1
 ClinicalUtilityRecal 0.1.0
-clinify 0.3.1
+clinify 0.4.0
 clinmon 0.6.0
 clinPK 0.13.0
 clinpubr 1.4.1
@@ -7783,7 +7783,7 @@ GENEAread 2.0.10
 GeneCycle 1.1.6
 geneExpressionFromGEO 1.3
 GeneF 1.0.1
-genefindr 1.0.0
+genefindr 1.1.0
 geneHummus 1.0.11
 genekitr 1.2.8
 genemodel 1.1.0
@@ -8132,7 +8132,7 @@ ggkodom 1.0.3
 gglasso 1.6
 gglgbtq 0.2.0
 gglinedensity 0.2.0
-gglm 1.0.5
+gglm 1.1.0
 gglogger 0.1.8
 gglorenz 0.0.2
 gglycan 0.0.3

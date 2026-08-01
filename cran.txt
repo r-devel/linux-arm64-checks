@@ -3301,7 +3301,7 @@ codeCollection 0.1.3
 codecountR 0.0.4.8
 CodeDepends 0.6.7
 codelist 0.1.0
-CodelistGenerator 4.0.2
+CodelistGenerator 4.1.0
 codemeta 0.1.1
 codemetar 0.3.7
 codename 0.5.0
@@ -6289,7 +6289,7 @@ evenBreak 1.0
 eventdataR 0.3.1
 eventglm 1.4.5
 eventInterval 1.3
-eventPred 0.3.0
+eventPred 0.3.1
 EventPredInCure 1.0
 eventreport 0.1.2
 eventstream 0.1.1
@@ -19193,7 +19193,7 @@ RWDataPlyr 0.6.6
 RweaveExtra 1.3-1
 RWeka 0.4-50
 RWekajars 3.9.3-2
-rwetools 0.2.0
+rwetools 0.4.0
 rwevalidate 0.1.2
 rwfec 0.2
 RWgraph 1.0.0
@@ -23076,7 +23076,7 @@ tsfeatures 1.1.1
 tsfgrnn 1.0.5
 tsfknn 0.6.0
 tsfngm 0.1.0
-tsforecast 1.3.0
+tsforecast 1.3.1
 tsg 0.1.4
 tsgarch 1.0.4
 tsgc 0.0

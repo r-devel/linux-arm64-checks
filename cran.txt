@@ -2113,7 +2113,7 @@ BreakPoints 1.2
 breathtestcore 0.8.11
 breathteststan 0.8.9
 bReeze 0.4-4
-bregr 1.4.0
+bregr 1.5.0
 BRETIGEA 1.0.3
 brew 1.0-10
 brfinance 0.8.0
@@ -12916,7 +12916,7 @@ MNARclust 1.1.0
 MNB 1.2.0
 mnda 1.0.9
 mnet 0.1.4
-mnirs 0.6.5
+mnirs 0.7.0
 mniw 1.0.2
 mnlfa 0.3-4
 MNLR 0.1.0
@@ -17906,7 +17906,7 @@ ReproStat 0.1.2
 REPS 1.1.1
 repsd 1.0.1
 repsim 0.1.0
-reptiledb.data 0.0.0.2
+reptiledb.data 0.0.1
 repurrrsive 1.1.0
 reqres 1.2.0
 REQS 0.8-13
@@ -18960,7 +18960,7 @@ rsm 2.10.6
 RSmallTelescopes 1.0.4
 RSmartlyIO 0.1.3
 rsmatch 0.2.1
-rsmatrix 0.2.10
+rsmatrix 0.2.11
 Rsmlx 2024.1.0
 rsnell 0.1
 RSNNS 0.4-18
@@ -20369,7 +20369,7 @@ simpowa 1.0.3
 simpr.interaction 0.1.0
 simputation 0.2.9
 simqi 0.2.0
-simr 1.0.9
+simr 1.0.10
 SimRDS 2.0.0
 simrec 1.0.1
 SimReg 3.4

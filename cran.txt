@@ -13417,7 +13417,7 @@ multimediate 0.1.6
 multimix 1.0-10
 MultiModalR 1.0.0
 multimode 1.5
-multiModTest 1.0
+multiModTest 1.1
 multimolang 0.1.1
 multimorbidity 0.5.1
 multiness 1.0.2

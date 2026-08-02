@@ -1,6 +1,6 @@
 # dqcheckr 0.3.0
 
-Latest run: 2026-07-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/30193227802
+Latest run: 2026-08-02: https://github.com/r-devel/linux-arm64-checks/actions/runs/30728355332
 
 ```
 Package: dqcheckr

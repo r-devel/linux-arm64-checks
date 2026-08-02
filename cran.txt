@@ -1704,7 +1704,7 @@ binspp 0.2.4
 binsreg 2.1
 binst 0.2.1
 BINtools 0.2.0
-binxr 0.1.1
+binxr 0.1.2
 bio.infer 1.3-6
 bio3d 2.4-5
 bioacoustics 0.2.10
@@ -3115,6 +3115,7 @@ CloneSeeker 1.0.16
 CLONETv2 2.2.1
 clootl 0.1.4
 clordr 1.7.2
+closecity 1.5.0
 closeloop 0.1.0
 cloudfs 0.1.3
 cloudml 0.7.1
@@ -4642,7 +4643,7 @@ DELTD 2.6.8
 DEM 0.0.0.2
 dematel 0.1.0
 deming 1.4-1
-DEmixR 0.1.1
+DEmixR 0.2.0
 DemoDecomp 1.14.1
 demodelr 2.0.1
 demofit 0.1.4
@@ -5114,6 +5115,7 @@ DMMF 0.5.2.0
 dMod 1.0.2
 DMRnet 0.4.1
 dMrs 1.0.0
+DMSTAr 0.1.1
 DMtest 1.0.0
 dmtools 0.2.6
 dmutate 0.2.0
@@ -7449,7 +7451,7 @@ funcMapper 1.0.2
 funcml 0.7.1
 FunctanSNP 0.1.0
 functional 0.7
-FunctionalCalibration 1.0.0
+FunctionalCalibration 2.0.0
 functionals 0.5.0
 functiondepends 0.2.3
 funData 1.3-9
@@ -8550,6 +8552,7 @@ gofIG 1.0
 gofigR 1.1.3
 GoFKernel 2.1-3
 gofmalm 0.1.0
+Gofpt2 0.1.0
 gofreg 1.0.0
 GOFShiny 0.1.0
 goft 1.3.6
@@ -10202,7 +10205,7 @@ ipumsr 0.10.0
 IPV 1.0.0
 ipw 1.3.0
 IPWboxplot 0.1.2
-ipwCoxCSV 1.0
+ipwCoxCSV 1.1
 ipwErrorY 2.1
 iq 2.0.1
 IQCC 0.7
@@ -10217,6 +10220,7 @@ iRepro 1.2
 IRexamples 0.0.4
 iRfcb 0.9.0
 irg 0.1.6
+irid 0.3.0
 IrishDirectorates 1.5
 IRISMustangMetrics 2.4.8
 IRISSeismic 1.10.0
@@ -13513,6 +13517,7 @@ musicMCT 0.5.0
 musicNMR 1.0
 musicXML 1.0.1
 mutationtypes 0.0.1
+mutator 0.2.1
 mutoss 0.1-14
 mutossGUI 0.1-12
 mutSignatures 2.1.1
@@ -14348,7 +14353,7 @@ oblicubes 1.0.1
 obliqueRSF 0.1.2
 obm 2.1
 OBMbpkg 1.0.0
-obr 0.5.1
+obr 0.6.0
 obrasgovr 0.1.0
 OBRE 0.2-0
 Observation 0.3.0
@@ -19448,7 +19453,7 @@ sbtools 1.4.1
 sbw 1.2
 SC2API 1.0.0
 sc2sc 0.0.1-19
-sca 0.9-2
+sca 0.9-3
 scagnostics 0.2-6
 scalablebayesm 0.2
 scaleAlign 1.0.0.0
@@ -22966,7 +22971,7 @@ TRexSelector 1.0.0
 Tri.Hierarchical.IBDs 1.0.0
 triact 0.3.1
 TriadSim 0.3.1
-triageR 0.1.0
+triageR 0.1.1
 TrialEmulation 0.0.4.11
 trialr 0.1.6
 TrialSimulator 1.20.1
@@ -23136,6 +23141,7 @@ ttbbeer 1.1.0
 TTCA 0.1.1
 ttcg 1.0.1
 ttdo 0.0.10
+TTE 1.1.1
 tteICE 1.1.4
 tth 4.16-1
 tTOlr 0.2.3

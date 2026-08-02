@@ -21762,7 +21762,7 @@ survC1 1.0-3
 survcompare 0.3.0
 SurvCorr 1.1
 survCurve 1.0
-SurvDisc 0.1.1
+SurvDisc 0.1.2
 survdistr 0.0.3
 survdnn 0.7.6
 survdt 0.9.0

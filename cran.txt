@@ -361,7 +361,7 @@ AICcmodavg 2.3-4
 AID 3.1
 AIDA 0.2.0
 aiDIF 0.1.0
-aieconindex 0.1.1
+aieconindex 0.2.0
 AiES 0.99.6
 aifeducation 1.1.6
 AIFFtools 1.0
@@ -6545,7 +6545,7 @@ FADA 1.3.5
 FAdist 2.4
 FADPclust 1.1.1
 faersquarterlydata 1.3.0
-FAfA 1.1
+FAfA 1.2
 fahb 1.0.0
 Fahrmeir 2016.5.31
 fail 1.3
@@ -14579,7 +14579,7 @@ opendatatoronto 0.1.6
 opendotaR 0.1.4
 openEBGM 0.9.1
 openeo 1.4.1
-openesm 0.2.0
+openesm 0.2.1
 openFDA 0.1.0
 opengraph 0.0.4
 OpEnHiMR 0.1.1

@@ -1,6 +1,6 @@
 # taxonomizr 0.11.1
 
-Latest run: 2026-07-26: https://github.com/r-devel/linux-arm64-checks/actions/runs/30184673518
+Latest run: 2026-08-02: https://github.com/r-devel/linux-arm64-checks/actions/runs/30728996241
 
 ```
 Package: taxonomizr

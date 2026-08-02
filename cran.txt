@@ -7721,7 +7721,6 @@ gdxtools 1.1.1
 GE 0.5.4
 gear 0.3.4
 geboes.score 1.0.0
-GEC 0.1.0
 GECal 0.1.7
 gecko 1.0.3
 gedi2 2.3.4
@@ -8470,7 +8469,7 @@ glueDo 0.1.0
 gluedown 1.0.9
 gluvarpro 7.0
 glvmfit 0.1.0
-glydraw 0.7.0
+glydraw 0.8.0
 glyparse 0.7.1
 glyph 0.1.1
 glyrepr 0.14.0
@@ -17584,7 +17583,7 @@ read.gb 2.2
 read.gt3x 1.2.0
 readABF 1.0.2
 readabs 0.4.30
-readaec 0.1.2
+readaec 0.2.0
 readapra 0.2.3
 readbitmap 0.1.5
 readBrukerFlexData 1.9.3
@@ -22617,7 +22616,7 @@ tinsel 0.0.1
 tint 0.1.6
 tinter 0.1.0
 tintin 0.2
-tinyarray 2.4.3
+tinyarray 3.0.0
 tinycodet 0.7.0
 tinydng 0.1.0-0
 tinyimg 0.4
@@ -23207,7 +23206,6 @@ twig 1.0.0.0
 twilio 0.1.0
 twingp 1.0.0
 twinning 1.1
-twinsvm 0.0.2
 twitteradsR 0.1.0
 twitterwidget 0.1.1
 twl 1.0

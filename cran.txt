@@ -6993,7 +6993,7 @@ FITSio 2.1-6
 fitteR 0.2.0
 FitUltD 3.1.0
 fitur 0.6.2
-fitVARMxID 1.0.3
+fitVARMxID 1.0.5
 fitzRoy 1.7.0
 fivethirtyeight 0.6.2
 fixedCV 0.1.0
@@ -12657,7 +12657,7 @@ missRanger 2.6.1
 missSBM 1.1.0
 mistr 0.0.6
 mistral 2.2.4
-misty 0.8.2
+misty 0.8.3
 misuvi 0.1.1
 mitey 0.2.0
 mitml 0.4-5
@@ -22387,7 +22387,7 @@ theft 0.8.4
 theftdlc 0.2.1
 theiaR 0.4.0
 thematic 0.1.8
-themis 1.0.3
+themis 1.1.0
 TheOpenAIR 0.1.0
 TheOrdinals 0.1.0
 theorytools 0.1.3

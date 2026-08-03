@@ -1323,7 +1323,7 @@ BayesProject 1.0
 bayesqm 0.1.0
 bayesQR 2.4
 bayesQRsurvey 0.3.0
-bayesRecon 1.0.1
+bayesRecon 1.0.2
 bayesreg 1.3
 BayesRegDTR 1.1.2
 Bayesrel 0.7.9
@@ -3004,7 +3004,7 @@ clap 0.1.0
 clarabel 0.11.2
 clarify 0.2.3
 clarkeTest 0.2.0
-class 7.3-23
+class 7.3-24
 ClassComparison 3.3.5
 ClassDiscovery 3.4.10
 classGraph 0.7-7
@@ -6825,7 +6825,7 @@ ferrn 0.3.0
 fertilmodel 1.5
 FertNet 0.1.2
 FES 1.0
-FESta 1.0.0
+FESta 1.0.1
 fetch 0.1.5
 fetchGoogleAnalyticsR 0.1.0
 fetchSalesforceR 0.1.0
@@ -7588,7 +7588,7 @@ gamlss.mx 6.0-1
 gamlss.tr 5.1-9
 gamlssbssn 0.1.0
 gamlssx 1.0.2
-gamm4 0.2-7
+gamm4 0.3-0
 gamma 1.1.0
 GammaFrailty 0.1.0
 gammaFuncModel 6.0
@@ -8616,7 +8616,7 @@ GPAbin 1.1.1
 gpairs 1.4.0
 GPareto 1.1.9
 GPArotateDF 2026.6-1
-GPArotation 2026.7-1
+GPArotation 2026.8-1
 GPBayes 0.1.0-6
 gpbiometrics 0.1.0
 gpboost 1.7.1.1
@@ -14074,7 +14074,7 @@ nn2poly 1.0.1
 nna 0.0.2.1
 nncc 2.0.0
 nndiagram 1.0.0
-nnet 7.3-20
+nnet 7.3-21
 nnetLM 1.0.1
 nnfor 0.9.9
 nnGarrote 1.0.4
@@ -19368,7 +19368,7 @@ SAMUR 1.1
 sanba 0.0.4
 sand 2.0.0
 sandbox 0.2.3
-sandwich 3.1-2
+sandwich 3.1-3
 SanFranBeachWater 0.1.0
 SangerTools 1.0.2
 sanic 0.0.2
@@ -20912,7 +20912,7 @@ spatgeom 0.3.0
 spatgraphs 3.4
 SpatGRID 0.1.0
 spaths 1.2.0
-spatial 7.3-18
+spatial 7.3-19
 SpatialAcc 0.1-6
 spatialAtomizeR 0.2.8
 SpatialBSS 0.16-0

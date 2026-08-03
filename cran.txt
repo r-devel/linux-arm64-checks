@@ -8920,7 +8920,7 @@ guardianapi 0.1.1
 GUD 1.0.2
 Guerry 1.8.3
 guescini 0.1.0
-guess 0.3.0
+guess 0.7.0
 GUEST 0.2.0
 guidedPLS 1.2.1
 guideR 0.10.0
@@ -17222,7 +17222,7 @@ rATTAINS 1.2.0
 rattle 5.6.2
 Ravages 1.2.0
 ravecore 0.1.1
-ravel 0.1.2
+ravel 0.1.4
 ravelRy 0.1.0
 raven.rdf 0.2.0
 RavenR 2.2.4
@@ -23155,8 +23155,8 @@ ttt 1.0
 ttTensor 1.0.2
 tttplot 1.1.1
 ttutils 1.0-1.1
-tuber 1.4.0
-tubern 0.5.0
+tuber 1.4.1
+tubern 0.5.1
 tuckerR.mmgg 1.5.1
 TUFLOWR 0.1.1
 tufte 0.15.0

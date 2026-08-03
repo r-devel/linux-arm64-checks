@@ -23593,7 +23593,7 @@ VCBART 1.2.5
 vccp 0.1.1
 vcd 1.4-14
 vcd2df 1.0.1
-vcdExtra 0.9.6
+vcdExtra 0.9.7
 vcfheader 0.1.0
 vcfppR 0.8.3
 vcfR 1.16.0
@@ -24027,7 +24027,7 @@ weightedsurv 0.1.0
 WeightedTreemaps 0.1.4
 weightedVoronoi 1.1.1
 weightflow 0.2.0
-WeightIt 1.7.0
+WeightIt 2.0.0
 WeightMyItems 0.1.4
 weightQuant 1.0.1
 weightr 2.0.2
@@ -24067,7 +24067,7 @@ whereport 0.1
 whippr 0.1.4
 whirl 0.3.2
 whisker 0.4.1
-whisper 0.4.0
+whisper 0.5.1
 whitebox 2.4.3
 WhiteLabRt 1.0.1
 whitening 1.4.0

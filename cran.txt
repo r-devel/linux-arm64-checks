@@ -15312,7 +15312,7 @@ pedsuite 1.4.0
 pedtools 2.11.0
 pedtricks 0.5.0
 peeky 0.1.0
-PeerPerformance 2.3.2
+PeerPerformance 2.4.0
 pegas 1.4
 PEGroupTesting 1.0
 pegs 0.2
@@ -20104,7 +20104,7 @@ shinyfilter 0.1.1
 shinyfilters 0.3.0
 shinyfullscreen 1.1.0
 shinyGizmo 0.5.0
-shinyglass 0.1.0
+shinyglass 0.1.1
 shinyglide 0.1.4
 shinyGovstyle 0.2.0
 shinyHeatmaply 0.2.0

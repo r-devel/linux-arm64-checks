@@ -145,6 +145,7 @@ adapt4pv 0.2-3
 adaptalint 0.2.4
 adaptDiag 0.1.1
 AdaptGauss 1.6
+AdaptHyCensor 0.1.0
 AdaptiveBoxplot 0.1.1
 adaptiveGPCA 0.1.3
 adaptivetau 2.3-2
@@ -653,7 +654,7 @@ aplms 0.1.0
 aplore3 0.9
 AplosNCA 1.0.1
 aplot 0.3.1
-aplotExtra 0.0.5
+aplotExtra 0.0.6
 aplpack 1.3.5
 apm 0.1.1
 APML0 0.11
@@ -873,7 +874,7 @@ AST 0.1.0
 aster 1.3-7
 aster2 0.3-2
 asteRisk 1.4.5
-astgrepr 0.1.1
+astgrepr 0.1.2
 AsthmaNHANES 1.1.0
 astrochron 1.8
 astroFns 4.2-1
@@ -1881,6 +1882,7 @@ blockr.dock 0.1.2
 blockr.dplyr 0.1.0
 blockr.ggplot 0.1.0
 blockr.io 0.1.0
+blockr.session 0.1.0
 blockrand 1.5
 blockRAR 1.0.3
 blocksdesign 4.9
@@ -5173,6 +5175,7 @@ DoE.MIParray 1.0-2
 DoE.wrapper 0.13
 doebioresearch 0.1.0
 DOEM 0.0.0.1
+DOEpro 2.0.1
 doFuture 1.3.0
 dogesr 0.5.2
 Dogoftest 0.3
@@ -5975,7 +5978,7 @@ emulator 1.2-24
 emuR 2.6.0
 enaho 0.2.5
 eNchange 1.1
-encharter 0.9.1
+encharter 0.10
 encode 0.3.7
 EncompassTest 0.22
 encryptedRmd 0.2.1
@@ -8694,7 +8697,7 @@ gramEvol 2.1-4
 GramQuad 0.1.1
 GRANDpriv 0.1.3
 grandR 0.2.7
-grangers 0.1.0
+grangers 0.1.1
 grangersearch 0.1.0
 granova 2.3
 granovaGG 1.4.1
@@ -10460,6 +10463,7 @@ jgd 0.1.1
 JGR 1.9-2
 jgsbook 1.0.8
 JICO 0.1
+jiebaRS 0.2.0
 jinjar 0.3.2
 jipApprox 0.1.5
 jirar 0.1.0
@@ -10925,6 +10929,7 @@ lambda.r 1.2.4
 lambdaTS 1.1
 lambdr 1.2.5
 LambertW 0.6.9-2
+lame 1.3.4
 laminr 1.3.1
 lamle 0.3.1
 lamW 2.2.7
@@ -12700,7 +12705,7 @@ mixchar 0.1.0
 mixcure 2.0
 mixdir 0.3.0
 mixdist 0.5-5
-mixedBayes 0.2.5
+mixedBayes 0.2.6
 mixedbiastest 1.0.2
 mixedCCA 1.6.3
 mixedClust 1.0.2.1
@@ -12760,7 +12765,7 @@ MixtureMissing 3.0.6
 MixTwice 2.0
 mixvlmc 0.2.2
 mize 0.2.5
-mizer 3.2.0
+mizer 3.2.1
 MJMbamlss 0.1.0
 mKBO 0.1.0
 MKclass 0.5
@@ -13232,7 +13237,7 @@ MRHawkes 1.0
 mri 1.0.1
 mrIML 2.2.0
 MRIreduce 1.0.0
-mritc 0.6.0
+mritc 0.6.1
 MRMCaov 0.3.1
 MRMCbinary 1.0.6
 MRMCsamplesize 1.0.0
@@ -13683,7 +13688,7 @@ nametagger 0.1.8
 nandb 2.1.1
 naniar 1.1.0
 nanoarrow 0.8.0-1
-nanonext 1.10.1
+nanonext 1.10.2
 nanoparquet 0.5.1
 nanostringr 0.6.1
 nanotime 0.3.15
@@ -14859,6 +14864,7 @@ OTUtable 1.1.2
 ouch 2.20
 ouladFormat 1.2.2
 outbreaker2 1.1.4
+OutbreakR 0.1.0
 outbreaks 1.9.0
 outcomerate 1.0.1
 OutcomeWeights 0.1.1
@@ -15596,6 +15602,7 @@ phyreg 1.0.2
 PhysActBedRest 1.1
 PhysicalActivity 0.2-4
 PhysioIndexR 0.1.0
+PhysMove 1.2.4
 PhySortR 1.0.9
 phytoclass 2.3.1
 PhytoIn 0.2.0
@@ -15949,6 +15956,7 @@ polycor 0.8-2
 PolycrossDesigns 1.1.0
 polyCub 0.9.4
 polyglotr 1.7.4
+polyglotSQL 0.1.0
 PolyHaplotyper 1.0.1
 polykde 1.2.1
 polylabelr 1.0.0
@@ -16442,7 +16450,7 @@ provParseR 1.0
 provSummarizeR 1.5.1
 provTraceR 1.0
 provViz 1.0.9
-proximetricsR 0.6.5
+proximetricsR 0.7.0
 proxirr 0.5
 ProxReg 1.1.2
 proxy 0.4-29
@@ -22444,7 +22452,7 @@ thinkr 0.16
 thinr 0.3.0
 this.path 2.8.0
 thisplot 0.4.3
-thisutils 0.4.7
+thisutils 0.4.9
 ThomasJeffersonUniv 0.1.3
 thor 1.2.0
 thorn 0.2.0
@@ -24279,7 +24287,7 @@ wyz.code.testthat 1.1.20
 x12 1.11.0
 x13binary 1.1.61.2
 x3ptools 0.0.4
-xactonomial 1.2.1
+xactonomial 1.2.2
 xadmix 1.0.0
 xaringan 0.31
 xaringanExtra 0.8.0
@@ -24483,6 +24491,7 @@ ZLAvian 0.2.0
 zlib 1.0.3
 zlog 1.0.2
 zmctp 0.1.2
+zmij 0.1.0
 zmisc 0.2.3
 zoeppritz 1.0-9
 zoib 1.6.1

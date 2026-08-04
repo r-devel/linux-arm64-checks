@@ -6007,7 +6007,7 @@ enmSdmX 1.2.12
 ENMTools 1.1.5
 enpls 6.1.1
 EnrichIntersect 1.0
-enrichit 0.2.0
+enrichit 0.2.1
 enrichR 3.4
 enrichwith 0.5.0
 EnsCat 1.1
@@ -8420,6 +8420,7 @@ glm.predict 4.3-2
 glm2 1.2.1
 glm4 0.1.0
 GLMBasedRaschEstimation 0.2.0
+glmbayes 0.9.75
 glmbb 0.6
 glmc 0.4-1
 GLMcat 1.0.0
@@ -8886,7 +8887,7 @@ gsMAMS 0.7.2
 gsMeanFreq 0.1.0
 GSMX 1.3
 GSODR 5.0.1
-gson 0.2.0
+gson 0.2.1
 GSparO 1.0
 gspcr 0.9.5
 gsrs 0.1.1
@@ -9099,7 +9100,7 @@ HCD 1.0
 hce 0.9.4
 hchinamap 0.1.0
 hcidata 0.1.0
-hcinfer 0.1.1
+hcinfer 0.2.0
 hclust1d 0.1.1
 hclusteasy 0.1.0
 hclustTeach 0.1.0
@@ -9634,7 +9635,7 @@ ibd 1.6
 ibdfindr 0.3.1
 IBDInfer 0.1.0
 ibdsegments 1.0.1
-ibdsim2 2.3.2
+ibdsim2 2.3.3
 ibelief 1.3.1
 IBFS 1.0.0
 ibger 0.2.0
@@ -16869,7 +16870,7 @@ QuantBondCurves 0.3.3
 quantCurves 1.0.0
 quantdates 2.0.4
 quantdr 1.3.2
-quanteda 4.4
+quanteda 4.5.0
 quanteda.textmodels 0.9.10
 quanteda.textplots 0.96.1
 quanteda.textstats 0.97.2
@@ -18786,7 +18787,7 @@ routr 2.0.0
 roxigraph 0.1.2
 roxut 0.4.0
 roxy.shinylive 1.0.0
-roxygen2 8.0.0
+roxygen2 8.1.0
 roxygen2md 1.0.1
 roxyglobals 1.0.0
 roxylint 0.1.0
@@ -23328,7 +23329,7 @@ ufRisk 1.0.7
 ufs 25.7.1
 UGarima 0.1.0
 ugatsdb 0.2.3
-uGMAR 3.6.0
+uGMAR 3.6.1
 ugomquantreg 1.0.0
 UHM 0.3.0
 ui 1.0.1

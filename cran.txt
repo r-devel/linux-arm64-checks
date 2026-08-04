@@ -173,7 +173,7 @@ addinslist 0.5.0
 addinsOutline 0.1.6
 additive 1.0.1
 additivityTests 1.1-4.2
-AddiVortes 0.6.8
+AddiVortes 0.6.9
 addreg 3.0
 ADDT 2.0
 ade4 1.7-24
@@ -946,7 +946,7 @@ autoann 0.1.0
 autocodebook 0.1.0
 autocogs 0.1.5
 autoCovariateSelection 1.0.0
-autodb 3.2.4
+autodb 3.3.0
 AutoDeskR 0.5.0
 autoEnsemble 0.3
 autoFC 1.0.0.1002
@@ -1418,6 +1418,7 @@ bcROCsurface 1.0-6
 bcRP 1.0.2
 bcrypt 1.2.1
 BCSreg 1.1.1
+BCT 1.3
 bcv 1.0.2
 bda 19.1.3
 BDAlgo 0.1.0
@@ -2179,7 +2180,7 @@ bSims 0.3-3
 bsitar 0.3.3
 bskyr 0.4.0
 BSL 3.2.6
-bslib 0.11.0
+bslib 0.12.0
 BsMD 2023.920
 bsnsing 1.0.1
 bsocialv2 0.2.1
@@ -9543,7 +9544,7 @@ hydrodownloadR 0.1.3
 hydroeval 0.1.0
 hydroEvents 0.13.0
 hydroGOF 0.7-0
-hydroloom 1.2.0
+hydroloom 1.2.1
 HydroMe 2.1.2
 hydromeso 0.1.0
 hydroMOPSO 0.1-14
@@ -9667,7 +9668,7 @@ ICEbox 1.2
 icecdr 1.2.0
 icecream 0.2.2
 ICED 0.0.1
-ICEHmeasures 1.1.0
+ICEHmeasures 2.0.0
 iCellR 1.7.0
 icenReg 2.0.16
 icensBKL 1.5
@@ -12134,7 +12135,7 @@ mdendro 2.2.3
 MDFS 1.5.5
 mdftracks 0.2.2
 mdgc 0.1.7
-MDgof 1.0.2
+MDgof 1.1.0
 MDimNormn 0.8.0
 mdir.logrank 0.0.4
 MDMA 2.0.0
@@ -14092,7 +14093,7 @@ nnmf 1.6
 NNMIS 1.0.1
 NNMoMo 0.1.0
 nnR 0.1.0
-NNS 13.1
+NNS 13.2
 nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
@@ -17864,7 +17865,7 @@ REndo 2.5.0
 Renext 3.1-5
 renpow 0.1-1
 rentrez 1.2.4
-renv 1.2.3
+renv 1.2.4
 Renvlp 3.4.5
 RenvModule 1.1
 RenyiExtropy 0.4.0
@@ -17957,7 +17958,7 @@ reslife 0.2.1
 resLIK 0.1.2
 reslr 0.2.0
 resmush 1.0.2
-resourcecode 0.5.4
+resourcecode 0.5.5
 resourcecodedata 1.0.0
 resourcer 1.5.1
 ResourceSelection 0.3-6
@@ -18152,7 +18153,7 @@ rhnerm 1.1
 rhoneycomb 2.3.4
 rhoR 1.3.1
 rhosa 0.3.0
-Rhpc 0.26.4
+Rhpc 0.26.5
 RHPCBenchmark 0.1.0
 RhpcBLASctl 0.23-42
 RHRT 1.0.1
@@ -18169,7 +18170,7 @@ ria.test 0.2.1
 rIACI 1.0.0
 riAFTBART 0.3.3
 rib 0.30.4
-ribd 1.7.1
+ribd 1.7.2
 RIbench 1.0.2
 ribiosArg 1.5.0
 ribiosGraph 1.1.0
@@ -18790,7 +18791,7 @@ RPEGLMEN 1.1.4
 RPEIF 1.2.5
 RPEnsemble 0.5
 RPESE 1.2.7
-RPesto 0.1.4
+RPesto 0.1.5
 RPEXE.RPEXT 0.0.2
 rpf 1.0.15
 rpgconn 0.3.2
@@ -22869,7 +22870,7 @@ traits 0.6.0
 traitstrap 0.1.0
 traj 3.0.1
 trajectories 0.2-10
-trajeR 0.11.1
+trajeR 1.0
 trajmsm 0.1.5
 trajr 1.5.1
 traktok 0.1.1

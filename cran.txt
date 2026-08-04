@@ -1563,7 +1563,7 @@ bggum 1.0.2
 BGLR 1.1.4
 bgmfiles 0.1.0
 BGmisc 1.6.0.1
-bgms 0.1.6.3
+bgms 0.2.0.0
 BGPhazard 2.1.1
 bgumbel 0.0.3
 BGVAR 2.5.9
@@ -6042,7 +6042,7 @@ epca 1.1.0
 ePCR 0.11.0
 epe4md 0.1.4
 eph 1.0.2
-Epi 2.65
+Epi 2.66
 epibasix 1.5
 epicasting 0.1.0
 epichains 0.1.1
@@ -10131,7 +10131,6 @@ intsvy 2.9
 inum 1.0-5
 invacost 1.1-7
 InvariantCausalPrediction 0.8
-invasible 0.1.0
 InvasionCorrection 0.1
 invctr 0.2.0
 inventorize 1.1.2

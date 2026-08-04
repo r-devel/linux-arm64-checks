@@ -836,6 +836,7 @@ AsianOption 0.2.0
 AsioHeaders 1.30.2-1
 askgpt 0.1.3
 askpass 1.2.1
+asleep 0.1.0
 aslib 0.1.3
 asm 0.2.4
 ASMbook 1.0.2
@@ -1595,7 +1596,7 @@ BICORN 0.1.0
 BiDAG 2.1.4
 bidask 2.1.5
 BiDimRegression 2.0.1
-BIDistances 0.1.3
+BIDistances 0.1.5
 bidser 0.5.0
 bidsr 0.1.1
 bidux 0.4.0
@@ -1659,6 +1660,7 @@ bikm1 1.1.0
 bild 1.2-1
 billboard 0.1.0
 billboarder 0.5.1
+BiMaUmisc 0.1.0
 bimets 4.1.2
 BimodalIndex 1.1.11
 bin2norm 0.1.1
@@ -2100,6 +2102,7 @@ brassica 1.0.3
 bravo 4.1.0
 BrazilCrime 0.3.0
 BrazilDataAPI 0.3.0
+brazilmaps 1.0.0
 BrazilMet 0.4.0
 BRcal 1.0.1
 brclimr 0.2.0
@@ -2414,6 +2417,7 @@ cardargus 0.2.5
 carData 3.0-6
 CardiacDP 0.4.2
 cardidates 0.4.9
+cardinalfda 0.2.0
 cardinalR 1.0.6
 CardioCurveR 1.0.0
 CardioDataSets 0.2.0
@@ -2510,6 +2514,7 @@ CATTexact 0.1.1
 catviz 0.1.1
 cauchypca 1.4
 caugi 1.2.0
+CauMedi 0.1.1
 cauphy 1.0.3
 causact 0.6.0
 causal.decomp 0.2.0
@@ -3506,6 +3511,7 @@ CompositionalNAimp 1.1
 CompositionalRF 1.6
 CompositionalSR 1.4
 compositions 2.0-9
+compost 0.2.0
 compound.Cox 3.33
 CompoundEvents 1.0
 CompPareto 0.1.0
@@ -3653,6 +3659,7 @@ conTree 0.3-1
 ContRespPP 0.4.2
 contribution 0.2.2
 control 0.2.5
+controlcharts 0.0.19
 controlfunctionIV 0.1.1
 controller 0.1.0
 controlTest 1.1.0
@@ -3961,6 +3968,7 @@ crawl 2.3.1
 crawlee 0.1.0
 crayon 1.5.3
 crayons 0.0.4
+crbcc 0.1.0
 CRBHSF 0.1.0
 crc32c 0.0.3
 crch 1.2-2
@@ -4263,7 +4271,7 @@ d3po 1.1.0
 d3r 1.1.0
 d3Tree 0.3.0
 d4storagehub4R 0.4-5
-D4TAlink.light 2.1.22
+D4TAlink.light 2.1.23
 DA 1.2.0
 DAAG 1.25.7
 DAAGbio 0.63-4
@@ -5463,6 +5471,7 @@ DWBmodelUN 2.0.1
 dwctaxon 2.0.4
 DWDLargeR 0.2-0
 dwdradar 0.2.13
+dwg2geo 0.2.3
 dwlm 0.1.0
 DWLS 0.1.0
 dwmmlRidge 0.1.1
@@ -5591,6 +5600,7 @@ EAVA 1.0.0
 eba 1.10-1
 ebal 0.2.1
 EBASE 1.1.0
+EBASS 0.1.1
 ebaTools 0.1.0
 EbayesThresh 1.4-12
 EBCHS 0.1.1
@@ -6909,6 +6919,7 @@ finalfit 1.1.0
 finalsize 0.2.1
 FinAna 0.1.2
 FinanceGraphs 0.9.0
+FinancialInstrument 1.4.1
 FinancialMath 0.1.1
 finbif 0.10.0
 FinCal 0.6.3
@@ -6945,6 +6956,7 @@ fio 1.1.0
 fiodata 0.2.0
 fioRa 0.3.7
 fipio 1.1.2
+fipp 1.0.1
 FiRE 1.0.1
 firebase 1.0.2
 firebase.auth.rest 1.0.1
@@ -7431,6 +7443,7 @@ fTrading 3042.79
 ftrCOOL 2.0.0
 ftsa 6.7
 FTSgof 1.0.0
+ftsspec 1.0.1
 fucom 0.0.4
 fude 0.4.1
 fuel 1.2.0
@@ -8140,7 +8153,7 @@ gglogger 0.1.8
 gglorenz 0.0.2
 gglycan 0.0.3
 gglyph 0.2.0
-ggm 2.5.2
+ggm 2.5.4
 ggmap 4.0.2
 ggmapcn 0.3.0
 ggmapinset 0.5.0
@@ -8554,6 +8567,7 @@ gofIG 1.0
 gofigR 1.1.3
 GoFKernel 2.1-3
 gofmalm 0.1.0
+gofPHCS 0.1.0
 Gofpt2 0.1.0
 gofreg 1.0.0
 GOFShiny 0.1.0
@@ -9500,7 +9514,7 @@ hubEvals 0.4.0
 hubUtils 1.2.1
 hudr 1.2.0
 hues 0.2.0
-huge 2.0.0
+huge 2.0.1
 huggingfaceR 2.1.0
 huito 0.2.6
 HUM 2.0
@@ -9984,6 +9998,7 @@ InferenceSMR 1.0.2
 inferference 1.0.3
 inferMM 0.0.3
 inferr 0.3.2
+inferstat 0.1.1
 infiltrodiscR 0.0.5
 InfiniumPurify 1.3.1
 infix 0.1.0
@@ -10644,6 +10659,7 @@ kerndwd 2.0.3
 kernelboot 0.1.10
 kernelFactory 0.3.0
 Kernelheaping 2.3.0
+KernelICA 2.0.0
 KernelKnn 1.1.6
 kernelPhil 0.2
 kernelshap 0.9.1
@@ -10807,7 +10823,7 @@ kro.inv.test 0.1.2
 kronos 1.0.0
 KRONX 0.1.0
 kronxNBC 0.1.1
-ks 1.15.2
+ks 1.15.3
 KSA 0.1.0
 kSamples 1.2-12
 ksamplesLTRC 0.1.0
@@ -11579,6 +11595,7 @@ LSE 1.0.0
 LSEbootLS 0.1.0
 lsei 1.3-1
 lsirm12pl 2.0.3
+LSJM 0.1.0
 lsl 0.5.6
 lslx 0.6.11
 lsm 0.2.1.5
@@ -11741,6 +11758,7 @@ malan 1.0.4
 malani 1.0
 malariaAtlas 1.7.0
 malaytextr 0.1.3
+MALDIassist 1.0.2
 maldipickr 1.3.3
 MALDIquant 1.22.3
 MALDIquantForeign 0.14.1
@@ -11832,7 +11850,7 @@ maptpx 1.9-7
 maptree 1.4-9
 mapview 2.11.4
 mapycusmaximus 1.0.7
-maq 0.6.0
+maq 0.6.1
 mAr 1.2-0
 maraca 1.1.0
 marble 0.0.3
@@ -12117,7 +12135,7 @@ mcvis 1.0.8
 mcwr 1.0.0
 md 1.0.4
 md.log 0.2.0
-MD2sample 1.2.2
+MD2sample 1.3.0
 md4r 0.5.3.0
 mda 0.5-5
 mda.biber 1.0.1
@@ -13389,7 +13407,7 @@ multiDimBio 1.2.5
 MultiDiscreteRNG 0.1.0
 multiDoE 0.9.4
 multidplyr 0.1.4
-MultiEFM 0.1.3
+MultiEFM 0.1.4
 multifamm 0.1.1
 multiFANOVA 0.1.0
 multifear 0.1.5
@@ -13684,7 +13702,7 @@ nasapower 4.3.0
 nasaweather 0.1.1
 nascaR.data 3.1.0
 naspaclust 0.2.2
-nat 1.8.25
+nat 1.8.26
 nat.nblast 1.6.9
 nat.templatebrains 1.2.3
 nat.utils 0.6.1
@@ -14259,7 +14277,7 @@ NPStability 0.1.0
 npsurv 0.5-0
 npsurvSS 1.1.0
 nptest 1.2
-npwbs 0.4.0
+npwbs 0.5.0
 nQuack 1.0.4
 nrba 0.3.1
 nRegression 0.5.1
@@ -15908,7 +15926,7 @@ poLCA 1.6.0.2
 poLCAParallel 1.2.7
 poldis 0.1.2
 PolicyPortfolios 0.5
-policytree 1.2.4
+policytree 1.2.5
 polimetrics 1.2.1.14
 poliscidata 2.3.0
 polish 0.3.1
@@ -16519,7 +16537,7 @@ psycho 0.6.2
 PsychoMatic 0.3.0
 psychometric 2.4
 psychomix 1.1-10
-psychonetrics 0.16.9
+psychonetrics 0.17.8
 psychotools 0.7-7
 psychotree 0.16-3
 psychReport 4.0.1
@@ -17260,6 +17278,7 @@ rbc 0.1.1
 rbcb 0.1.14
 rbcc 0.1.5
 rbch 0.1-2
+rbcmodel 1.0.1
 rBDAT 1.1.0
 RBE3 1.1
 Rbearcat 0.2.2
@@ -17410,6 +17429,7 @@ rcompendium 1.4
 rconf 0.1.2
 rconfig 0.3.0
 RConics 1.1.2
+rcontroll 0.1.3
 rconvertu 1.1.0
 Rcope 1.0.0
 rCoreGage 1.1.0
@@ -18316,6 +18336,7 @@ RkMetrics 1.3
 rKolada 0.3.1
 rKOMICS 1.3
 RKorAPClient 1.2.1
+rKraken 1.0.0
 rkriging 1.0.2
 rkt 1.7
 RKUM 0.1.1.1
@@ -18490,7 +18511,7 @@ RNentropy 1.2.3
 rneos 0.4-1
 Rnest 1.3
 rnetcarto 0.2.6
-RNetCDF 2.11-1
+RNetCDF 2.11-2
 RNetLogo 1.0-4
 RNewsflow 1.2.8
 RNeXML 2.4.11
@@ -18933,7 +18954,7 @@ rscopus 0.9.0
 rscorecard 0.33.0
 RSD 0.2.0
 RSDA 3.2.5
-RSDC 1.1-2
+RSDC 1.7-0
 rsdepth 0.1-22
 rSDI 0.2.2
 RSDK 1.0.1
@@ -19115,6 +19136,7 @@ rtpcr 2.1.8
 Rtrack 2.0.4
 RTransferEntropy 0.2.21
 rtransparency 1.0.0
+rtreeoflife 0.1.0
 rtrees 2.0.2
 rtrek 0.5.2
 rtrend 0.1.5
@@ -20993,7 +21015,7 @@ spc4sts 0.6.5
 spca 1.1.1
 spcadjust 1.1
 SPCALDA 1.0
-spCF 0.1.2
+spCF 0.2.0
 SPCompute 1.0.3
 spconf 1.0.1
 spcosa 0.4-6
@@ -21155,6 +21177,7 @@ spongebob 0.4.0
 spongecake 0.1.2
 spooky 1.4.0
 spopt 0.1.2
+SporeLag 0.1.1
 spork 0.3.5
 sport 0.2.2
 SportMiner 0.1.0
@@ -21265,7 +21288,7 @@ ssc 2.1-0
 sscor 0.2.1
 SscSrs 0.1.0
 ssd4mosaic 1.0.4-3
-ssddata 1.0.0
+ssddata 2.0.0
 SSDforR 2.5
 SSDM 0.2.11
 sSDR 1.2.0
@@ -21319,7 +21342,7 @@ SSsimple 0.6.6
 sssvcqr 0.0.4
 Sstack 1.0.1
 sstn 1.0.1
-sstvars 1.2.4
+sstvars 1.2.5
 ssutil 1.0.0
 SSVS 2.2.0
 ssw 0.2.1
@@ -21629,10 +21652,10 @@ strex 2.1.0
 String2AdjMatrix 0.1.0
 stringArt 0.1.0
 stringdist 0.9.17
-stringfish 0.19.0
+stringfish 0.19.2
 stringformattr 0.1.2
 stringi 1.8.7
-stringmagic 1.2.0
+stringmagic 1.3.0
 stringr 1.6.0
 stringstatic 0.1.2
 stringx 0.2.9
@@ -21643,7 +21666,7 @@ stRoke 25.9.2
 strollur 0.1.3
 StroupGLMM 0.3.0
 strs 0.1.0
-strucchange 1.5-4
+strucchange 1.6-0
 strucchangeRcpp 1.5-4-1.0.1
 structenforcement 0.3.1
 structree 1.1.7
@@ -23223,6 +23246,7 @@ twig 1.0.0.0
 twilio 0.1.0
 twingp 1.0.0
 twinning 1.1
+twinsvm 0.0.4
 twitteradsR 0.1.0
 twitterwidget 0.1.1
 twl 1.0

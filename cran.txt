@@ -1326,6 +1326,7 @@ BayesPPR 0.1.0
 BayesProject 1.0
 bayesqm 0.1.0
 bayesQR 2.4
+BayesQRCount 0.1.0
 bayesQRsurvey 0.3.0
 bayesRecon 1.0.2
 bayesreg 1.3
@@ -3035,6 +3036,7 @@ cld 0.0.1
 cld2 1.2.6
 cld3 1.6.2
 clda 0.1
+CLDedgelister 1.0.2
 clean 2.0.0
 CleanBSequences 2.3.0
 cleancall 0.1.4
@@ -3797,7 +3799,7 @@ corrViz 0.1.0
 corset 0.1-5
 corTest 1.0.7
 corTESTsrd 1.0-0
-corteza 0.7.0
+corteza 0.7.1
 corto 1.2.4
 CortSineScore 0.1.0
 corx 1.0.7.3
@@ -5481,7 +5483,7 @@ DWBmodelUN 2.0.1
 dwctaxon 2.0.4
 DWDLargeR 0.2-0
 dwdradar 0.2.13
-dwg2geo 0.2.3
+dwg2geo 0.2.4
 dwlm 0.1.0
 DWLS 0.1.0
 dwmmlRidge 0.1.1
@@ -6064,6 +6066,7 @@ epe4md 0.1.4
 eph 1.0.2
 Epi 2.66
 epibasix 1.5
+epibyhand 0.1.0
 epicasting 0.1.0
 epichains 0.1.1
 epicmodel 0.2.1
@@ -6351,6 +6354,7 @@ evprof 1.2.0
 evsim 1.7.1
 evt0 1.1.5
 evtree 1.0-8
+EWAScaller 0.1.0
 ewens 0.1.0
 EWGoF 2.2.2
 EWOC.Comb 1.0
@@ -8810,6 +8814,7 @@ gRim 0.3.4
 grImport 0.9-7
 grImport2 0.3-3
 GRIN2 2.0.0
+grip 0.1.2
 grizbayr 1.3.5
 grmsem 1.1.0
 grmtree 0.2.0
@@ -10161,6 +10166,7 @@ intsvy 2.9
 inum 1.0-5
 invacost 1.1-7
 InvariantCausalPrediction 0.8
+invasible 0.1.1
 InvasionCorrection 0.1
 invctr 0.2.0
 inventorize 1.1.2
@@ -10186,7 +10192,7 @@ ionet 0.2.2
 iotables 0.9.4
 iotarelr 0.1.9
 iotools 0.4-0
-ip2location 8.1.3
+ip2location 8.1.4
 ip2location.io 0.0.0-2
 ip2locationio 1.1.1
 ip2proxy 1.2.2
@@ -11282,6 +11288,7 @@ lineup 0.46
 lineup2 0.8
 lineupjs 4.6.0
 linevis 1.0.0
+linf 0.1.0
 lingamr 0.1.2
 lingdist 1.0
 lingglosses 0.0.11
@@ -13115,6 +13122,7 @@ moose 0.0.1
 mop 0.1.4
 mopac 0.1.0
 MOQA 2.0.0
+moranajp 0.9.8
 morepls 0.2.1
 morestopwords 0.2.0
 mori 0.2.2
@@ -13798,6 +13806,7 @@ neatRanges 0.1.4
 nebula 1.5.8
 Necklaces 1.1
 necountries 0.1-1
+needenv 0.1.0
 needs 0.0.3
 NeEDS4BigData 1.0.1
 NegativeControlOutcomeAdjustment 0.0.6
@@ -13813,7 +13822,7 @@ nemBM 1.00.01
 nemoR 0.99.3
 nemsqar 1.2.1
 nemtr 0.0.1.0
-neo2R 3.0.0
+neo2R 3.1.1
 neo4jshell 0.1.2
 neo4r 0.1.4
 neodistr 0.1.2
@@ -14441,6 +14450,7 @@ odbr 0.1.1
 oddnet 0.1.2
 odds.converter 1.4.8
 odds.n.ends 0.1.4
+oddsapiio 0.1.1
 oddsapiR 0.0.3
 OddsPlotty 1.0.2
 oddsratio 2.0.2
@@ -16209,6 +16219,7 @@ precommit 0.4.3
 precrec 0.14.5
 precviasBR 0.1.1
 predfairness 0.1.0
+predHCS 0.1.0
 predhy 2.1.2
 predhy.GUI 2.1.1
 predict3d 0.1.6
@@ -16538,6 +16549,7 @@ PSPManalysis 0.3.9
 PSpower 2.0.0
 psqn 0.3.2
 psre 0.4
+psreplicate 0.1.0
 PSRICalc 1.0.0
 PSRICalcSM 1.0.0
 psrwe 3.2-1
@@ -17054,7 +17066,7 @@ RABR 0.1.1
 RAC 1.5.5
 racademyocean 0.3.3
 rAccess 0.1.1.3
-RaCE.NMA 1.1.0
+RaCE.NMA 1.2.0
 RaceID 0.4.2
 raceland 1.2.2
 racir 2.0.0
@@ -21072,6 +21084,7 @@ SpecHelpers 0.3.2
 SPECIES 1.2.0
 specieschrom 1.0.0
 SPECK 1.0.1
+specmine 3.1.8
 specmine.datasets 0.0.3
 specr 1.0.0
 specs 1.0.1
@@ -23040,6 +23053,7 @@ TrialEmulation 0.0.4.11
 trialr 0.1.6
 TrialSimulator 1.20.1
 TrialSize 1.4.1
+trialSizing 0.1.0
 triangle 1.1.0
 triangulation 0.5.0
 tricolore 1.2.6

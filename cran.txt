@@ -1726,7 +1726,6 @@ biocompute 1.1.1
 BioCro 3.3.1
 Biodem 0.5
 BiodiversityR 2.18-1
-biodosetools 3.7.2
 BIOdry 0.9.1
 BIOEFIC 0.1.1
 biofetchR 0.1.0
@@ -24054,7 +24053,7 @@ webdeveloper 1.0.5
 webdriver 1.0.6
 webexercises 1.1.0
 webfakes 1.5.0
-WebGestaltR 1.0.0
+WebGestaltR 1.0.1
 webglobe 1.0.3
 webmap 1.1.1
 webmockr 2.2.0

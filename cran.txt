@@ -12640,7 +12640,6 @@ minioclient 0.0.7
 miniPCH 0.4.1
 minipdf 0.2.7
 Minirand 0.1.3
-minired 1.0.1
 miniUI 0.1.2
 minMSE 0.5.1
 minorparties 1.0.0
@@ -24285,7 +24284,7 @@ wrictools 1.0.1
 WrightMap 1.4
 writeAlizer 1.7.3
 writer 0.1.0
-writexl 1.5.4
+writexl 2.0.0
 WriteXLS 6.8.0
 wrMisc 2.1.1
 wrProteo 2.1.0

@@ -1309,6 +1309,7 @@ BayesMultMeta 0.1.1
 bayesnec 2.1.3.1
 BayesNetBP 1.6.1
 BayesNSGP 0.2.0
+BayesPanelUR 0.1.0
 BayesPET 0.1.0
 BayesPieceHazSelect 1.1.0
 BayesPIM 1.0.1
@@ -1343,6 +1344,7 @@ BayesS5 1.41
 BayesSampling 1.1.0
 BayesSenMC 0.1.5
 BayesSIM 1.0.4
+BayesSplineUR 0.1.0
 bayesSSM 0.7.1
 BayesSUR 2.3-3
 bayesSurv 3.8
@@ -1417,6 +1419,7 @@ Bchron 4.7.8
 bclogit 1.1
 bcmaps 2.3.0
 bcmixed 0.1.6
+BCodifSIS 0.3.2
 bcp 4.0.4
 bcpa 1.3.2
 bcputility 0.4.6
@@ -4361,6 +4364,7 @@ data.tree 1.2.0
 data.validator 0.2.1
 data360r 1.0.9
 data4health 0.1.1
+DataAudit 0.1.0
 DatabaseConnector 7.2.0
 DatabaseConnectorJars 1.1.0
 DatabionicSwarm 2.0.0
@@ -7009,6 +7013,7 @@ fitbitScraper 0.1.8
 fitbitViz 1.0.8
 fitConic 1.2.1
 fitdistcp 0.2.3
+fitdistrBayes 0.2.0
 fitdistrplus 1.2-6
 FitDynMix 1.0.2
 fitHeavyTail 0.2.0
@@ -8416,6 +8421,7 @@ glasstabs 0.3.4
 glba 0.2.1
 GLBFP 0.5.2
 glca 1.4.2
+glcdp 1.0.0
 glcm 1.6.6
 GLCMTextures 0.6.3
 gld 2.6.8
@@ -10142,6 +10148,7 @@ InterVA4 1.7.6
 InterVA5 1.1.3
 interval 1.1-1.0
 intervalaverage 0.8.0
+IntervalCensoredMultistateR2 1.0.0
 intervalpsych 0.1.0
 IntervalQuestionStat 0.2.0
 intervals 0.15.5
@@ -11518,6 +11525,7 @@ logrx 0.4.0
 logrxaddin 0.0.1
 logspline 2.1.22
 logStirling2 0.2.0
+logtree 0.1.0
 lokern 1.1-12
 lolog 1.3.2
 lolR 2.1
@@ -12990,6 +12998,7 @@ MoBPS 1.13.1
 mobsim 0.3.2
 moc.gapbk 0.2.1
 MOCCA 1.4
+mochita 1.0.0
 mockery 0.4.5
 mockr 0.2.2
 mockthat 0.2.8
@@ -14337,6 +14346,7 @@ nsprcomp 0.5.1-2
 nsRFA 0.7-17
 nsROC 1.1
 NST 3.1.10
+NSTempRFA 0.2.0
 nswgeo 0.6.0
 nsyllable 1.0.1
 nTARP 0.1.0
@@ -14982,6 +14992,7 @@ painbow 1.0.1
 painter 0.1.0
 paintingr 0.1.0
 paintmap 1.0
+paintr 0.0.1
 PairedData 1.1.1
 pairscale 1.0
 pairsD3 0.1.3
@@ -16587,6 +16598,7 @@ psychTools 2.6.4
 PsychWordVec 2025.11
 PsyControl 1.0.0.0
 psymetadata 1.0.1
+PsyMetricTools 1.2.2
 psyntur 0.1.1
 psyphy 0.3
 PsyToolkit 1.1.6
@@ -16870,6 +16882,7 @@ qtlhot 1.2.10
 qtlnet 1.5.4
 QTLRel 1.15
 Qtools 1.6.0
+qtsa 0.1.1
 qtwAcademic 2022.12.13
 quadcleanR 1.1.0
 quadform 0.0-4
@@ -19464,6 +19477,7 @@ sapevom 0.2.0
 sapfluxnetr 0.1.5
 sapo 0.8.0
 SAPP 1.0.9-4
+sappviz 1.0.16
 saqgetr 0.2.24
 SAR 1.0.4
 sara4r 0.1.0
@@ -22166,6 +22180,7 @@ TANDEM 1.0.3
 TangledFeatures 0.1.1
 tangram 0.8.3
 tangram.pipe 1.1.2
+tanner 1.8.0
 tantivyr 0.1.0
 TapeR 0.5.3
 taperNOR 0.2.1
@@ -22288,6 +22303,7 @@ teems 0.1.1
 tehtuner 0.3.0
 teigen 2.2.2
 Tejapi 1.0.1
+tejoR 0.2.2
 telegram 0.7.1
 telegram.bot 3.0.2
 telegramR 0.0.1
@@ -22464,6 +22480,7 @@ tgram 0.2-4
 TGS 1.0.1
 TGST 1.0
 tgstat 2.3.32
+TH 1.0.0
 TH.data 1.1-5
 thames 0.1.2
 thamesblock 0.1.0
@@ -22714,6 +22731,7 @@ tinyoauth 0.1.1
 tinypkgr 0.2.2
 tinyplot 0.7.0
 tinyrox 0.4.1
+tinyroxygen 0.1
 tinyscholar 0.1.7
 tinyshinyserver 0.1.0
 tinysnapshot 0.2.0
@@ -23437,6 +23455,7 @@ unigd 0.2.0
 UniIS 0.1.0
 unikn 1.0.0
 uniLasso 2.11
+UniLindleyApprox 0.1.0
 UniprotR 2.5.1
 uniqtag 1.0.1
 uniReg 1.1
@@ -24118,6 +24137,7 @@ wevid 0.7.0
 wex 0.1.1
 weyl 0.0-8
 wf 0.0.1
+WFC 2.0.1
 wfe 1.9.1
 wfg 0.1
 wfindr 0.1.0

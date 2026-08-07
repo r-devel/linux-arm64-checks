@@ -21805,7 +21805,7 @@ sunburstShinyWidget 0.5.0
 suncalc 0.5.3
 SunCalcMeeus 0.1.3
 Sunclarco 1.0.0
-sundialr 0.1.7
+sundialr 0.2.0
 SUNGEO 1.4.0
 SunsVoc 0.1.2
 suntools 1.1.0

@@ -6197,6 +6197,7 @@ erboost 1.5
 ercv 1.0.1
 ERDbuilder 2.0.0
 erer 4.0
+erglm 0.1.1
 ergm 4.12.0
 ergm.count 4.1.3
 ergm.ego 1.1.4

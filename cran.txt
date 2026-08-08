@@ -18292,6 +18292,7 @@ rhino 1.12.0
 rhmc 1.0.0
 RHMS 1.7
 rhnerm 1.1
+Rhobots 0.1.10
 rhoneycomb 2.3.4
 rhoR 1.3.1
 rhosa 0.3.0
@@ -18342,6 +18343,7 @@ riemannianStats 0.2.0
 RiemBase 0.2.6
 riemtan 0.2.5
 Riex 1.0.2
+RIFanalysis 0.9.1
 rifreg 1.1.0
 RIFS 0.1.6
 rifttable 0.7.2
@@ -24344,6 +24346,7 @@ WordListsAnalytics 0.2.4
 wordmap 0.9.5
 wordnet 0.1-18
 WordOfMouth 1.2.0
+wordorientation 0.1.0
 wordpiece 2.1.3
 wordpiece.data 2.0.0
 WordPools 1.2.0
@@ -24521,6 +24524,7 @@ xrf 0.3.1
 xRing 0.1.2
 xrnet 1.0.1
 XRSCC 0.2
+xsdm 1.0.2
 xslt 1.5.1
 XSRecencyX 0.1.0
 xSub 3.0.2

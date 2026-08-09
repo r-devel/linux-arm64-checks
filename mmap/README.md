@@ -1,6 +1,6 @@
 # mmap 0.6-26
 
-Latest run: 2026-08-02: https://github.com/r-devel/linux-arm64-checks/actions/runs/30728632714
+Latest run: 2026-08-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/31288178390
 
 ```
 Package: mmap

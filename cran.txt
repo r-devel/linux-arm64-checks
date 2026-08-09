@@ -2191,6 +2191,7 @@ bs4Dashkit 0.3.0
 BSagri 0.1-10
 bsamGP 1.2.7
 BSCB 1.0.2
+bscm 1.0.1
 bscui 0.1.6
 BSDA 1.2.2
 bsearchtools 0.0.61
@@ -5364,6 +5365,7 @@ drogonR 0.1.8
 droll 0.1.0
 DRomics 2.6.3
 drone 1.0.0
+DropCens 0.1.0
 dropout 2.2.0
 dropR 1.0.6
 droptest 0.1.3
@@ -6479,6 +6481,7 @@ explore 1.4.0
 exploreR 0.1
 ExploreTheData 0.1.0
 expm 1.0-0
+expoquimR 0.1.0
 export 0.3.3
 ExPosition 2.11.0
 ExposR 1.2
@@ -7000,6 +7003,7 @@ finiteruinprob 0.6
 finity 0.1.5
 finlabR 1.0.0
 finlex 0.2.0
+FINN 0.1.0
 finna 0.1.3
 FinNet 0.2.1
 finnishgrid 0.2.0
@@ -7362,6 +7366,7 @@ fpow 0.0-3
 fpp2 2.5.1
 fpp3 1.0.3
 fpROC 0.1.0
+FPScausal 0.1.0
 fpsim 0.2.0
 fptdApprox 2.5
 fqacalc 1.1.1
@@ -7566,6 +7571,7 @@ fusen 0.7.2
 fuser 1.0.1
 fusionchartsR 1.2.0
 fusionclust 1.0.0
+FusionForests 1.0.1
 FusionLearn 0.2.1
 fussclust 0.1.0
 futile.logger 1.4.9
@@ -8190,6 +8196,7 @@ gghighlight 0.5.0
 gghinton 0.1.0
 gghist 0.1.0
 ggHoriPlot 1.0.1
+gghotelling 0.2.1
 gghourglass 0.0.3
 ggimage 0.3.5
 ggimg 0.1.2
@@ -8691,6 +8698,7 @@ goweragreement 1.0-1
 GowerSom 0.1.0
 goxygen 1.4.5
 gp 1.1
+gp3bayes 0.1.1
 gp3ml 0.1.0
 gp3sequences 0.1.0
 gp3tools 2.0.1
@@ -12375,6 +12383,7 @@ metaBLUE 1.0.0
 metaBMA 0.6.9
 metaboData 0.6.4
 metabodecon 1.6.2
+metabodeconplus 0.22.0
 MetabolAnalyze 1.3.1
 metabolic 0.1.2
 MetabolicSurv 1.1.2
@@ -13956,6 +13965,7 @@ NetSci 1.0.1
 netseer 0.1.3
 netseg 1.0-3
 netSEM 0.7.0
+netsimhelpers 0.1.0
 NetSimR 0.1.6
 netstat 0.1.2
 netsubsamp 1.0.0
@@ -15932,6 +15942,7 @@ plsRbeta 0.3.3
 plsRcox 1.8.2
 plsRglm 1.7.1
 plssem 0.1.3
+PLSsemEngine 1.3.0
 plsVarSel 0.10.0
 plu 0.3.0
 PLUCR 0.1.0
@@ -17055,6 +17066,7 @@ qVarSel 1.2
 qvcalc 1.0.4
 qviewparsR 1.0.0
 qvirus 0.0.6
+qvivid 0.1.2
 qwalkr 0.1.0
 qwraps2 0.6.3
 QZ 0.2-4
@@ -19702,6 +19714,7 @@ scientific 2025.1
 scientoText 0.1
 scifigure 0.2
 scilintr 0.1.1
+scimesh 0.3.0
 scimetr 1.2.0
 scimo 0.0.3
 scindex 0.1.0
@@ -20727,6 +20740,7 @@ smallsets 2.0.0
 smallstuff 1.0.6
 smam 0.7.3
 SMARTbayesR 2.0.0
+smartcor 1.0.1
 smartDesign 0.74
 SmartEDA 0.3.10
 smarter 1.0.1

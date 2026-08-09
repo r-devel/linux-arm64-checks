@@ -1,6 +1,6 @@
 # ECOSolveR 0.6.1
 
-Latest run: 2026-08-02: https://github.com/r-devel/linux-arm64-checks/actions/runs/30727870960
+Latest run: 2026-08-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/31287367365
 
 ```
 Package: ECOSolveR

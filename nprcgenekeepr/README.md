@@ -1,6 +1,6 @@
 # nprcgenekeepr 2.0.0
 
-Latest run: 2026-08-02: https://github.com/r-devel/linux-arm64-checks/actions/runs/30728661554
+Latest run: 2026-08-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/31288211853
 
 ```
 Package: nprcgenekeepr

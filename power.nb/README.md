@@ -1,6 +1,6 @@
 # power.nb 0.1.0
 
-Latest run: 2026-08-02: https://github.com/r-devel/linux-arm64-checks/actions/runs/30728692884
+Latest run: 2026-08-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/31288246523
 
 ```
 Package: power.nb

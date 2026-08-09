@@ -6411,6 +6411,7 @@ ExactCIdiff 2.1
 ExactCIone 1.0.5
 ExactCox 0.1.0
 exactextractr 0.10.1
+exactGMH 0.1.0
 exactLTRE 0.1.2
 ExactMed 0.3.0
 ExactMultinom 0.1.3
@@ -8476,6 +8477,7 @@ GLDreg 1.1.2
 gldrm 1.6
 gleam 0.8.0
 gleifr 0.2.0
+GLHD 1.1-1
 glinternet 1.0.13
 glioblastomaEHRsData 1.1.0
 gllm 0.38
@@ -8639,6 +8641,7 @@ gofgamma 1.0
 gofIG 1.0
 gofigR 1.1.3
 GoFKernel 2.1-3
+gofLorenz 0.1.0
 gofmalm 0.1.0
 gofPHCS 0.1.0
 Gofpt2 0.1.0
@@ -10162,6 +10165,7 @@ intamapInteractive 1.2-7
 IntCal 0.3.1
 intccr 3.0.4
 integIRTy 1.0.8
+IntegMultiReg 0.1.0
 integr 1.0.0
 IntegratedJM 1.6
 integrity 1.0.1
@@ -12642,6 +12646,7 @@ MicSim 3.0.0
 MICsplines 1.0
 micsr 0.1-5
 micss 0.3.1
+MiCT 2.0.0
 micvar 0.1.0
 midas 1.0.1
 midas2 1.1.0
@@ -13132,6 +13137,7 @@ modQR 0.1.3
 modsem 1.0.21
 ModStatR 1.4.2
 ModTools 0.9.13
+ModToppLeone 0.1.0
 modTurPoint 0.1.0
 moduleColor 1.8-4
 modules 0.13.0
@@ -14017,6 +14023,7 @@ neuroSCC 1.0.2
 neuRosim 0.2-14
 neuroUp 0.3.1
 neutralitytestr 0.0.3
+NeutroBasicDesignsAnalysis 0.0.1
 NeutroCODsAnalysis 0.1.0
 NeutroCrdRcbdAnalysis 0.0.1
 NeutroIBDAnalysis 0.1.1
@@ -15100,6 +15107,7 @@ paleopop 2.1.7
 paleotree 3.4.7
 paleoTS 0.6.2
 palette 0.0.3
+palettecore 0.4.1
 paletteer 1.7.0
 paletteknife 0.4.2
 palettephines 0.1.3
@@ -15661,6 +15669,7 @@ phonfieldwork 0.0.17
 phonics 1.3.10
 phonR 1.0-7
 phonTools 0.2-2.2
+phontrast 2.3.1
 phosphoricons 0.2.1
 photobiology 0.14.2
 photobiologyFilters 0.6.1
@@ -15759,6 +15768,7 @@ pingers 0.1.1
 pingr 2.0.5
 PINMA 1.1-2
 pinnacle.data 0.1.4
+PINNProgCens 0.1.0
 pinochet 0.1.0
 pinp 0.0.11
 pins 1.4.2
@@ -16491,6 +16501,7 @@ profvis 0.4.0
 progress 1.2.3
 progressify 0.2.0
 progressr 1.0.0
+ProgVine 0.1.0
 PROJ 0.7.0
 proj4 1.0-15
 ProjectionBasedClustering 1.2.2
@@ -17323,6 +17334,7 @@ rapportools 1.2
 rappsflyer 0.3.2
 rapr 1.1.3
 rapsimng 0.5.0
+rapsimng.decide.core 0.1.0
 raptools 1.23.0
 RAPTOR 1.0.1
 raptr 1.0.1
@@ -17371,6 +17383,7 @@ ratesci 1.1.0
 RATest 0.1.10
 RAthena 2.6.3
 RatingScaleReduction 1.4
+ratingtables 0.2.0
 RationalExp 0.2.2
 rationalfun 0.1-1
 ratios 1.2.0
@@ -19714,7 +19727,6 @@ scientific 2025.1
 scientoText 0.1
 scifigure 0.2
 scilintr 0.1.1
-scimesh 0.3.0
 scimetr 1.2.0
 scimo 0.0.3
 scindex 0.1.0

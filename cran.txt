@@ -18813,7 +18813,7 @@ ROCsurvcomp 0.1.2
 rocsvm.path 0.1.0
 rocTools 0.1.3
 rocvb 0.1.0
-RODBC 1.3-26.1
+RODBC 1.3-26.2
 RODBCDBI 0.1.1
 rodd 0.2-1
 rODE 0.99.6

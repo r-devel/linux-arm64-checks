@@ -11078,7 +11078,7 @@ latexSymb 1.0.0
 latrend 1.6.3
 LatSquare 0.4.1
 latte 0.2.2
-lattice 0.22-9
+lattice 0.23-1
 latticeDensity 1.2.7
 LatticeDesign 4.0-1
 latticeExtra 0.6-31

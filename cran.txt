@@ -10760,7 +10760,7 @@ kernlab 0.9-33
 kernopt 1.0.0
 kernreg 1.0
 kernscr 1.0.7
-KernSmooth 2.23-26
+KernSmooth 2.23-27
 KernSmoothIRT 6.6
 kernstadapt 0.4.0
 kerntools 1.2.1

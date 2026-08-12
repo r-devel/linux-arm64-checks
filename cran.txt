@@ -6706,7 +6706,7 @@ fastglmpca 0.1-108
 FastGP 1.3
 fastGraph 2.1
 FastHamming 1.2
-fastICA 1.2-7
+fastICA 1.2-8
 FastImputation 2.2.1
 FastJM 1.7.0
 fastJT 1.0.8

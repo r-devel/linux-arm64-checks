@@ -1,6 +1,6 @@
 # Nestimate 0.8.0
 
-Latest run: 2026-08-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/31287485112
+Latest run: 2026-08-16: https://github.com/r-devel/linux-arm64-checks/actions/runs/31918078141
 
 ```
 Package: Nestimate

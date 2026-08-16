@@ -1,6 +1,6 @@
 # koma 0.3.1
 
-Latest run: 2026-08-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/31288042182
+Latest run: 2026-08-16: https://github.com/r-devel/linux-arm64-checks/actions/runs/31918727067
 
 ```
 Package: koma

@@ -1732,7 +1732,7 @@ BiObjClass 0.1.0
 biobricks 0.2.2
 bioC.logs 1.2.1
 biocharkit 0.3.0
-biocharkitgui 0.3.0
+biocharkitgui 0.3.1
 bioclim 0.4.0
 BiocManager 1.30.27
 biocompute 1.1.1
@@ -3090,7 +3090,7 @@ clim4health 0.1.0
 climaemet 1.6.0
 ClimaRep 1.1
 climate 1.4.0
-climateBR 0.1.0
+climateBR 0.2.0
 climatehealth 1.0.3
 climatekit 0.2.0
 climateStability 0.1.4
@@ -4325,7 +4325,7 @@ dae 3.2.35
 daewr 1.2-11
 daff 1.1.1
 dafs 1.0-38
-DAGassist 0.2.8
+DAGassist 0.3.0
 dagHMM 0.1.1
 dagirlite 0.1.0
 dagitty 0.3-4
@@ -6201,7 +6201,7 @@ equatags 0.2.2
 equate 2.0.9
 equateIRT 2.5.2
 equateMultiple 1.1.3
-equatiomatic 0.4.8
+equatiomatic 0.4.9
 equiBSPD 0.1.0
 equil2 1.1.0
 EquiSurv 0.1.0
@@ -6726,7 +6726,7 @@ fastmatch 1.1-8
 fastMatMR 1.2.8
 fastmatrix 0.6-6
 fastmit 0.1.1
-fastml 0.7.8
+fastml 0.7.9
 fastNaiveBayes 2.2.1
 fastnet 1.0.0
 fastOnlineCpt 1.0
@@ -13526,7 +13526,7 @@ MultiFrailty 0.1.0
 multifunc 0.9.4
 multifwf 0.2.2
 MultiGlarmaVarSel 1.0
-multigraph 0.99-3
+multigraph 1.0
 multigraphr 0.2.0
 MultiGrey 0.1.0
 multigroup.vaccine 0.1.1
@@ -22325,7 +22325,7 @@ taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
 taxnames 0.1.0
-taxodist 0.5.0
+taxodist 0.6.0
 taxonomizr 0.11.1
 taylor 4.0.0
 TaylorRussell 1.2.1

@@ -1379,7 +1379,7 @@ BayLum 0.3.3
 bayMDS 2.1
 baymedr 0.2
 bayou 2.3.2
-bayprior 0.3.0
+bayprior 0.3.2
 baystability 0.2.0
 BAYSTAR 0.2-10
 baytaAAR 1.0.3
@@ -3210,6 +3210,7 @@ clusterv 1.1.1
 ClusterVAR 0.0.8
 clusterWebApp 0.1.3
 ClustGeo 2.1
+clustGLMM 1.0.1
 ClustImpute 0.2.4
 clustlearn 1.0.0
 ClustMC 0.1.2
@@ -7348,7 +7349,7 @@ FourWayHMM 1.0.0
 fozziejoin 0.0.13
 fpa 1.0
 fPASS 1.0.0
-fpc 2.2-14
+fpc 2.2-15
 FPCA3D 1.0
 FPCdpca 0.4.0
 fpCompare 0.2.6
@@ -8041,7 +8042,7 @@ gerefer 0.1.4
 GerminaR 2.1.6
 germinationmetrics 0.1.10
 GeRnika 1.2.0
-gert 2.4.0
+gert 2.4.1
 gesca 1.0.5
 GESE 2.0.1
 gesisdata 0.1.2
@@ -12034,7 +12035,7 @@ matchFeat 1.0
 MatchGATE 0.0.10
 Matching 4.10-15
 matchingMarkets 1.0-5
-MatchingPursuit 1.1.0
+MatchingPursuit 1.2.0
 matchingR 2.0.0
 MatchIt 4.7.2
 MatchLinReg 0.8.1
@@ -18345,7 +18346,7 @@ ribiosMath 1.2.0
 ribiosPlot 1.3.0
 ribiosUtils 1.7.7
 ricci 0.1.1
-rice 2.2.1
+rice 2.3.0
 ricegeneann 1.0.2
 riceidconverter 1.1.1
 riceware 0.4
@@ -22469,7 +22470,7 @@ terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.0
 TesiproV 0.9.6
-tesouror 0.2.3
+tesouror 0.3.0
 tesselle 1.7.0
 tesseract 5.2.5
 test.assessr 2.1.3

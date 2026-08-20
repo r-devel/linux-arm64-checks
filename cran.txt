@@ -23054,7 +23054,7 @@ trackeR 1.6.1
 trackeRapp 1.2
 trackopt 0.1.1
 TrackReconstruction 1.3
-TrackTrap 1.0.0
+TrackTrap 1.0.1
 tractor.base 3.5.0
 trade 0.8.3
 tradeoffaucdim 0.2.0
@@ -23782,7 +23782,7 @@ VARtests 2.0.7
 varycoef 0.3.6
 vasicek 0.0.3
 vasicekfit 0.2.0
-vasicekreg 1.0.2
+vasicekreg 1.1.0
 vaster 0.6.0
 vatcheckapi 0.1.0
 vaultr 1.2.0

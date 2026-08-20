@@ -3406,7 +3406,7 @@ collatz 1.0.0
 collections 0.3.12
 collegeScorecard 0.2.0
 collett 0.1.2
-colleyRstats 0.1.4
+colleyRstats 0.1.5
 collidr 0.1.3
 collin 0.0.4
 collinear 3.0.2
@@ -5795,7 +5795,7 @@ editbl 1.3.2
 editData 0.1.8
 eDITH 1.1.0
 editrules 2.9.6
-EDIutils 3.0.0
+EDIutils 3.0.1
 edl 1.1
 edlibR 1.0.3
 eDMA 1.5-4
@@ -10594,7 +10594,7 @@ joinspy 0.8.3
 joint.Cox 3.16
 JointAI 1.1.0
 jointCalib 0.1.0
-jointCompRisk 0.1.1
+jointCompRisk 0.1.2
 jointDiag 0.4
 jointest 1.0
 JointFPM 1.3.0
@@ -14711,7 +14711,7 @@ openairmaps 0.10.1
 openaiRtools 0.2.2
 openalexR 3.1.0
 openappr 0.2.0
-openaq 1.0.0
+openaq 1.1.0
 openbankeR 0.1.1
 OpenBARD 0.0.1
 openblender 0.5.81
@@ -19992,7 +19992,7 @@ SEMID 0.5.1
 semidist 0.1.0
 SemiMarkov 1.4.6
 seminr 2.5.0
-seminrExtras 1.0.2
+seminrExtras 1.0.3
 SemiPar.depCens 0.1.3
 SemiParamBernsteinDepCS 0.1.0
 SemiparMF 1.0.0
@@ -23715,6 +23715,7 @@ VALERIE 1.1.0
 valet 0.9.1
 valh 0.2.0
 valhallr 0.1.0
+validann 1.3
 validata 0.1.1
 validate 1.1.7
 validateIt 1.2.1

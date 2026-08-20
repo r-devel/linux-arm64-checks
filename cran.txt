@@ -2305,6 +2305,7 @@ BVARverse 0.0.1
 bvhar 2.4.1
 bvls 1.4
 bvpa 1.0.0
+bvpSolve 1.4.4.2
 bwd 0.1.0
 bWGR 2.2.18
 BWGS 0.2.1
@@ -4871,6 +4872,7 @@ DGLMExtPois 0.2.4
 dgof 1.5.1
 DGP4LCF 1.0.0.1
 dgpsi 2.6.0
+dgraphs 0.1.0
 DHARMa 0.5.0
 DHBins 1.1
 dhga 0.1
@@ -10478,6 +10480,7 @@ ivdesc 1.1.2
 ivDiag 1.0.6
 IVDML 1.0.1
 ivdoctr 1.0.1
+ivdtools 0.1.2
 ivgets 0.1.2
 ivgls 0.1.0
 ivmodel 1.9.1
@@ -19663,6 +19666,7 @@ ScaleSpikeSlab 1.0
 scam 1.2-22
 scan 0.68.1
 scanCP 0.1.0
+scanr 0.1.0
 scanstatistics 1.1.2
 scape 2.3.5
 scaper 0.2.0
@@ -23555,6 +23559,7 @@ uncertainUCDP 0.7.6
 uncmbb 0.2.2
 uncorbets 0.1.2
 UNCOVER 1.1.0
+underdisp 0.1.0
 undidR 3.0.2
 unexcel 0.2.0
 unfold 1.0.1

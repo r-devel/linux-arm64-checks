@@ -500,7 +500,7 @@ amazons3R 0.1.0
 amazonspR 0.1.0
 ambient 1.0.3
 ambiorix 3.0.0
-ambiR 0.1.1
+ambiR 0.2.0
 ambit 0.2.3
 AMCP 2.0.0
 AMCTestmakeR 1.0.0
@@ -1343,7 +1343,7 @@ BayesRep 0.42.2
 BayesRepDesign 0.42
 bayesROE 0.2
 BayesRS 0.1.3
-BayesRTMB 0.2.4
+BayesRTMB 0.3.0
 bayesrules 0.0.3
 BayesS5 1.41
 BayesSampling 1.1.0
@@ -7382,7 +7382,7 @@ fracdist 0.1.1
 FracFixR 1.1.0
 FracKrigingR 1.0.0
 fracprolif 1.0.7
-fracreg 1.0.1
+fracreg 1.1.0
 fractaldim 0.8-5
 fractalforest 1.0.1
 FractalParameterEstimation 1.1.2
@@ -14441,7 +14441,7 @@ nucim 1.0.13
 NUCOMBog 1.0.4.2
 nudibranch 0.0.1.1
 NUETON 0.2.0
-nuggets 2.2.2
+nuggets 2.2.3
 nullabor 0.3.15
 nullcat 0.2.0
 numbat 1.5.2
@@ -14764,7 +14764,7 @@ OpenStreetMap 0.4.1
 opentripplanner 0.5.2
 openVA 1.2.0
 openxlsx 4.2.8.1
-openxlsx2 1.28
+openxlsx2 1.29
 operator.tools 1.6.3.1
 operators 0.2.0
 opGMMassessment 0.4.1
@@ -17816,7 +17816,7 @@ REAT 3.0.3
 REBayes 2.60
 rebib 0.5.0
 rebird 1.3.0
-rebmix 2.17.1
+rebmix 2.17.2
 rebus 0.1-3
 rebus.base 0.0-3
 rebus.datetimes 0.0-2.1
@@ -18742,7 +18742,7 @@ RoBTT 1.3.1
 robumeta 2.1
 robust 0.7-5
 robust.prioritizr 1.1.0
-robust2sls 0.2.3
+robust2sls 0.2.4
 RobustAdaptiveDecomposition 0.1.0
 RobustAFT 1.4-10
 RobustANOVA 0.3.0
@@ -22749,7 +22749,7 @@ tidyrstats 0.1.0
 tidyrules 0.2.7
 tidysdm 1.0.4
 tidyselect 1.2.1
-tidySEM 0.2.10
+tidySEM 0.2.11
 tidyseurat 0.8.10
 tidysmd 0.2.1
 tidyspec 0.1.0
@@ -22876,7 +22876,7 @@ titeIR 0.1.0
 titrationCurves 0.1.0
 Tivy 0.1.1
 TKApprox 0.1.0
-TKCat 1.2.2
+TKCat 1.2.3
 tkImgR 0.0.5
 tkrplot 0.0-32
 tkRplotR 0.1.7
@@ -24479,15 +24479,15 @@ xdcclarge 0.1.0
 XDNUTS 1.6.5
 xdvir 0.2-0
 xefun 0.1.5
-xega 0.9.0.23
+xega 0.9.1.0
 xegaBNF 1.0.0.5
 xegaDerivationTrees 1.0.0.6
 xegaDfGene 1.0.0.9
-xegaGaGene 1.0.0.6
+xegaGaGene 1.0.0.7
 xegaGeGene 1.0.0.3
 xegaGpGene 1.0.0.3
 xegaMigration 0.5.0.4
-xegaPermGene 1.0.0.1
+xegaPermGene 1.0.0.2
 xegaPopulation 1.0.0.16
 xegaSelectGene 1.0.0.4
 xergm.common 1.7.8

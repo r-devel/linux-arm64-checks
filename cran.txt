@@ -426,6 +426,7 @@ ALDEx3 1.2.0
 ALDqr 1.0
 aldvmm 0.9.0
 ale 0.5.3
+alepe 0.1.0
 ALFAM2 4.2.14
 alfr 1.2.1
 alfred 0.2.1
@@ -1224,7 +1225,7 @@ bayes4psy 1.2.13
 bayesammi 0.3.0
 bayesanova 1.6
 BayesAT 0.1.0
-BayesBinMix 1.4.1
+BayesBinMix 1.4.2
 bayesboot 0.2.3
 BayesBP 1.1
 BayesBrainMap 0.2.0
@@ -2172,7 +2173,7 @@ brokenstick 2.7.0
 brolgar 1.0.2
 broman 0.98
 broom 1.0.13
-broom.helpers 1.22.0
+broom.helpers 1.23.0
 broom.mixed 0.2.9.7
 brotli 1.3.2
 BRPL 1.0.2
@@ -2576,6 +2577,7 @@ causens 0.0.3
 caustests 1.1.1
 CautiousLearning 1.0.1
 CAvariants 6.0
+caverify 0.1.2
 caviarpd 0.3.22
 cayleyR 0.2.6
 CB2 1.3.8
@@ -2843,7 +2845,7 @@ checkmate 2.3.4
 checkstring 0.2.0
 checkthat 0.1.0
 checktor 0.1.0
-cheddar 0.1-639
+cheddar 0.1-640
 cheem 0.4.2
 cheese 0.1.3
 cheetahR 0.4.0
@@ -6780,7 +6782,7 @@ FAVAR 0.1.3
 favawesome 0.1.1
 faviconPlease 0.2.0
 favnums 1.0.0
-favr 1.0.0
+favr 2.0.0
 FAwR 1.2.0
 fb4package 2.1.0
 fbardl 1.0.2
@@ -7183,7 +7185,7 @@ flps 1.1.0
 FLR 1.0
 flsa 1.5.5
 FLSSS 9.2.8
-fluffy 1.0.0
+fluffy 1.0.1
 Fluidigm 0.2
 fluidsynth 1.0.3
 fluorojip 0.1.1
@@ -8283,7 +8285,7 @@ ggpubr 1.0.0
 ggpval 0.2.5
 ggQQunif 0.1.5
 ggquickeda 0.3.3
-ggquiver 0.4.0
+ggquiver 0.5.0
 ggragged 0.2.0
 ggrain 0.1.2
 ggRandomForests 3.5.0
@@ -8902,6 +8904,7 @@ GroupSeq 1.4.3
 GroupTest 1.0.1
 groupwalk 0.1.2
 groupWQS 0.0.3
+grout 0.1.0
 grove 1.1.1
 growR 1.3.0
 growth 1.1.2
@@ -9022,7 +9025,7 @@ guescini 0.1.0
 guess 0.7.0
 GUEST 0.2.0
 guidedPLS 1.2.1
-guideR 0.11.0
+guideR 0.12.0
 guildai 0.0.1
 GUILDS 1.4.7
 guiplot 0.5.0
@@ -9642,6 +9645,7 @@ hydroDCindex 1.0.0
 hydrodownloadR 0.1.3
 hydroeval 0.1.0
 hydroEvents 0.13.0
+hydrogeofetch 2.0.0
 hydroGOF 0.7-0
 hydroloom 1.2.1
 HydroMe 2.1.2
@@ -10900,6 +10904,7 @@ KPC 0.1.4
 kpcaIG 1.0.1
 kpeaks 1.1.0
 kpiwidget 0.1.1
+kpp2019 0.0.1
 KQM 1.1.1
 KrakenR 1.0.0
 KraljicMatrix 0.2.1
@@ -10976,7 +10981,7 @@ labdsv 2.3-1
 label.switching 1.8
 labeleR 0.4.0
 labeling 0.4.3
-labelled 2.16.0
+labelled 2.16.1
 labelmachine 1.0.0
 labelr 0.1.9
 labelVector 0.1.2
@@ -11349,6 +11354,7 @@ LindenmayeR 0.1.13
 lindia 0.10
 LindleyPowerSeries 1.0.1
 lineagefreq 0.2.0
+lineager 0.1.1
 linearModel 1.0.2
 LinearRegressionMDE 1.0
 lineartestr 1.0.0
@@ -12259,6 +12265,7 @@ mdgc 0.1.7
 MDgof 1.1.0
 MDimNormn 0.8.0
 mdir.logrank 0.0.4
+mditools 0.1.0
 MDMA 2.0.0
 mdmb 1.9-22
 MDMR 0.5.2
@@ -12921,6 +12928,7 @@ mLLMCelltype 2.0.7
 mllrnrs 0.0.9
 mlma 6.3-1
 mlmc 2.1.1
+MLMES 0.1.2
 MLmetrics 1.1.3
 mlmhelpr 0.1.1
 mlmi 1.1.3
@@ -14465,6 +14473,7 @@ NVCSSL 3.0
 nvctr 0.1.7
 nVennR2 2.0.4
 nvmix 0.1-2
+nwaa 0.1.4
 nwsrfsr 1.0.3
 nycflights13 1.0.2
 nycflights23 0.2.0
@@ -14570,6 +14579,7 @@ oenb 0.0.2
 OenoKPM 2.4.1
 oews2020 1.0.0
 oews2021 1.0.0
+ofemeantest 1.0.0
 officedown 0.4.1
 officer 0.7.6
 offlineChange 0.0.4
@@ -18774,6 +18784,7 @@ RobustPrediction 0.1.7
 robustrank 2024.1-28
 RobustRankAggreg 1.2.1
 robustrao 1.0-5
+robustrcp 0.1.0
 robustreg 0.1-11
 robustSFA 0.2.0
 robustsur 0.0-8
@@ -19258,6 +19269,7 @@ RTextTools 1.4.3
 rtf 0.4-15
 RTFA 0.1.0
 rtForecastEval 0.1.0
+RtForecastR 0.1.0
 rTG 1.0.4
 rtgstat 0.3.6
 Rthingsboard 0.2.7
@@ -19745,6 +19757,7 @@ SciViews 0.9-13.2
 sClust 1.0
 scMappR 1.0.12
 scMetaTraj 0.1.1
+scmix 0.1.1
 scModels 1.0.5
 scmSpillover 0.1.2
 scOntoMatch 0.1.1
@@ -22600,6 +22613,7 @@ theft 0.8.4
 theftdlc 0.2.1
 theiaR 0.4.0
 thematic 0.1.8
+themescopeR 0.1.1
 themis 1.1.0
 TheOpenAIR 0.1.0
 TheOrdinals 0.1.0
@@ -23842,7 +23856,7 @@ vectorsurvR 1.6.3
 vectorwavelet 0.1.0
 vectra 0.11.8
 VectrixDB 1.1.2
-vecvec 1.2.0
+vecvec 1.3.0
 VedicDateTime 0.1.9
 veesa 0.1.7
 vegalite 0.6.1
@@ -24187,6 +24201,7 @@ weakARMA 1.0.3
 weatherindices 0.1.0
 weatherjoin 0.2.3
 weathermetrics 1.2.2
+weatherMRJD 0.1.1
 weatherOz 3.0.0
 WeatherSentiment 1.0
 weatherStats 0.1
@@ -24482,7 +24497,7 @@ xefun 0.1.5
 xega 0.9.1.0
 xegaBNF 1.0.0.5
 xegaDerivationTrees 1.0.0.6
-xegaDfGene 1.0.0.9
+xegaDfGene 1.0.0.10
 xegaGaGene 1.0.0.7
 xegaGeGene 1.0.0.3
 xegaGpGene 1.0.0.3

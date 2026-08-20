@@ -1331,7 +1331,7 @@ BayesPPD 1.1.3
 BayesPPDSurv 1.0.3
 BayesPPR 0.1.0
 BayesProject 1.0
-bayesqm 0.1.0
+bayesqm 0.2.0
 bayesQR 2.4
 BayesQRCount 0.1.0
 bayesQRsurvey 0.3.0
@@ -1399,7 +1399,7 @@ bbnet 1.2.1
 BBNI 0.2.2
 bbotk 1.12.0
 bbreg 2.0.2
-bbssr 1.0.2
+bbssr 2.0.0
 bbw 0.3.1
 bc3net 1.0.5
 BCA1SG 0.1.0
@@ -1789,7 +1789,7 @@ BioThermR 0.1.1
 biotic 0.1.2
 BioTIMEr 0.3.2
 biotools 4.3
-BioTooltipR 0.1.0
+BioTooltipR 0.1.1
 BioTrajectory 1.1.0
 BioUtils 0.1.3
 BioVenn 1.1.3
@@ -1882,7 +1882,7 @@ BLMEngineInR 0.1.7
 BLModel 1.0.2
 blob 1.3.0
 BlockCov 0.1.1
-blockCV 3.2-0
+blockCV 4.0-0
 blockedFF 0.1.0
 blockForest 0.2.7
 blocking 1.0.3
@@ -2214,7 +2214,7 @@ BSPBSS 1.0.6
 bspcov 1.0.3
 bspec 1.6
 bspline 2.5.1
-BsplineQuantReg 0.2.2
+BsplineQuantReg 0.2.5
 bsplus 0.1.5
 bspm 0.5.8
 bsreg 0.0.2
@@ -4439,7 +4439,7 @@ dataRetrieval 2.7.25
 datarium 0.2.0
 datarobot 2.18.8
 datasauRus 0.1.9
-dataSDA 0.2.6
+dataSDA 0.2.7
 dataseries 1.0.0
 dataset 0.4.5
 datasetjson 0.3.0
@@ -5279,7 +5279,7 @@ downloader 0.4.1
 downloadthis 0.5.0
 downscale 5.1.4
 downsize 0.2.3
-dowser 2.4.1
+dowser 2.5.1
 DOYPAColors 0.0.2
 dparser 1.3.1-13
 dpasurv 0.1.0
@@ -6418,7 +6418,7 @@ ExactMultinom 0.1.3
 exactRankTests 0.8-37
 ExactTree 0.1.1
 ExactVaRTest 0.1.3
-exametrika 1.15.0
+exametrika 2.0.0
 examly 0.3
 ExamPAData 0.5.0
 exampletestr 1.7.3
@@ -6896,7 +6896,7 @@ ferrn 0.3.0
 fertilmodel 1.5
 FertNet 0.1.2
 FES 1.0
-FESta 1.0.1
+FESta 1.0.2
 fetch 0.1.5
 fetchGoogleAnalyticsR 0.1.0
 fetchSalesforceR 0.1.0
@@ -9146,7 +9146,7 @@ hash 2.2.6.4
 hashids 0.9.0
 hashmapR 1.0.1
 hashr 0.1.4
-hashtable 1.0.0
+hashtable 1.0.1
 Hassani.SACF 2.0
 Hassani.Silva 1.0
 hassediagrams 2.1
@@ -10215,7 +10215,7 @@ intervals 0.15.5
 IntervalSurgeon 1.3
 intervcomp 0.1.2
 inTextSummaryTable 3.4.0
-inti 0.7.2
+inti 0.7.3
 intkrige 1.0.2
 intmap 1.0.0
 intmed 0.1.2
@@ -17478,7 +17478,7 @@ RCarb 0.1.8
 rcarbon 1.5.2
 rcartocolor 2.1.2
 Rcatch22 0.2.5
-rcatfish 1.0.4
+rcatfish 1.0.5
 RCaucTile 1.0.4
 RcausalEGM 0.3.3
 rCausalMGM 1.0.1
@@ -17726,7 +17726,7 @@ Rdpack 2.6.6
 rdpower 3.0
 rdracor 1.0.6
 rdrobust 4.0.0
-Rdrw 1.0.3
+Rdrw 1.0.4
 rdryad 1.0.0
 RDS 0.9-10
 Rdsdp 1.0.6
@@ -21481,7 +21481,7 @@ ssimparser 0.1.2
 ssize.fdr 1.3
 ssizeRNA 1.3.3
 SSLASSO 1.2.3
-SSLfmm 0.1.0
+SSLfmm 0.2.0
 SSM 1.0.1
 ssmn 1.1
 ssmodels 2.0.2
@@ -21599,7 +21599,7 @@ StatDA 1.7.11
 StatDataML 1.0-27
 statdecideR 0.1.6
 StatDeriveR 0.1.0
-statease 1.3.0
+statease 1.4.0
 statebins 1.4.0
 StateLevelForest 0.1.0
 states 0.3.3
@@ -22361,7 +22361,7 @@ tclust 2.2-0
 Tcomp 1.0.1
 tcpl 3.3.1
 tcplfit2 0.1.9
-TCpRepDesigns 0.0.1
+TCpRepDesigns 0.0.2
 TCRconvertR 1.0
 tcv 0.1.0
 tcxr 0.1.0
@@ -22775,7 +22775,7 @@ tidyusmacro 0.2.0
 tidyverse 2.0.0
 tidyvpc 1.6.0
 tidywater 0.10.0
-tidyweather 0.2.0
+tidyweather 0.3.0
 tidywikidatar 0.6.2
 tidyxl 1.0.10
 tiff 0.1-12
@@ -23372,7 +23372,7 @@ ttt 1.0
 ttTensor 1.0.2
 tttplot 1.1.1
 ttutils 1.0-1.1
-tuber 1.4.1
+tuber 2.0.0
 tubern 0.5.1
 tuckerR.mmgg 1.5.1
 TUFLOWR 0.1.1
@@ -23940,7 +23940,7 @@ VirtualPop 2.1.0
 virtualspecies 1.6.1
 virtuoso 0.1.8
 Virusparies 1.1.0
-virustotal 0.6.0
+virustotal 0.7.0
 visa 1.0.0
 visachartR 4.0.1
 visae 0.2.1

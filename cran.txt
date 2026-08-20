@@ -1985,7 +1985,7 @@ boiwsa 1.1.4
 BOJ 0.3.4
 bojapi 0.1.0
 bolasso 0.5.0
-BOLDconnectR 1.0.1
+BOLDconnectR 1.0.2
 bolder 0.1.1
 bolsec 0.1.1
 Bolstad 0.2.42
@@ -6008,7 +6008,7 @@ EMpeaksR 0.3.1
 emphatic 0.1.8
 empichar 1.0.1
 EmpiricalCalibration 3.1.4
-EmpiricalDynamics 0.1.5
+EmpiricalDynamics 0.1.9
 emplik 1.3-3
 emplik2 1.33
 emplikAUC 0.5
@@ -22977,7 +22977,7 @@ TopKSignal 1.0
 topocast 0.0.5
 topoDistance 1.0.2
 topologyGSA 1.5.0
-topologyR 0.2.0
+topologyR 0.3.0
 topolow 2.0.1
 toponym 2.0.1
 toporanga 1.0.0
@@ -24502,7 +24502,7 @@ xiacf 0.6.2
 XICOR 0.4.1
 ximage 0.1.0
 XiMpLe 0.11-3
-xkcd 0.1.0
+xkcd 0.1.1
 xkcdcolors 1.0
 XKCDdata 0.1.0
 xlcharts 0.0.2

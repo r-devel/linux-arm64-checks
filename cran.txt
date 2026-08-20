@@ -809,7 +809,7 @@ arrowheadr 1.0.2
 ars 0.8
 arsenal 3.7.1
 arthistory 0.1.0
-artma 0.3.3
+artma 0.4.1
 ARTofR 0.4.1
 artoo 0.1.3
 ARTool 0.11.2
@@ -923,7 +923,7 @@ ATR 0.1-1
 atRisk 0.2.0
 atrrr 0.2.0
 aTSA 3.1.2.1
-attachment 1.0.0
+attachment 1.1.0
 attempt 0.3.1
 attention 0.4.0
 attestix 0.4.1
@@ -1818,7 +1818,7 @@ BISdata 0.2-3
 bispdep 1.0-2
 bistablehistory 1.1.4
 bit 4.6.0
-bit64 4.8.2
+bit64 4.8.4
 bitfield 1.0.0
 bitmexr 0.3.3
 bitops 1.1-0
@@ -2065,7 +2065,7 @@ BoundIRT 0.5.0
 boussinesq 1.0.6
 boutliers 2.1-3
 BoutrosLab.plotting.general 7.1.5
-box 1.2.2
+box 1.2.3
 box.linters 0.10.7
 box.lsp 0.1.4
 boxcoxmix 0.46
@@ -3863,7 +3863,7 @@ countprop 1.1.1
 Countr 3.6.1
 countries 1.2.4
 countryatlas 1.0.0
-countrycode 1.8.0
+countrycode 1.9.0
 CountsEPPM 3.1
 countsplit 4.0.0
 countSTAR 1.2.0
@@ -5096,7 +5096,7 @@ Distributacalcul 0.4.0
 distributional 0.8.1
 DistributionIV 0.1.3
 DistributionOptimization 1.2.6
-distributions3 0.2.4
+distributions3 0.3.0
 distributionsrd 0.0.6
 DistributionTest 1.1
 DistributionUtils 0.6-2
@@ -10599,7 +10599,7 @@ jointDiag 0.4
 jointest 1.0
 JointFPM 1.3.0
 jointMeanCov 0.1.0
-jointNmix 1.0
+jointNmix 1.0-1
 jointPm 2.3.2
 jointseg 1.0.3
 jointVIP 1.0.1
@@ -11844,7 +11844,7 @@ mailR 0.8
 mailtoR 0.1.0
 MainExistingDatasets 1.0.2
 MAINT.Data 2.8.0
-MAIVE 0.2.4
+MAIVE 0.2.5
 MajKMeans 0.1.0
 MajMinKmeans 0.1.0
 makedummies 1.2.1
@@ -13342,7 +13342,7 @@ MRHawkes 1.0
 mri 1.0.1
 mrIML 2.2.0
 MRIreduce 1.0.0
-mritc 0.6.1
+mritc 0.6.2
 MRMCaov 0.3.1
 MRMCbinary 1.0.6
 MRMCsamplesize 1.0.0
@@ -13397,7 +13397,7 @@ MSGARCH 2.51
 MSGARCHelm 0.1.0
 msgps 1.3.5
 msgr 1.1.2
-msigdbr 26.1.0
+msigdbr 26.1.1
 mSigPlot 2.0.41
 MSigSeg 0.2.0
 mSigTools 1.0.7
@@ -15116,7 +15116,7 @@ palettesForR 0.1.2
 palettetown 0.1.1
 palimpsestr 0.24.1
 palinsol 1.0
-palm 1.1.6
+palm 1.1.7
 palmerpenguins 0.1.1
 PaLMr 0.2.0
 palmtree 0.9-1
@@ -17287,7 +17287,7 @@ rangemodelR 1.0.6
 rangen 0.0.1
 ranger 0.18.0
 RanglaPunjab 2.3.4
-rangr 1.0.9
+rangr 1.0.10
 rank 0.2.0
 RankAggreg 0.6.6
 RankAggSIgFUR 1.0.0
@@ -17568,7 +17568,7 @@ RColorBrewer 1.1-3
 RColorConesa 1.0.0
 rcolors 0.1.0
 Rcompadre 1.5.0
-rcompanion 2.5.2
+rcompanion 2.5.4
 rcompendium 1.4
 rconf 0.1.2
 rconfig 0.3.0
@@ -17601,7 +17601,7 @@ RcppClassicExamples 0.1.4
 RcppCNPy 0.2.15
 RcppColMetric 0.1.0
 RcppColors 0.6.0
-RcppCWB 0.6.10
+RcppCWB 0.6.11
 RcppDate 0.0.7
 RcppDE 0.1.9
 RcppDist 0.1.1.1
@@ -19211,7 +19211,7 @@ rstpm2 1.7.1
 RSTr 1.2.0
 rStrava 1.3.4
 rstream 1.3.7
-rstudio.prefs 0.1.9
+rstudio.prefs 0.2.0
 rstudioapi 0.19.0
 rstudiothemes 1.1.2
 Rsubbotools 0.0.1
@@ -20779,7 +20779,7 @@ smdi 0.3.2
 SMDIC 0.1.6
 smdocker 0.1.4
 smer 0.0.2
-smerc 1.8.4
+smerc 1.8.6
 smetlite 0.2.10
 smfa 1.0.1
 SMFilter 1.0.5
@@ -22846,7 +22846,7 @@ tinyscholar 0.1.7
 tinyshinyserver 0.1.0
 tinysnapshot 0.2.0
 tinyspotifyr 0.2.3
-tinytable 0.17.0
+tinytable 0.18.0
 tinytest 1.4.3
 tinytest2JUnit 1.1.3
 tinytex 0.60
@@ -23420,7 +23420,7 @@ twbparser 0.5.0
 twc 0.0.2
 twdtw 1.0-1
 tweedie 3.1.0
-tweedieDistr 0.1.1
+tweedieDistr 0.2.0
 tweenr 2.0.3
 tweetcheck 0.1.0
 twenty48 0.2.1
@@ -23594,7 +23594,7 @@ univOutl 0.5.0
 UnivRNG 1.2.3
 unix 1.6.0
 unjoin 0.1.0
-unmarked 1.5.1
+unmarked 1.5.2
 unmconf 1.0.0
 unnest 0.1
 Uno 2.7.4
@@ -24172,7 +24172,7 @@ WCRBayesDesign 1.0.1
 wcswatin 0.1.1
 wcvpmatch 0.0.1
 WData 0.1.1
-WDI 2.7.10
+WDI 2.8.0
 wdiEF 1.0.4
 wdiexplorer 0.1.2
 wdm 0.2.6

@@ -487,7 +487,7 @@ altdoc 0.7.3
 AlteredPQR 0.1.0
 alternativeROC 1.0.5
 altfuelr 0.1.0
-altmeta 4.3.1
+altmeta 4.4
 altR2 1.1.0
 ALUES 0.2.1
 amadeus 2.0.0
@@ -1668,7 +1668,6 @@ bigsplines 1.1-1
 bigstatsr 1.6.2
 bigstep 1.1.2
 bigSurvSGD 0.0.1
-bigtabulate 1.1.9
 bigtcr 1.1
 bigtime 0.2.3
 bigutilsr 0.3.11
@@ -3538,7 +3537,7 @@ CompModels 0.3.0
 COMPoissonReg 0.8.2
 CompositeReliability 1.0.3
 compositeReliabilityInNestedDesigns 1.0.4
-Compositional 8.2
+Compositional 8.3
 compositional.mle 2.0.0
 CompositionalClust 1.3
 CompositionalHDDA 1.0
@@ -3756,7 +3755,7 @@ CopulaGAMM 0.6.5
 CopulaInference 0.5.0
 copulareg 0.1.0
 CopulaREMADA 1.7.5
-CopulaSCR 1.0.1
+CopulaSCR 1.0.2
 copulaSFM 0.2.0
 copulaSim 0.0.1
 copulaSQM 0.1.0
@@ -4422,7 +4421,7 @@ datamods 1.5.3
 dataMojo 1.0.0
 datamuseum 0.1.0
 datana 1.1.5
-datanugget 1.4.0
+datanugget 1.5.0
 dataonderivatives 0.4.0
 dataone 2.3.0
 datapack 1.4.2
@@ -7841,7 +7840,7 @@ gemma2 0.1.3
 gemR 1.2.2
 gems 1.1.1
 GEMSS 0.1.2
-gemtc 1.1-1
+gemtc 1.1-2
 gen2stage 1.0
 gen3sis 1.6.0
 gen5helper 1.0.1
@@ -9013,7 +9012,7 @@ gto 0.1.2
 gtools 3.9.5
 gtranslate 0.0.1
 gtreg 0.4.2
-gtregression 1.0.0
+gtregression 1.1.0
 gtrendshealth 1.0.1
 gtrendsR 1.5.2
 GTRT 0.1.0
@@ -12963,11 +12962,11 @@ mlr3filters 0.9.1
 mlr3forecast 0.1.0
 mlr3fselect 1.6.0
 mlr3hyperband 1.1.1
-mlr3inferr 0.2.1
+mlr3inferr 0.2.2
 mlr3learners 0.15.1
 mlr3mbo 1.2.1
 mlr3measures 1.3.0
-mlr3misc 0.22.0
+mlr3misc 0.23.0
 mlr3oml 0.12.0
 mlr3pipelines 0.11.0
 mlr3resampling 2026.5.19
@@ -13145,7 +13144,7 @@ modMax 1.1
 modnets 0.9.0
 modopt.matlab 1.0-2
 modQR 0.1.3
-modsem 1.0.21
+modsem 1.0.22
 ModStatR 1.4.2
 ModTools 0.9.13
 ModToppLeone 0.1.0
@@ -14315,7 +14314,7 @@ normalize 0.1.3
 normalizeH 1.0.0
 NormalLaplace 0.3-2
 normalp 0.7.2.1
-NormData 1.1
+NormData 1.2
 NormExpression 0.1.1
 normfluodbf 2.0.3
 norMmix 0.2-0
@@ -14383,7 +14382,7 @@ NPIstats 0.1.0
 npiv 0.1.3
 nplplot 4.7
 nplr 0.1-8
-NPLStoolbox 1.1.0
+NPLStoolbox 1.1.1
 nplyr 0.3.0
 npmlda 1.0.0
 NPMLEcmprsk 3.0
@@ -15740,7 +15739,7 @@ phyreg 1.0.2
 PhysActBedRest 1.1
 PhysicalActivity 0.2-4
 PhysioIndexR 0.1.0
-PhysMove 1.2.4
+PhysMove 1.2.5
 PhySortR 1.0.9
 phytoclass 2.3.1
 PhytoIn 0.2.0
@@ -19291,7 +19290,7 @@ RTLknitr 1.1.1
 rtlr 0.1.0
 rTLS 0.2.6.1
 RTMB 1.9
-RTMBdist 1.0.5
+RTMBdist 1.0.6
 rtmpinv 2.0.0
 rtmpinvi 2.0.0
 rtmpt 2.0-3
@@ -19302,7 +19301,7 @@ rtodoist 0.4.0
 rtoot 1.0.0
 rtop 0.6-17
 rTPC 1.1.0
-rtpcr 2.1.8
+rtpcr 2.1.9
 Rtrack 2.0.4
 RTransferEntropy 0.2.21
 rtransparency 1.0.0
@@ -20761,7 +20760,7 @@ slurm 2025.4.9
 slurmR 0.5-4
 slxr 0.1.1
 sm 2.2-6.0
-smaa 0.3-3
+smaa 0.3-4
 smacof 2.1-7
 smacofx 1.22-0
 smacpod 2.6.4
@@ -22851,7 +22850,7 @@ tinter 0.1.0
 tintin 0.2
 tinyarray 3.0.0
 tinycache 0.1
-tinycodet 0.7.0
+tinycodet 0.7.1
 tinydng 0.1.0-0
 tinyimg 0.4
 tinylabels 0.2.5
@@ -22863,7 +22862,7 @@ tinyrox 0.4.1
 tinyroxygen 0.1
 tinyscholar 0.1.7
 tinyshinyserver 0.1.0
-tinysnapshot 0.2.0
+tinysnapshot 0.3.0
 tinyspotifyr 0.2.3
 tinytable 0.18.0
 tinytest 1.4.3
@@ -23992,7 +23991,7 @@ visvaR 1.0.0
 visvow 1.3.11
 visxhclust 1.1.0
 vita 1.0.0
-vitae 0.6.0
+vitae 0.7.0
 vital 2.0.3
 vitality 1.3
 vitals 0.3.0

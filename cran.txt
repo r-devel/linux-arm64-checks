@@ -823,6 +823,7 @@ arulesNBMiner 0.1.9
 arulesSequences 0.2-32
 arulesViz 1.5.4
 ARUtools 0.7.3
+ArvindRF 1.0.0
 ArvindSt 1.1.0
 aRxiv 0.20
 asaur 0.50
@@ -885,6 +886,7 @@ aster2 0.3-2
 asteRisk 1.4.5
 astgrepr 0.1.2
 AsthmaNHANES 1.1.0
+AstraeaDB 0.2.1
 astrochron 1.8
 astroFns 4.2-1
 astronomR 0.3.0
@@ -958,7 +960,7 @@ autoann 0.1.0
 autocodebook 0.1.0
 autocogs 0.1.5
 autoCovariateSelection 1.0.0
-autodb 3.3.0
+autodb 3.3.1
 AutoDeskR 0.5.0
 autoEnsemble 0.3
 autoFC 1.0.0.1002
@@ -1004,6 +1006,7 @@ autotestR 1.2.16
 autothresholdr 1.4.3
 AutoTransQF 0.1.3
 autoTS 0.9.11
+autotune 0.1.0
 autovi 0.4.1
 AutoWMM 1.0.2
 AuxSurvey 1.1
@@ -1319,7 +1322,7 @@ BayesNSGP 0.3.0
 BayesPanelUR 0.1.0
 BayesPET 0.1.0
 BayesPieceHazSelect 1.1.0
-BayesPIM 1.0.1
+BayesPIM 2.0
 bayesplay 0.9.3
 bayesplot 1.15.0
 bayespm 0.2.0
@@ -2143,6 +2146,7 @@ bregr 1.5.0
 BRETIGEA 1.0.3
 brew 1.0-10
 brfinance 0.8.0
+brfssdata 0.1.0
 brglm 0.7.3
 brglm2 1.1.0
 brickset 2026.0.0
@@ -2150,7 +2154,7 @@ brickster 0.2.14
 bridgedist 0.1.3
 bridger2 0.1.0
 bridgesampling 1.2-1
-bridgr 0.1.2
+bridgr 1.0.0
 brif 1.4.1
 brightspaceR 0.1.0
 briKmeans 1.0
@@ -2185,6 +2189,7 @@ bruceR 2026.1
 brulee 1.1.1
 bruneimap 0.3.1
 brunnermunzel 2.0
+bruno 0.1.0
 brxx 0.1.2
 bs4cards 0.1.1
 bs4Dash 2.3.5
@@ -2445,7 +2450,7 @@ cardinalfda 0.2.0
 cardinalR 1.0.6
 CardioCurveR 1.0.0
 CardioDataSets 0.2.0
-cards 0.8.1
+cards 0.9.0
 cardx 0.3.4
 care 1.1.11
 care4cmodel 1.0.3
@@ -3002,6 +3007,7 @@ cit 2.3.2
 CITAN 2025.7.1
 citation 0.12.2
 citationchaser 0.0.4
+citcdf 1.1.0
 citecorp 0.3.0
 CiteSource 0.2.1
 citestR 0.1.1
@@ -5404,6 +5410,7 @@ dsBaseClient 6.3.5
 DSBayes 2023.1.0
 dscore 2.0.0
 dscoreMSM 0.1.0
+dsdp 0.1.2
 DSDRM 0.1.3
 dsem 3.0.0
 DSFM 1.0.1
@@ -6771,7 +6778,7 @@ fat2Lpoly 1.2.6
 FateID 0.2.2
 FatTailsR 2.0.1
 FaultTree 1.0.1
-faunabr 1.1.0
+faunabr 1.1.1
 faux 1.2.4
 fauxnaif 0.7.1
 fauxpas 0.6.0
@@ -7051,6 +7058,7 @@ fit.models 0.64
 fitbitr 0.3.0
 fitbitScraper 0.1.8
 fitbitViz 1.0.8
+FITclust 1.0.0
 fitConic 1.2.1
 fitdistcp 0.2.3
 fitdistrBayes 0.2.0
@@ -7606,6 +7614,7 @@ FuzzySpec 1.0.0
 FuzzyStatTra 1.0
 fuzzystring 0.0.6
 FuzzySTs 0.5
+fuzzyurn 0.1.0
 fuzzywuzzyR 1.0.6
 FVDDPpkg 0.1.2
 fwb 0.6.0
@@ -8095,6 +8104,7 @@ gfonts 0.2.0
 gfoRmula 1.1.1
 gfoRmulaICE 1.1.1
 gFormulaMI 1.0.3
+GFT 1.0.0
 gfunctions 1.2
 gg.gap 1.3
 gg1d 0.1.0
@@ -8715,8 +8725,14 @@ gpbiometrics 0.1.0
 gpboost 1.7.2
 gpbStat 0.4.4
 gpciEMprogII 0.1.0
+gpcihybridII 0.1.0
+gpcihybridIIEM 0.1.0
+gpcihybridIIImpSam 0.1.0
+gpcihybridIILinApp 0.1.0
+gpcihybridIImcmc 0.1.0
 gpciImpSam 0.1.0
 gpciIntCensor 0.1.0
+gpciLindleyApprox 0.1.0
 gpciProgTyII 0.1.0
 gpciProgTyIIImpSam 0.1.0
 GPCMlasso 0.1-9
@@ -9003,7 +9019,7 @@ gtfsio 1.2.1
 gtfsrealtime 0.2.1
 gtfsrouter 0.1.4
 gtfstools 1.4.0
-GTFSwizard 1.2.0
+GTFSwizard 1.2.1
 gtheoryr 0.1.0
 gto 0.1.2
 gtools 3.9.5
@@ -9587,7 +9603,7 @@ httpcode 0.3.0
 httpgd 2.1.4
 httping 0.3.0
 httpproblems 1.0.1
-httptest 4.2.3
+httptest 4.2.4
 httptest2 1.2.2
 httpuv 1.6.17
 httr 1.4.8
@@ -9642,7 +9658,7 @@ hydroDCindex 1.0.0
 hydrodownloadR 0.1.3
 hydroeval 0.1.0
 hydroEvents 0.13.0
-hydrogeofetch 2.0.0
+hydrogeofetch 2.0.1
 hydroGOF 0.7-0
 hydroloom 1.2.1
 HydroMe 2.1.2
@@ -10243,6 +10259,7 @@ invctr 0.2.0
 inventorize 1.1.2
 inverseRegex 0.2.0
 invertiforms 0.1.2
+investdatar 0.1.5
 investr 1.4.2
 invgamma 1.2
 invgamstochvol 1.0.0
@@ -13459,6 +13476,7 @@ mtgjsonsdk 0.1.0
 mthapower 0.1.1
 mtlgmm 0.1.0
 MTLR 0.2.2
+MTLRF 1.0.0
 MTPS 1.0.2
 mtrank 0.2-0
 MTS 1.2.1
@@ -13717,7 +13735,7 @@ mvnormtest 0.1-9-3
 mvnpermute 1.0.1
 mvnTest 1.1-0
 MVOPR 2.0.0
-mvord 1.2.6
+mvord 1.2.7
 mvout 1.2
 mvoutlier 2.1.4
 mvp 1.1-1
@@ -14033,7 +14051,7 @@ neuRosim 0.2-14
 neuroUp 0.3.1
 neutralitytestr 0.0.3
 NeutroBasicDesignsAnalysis 0.0.1
-NeutroCODsAnalysis 0.1.0
+NeutroCODsAnalysis 0.2.0
 NeutroCrdRcbdAnalysis 0.0.1
 NeutroIBDAnalysis 0.1.1
 neutroPPS 0.1.1
@@ -14743,6 +14761,7 @@ openEBGM 0.9.1
 openeo 1.4.1
 openesm 0.2.1
 openFDA 0.1.0
+openfhe.R 1.5.1
 opengraph 0.0.4
 OpEnHiMR 0.1.1
 openholidaysR 0.1.0
@@ -15317,6 +15336,7 @@ paws.networking 0.10.0
 paws.security.identity 0.10.0
 paws.storage 0.10.0
 pawscore 1.0.3
+pb210dating 1.0.1
 pbANOVA 0.1.0
 pbapply 1.7-4
 pbatR 2.2-17
@@ -15731,6 +15751,7 @@ phylospatial 1.4.0
 phylotate 1.3
 phyloTop 2.1.3
 phylotypr 0.1.1
+phylowise 0.0.1
 phylter 0.9.12
 phymapnet 0.1.3
 phyr 1.1.3
@@ -16253,6 +16274,7 @@ PowerSDI 1.0.0
 powerSurvEpi 0.1.5
 powertools 1.0.0
 PowerTOST 1.5-7
+PowerXgammaRF 1.0.0
 powRICLPM 0.2.1
 PowRPriori 0.2.0
 PP 0.6.4-1
@@ -16950,7 +16972,7 @@ qrng 0.0-11
 qrNLMM 4.0
 qrnn 2.1.1
 qryflow 0.4.0
-qs2 0.2.2
+qs2 0.3.1
 QSARdata 1.3
 qshap 1.0.1
 qsimulatR 1.1.1
@@ -17312,6 +17334,7 @@ RankGWASK 0.1.1
 rankhazard 1.1.1
 rankICC 1.0.2
 RankingProject 0.4.0
+rankingQ 0.2.0
 rankinma 0.2.2
 rankinPlot 1.1.0
 RankPCA 0.1.0
@@ -17410,7 +17433,7 @@ raven.rdf 0.2.0
 RavenR 2.2.4
 ravepipeline 0.1.0
 rAverage 0.5-8
-ravetools 0.2.6
+ravetools 0.3.0
 raw 0.1.8
 RawHummus 0.3.3
 rawKS 0.1.0
@@ -18197,6 +18220,7 @@ revss 3.1.0
 Revticulate 1.0.0
 revtools 0.4.1
 rewie 0.1.0
+rewind 0.2.0
 rex 1.2.2
 rexer 1.0.0
 REXoplanets 0.1.2
@@ -19270,7 +19294,7 @@ RTextTools 1.4.3
 rtf 0.4-15
 RTFA 0.1.0
 rtForecastEval 0.1.0
-RtForecastR 0.1.0
+RtForecastR 0.1.1
 rTG 1.0.4
 rtgstat 0.3.6
 Rthingsboard 0.2.7
@@ -20065,7 +20089,7 @@ SentimentAnalysis 1.3-5
 sentimentr 2.9.0
 sentixr 0.2.0
 sentometrics 1.0.1
-sentopics 0.7.7
+sentopics 1.0.0
 sentryR 1.1.2
 SEofM 0.1.0
 SEPA 0.1.0
@@ -20259,6 +20283,7 @@ shiny.blueprint 0.3.0
 shiny.destroy 0.1.0
 shiny.emptystate 0.1.0
 shiny.exe 0.2.0
+shiny.fluent 0.4.1
 shiny.i18n 0.3.0
 shiny.ollama 0.1.1
 shiny.react 0.4.0
@@ -22027,7 +22052,7 @@ SurviMChd 0.1.2
 SurvImpute 0.1.0
 survinger 0.1.1
 surviv 0.1.3
-survival 3.8-9
+survival 3.8-11
 SurvivalClusteringTree 1.1.3
 survivalmodels 0.1.191
 survivalMPL 0.2-4
@@ -22272,6 +22297,7 @@ tabularaster 0.7.2
 tabularmaps 0.1.0
 tabularMLC 0.0.4
 tabulator 1.0.0
+tabulergm 0.1.0
 tabulog 0.1.1
 tabuSearch 1.2.0
 tabxplor 1.3.1
@@ -23103,7 +23129,7 @@ tramME 1.0.8
 tramnet 0.0-991
 TRAMPR 1.0-10
 tramvs 0.0-9
-transDA 1.0.2
+transDA 1.0.3
 transferegovr 0.1.0
 transforEmotion 0.1.7
 Transform 1.1
@@ -24451,7 +24477,7 @@ wrictools 1.0.1
 WrightMap 1.4
 writeAlizer 1.7.3
 writer 0.1.0
-writexl 2.0.0
+writexl 2.0.1
 WriteXLS 6.8.0
 wrMisc 2.1.1
 wrProteo 2.1.0

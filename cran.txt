@@ -1740,7 +1740,7 @@ biocharkitgui 0.3.1
 bioclim 0.4.0
 BiocManager 1.30.27
 biocompute 1.1.1
-BioCro 3.3.1
+BioCro 3.4.0
 Biodem 0.5
 BiodiversityR 2.18-1
 BIOdry 0.9.1
@@ -3677,7 +3677,7 @@ constrainedKriging 0.2-11
 conStruct 1.0.6
 constructive 1.3.0
 contactdata 1.1.0
-contactsurveys 0.1.0
+contactsurveys 0.2.0
 contagionchannels 0.1.3
 container 1.1.0
 containr 0.1.3
@@ -5452,7 +5452,7 @@ DT 0.34.0
 DT2 0.1.2
 Dtableone 1.1.0
 dtametaTMB 0.1.1
-dtangle 2.0.9
+dtangle 2.0.10
 DTAplots 1.0.2.5
 DTAT 0.3-8
 dtaudit 0.1.1
@@ -7128,7 +7128,7 @@ flexCountReg 0.1.1
 flexCWM 1.92
 flexdashboard 0.6.3
 FlexDir 1.0
-flexFitR 1.2.3
+flexFitR 1.2.4
 FlexGAM 0.7.2
 flexhaz 0.5.2
 flexiblas 3.4.0
@@ -10000,7 +10000,7 @@ ImpactEffectsize 0.8
 impactflu 0.1.0
 impactr 0.4.2
 ImpAdaptType2Censor 0.1.0
-impala 0.1.3
+impala 0.1.4
 impARI 0.0.3
 impectR 2.5.6
 impermanentlosscalc 0.1.0
@@ -18476,7 +18476,7 @@ rivernet 1.2.3
 Rivivc 0.9.1
 rivnet 0.6.0
 rivr 1.2-3
-RivRetrieve 0.1.9
+RivRetrieve 0.2.0
 rix 0.18.2
 rixpress 0.12.3
 rjade 0.1.1

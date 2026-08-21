@@ -1027,7 +1027,7 @@ avocado 0.2.0
 avotrex 1.3.0
 avseqmc 1.0.2
 avstrat 0.1.1
-awdb 0.1.3
+awdb 0.1.4
 aweek 1.0.3
 aweSOM 1.3
 awinR 0.1.0
@@ -1777,7 +1777,7 @@ bioRad 0.12.0
 bioregion 1.4.0
 BioRssay 1.1.0
 Bios2cor 2.2.2
-bios2mds 1.2.3
+bios2mds 1.2.4
 biosampleR 1.0.4
 biosensors.usc 1.0
 bioseq 0.1.5
@@ -4499,7 +4499,7 @@ days2lessons 0.1.3
 daySupply 0.1.0
 db2pq 0.0.4
 dbacf 0.2.8
-dbarts 0.9-33
+dbarts 0.9-34
 DBCVindex 1.6
 dbd 0.0-22
 DBfit 2.0
@@ -9990,7 +9990,7 @@ immunaut 1.0.2
 immundata 0.0.7
 ImmuneSigR 0.1.1
 immunogenetr 1.5.0
-Immutables 1.0.1
+Immutables 1.1.0
 Imneuron 0.1.0
 ImNN 0.1.0
 IMP 1.1
@@ -13101,7 +13101,7 @@ mod 0.1.3
 mod09nrt 0.14
 mod2rm 0.2.1
 modACDC 2.0.1
-ModalCens 0.1.0
+ModalCens 0.2.0
 Modalclust 0.7
 ModalForecast 0.1.0
 modeest 2.4.0
@@ -15703,7 +15703,7 @@ phonfieldwork 0.0.17
 phonics 1.3.10
 phonR 1.0-7
 phonTools 0.2-2.2
-phontrast 2.3.1
+phontrast 2.4.0
 phosphoricons 0.2.1
 photobiology 0.14.2
 photobiologyFilters 0.6.1
@@ -17487,7 +17487,7 @@ RblDataLicense 0.2.6
 rblimp 1.2.0
 Rblpapi 0.3.16
 rblt 0.2.4.7
-rbm25 0.0.4
+rbm25 2.3.2
 rBMF 1.1
 rbmi 1.6.1
 rbmiUtils 0.3.0
@@ -17905,7 +17905,7 @@ redbookperu 0.0.3
 redcapAPI 2.12.0
 REDCapCAST 26.1.1
 REDCapDM 1.0.1
-REDCapExporter 0.3.5
+REDCapExporter 0.3.6
 REDCapR 1.7.0
 REDCapSync 0.1.1
 REDCapTidieR 1.2.5
@@ -17993,7 +17993,7 @@ RegrCoeffsExplorer 1.2.0
 regreplaceR 0.1.0
 regress 1.3-22
 regress3d 1.0.0
-regressinator 0.3.0
+regressinator 0.3.1
 RegressionFactory 0.7.4
 regressoR 4.0.8
 regrrr 0.1.3
@@ -19305,7 +19305,7 @@ rticulate 2.2.0
 rtide 0.0.12
 rtika 3.2.3
 rtiktokads 0.3.4
-rtiktoken 0.0.7
+rtiktoken 0.11.0.2
 Rtinycc 0.1.15
 rtip 1.1.1
 rtist 1.0.0
@@ -23836,7 +23836,7 @@ vatcheckapi 0.1.0
 vaultr 1.2.0
 vaxineR 0.1.0
 vaxpmx 0.0.6
-vayr 1.0.0
+vayr 1.1.0
 vazul 1.1.0
 VBel 1.1.7
 VBLPCM 2.4.9

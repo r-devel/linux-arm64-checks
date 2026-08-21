@@ -220,7 +220,7 @@ ADLP 0.1.0
 admiral 1.5.0
 admiraldev 1.5.0
 admiralmetabolic 0.3.0
-admiralneuro 0.2.1
+admiralneuro 0.3.0
 admiralonco 1.4.1
 admiralophtha 1.5.0
 admiralpeds 0.4.0
@@ -330,7 +330,7 @@ agregR 1.0.3
 agricolae 1.3-7
 agricolaeplotr 1.0.0
 agridat 1.26
-agridatasets 0.1.0
+agridatasets 0.1.1
 AgriDataTools 0.1.2
 AgriDiversiX 0.1.0
 agriDQ 0.1.3
@@ -763,7 +763,7 @@ arf 0.2.4
 arfima 1.8-2
 arg 0.2.1
 ArgentinAPI 0.2.1
-Argentum 1.0.0
+Argentum 2.1.0
 argminCS 1.1.0
 argo 3.0.3
 argoFloats 1.0.9
@@ -1613,7 +1613,7 @@ BICORN 0.1.0
 BiDAG 2.1.4
 bidask 2.1.5
 BiDimRegression 2.0.1
-BIDistances 1.0.0
+BIDistances 1.0.1
 bidser 0.5.0
 bidsr 0.1.1
 bidux 0.4.0
@@ -8507,7 +8507,7 @@ GLMMcosinor 0.2.1
 glmmEP 1.0-3.1
 glmmFEL 1.0.5
 glmmfields 0.1.8
-glmMisrep 0.1.1
+glmMisrep 0.1.2
 glmmLasso 1.6.4
 glmmML 1.1.7
 glmmPen 1.5.4.8
@@ -16583,7 +16583,7 @@ ProTrackR2 0.1.1
 protti 1.0.0
 protViz 0.7.9
 proustr 0.4.0
-prova 1.0.0
+prova 2.3.0
 provDebugR 1.0.1
 provenance 4.4
 proverbs 0.4.0
@@ -17675,7 +17675,7 @@ Rcssplot 1.1.0
 RCT 1.2
 RCT2 0.0.1
 rct3 1.0.4
-RCtest 1.0
+RCtest 1.1
 rCTOOL 3.1.0
 RCTRecruit 0.2.0
 RCTrep 1.2.0
@@ -18471,7 +18471,7 @@ rjd3toolkit 3.8.0
 rjd3tramoseats 3.8.0
 rjd3workspace 3.8.0
 rjd3x13 3.8.0
-rjd3xjars 0.1.1
+rjd3xjars 0.1.2
 RJDBC 0.2-10
 RJDemetra 0.2.8
 rjdmarkdown 0.2.2
@@ -18684,7 +18684,7 @@ RNeXML 2.4.11
 RNGforGPD 1.1.0
 rngtools 1.5.2
 rngWELL 0.10-10
-RNifti 1.9.0
+RNifti 1.10.0
 RNiftyReg 2.8.5
 Rnightly 0.1.0
 rnmamod 0.5.1
@@ -18778,7 +18778,7 @@ RobustIV 0.3.1
 RobustLinearReg 1.2.0
 robustlm 0.1.0
 robustlmm 3.5.0-2
-RobustLPA 0.1.0
+RobustLPA 1.0.0
 robustmatrix 0.1.5
 RobustMediate 0.1.1
 robustmeta 1.2-1
@@ -22007,7 +22007,7 @@ surveydata 0.2.8
 SurveyDefense 0.2.0
 surveydown 1.3.0
 surveyexplorer 0.2.0
-surveyframe 0.3.4
+surveyframe 0.4.0
 surveygraph 1.0.0
 surveyplanning 4.0
 surveyPrev 2.0.0
@@ -22195,7 +22195,7 @@ syncons 0.1.1
 SyncRNG 1.3.3
 SYNCSA 1.3.5
 SynDI 0.1.0
-SynergyLMM 1.1.3
+SynergyLMM 1.1.4
 synMicrodata 2.1.3
 synopR 1.0.0
 synr 1.0.0
@@ -23114,7 +23114,7 @@ transformmos 0.1.0
 transformr 0.1.5
 transfR 1.1.18
 transGFM 1.0.2
-TransHDM 1.0.1
+TransHDM 1.1.3
 Transition 1.0.3
 transitiontrees 0.1.2
 translate.logit 1.0.2

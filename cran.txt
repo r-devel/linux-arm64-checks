@@ -563,7 +563,7 @@ AnimalSequences 0.2.0
 animate 0.3.9.4
 animation 2.8
 animbook 1.0.1
-animejs 1.0.0
+animejs 1.1.0
 animint2 2025.10.17
 animl 3.3.1
 anipaths 0.10.6
@@ -2165,7 +2165,7 @@ brms 2.23.0
 brms.mmrm 1.1.1
 brmsmargins 0.3.0
 brnn 0.9.4
-broadcast 0.1.9.5
+broadcast 0.1.9.6
 Brobdingnag 1.2-9
 BrokenAdaptiveRidge 1.0.2
 brokenstick 2.7.0
@@ -2232,7 +2232,7 @@ bsts 0.9.11
 BSTZINB 2.0.1
 bsub 2.0.7
 bsvars 3.2
-bsvarSIGNs 2.0
+bsvarSIGNs 3.0
 BSW 0.1.2
 bsynth 1.0
 btb 0.2.2
@@ -3461,7 +3461,6 @@ comato 1.1
 COMBAT 0.0.4
 combat.enigma 1.1.1
 ComBatFamQC 1.0.6
-combcoint 0.2.0
 combinat 0.0-8
 combinatorics 0.1.0
 combinedevents 0.1.1
@@ -3948,7 +3947,7 @@ cpd 0.3.3
 CPE 1.6.3
 cpfa 1.3.2
 CpGassoc 2.70
-cpge 1.0.1
+cpge 1.0.2
 CpGFilter 1.1
 cpgfR 0.0.1.0
 CPGLIB 1.1.2
@@ -5144,7 +5143,7 @@ DJL 3.9
 dkanr 0.1.3
 dLagM 1.1.13
 DLASSO 2.0.2
-DLCA 1.0
+DLCA 1.1
 DLEGFM 0.4.0
 DLFM 0.2.4
 dlib 1.0.3.1
@@ -5528,7 +5527,7 @@ dwmmlRidge 0.1.1
 dwp 1.2
 DWreg 3.0
 DyadiCarma 1.0.1
-dyadicMarkov 0.1.1
+dyadicMarkov 0.1.2
 dyadMLM 0.2.0
 DyadRatios 2.1
 dyads 1.2.1
@@ -5832,10 +5831,8 @@ EEML 0.1.1
 eemR 1.0.2
 eeptools 1.3.0
 ef 1.2.0
-EFA.dimensions 0.1.8.8
 EFA.MRFA 1.1.2
 EFAfactors 1.2.4
-EFAtools 1.0.0
 EFAutilities 2.1.3
 eFCM 1.0
 efdm 0.2.3
@@ -6566,7 +6563,7 @@ FABInference 0.1
 fabisearch 0.0.4.5
 fable 0.5.0
 fable.ata 0.0.6
-fable.bayesRecon 0.1.0
+fable.bayesRecon 0.2.0
 fable.intermittent 0.2.0
 fable.prophet 0.1.0
 fableCount 0.1.0
@@ -6619,7 +6616,6 @@ FADA 1.3.5
 FAdist 2.4
 FADPclust 1.1.1
 faersquarterlydata 1.3.0
-FAfA 1.2
 fahb 1.0.0
 Fahrmeir 2016.5.31
 fail 1.3
@@ -8289,7 +8285,7 @@ ggquickeda 0.3.3
 ggquiver 0.5.0
 ggragged 0.2.0
 ggrain 0.1.2
-ggRandomForests 3.5.0
+ggRandomForests 3.5.2
 ggraph 2.2.2
 ggraptR 1.3
 ggrastr 1.0.2
@@ -9040,7 +9036,6 @@ gunsales 0.1.3
 gustave 1.0.0
 gutenbergr 0.5.2
 GUTS 1.2.6
-GVARX 1.4
 gvc 6.4.0
 gvcAnalyzer 0.1.1
 gvcR 0.4.0
@@ -9993,6 +9988,7 @@ impectR 2.5.6
 impermanentlosscalc 0.1.0
 impimp 0.3.1
 implicitExpansion 0.1.0
+implicitMeasures 1.0.0
 implied 0.5
 implyr 0.5.0
 import 1.3.4
@@ -10045,7 +10041,7 @@ IncrementalityTEST 0.1.1
 inctools 1.0.15
 incubate 1.4.1
 INCVCommunityDetection 0.1.0
-inDAGO 1.0.3
+inDAGO 1.0.4
 indelmiss 1.0.10
 IndependenceTests 0.8
 independenceWeights 0.0.1
@@ -10543,7 +10539,7 @@ JDCruncheR 0.4.1
 jdenticon 0.1.1
 Jdmbs 1.4
 jds.rmd 0.3.4
-jellyfisher 1.1.1
+jellyfisher 1.1.2
 jenga 2.0.0
 jentre 0.1.0
 jetpack 0.5.5
@@ -10930,7 +10926,7 @@ ksamplesLTRC 0.1.0
 KScorrect 1.4.2
 KSEAapp 2.0
 kselection 0.2.1
-ksformat 0.8.2
+ksformat 0.8.4
 KSgeneral 2.0.2
 ksharp 0.1.0.1
 KSIC 1.0.2
@@ -12004,6 +12000,7 @@ markstat 0.1.5
 marlod 0.2.3
 marmap 1.0.12
 MARMoT 0.0.4
+marp 0.1.1
 marqLevAlg 2.0.8
 marquee 1.2.1
 marradistrees 1.0
@@ -12039,7 +12036,7 @@ mastif 2.4
 MAT 2.3.2
 MATA 0.7.1
 matchedcc 0.1.1
-matchednull 0.1.0
+matchednull 0.2.1
 matchFeat 1.0
 MatchGATE 0.0.10
 Matching 4.10-15
@@ -12260,7 +12257,7 @@ MDDC 1.1.0
 mddmaps 1.3.0
 mde 0.3.3
 mded 0.1-2
-mdendro 2.2.3
+mdendro 2.3.0
 MDFS 1.5.5
 mdftracks 0.2.2
 mdgc 0.1.7
@@ -12952,7 +12949,7 @@ mlquantify 0.2.0
 mlr 2.19.3
 mlr3 1.7.1
 mlr3batchmark 0.2.2
-mlr3benchmark 0.1.7
+mlr3benchmark 0.1.8
 mlr3cluster 0.4.1
 mlr3data 0.9.0
 mlr3db 0.7.2
@@ -14280,7 +14277,6 @@ noncompliance 0.2.2
 noncomplyR 1.0
 NonlinearDiD 0.2.0
 nonLinearDotPlot 0.5.0
-NonlinearTSA 0.5.0
 nonlinearTseries 0.3.2
 nonmem2R 0.2.5
 nonmem2rx 0.1.9
@@ -19665,7 +19661,7 @@ ScaleSpikeSlab 1.0
 scam 1.2-22
 scan 0.68.1
 scanCP 0.1.0
-scanr 0.1.0
+scanr 0.1.1
 scanstatistics 1.1.2
 scape 2.3.5
 scaper 0.2.0
@@ -20991,6 +20987,7 @@ sonar 1.0.2
 sondage 0.9.1
 SongEvo 1.0.0
 sonicLength 1.4.7
+sonicscrewdriver 0.0.7.1
 sonify 0.0-1
 SONO 1.2
 sooty 0.6.1
@@ -22317,7 +22314,7 @@ TAR 1.0
 tarchetypes 0.14.1
 tarchives 0.2.0
 tardis 0.1.5
-targeted 0.8
+targeted 0.9.0
 targets 1.12.0
 Tariff 1.0.5
 tarpolyglot 0.2.0
@@ -22882,7 +22879,7 @@ tippy 0.1.0
 tipr 1.0.2
 TiPS 1.3.0
 tipsae 1.0.3
-tipse 2.0
+tipse 2.1
 tirt 0.4.0
 tis 1.39
 tissot 0.3.0
@@ -23293,7 +23290,6 @@ tsdisagg2 0.1.0
 TSdisaggregation 2.0.0
 tsdistributions 1.0.4
 TSDT 1.0.8
-tsDyn 11.0.5.2
 TSE 0.1.0
 TSEAL 0.1.5
 tseffects 0.3.1

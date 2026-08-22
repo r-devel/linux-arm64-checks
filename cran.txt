@@ -4730,7 +4730,7 @@ denoiSeq 0.1.1
 denovolyzeR 0.2.0
 DENSaftertransform 0.1
 denseFLMM 0.1.3
-densemlp 0.5.0
+densemlp 0.6.0
 densEstBayes 1.0-2.2
 densitr 0.2
 densityarea 0.1.1
@@ -12256,7 +12256,7 @@ MCseqReplic 1.1.0
 MCSim 1.0
 MCSimMod 1.2
 mcStats 0.1.3
-mcstatsim 0.5.0
+mcstatsim 0.5.1
 mctest 1.3.2
 mctq 0.3.2
 MCTrend 1.0.1
@@ -12710,7 +12710,7 @@ mildsvm 0.4.1
 miLineage 2.1
 milorGWAS 0.7.1
 milr 0.4.1
-mimar 0.8.0
+mimar 1.0.0
 mimdo 0.1.0
 mime 0.13
 MIMER 1.0.6
@@ -12802,7 +12802,7 @@ MissingHandle 0.1.1
 missingHE 1.6.1
 MissingPlotLSD 0.1.0
 MissingPlotRBD 1.1.0
-missknn 1.0.0
+missknn 1.1.2
 missMDA 1.22
 MissMech 1.0.4
 missMethods 0.4.0
@@ -22537,7 +22537,7 @@ testDriveR 0.5.3
 testequavar 0.1.5
 tester 0.3.0
 testex 0.2.1
-testflow 0.9.0
+testflow 1.0.0
 testforDEP 0.2.0
 TestFunctions 0.2.2
 TestGardener 3.3.6

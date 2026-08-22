@@ -225,7 +225,7 @@ admiralonco 1.5.0
 admiralophtha 1.5.0
 admiralpeds 0.4.0
 admiralvaccine 0.6.0
-admisc 0.40
+admisc 0.41
 AdMit 2.1.12
 admix 2.6.1
 AdmixPoly 1.0.1
@@ -869,7 +869,7 @@ assertHE 1.0.1
 assertions 0.3.0
 assertr 3.0.1
 assertthat 0.2.1
-assessor 1.3.1
+assessor 1.3.2
 AssetPricing 1.0-3
 assignPOP 1.3.1
 assignR 2.4.3
@@ -4582,7 +4582,7 @@ DDESONN 7.1.11
 DDHFm 1.1.4
 ddi 0.1.0
 ddiv 0.1.1
-DDIwR 0.19
+DDIwR 0.20
 DDL 1.0.2
 DDM 1.0-0
 ddml 0.3.1
@@ -4625,7 +4625,7 @@ decisionSupport 1.115
 deckgl 0.3.0
 deckglgeoarrow 0.0.2
 deckroadmap 0.1.5
-declared 0.26
+declared 0.27
 DeclareDesign 1.1.1
 decode 1.2
 decoder 1.2.3
@@ -7539,7 +7539,7 @@ funcml 0.7.1
 FunctanSNP 0.1.0
 functional 0.7
 FunctionalCalibration 2.0.0
-functionals 0.5.0
+functionals 0.5.1
 functiondepends 0.2.3
 funData 1.3-9
 fundiversity 1.1.1
@@ -13408,7 +13408,7 @@ MSCMT 1.4.4
 MScombine 1.4
 mscp 1.0
 MSCquartets 3.3
-MSCsimtester 1.1
+MSCsimtester 1.2
 mscstexta4r 0.1.2
 mscstts 0.6.4
 mscsweblm4r 0.1.2
@@ -17434,7 +17434,7 @@ ravel 0.1.4
 ravelRy 0.1.0
 raven.rdf 0.2.0
 RavenR 2.2.4
-ravepipeline 0.1.0
+ravepipeline 0.2.0
 rAverage 0.5-8
 ravetools 0.3.0
 raw 0.1.8
@@ -22516,7 +22516,7 @@ ternvis 1.3
 terra 1.9-34
 terrainmeshr 1.0.1
 terrainr 0.7.6
-terralink 1.8.0
+terralink 1.8.2
 TesiproV 0.9.6
 tesouror 0.3.0
 tesselle 1.7.0
@@ -23451,7 +23451,7 @@ tvcure 0.6.6
 tvdenoising 1.0.0
 tvem 1.4.1
 tvgarch 2.4.3
-tvGarchKF 0.0.1
+tvGarchKF 1.0.0
 tvm 0.5.2
 tvmComp 1.0.2
 tvmediation 1.1.1

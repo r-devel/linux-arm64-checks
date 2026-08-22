@@ -1097,7 +1097,7 @@ badger 0.2.5
 badp 0.6.0
 baf 0.0.4
 baffle 0.2.2
-bage 0.10.9
+bage 0.10.10
 bagged.outliertrees 1.0.0
 baggingbwsel 1.1
 baggr 0.8.2
@@ -1946,7 +1946,7 @@ bmet 0.1.0
 bmgarch 2.1.0
 bmggum 0.1.0
 BMisc 1.4.9
-BMIselect 1.0.4
+BMIselect 1.0.9
 bmixture 1.7
 bml 0.9.0
 bmlm 1.3.15
@@ -10683,7 +10683,7 @@ jstager 0.0.6
 jsTree 1.2
 jsTreeR 2.6.0
 JSUparameters 1.0.0
-jsutils 0.3.0
+jsutils 0.4.0
 jtdm 0.1-3
 jti 1.0.0
 jtools 2.3.1
@@ -12970,7 +12970,7 @@ mlr 2.19.3
 mlr3 1.8.0
 mlr3batchmark 0.2.2
 mlr3benchmark 0.1.8
-mlr3cluster 0.4.1
+mlr3cluster 0.5.0
 mlr3data 0.9.0
 mlr3db 0.7.2
 mlr3fairness 0.4.0
@@ -13510,7 +13510,7 @@ MultANOVA 1.1.0
 MultBiplotR 25.11.15
 multbxxc 1.0.3
 multChernoff 1.0.0
-multcomp 1.4-31
+multcomp 1.4-32
 multcompView 0.1-12
 multDM 1.1.5
 multe 1.1.0
@@ -13959,7 +13959,7 @@ nestedLogit 0.4.2
 NestedMenu 0.2.0
 nestedpp 0.2.0
 nestfs 1.0.3
-Nestimate 0.8.0
+Nestimate 0.8.5
 NestMRMC 1.0
 nestr 0.1.2
 net4pg 0.1.2
@@ -15272,7 +15272,7 @@ partR2 0.9.2
 partsm 1.1-5
 parttime 0.1.2
 parttree 0.1.3
-party 1.3-21
+party 1.3-22
 partycoloR 0.2.0
 partykit 1.2-29
 parzer 0.4.4
@@ -15310,7 +15310,7 @@ PathwaySpace 1.5.0
 PathwayVote 0.1.3
 PatientGenerator 0.1.4
 PatientLevelPrediction 6.6.0
-PatientProfiles 1.6.0
+PatientProfiles 1.6.1
 patientProfilesVis 2.0.10
 patrick 0.3.1
 pattern.checks 0.1.0
@@ -15857,7 +15857,7 @@ pkgdepR 1.1.1
 pkgdiff 1.0.4
 pkgdown 2.2.1
 pkgdown.offline 0.1.3
-pkgfilecache 0.1.5
+pkgfilecache 0.2.0
 pkggraph 0.3.1
 pkgGraphR 0.3.1
 pkgKitten 0.2.4
@@ -16747,7 +16747,7 @@ ptvapi 2.0.5
 ptw 1.9-17
 ptwikiwords 0.0.3
 PTwins 0.1.1
-PTXQC 1.1.5
+PTXQC 1.1.6
 ptycho 1.1-5
 pubchem.bio 1.0.5
 PubChemR 3.0.0
@@ -17087,7 +17087,7 @@ quickblock 0.2.2
 quickcheck 0.1.3
 quickcode 1.1.0
 QuickExplore 0.1.0
-QuickJSR 1.10.0
+QuickJSR 1.11.0
 quickmatch 0.2.3
 quickNmix 1.1.1
 quickOutlier 0.1.5
@@ -17704,7 +17704,7 @@ rCTOOL 3.1.0
 RCTRecruit 0.2.0
 RCTrep 1.2.0
 RCTS 0.2.4
-RCurl 1.98-1.19
+RCurl 1.98-1.20
 Rcurvep 1.3.2
 RCytoGPS 1.2.13
 RCzechia 1.12.10
@@ -19052,7 +19052,7 @@ Rprofet 3.1.1
 rprofile 0.4.0
 rprojroot 2.1.1
 rprojtree 1.0.0
-RProtoBuf 0.4.27
+RProtoBuf 0.4.28
 RPscoring 0.1.0
 rpsftm 1.2.9
 RPtests 0.1.5
@@ -19474,7 +19474,7 @@ S3VS 1.0
 S4DM 0.0.2
 S7 0.2.2
 s7contract 0.1.0
-S7schema 0.1.1
+S7schema 0.1.2
 saber 0.7.2
 sabre 0.4.3
 saccadr 0.1.3
@@ -19526,7 +19526,7 @@ SAFEPG 0.0.1
 safer 0.2.2
 saferDev 1.0.0
 safestats 0.8.7
-safetensors 0.2.1
+safetensors 0.3.0
 safetyData 1.0.0
 SafeVote 1.0.2
 safuzzy 0.1.1
@@ -20758,7 +20758,7 @@ Sleuth3 1.0-6
 slfm 1.0.2
 SLFPCA 3.0
 slgf 2.0.0
-SLGP 1.0.2
+SLGP 1.1.0
 SLHD 2.1-1
 SLIC 0.3
 SlicedLHD 1.0
@@ -21005,7 +21005,7 @@ solvency2rfr 0.1.0
 SolveSAPHE 2.1.0
 som 0.3-5.2
 som.nn 1.4.4
-soma 1.2.0
+soma 1.2.1
 SomaDataIO 6.6.1
 somaticflags 0.1.0
 SOMbrero 1.5.0
@@ -21496,7 +21496,7 @@ SSAforecast 0.1.1
 ssanv 1.1
 Ssarkartrim 1.0.0
 ssBartik 0.1.1
-SSBtools 1.8.7
+SSBtools 1.8.8
 ssc 2.1-0
 sscor 0.2.1
 SscSrs 0.1.0
@@ -21591,7 +21591,7 @@ stagsynth 0.1.0
 StakeholderAnalysis 1.2
 StAMPP 1.6.3
 stampr 0.3.1
-stan4bart 0.0-12
+stan4bart 0.0-13
 STAND 2.0
 standardize 0.2.2
 standardlastprofile 2.0.1
@@ -21967,7 +21967,7 @@ supercompress 1.1
 superdiag 2.0
 SuperExactTest 1.2.0
 SuperGauss 2.0.4
-SuperLearner 2.0-40
+SuperLearner 2.0-41
 supernova 3.0.2
 superpc 1.12
 SuperpixelImageSegmentation 1.0.6
@@ -23853,7 +23853,7 @@ VCBART 1.2.5
 vccp 0.1.1
 vcd 1.4-14
 vcd2df 1.0.1
-vcdExtra 0.9.7
+vcdExtra 0.9.8
 vcfheader 0.1.0
 vcfppR 0.8.4
 vcfR 1.16.0
@@ -24567,7 +24567,7 @@ xlsx2dfs 0.1.0
 xlsxjars 0.9.0
 xmap 0.1.0
 xmeta 1.3.3
-XML 3.99-0.23
+XML 3.99-0.24
 xml2 1.6.0
 XML2R 0.0.9
 xml2relational 0.1.1

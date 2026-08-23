@@ -1,4 +1,0 @@
-ERROR: dependencies ‘ape’, ‘Rcpp’, ‘gplots’ are not available for package ‘BAMMtools’
-Perhaps try a variation of:
-install.packages(c('ape', 'Rcpp', 'gplots'))
-* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/BAMMtools’

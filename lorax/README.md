@@ -1,6 +1,6 @@
 # lorax 0.1.0
 
-Latest run: 2026-08-16: https://github.com/r-devel/linux-arm64-checks/actions/runs/31918768173
+Latest run: 2026-08-23: https://github.com/r-devel/linux-arm64-checks/actions/runs/32609940076
 
 ```
 Package: lorax

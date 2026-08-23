@@ -1,6 +1,6 @@
 # glmMisrep 0.1.2
 
-Latest run: 2026-08-21: https://github.com/r-devel/linux-arm64-checks/actions/runs/32437476527
+Latest run: 2026-08-23: https://github.com/r-devel/linux-arm64-checks/actions/runs/32609687750
 
 ```
 Package: glmMisrep

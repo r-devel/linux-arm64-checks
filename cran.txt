@@ -1117,7 +1117,7 @@ baldur 0.0.4
 Ball 1.3.13
 BALLI 0.2.0
 BallMapper 0.2.0
-balnet 0.0.3
+balnet 0.0.4
 BaM 1.0.3
 bama 1.3.1
 BAMBI 2.3.7
@@ -2581,7 +2581,7 @@ causens 0.0.3
 caustests 1.1.1
 CautiousLearning 1.0.1
 CAvariants 6.0
-caverify 0.1.2
+caverify 0.1.3
 caviarpd 0.3.22
 cayleyR 0.2.6
 CB2 1.3.8
@@ -4633,7 +4633,7 @@ decomposedPSF 0.2
 DecomposeR 1.0.7
 decompositionLE 1.0.0
 decompr 6.9.0
-deconvolveR 1.2-1
+deconvolveR 1.2-2
 decor 1.0.2
 DecorateR 0.1.2
 decorators 0.3.0
@@ -5359,7 +5359,7 @@ drglm 1.1
 DRHotNet 2.3
 drhur 2.0.1
 drhutools 1.1.1
-dRiftDM 0.3.2
+dRiftDM 0.3.3
 drifter 0.2.1
 DrillR 0.1
 drimmR 1.0.3
@@ -5818,7 +5818,7 @@ EDOtrans 0.3.5
 edr4r 0.1.1
 edstan 1.1.0
 EdSurvey 4.0.7
-educabR 1.0.0
+educabR 1.1.0
 educationdata 0.1.5
 educationR 0.1.0
 educineq 0.1.0
@@ -7079,7 +7079,7 @@ fitteR 0.2.0
 FitUltD 3.1.0
 fitur 0.6.2
 fitVARMxID 1.0.5
-fitzRoy 1.7.0
+fitzRoy 1.8.0
 fivethirtyeight 0.6.2
 fixedCV 0.1.0
 FixedPoint 0.6.3
@@ -7375,7 +7375,7 @@ fpow 0.0-3
 fpp2 2.5.1
 fpp3 1.0.3
 fpROC 0.1.0
-FPScausal 0.1.0
+FPScausal 0.1.1
 fpsim 0.2.0
 fptdApprox 2.5
 fqacalc 1.1.1
@@ -8710,9 +8710,9 @@ goweragreement 1.0-1
 GowerSom 0.1.0
 goxygen 1.4.5
 gp 1.1
-gp3bayes 0.1.1
-gp3ml 0.1.0
-gp3sequences 0.1.0
+gp3bayes 0.5.0
+gp3ml 0.3.0
+gp3sequences 0.3.0
 gp3tools 2.3.0
 GPAbin 1.1.1
 gpairs 1.4.0
@@ -8721,7 +8721,7 @@ GPArotateDF 2026.6-1
 GPArotation 2026.8-2
 GPBayes 0.1.0-6
 gpbiometrics 0.1.0
-gpboost 1.7.2
+gpboost 1.7.4
 gpbStat 0.4.4
 gpciEMprogII 0.1.0
 gpcihybridII 0.1.0
@@ -10084,6 +10084,7 @@ IndTestPP 3.0
 industRial 0.1.0
 ineapir 0.2.6
 inecolr 0.1.0
+inedemogR 0.1.0
 ineptr2 0.3.1
 ineq 0.2-13
 ineq.2d 0.1.0
@@ -10493,7 +10494,7 @@ ivdesc 1.1.2
 ivDiag 1.0.6
 IVDML 1.0.1
 ivdoctr 1.0.1
-ivdtools 0.1.2
+ivdtools 0.1.3
 ivgets 0.1.2
 ivgls 0.1.0
 ivmodel 1.9.1
@@ -11240,6 +11241,7 @@ leiden 0.4.3.1
 leidenAlg 1.1.8
 leidenbase 0.1.37
 leiv 2.0-7
+LeLogicielR 1.2.3
 LeMaRns 0.1.2
 lemna 1.0.2
 lemon 0.5.2
@@ -12616,7 +12618,7 @@ mhurdle 1.3-2
 mi 1.3.1
 mi4p 1.3
 MIAmaxent 1.4.1
-miapack 0.1.0
+miapack 0.2.0
 MIC 2.0.1
 micar 1.2.0
 micd 1.1.2
@@ -14823,7 +14825,7 @@ opticskxi 1.2.2
 opticut 0.1-4
 optifunset 1.0
 optim.functions 0.1
-OptimalBinningWoE 1.0.8
+OptimalBinningWoE 1.13.3
 OptimalCutpoints 1.1-5
 OptimalDesign 1.0.3
 optimall 1.4.0
@@ -14951,6 +14953,7 @@ orthanc 0.3.0
 orthGS 0.1.8
 orthoDr 0.6.8
 orthogonalsplinebasis 0.1.7
+orthoMTL 0.1.0
 OrthoPanels 1.2-4
 orthopolynom 1.0-6.1
 ORTSC 1.0.0
@@ -15471,7 +15474,7 @@ PeakSegOptimal 2024.10.1
 pearson7 1.0-3
 PearsonDS 1.3.2
 PearsonICA 1.2-5
-PEAXAI 1.0.2
+PEAXAI 1.0.3
 pec 2025.06.24
 pecan 0.1.0
 pecanr 0.3.1
@@ -15696,7 +15699,7 @@ phoenix 1.1.3
 phonenumber 0.2.3
 phonetisr 0.1.0
 PhoneValidator 1.0.1
-phonics 1.3.10
+phonics 1.4.0
 phonR 1.0-7
 phonTools 0.2-2.2
 phontrast 2.4.0
@@ -19855,6 +19858,7 @@ SDALGCP2 0.1.1
 sdamr 0.2.0
 SDAR 0.9-55
 SDAResources 0.1.1
+sdbuildR 2.2.3
 sdc.redistribute 0.1.0
 sdcHierarchies 0.23.1
 sdcLog 0.5.1
@@ -20751,7 +20755,7 @@ slideimp 1.2.0
 slider 0.3.3
 slideview 0.2.1
 SlidingWindows 0.2.0
-slim 0.1.1
+slim 0.1.2
 SlimR 1.1.8
 slippymath 0.3.1
 slm 1.2.0
@@ -21049,7 +21053,7 @@ SpaceTimeBSS 0.4-0
 SPACO 1.0.2
 SpaCOAP 1.3
 spacyr 1.3.0
-spada 0.1.7
+spada 0.1.8
 SPADAR 1.0
 spAddins 0.2.0
 SpadeR 0.1.1
@@ -23056,7 +23060,7 @@ TPES 1.0.0
 tpfp 0.0.1
 tpglp 0.1.0
 TPLSr 1.0.5
-Tplyr 1.3.3
+Tplyr 1.4.0
 tplyr2 0.2.0
 tpm 2.0.2
 TPmsm 1.2.15
@@ -23106,7 +23110,7 @@ trajeR 1.0
 trajmsm 0.1.5
 trajr 1.5.1
 traktok 0.1.1
-tram 1.4-4
+tram 1.4-5
 tramicp 0.1-0
 TraMineR 2.2-13
 TraMineRextras 0.6.9
@@ -23254,6 +23258,7 @@ trotter 0.6
 trouBBlme4SolveR 0.1.4
 TroublemakeR 0.0.1
 trps 0.1.0
+TRSbook 1.0.4
 TrtCombo.FactorialExp.SR 4.0.4
 trtf 0.4-3
 trtswitch 0.2.7

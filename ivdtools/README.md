@@ -1,6 +1,6 @@
 # ivdtools 0.1.2
 
-Latest run: 2026-08-20: https://github.com/r-devel/linux-arm64-checks/actions/runs/32405392240
+Latest run: 2026-08-23: https://github.com/r-devel/linux-arm64-checks/actions/runs/32609854328
 
 ```
 Package: ivdtools

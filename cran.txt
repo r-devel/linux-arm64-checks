@@ -833,7 +833,7 @@ asciichartr 0.1.0
 asciiruler 0.2
 asciiSetupReader 2.5.3
 ascotraceR 0.0.1
-ascribe 0.1.1
+ascribe 0.2.0
 asd 2.2
 asdreader 0.1-3
 ASGS.foyer 0.3.3
@@ -1172,7 +1172,7 @@ basedosdados 0.2.3
 basefun 1.2-6
 baseline 1.3-7
 baselinenowcast 0.2.0
-baselinr 0.5.0
+baselinr 0.6.0
 basemaps 0.1.1
 basemodels 1.1.0
 basepenguins 0.1.0
@@ -1867,7 +1867,7 @@ blapsr 0.7.0
 blaster 1.0.9
 blastula 0.3.6
 blatent 0.1.3
-blavaan 0.5-10
+blavaan 0.6-1
 Blend 0.1.2
 blendR 1.0.0
 blends 0.1.2
@@ -2975,7 +2975,7 @@ CirceR 1.3.3
 circhelp 1.1
 circle 0.7.4
 circlecorR 0.1.0
-circles 0.1.0
+circles 0.1.2
 CirclesIntersections 1.1
 circletyper 1.0.2
 circlize 0.4.18
@@ -4939,7 +4939,7 @@ DIFboost 0.4
 difconet 1.0-4
 diffcor 0.8.4
 DiffCorr 0.4.5
-diffcp 0.1.1
+diffcp 0.1.2
 diffdf 1.1.2
 diffdfs 0.9.0
 diffdriver 0.1.7
@@ -14038,7 +14038,7 @@ neuralsbi 0.3.2
 NeuralSens 1.1.3
 neurobase 1.34.0
 neuroblastoma 2023.9.3
-NeuroDataSets 0.3.0
+NeuroDataSets 0.3.1
 NeuroDecodeR 0.2.0
 neurohcp 0.12.0
 neuroim 0.0.6
@@ -20934,7 +20934,7 @@ social 1.0
 socialdrift 0.1.0
 SocialFacts 1.3.0
 socialh 0.1.1
-socialmixr 0.6.0
+socialmixr 0.7.0
 socialranking 1.2.0
 socialrisk 0.5.1
 socialSim 0.1.9
@@ -23799,7 +23799,7 @@ varImp 0.4
 vaRiskScore 2.0.0
 varitas 0.0.2
 varoc 1.0.0
-varPro 3.1.0
+varPro 3.2.0
 VarRedOpt 0.1.0
 VarReg 2.0
 vars 1.6-1
@@ -24637,7 +24637,7 @@ yhat 2.0-5
 YieldCurve 5.1
 yieldcurves 0.1.0
 yll 1.0.0
-ymd 0.1.5
+ymd 0.1.7
 Ymisc 0.1.0
 ymlthis 1.0.0
 ympes 1.9.0

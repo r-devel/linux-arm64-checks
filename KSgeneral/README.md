@@ -1,6 +1,6 @@
 # KSgeneral 2.0.2
 
-Latest run: 2026-08-16: https://github.com/r-devel/linux-arm64-checks/actions/runs/31918038381
+Latest run: 2026-08-23: https://github.com/r-devel/linux-arm64-checks/actions/runs/32609129284
 
 ```
 Package: KSgeneral

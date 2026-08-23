@@ -10120,7 +10120,7 @@ influence.SEM 2.4
 influenceAUC 0.1.2
 InfluenceBorrowing 0.1.0
 influenceR 0.1.5
-influential 2.3.1
+influential 2.3.2
 influxdbr 0.14.2
 infocausality 1.1
 infoelectoral 1.0.3

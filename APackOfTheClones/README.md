@@ -1,6 +1,6 @@
 # APackOfTheClones 1.3.0
 
-Latest run: 2026-08-22: https://github.com/r-devel/linux-arm64-checks/actions/runs/32565569048
+Latest run: 2026-08-23: https://github.com/r-devel/linux-arm64-checks/actions/runs/32608788840
 
 ```
 Package: APackOfTheClones

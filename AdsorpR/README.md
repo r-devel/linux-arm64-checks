@@ -1,6 +1,6 @@
 # AdsorpR 0.1.0
 
-Latest run: 2026-08-22: https://github.com/r-devel/linux-arm64-checks/actions/runs/32562240214
+Latest run: 2026-08-23: https://github.com/r-devel/linux-arm64-checks/actions/runs/32608877698
 
 ```
 Package: AdsorpR

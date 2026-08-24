@@ -513,7 +513,7 @@ AmesHousing 0.0.4
 AmigaFFH 0.4.8
 AMIM 1.0.0
 AMISforInfectiousDiseases 0.1.0
-ammiBayes 2.1-1
+ammiBayes 2.2-0
 AMModels 0.1.4
 AmmoniaConcentration 0.1
 aMNLFA 1.1.2
@@ -2759,7 +2759,7 @@ ceterisParibus 0.6
 cevcmm 0.1.4
 cfa 0.10-2
 CFAcoop 1.0.0
-cfbfastR 2.0.0
+cfbfastR 3.0.0
 CFC 1.2.1
 cfda 0.12.1
 cfdecomp 0.4.0
@@ -3718,7 +3718,7 @@ ConversationAlign 0.4.1
 conversim 0.1.0
 convertBCD 1.0
 convertbonds 0.1.0
-convertid 0.3.4
+convertid 0.4.0
 ConvertPar 0.1
 convertr 0.1
 convevol 2.2.1
@@ -8358,7 +8358,7 @@ ggsurveillance 0.5.2
 ggsurvey 1.0.0
 ggsurvfit 1.2.1
 ggswissmaps 0.1.2
-ggtaichi 0.1.0
+ggtaichi 0.2.0
 ggtangle 0.1.2
 ggtea 0.1.1
 ggtern 4.0.0
@@ -9161,7 +9161,7 @@ harmonicmeanp 3.0.1
 harmonizer 0.3.2
 harmony 2.0.5
 harmonydata 0.3.2
-harness 0.1.0
+harness 0.2.0
 HARplus 1.2.0
 HARr 1.1.0
 harrietr 0.2.3
@@ -9540,7 +9540,7 @@ hours2lessons 0.1.4
 housingData 0.3.0
 hover 0.1.1
 howler 0.3.0
-howManyImputations 0.2.5
+howManyImputations 0.2.6
 howzatR 1.0.2
 hpa 1.3.4
 hpackedbubble 0.1.0
@@ -9984,7 +9984,7 @@ iMediate 0.5.5
 imf.data 0.2.0
 imfapi 0.1.2
 ImFoR 0.1.0
-imfweo 0.1.0
+imfweo 0.2.0
 imgpalr 0.4.0
 imgrec 0.1.4
 IMIFA 2.2.0
@@ -11588,7 +11588,7 @@ logconcens 0.17-4
 logcondens 2.1.9
 logcondiscr 1.0.7
 logcumulant 0.1.0
-logger 0.4.2
+logger 0.4.3
 logging 0.10-111
 loggit2 2.4.0
 logib 0.2.1
@@ -13802,7 +13802,7 @@ MYIS 0.1.0
 MyoScore 1.0.1
 myownrobs 1.0.0
 myrror 0.1.2
-myTAI 2.3.6
+myTAI 2.3.7
 mzipmed 1.4.0
 n1qn1 6.0.1-14
 N2H4 0.8.4
@@ -17417,7 +17417,7 @@ rasterize 0.1
 rasterKernelEstimates 1.0.2
 rasterList 0.5.21
 rasterpdf 0.1.1
-rasterpic 0.5.1
+rasterpic 1.0.0
 rasterVis 0.51.7
 RAT 0.3.1
 ratdat 1.1.0
@@ -21063,7 +21063,7 @@ spacefillr 0.4.0
 spacemodR 0.1.3
 spacesRGB 1.7-0
 spacesXYZ 1.6-0
-spacetime 1.3-3
+spacetime 1.3-4
 SpaceTimeBSS 0.4-0
 SPACO 1.0.3
 SpaCOAP 1.3
@@ -21079,7 +21079,7 @@ spaMM 4.6.65
 spanish 0.4.2
 spanishoddata 0.2.6
 spANOVA 0.99.4
-spant 4.3.0
+spant 4.4.0
 spantest 1.1-3
 sparcl 1.0.4
 spareg 1.1.1
@@ -22706,7 +22706,7 @@ Tides 2.1.1
 TideTables 0.0.3
 tidier 0.2.0
 tidyactuarial 0.1.6
-tidyAML 0.0.6
+tidyAML 0.0.8
 tidyaudit 0.2.1
 tidybayes 3.0.7
 tidyBdE 0.7.0
@@ -24547,7 +24547,7 @@ XGeoRTR 0.7.0
 xgrove 0.1-15
 xgxr 1.1.6
 xhaz 2.1.0
-xiacf 0.6.2
+xiacf 0.6.5
 XICOR 0.4.1
 ximage 0.1.0
 XiMpLe 0.11-3

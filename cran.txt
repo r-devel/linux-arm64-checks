@@ -289,7 +289,7 @@ afmToolkit 1.0.0
 afpt 1.1.0.4
 AFR 0.3.9
 africamonitor 0.2.4
-aftables 2.0.1
+aftables 2.1.0
 aftgee 1.2.1
 afthd 1.1.0
 aftPenCDA 0.1.1
@@ -1331,7 +1331,7 @@ bayesPop 12.0-1
 BayesPostEst 0.4.0
 BayesPower 1.0.5
 BayesPPD 1.1.3
-BayesPPDSurv 1.0.3
+BayesPPDSurv 1.0.4
 BayesPPR 0.1.0
 BayesProject 1.0
 bayesqm 0.2.0
@@ -2352,7 +2352,7 @@ cairovolt 1.0.0
 CAISEr 1.0.17
 calACS 2.2.2
 CALANGO 1.0.20
-calba 0.1.2
+calba 0.1.3
 calcal 1.0.4
 calcite 1.0.0
 CalcThemAll.PRM 1.1.1
@@ -2573,6 +2573,7 @@ causalreg 0.1.2
 causalsens 0.1.3
 causalSLSE 0.4-1
 CausalSpline 0.1.0
+CausalState 0.10.2
 causalweight 1.1.5
 causalWins 0.1.0
 CausCor 0.1.3
@@ -3545,6 +3546,7 @@ compositional.mle 2.0.0
 CompositionalClust 1.3
 CompositionalHDDA 1.0
 CompositionalML 1.0
+CompositionalMPT 1.0
 CompositionalNAimp 1.1
 CompositionalRF 1.6
 CompositionalSR 1.4
@@ -4389,7 +4391,7 @@ DAST 0.1.0
 dat 0.7.0
 data.checker 2.0.0
 data.sketches 0.1.0
-data.table 1.18.4
+data.table 1.18.6.1
 data.table.threads 1.0.1
 data.tree 1.2.0
 data.validator 0.2.1
@@ -5276,7 +5278,7 @@ DoubleCone 1.1
 DoubleExpSeq 1.1
 DoubleML 1.0.2
 doubt 0.1.0
-douconca 1.2.5
+douconca 1.2.5.1
 doudpackage 2.1.0
 DOvalidation 1.1.0
 DOVE 1.11
@@ -8138,7 +8140,7 @@ ggchangepoint 0.3.0
 ggcharts 0.2.1
 ggChernoff 0.3.0
 ggChinaFlag 0.3.0
-ggchord 0.2.0
+ggchord 0.8.0
 ggchord2 0.0.1
 ggcircular 0.1.0
 GGClassification 0.1
@@ -8187,7 +8189,7 @@ ggfootball 0.3.0
 ggforce 0.5.0
 ggforestplotR 0.3.1
 ggformula 1.0.1
-ggfortify 0.4.19
+ggfortify 0.4.22
 ggfoundry 0.3.1
 ggfun 0.2.1
 ggfx 1.0.3
@@ -8941,7 +8943,7 @@ grpSLOPE 0.3.4
 GrpString 0.5.1
 GRShiny 1.0.1
 GRSxE 1.0.1
-grt 0.2.1
+grt 0.2.2
 grumpy 0.1.1
 grwat 0.1
 GSA 1.03.3
@@ -9169,7 +9171,7 @@ hassediagrams 2.1
 hatchR 1.0.1
 hatemicoint 1.0.1
 hatsurvey 1.1.1
-HausdorffGoF 0.3.0
+HausdorffGoF 0.3.1
 havel 0.1.2
 haven 2.5.5
 HawaSpatial 0.1.10
@@ -11705,7 +11707,7 @@ LRMF3 0.1.0
 LRMiss 0.0.1
 LRQVB 1.0.0
 lrstat 0.3.2
-LRTesteR 1.3.1
+LRTesteR 2.0.0
 LS2W 1.3.7
 LS2Wstat 2.1-5
 lsa 0.73.4
@@ -12559,7 +12561,7 @@ mFD 1.0.7
 mfdb 7.4-0
 MFDFA 1.1
 mFDP 0.2.2
-MFF 0.2.0
+MFF 0.2.3
 mfGARCH 0.2.2
 mFilter 0.1-5
 mFLICA 0.1.7
@@ -12891,7 +12893,7 @@ MixtureMissing 3.0.6
 MixTwice 2.0
 mixvlmc 0.2.2
 mize 0.2.5
-mizer 3.2.1
+mizer 3.3.0
 MJMbamlss 0.1.0
 mKBO 0.1.0
 MKclass 0.5
@@ -12975,7 +12977,7 @@ mlr3db 0.7.2
 mlr3fairness 0.4.0
 mlr3fda 0.7.2
 mlr3filters 0.9.1
-mlr3forecast 0.1.0
+mlr3forecast 0.2.0
 mlr3fselect 1.7.0
 mlr3hyperband 1.1.1
 mlr3inferr 0.2.2
@@ -14497,6 +14499,7 @@ nwsrfsr 1.0.3
 nycflights13 1.0.2
 nycflights23 0.2.0
 nycOpenData 0.2.3
+nysOpenData 0.1.3
 nzffdr 2.1.0
 nzilbb.labbcat 1.5-1
 nzilbb.vowels 0.4.3
@@ -14571,7 +14574,7 @@ oddnet 0.1.2
 odds.converter 1.4.8
 odds.n.ends 0.1.4
 oddsapiio 0.1.1
-oddsapiR 0.0.3
+oddsapiR 1.0.0
 OddsPlotty 1.0.2
 oddsratio 2.0.2
 oddstream 0.5.0
@@ -14668,7 +14671,7 @@ omsvg 0.1.0
 omu 1.1.2
 onadata 0.1
 OnAge 1.0.2
-ONAM 1.0.1
+ONAM 1.1.0
 onbabynames 0.0.1
 onbrand 1.0.8
 once 0.4.1
@@ -17302,7 +17305,7 @@ randomizr 1.0.1
 randomLCA 1.1-4
 randomMachines 0.1.1
 randomNames 1.6-0.0
-randompack 0.1.3
+randompack 0.1.10
 RandomProjectionTest 0.1.4
 randomUniformForest 1.1.6
 Randomuseragent 0.0.1
@@ -17389,7 +17392,7 @@ rarms 1.0.0
 rARPACK 0.11-0
 RARtrials 0.0.2
 RAS 1.0.3
-rasch 1.11.7
+rasch 1.12.0
 RaschSampler 0.8-10
 rasciidoc 4.1.1
 RaSEn 3.0.0
@@ -17842,6 +17845,7 @@ realtest 0.2.3
 realTimeloads 1.0.0
 RealVAMS 0.4-6
 ream 1.0-12
+reapeR 0.2.0
 reappraised 0.2
 Rearrangement 2.1
 rearrr 0.3.5
@@ -17866,7 +17870,7 @@ recexcavAAR 0.3.0
 recforest 1.0.2
 rechaRge 1.0.0
 rechonest 1.2
-recipes 1.3.3
+recipes 1.4.0
 reclin2 0.6.0
 recluster 3.5
 recmap 1.0.20
@@ -17965,7 +17969,7 @@ regcorr 0.1.0
 regda 1.0
 RegDDM 1.1
 regDIF 1.1.1
-RegEnRF 1.0.0
+RegEnRF 2.0.1
 regexSelect 1.0.0
 regextable 0.1.1
 reghelper 1.1.2
@@ -21672,7 +21676,7 @@ stats19 4.1.0
 stats4teaching 0.1.0
 statsapps 0.1.0
 statsearchanalyticsr 0.1.4
-statsExpressions 2.1.0
+statsExpressions 2.1.1
 statsr 0.3.0
 StatsTFLValR 1.0.0
 statswalesr 1.0.0
@@ -22796,7 +22800,7 @@ tidysummary 0.1.0
 tidysynth 0.2.1
 tidysynthesis 0.1.3
 tidytable 0.11.2
-tidyterra 1.2.0
+tidyterra 1.3.0
 tidytext 0.4.3
 tidytitanic 0.0.1
 tidytlg 0.12.0

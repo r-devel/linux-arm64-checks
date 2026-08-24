@@ -6,7 +6,6 @@ AutoWMM,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEA
 BioStatR,4.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/BioStatR
 DPQ,0.6-1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/DPQ
 ECOSolveR,0.6.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ECOSolveR
-HausdorffGoF,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/HausdorffGoF
 ROI.plugin.qpoases,1.0-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ROI.plugin.qpoases
 RSSL,0.9.8,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RSSL
 RTriangle,1.6-0.15,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/RTriangle

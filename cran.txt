@@ -7297,7 +7297,7 @@ forestat 1.1.0
 forestBalance 0.1.0
 forestControl 0.2.2
 ForestDisc 0.1.0
-forestecology 0.2.2
+forestecology 0.2.3
 forested 0.2.0
 ForestElementsR 3.0.0
 forestError 1.1.0
@@ -8466,7 +8466,7 @@ gkmSVM 0.83.0
 gKRLS 1.0.4
 gkrreg 0.4.0
 gkwdist 1.1.5
-gkwreg 2.1.14
+gkwreg 2.1.18
 glam 1.0.2
 glarma 1.7-1
 Glarmadillo 1.1.1
@@ -8844,7 +8844,7 @@ GreedyExperimentalDesign 1.6.1
 GreedyExperimentalDesignJARs 1.0
 greekLetters 1.0.4
 greeks 1.5.6
-greenbook 0.1.0
+greenbook 0.1.1
 greenclust 1.1.1
 greencrab.toolkit 0.2
 GREENeR 1.0.2
@@ -8881,7 +8881,7 @@ gridGeometry 0.4-0
 gridGraphics 0.5-1
 gridGraphviz 0.3-2
 gridify 0.8.1
-gridmicrotex 0.1.0
+gridmicrotex 0.1.1
 GridOnClusters 0.4.1
 gridOT 1.0.2
 gridpattern 1.4.2
@@ -9850,7 +9850,7 @@ idiffomix 1.0.0
 iDIFr 1.0.1
 iDINGO 1.0.4
 idiogramFISH 2.0.13
-idiographic 0.3.2
+idiographic 0.3.4
 idiolect 1.2.0
 idionomics 0.1.0
 IDLFM 1.0.0
@@ -14527,6 +14527,7 @@ oblicubes 1.0.1
 obliqueRSF 0.1.2
 obm 2.1
 OBMbpkg 1.0.0
+obr 0.6.2
 obrasgovr 0.1.0
 OBRE 0.2-0
 Observation 0.3.0
@@ -17367,7 +17368,7 @@ rapport 1.2
 rapportools 1.2
 rappsflyer 0.3.2
 rapr 1.1.3
-rapsimng 0.5.0
+rapsimng 0.6.0
 rapsimng.decide.core 0.1.0
 raptools 1.23.0
 RAPTOR 1.0.1
@@ -24301,6 +24302,7 @@ WH 2.0.0
 whalestrike 0.6.2
 whapi 0.0.2
 WhatIf 1.5-11
+whatifbandit 1.0.3
 WhatsR 1.0.6
 whatthreewords 0.1.3
 wheatmap 0.2.4

@@ -1493,7 +1493,6 @@ beeswarm 0.4.0
 beezdemand 0.2.0
 beezdiscounting 0.3.2
 befproj 0.1.1
-behaviorchange 25.8.0
 behavr 0.3.3
 BEKKs 1.4.7
 belex 0.1.0
@@ -4281,7 +4280,7 @@ cvsem 1.0.0
 CVST 0.2-3
 CVThresh 1.1.2
 cvTools 0.3.3
-CVXR 1.9.1
+CVXR 1.9.2
 cwot 0.1.0
 CWT 0.2.3
 cxr 1.1.1
@@ -4350,7 +4349,7 @@ DAKS 2.1-3
 DALEX 2.5.4
 DALEXtra 2.3.1
 DALSM 0.9.1
-daltoolbox 1.3.767
+daltoolbox 1.3.777
 daltoolboxdp 1.3.767
 DALY 1.5.0
 dam 0.0.1
@@ -4680,7 +4679,7 @@ degross 0.9.0
 DEHOGT 0.99.0
 deident 1.0.0
 dejaVu 0.3.1
-Delaporte 8.4.3
+Delaporte 9.0.0
 delarr 0.1.0
 delaydiscount 0.0.1
 delayed 0.5.0
@@ -4714,7 +4713,7 @@ demovuln 0.1.0
 demulticoder 0.1.2
 dendextend 1.19.1
 dendRoAnalyst 0.1.6
-dendroextras 0.2.3
+dendroextras 0.2.4
 DendroFlux 1.0.3
 dendrometeR 1.1.1
 dendrometry 0.0.4
@@ -5327,7 +5326,7 @@ dQTG.seq 1.0.2
 dr 3.0.11
 DR.SC 3.7
 dr4pl 2.0.0
-dracor 0.2.6
+dracor 0.2.7
 dragmapr 0.2.0
 dragonking 0.1.0
 dragracer 0.1.7
@@ -10434,7 +10433,7 @@ isopam 3.6
 isopleuros 1.4.0
 IsoplotR 7.0
 IsoplotRgui 7.0
-isoreader2 0.6.1
+isoreader2 0.7.0
 IsoriX 0.9.4
 IsoSpecR 2.3.3
 isoSurv 0.3.0
@@ -11435,7 +11434,7 @@ listWithDefaults 1.2.0
 lit 1.0.1
 lite 1.1.1
 litedown 0.10
-liteformats 0.1.0
+liteformats 0.2.0
 liteq 1.1.0
 literanger 0.2.0
 LitFetchR 1.0.0
@@ -12881,7 +12880,7 @@ mixSPE 0.9.3
 mixsqp 0.3-54
 mixSSG 2.1.1
 MixStable 0.1.0
-mixtime 0.2.0
+mixtime 0.3.0
 mixtools 2.0.0.1
 mixtox 1.5.0
 mixtree 0.0.1
@@ -17343,7 +17342,7 @@ rankrate 1.2.1
 RankResponse 4.0.0
 RANKS 1.1
 ranktreeEnsemble 0.24
-RANN 2.6.2
+RANN 2.6.3
 RANSAC 0.1.0
 RAP 1.2.2
 Rapi 1.0.6
@@ -18329,7 +18328,7 @@ rgph 0.1.0
 rgplates 0.6.1
 rgraph6 2.0-5
 RGraphics 3.0-2
-RGraphSpace 1.5.0
+RGraphSpace 1.5.2
 rgrass 0.5-3
 RGreenplum 0.1.2
 RGremlinsConjoint 0.9.1
@@ -19037,7 +19036,6 @@ rpql 0.8.3
 rPraat 1.3.2-1
 rPref 1.5.0
 RPregression 0.1.0
-RPresto 1.4.8
 rprime 0.1.3
 rprintf 0.2.1
 RprobitB 1.2.0
@@ -22769,7 +22767,7 @@ tidyplots 0.4.0
 tidyplus 0.2.1
 tidypopgen 0.4.4
 tidyposterior 1.0.2
-tidypredict 1.1.0
+tidypredict 1.1.1
 tidyprf 0.1.1
 tidyprompt 0.4.0
 tidyquant 1.0.12
@@ -23533,7 +23531,6 @@ udpipe 0.8.16
 udunits2 0.13.2.2
 UEI 0.1.0
 ufRisk 1.0.7
-ufs 25.7.1
 UGarima 0.1.0
 ugatsdb 0.2.3
 uGMAR 3.6.1

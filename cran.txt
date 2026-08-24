@@ -18882,7 +18882,7 @@ ROKET 1.0.0
 rolap 2.5.2
 rolescry 0.2.0
 roll 1.2.1
-rollama 0.3.0
+rollama 0.3.1
 rollbar 0.1.0
 rolldown 0.2
 rolleigen 1.0.0

@@ -3659,6 +3659,7 @@ conquestr 1.5.5
 conrad 1.0.0.1
 ConSciR 0.3.0
 ConsensusClustering 1.5.0
+ConsensusCPA 0.1.0
 ConsensusOPLS 1.1.0
 conserveR 1.0.4
 consibiocloudclient 1.0.0
@@ -4067,6 +4068,7 @@ cropgrowdays 0.2.2
 crops 1.0.3
 CropScapeR 1.1.5
 CropWaterBalance 0.2.0
+cropwatMUL 0.1.0
 cropZoning 1.0.3
 CrossCarry 1.2.0
 CrossClustering 4.1.3
@@ -4171,6 +4173,7 @@ CTD 1.3
 CTE 0.1.5
 ctf 0.1.0
 ctgdist 0.1.0
+ctgimme 0.0.12
 ctgt 2.0.1
 cthist 2.1.12
 cthreshER 1.1.0
@@ -5976,7 +5979,7 @@ emBayes 0.1.6
 EMbC 2.0.4
 embed 1.2.2
 EmbedSOM 2.2.1
-embryogrowth 2025.12.22
+embryogrowth 2026.8.24
 emburden 0.6.2
 EMC2 3.5.0
 emcAdr 1.3
@@ -6651,7 +6654,7 @@ falsifyr 1.0.0
 fam.recrisk 0.1
 FAMetA 0.1.7
 FamEvent 3.3
-Familia 1.0.3
+Familia 2.0.0
 familial 1.0.7
 familiar 2.0.3
 Familias 2.6.4
@@ -9087,6 +9090,7 @@ GWpcor 0.1.8
 gwpcormapper 0.1.3
 GWPR.light 1.0.0
 gWQS 3.0.5
+gwrf 0.1.1
 GWRLASSO 0.1.0
 GWRM 2.1.0.4
 gwrpvr 1.0
@@ -9311,6 +9315,7 @@ hellodatascience 0.1.1
 HelloFrog 0.1.1
 helloJavaWorld 0.0-9
 hellokitty 0.1
+hellometry 1.0.1
 hellorust 1.2.3
 HelpersMG 2026.8.24
 helsinki 1.0.6
@@ -15523,6 +15528,7 @@ penalized 0.9-53
 penalizedcdf 0.1.0
 penalizedclr 2.0.0
 penalizedSVM 1.2.0
+PenalReg 0.1.0
 penaltyLearning 2024.9.3
 pencal 2.3.1
 PenCoxFrail 2.0.1
@@ -15824,7 +15830,6 @@ pipeflow 0.3.0
 pipeliner 0.1.1
 pipeR 0.6.1.3
 pipetime 0.0.1
-pipr 1.4.0
 piqp 0.6.2
 piratings 0.1.9
 pisaRT 2.0.2
@@ -18460,7 +18465,7 @@ RiskPortfolios 2.1.8
 riskPredictClustData 0.2.6
 riskRegression 2026.03.11
 risks 0.4.3
-riskscores 1.2.3
+riskscores 1.3.0
 RiskScorescvd 0.3.1
 risksetROC 1.0.4.1
 riskSimul 0.1.2
@@ -19499,7 +19504,7 @@ saeHB.ME.beta 1.1.0
 saeHB.panel 0.1.1
 saeHB.panel.beta 0.1.5
 saeHB.spatial 0.1.1
-saeHB.Spatial.Beta 0.1.0
+saeHB.Spatial.Beta 0.1.1
 saeHB.TF.beta 0.2.0
 saeHB.twofold 0.1.2
 saeHB.unit 0.1.0
@@ -20801,6 +20806,7 @@ SmarterPoland 1.8.1
 smartmap 0.2.0
 SmartMeterAnalytics 1.1.1
 SMARTp 0.1.1
+SmartPK 0.1.0
 smartsheetr 0.1.0
 smartsizer 1.0.3
 smartsnp 1.2.0

@@ -25,6 +25,7 @@ hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/h
 lorax,0.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/lorax
 memuse,4.2-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/memuse
 mig,2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mig
+mispitools,2.0.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mispitools
 mmap,0.6-26,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mmap
 nprcgenekeepr,2.0.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/nprcgenekeepr
 power.nb,0.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/power.nb

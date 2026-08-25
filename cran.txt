@@ -63,7 +63,7 @@ accessr 1.1.3
 accessrmd 1.0.0
 accrual 1.4
 accrualPlot 1.0.10
-AccSamplingDesign 0.0.8
+AccSamplingDesign 0.0.9
 accSDA 1.1.3
 accucor 0.3.1
 accumulate 1.0.0
@@ -1321,7 +1321,7 @@ BayesPET 0.1.0
 BayesPieceHazSelect 1.1.0
 BayesPIM 2.0
 bayesplay 0.9.3
-bayesplot 1.15.0
+bayesplot 1.16.0
 bayespm 0.2.0
 bayespmtools 0.0.2
 bayesPO 0.5.0
@@ -9517,7 +9517,7 @@ homomorpheR 0.3
 HomomorphicEncryption 0.9.0
 HonestDiD 0.2.8
 hood2net 1.0.0
-hoopR 3.0.0
+hoopR 3.1.0
 hopbyhop 3.41
 hopit 0.11.6
 hopkins 1.1
@@ -13856,7 +13856,7 @@ nasaweather 0.1.1
 nascaR.data 3.1.0
 naspaclust 0.2.2
 nat 1.8.26
-nat.nblast 1.6.9
+nat.nblast 1.6.10
 nat.templatebrains 1.2.3
 nat.utils 0.6.1
 natcpp 0.3.1
@@ -14793,7 +14793,7 @@ openNCAI 0.1.0
 openNLP 0.2-8
 openNLPdata 1.5.3-5
 OpeNoise 0.2-18
-OpenRange 0.0.1
+OpenRange 0.0.2
 OpenRepGrid 0.1.18
 OpenRepGrid.ic 0.6.2
 openrouteservice 0.6.2
@@ -24636,7 +24636,7 @@ yahoofinancer 0.5.0
 yaImpute 1.0-36
 YaleToolkit 4.2.3
 yaml 2.3.12
-yaml12 0.1.0
+yaml12 0.2.0
 yamlet 1.3.4
 yamlme 0.1.2
 YangHuiMagic 1.1

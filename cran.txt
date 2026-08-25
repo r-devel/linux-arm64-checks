@@ -141,7 +141,7 @@ adamethods 1.2.1
 adana 1.1.0
 AdapDiscom 1.0.0
 adaplots 0.1.0
-AdapSamp 1.1.1
+AdapSamp 1.2.0
 adapt3 2.0.9
 adapt4pv 0.2-3
 adaptalint 0.2.4
@@ -9916,7 +9916,7 @@ igcop 1.0.2
 igfetchr 0.1.0
 iglm 1.2.5
 iglu 4.2.2
-igoR 1.0.3
+igoR 1.1.0
 IgorR 0.9.0
 IGPFrailty 0.1.0
 igr 1.0.1
@@ -10175,7 +10175,7 @@ InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
 inshiny 0.1.4
-insight 1.5.2
+insight 1.5.3
 InSilicoVA 1.4.2
 InspectChangepoint 1.2
 InspectionPlanner 1.2
@@ -11046,7 +11046,7 @@ LakeMetabolizer 1.5.6
 lakemorpho 1.3.2
 lakhesis 1.1.2
 LAM 0.7-22
-LaMa 2.1.2
+LaMa 2.1.3
 lambda.r 1.2.4
 lambdaTS 1.1
 lambdr 1.2.5
@@ -12593,7 +12593,7 @@ mgcViz 0.2.1
 MGDrivE 1.6.2
 MGDrivE2 2.1.1
 mgee2 0.6
-mggd 1.3.3
+mggd 1.3.7
 mgi.report.reader 0.1.3
 MGL 1.1
 mglasso 0.1.2
@@ -12934,7 +12934,7 @@ mldr 0.4.3
 mldr.datasets 0.4.2
 mldr.resampling 0.2.3
 MLDS 0.5.1
-MLE 1.8
+MLE 1.9
 mlearning 1.2.1
 MLEce 2.1.0
 MLEcens 0.1-7.1
@@ -14281,7 +14281,7 @@ noah 0.1.0
 NobBS 1.1.1
 noctua 2.6.3
 nocturn 1.2.0
-nodbi 0.14.0
+nodbi 0.15.0
 node2vec 0.1.0
 nodeSub 1.2.9
 nodiv 1.4.4

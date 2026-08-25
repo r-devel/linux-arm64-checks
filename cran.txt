@@ -3385,6 +3385,7 @@ CohortCharacteristics 1.1.3
 CohortConstructor 0.6.3
 CohortContrast 1.0.0
 CohortGenerator 1.1.1
+CohortIncidence 4.2.0
 CohortMethod 6.0.3
 CohortPlat 1.0.5
 cohorts 1.3.0
@@ -4592,7 +4593,7 @@ ddModel 0.2.9.0
 ddp 0.0.3
 ddpca 1.1
 ddpcr 1.16.0
-ddplot 0.0.2
+ddplot 0.1.0
 DDPM 0.1.0
 DDPstar 1.0-1
 DDRTree 0.1.6
@@ -4694,6 +4695,7 @@ deliberr 0.1.3
 delimtools 0.2.2
 delma 0.1.2
 Delta 0.2.0.3
+deltabreedquery 1.0.3
 deltaccd 1.0.2
 DeltaMAN 0.5.0
 deltapif 0.4.5
@@ -5372,6 +5374,7 @@ DrImpute 1.0
 DRIP 2.5
 DrivePlotR 0.1.0
 driveR 0.5.0
+DRLAP2 0.1.1
 drlate 0.3.1
 drMAIC 0.1.0
 drmeta 0.2.2
@@ -12279,6 +12282,7 @@ md4r 0.5.3.0
 mda 0.5-5
 mda.biber 1.0.1
 mDAG 1.2.3
+MDaRes 0.0.2
 mdatools 0.16.0
 mdbplyr 0.4.1
 mdbr 0.3.2
@@ -13469,7 +13473,7 @@ mSTEM 1.0-1
 MSTest 0.1.9
 mstherm 0.4.7
 mstknnclust 1.0.0
-mstudentd 1.1.2
+mstudentd 1.1.5
 msu 0.0.1
 MSUthemes 1.0.0
 MSwM 1.5
@@ -16105,7 +16109,7 @@ polarisR 0.1.4
 polaroid 0.2.1
 polarzonoid 0.4-0
 poLCA 1.6.0.2
-poLCAParallel 1.2.7
+poLCAParallel 1.2.9
 poldis 0.1.2
 PolicyPortfolios 0.5
 policytree 1.2.5
@@ -22714,7 +22718,7 @@ tidyactuarial 0.1.6
 tidyAML 0.0.8
 tidyaudit 0.2.1
 tidybayes 3.0.7
-tidyBdE 0.7.0
+tidyBdE 0.7.1
 tidybins 0.1.2
 tidyboot 0.1.3
 tidycat 0.1.2

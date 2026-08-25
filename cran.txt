@@ -1640,7 +1640,7 @@ bigergm 1.2.6
 bigGP 0.1.9
 bigKNN 0.3.0
 BIGL 1.9.3
-biglasso 1.7.0
+biglasso 1.7.2
 bigleaf 0.8.2
 biglm 0.9-3
 biglmm 0.9-3
@@ -3782,7 +3782,7 @@ corels 0.0.5
 CoreMicrobiomeR 0.1.0
 coreNLP 0.4-3
 coreSim 0.2.4
-coresynth 0.4.1
+coresynth 0.5.0
 corHMM 2.8
 corkscrew 1.1
 corlink 1.0.0
@@ -6762,7 +6762,7 @@ fastrep 0.7
 fastrerandomize 0.3
 FastRet 1.3.0
 fastRG 0.4.0
-fastRhockey 0.4.0
+fastRhockey 1.0.0
 fastrmodels 2.1.0
 FastRWeb 1.2-3
 FastSegmentation 0.0.1
@@ -7411,7 +7411,7 @@ FrailtyCompRisk 0.1.1
 frailtyEM 1.0.1
 frailtyHL 2.3
 frailtyMMpen 1.2.1
-frailtypack 3.8.0
+frailtypack 3.8.1
 frailtyROC 1.0.0
 frailtySurv 1.3.8
 frair 0.5.203
@@ -7730,7 +7730,7 @@ gastempt 0.7.0
 gaston 1.6
 gatepoints 0.1.5
 gateR 0.1.16
-gatoRs 2.0.0
+gatoRs 2.0.1
 GauPro 0.2.17
 gauseR 1.3
 gausscov 1.1.8
@@ -8774,7 +8774,7 @@ gpss 1.0.3
 GPTCM 2.0.0
 gptoolsStan 1.0.0
 gptr 0.7.0
-GPTreeO 1.0.1
+GPTreeO 1.1.0
 gptstudio 0.4.0
 gptzeror 0.0.2
 GPUmatrix 1.0.3
@@ -9036,7 +9036,7 @@ gtregression 1.1.0
 gtrendshealth 1.0.1
 gtrendsR 1.5.2
 GTRT 0.1.0
-gtsummary 2.5.1
+gtsummary 2.6.0
 gtWAS 1.1.1
 guaguas 0.3.0
 guardianapi 0.1.1
@@ -11226,7 +11226,7 @@ LearnGeom 1.5
 learningr 0.29.1
 LearningRlab 2.4
 LearningStats 0.1.0
-learningtower 1.1.1
+learningtower 2.0.0
 LearnNonparam 1.3.0
 LearnPCA 0.3.4
 learnPopGen 1.0.4
@@ -12189,7 +12189,7 @@ mbX 0.2.0
 mc2d 0.2.2
 mcanalysis 0.1.0
 MCARtest 1.3
-mcauchyd 1.3.3
+mcauchyd 1.3.6
 MCAvariants 2.6.1
 mcb 0.1.15
 MCBackscattering 0.1.1
@@ -13453,7 +13453,7 @@ MSMwRA 1.5
 MSN 0.1.0
 msos 1.2.0
 MSoutcomes 0.2.1
-msPCA 0.5.0
+msPCA 0.5.1
 msprog 1.0.0
 MSPRT 3.0
 mssearchr 0.2.0
@@ -14113,6 +14113,7 @@ NHANES 2.1.0
 nhanesA 1.4.1
 nhanesdata 0.2.2
 nhanesdiva 1.0.2
+nhanesR 0.1.6
 nhdplusTools 1.5.1
 nhdR 0.6.1
 NHLData 1.0.0
@@ -14239,7 +14240,7 @@ NMcalc 0.0.4
 NMdata 0.2.6
 NMF 0.28
 nmfbin 0.2.1
-nmfkc 0.8.8
+nmfkc 0.9.6
 NMFN 2.0.1
 Nmisc 0.3.7
 Nmix 2.0.5
@@ -14297,7 +14298,7 @@ nolock 1.1.0
 nomads 0.0.1
 nombre 0.4.1
 nomclust 2.8.1
-nominatimlite 0.6.0
+nominatimlite 0.7.0
 nomine 1.0.2
 nomisdata 0.1.2
 nomiShape 1.0.2
@@ -15173,7 +15174,7 @@ PamBinaries 1.9.3
 PAMhm 0.1.2
 pamm 1.122
 PAMmisc 1.13.0
-pammtools 0.8.0
+pammtools 0.8.1
 PAMpal 1.5.2
 pamr 1.57
 pams 0.1.0
@@ -18126,6 +18127,7 @@ representr 0.1.6
 represtools 0.1.3
 reprex 2.1.1
 reproducer 0.7.0
+reproducible 3.2.0
 reproducibleRchunks 1.2.0
 reproducr 0.2.0
 reproj 0.8.0
@@ -18172,7 +18174,7 @@ resizableSplitLayout 0.1.1
 reslife 0.2.1
 resLIK 0.1.2
 reslr 0.2.0
-resmush 1.0.2
+resmush 1.0.3
 resourcecode 0.5.5
 resourcecodedata 1.0.0
 resourcer 1.5.1
@@ -18242,7 +18244,7 @@ rexpokit 0.26.6.15
 rextendr 0.5.0
 rextor 1.1.0
 Rfacebook 0.6.15
-rfacebookstat 2.14.0
+rfacebookstat 2.16.1
 rfacts 0.2.1
 RFAE 0.1.0
 rfair 0.1.0
@@ -18334,7 +18336,7 @@ RGN 1.0.0
 rgnoisefilt 1.1.3
 rgnparser 0.3.0
 Rgof 3.3.0
-rgoogleads 0.14.1
+rgoogleads 0.15.0
 RGoogleAnalyticsPremium 0.1.1
 rgoogleclassroom 1.0.0
 RGoogleFit 0.4.0
@@ -18734,6 +18736,7 @@ rnr 0.2.1
 rnrfa 2.1.0.7
 Rnumerai 3.0.1
 Rnvd3 1.0.0
+roadDB 0.2.0
 roadoi 0.7.3
 roahd 1.4.3
 roam 0.1.0
@@ -23238,7 +23241,7 @@ Tri.Hierarchical.IBDs 1.0.0
 triact 0.3.1
 TriadSim 0.3.1
 triageR 0.1.1
-TrialEmulation 0.0.4.11
+TrialEmulation 0.0.5
 trialr 0.1.6
 TrialSimulator 1.20.1
 TrialSize 1.4.1
@@ -23827,6 +23830,7 @@ VARSELECTEXPOSURE 1.0.3
 VarSelLCM 2.1.3.2
 varSelRF 0.7-9
 VARshrink 0.5.0
+vartest 1.7
 varTestnlme 1.3.5
 VARtests 2.0.7
 varycoef 0.3.6
@@ -24133,7 +24137,7 @@ wal 0.2.1
 waldo 0.6.2
 walkboutr 0.6.0
 walker 1.0.10
-walking 0.8.0
+walking 0.8.2
 walkscore 0.1.2
 walkscoreAPI 1.2
 wallace 2.2.1

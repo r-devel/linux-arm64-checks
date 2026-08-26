@@ -16936,7 +16936,7 @@ qicharts 0.5.10
 qicharts2 0.8.1
 qif 1.5.1
 qiitr 0.1.1
-Qindex 0.2.0
+Qindex 0.2.1
 Qindex.data 0.1.4
 qkiosk 0.2.31
 qlcal 0.1.3

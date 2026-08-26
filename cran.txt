@@ -605,7 +605,7 @@ Anthropometry 1.22
 AntibodyForests 1.1.0
 AntibodyTiters 0.1.24
 anticlust 0.8.14
-antitrust 0.99.30
+antitrust 0.99.33
 antiword 1.3.5
 AntsNet 1.0.0
 AnxietySleep 0.0.1
@@ -16937,7 +16937,7 @@ qicharts2 0.8.1
 qif 1.5.1
 qiitr 0.1.1
 Qindex 0.2.0
-Qindex.data 0.1.3
+Qindex.data 0.1.4
 qkiosk 0.2.31
 qlcal 0.1.3
 qlcData 0.3
@@ -20474,7 +20474,7 @@ SID 1.1
 SIDES 1.18
 sidier 4.1.1
 SidraFacil 1.0.2
-sidrar 0.3.0
+sidrar 0.5.0
 Sie2nts 0.1.0
 siebanxicor 1.0.0
 SiER 0.1.0

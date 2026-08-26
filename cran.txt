@@ -10583,7 +10583,7 @@ jgd 0.1.1
 JGR 1.9-2
 jgsbook 1.0.8
 JICO 0.1
-jiebaRS 0.2.0
+jiebaRS 0.3.0
 jinjar 0.3.2
 jipApprox 0.1.5
 jirar 0.1.0
@@ -11450,7 +11450,7 @@ liteformats 0.2.0
 liteq 1.1.0
 literanger 0.2.0
 LitFetchR 1.0.0
-litReview 1.0.0
+litReview 1.1.0
 litRiddle 1.0.0
 litteR 1.0.2
 litterfitter 0.1.4
@@ -12000,7 +12000,7 @@ marelac 2.1.11
 MareyMap 1.3.10
 marg 1.2-4
 margaret 0.1.4
-margEVT 0.1.1
+margEVT 0.2.0
 marginaleffects 0.32.0
 marginalizedRisk 2024.5-17
 MarginalMaxTest 1.0.1

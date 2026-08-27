@@ -1926,7 +1926,7 @@ BLSM 0.1.0
 blsR 0.5.0
 bluebike 0.0.3
 BlueCarbon 0.1.1
-bluertopo 0.0.1
+bluertopo 0.0.2
 blueterra 0.1.0
 blvim 0.1.1
 BlythStillCasellaCI 1.1.0
@@ -2666,7 +2666,7 @@ cdlogit 1.0.0
 cdlsim 0.1.0
 cdlTools 1.13
 CDM 8.3-14
-CDMConnector 2.6.0
+CDMConnector 2.7.0
 cdmetapopR 1.0.0
 cdmTools 1.0.6
 cdnbcr 1.1.1
@@ -3523,7 +3523,7 @@ compdb 0.0.1
 CompDist 1.0
 comperank 0.1.2
 comperes 0.2.7
-competitiontoolbox 0.7.1
+competitiontoolbox 0.7.4
 CompExpDes 1.0.9
 CompGR 0.1.3
 comphy 1.0.5
@@ -3605,7 +3605,7 @@ conf 1.9.3
 conf.design 2.0.0
 confcons 0.3.2
 confidence 1.1-3
-confidenceCurves 0.2.0
+confidenceCurves 0.2.1
 ConfidenceEllipse 1.1.0
 config 0.3.2
 ConfigParser 1.0.0
@@ -4463,7 +4463,7 @@ datasetsICR 1.0
 DataSetsUni 0.1
 datasetviewer 0.2.0
 DataSimilarity 0.4.0
-DataSpaceR 1.0.1
+DataSpaceR 1.0.2
 dataspice 1.1.1
 datastat 0.1.0
 DatastreamDSWS2R 1.11.0
@@ -5430,7 +5430,6 @@ dsge 1.0.0
 DSGEr 1.3.1
 DSI 1.8.0
 dsims 1.0.6
-DSIR 0.8.0
 DSjobtracker 2.0.0
 DSL 0.1-7
 dslabs 0.9.1
@@ -6719,7 +6718,7 @@ FastGaSP 0.6.4
 fastgeojson 0.1.3
 fastGHQuad 1.0.1
 fastGLCM 1.0.3
-fastglm 0.1.1
+fastglm 0.1.2
 fastglmpca 0.1-108
 FastGP 1.3
 fastGraph 2.1
@@ -6983,7 +6982,6 @@ filenamer 0.3
 files 0.0.1
 filesstrings 3.4.0
 FILEST 1.1.2
-filibustr 0.5.2
 filling 0.2.4
 fillpattern 1.0.3
 fillr 1.0.0
@@ -7027,7 +7025,7 @@ finna 0.1.3
 FinNet 0.2.1
 finnishgrid 0.2.0
 finnsurveytext 2.1.1
-finnts 0.6.0
+finnts 0.7.0
 finto 0.1.1
 FinTS 0.4-9
 fio 1.1.0
@@ -7084,7 +7082,7 @@ fitODBODRshiny 1.0.2
 fitplc 1.2-3.1
 fitPlotR 0.1.0
 fitPoly 4.0.0
-fitPS 1.0.6
+fitPS 1.1.4
 fitscape 0.1.0
 FITSio 2.1-6
 fitteR 0.2.0
@@ -7202,7 +7200,7 @@ flowTraceR 0.1.1
 flps 1.1.0
 FLR 1.0
 flsa 1.5.5
-FLSSS 9.2.8
+FLSSS 9.2.9
 fluffy 1.0.1
 Fluidigm 0.2
 fluidsynth 1.0.3
@@ -8820,7 +8818,7 @@ GrapheR 1.9-86-5
 grapherator 1.0.0
 graphicalEvidence 1.1
 graphicalExtremes 0.3.5
-graphicalMCP 0.2.9
+graphicalMCP 0.3.0
 graphicalVAR 0.4.1
 graphlayouts 1.2.5
 graphon 0.3.6
@@ -11479,7 +11477,7 @@ llmcoder 1.2.0
 llmflow 3.0.2
 llmhelper 1.0.0
 llmimpute 0.1.0
-LLMing 1.2.1
+LLMing 1.3.0
 llmjoin 0.3.0
 llmjson 0.1.0
 LLMR 0.8.11
@@ -14357,7 +14355,7 @@ NormExpression 0.1.1
 normfluodbf 2.0.3
 norMmix 0.2-0
 NormPsy 1.0.8
-normref 0.1.1
+normref 0.1.2
 norSTR 0.2.1
 nortest 1.0-4
 nortestARMA 1.0.2
@@ -15203,7 +15201,7 @@ panelhetero 1.0.1
 PanelMatch 3.1.3
 panelPomp 1.8.0.0
 panelr 1.0.1
-PanelSelect 1.0.0
+PanelSelect 1.0.1
 panelsummary 0.1.3
 panelSUR 0.1.0
 paneltests 1.0.5
@@ -15651,7 +15649,7 @@ pgenlibr 0.6.2
 pgirmess 2.0.3
 pgKDEsphere 1.0.2
 pglm 0.2-4
-PGM2 2.0.0
+PGM2 2.0.1
 pgmm 1.2.8
 pgnorm 2.0.1
 pGPx 0.1.4
@@ -17321,7 +17319,7 @@ randomGODB 1.1
 randomizationInference 1.0.4
 randomizeBE 0.3-6
 randomizeR 3.0.2
-randomizr 1.0.1
+randomizr 2.0.1
 randomLCA 1.1-4
 randomMachines 0.1.1
 randomNames 1.6-0.0
@@ -17686,7 +17684,7 @@ rcppmlpackexamples 0.0.1
 RcppMsgPack 0.2.5
 RcppNLoptExample 0.0.2
 RcppNumerical 0.7-0
-RcppParallel 6.2.0
+RcppParallel 6.2.1
 RcppPlanc 2.0.15
 RcppProgress 0.4.2
 RcppQuantuccia 0.1.4
@@ -19373,7 +19371,7 @@ rtype 0.1-1
 rtypeform 2.1.1
 rucrdtw 0.1.7
 rugarch 1.5-6
-RuHere 1.0.1
+RuHere 1.1.0
 Ruido 1.0.3
 ruijter 0.1.3
 ruler 0.3.2
@@ -19771,7 +19769,7 @@ scholar 1.0.0
 scholid 0.2.0
 scholidonline 0.2.0
 SchoolDataIT 0.2.13
-schoolmath 0.5.0
+schoolmath 0.5.1
 schoRsch 1.11
 schrute 1.0.1
 schumaker 1.2.2
@@ -19867,7 +19865,6 @@ scROSHI 1.0.0.0
 scrutiny 0.6.1
 scrutr 0.3.1
 scrypt 0.1.6
-scryr 1.0.0
 scs 3.2.7
 scShardSplitRef 0.1.0
 scSpatialSIM 0.1.4
@@ -21473,7 +21470,7 @@ sqlq 1.0.1
 SqlRender 1.19.6
 sqlstrings 1.0.0
 sqltargets 0.3.0
-SQMtools 1.8.0
+SQMtools 1.8.1
 SQN 1.0.6
 SQRL 1.0.3
 squant 1.1.7
@@ -24753,7 +24750,7 @@ ZooID 0.2.0
 zooimage 5.5.2
 zoolog 1.1.0
 zoom 2.0.6
-zoomerjoin 0.2.3
+zoomerjoin 0.2.4
 zoomgrid 1.1.0
 zoomGroupStats 0.1.0
 zoomr 0.4.0

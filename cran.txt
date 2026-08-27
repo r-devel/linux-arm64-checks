@@ -1970,7 +1970,7 @@ BNrich 0.1.1
 BNSP 2.2.3
 bnstruct 1.0.15
 bnviewer 0.1.6
-boa 1.1.8-2
+boa 1.1.9
 BoardGames 1.0.0
 bodenmiller 0.1.1
 bodsr 0.1.0
@@ -4022,7 +4022,7 @@ crayons 0.0.4
 crbcc 0.1.0
 CRBHSF 0.1.0
 crc32c 0.0.3
-crch 1.2-2
+crch 1.2-3
 crctStepdown 0.5.2
 CRE 0.2.7
 cre.dcf 0.0.5
@@ -4077,7 +4077,7 @@ CrossCarry 1.2.0
 CrossClustering 4.1.3
 crossdes 1.1-2
 CrossExpression 1.0.0
-crossfit 0.1.3
+crossfit 0.1.4
 crosshap 1.4.0
 crosslag 0.1.0
 crossmap 0.5.0
@@ -4500,7 +4500,7 @@ dauphin 0.3.2
 dauR 1.0
 Davies 1.2-1
 dawai 1.2.8
-dawaR 0.3.2
+dawaR 0.3.3
 daymetr 1.7.1
 days2lessons 0.1.3
 daySupply 0.1.0
@@ -5381,7 +5381,7 @@ DRLAP2 0.1.1
 drlate 0.3.1
 drMAIC 0.1.0
 drmeta 0.2.2
-drogonR 0.1.8
+drogonR 0.1.9
 droll 0.1.0
 DRomics 2.6.3
 drone 1.0.0
@@ -6481,6 +6481,7 @@ ExpBites 0.1.3
 expDB 0.3.0
 ExpDE 0.2.0
 ExpDes 1.2.2
+ExpDesignR 0.1.0
 expectreg 0.54
 experDesign 0.4.0
 experiences 0.1.1
@@ -8447,7 +8448,7 @@ GIplot 0.1.0
 gips 1.3.0
 gipsDA 0.1.2
 GiRaF 1.0.2
-giscoR 1.1.1
+giscoR 1.2.0
 GISINTEGRATION 1.0
 GISSB 1.1.1
 GISTools 1.0-2
@@ -8603,7 +8604,7 @@ gmfd 1.0.1
 gmGeostats 0.11.4
 gmgm 1.1.3
 Gmisc 3.4.0
-GMLTM 0.1.0
+GMLTM 2.0.0
 gmm 1.9-1
 GMMAT 1.5.0
 GMMBoost 1.1.5
@@ -11091,6 +11092,7 @@ lareshiny 0.0.3
 Largevars 1.0.3
 LARisk 1.0.0
 lars 1.3
+lasars 0.1.1
 LassoBacktracking 1.1
 LassoHiDFastGibbs 0.1.5
 LassoNet 0.8.3
@@ -11468,7 +11470,7 @@ LJmp3converter 1.0.7
 ljr 1.4-0
 LKT 1.7.0
 llama 0.10.1
-llamaR 0.2.5
+llamaR 0.2.6
 LLM 1.1.0
 llm.api 0.1.9
 LLMAgentR 0.3.2
@@ -13354,7 +13356,7 @@ Mqrcm 1.3
 mqriskR 0.1.1
 mr.mashr 0.3.44
 mr.pivw 0.1.1
-MR.RGM 0.1.0
+MR.RGM 0.1.1
 MRAM 1.0.1
 mrangr 1.0.2
 mrap 1.0.1
@@ -13642,6 +13644,7 @@ MultiscaleSCP 0.1.1
 multiscape 1.0.7
 multiselect 0.1.0
 multisensi 2.2-1
+MultiSEp 4.1.3
 multisite.accuracy 1.3
 MultisiteMediation 0.0.4
 MultiSkew 1.1.1
@@ -13908,7 +13911,7 @@ nc 2026.4.20
 NCA 5.0.2
 ncaavolleyballr 0.5.1
 ncappc 1.0.0
-ncar 0.7.0
+ncar 0.7.1
 ncbit 2013.03.29.1
 NCC 1.0
 ncdf4 1.24
@@ -14185,7 +14188,7 @@ nlfh 0.1.0
 nlgeocoder 0.2.2
 nlgm 1.0
 NlinTS 1.4.7
-nlist 0.4.0
+nlist 0.5.0
 nlive 0.8.0
 nlme 3.1-170
 nlmeU 0.71.7
@@ -14679,7 +14682,7 @@ OmopConstructor 0.3.0
 omopgenerics 1.4.1
 omophub 1.9.0
 OmopOnSpark 0.1.0
-OmopSketch 1.1.0
+OmopSketch 1.1.1
 OmopStudyBuilder 0.1.1
 OmopViewer 0.7.0
 ompr 1.0.4
@@ -14905,6 +14908,7 @@ orbweaver 0.18.2
 orca 1.1-3
 orcamentoBR 1.0.5
 orchaRd 2.2.1
+ORCI.Welch 0.1.1
 orcidtr 0.1.0
 orclus 0.2-6
 ORCME 2.0.2
@@ -16516,7 +16520,7 @@ ProbSamplingI 2.0
 probstats4econ 0.3.1
 ProbSVMs 0.1.0
 ProbYX 1.1-0.1
-pROC 1.19.0.1
+pROC 1.19.1
 proccalibrad 0.14
 ProcData 0.3.2
 proceduralnames 0.2.2
@@ -16645,7 +16649,7 @@ proxyC 0.5.2
 prozor 0.3.1
 PRP 0.1.1
 prqlr 0.10.1
-prrd 0.0.6
+prrd 0.0.7
 PRROC 1.4
 pRSR 3.1.1
 prt 0.2.1
@@ -23526,7 +23530,7 @@ typed 0.0.1
 typehint 0.1.2
 typeR 0.2.1
 types 1.0.0
-typetracer 0.2.4
+typetracer 0.2.5
 typr 0.0.4
 typstable 0.1.0
 tzdb 0.5.0
@@ -24097,7 +24101,7 @@ VPdtw 2.2.1
 vprint 1.3
 vrnmf 1.0.2
 vroom 1.7.1
-vrpr 0.1.0
+vrpr 0.1.1
 vrtest 1.2
 vscc 0.8
 vse4ts 1.0.0

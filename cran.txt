@@ -53,6 +53,7 @@ academictwitteR 0.3.1
 acc 1.3.3
 acca 0.2
 accbaseballr 0.1.4
+accelEE 0.3.2
 accelmissing 2.2
 AccelStab 2.3.2
 accept 1.0.2
@@ -1289,7 +1290,7 @@ bayesiansurpriser 0.1.0
 BayesianTools 0.1.9
 Bayesiantreg 1.0.1
 bayesianVARs 0.1.8
-bayesics 3.0.1
+bayesics 3.0.2
 bayesImageS 0.7-1
 BayesLCA 1.9
 bayesLife 5.3-1
@@ -2467,7 +2468,7 @@ caretSDM 1.9.7
 carfima 2.0.2
 cargo 0.4.9
 caribou 1.1-1
-CarletonStats 2.2
+CarletonStats 2.3
 Carlson 3.0.0
 CARM 2.0.0
 CARME 0.1.1
@@ -2554,7 +2555,7 @@ causaldata 0.1.4
 causaldef 0.2.1
 causalDisco 1.2.1
 causaldrf 0.4.2
-causalDT 1.0.0
+causalDT 1.0.1
 causaleffect 1.3.15
 causalfrag 0.1.1
 causalgenerics 0.1.0
@@ -3285,6 +3286,7 @@ CMShiny 0.1.0
 cmstatr 0.10.0
 cmstatrExt 0.4.1
 cmtest 0.1-2
+CMTFtoolbox 1.1.1
 cmtkr 0.2.3
 cmvnorm 1.1-1
 cna 4.0.3
@@ -4193,7 +4195,7 @@ CTNote 0.1.0
 ctoclient 0.1.0
 cTOST 1.0.1
 ctqr 2.2
-ctrdata 1.26.2
+ctrdata 1.26.3
 ctreeMI 1.0.1
 ctrialsgov 0.2.7
 CTRing 0.1.0
@@ -6208,7 +6210,7 @@ epts 1.2.2
 epubr 0.6.5
 EPX 1.0.4
 epxToR 0.4-1
-eq5d 0.16.3
+eq5d 0.17.0
 eq5dsuite 2.0.0
 EQL 1.0-1
 EQRN 0.1.2
@@ -6464,7 +6466,7 @@ ExclusionTable 1.2.0
 exCon 0.2.5
 excursions 2.5.11
 exdex 1.2.4
-exdqlm 1.1.0
+exdqlm 1.1.1
 executablePackeR 0.0.2
 exeval 0.0.1
 ExGaussEstim 0.1.2
@@ -6532,7 +6534,7 @@ ExtractTrainData 9.1.6
 extraDistr 1.10.0.5
 extrafont 0.20
 extrafontdb 1.1
-extrafrail 1.14
+extrafrail 1.15
 extraoperators 0.4.0
 extras 0.10.0
 extrasteps 0.3.0
@@ -6997,7 +6999,7 @@ fImport 4052.89
 finalfit 1.1.0
 finalsize 0.2.1
 FinAna 0.1.2
-FinanceGraphs 0.9.2
+FinanceGraphs 0.9.21
 FinancialInstrument 1.4.1
 FinancialMath 0.1.1
 finbif 0.10.0
@@ -8024,7 +8026,7 @@ geonetwork 0.6.0
 geonode4R 0.1-2
 geonuts 1.0.1
 geoperu 0.0.1
-geoprofiler 0.0.3
+geoprofiler 0.0.4
 geopsych 0.1.0
 geoR 1.9-6
 GeoRange 0.1.0
@@ -8747,7 +8749,7 @@ gpcihybridIILinApp 0.1.0
 gpcihybridIImcmc 0.1.0
 gpciImpSam 0.1.0
 gpciIntCensor 0.1.0
-gpciLindApproxProgII 0.1.0
+gpciLindApproxProgII 0.1.1
 gpciLindleyApprox 0.1.0
 gpciProgTyII 0.1.0
 gpciProgTyIIImpSam 0.1.0
@@ -9359,7 +9361,7 @@ hetu 1.1.0
 heumilkr 0.3.0
 heuristica 1.0.3
 hexbin 1.28.6
-hexDensity 1.4.10
+hexDensity 1.4.11
 hexfont 1.0.0
 hexify 0.8.2
 hexsession 0.1.0
@@ -9676,7 +9678,7 @@ hydroDCindex 1.0.0
 hydrodownloadR 0.1.3
 hydroeval 0.1.0
 hydroEvents 0.13.0
-hydrogeofetch 2.0.2
+hydrogeofetch 2.0.3
 hydroGOF 0.7-0
 hydroloom 1.2.1
 HydroMe 2.1.2
@@ -11606,7 +11608,7 @@ loggit2 2.4.0
 logib 0.2.1
 logiBin 0.3
 logicDT 1.0.5
-LogicForest 2.1.4
+LogicForest 2.1.5
 LogicReg 1.6.6
 logihist 1.1
 login 0.9.3
@@ -12382,7 +12384,7 @@ meifly 0.3.1
 mekko 0.1.0
 melidosData 1.0.6
 mellio 1.0.2
-melodi 1.1.0
+melodi 1.1.2
 melt 1.11.4
 meltt 0.4.3
 mem 2.19
@@ -12726,7 +12728,7 @@ miic 2.0.3
 MIIPW 0.1.2
 MIIVefa 0.1.2
 MIIVsem 0.5.8
-mikropml 1.7.0
+mikropml 1.7.1
 miLAG 1.0.5
 mildsvm 0.4.1
 miLineage 2.1
@@ -13111,7 +13113,7 @@ mnpPlasmonR 0.1.0
 MNS 1.0
 mnt 1.3
 mob 0.4.2
-mobdb 1.0.1
+mobdb 1.0.3
 MoBPS 1.13.1
 mobsim 0.3.2
 moc.gapbk 0.2.1
@@ -16577,7 +16579,7 @@ ProjectManagement 2.1.4
 projects 2.1.3
 ProjectTemplate 0.11.2
 projmgr 0.1.2
-projoint 1.1.3
+projoint 1.1.4
 projpred 2.10.0
 ProliferativeIndex 1.0.1
 prolific.api 0.5.2
@@ -17124,7 +17126,7 @@ quickpsy 0.1.5.2
 quickPWCR 1.2
 quickr 0.3.0
 quickregression 0.2
-quickSentiment 0.3.5
+quickSentiment 0.3.6
 QuICSeedR 0.1.2
 quid 0.0.1
 quiddich 1.0.0
@@ -18704,7 +18706,7 @@ RMTstat 0.3.2
 rMultiNet 0.1
 rmumps 5.2.1-43
 rmutil 1.1.10
-RMVL 1.1.0.3
+RMVL 1.1.0.4
 rMVP 1.4.6
 rmweather 0.2.63
 RMX 0.1-7
@@ -19100,7 +19102,7 @@ rqPen 4.2
 rQSAR 1.0.0
 rqti 1.2.1
 Rquake 2.5-1
-rqualify 1.0.2
+rqualify 1.1.0
 RQuantLib 0.4.28
 Rquefts 1.2-8
 rquery 1.4.99
@@ -19373,7 +19375,7 @@ Rtsne 0.17
 rtson 1.3
 Rttf2pt1 1.3.14
 Rtumblr 0.1.1
-Rtwalk 2.0.2
+Rtwalk 2.1.0
 rTwig 1.4.0
 Rtwobitlib 0.3.10
 rtype 0.1-1
@@ -19438,7 +19440,7 @@ rwa 0.1.1
 rwalkr 0.5.7
 rwarrior 0.4.1
 Rwave 2.6-5
-rwavelet 0.4.1
+rwavelet 0.4.2
 Rwbo 0.1.2
 rwc 1.12
 RWDataPlyr 0.6.6
@@ -20872,7 +20874,7 @@ smoke 2.0.1
 SmokingHistoryGenerator 7.0.0
 smoof 1.7.0
 smooth 4.5.0
-smoothbp 0.2.7
+smoothbp 0.2.8
 smoothedIPW 0.1.0
 smoothedLasso 1.6
 smoothemplik 0.0.17
@@ -21091,6 +21093,7 @@ spada 0.1.8
 SPADAR 1.0
 spAddins 0.2.0
 SpadeR 0.1.1
+SpaDES.tools 2.1.3
 spagmix 0.4-2
 spam 2.11-4
 spam64 2.11-4
@@ -21247,7 +21250,7 @@ spc4sts 0.6.5
 spca 1.1.1
 spcadjust 1.1
 SPCALDA 1.0
-spCF 0.2.0
+spCF 0.2.1
 SPCompute 1.0.3
 spconf 1.0.1
 spcosa 0.4-6
@@ -22395,7 +22398,7 @@ taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
 taxnames 0.1.0
-taxodist 0.6.0
+taxodist 0.7.0
 taxonomizr 0.11.1
 taylor 4.0.0
 TaylorRussell 1.2.1
@@ -22612,7 +22615,7 @@ textometry 0.1.7
 textplot 0.2.3
 textpress 1.1.1
 textrank 0.3.1
-textrar 0.8.0
+textrar 0.9.0
 textrecipes 1.1.0
 textreg 0.1.5
 textreuse 1.0.2
@@ -23278,7 +23281,7 @@ trimr 1.1.1
 trinROC 0.7
 TrioSGL 1.1.0
 trip 1.10.0
-tripaccess 0.1.0
+tripaccess 0.2.0
 tripack 1.3-9.4
 tripEstimation 0.0-46
 triplediff 0.2.4
@@ -24055,7 +24058,7 @@ vivid 0.3.0
 vivo 0.2.1
 vizClust 0.1.0
 vizdraws 2.0.0
-VizModules 0.3.0
+VizModules 0.4.0
 VizTest 0.8
 vkR 0.2
 VLF 1.1-3
@@ -24690,7 +24693,7 @@ YPmodel 1.4
 YPmodelPhreg 1.0.0
 YPPE 1.0.1
 ypr 0.6.0
-yrnd 0.1.5
+yrnd 0.1.6
 YTAnalytics 0.2.1
 yuima 1.15.34
 yuimaGUI 1.4.0

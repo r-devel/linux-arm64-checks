@@ -7206,7 +7206,7 @@ flowTraceR 0.1.1
 flps 1.1.0
 FLR 1.0
 flsa 1.5.5
-FLSSS 9.2.9
+FLSSS 9.3.0
 fluffy 1.0.1
 Fluidigm 0.2
 fluidsynth 1.0.3
@@ -8081,7 +8081,7 @@ getCRUCLdata 2.0.0
 GETdesigns 1.2.0
 GetDFPData2 0.6.5
 getDTeval 0.0.2
-GetFREData 1.0.1
+GetFREData 1.1.0
 getip 0.1-4
 getLattes 1.0.0
 GetLattesData 1.5
@@ -15962,7 +15962,7 @@ plm 2.6-7
 PLmixed 0.1.8
 plmmr 4.3.0
 pln 0.2-3
-PLNmodels 1.3.0
+PLNmodels 1.3.1
 plnr 2025.11.22
 PLORN 0.1.1
 plot.matrix 1.6.2
@@ -16069,7 +16069,7 @@ pmxTools 1.5
 PNADcIBGE 0.7.5
 PNADCperiods 0.1.2
 PNAR 1.8
-PNC 0.1.0
+PNC 0.2.0
 pnd 0.1.3
 PND.heter.cluster 0.1.0
 PNDSIBGE 0.1.1
@@ -20795,7 +20795,7 @@ slippymath 0.3.1
 slm 1.2.0
 SLModels 0.1.2
 sloop 1.0.1
-SLOPE 2.1.0
+SLOPE 2.1.1
 slopes 2.0.0
 SLOS 1.0.1
 SlotLim 0.0.2
@@ -21092,6 +21092,7 @@ spada 0.1.8
 SPADAR 1.0
 spAddins 0.2.0
 SpadeR 0.1.1
+SpaDES.core 3.2.1
 SpaDES.tools 2.1.3
 spagmix 0.4-2
 spam 2.11-4
@@ -22659,7 +22660,7 @@ tgp 2.4-23
 tgram 0.2-4
 TGS 1.0.1
 TGST 1.0
-tgstat 2.3.32
+tgstat 2.4.0
 TH 1.0.0
 TH.data 1.1-5
 thames 0.1.2
@@ -23552,7 +23553,7 @@ UBayFS 1.0
 UBCRM 1.0.3
 ubiquity 2.1.0
 ubms 1.2.9
-UBStats 0.3.0
+UBStats 0.4.3
 uci 0.3.1
 ucie 1.0.2
 ucimlrepo 0.0.2

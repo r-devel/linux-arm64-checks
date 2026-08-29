@@ -10302,7 +10302,7 @@ ioncopy 2.2.2
 ionet 0.2.2
 iotables 0.9.4
 iotarelr 0.1.9
-iotools 0.4-0
+iotools 0.4-0.1
 ip2location 8.1.4
 ip2location.io 0.0.0-2
 ip2locationio 1.1.1
@@ -11031,7 +11031,6 @@ LabRS 0.2.1
 labsimplex 0.1.2
 labstatR 1.0.14
 labstats 1.0.1
-LABTNSCPSS 1.0.2
 lacm 0.1.2
 lacrmr 1.0.5
 lactater 0.2.0
@@ -13800,7 +13799,7 @@ mwTensor 1.2.2
 mx.api 0.3.0
 mx.client 0.2.0
 mx.crypto 0.2.1
-mxcc 0.0.5
+mxcc 0.0.6
 mxfda 0.2.2-1
 mxkssd 1.2
 mxmmod 1.1.0
@@ -18160,7 +18159,7 @@ repurrrsive 1.1.0
 reqres 1.2.0
 REQS 0.8-13
 request 0.1.0
-Require 2.0.0
+Require 2.1.0
 requiRements 0.0.3
 requireR 1.0.0.1
 rerandPower 0.0.1
@@ -19193,7 +19192,7 @@ RSEIS 4.2-4
 RSelenium 1.7.10
 rsem 0.5.1
 RSentiment 2.2.2
-Rserve 1.8-19
+Rserve 1.8-19.1
 rsf 0.3.0
 rSFA 1.5
 Rsfar 0.0.1
@@ -23506,7 +23505,7 @@ twitteradsR 0.1.0
 twitterwidget 0.1.1
 twl 1.0
 twn 0.2.7
-twoCoprimary 1.0.0
+twoCoprimary 1.1.0
 TwoCutoff 0.1.0
 TwoDcDAPSA 0.1.1
 TwoDiRef 0.1.0

@@ -3416,7 +3416,7 @@ cointsmall 1.0.2
 col2hex2col 0.5.3
 cold 2.0-3
 coldrift 0.1.1
-collapse 2.1.7
+collapse 2.1.8
 collapsibleTree 0.1.8
 collateral 0.5.2
 collatz 1.0.0
@@ -9440,6 +9440,7 @@ hilbertSimilarity 0.4.4
 hildareadR 0.2.0
 hillR 0.5.2
 hillshader 0.1.2
+HIMA 2.3.4
 himach 1.0.1
 hindexcalculator 1.0.0
 hint 0.1-3
@@ -19811,7 +19812,7 @@ scimetr 1.2.0
 scimo 0.0.3
 scindex 0.1.0
 scINSIGHT 0.1.5
-scip 1.10.0-3
+scip 1.10.0-4
 sciplot 1.2-0
 SCIproj 1.0.1
 scipub 1.3.0
@@ -19841,7 +19842,7 @@ scorematchingad 0.1.6
 scorepeak 0.1.2
 SCoRES 0.1.2
 scoring 0.6
-scoringfunctions 1.1
+scoringfunctions 1.2
 scoringRules 1.1.3
 scoringutils 2.2.0
 SCORNET 0.1.1
@@ -20910,7 +20911,7 @@ SMOTEWB 1.2.5
 smovie 1.1.6
 smplot2 0.2.6
 SMPracticals 1.4-3.2
-smqf 1.1-7
+smqf 1.1-8
 SMR 2.1.0
 smriti 0.2.0
 sms 2.3.1
@@ -22542,7 +22543,7 @@ TEQR 6.0-0
 tergm 4.2.2
 tergmLite 2.6.1
 tergo 0.1.9
-term 0.3.7
+term 0.4.0
 terminaldigits 0.1.0
 terminalgraphics 0.3.0
 tern 0.9.11
@@ -23684,7 +23685,7 @@ unjoin 0.1.0
 unmarked 1.5.2
 unmconf 1.0.0
 unnest 0.1
-Uno 2.7.4
+Uno 2.7.4-1
 UNPaC 1.2.0
 unpivotr 0.6.4
 UnplanSimon 0.1.0

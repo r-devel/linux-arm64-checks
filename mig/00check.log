@@ -4,9 +4,9 @@
 * R was compiled by
     aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
-* running under: Ubuntu 26.04 LTS
+* running under: Ubuntu 26.04.1 LTS
 * using session charset: UTF-8
-* current time: 2026-08-23 01:21:17 UTC
+* current time: 2026-08-30 12:10:17 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘mig/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -76,7 +76,7 @@ Last 13 lines of output:
   test-loocv.R..................    2 tests OK 
   test-loocv.R..................    2 tests OK 
   test-loocv.R..................    2 tests OK 
-  test-loocv.R..................    3 tests OK 13ms
+  test-loocv.R..................    3 tests OK 11ms
   ----- FAILED[data]: test-derivatives.R<22--25>
    call| expect_equal(max(abs(mig_loglik_grad(x = samp, xi = xi, Omega = Omega, 
    call| -->    beta = beta) - t(apply(samp, 1, function(x) {

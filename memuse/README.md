@@ -1,6 +1,6 @@
 # memuse 4.2-3
 
-Latest run: 2026-08-23: https://github.com/r-devel/linux-arm64-checks/actions/runs/32609982248
+Latest run: 2026-08-30: https://github.com/r-devel/linux-arm64-checks/actions/runs/33289010075
 
 ```
 Package: memuse

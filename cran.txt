@@ -12382,7 +12382,7 @@ MEGB 0.2
 meifly 0.3.1
 mekko 0.1.0
 melidosData 1.0.6
-mellio 1.0.2
+mellio 1.1.0
 melodi 1.1.2
 melt 1.11.4
 meltt 0.4.3

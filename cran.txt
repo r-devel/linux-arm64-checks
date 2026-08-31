@@ -3385,7 +3385,6 @@ cogirt 1.0.0
 coglasso 1.1.1
 coglyphr 1.1.0
 cogmapr 0.9.5
-cognitoR 1.0.5
 cograph 2.4.4
 cohetsurr 2.0
 cohortBuilder 1.0.0
@@ -12591,7 +12590,7 @@ mFD 1.0.7
 mfdb 7.4-0
 MFDFA 1.1
 mFDP 0.2.2
-MFF 0.2.3
+MFF 0.2.4
 mfGARCH 0.2.2
 mFilter 0.1-5
 mFLICA 0.1.7
@@ -14306,7 +14305,6 @@ NO.PING.PONG 0.1.9.1
 noaa 1.0.0
 noah 0.1.0
 NobBS 1.1.1
-noctua 2.6.3
 nocturn 1.2.0
 nodbi 0.15.0
 node2vec 0.1.0
@@ -24780,7 +24778,6 @@ zoolog 1.1.0
 zoom 2.0.6
 zoomerjoin 0.2.4
 zoomgrid 1.1.0
-zoomGroupStats 0.1.0
 zoomr 0.4.0
 zoteR 1.0.0
 ZRA 0.2

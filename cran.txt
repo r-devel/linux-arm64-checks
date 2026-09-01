@@ -2574,7 +2574,7 @@ causalOT 1.0.4
 causalPAF 1.2.5
 causalplot 0.2.1
 causalQual 1.0.0
-CausalQueries 1.4.5
+CausalQueries 1.4.6
 causalreg 0.1.2
 causalsens 0.1.3
 causalsim 0.1.0
@@ -3614,6 +3614,7 @@ confcons 0.3.2
 confidence 1.1-3
 confidenceCurves 0.2.1
 ConfidenceEllipse 1.1.0
+confidenceSim 0.1.1
 config 0.3.2
 ConfigParser 1.0.0
 configr 0.3.5
@@ -4830,7 +4831,7 @@ despair 0.1.1
 desplot 1.11
 DET 3.0.3
 details 0.4.0
-detect 0.5-1
+detect 0.5-2
 detectnorm 1.0.0
 detector 0.1.0
 detectors 0.1.0
@@ -14139,7 +14140,7 @@ ngram 3.2.3
 ngramr 1.10.0
 ngramrr 0.2.0
 ngspatial 1.2-2
-NHANES 2.1.0
+NHANES 2.1.4
 nhanesA 1.4.1
 nhanesdata 0.2.2
 nhanesdiva 1.0.2
@@ -15061,7 +15062,7 @@ ouladFormat 1.2.2
 outbreaker2 1.1.4
 OutbreakR 0.1.0
 outbreaks 1.9.0
-outcomerate 1.0.1
+outcomerate 1.1.0
 OutcomeWeights 0.1.1
 outForest 1.0.1
 outlierensembles 0.1.3
@@ -15749,7 +15750,7 @@ PhoneValidator 1.0.1
 phonics 1.4.0
 phonR 1.0-7
 phonTools 0.2-2.2
-phontrast 2.4.0
+phontrast 2.4.1
 phosphoricons 0.2.1
 photobiology 0.14.2
 photobiologyFilters 0.6.1
@@ -16118,7 +16119,7 @@ PoisBinOrd 1.4.3
 PoisBinOrdNonNor 1.5.3
 PoisBinOrdNor 1.6.3
 poisDoubleSamp 1.1.1
-poisFErobust 2.0.0
+poisFErobust 2.0.1
 poismf 0.4.0-4
 PoisNonNor 1.6.3
 PoisNor 1.3.3
@@ -20202,7 +20203,7 @@ settingsSync 3.0.2
 setweaver 1.0.0
 setwidth 1.1.0
 Seurat 5.5.1
-SeuratExplorer 0.1.6
+SeuratExplorer 0.1.8
 SeuratObject 5.4.0
 sevenbridges2 0.4.0
 sever 0.0.7

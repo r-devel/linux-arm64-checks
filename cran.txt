@@ -8934,7 +8934,7 @@ GRIN2 2.1.0
 grip 0.2.0
 grizbayr 1.3.5
 grmsem 1.1.0
-grmtree 0.2.2
+grmtree 0.3.0
 grnn 0.1.0
 GRNNs 0.1.0
 GROAN 1.3.1
@@ -9007,7 +9007,7 @@ GSED 2.6
 gSeg 1.0
 GSelection 0.1.0
 GSEMA 0.99.4
-gseries 3.0.2
+gseries 3.0.3
 gsheet 0.4.6
 gsignal 0.3-7
 gsisdecoder 0.0.1
@@ -10206,7 +10206,7 @@ insect 1.4.4
 InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
-inshiny 0.1.4
+inshiny 0.1.5
 insight 1.5.3
 InSilicoVA 1.4.2
 InspectChangepoint 1.2
@@ -11815,7 +11815,7 @@ lubrilog 1.3.0
 lucas 1.0
 lucid 1.11
 lucidr 0.1.0
-LUCIDus 3.1.0
+LUCIDus 3.2.0
 luckieR 0.1.0
 ludic 0.2.1
 lue 0.2.1
@@ -12181,7 +12181,7 @@ MaxWiK 1.0.6
 maybe 1.1.0
 MazamaCoreUtils 0.6.2
 MazamaLocationUtils 0.4.5
-MazamaRollUtils 1.0.0
+MazamaRollUtils 1.1.0
 MazamaSpatialPlots 0.3.0
 MazamaSpatialUtils 0.8.7
 MazamaTimeSeries 0.3.1
@@ -19437,7 +19437,7 @@ Runuran 0.41
 rupturesRcpp 1.0.2
 rurality 0.1.1
 rurl 1.2.0
-rush 1.2.1
+rush 1.3.0
 rusk 0.1.1
 rust 1.4.4
 rutifier 1.0.4
@@ -20333,7 +20333,7 @@ shidashi 0.2.0
 shide 0.3.0
 ShiftConvolvePoibin 1.0.0
 ShiftHappens 1.0.1
-shiftR 1.5
+shiftR 1.6
 ShiftShareSE 1.1.0
 shinipsum 0.1.1
 shiny 1.14.0
@@ -24674,7 +24674,7 @@ xtbhst 1.0.2
 xtbreakcoint 1.0.4
 xtcspqardl 1.0.2
 xtdhcoint 1.0.1
-xtdml 0.1.12
+xtdml 0.1.13
 xtfifevd 1.0.2
 xtife 0.1.4
 xtpqardl 1.0.1

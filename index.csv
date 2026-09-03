@@ -13,6 +13,7 @@ arsenal,3.7.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEA
 baggr,0.8.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/baggr
 blocking,1.0.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/blocking
 bootmlm,0.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bootmlm
+circumplex,2.0.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/circumplex
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr
 dqcheckr,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/dqcheckr

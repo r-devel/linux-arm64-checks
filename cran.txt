@@ -1737,6 +1737,7 @@ bio.infer 1.3-6
 bio3d 2.4-5
 bioacoustics 0.2.10
 BiObjClass 0.1.0
+biobouncer 0.1.4
 biobricks 0.2.2
 bioC.logs 1.2.1
 biocharkit 0.3.0
@@ -1755,6 +1756,7 @@ biogeom 1.5.2
 biogram 1.6.3
 biogrowth 1.0.8
 BioGSP 1.0.0
+biohttp 0.1.2
 Bioi 0.2.10
 bioimagetools 1.1.9
 bioinactivation 1.3.1
@@ -2655,6 +2657,7 @@ ccTensor 1.0.3
 cctest 2.3.4
 cctools 0.1.3
 CCWeights 0.1.6
+ccwr 0.0.2
 cd 0.1.0
 cdata 1.2.1
 CDatanet 2.2.2
@@ -6173,6 +6176,7 @@ EpiILM 1.5.3
 EpiInvert 0.3.1
 epikit 0.2.0
 epilogi 1.2
+EpiLossR 0.1.0
 EpiLPS 1.3.0
 epimdr 0.6-5
 epimdr2 1.1-1
@@ -6315,6 +6319,7 @@ espadon 1.11.5
 esquisse 2.1.0
 esreg 0.6.2
 ess 1.1.2.1
+essential8 0.1.0
 essentialstools 0.1.7
 essHist 1.2.2
 essurvey 1.0.8
@@ -7783,7 +7788,7 @@ GBASS 2.0.1
 gbcrosswalk 0.0.5
 gbeta 0.1.0
 gbfs 1.3.10
-gbif.range 1.9.1
+gbif.range 1.9.2
 gbifdb 1.0.0
 GBJ 0.5.4
 gbm 2.3.1
@@ -8026,6 +8031,7 @@ geojsonio 0.11.3
 geojsonR 1.1.2
 geojsonsf 2.0.5
 geokmeans 0.1.0
+geolibre 0.2.0
 geomander 2.5.2
 GEOmap 2.5-11
 geomapdata 2.0-2
@@ -8709,6 +8715,7 @@ goldilocks 0.6.0
 golem 1.0.1
 golfastr 0.2.0
 golfr 0.1.0
+golosovRST 0.0.1
 GoMiner 1.3
 GomoGomonoMi 0.1.0
 gomp 1.1
@@ -9333,7 +9340,7 @@ HeatStressR 2.2.1
 heattree 0.3.1
 heatwaveR 0.5.5
 heavytails 0.2.0
-heck 0.1.5
+heck 0.1.7
 HeckmanEM 0.2-2
 heckmanGE 1.0.0
 HeckmanStan 1.0.0
@@ -9928,7 +9935,7 @@ idx2r 1.0.0
 ie2misc 0.9.2
 ie2miscdata 1.0.4
 ieeeround 0.2-2
-ieegio 0.1.0
+ieegio 0.1.2
 iemisctext 1.0.1
 ierd 0.1.1
 IETD 1.0.0
@@ -10328,6 +10335,7 @@ IOBR 2.2.3
 IOLS 0.1.4
 ioncopy 2.2.2
 ionet 0.2.2
+iop 0.1.0
 iotables 0.9.4
 iotarelr 0.1.9
 iotools 0.4-0.1
@@ -11516,7 +11524,7 @@ llmhelper 1.0.0
 llmimpute 0.1.0
 LLMing 1.3.0
 llmjoin 0.3.0
-llmjson 0.1.0
+llmjson 0.2.1
 LLMR 0.8.11
 LLMR.shiny 0.1.2
 LLMRagent 0.8.1
@@ -11907,6 +11915,7 @@ MAGMA.R 1.1
 MagmaClustR 1.2.1
 magmaR 1.0.4
 MAGNAMWAR 2.0.4
+magp 0.8.0
 magree 1.2
 magrittr 2.0.5
 maGUI 4.0
@@ -12043,7 +12052,7 @@ MareyMap 1.3.10
 marg 1.2-4
 margaret 0.1.4
 margEVT 0.2.0
-marginaleffects 0.32.0
+marginaleffects 1.0.0
 marginalizedRisk 2024.5-17
 MarginalMaxTest 1.0.1
 MarginalMediation 0.7.3
@@ -13213,6 +13222,7 @@ MODISTools 1.1.6
 ModLR 0.1.29
 modmarg 0.9.6
 modMax 1.1
+modMStates 0.0.1
 modnets 0.9.0
 modopt.matlab 1.0-2
 modQR 0.1.3
@@ -14389,6 +14399,7 @@ nordklimdata1 1.2
 nordstatExtras 0.1.0
 norm 1.0-11.1
 NORMAgene 0.1.1
+normalblockr 0.2.1
 normaliseR 0.1.2
 normality 0.0.4
 NormalityAssessment 0.1.1
@@ -15450,6 +15461,7 @@ PCAmixdata 3.1
 pcaone 1.1.0
 PCAPAM50 1.0.4
 pcaPP 2.0-5
+pcatR 1.0.1
 pcatsAPIclientR 1.3.0
 PCBN 0.1.1
 PCBS 0.1.1
@@ -16499,7 +16511,7 @@ prevalence 0.4.1
 preventr 0.12.0
 previsionio 11.7.0
 prevR 5.0.0
-prevtoinc 0.12.0
+prevtoinc 0.12.1
 pRF 1.2
 PriceIndices 0.3.1
 pricelevels 1.4.0
@@ -16805,6 +16817,7 @@ PTERP 1.0
 ptetools 1.0.1
 ptinpoly 2.8
 pTITAN2 1.0.2
+PTLENKies 0.1.0
 ptm 1.0.1
 ptmixed 1.1.3
 ptools 2.0.0
@@ -18697,7 +18710,7 @@ RMFM 1.1.0
 Rmfrac 1.0.0
 rmgarch 1.4-2
 rMIDAS 1.0.1
-rMIDAS2 0.1.1
+rMIDAS2 0.2.0
 rminer 1.5.0
 rminqa 0.3.1
 rmio 0.4.0
@@ -19294,7 +19307,7 @@ rsprite2 0.2.1
 rsq 2.7
 RSQL 0.2.2
 RSQLite 3.53.3
-RSQLite.toolkit 0.1.4
+RSQLite.toolkit 0.1.5
 RSqlParser 1.5
 RsqMed 1.1
 RSquaredMI 0.2.0
@@ -19534,7 +19547,7 @@ rzentra 0.1.0
 RZigZag 0.2.1
 rzmq 0.9.16
 RZooRoH 0.4.1
-s2 1.1.11
+s2 1.1.12
 s20x 3.3.0
 s2dv 2.3.0
 s2net 1.0.7
@@ -20197,7 +20210,7 @@ Sequential 4.6.1
 sequential.pops 0.1.1
 SequentialDesign 1.0
 sequoia 3.2.0
-seqwrap 0.7.0
+seqwrap 0.8.1
 serad 0.2.3
 sergeant 0.9.1
 serial 3.1.1
@@ -20920,7 +20933,7 @@ smof 1.2.2
 smoke 2.0.1
 SmokingHistoryGenerator 7.0.0
 smoof 1.7.0
-smooth 4.5.0
+smooth 4.5.1
 smoothbp 0.2.8
 smoothedIPW 0.1.0
 smoothedLasso 1.6
@@ -22424,7 +22437,7 @@ tardis 0.1.5
 targeted 0.9.0
 targets 1.12.0
 Tariff 1.0.5
-tarpolyglot 0.2.0
+tarpolyglot 0.2.1
 TAShiny 0.1.0
 tashu 0.1.1
 taskqueue 0.2.0
@@ -24554,7 +24567,7 @@ wrassp 1.0.6
 wrds 0.1.1
 WrensBookshelf 0.1.0
 WRestimates 0.1.0
-wrGraph 1.3.17
+wrGraph 1.3.18
 WRI 0.2.3
 wrictools 1.0.1
 WrightMap 1.5

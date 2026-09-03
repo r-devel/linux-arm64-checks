@@ -601,7 +601,7 @@ antaresEditObject 1.0.1
 antaresProcessing 0.18.3
 antaresRead 3.1.0
 antaresViz 0.18.3
-AntClassify 0.2.2
+AntClassify 0.2.3
 antedep 0.2.0
 anthro 1.1.0
 anthroplus 1.1.0
@@ -2505,7 +2505,7 @@ cascadeSelect 1.1.0
 cascadess 0.2.0
 CASCORE 0.1.2
 cascsim 0.4
-casebase 0.10.6
+casebase 0.10.7
 CaseBasedReasoning 0.4.1
 CaseCohortCoxSurvival 0.0.36
 caseMatch 1.1.0
@@ -8214,7 +8214,7 @@ ggdmcPrior 0.2.9.0
 ggDNAvis 1.0.1
 ggDoE 0.8
 ggDoubleHeat 0.1.3
-gge 1.10
+gge 1.11
 ggeasy 0.1.6
 GGEBiplots 0.1.3
 ggEDA 0.2.0
@@ -10829,7 +10829,7 @@ KEPTED 0.2.0
 kequate 1.6.4
 keras 2.16.1
 keras3 1.5.1
-kerasnip 0.1.2
+kerasnip 0.2.0
 kerDAA 0.1.1
 kerdiest 1.3-1
 kergp 0.5.8
@@ -14898,7 +14898,7 @@ optbin 1.4
 optbinningR 0.2.1
 optBiomarker 1.0-28
 OptCirClust 0.0.4
-optconerrf 1.0.2
+optconerrf 1.0.3
 optDesignSlopeInt 1.1.1
 OPTeCD 1.0.0
 optedr 3.0.1
@@ -24154,7 +24154,7 @@ vmr 0.0.6
 vmsae 0.1.2
 vmTools 1.0.1
 VNDesign 0.1.0
-vntrs 0.2.1
+vntrs 0.3.0
 vocaldia 0.8.4
 voi 1.0.3
 voice 0.5.6

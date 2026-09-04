@@ -1398,7 +1398,7 @@ baytrends 2.0.14
 BB 2026.1.0
 BBC 1.0.0
 bbdetection 1.0
-BBEST 0.1-8
+BBEST 0.1-9
 BBI 0.3.0
 bbk 0.13.0
 bbknnR 2.0.2
@@ -5696,7 +5696,7 @@ EAVA 1.0.0
 eba 1.10-1
 ebal 0.2.1
 EBASE 1.1.0
-EBASS 0.1.1
+EBASS 0.1.2
 ebaTools 0.1.0
 EbayesThresh 1.4-12
 EBCHS 0.1.1
@@ -7505,7 +7505,7 @@ fresh 0.2.2
 freshr 1.0.2
 FrF2 2.3-5
 FrF2.catlg128 1.2-4
-frheritage 0.1.1
+frheritage 0.1.2
 FRI 1.0
 frictionless 1.3.0
 friendlynumber 1.0.0
@@ -10555,7 +10555,7 @@ IVCor 0.1.0
 ivd 1.0.0
 ivdesc 1.1.2
 ivDiag 1.0.6
-IVDML 1.0.1
+IVDML 1.0.2
 ivdoctr 1.0.1
 ivdtools 0.1.3
 ivgets 0.1.2
@@ -16704,7 +16704,7 @@ provParseR 1.0
 provSummarizeR 1.5.1
 provTraceR 1.0
 provViz 1.0.9
-proximetricsR 0.7.0
+proximetricsR 0.7.1
 proxirr 0.5
 ProxReg 1.1.2
 proxy 0.4-29
@@ -18629,6 +18629,7 @@ rLakeAnalyzer 1.11.4.1
 rLakeHabitat 1.0.3
 rlandfire 2.0.2
 rlang 1.3.0
+rlas 1.9.5
 rlcv 1.0.0
 rLDCP 1.0.2
 rle 0.10.0
@@ -19106,7 +19107,7 @@ Rphylopars 0.3.10
 rphylopic 1.7.0
 rpic 0.6.2
 rpinterest 0.3.1
-RPIV 1.1.0
+RPIV 1.1.1
 rpivotTable 0.4.0
 rpkgkit 0.1.7
 rplanes 0.1.0
@@ -21032,6 +21033,7 @@ SOAs 1.4-1
 sobol 1.0.0
 Sobol4R 0.4.0
 sobolnp 0.1.0
+soc.ca 0.8.2
 socceR 0.1.1
 social 1.0
 socialdrift 0.1.0
@@ -23938,7 +23940,7 @@ vaultr 1.2.0
 vaxineR 0.1.0
 vaxpmx 0.0.6
 vayr 1.1.0
-vazul 1.1.0
+vazul 1.2.0
 VBel 1.1.7
 VBLPCM 2.4.9
 vbm 0.1.0

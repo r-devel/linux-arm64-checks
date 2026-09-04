@@ -1593,6 +1593,7 @@ BGLR 1.1.4
 bgmfiles 0.1.0
 BGmisc 1.6.0.1
 bgms 0.2.0.0
+bGMYC4 4.1.6
 BGPhazard 2.1.1
 bgumbel 0.0.3
 BGVAR 2.5.9
@@ -2921,7 +2922,7 @@ CHNOSZ 2.3.0
 choicedata 0.1.0
 choiceDes 0.9-3
 ChoiceModelR 1.3.1
-choicer 0.2.0
+choicer 0.2.1
 CHOIRBM 0.0.3
 cholera 0.9.1
 CholWishart 1.1.4
@@ -16046,6 +16047,7 @@ plotMElm 0.1.5
 plotmm 0.1.2
 plotmo 3.7.1
 PlotNormTest 1.0.1
+plotomics 0.1.0
 plotor 1.1.0
 plotpc 1.0.4
 PlotPrjNetworks 1.0.0
@@ -22336,6 +22338,7 @@ syntheticdata 0.1.0
 synthpop 1.9-2
 synthReturn 1.0.0
 SynthTools 1.0.1
+syrona 0.2.1
 syrup 0.1.4
 sys 3.4.3
 sysAgNPs 1.0.0
@@ -22618,7 +22621,7 @@ terralink 1.8.2
 TesiproV 0.9.6
 tesouror 0.3.0
 tesselle 1.7.0
-tesseract 5.2.5
+tesseract 5.3.0
 test.assessr 2.1.3
 test2norm 0.3.0.1
 TestAnaAPP 1.1.2

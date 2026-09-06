@@ -1555,7 +1555,7 @@ betaper 1.1-3
 betareg 3.2-6
 betaregscale 2.7.4
 betaSandwich 1.0.9
-betaselectr 0.2.3
+betaselectr 0.2.4
 betaStability 0.0.4
 betategarch 3.4
 bethel 0.2
@@ -7726,7 +7726,6 @@ gamlss.data 6.0-7
 gamlss.dist 6.1-1
 gamlss.inf 1.0-2
 gamlss.lasso 1.0-1
-gamlss.mx 6.0-1
 gamlss.tr 5.1-9
 gamlssbssn 0.1.0
 gamlssx 1.0.2
@@ -8825,7 +8824,6 @@ gprofiler2 0.2.4
 gps 1.2
 gps.track 1.0.0
 GPSCDF 0.1.1
-GPSeqClus 1.5.0
 gpss 1.0.3
 GPTCM 2.0.0
 gptoolsStan 1.0.0
@@ -9274,7 +9272,6 @@ hdbayes 0.2.0
 hdbcp 1.0.0
 hdbinseg 1.0.3
 hdbma 1.0
-HDBRR 1.1.4
 hdcate 0.1.0
 HDCD 1.1
 HDclassif 2.2.2
@@ -10301,7 +10298,7 @@ intervals 0.15.5
 IntervalSurgeon 1.3
 intervcomp 0.1.2
 inTextSummaryTable 3.4.0
-inti 0.7.3
+inti 0.7.4
 intkrige 1.0.2
 intmap 1.0.0
 intmed 0.1.2
@@ -12232,7 +12229,6 @@ MBESS 5.0.1
 mbest 0.6.1
 mbg 1.2.0
 MBGapp 0.1.0
-MBHdesign 2.3.15
 mbir 1.3.5
 mblm 0.12.1
 MBmca 1.1-0
@@ -12917,7 +12913,6 @@ mixediffusion 1.0.1
 MixedIndTests 1.2.0
 MixedLevelRSDs 1.0.0
 mixedLSR 0.1.0
-mixedMem 1.1.2
 MixedPoisson 2.0
 MixedPsy 1.3.0
 mixedsde 5.0
@@ -13323,7 +13318,6 @@ morphomap 1.5
 moRphomenses 1.0.3
 MorphoRegions 0.2.0
 MorphoTools2 1.0.2.1
-MorphSim 1.2.0
 morrowplots 0.2.0
 morse 3.3.5
 morseDR 0.1.2
@@ -14483,7 +14477,7 @@ NPHazardRate 0.3
 NPHMC 2.4.2
 nphPower 1.1.0
 nphRCT 0.1.1
-npi 0.3.0
+npi 0.3.1
 NPIstats 0.1.0
 npiv 0.1.3
 nplplot 4.7
@@ -17769,7 +17763,7 @@ RcppPlanc 2.0.15
 RcppProgress 0.4.2
 RcppQuantuccia 0.1.4
 RcppRedis 0.2.6
-RcppRoll 0.3.2
+RcppRoll 0.4.0
 RcppSimdJson 0.1.15
 RcppSMC 0.2.9
 RcppSpdlog 0.0.29
@@ -18644,7 +18638,6 @@ rlas 1.9.5
 rlcv 1.0.0
 rLDCP 1.0.2
 rle 0.10.0
-RLeafAngle 1.0
 rleafmap 0.2.1
 rlecuyer 0.3-8
 rlemon 0.2.1
@@ -20939,7 +20932,7 @@ SMLE 2.2-3
 smlePH 0.1.1
 smlmkalman 0.1.1
 SMLoutliers 0.1
-SMM 1.0.2
+SMM 1.0.3
 SMMAL 0.0.5
 smmR 1.0.5
 SMMT 1.2.0

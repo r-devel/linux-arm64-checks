@@ -16562,7 +16562,7 @@ priorsense 1.2.0
 prism 0.3.0
 PRISM.forecast 0.2.1
 PRISMA 0.2-7
-PRISMA2020 1.1.4
+PRISMA2020 1.1.5
 prismadiagramR 1.0.0
 prismatic 1.1.2
 prismjs 2.1.0
@@ -17518,7 +17518,7 @@ ratesci 1.1.0
 RATest 0.1.11
 RAthena 2.6.3
 RatingScaleReduction 1.4
-ratingtables 0.2.0
+ratingtables 0.2.2
 RationalExp 0.2.2
 rationalfun 0.1-1
 ratios 1.2.0
@@ -19625,7 +19625,7 @@ SAFEMCN 1.0.0
 SAFEPG 0.0.1
 safer 0.2.3
 saferDev 1.0.0
-safestats 0.8.7
+safestats 0.8.8
 safetensors 0.3.0
 safetyData 1.0.0
 SafeVote 1.0.2

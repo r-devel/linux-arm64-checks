@@ -1,6 +1,6 @@
 # circumplex 2.0.0
 
-Latest run: 2026-09-03: https://github.com/r-devel/linux-arm64-checks/actions/runs/33697595982
+Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34005859116
 
 ```
 Package: circumplex

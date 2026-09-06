@@ -1,6 +1,6 @@
 # arsenal 3.7.1
 
-Latest run: 2026-09-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/33288545945
+Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34005678049
 
 ```
 Package: arsenal

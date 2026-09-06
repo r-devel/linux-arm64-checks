@@ -4400,7 +4400,7 @@ dani 0.1-1
 DanielBiostatistics10th 0.2.6
 dann 1.3.0
 daoh 0.1.0
-dapper 1.1.0
+dapper 1.1.1
 daqapo 0.3.2
 DArand 0.0.1.2
 Dark 0.9.9
@@ -8243,7 +8243,7 @@ ggfootball 0.3.0
 ggforce 0.5.0
 ggforestplotR 0.3.1
 ggformula 1.0.1
-ggfortify 0.4.22
+ggfortify 0.4.23
 ggfoundry 0.3.1
 ggfun 0.2.1
 ggfx 1.0.3
@@ -9521,7 +9521,7 @@ hmde 1.4.0
 HMDHFDplus 2.0.8
 hmer 1.6.2
 hmetad 0.2.0
-Hmisc 5.2-6
+Hmisc 5.3-0
 hmix 1.0.3
 HMM 1.0.2
 hmm.discnp 3.0-9
@@ -10654,7 +10654,7 @@ JMbayes2 0.6-0
 JMbdirect 0.1.1
 jmBIG 0.1.3
 jmcm 0.2.5
-jmdem 1.0.1
+jmdem 1.0.2
 JMdesign 1.6
 jmetrik 1.1
 JMH 1.0.4
@@ -12634,7 +12634,7 @@ MFDFA 1.1
 mFDP 0.2.2
 MFF 0.2.4
 mfGARCH 0.2.2
-mFilter 0.1-5
+mFilter 0.1-8
 mFLICA 0.1.7
 MFO 0.1.0
 mfp 1.5.5.1
@@ -17256,7 +17256,7 @@ r2redux 1.0.18
 r2resize 2.0
 R2ROC 1.0.1
 r2rtf 1.3.1
-R2sample 4.1.0
+R2sample 5.0.0
 r2shortcode 0.2
 r2social 1.2.1
 r2spss 0.3.2
@@ -17740,7 +17740,7 @@ RcppDynProg 0.2.1
 RcppEigen 0.3.4.0.2
 RcppEnsmallen 0.3.11.0.1
 RcppExamples 0.1.11
-RcppFarmHash 0.0.3
+RcppFarmHash 0.0.4
 RcppFastAD 0.0.4
 RcppFastFloat 0.0.5
 RcppGetconf 0.0.4
@@ -19410,7 +19410,7 @@ RTLknitr 1.1.1
 rtlr 0.1.0
 rTLS 0.2.6.1
 RTMB 1.9
-RTMBdist 1.0.6
+RTMBdist 1.1.0
 rtmpinv 2.0.0
 rtmpinvi 2.0.0
 rtmpt 2.0-3

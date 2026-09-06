@@ -19988,7 +19988,7 @@ sdmpredictors 0.2.15
 sdmTMB 1.1.0
 SDMtune 1.3.3
 sdmvspecies 0.3.2
-SDPDmod 0.0.7
+SDPDmod 0.0.8
 sdPrior 1.0-0
 sdprisk 1.1-6
 SDPrism2D 0.1.1
@@ -21655,7 +21655,7 @@ sssvcqr 0.0.4
 Sstack 1.0.1
 sstn 1.0.2
 sstvars 1.2.5
-ssutil 1.0.0
+ssutil 1.1.0
 SSVS 2.2.0
 ssw 0.2.1
 ssym 1.5.8
@@ -22219,7 +22219,7 @@ svDialogstcltk 1.0.1
 SVDMx 0.1.0
 SVDNF 0.1.11
 SveltePlots 0.1.0
-SVEMnet 3.5.0
+SVEMnet 3.6.0
 svenssonm 0.1.0
 SVG 1.0.0
 svgedit 1.0.0

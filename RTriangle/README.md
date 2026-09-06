@@ -1,6 +1,6 @@
 # RTriangle 1.6-0.15
 
-Latest run: 2026-09-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/33288425660
+Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34005536065
 
 ```
 Package: RTriangle

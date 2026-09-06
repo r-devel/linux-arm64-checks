@@ -6,7 +6,7 @@
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04.1 LTS
 * using session charset: UTF-8
-* current time: 2026-09-01 09:34:15 UTC
+* current time: 2026-09-06 02:18:51 UTC
 * using options ‘--no-manual --no-vignettes’
 * checking for file ‘baggr/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -25,9 +25,9 @@
 * checking C++ specification ... INFO
   specified C++17
 * checking installed package size ... INFO
-  installed size is 218.7Mb
+  installed size is 205.4Mb
   sub-directories of 1Mb or more:
-    libs  216.7Mb
+    libs  203.4Mb
 * checking package directory ... OK
 * checking ‘build’ directory ... OK
 * checking DESCRIPTION meta-information ... OK

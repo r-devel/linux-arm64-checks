@@ -70,8 +70,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/fusion/func
                  from /usr/local/lib/R/site-library/BH/include/boost/numeric/odeint.hpp:25,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/ode_rk45.hpp:9,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/integrate_ode_rk45.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:16,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:15,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:17,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/dump.hpp:7,
                  from /usr/local/lib/R/site-library/rstan/include/rstan/stan_fit.hpp:43:
 /usr/local/lib/R/site-library/BH/include/boost/get_pointer.hpp: At global scope:
@@ -129,8 +129,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -151,8 +151,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -161,33 +161,30 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
    65 |             void constraints()
       |                  ^~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:11,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:18,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:9,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:19,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/grad_2F1.hpp:14,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:129,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:14:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = std::vector<double>; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:118,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/constraint.hpp:4,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:11:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = std::vector<double>; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    72 |          return hypergeometric_pFq(aj, bj, z, p_abs_error, boost::math::policies::policy<>());
       |                 ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:55:41:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(const Ta&, const Tb&, const Tz&) [with Ta = Eigen::Matrix<double, -1, 1>; Tb = Eigen::Matrix<double, -1, 1>; Tz = double; stan::require_all_eigen_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
-   55 |   return boost::math::hypergeometric_pFq(
-      |          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-   56 |       std::vector<double>(a_ref.data(), a_ref.data() + a_ref.size()),
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   57 |       std::vector<double>(b_ref.data(), b_ref.data() + b_ref.size()), z);
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:125:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
-  125 |   return hypergeometric_pFq(to_vector(a), to_vector(b), z);
-      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:148:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
-  148 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:67:43:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(Ta&&, Tb&&, Tz&&) [with Ta = Eigen::Matrix<double, -1, 1>&; Tb = Eigen::Matrix<double, -1, 1>&; Tz = const double&; stan::require_all_vector_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
+   67 |     return boost::math::hypergeometric_pFq(map_a, map_b, z);
+      |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:130:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
+  130 |   return hypergeometric_pFq(a_ref, b_ref, z);
+      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:154:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
+  154 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
       |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:77:37:   required from here
-   77 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:80:37:   required from here
+   80 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
       |                   ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp:122:28: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   122 |      std::pair<Real, Real> hypergeometric_pFq_checked_series_impl(const Seq& aj, const Seq& bj, const Real& z, const Policy& pol, const Terminal& termination, long long& log_scale)
@@ -223,7 +220,7 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/math/specia
   388 |    BOOST_MATH_GPU_ENABLED result_type operator()()
       |                                       ^~~~~~~~
 In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:260:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:239:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp: In instantiation of ‘std::pair<_FIter, _FIter> boost::math::detail::owens_t_T1_accelerated(T, T, const Policy&) [with T = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:886:46:   required from ‘RealType boost::math::detail::owens_t_dispatch(RealType, RealType, RealType, const Policy&, const std::integral_constant<int, 65>&) [with RealType = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’
   886 |                   p1 = owens_t_T1_accelerated(h, a, forwarding_policy());
@@ -240,15 +237,15 @@ In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/mat
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:1055:24:   required from ‘boost::math::tools::promote_args_t<RT1, RT2> boost::math::owens_t(T1, T2) [with T1 = double; T2 = double; tools::promote_args_t<RT1, RT2> = double]’
  1055 |          return owens_t(h, a, policies::policy<>());
       |                 ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:58:72:   required from here
-   58 | inline double owens_t(double h, double a) { return boost::math::owens_t(h, a); }
-      |                                                    ~~~~~~~~~~~~~~~~~~~~^~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:62:30:   required from here
+   62 |   return boost::math::owens_t(h, a);
+      |          ~~~~~~~~~~~~~~~~~~~~^~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:558:26: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   558 |          std::pair<T, T> owens_t_T1_accelerated(T h, T a, const Policy& pol)
       |                          ^~~~~~~~~~~~~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/binomial.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/choose.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:46:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:42:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/beta.hpp: In instantiation of ‘boost::math::detail::ibeta_fraction2_t<T>::result_type boost::math::detail::ibeta_fraction2_t<T>::operator()() [with T = double; result_type = std::pair<double, double>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:134:20:   required from ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_b_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::ibeta_fraction2_t<double>; U = double; typename fraction_traits<Gen>::result_type = double; uintmax_t = long unsigned int]’
   134 |    value_type v = g();
@@ -1342,17 +1339,10 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_che
 /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:286:9: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
   286 |         BOOST_CONCEPT_USAGE(SinglePassRangeConcept)
       |         ^~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:44: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                            ^
-In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/gamma.hpp:19:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<double>; U = double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<double, double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
-  259 |    value_type v = g();
-      |               ^
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<long double>; U = long double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
 
 
 aarch64-linux-gnu-g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I"../inst/include" -I"/usr/local/lib/R/site-library/StanHeaders/include/src" -DBOOST_DISABLE_ASSERTS -DEIGEN_NO_DEBUG -DBOOST_MATH_OVERFLOW_ERROR_POLICY=errno_on_error -DUSE_STANC3 -D_HAS_AUTO_PTR_ETC=0 -I'/usr/local/lib/R/site-library/StanHeaders/include' -I'/usr/local/lib/R/site-library/rstan/include' -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppEigen/include'    -DRCPP_PARALLEL_USE_TBB=1 -DTBB_INTERFACE_NEW -I/usr/local/lib/R/site-library/RcppParallel/include -I'/usr/local/lib/R/site-library/RcppParallel/include' -D_REENTRANT -DSTAN_THREADS -DTBB_INTERFACE_NEW   -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-G8rfbz/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-G8rfbz/r-base-4.6.1=/usr/src/r-base-4.6.1-6.2604.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c stanExports_mutau.cc -o stanExports_mutau.o
@@ -1414,8 +1404,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/fusion/func
                  from /usr/local/lib/R/site-library/BH/include/boost/numeric/odeint.hpp:25,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/ode_rk45.hpp:9,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/integrate_ode_rk45.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:16,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:15,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:17,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/dump.hpp:7,
                  from /usr/local/lib/R/site-library/rstan/include/rstan/stan_fit.hpp:43:
 /usr/local/lib/R/site-library/BH/include/boost/get_pointer.hpp: At global scope:
@@ -1473,8 +1463,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -1495,8 +1485,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -1505,33 +1495,30 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
    65 |             void constraints()
       |                  ^~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:11,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:18,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:9,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:19,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/grad_2F1.hpp:14,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:129,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:14:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = std::vector<double>; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:118,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/constraint.hpp:4,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:11:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = std::vector<double>; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    72 |          return hypergeometric_pFq(aj, bj, z, p_abs_error, boost::math::policies::policy<>());
       |                 ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:55:41:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(const Ta&, const Tb&, const Tz&) [with Ta = Eigen::Matrix<double, -1, 1>; Tb = Eigen::Matrix<double, -1, 1>; Tz = double; stan::require_all_eigen_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
-   55 |   return boost::math::hypergeometric_pFq(
-      |          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-   56 |       std::vector<double>(a_ref.data(), a_ref.data() + a_ref.size()),
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   57 |       std::vector<double>(b_ref.data(), b_ref.data() + b_ref.size()), z);
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:125:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
-  125 |   return hypergeometric_pFq(to_vector(a), to_vector(b), z);
-      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:148:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
-  148 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:67:43:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(Ta&&, Tb&&, Tz&&) [with Ta = Eigen::Matrix<double, -1, 1>&; Tb = Eigen::Matrix<double, -1, 1>&; Tz = const double&; stan::require_all_vector_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
+   67 |     return boost::math::hypergeometric_pFq(map_a, map_b, z);
+      |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:130:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
+  130 |   return hypergeometric_pFq(a_ref, b_ref, z);
+      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:154:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
+  154 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
       |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:77:37:   required from here
-   77 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:80:37:   required from here
+   80 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
       |                   ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp:122:28: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   122 |      std::pair<Real, Real> hypergeometric_pFq_checked_series_impl(const Seq& aj, const Seq& bj, const Real& z, const Policy& pol, const Terminal& termination, long long& log_scale)
@@ -1567,7 +1554,7 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/math/specia
   388 |    BOOST_MATH_GPU_ENABLED result_type operator()()
       |                                       ^~~~~~~~
 In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:260:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:239:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp: In instantiation of ‘std::pair<_FIter, _FIter> boost::math::detail::owens_t_T1_accelerated(T, T, const Policy&) [with T = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:886:46:   required from ‘RealType boost::math::detail::owens_t_dispatch(RealType, RealType, RealType, const Policy&, const std::integral_constant<int, 65>&) [with RealType = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’
   886 |                   p1 = owens_t_T1_accelerated(h, a, forwarding_policy());
@@ -1584,15 +1571,15 @@ In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/mat
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:1055:24:   required from ‘boost::math::tools::promote_args_t<RT1, RT2> boost::math::owens_t(T1, T2) [with T1 = double; T2 = double; tools::promote_args_t<RT1, RT2> = double]’
  1055 |          return owens_t(h, a, policies::policy<>());
       |                 ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:58:72:   required from here
-   58 | inline double owens_t(double h, double a) { return boost::math::owens_t(h, a); }
-      |                                                    ~~~~~~~~~~~~~~~~~~~~^~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:62:30:   required from here
+   62 |   return boost::math::owens_t(h, a);
+      |          ~~~~~~~~~~~~~~~~~~~~^~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:558:26: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   558 |          std::pair<T, T> owens_t_T1_accelerated(T h, T a, const Policy& pol)
       |                          ^~~~~~~~~~~~~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/binomial.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/choose.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:46:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:42:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/beta.hpp: In instantiation of ‘boost::math::detail::ibeta_fraction2_t<T>::result_type boost::math::detail::ibeta_fraction2_t<T>::operator()() [with T = double; result_type = std::pair<double, double>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:134:20:   required from ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_b_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::ibeta_fraction2_t<double>; U = double; typename fraction_traits<Gen>::result_type = double; uintmax_t = long unsigned int]’
   134 |    value_type v = g();
@@ -2686,17 +2673,10 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_che
 /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:286:9: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
   286 |         BOOST_CONCEPT_USAGE(SinglePassRangeConcept)
       |         ^~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:44: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                            ^
-In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/gamma.hpp:19:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<double>; U = double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<double, double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
-  259 |    value_type v = g();
-      |               ^
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<long double>; U = long double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
 
 
 aarch64-linux-gnu-g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I"../inst/include" -I"/usr/local/lib/R/site-library/StanHeaders/include/src" -DBOOST_DISABLE_ASSERTS -DEIGEN_NO_DEBUG -DBOOST_MATH_OVERFLOW_ERROR_POLICY=errno_on_error -DUSE_STANC3 -D_HAS_AUTO_PTR_ETC=0 -I'/usr/local/lib/R/site-library/StanHeaders/include' -I'/usr/local/lib/R/site-library/rstan/include' -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppEigen/include'    -DRCPP_PARALLEL_USE_TBB=1 -DTBB_INTERFACE_NEW -I/usr/local/lib/R/site-library/RcppParallel/include -I'/usr/local/lib/R/site-library/RcppParallel/include' -D_REENTRANT -DSTAN_THREADS -DTBB_INTERFACE_NEW   -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-G8rfbz/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-G8rfbz/r-base-4.6.1=/usr/src/r-base-4.6.1-6.2604.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c stanExports_mutau_full.cc -o stanExports_mutau_full.o
@@ -2758,8 +2738,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/fusion/func
                  from /usr/local/lib/R/site-library/BH/include/boost/numeric/odeint.hpp:25,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/ode_rk45.hpp:9,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/integrate_ode_rk45.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:16,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:15,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:17,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/dump.hpp:7,
                  from /usr/local/lib/R/site-library/rstan/include/rstan/stan_fit.hpp:43:
 /usr/local/lib/R/site-library/BH/include/boost/get_pointer.hpp: At global scope:
@@ -2817,8 +2797,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -2839,8 +2819,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -2849,33 +2829,30 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
    65 |             void constraints()
       |                  ^~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:11,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:18,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:9,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:19,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/grad_2F1.hpp:14,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:129,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:14:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = std::vector<double>; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:118,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/constraint.hpp:4,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:11:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = std::vector<double>; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    72 |          return hypergeometric_pFq(aj, bj, z, p_abs_error, boost::math::policies::policy<>());
       |                 ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:55:41:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(const Ta&, const Tb&, const Tz&) [with Ta = Eigen::Matrix<double, -1, 1>; Tb = Eigen::Matrix<double, -1, 1>; Tz = double; stan::require_all_eigen_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
-   55 |   return boost::math::hypergeometric_pFq(
-      |          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-   56 |       std::vector<double>(a_ref.data(), a_ref.data() + a_ref.size()),
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   57 |       std::vector<double>(b_ref.data(), b_ref.data() + b_ref.size()), z);
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:125:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
-  125 |   return hypergeometric_pFq(to_vector(a), to_vector(b), z);
-      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:148:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
-  148 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:67:43:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(Ta&&, Tb&&, Tz&&) [with Ta = Eigen::Matrix<double, -1, 1>&; Tb = Eigen::Matrix<double, -1, 1>&; Tz = const double&; stan::require_all_vector_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
+   67 |     return boost::math::hypergeometric_pFq(map_a, map_b, z);
+      |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:130:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
+  130 |   return hypergeometric_pFq(a_ref, b_ref, z);
+      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:154:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
+  154 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
       |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:77:37:   required from here
-   77 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:80:37:   required from here
+   80 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
       |                   ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp:122:28: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   122 |      std::pair<Real, Real> hypergeometric_pFq_checked_series_impl(const Seq& aj, const Seq& bj, const Real& z, const Policy& pol, const Terminal& termination, long long& log_scale)
@@ -2911,7 +2888,7 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/math/specia
   388 |    BOOST_MATH_GPU_ENABLED result_type operator()()
       |                                       ^~~~~~~~
 In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:260:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:239:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp: In instantiation of ‘std::pair<_FIter, _FIter> boost::math::detail::owens_t_T1_accelerated(T, T, const Policy&) [with T = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:886:46:   required from ‘RealType boost::math::detail::owens_t_dispatch(RealType, RealType, RealType, const Policy&, const std::integral_constant<int, 65>&) [with RealType = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’
   886 |                   p1 = owens_t_T1_accelerated(h, a, forwarding_policy());
@@ -2928,15 +2905,15 @@ In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/mat
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:1055:24:   required from ‘boost::math::tools::promote_args_t<RT1, RT2> boost::math::owens_t(T1, T2) [with T1 = double; T2 = double; tools::promote_args_t<RT1, RT2> = double]’
  1055 |          return owens_t(h, a, policies::policy<>());
       |                 ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:58:72:   required from here
-   58 | inline double owens_t(double h, double a) { return boost::math::owens_t(h, a); }
-      |                                                    ~~~~~~~~~~~~~~~~~~~~^~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:62:30:   required from here
+   62 |   return boost::math::owens_t(h, a);
+      |          ~~~~~~~~~~~~~~~~~~~~^~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:558:26: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   558 |          std::pair<T, T> owens_t_T1_accelerated(T h, T a, const Policy& pol)
       |                          ^~~~~~~~~~~~~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/binomial.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/choose.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:46:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:42:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/beta.hpp: In instantiation of ‘boost::math::detail::ibeta_fraction2_t<T>::result_type boost::math::detail::ibeta_fraction2_t<T>::operator()() [with T = double; result_type = std::pair<double, double>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:134:20:   required from ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_b_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::ibeta_fraction2_t<double>; U = double; typename fraction_traits<Gen>::result_type = double; uintmax_t = long unsigned int]’
   134 |    value_type v = g();
@@ -4030,17 +4007,10 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_che
 /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:286:9: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
   286 |         BOOST_CONCEPT_USAGE(SinglePassRangeConcept)
       |         ^~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:44: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                            ^
-In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/gamma.hpp:19:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<double>; U = double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<double, double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
-  259 |    value_type v = g();
-      |               ^
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<long double>; U = long double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
 
 
 aarch64-linux-gnu-g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I"../inst/include" -I"/usr/local/lib/R/site-library/StanHeaders/include/src" -DBOOST_DISABLE_ASSERTS -DEIGEN_NO_DEBUG -DBOOST_MATH_OVERFLOW_ERROR_POLICY=errno_on_error -DUSE_STANC3 -D_HAS_AUTO_PTR_ETC=0 -I'/usr/local/lib/R/site-library/StanHeaders/include' -I'/usr/local/lib/R/site-library/rstan/include' -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppEigen/include'    -DRCPP_PARALLEL_USE_TBB=1 -DTBB_INTERFACE_NEW -I/usr/local/lib/R/site-library/RcppParallel/include -I'/usr/local/lib/R/site-library/RcppParallel/include' -D_REENTRANT -DSTAN_THREADS -DTBB_INTERFACE_NEW   -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-G8rfbz/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-G8rfbz/r-base-4.6.1=/usr/src/r-base-4.6.1-6.2604.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c stanExports_rubin.cc -o stanExports_rubin.o
@@ -4102,8 +4072,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/fusion/func
                  from /usr/local/lib/R/site-library/BH/include/boost/numeric/odeint.hpp:25,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/ode_rk45.hpp:9,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/integrate_ode_rk45.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:16,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:15,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:17,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/dump.hpp:7,
                  from /usr/local/lib/R/site-library/rstan/include/rstan/stan_fit.hpp:43:
 /usr/local/lib/R/site-library/BH/include/boost/get_pointer.hpp: At global scope:
@@ -4161,8 +4131,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -4183,8 +4153,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -4193,33 +4163,30 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
    65 |             void constraints()
       |                  ^~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:11,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:18,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:9,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:19,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/grad_2F1.hpp:14,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:129,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:14:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = std::vector<double>; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:118,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/constraint.hpp:4,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:11:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = std::vector<double>; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    72 |          return hypergeometric_pFq(aj, bj, z, p_abs_error, boost::math::policies::policy<>());
       |                 ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:55:41:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(const Ta&, const Tb&, const Tz&) [with Ta = Eigen::Matrix<double, -1, 1>; Tb = Eigen::Matrix<double, -1, 1>; Tz = double; stan::require_all_eigen_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
-   55 |   return boost::math::hypergeometric_pFq(
-      |          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-   56 |       std::vector<double>(a_ref.data(), a_ref.data() + a_ref.size()),
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   57 |       std::vector<double>(b_ref.data(), b_ref.data() + b_ref.size()), z);
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:125:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
-  125 |   return hypergeometric_pFq(to_vector(a), to_vector(b), z);
-      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:148:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
-  148 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:67:43:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(Ta&&, Tb&&, Tz&&) [with Ta = Eigen::Matrix<double, -1, 1>&; Tb = Eigen::Matrix<double, -1, 1>&; Tz = const double&; stan::require_all_vector_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
+   67 |     return boost::math::hypergeometric_pFq(map_a, map_b, z);
+      |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:130:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
+  130 |   return hypergeometric_pFq(a_ref, b_ref, z);
+      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:154:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
+  154 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
       |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:77:37:   required from here
-   77 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:80:37:   required from here
+   80 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
       |                   ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp:122:28: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   122 |      std::pair<Real, Real> hypergeometric_pFq_checked_series_impl(const Seq& aj, const Seq& bj, const Real& z, const Policy& pol, const Terminal& termination, long long& log_scale)
@@ -4255,7 +4222,7 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/math/specia
   388 |    BOOST_MATH_GPU_ENABLED result_type operator()()
       |                                       ^~~~~~~~
 In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:260:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:239:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp: In instantiation of ‘std::pair<_FIter, _FIter> boost::math::detail::owens_t_T1_accelerated(T, T, const Policy&) [with T = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:886:46:   required from ‘RealType boost::math::detail::owens_t_dispatch(RealType, RealType, RealType, const Policy&, const std::integral_constant<int, 65>&) [with RealType = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’
   886 |                   p1 = owens_t_T1_accelerated(h, a, forwarding_policy());
@@ -4272,15 +4239,15 @@ In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/mat
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:1055:24:   required from ‘boost::math::tools::promote_args_t<RT1, RT2> boost::math::owens_t(T1, T2) [with T1 = double; T2 = double; tools::promote_args_t<RT1, RT2> = double]’
  1055 |          return owens_t(h, a, policies::policy<>());
       |                 ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:58:72:   required from here
-   58 | inline double owens_t(double h, double a) { return boost::math::owens_t(h, a); }
-      |                                                    ~~~~~~~~~~~~~~~~~~~~^~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:62:30:   required from here
+   62 |   return boost::math::owens_t(h, a);
+      |          ~~~~~~~~~~~~~~~~~~~~^~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:558:26: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   558 |          std::pair<T, T> owens_t_T1_accelerated(T h, T a, const Policy& pol)
       |                          ^~~~~~~~~~~~~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/binomial.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/choose.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:46:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:42:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/beta.hpp: In instantiation of ‘boost::math::detail::ibeta_fraction2_t<T>::result_type boost::math::detail::ibeta_fraction2_t<T>::operator()() [with T = double; result_type = std::pair<double, double>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:134:20:   required from ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_b_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::ibeta_fraction2_t<double>; U = double; typename fraction_traits<Gen>::result_type = double; uintmax_t = long unsigned int]’
   134 |    value_type v = g();
@@ -5374,17 +5341,10 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_che
 /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:286:9: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
   286 |         BOOST_CONCEPT_USAGE(SinglePassRangeConcept)
       |         ^~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:44: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                            ^
-In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/gamma.hpp:19:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<double>; U = double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<double, double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
-  259 |    value_type v = g();
-      |               ^
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<long double>; U = long double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
 
 
 aarch64-linux-gnu-g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I"../inst/include" -I"/usr/local/lib/R/site-library/StanHeaders/include/src" -DBOOST_DISABLE_ASSERTS -DEIGEN_NO_DEBUG -DBOOST_MATH_OVERFLOW_ERROR_POLICY=errno_on_error -DUSE_STANC3 -D_HAS_AUTO_PTR_ETC=0 -I'/usr/local/lib/R/site-library/StanHeaders/include' -I'/usr/local/lib/R/site-library/rstan/include' -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RcppParallel/include' -I'/usr/local/lib/R/site-library/RcppEigen/include'    -DRCPP_PARALLEL_USE_TBB=1 -DTBB_INTERFACE_NEW -I/usr/local/lib/R/site-library/RcppParallel/include -I'/usr/local/lib/R/site-library/RcppParallel/include' -D_REENTRANT -DSTAN_THREADS -DTBB_INTERFACE_NEW   -fPIC  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-G8rfbz/r-base-4.6.1=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -mbranch-protection=standard -fdebug-prefix-map=/build/r-base-G8rfbz/r-base-4.6.1=/usr/src/r-base-4.6.1-6.2604.0 -Wdate-time -D_FORTIFY_SOURCE=3   -c stanExports_rubin_full.cc -o stanExports_rubin_full.o
@@ -5446,8 +5406,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/fusion/func
                  from /usr/local/lib/R/site-library/BH/include/boost/numeric/odeint.hpp:25,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/ode_rk45.hpp:9,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor/integrate_ode_rk45.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:16,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:15,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/functor.hpp:17,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/dump.hpp:7,
                  from /usr/local/lib/R/site-library/rstan/include/rstan/stan_fit.hpp:43:
 /usr/local/lib/R/site-library/BH/include/boost/get_pointer.hpp: At global scope:
@@ -5505,8 +5465,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -5527,8 +5487,8 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   182 |                 ::boost::algorithm::const_formatter(Format) );
       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:133:29:   required from here
-  133 |         boost::replace_first(value, " (Default)", "");
+/usr/local/lib/R/site-library/StanHeaders/include/src/stan/io/stan_csv_reader.hpp:132:29:   required from here
+  132 |         boost::replace_first(value, " (Default)", "");
       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/concept/detail/general.hpp:65:52: warning: ‘this’ pointer is null [-Wnonnull]
    65 |     static void failed() { ((Model*)0)->constraints(); }
@@ -5537,33 +5497,30 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/algorithm/s
    65 |             void constraints()
       |                  ^~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:11,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:18,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:9,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_2F1.hpp:19,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/grad_2F1.hpp:14,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:129,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:14:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = std::vector<double>; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:118,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/constraint.hpp:4,
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim.hpp:11:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp: In instantiation of ‘std::pair<_ForwardIterator, _ForwardIterator> boost::math::detail::hypergeometric_pFq_checked_series_impl(const Seq&, const Seq&, const Real&, const Policy&, const Terminal&, long long int&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>; Terminal = iteration_terminator]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:107:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = std::vector<double>; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:72:35:   required from ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; typename tools::promote_args<Real, typename Seq::value_type>::type = double; typename Seq::value_type = double]’
    72 |          return hypergeometric_pFq(aj, bj, z, p_abs_error, boost::math::policies::policy<>());
       |                 ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:55:41:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(const Ta&, const Tb&, const Tz&) [with Ta = Eigen::Matrix<double, -1, 1>; Tb = Eigen::Matrix<double, -1, 1>; Tz = double; stan::require_all_eigen_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
-   55 |   return boost::math::hypergeometric_pFq(
-      |          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-   56 |       std::vector<double>(a_ref.data(), a_ref.data() + a_ref.size()),
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   57 |       std::vector<double>(b_ref.data(), b_ref.data() + b_ref.size()), z);
-      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:125:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
-  125 |   return hypergeometric_pFq(to_vector(a), to_vector(b), z);
-      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:148:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
-  148 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_pFq.hpp:67:43:   required from ‘stan::return_type_t<T_x, T_sigma, T_l> stan::math::hypergeometric_pFq(Ta&&, Tb&&, Tz&&) [with Ta = Eigen::Matrix<double, -1, 1>&; Tb = Eigen::Matrix<double, -1, 1>&; Tz = const double&; stan::require_all_vector_st<std::is_arithmetic, Ta, Tb>* <anonymous> = 0; stan::require_arithmetic_t<Tz>* <anonymous> = 0; stan::return_type_t<T_x, T_sigma, T_l> = double]’
+   67 |     return boost::math::hypergeometric_pFq(map_a, map_b, z);
+      |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:130:28:   required from ‘auto stan::math::hypergeometric_3F2(const Ta&, const Tb&, const Tz&) [with Ta = std::vector<double>; Tb = std::vector<double>; Tz = double; stan::require_all_vector_t<T_y, T_high>* <anonymous> = 0; stan::require_stan_scalar_t<T2>* <anonymous> = 0]’
+  130 |   return hypergeometric_pFq(a_ref, b_ref, z);
+      |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/hypergeometric_3F2.hpp:154:28:   required from ‘auto stan::math::hypergeometric_3F2(const std::initializer_list<_Tp>&, const std::initializer_list<_Value>&, const Tz&) [with Ta = double; Tb = double; Tz = double; stan::require_all_stan_scalar_t<Ta, Tb, Tz>* <anonymous> = 0]’
+  154 |   return hypergeometric_3F2(std::vector<Ta>(a), std::vector<Tb>(b), z);
       |          ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:77:37:   required from here
-   77 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/rev/fun/inv_inc_beta.hpp:80:37:   required from here
+   80 |             + log(hypergeometric_3F2({a_val, a_val, one_m_b}, {ap1, ap1}, w))
       |                   ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/detail/hypergeometric_pFq_checked_series.hpp:122:28: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   122 |      std::pair<Real, Real> hypergeometric_pFq_checked_series_impl(const Seq& aj, const Seq& bj, const Real& z, const Policy& pol, const Terminal& termination, long long& log_scale)
@@ -5599,7 +5556,7 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/math/specia
   388 |    BOOST_MATH_GPU_ENABLED result_type operator()()
       |                                       ^~~~~~~~
 In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:6,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:260:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:239:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp: In instantiation of ‘std::pair<_FIter, _FIter> boost::math::detail::owens_t_T1_accelerated(T, T, const Policy&) [with T = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:886:46:   required from ‘RealType boost::math::detail::owens_t_dispatch(RealType, RealType, RealType, const Policy&, const std::integral_constant<int, 65>&) [with RealType = long double; Policy = boost::math::policies::policy<boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy, boost::math::policies::default_policy>]’
   886 |                   p1 = owens_t_T1_accelerated(h, a, forwarding_policy());
@@ -5616,15 +5573,15 @@ In file included from /usr/local/lib/R/site-library/StanHeaders/include/stan/mat
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:1055:24:   required from ‘boost::math::tools::promote_args_t<RT1, RT2> boost::math::owens_t(T1, T2) [with T1 = double; T2 = double; tools::promote_args_t<RT1, RT2> = double]’
  1055 |          return owens_t(h, a, policies::policy<>());
       |                 ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:58:72:   required from here
-   58 | inline double owens_t(double h, double a) { return boost::math::owens_t(h, a); }
-      |                                                    ~~~~~~~~~~~~~~~~~~~~^~~~~~
+/usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/owens_t.hpp:62:30:   required from here
+   62 |   return boost::math::owens_t(h, a);
+      |          ~~~~~~~~~~~~~~~~~~~~^~~~~~
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/owens_t.hpp:558:26: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
   558 |          std::pair<T, T> owens_t_T1_accelerated(T h, T a, const Policy& pol)
       |                          ^~~~~~~~~~~~~~~~~~~~~~
 In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/binomial.hpp:17,
                  from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun/choose.hpp:7,
-                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:46:
+                 from /usr/local/lib/R/site-library/StanHeaders/include/stan/math/prim/fun.hpp:42:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/beta.hpp: In instantiation of ‘boost::math::detail::ibeta_fraction2_t<T>::result_type boost::math::detail::ibeta_fraction2_t<T>::operator()() [with T = double; result_type = std::pair<double, double>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:134:20:   required from ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_b_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::ibeta_fraction2_t<double>; U = double; typename fraction_traits<Gen>::result_type = double; uintmax_t = long unsigned int]’
   134 |    value_type v = g();
@@ -6718,17 +6675,10 @@ In file included from /usr/local/lib/R/site-library/BH/include/boost/concept_che
 /usr/local/lib/R/site-library/BH/include/boost/range/concepts.hpp:286:9: note: in expansion of macro ‘BOOST_CONCEPT_USAGE’
   286 |         BOOST_CONCEPT_USAGE(SinglePassRangeConcept)
       |         ^~~~~~~~~~~~~~~~~~~
-/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = std::vector<double>; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
+/usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp: In function ‘typename boost::math::tools::promote_args<Real, typename Seq::value_type>::type boost::math::hypergeometric_pFq(const Seq&, const Seq&, const Real&, Real*, const Policy&) [with Seq = Eigen::Map<Eigen::Matrix<double, -1, 1>, 0, Eigen::Stride<0, 0> >; Real = double; Policy = policies::policy<policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy, policies::default_policy>]’:
 /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/hypergeometric_pFq.hpp:61:44: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
    61 |          std::pair<value_type, value_type> r = boost::math::detail::hypergeometric_pFq_checked_series_impl(aj, bj, value_type(z), pol, boost::math::detail::iteration_terminator(boost::math::policies::get_max_series_iterations<forwarding_policy>()), scale);
       |                                            ^
-In file included from /usr/local/lib/R/site-library/BH/include/boost/math/special_functions/gamma.hpp:19:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<double>; U = double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<double, double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
-  259 |    value_type v = g();
-      |               ^
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp: In function ‘typename boost::math::tools::detail::fraction_traits<Gen>::result_type boost::math::tools::detail::continued_fraction_a_impl(Gen&, const U&, uintmax_t&) [with Gen = boost::math::detail::upper_incomplete_gamma_fract<long double>; U = long double]’:
-/usr/local/lib/R/site-library/BH/include/boost/math/tools/fraction.hpp:259:15: note: parameter passing for argument of type ‘std::pair<long double, long double>’ when C++17 is enabled changed to match C++14 in GCC 10.1
 aarch64-linux-gnu-g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,--package-metadata=%7B%22type%22:%22deb%22%2C%22os%22:%22ubuntu%22%2C%22name%22:%22r-base%22%2C%22version%22:%224.6.1-6.2604.0%22%2C%22architecture%22:%22arm64%22%7D -flto=auto -ffat-lto-objects -Wl,-z,relro -o baggr.so RcppExports.o stanExports_logit.o stanExports_mutau.o stanExports_mutau_full.o stanExports_rubin.o stanExports_rubin_full.o -L/usr/local/lib/R/site-library/RcppParallel/lib/ -Wl,-rpath,/usr/local/lib/R/site-library/RcppParallel/lib/ -ltbb -ltbbmalloc -L/usr/lib/R/lib -lR
 installing to /__w/linux-arm64-checks/linux-arm64-checks/mylib/00LOCK-baggr/00new/baggr/libs
 ** R

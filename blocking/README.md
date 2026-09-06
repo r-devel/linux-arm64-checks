@@ -1,6 +1,6 @@
 # blocking 1.0.3
 
-Latest run: 2026-09-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/33288623322
+Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34005766872
 
 ```
 Package: blocking

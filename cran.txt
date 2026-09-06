@@ -10945,7 +10945,7 @@ KnapsackSampling 0.1.1
 KneeArrower 1.0.0
 knfi 1.0.2
 knitcitations 1.0.12
-knitr 1.51
+knitr 1.52
 knitrBootstrap 1.0.4
 knitrdata 0.6.2
 knitrProgressBar 1.1.1
@@ -12236,7 +12236,7 @@ MBMethPred 0.1.4.4
 mbmixture 0.8
 MBNMAdose 0.5.1
 MBNMAtime 0.2.6
-mboost 2.9-13
+mboost 2.9-14
 mbr 0.0.1
 mbrdr 1.1.1
 mbreaks 1.0.1

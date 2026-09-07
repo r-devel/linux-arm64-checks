@@ -1689,7 +1689,7 @@ bikm1 1.1.0
 bild 1.2-1
 billboard 0.1.0
 billboarder 0.5.1
-BiMaUmisc 0.1.0
+BiMaUmisc 0.2.0
 bimets 4.1.2
 BimodalIndex 1.1.11
 bin2norm 0.1.1
@@ -2319,7 +2319,7 @@ buzzMed 0.1.4
 Bvalue 1.0
 BVAR 1.0.5
 bvarnet 1.0.2
-bvars 1.0
+bvars 1.1
 bvarsv 1.1
 bvartools 0.2.4
 BVARverse 0.0.1
@@ -2697,7 +2697,7 @@ CDsampling 0.1.6
 CDSE 0.3.2
 CDSim 0.1.2
 CDSimX 1.1.2
-CDSS 0.3-1
+CDSS 1.0-0
 cdtmbnma 0.2.1
 CDVI 0.1.0
 CEACT 0.5.0
@@ -3577,6 +3577,7 @@ CompositionalMPT 1.0
 CompositionalNAimp 1.1
 CompositionalRF 1.6
 CompositionalSR 1.4
+CompositionalZADR 1.0
 Compositionalzerocens 1.0
 compositions 2.0-9
 compost 0.2.0
@@ -6391,7 +6392,7 @@ eva3dm 1.20
 evabic 0.1.4
 Evacluster 0.1.0
 evacpath 0.1.0
-evalHTE 0.1.1
+evalHTE 0.2.0
 evalITR 1.1.0
 evalR 0.0.1
 EvalTest 1.0.6
@@ -9867,6 +9868,7 @@ ICGE 0.4.3
 ICglm 0.1.0
 ICGOR 2.0
 ichimoku 1.5.7
+icio 1.0.0
 iClick 1.6.1
 iclogcondist 1.0.1
 iClusterVB 0.1.4
@@ -11104,7 +11106,7 @@ lakhesis 1.1.2
 LAM 0.7-22
 LaMa 2.1.3
 lambda.r 1.2.4
-lambdaTS 1.1
+lambdaTS 2.0.0
 lambdr 1.2.5
 LambertW 0.6.9-2
 lame 1.3.4
@@ -17772,6 +17774,7 @@ RcppThread 2.4.0
 rcpptimer 1.2.1
 RcppTN 0.2-2
 RcppTOML 0.2.3
+RcppTrust 0.1.0
 RcppTskit 0.2.0
 RcppUUID 1.2.0
 RcppXPtrUtils 0.1.3
@@ -22088,7 +22091,7 @@ support.BWS2 0.4-0
 support.BWS3 0.2-1
 support.CEs 0.7-0
 supportR 1.6.0
-suppr 1.0.0
+suppr 1.0.1
 sur 1.0.4
 sure 0.2.0
 sureLDA 0.1.0-1

@@ -6074,7 +6074,7 @@ EMSNM 1.0
 EMSS 1.1.1
 emstreeR 3.2.0
 EMT 1.3.2
-emulator 1.2-24
+emulator 1.3-0
 emuR 2.6.0
 enaho 0.2.5
 eNchange 1.1
@@ -6392,7 +6392,7 @@ evabic 0.1.4
 Evacluster 0.1.0
 evacpath 0.1.0
 evalHTE 0.1.1
-evalITR 1.0.0
+evalITR 1.1.0
 evalR 0.0.1
 EvalTest 1.0.6
 evaluate 1.0.5
@@ -8180,7 +8180,7 @@ ggarrow 0.2.0
 ggauto 0.0.2
 ggautomap 0.4.0
 ggbeeswarm 0.7.3
-ggbiplot 0.6.2
+ggbiplot 0.6.5
 ggblanket 21.0.0
 ggblend 0.1.2
 ggbond 0.0.5
@@ -9204,7 +9204,7 @@ HaploDiploidEquilibrium 0.1.0
 HaploSim 1.8.4.2
 haplotyper 0.1
 haplotypes 1.1.3.2
-HaploVar 0.1.1
+HaploVar 0.1.2
 happign 0.3.8
 HAPTRACE 0.1.1
 harbinger 2.1.707
@@ -9282,7 +9282,7 @@ hdcuremodels 0.0.8
 HDCurves 0.1.2
 hdd 0.1.2
 hdf5lib 2.1.1.2
-hdf5r 1.3.12
+hdf5r 1.3.15
 hdf5r.Extra 0.1.0
 hdflex 0.3.2
 hdfqlr 0.6-2
@@ -9319,7 +9319,7 @@ HDtweedie 1.2
 HDXBoxeR 0.0.2
 headliner 0.0.3
 healthatlas 0.2.3
-healthbR 0.2.0
+healthbR 0.4.0
 HealthCal 0.1.1
 healthcare.antitrust 0.1.6
 healthdb 0.5.1
@@ -11023,7 +11023,7 @@ ksrlive 1.0
 kssa 0.0.5
 kst 0.5-5
 kStatistics 2.1.1
-kstIO 0.5-1
+kstIO 0.6-0
 kstMatrix 3.0-0
 ktaucenters 1.0.0
 KTensorGraphs 1.1
@@ -14117,7 +14117,7 @@ NeuralEstimators 0.2.1
 neuralGAM 2.0.1
 neuralnet 1.44.2
 NeuralNetTools 1.5.3
-neuralnetwork 0.1.0
+neuralnetwork 0.1.1
 neuralsbi 0.3.2
 NeuralSens 1.1.3
 neurobase 1.34.0
@@ -15198,7 +15198,7 @@ pairsD3 0.1.3
 PairViz 1.3.8
 pairwise 0.6.2-0
 pairwiseCI 0.1-27
-pairwiseLLM 1.1.0
+pairwiseLLM 1.3.1
 paisaje 0.3.0
 pak 0.11.1
 PakPC2017 1.0.0
@@ -17586,7 +17586,7 @@ rbmi 1.6.1
 rbmiUtils 0.3.0
 rbmn 0.9-6
 RBNZ 3.0.0
-Rborist 0.3-11
+Rborist 0.3-12
 rbounds 2.2
 RBPcurve 1.3
 rbranding 0.1.1
@@ -18112,7 +18112,7 @@ relations 0.6-18
 RelativeDistClust 0.1.0
 relcircle 1.0
 reldist 1.7-2
-RelDists 1.0.1
+RelDists 1.0.2
 releaser 1.2.1
 Relectoral 0.1.0
 relevance 2.1
@@ -18214,7 +18214,7 @@ reproducible 3.2.1
 reproducibleRchunks 1.2.0
 reproducr 0.2.0
 reproj 0.8.0
-reproresearchR 0.1.1
+reproresearchR 0.1.2
 ReproStat 0.1.2
 REPS 1.1.1
 repsd 1.0.1
@@ -18754,7 +18754,7 @@ Rmpi 0.7-3.4
 rmpw 0.0.6
 rms 8.1-1
 rmsb 1.1-2
-rmsBMA 0.1.2
+rmsBMA 0.2.0
 RMSD 0.1.1
 RMSDp 0.1.1
 rmsfact 0.0.3
@@ -19564,7 +19564,7 @@ s2net 1.0.7
 s3 1.1.0
 s3.resourcer 1.1.2
 s3fs 0.1.7
-S3VS 1.0
+S3VS 1.1
 S4DM 0.0.2
 S7 0.2.2
 s7contract 0.1.0
@@ -21486,7 +21486,7 @@ spoiler 1.0.0
 SpoMAG 0.1.0
 spongebob 0.4.0
 spongecake 0.1.2
-spooky 1.4.0
+spooky 2.0.0
 spopt 0.1.2
 SporeLag 0.1.1
 spork 0.3.5
@@ -24407,7 +24407,7 @@ weightQuant 1.0.1
 weightr 2.0.2
 weights 1.1.2
 WeightSVM 1.7-16
-weird 3.0.0
+weird 3.1.0
 weirs 0.26
 welo 0.1.5
 WeMix 4.0.3

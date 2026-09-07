@@ -2710,7 +2710,7 @@ CEEMDANML 0.1.0
 CEGO 2.4.4
 celestial 1.5.8
 CellDEEP 1.0.1
-cellGeometry 0.6.3
+cellGeometry 0.6.4
 cellKey 1.0.3
 cellkeyperturbation 3.0.0
 cellOrigins 0.1.3
@@ -3367,7 +3367,7 @@ codebookr 0.1.9
 codebreaker 1.0.1
 CodeCarbonR 0.1.0
 codeCollection 0.1.3
-codecountR 0.0.4.8
+codecountR 0.0.4.9
 CodeDepends 0.6.7
 codelist 0.1.0
 CodelistGenerator 4.1.0
@@ -11159,7 +11159,7 @@ latenetwork 1.0.1
 latent2likert 1.2.1
 LatentBMA 0.1.3
 latentcor 2.0.2
-latentFactoR 0.0.8
+latentFactoR 0.0.9
 latentnet 2.12.0
 later 1.4.8
 later2 0.1
@@ -11686,7 +11686,7 @@ LogRegEquiv 0.1.5
 logrx 0.4.0
 logrxaddin 0.0.1
 logspline 2.1.22
-logStirling2 0.2.0
+logStirling2 0.3.0
 logtree 0.2.0
 lokern 1.1-12
 lolog 1.3.2
@@ -13645,7 +13645,7 @@ multilaterals 2.0
 MultiLCIRT 2.12
 multilevel 2.8
 multilevelcoda 1.3.3
-multilevelmediation 0.4.1
+multilevelmediation 0.5.0
 multilevelmod 1.0.0
 MultiLevelOptimalBayes 0.0.4.0
 multilevelPSA 1.3.1
@@ -13730,7 +13730,7 @@ multiway 1.0-7
 MultiwayRegression 1.2
 multiwayvcov 1.2.3
 MultNonParam 1.3.9
-MultOrdRS 0.1-3
+MultOrdRS 0.1-4
 multpois 0.3.3
 MultRegCMP 0.1.0
 MultSurvTests 0.2
@@ -15498,7 +15498,7 @@ PCLassoReg 1.0.0
 pcmabc 1.1.3
 PCMBase 1.2.15
 PCMBaseCpp 0.1.12
-PCMRS 0.1-5
+PCMRS 0.1-6
 pcnetmeta 2.8
 PCObw 0.0.1
 pCODE 0.9.4
@@ -15672,7 +15672,7 @@ PerRegMod 4.4.3
 perry 0.3.1
 perryExamples 0.1.1
 persDx 0.5.0
-persistence 1.0.0
+persistence 1.0.1
 PersomicsArray 1.0
 personalized 0.2.8
 personalized2part 0.0.2
@@ -16317,7 +16317,7 @@ postcards 0.2.3
 PostcodesioR 0.3.1
 postdoc 1.4.2
 posterior 1.7.0
-PosteriorBootstrap 0.1.2
+PosteriorBootstrap 0.1.3
 postHoc 0.1.3
 postinfectious 0.1.0
 postlightmercury 1.2
@@ -16686,7 +16686,7 @@ protein8k 0.0.2
 ProteinPCA 0.1.1
 ProteoBayes 1.0.0
 proteomicsCV 0.4.0
-proteus 1.1.5
+proteus 2.0.0
 protHMM 0.1.1
 proto 1.0.0
 protoclust 1.6.4
@@ -17278,7 +17278,7 @@ R4GoodPersonalFinances 1.2.0
 r4googleads 0.1.1
 R4HCR 0.1
 r4lineups 0.1.1
-r4pde 0.1.0
+r4pde 0.2.2
 r4ss 1.44.0
 r4sub 0.1.0
 r4subcore 0.1.0
@@ -17403,7 +17403,7 @@ randompack 0.1.10
 RandomProjectionTest 0.1.4
 randomUniformForest 1.1.6
 Randomuseragent 0.0.1
-RandomWalker 1.0.0
+RandomWalker 1.1.0
 randotools 0.2.8
 randPedPCA 1.1.3
 RandPro 0.2.2
@@ -17512,7 +17512,7 @@ rater 1.3.2
 rateratio.test 1.1
 raters 2.1.1
 ratesci 1.1.0
-RATest 0.1.11
+RATest 0.1.12
 RAthena 2.6.3
 RatingScaleReduction 1.4
 ratingtables 0.2.2
@@ -20060,7 +20060,7 @@ SEERaBomb 2019.2
 seewave 2.2.4
 segclust2d 0.3.3
 SegCorr 1.2
-segen 2.0.0
+segen 2.0.1
 SegEnvIneq 1.2
 segmag 1.2.4
 segmented 2.2-1
@@ -21245,7 +21245,7 @@ SPARTAAS 1.2.7
 sparvaride 1.0.0
 spass 1.3
 spate 1.7.5
-spatemR 1.3.0
+spatemR 1.4.0
 SpatEntropy 2.2-4
 SPAtest 3.1.2
 SpatFD 0.0.1
@@ -21820,7 +21820,7 @@ SteadyStateBVAR 0.1.1
 StealLikeBayes 2.0
 steepness 0.3-0
 SteinIV 0.1-1
-steinsampling 0.1.1
+steinsampling 0.1.2
 stelfi 1.0.2
 stellaR 0.3-6
 StemAnalysis 0.1.0
@@ -22478,7 +22478,7 @@ taxadb 0.3.0
 taxalight 0.1.5
 TaxaNorm 2.4
 taxdiv 0.1.0
-TaxicabCA 0.1.1
+TaxicabCA 0.1.2
 taxify 0.5.0
 taxize 0.10.1
 taxizedb 0.3.2
@@ -24814,7 +24814,7 @@ zentraR 0.1.3
 ZEP 0.3.1
 zephyr 0.1.3
 zeroEQpart 0.1.0
-ZeroOneDists 1.0.0
+ZeroOneDists 1.0.1
 zetadiv 1.3.0
 ZetaSuite 1.0.3
 zfa 1.1.0
@@ -24829,7 +24829,7 @@ ZINAR1 0.1.0
 ZINARp 0.1.0
 zip 3.0.2
 ZIPBayes 1.0.2
-zipcodeR 0.3.5
+zipcodeR 0.4.0
 ZIPFA 0.8.1
 zipfextR 1.0.2
 zipfR 0.6-70

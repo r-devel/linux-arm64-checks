@@ -3019,7 +3019,7 @@ circularKDE 0.1.1
 circularNet 0.1.0
 CircularRegression 0.5.1
 CircularSilhouette 0.0.1
-circumplex 2.0.0
+circumplex 2.0.1
 cirls 0.4.0
 cIRT 1.3.3
 CIS.DGLM 0.1.0
@@ -5083,7 +5083,7 @@ discoveR 3.1.7
 discoverableresearch 0.0.1
 discovr 1.0.0
 DiscreteDatasets 0.2.0
-DiscreteDists 1.1.2
+DiscreteDists 1.1.3
 DiscreteDLM 1.0.0
 DiscreteFDR 2.1.1
 discretefit 0.1.3
@@ -7131,7 +7131,7 @@ fitteR 0.2.0
 FitUltD 3.1.0
 fitur 0.6.2
 fitVARMxID 1.0.6
-FitVerse 1.0-1
+FitVerse 1.0-2
 fitzRoy 1.8.0
 fivethirtyeight 0.6.2
 fixedCV 0.1.0
@@ -7848,6 +7848,7 @@ gde 0.2.1
 gdi 1.10.0
 gdiff 0.2-5
 GDILM.ME 1.2.1
+GDILM.SEIRS 0.0.7
 GDILM.SIR 1.2.1
 gdim 0.1.1
 GDINA 2.9.12
@@ -8362,7 +8363,7 @@ ggrecipes 0.1.0
 ggredist 0.0.4
 ggrefine 0.5.0
 ggrepel 0.9.8
-ggResidpanel 0.4.0
+ggResidpanel 0.4.1
 ggreveal 0.2.0
 GGRidge 1.1.0
 ggridges 0.5.7
@@ -11224,7 +11225,7 @@ lcmm 2.2.2
 LCMSQA 1.0.2
 lconnect 0.1.2
 lcopula 1.0.7
-LCPA 1.0.2
+LCPA 1.0.4
 lcpm 0.1.1
 lcra 1.1.5
 lcsm 0.3.3
@@ -19136,7 +19137,7 @@ RPostgreSQL 0.7-8
 rPowerSampleSize 1.0.2
 RPPanalyzer 1.4.9
 RPPASPACE 1.0.10
-rpql 0.8.3
+rpql 0.8.4
 rPraat 1.3.2-1
 rPref 1.5.0
 RPregression 0.1.0
@@ -22487,7 +22488,7 @@ TaylorRussell 1.2.1
 tayloRswift 0.1.0
 TBA 0.1.0
 tbd 0.1.0
-tbea 1.7.0
+tbea 1.8.0
 TBEST 5.2
 TBFmultinomial 0.1.3
 tbl2xts 1.0.6

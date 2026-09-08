@@ -1,5 +1,5 @@
 a11yShiny 0.1.4
-a5R 0.5.0
+a5R 0.6.0
 aae.pop 0.2.0
 AalenJohansen 1.0
 aamatch 0.4.5
@@ -123,6 +123,7 @@ activity 1.3.4
 activityCounts 0.2.1
 ActivityIndex 0.3.7
 activPAL 0.1.4
+actiwalkability 0.1.0
 actLifer 1.0.0
 actogrammr 0.2.3
 actuar 3.3-7
@@ -374,6 +375,7 @@ AiES 0.99.6
 aiEvalR 0.1.0
 aifeducation 1.1.6
 AIFFtools 1.0
+AIGENIE 2.1.2
 AIGovernance 0.1.0
 AIGRA 0.2.0
 aihuman 1.0.1
@@ -702,6 +704,7 @@ APTIcalc 0.1.1
 apyramid 0.1.3
 AQEval 0.6.11
 aqfig 0.9
+AQIR 0.1.0
 AQLSchemes 1.7-2
 aqp 2.3.2
 AquaAnalytix 0.1.0
@@ -923,7 +926,7 @@ AtlasMaker 0.1.0
 AtmChile 1.2.0
 atmopt 0.1.0
 ATNr 1.1.2
-ato 0.1.0
+ato 0.1.1
 atom4R 0.3-4
 atpolR 0.1.1
 ATQ 0.2.3
@@ -1411,6 +1414,7 @@ bbmle 1.0.26
 bbnet 1.2.1
 BBNI 0.2.2
 bbotk 1.13.0
+bbqr 0.1.0
 bbreg 2.0.2
 bbssr 2.0.0
 bbw 0.3.1
@@ -2310,6 +2314,7 @@ BUSfinancial 0.1.0
 bushtucker 0.1.0
 BusinessDuration 0.2.0
 businessPlanR 0.1-0
+BuSuCo 0.2.0
 butcher 0.4.0
 butterfly 1.1.2
 butterflyOptions 1.0.1
@@ -2541,6 +2546,7 @@ CatDyn 1.1-1
 categoryEncodings 1.4.3
 catekappa 0.1.1
 CatEncoders 0.1.1
+catfda 0.1.0
 catfun 0.1.4
 cati 0.99.6
 catIrt 0.5.1
@@ -2906,6 +2912,7 @@ childfree 0.0.6
 childpen 0.2.3
 childsds 0.9.11
 ChileDataAPI 0.3.0
+chilemapas 0.4.1
 ChillModels 1.0.2
 chillR 0.77
 ChinAPIs 0.2.0
@@ -2917,6 +2924,7 @@ chisquare 1.2
 chk 0.11.0
 chlorpromazineR 0.2.0
 CHMM 0.1.1
+chms 7.1
 chmsflow 0.1.0
 CHNCapitalStock 0.1.1
 chngpt 2024.11-15
@@ -3228,7 +3236,7 @@ clusterMI 1.6
 clustermole 1.1.1
 clustermq 0.10.1
 clusternomics 0.1.1
-ClusterR 1.3.6
+ClusterR 1.3.7
 ClusterRandSSAdj 1.0.0
 ClusterRankTest 1.0
 clusterRepro 0.9
@@ -4006,7 +4014,6 @@ cpp11 0.5.5
 cpp11armadillo 0.5.4
 cpp11bigwig 0.3.1
 cpp11eigen 0.2.0
-cpp11qpdf 1.3.5
 cpp4r 1.1.0
 cppally 1.1.0
 cppcheckR 1.0.0
@@ -4163,7 +4170,7 @@ csdata 2026.7.2
 csdb 2026.5.13
 csdm 1.0.1
 CSDownscale 0.0.3
-cSEM 0.6.1
+cSEM 0.7.1
 csemGT 1.0.0
 csemTools 0.2.1
 CSeqpat 0.1.2
@@ -5358,6 +5365,7 @@ dppmix 0.1.2
 DPQ 0.6-2
 DPQBootstrap 0.1.1
 DPQmpfr 0.3-3
+DPrivStats 0.1.0
 dprop 0.1.0
 dpseg 0.1.1
 DPTM 3.0.2
@@ -5844,7 +5852,7 @@ edgebundle 1.0.0
 edgebundleR 0.1.4
 edgeCorr 1.0
 edgedata 0.2.0
-edgemodelr 0.4.1
+edgemodelr 0.4.3
 edibble 1.1.1
 ediblecity 0.2.2
 edina 0.1.2
@@ -5953,6 +5961,7 @@ eirm 0.5
 eive 3.1.3
 EIX 1.2.1
 eixport 0.6.2
+ekioplot 1.1.0
 EKMCMC 1.1.2
 eks 1.1.3
 EL 1.4
@@ -7481,7 +7490,7 @@ frechet 0.3.0
 fred 0.2.0
 fredr 2.1.0
 free 1.0.2
-free1way.docreg 1.0-2
+free1way.docreg 1.0-3
 freealg 1.1-8
 freebsdcontribs 0.1.0
 freecurrencyapi 0.1.0
@@ -8799,7 +8808,7 @@ gpciLindApproxProgII 0.1.1
 gpciLindleyApprox 0.1.0
 gpciProgTyII 0.1.0
 gpciProgTyIIImpSam 0.1.0
-GPCMlasso 0.1-9
+GPCMlasso 0.2-0
 gpcp 0.1.0
 GPCsign 0.1.1
 GPEMR 0.1.0
@@ -11005,7 +11014,7 @@ KRIS 1.1.6
 KRLS 1.7-1
 krm 2022.10-17
 KRMM 1.0
-kro.inv.test 0.1.2
+kro.inv.test 0.1.3
 kronos 1.0.0
 KRONX 0.1.0
 kronxNBC 0.1.1
@@ -11040,7 +11049,7 @@ Kurt 1.1
 kutils 1.73
 kuzco 0.1.0
 kuzuR 0.2.3
-kvh 1.4.2
+kvh 1.5.0
 kvkapiR 0.1.2
 kvr2 0.2.0
 KWCChangepoint 0.2.3
@@ -11864,7 +11873,7 @@ luzlogr 0.2.1
 LVGP 2.1.6
 lvimp 1.0.0
 lvmisc 0.1.2
-lvmPlot 0.1.0
+lvmPlot 0.1.1
 lvnet 0.3.5
 lvplot 0.2.2
 lwc2022 1.0.1
@@ -12824,6 +12833,7 @@ minioclient 0.0.7
 miniPCH 0.4.1
 minipdf 0.2.7
 Minirand 0.1.3
+minirocketR 0.1.0
 miniUI 0.1.2
 minMSE 0.5.1
 minorparties 1.0.0
@@ -13057,7 +13067,7 @@ mlr3forecast 0.2.0
 mlr3fselect 1.7.0
 mlr3hyperband 1.1.1
 mlr3inferr 0.2.2
-mlr3learners 0.15.1
+mlr3learners 0.16.0
 mlr3mbo 1.2.1
 mlr3measures 1.3.0
 mlr3misc 0.23.0
@@ -13736,7 +13746,7 @@ MultOrdRS 0.1-4
 multpois 0.3.3
 MultRegCMP 0.1.0
 MultSurvTests 0.2
-multvardiv 1.0.15
+multvardiv 1.0.16
 multxpert 0.1.1
 MulvariateRandomForestVarImp 0.0.2
 mumarinex 2.0
@@ -14239,6 +14249,7 @@ nipnTK 0.2.2
 NipponMap 0.2
 NIPTeR 1.0.2
 NIRStat 1.1
+nisone 0.0.2
 NISTnls 0.9-13
 NISTunits 1.0.1
 NitrogenUptake2016 0.2.3
@@ -14568,6 +14579,7 @@ NumericEnsembles 1.2
 Numero 1.10.1
 numform 0.7.0
 numKM 0.2.0
+numops 1.0.0
 numOSL 2.8
 numspellR 0.1.0
 NUSS 0.1.0
@@ -14647,6 +14659,7 @@ ocp 0.1.1
 ocrRBBR 0.1.0
 ocs4R 0.3.1
 OCSdata 1.0.2
+octawave 0.1.0
 octopucs 0.1.1
 octopus 0.4.2
 octopusR 1.0.1
@@ -15537,6 +15550,7 @@ pdfminer 1.0
 pdfsearch 0.4.3
 pdftables 0.1
 pdftools 3.9.1
+pdglasso 2.0.1
 pdi 0.4.3
 PDIndex 0.1.0
 pdist 1.2.1
@@ -15901,6 +15915,7 @@ PINNProgCens 0.1.0
 pinochet 0.1.0
 pinp 0.0.11
 pins 1.4.2
+pinsearch 0.1.6
 PINSPlus 2.0.10
 PINstimation 0.2.0
 pinterestadsR 0.1.0
@@ -16507,6 +16522,7 @@ PResiduals 1.0-2
 presize 0.3.11
 presmoothedTP 0.1.0
 presmTP 1.1.0
+pressfreedom 0.2.0
 pressfreedom.data 0.3.0
 PressPurt 1.0.2
 pressuRe 0.2.7
@@ -16610,7 +16626,7 @@ prodest 1.0.2
 prodigenr 0.7.0
 prodlim 2026.03.11
 ProduceR 1.3
-productivity 1.1.0
+productivity 1.1.2
 productplots 0.1.2
 productshotaiR 0.1.0
 ProFAST 1.9
@@ -16752,6 +16768,7 @@ pseudobibeR 1.2
 pseudoCure 1.0.0
 pseudohouseholds 0.1.1
 pseudorank 1.0.4
+PseudoVoigtMixt 0.1.0
 pseval 1.3.3
 PSF 0.5
 psfmi 1.4.0
@@ -17054,7 +17071,7 @@ QR.break 1.0.3
 qra 0.2.8.1
 QRAGadget 0.4
 QRank 1.0
-qrcm 3.3
+qrcm 3.4
 qrcmNP 0.2.2
 qrcode 0.3.0
 QregBB 1.0.0
@@ -20289,6 +20306,7 @@ sfislands 1.1.2
 SFM 0.2.1
 sfnetworks 0.6.6
 SFOCDs 1.2.0
+sfOpenData 0.1.2
 SFPL 1.0.1
 sfReapportion 0.2.0
 sfsmisc 1.1-25
@@ -21247,6 +21265,7 @@ sparta 1.0.1
 SPARTAAS 1.2.7
 sparvaride 1.0.0
 spass 1.3
+spatcovar 0.1.0
 spate 1.7.5
 spatemR 1.4.0
 SpatEntropy 2.2-4
@@ -21358,7 +21377,7 @@ SpecHelpers 0.3.2
 SPECIES 1.2.0
 specieschrom 1.0.0
 SPECK 1.0.1
-specmine 3.1.8
+specmine 4.0.0
 specmine.datasets 0.0.3
 specr 1.0.0
 specs 1.0.1
@@ -22626,7 +22645,7 @@ tern.mmrm 0.3.3
 Ternary 2.3.7
 TernTables 1.7.2
 ternvis 1.3
-terra 1.9-46
+terra 1.9-50
 terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.2
@@ -23981,7 +24000,6 @@ vcmeta 1.6.0
 VCMoE 0.2.0
 vcov 0.0.1
 vcPB 1.1.1
-vcpen 1.9
 vcr 2.1.0
 vcrpart 1.0-7
 vctrs 0.7.3
@@ -24737,7 +24755,7 @@ xtife 0.1.4
 xtpqardl 1.0.1
 xtranat 0.1.0
 xtrec 1.0.0
-xts 0.14.2
+xts 0.14.3
 xtsum 0.1.0
 xtvfreg 1.1.0
 xutils 0.0.2

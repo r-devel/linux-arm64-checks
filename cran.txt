@@ -14211,7 +14211,7 @@ nhsbsa 0.1.0
 nhscancerwaits 1.0.2
 NHSDataDictionaRy 1.2.5
 nhsnumber 0.1.2
-NHSRdatasets 0.3.0
+NHSRdatasets 1.0.0
 NHSRplotthedots 0.2.2
 NHSRwaitinglist 0.1.2
 nhstplot 1.4.2
@@ -14335,7 +14335,7 @@ NMMIPW 0.1.0
 NMOF 2.11-0
 NMRphasing 1.0.7
 nmrrr 1.0.0
-NMsim 0.2.7
+NMsim 0.2.8
 nmslibR 1.0.7
 NMTox 0.1.0
 NMVANOVA 1.1.0
@@ -15627,7 +15627,7 @@ PenalReg 0.1.0
 penaltyLearning 2024.9.3
 pencal 2.3.1
 PenCoxFrail 2.0.1
-penetrance 0.1.3
+penetrance 0.1.4
 penfa 0.1.1
 PenguinR 0.1.0
 PenIC 1.0.0
@@ -18766,7 +18766,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
-rmoriebricklayer 0.3.7
+rmoriebricklayer 0.3.9
 rMosaic 0.1.3
 Rmosek 1.3.5
 rMOST 1.0.1
@@ -19196,7 +19196,7 @@ Rquake 2.5-1
 rqualify 1.1.0
 RQuantLib 0.4.28
 Rquefts 1.2-8
-rquery 1.4.99
+rquery 1.5.1
 rquest 1.1.0
 rquiz 1.0.0
 rr 1.4.2
@@ -20674,7 +20674,7 @@ simIDM 0.1.1
 SimilarityMeasures 1.4
 Simile 1.3.4
 SimIndep 0.1.2
-SimInf 10.1.0
+SimInf 11.1.0
 simIReff 1.0
 simitation 0.0.7
 simITS 0.1.1
@@ -23253,7 +23253,7 @@ trainsplit 1.2
 traipse 0.4.0
 traits 0.6.0
 traitstrap 0.1.0
-traj 3.0.1
+traj 3.1.0
 trajectories 0.2-10
 trajeR 1.0
 trajmsm 0.1.5
@@ -24016,7 +24016,7 @@ VDSPCalibration 1.0
 vec2dtransf 1.1.5
 VeccTMVN 1.3.2
 VecDep 0.1.3
-vecmatch 1.3.0
+vecmatch 1.4.0
 vecrep 0.1.0
 vecsets 1.4
 vectorbitops 1.1.2
@@ -24219,7 +24219,7 @@ VOWR 0.1.0
 VoxR 1.0.0
 vpc 1.2.4
 VPdtw 2.2.1
-vprint 1.3
+vprint 1.4
 vrnmf 1.0.2
 vroom 1.7.1
 vrpr 0.1.1
@@ -24817,7 +24817,7 @@ yyjsonr 0.1.22
 Z10 0.1.0
 z22 1.1.4
 zalpha 0.3.0
-zarr 0.5.0
+zarr 0.5.1
 zCompositions 1.6.2
 zctaCrosswalk 2.0.1
 zcurve 2.4.6

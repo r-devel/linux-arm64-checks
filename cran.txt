@@ -20264,7 +20264,7 @@ sevenbridges2 0.4.0
 sever 0.0.7
 sewage 0.2.5
 sf 1.1-2
-sfa 1.1.5
+sfa 1.2.0
 sfadv 1.0.1
 sfaR 1.0.1
 sfarrow 0.4.1

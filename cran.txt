@@ -2095,7 +2095,7 @@ boxr 0.3.7
 boxTest 0.1.0
 bp 2.1.1
 bpa 0.1.1
-bpAcc 0.0-2
+bpAcc 0.0-3
 bpbounds 0.1.8
 bpca 1.5-0
 bpcp 1.5.5
@@ -2450,6 +2450,7 @@ car 3.1-5
 caracas 2.1.1
 caradpt 0.1.0
 caRamel 1.5
+carat 2.3.0
 CARBayes 6.1.1
 CARBayesdata 3.0
 CARBayesST 4.0
@@ -2730,7 +2731,7 @@ CensMFM 3.1
 censo2022arg 1.0.1
 censobr 0.6.0
 censorcopula 2.0
-censored 0.3.4
+censored 0.3.5
 censoredAIDS 1.0.0
 censosbo 2.0.0
 censReg 0.5-38
@@ -4519,7 +4520,7 @@ datetimeutils 0.6-6
 datetoiso 1.2.1
 dateutils 0.1.5
 datey 0.1.1
-datom 0.1.1
+datom 0.1.2
 datoramar 0.1.0
 datos 0.5.1
 datplot 1.1.1
@@ -4648,7 +4649,7 @@ deBInfer 0.4.4
 debkeepr 0.1.1
 DeBoinR 1.0
 debrief 0.1.0
-debtkit 0.1.2
+debtkit 0.1.3
 debugme 1.2.0
 debugr 0.0.1
 DeCAFS 3.3.5
@@ -5146,7 +5147,7 @@ distrDoc 2.8.5
 distrEllipse 2.8.4
 distrEx 2.9.6
 Distributacalcul 0.4.0
-distributional 0.8.1
+distributional 0.9.0
 DistributionIV 0.1.3
 DistributionOptimization 1.2.6
 distributions3 0.3.0
@@ -5739,7 +5740,7 @@ eCerto 0.8.11
 ecespa 1.1-18
 Ecfun 0.4.0
 ECG 0.5.2
-ECGofTestDx 0.5
+ECGofTestDx 0.6
 ECharts2Shiny 0.2.13
 echarts4r 0.5.0
 echarty 1.7.2
@@ -6623,7 +6624,7 @@ fabisearch 0.0.4.5
 fable 0.5.0
 fable.ata 0.0.6
 fable.bayesRecon 0.2.0
-fable.intermittent 0.2.0
+fable.intermittent 0.3.0
 fable.prophet 0.1.0
 fableCount 0.1.0
 fabletools 0.8.0
@@ -6650,7 +6651,7 @@ FACTMLE 1.1
 FactoClass 1.2.9
 factoextra 2.2.0
 FactoInvestigate 1.9.1
-FactoMineR 2.16
+FactoMineR 2.17
 factoptd 1.0.3
 factor.switching 1.4
 factor256 0.1.0
@@ -8569,7 +8570,7 @@ glmlep 0.2
 glmm 1.4.5
 glmm.hp 1.0-0
 GLMMadaptive 0.9-7
-glmmEP 1.0-3.1
+glmmEP 1.0-4
 glmmFEL 1.0.5
 glmmfields 0.1.8
 glmMisrep 0.1.2
@@ -8979,6 +8980,7 @@ groupr 0.1.2
 grouprar 0.1.0
 GroupSeq 1.4.3
 GroupTest 1.0.1
+groupTesting 1.3.1
 groupwalk 0.1.2
 groupWQS 0.0.3
 grout 0.1.0
@@ -10156,7 +10158,7 @@ ineptr2 0.3.1
 ineq 0.2-13
 ineq.2d 0.1.0
 ineqJD 1.0
-inequality 0.1.0
+inequality 0.2.0
 inequantiles 0.1.0
 INetTool 0.1.2
 iNEXT 3.0.2
@@ -10873,7 +10875,7 @@ keyringr 0.4.0
 keys 0.1.1
 kfa 0.2.2
 KFAS 1.6.0
-kfda 1.0.0
+kfda 1.0.1
 kfigr 1.2.1
 kfino 1.0.0
 KFPCA 2.0
@@ -11915,7 +11917,7 @@ MAFLD 4.0.0
 mafR 1.1.14
 magclass 7.5.0
 MAGEE 1.4.5
-magentabook 0.1.0
+magentabook 0.1.1
 magi 1.2.5
 magic 1.6-1
 magicaxis 2.5.1
@@ -14743,7 +14745,7 @@ Omisc 0.2.0
 omnibus 1.2.15
 omock 0.7.0
 OmopConstructor 0.3.0
-omopgenerics 1.4.1
+omopgenerics 1.4.2
 omophub 1.9.1
 OmopOnSpark 0.1.0
 OmopSketch 1.1.1
@@ -16464,7 +16466,7 @@ predictoR 4.1.7
 PredictorSelect 0.1.0
 predictrace 2.0.1
 predicts 0.2-2
-predictset 0.3.0
+predictset 0.4.0
 predictsr 0.2.1
 predieval 0.1.1
 predint 2.3.0
@@ -17720,7 +17722,7 @@ RCppAD 1.20260000.0
 RcppAlgos 2.10.1
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
-RcppArmadillo 15.4.2-1
+RcppArmadillo 15.6.0-1
 RcppArray 0.3.0
 Rcppautodiff 0.1.0
 RcppBDT 0.2.8
@@ -18529,7 +18531,7 @@ ringostat 0.1.5
 ringSeg 0.1.0
 RInside 0.2.19
 RInSp 1.2.5
-rintcal 1.4.1
+rintcal 1.4.2
 rintimg 0.1.0
 rintrojs 0.3.4
 rio 1.3.0
@@ -20160,7 +20162,7 @@ senatebR 0.1.0
 sendgridr 0.6.1
 sendigR 1.0.0
 sendmailR 1.4-1
-sense 1.1.0
+sense 1.2.0
 sensemakr 0.1.6
 senseR 0.1.0
 senseweight 0.0.1
@@ -20221,7 +20223,7 @@ seqtest 0.1-0
 seqtrie 0.4.0
 sequenceR 1.0.1
 SequenceSpikeSlab 1.0.1
-Sequential 4.6.1
+Sequential 4.6.2
 sequential.pops 0.1.1
 SequentialDesign 1.0
 sequoia 3.2.0
@@ -21629,7 +21631,7 @@ ssimparser 0.1.2
 ssize.fdr 1.3
 ssizeRNA 1.3.3
 SSLASSO 1.2.3
-SSLfmm 0.2.0
+SSLfmm 0.2.1
 SSM 1.0.1
 ssmn 1.1
 ssmodels 2.0.2
@@ -22642,7 +22644,7 @@ TestCor 0.0.2.2
 testcorr 0.4.0
 testdat 0.4.4
 TestDataImputation 2.3
-TestDesign 1.7.0
+TestDesign 1.7.1
 TestDimorph 0.5.8
 testDriveR 0.5.3
 testequavar 0.1.5
@@ -22909,7 +22911,7 @@ tidyrstats 0.1.0
 tidyrules 0.2.7
 tidysdm 1.0.4
 tidyselect 1.2.1
-tidySEM 0.2.11
+tidySEM 0.2.12
 tidyseurat 0.8.10
 tidysmd 0.2.1
 tidyspec 0.1.0

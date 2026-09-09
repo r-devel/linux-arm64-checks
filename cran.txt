@@ -6169,7 +6169,7 @@ epe4md 0.1.4
 eph 1.0.2
 Epi 2.66
 epibasix 1.5
-epibyhand 0.1.0
+epibyhand 0.2.0
 epicasting 0.1.0
 epichains 0.1.1
 epicmodel 0.2.1
@@ -24356,7 +24356,7 @@ wCorr 1.9.8
 wcox 1.0
 WCRBayesDesign 1.0.1
 wcswatin 0.1.1
-wcvpmatch 0.0.1
+wcvpmatch 0.0.2
 WData 0.1.1
 WDI 2.8.0
 wdiEF 1.0.4

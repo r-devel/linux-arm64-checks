@@ -1997,7 +1997,7 @@ BoardGames 1.0.0
 bodenmiller 0.1.1
 bodsr 0.1.0
 bodycomp 1.0.0
-bodycompref 2.0.1
+bodycompref 2.0.2
 boe 0.4.0
 boggy 0.0.1
 boids4R 0.3.1
@@ -2011,6 +2011,7 @@ bojapi 0.1.0
 bolasso 0.5.0
 BOLDconnectR 1.0.2
 bolder 0.1.1
+BOLDNODE 1.0.0
 bolsec 0.1.1
 Bolstad 0.2.42
 Bolstad2 1.0-29
@@ -2274,7 +2275,7 @@ BTSPAS 2024.11.1
 BTSR 1.1.0
 BTtest 0.10.3
 BTTL 1.0.0
-btw 1.4.0
+btw 1.5.0
 BTWAR 1.0.1
 BTYD 2.4.3
 bubbleHeatmap 0.1.1
@@ -2569,7 +2570,7 @@ CATT 2.0
 CATTexact 0.1.1
 catviz 0.1.1
 cauchypca 1.4
-caugi 1.2.0
+caugi 1.3.0
 CauMedi 0.1.1
 cauphy 1.0.3
 causact 0.6.0
@@ -4447,6 +4448,7 @@ DataAudit 0.1.0
 DatabaseConnector 7.2.0
 DatabaseConnectorJars 1.1.0
 DatabionicSwarm 2.0.0
+datacaged 0.2.1
 DataClean 1.0
 datacleanr 1.0.5
 datacommons 0.1.0
@@ -9306,6 +9308,7 @@ HDcpDetect 0.1.0
 hdcuremodels 0.0.8
 HDCurves 0.1.2
 hdd 0.1.2
+HDElliptical 0.1.2
 hdf5lib 2.1.1.2
 hdf5r 1.3.15
 hdf5r.Extra 0.1.0
@@ -9472,7 +9475,7 @@ hierarchicalSets 1.0.4
 hierBipartite 0.0.2
 hierfstat 0.5-11
 hierNest 1.0.2
-hierNet 1.9
+hierNet 1.10.1
 HierPortfolios 1.0.2
 hierSDR 0.1
 HiGarrote 2.0.0
@@ -9599,7 +9602,7 @@ hood2net 1.0.0
 hoopR 3.1.0
 hopbyhop 3.41
 hopit 0.11.6
-hopkins 1.1
+hopkins 1.2
 HoRM 0.1.4
 hornpa 1.1.1
 Horsekicks 1.0.2
@@ -14089,7 +14092,7 @@ nethist 1.0.0
 netie 1.0
 netify 1.5.3
 NetIndices 1.4.4.1
-NetInt 1.0.1
+NetInt 1.0.2
 netknitr 0.2.1
 NetLogoR 1.0.6
 netmap 0.1.4
@@ -14104,7 +14107,7 @@ netplot 0.4-0
 NetPreProc 1.2
 netrankr 1.2.4
 NetRep 1.2.10
-netrics 1.0.1
+netrics 1.0.3
 netropy 0.3.0
 NetSci 1.0.1
 netseer 0.1.3
@@ -14277,6 +14280,7 @@ nleqslv 3.3.7
 nlfh 0.1.0
 nlgeocoder 0.2.2
 nlgm 1.0
+NLIN 0.1.0
 NlinTS 1.4.7
 nlist 0.5.0
 nlive 0.8.0
@@ -18392,7 +18396,7 @@ RFLPtools 2.0
 rflsgen 1.2.2
 rfm 0.4.0
 RFmerge 0.3-3
-RFmstate 0.1.2
+RFmstate 0.1.9
 Rfmtool 5.0.4
 rfoaas 2.4.0
 RFOC 3.4-14
@@ -19538,6 +19542,7 @@ rvif 3.2.1
 rvinecopulib 0.7.3.1.0
 RVIpkg 0.3.4
 rvisidata 1.0.0
+rvisual 0.1.1
 rvkstat 3.3.2
 rvMF 0.1.2
 rvmprior 0.1.0
@@ -19606,7 +19611,7 @@ s3fs 0.1.7
 S3VS 1.1
 S4DM 0.0.2
 S7 0.2.2
-s7contract 0.1.0
+s7contract 0.2.3
 S7schema 0.1.2
 saber 0.7.2
 sabre 0.4.3
@@ -20444,7 +20449,7 @@ shinyBS 0.65.0
 shinybusy 0.3.3
 shinyChakraSlider 0.1.0
 shinyChakraUI 1.1.1
-shinychat 0.4.0
+shinychat 0.5.0
 shinyChatR 1.2.0
 shinyCLT 0.9.4
 shinyCohortBuilder 1.0.0
@@ -20473,6 +20478,7 @@ shinyFiles 0.9.3
 shinyfilter 0.1.1
 shinyfilters 0.3.0
 shinyfullscreen 1.1.0
+shinygenui 0.1.0
 shinyGizmo 0.5.0
 shinyglass 0.2.0
 shinyglide 0.1.4
@@ -20768,7 +20774,7 @@ simTargetCov 1.0.1
 simTool 1.1.9
 SimTOST 1.0.2
 simtrait 1.1.3
-simtrial 1.0.2
+simtrial 1.1.0
 simts 0.2.4
 simtte 1.0.2
 simuclustfactor 0.0.3
@@ -21416,7 +21422,7 @@ Spectrum 1.1
 sped 0.3
 spedecon 0.1
 SPEDInstabR 2.2
-spEDM 1.12
+spEDM 1.13
 speech 0.1.5
 speechbr 2.0.0
 speechmatics 0.1.0
@@ -22205,7 +22211,7 @@ SurviMChd 0.1.2
 SurvImpute 0.1.0
 survinger 0.1.1
 surviv 0.1.3
-survival 3.8-11
+survival 3.8-12
 SurvivalClusteringTree 1.1.3
 survivalmodels 0.1.191
 survivalMPL 0.2-4
@@ -22934,7 +22940,7 @@ tidyplots 0.4.0
 tidyplus 0.2.1
 tidypopgen 0.4.4
 tidyposterior 1.1.0
-tidypredict 1.2.0
+tidypredict 1.2.1
 tidyprf 0.1.1
 tidyprompt 0.4.0
 tidyquant 1.0.12
@@ -24529,6 +24535,7 @@ windsoraiR 0.1.2
 wINEQ 1.2.2
 winfapReader 0.1-7.1
 wingen 2.2.0
+winning 0.3.0
 winputall 1.0.1
 winr 1.0.0
 WinRatio 1.0

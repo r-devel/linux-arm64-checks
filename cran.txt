@@ -95,7 +95,7 @@ acnr 1.0.0
 acopula 0.9.4
 acoRn 0.1.0
 acR 0.3.3
-acro 0.1.7
+acro 1.0.0
 acroname 0.1.0
 acsmoe 0.1.0
 acss 0.3-2
@@ -628,7 +628,7 @@ aods3 0.6
 aoos 0.5.0
 aopdata 1.1.2
 Aoptbdtvc 0.0.3
-aoristic 1.1.1
+aoristic 2.0.0
 aorsf 0.1.6
 aos 0.1.0
 AOUSDOHtools 1.0.4
@@ -643,7 +643,7 @@ apaTables 2.0.8
 apaText 0.1.7
 apathe 0.1.0
 apca 1.0.0
-APCalign 2.0.0
+APCalign 2.0.1
 APCanalysis 1.0
 apcf 0.3.3
 APCI 1.0.8
@@ -977,7 +977,7 @@ autoFlagR 1.0.0
 autoFRK 1.4.4
 autogam 0.1.0
 autoGO 1.0.3
-autograph 1.2.2
+autograph 1.2.3
 autoharp 0.3.2
 autohrf 1.1.3
 autoimage 2.2.3
@@ -3457,7 +3457,7 @@ collpcm 1.4
 coloc 5.2.3
 colocalization 1.0.2
 colocalized 0.2.0
-colocboost 1.0.9
+colocboost 1.0.10
 colocPropTest 0.9.3
 ColombiAPI 0.4.0
 ColOpenData 1.0.0
@@ -5730,7 +5730,7 @@ EBMAforecast 1.0.33
 ebmc 1.0.1
 ebmstate 0.1.5
 ebnm 1.1-42
-ebrahim.gof 2.6.0
+ebrahim.gof 2.7.0
 EBrank 1.0.0
 eBsc 4.17
 ebTobit 1.0.2
@@ -6176,7 +6176,7 @@ epicmodel 0.2.1
 epiCo 1.0.1
 epicontacts 1.1.4
 EpiContactTrace 0.18.0
-epicR 1.0.1
+epicR 1.0.2
 EpiCurve 2.4-2
 epidata 0.4.0
 epidatr 1.3.0
@@ -13990,7 +13990,7 @@ ncbit 2013.03.29.1
 NCC 1.0
 ncdf4 1.24
 ncdfCF 0.8.2
-ncdfgeom 1.2.2
+ncdfgeom 1.2.3
 ncf 1.3-3
 ncmeta 0.5.0
 NCmisc 1.3.1
@@ -14127,7 +14127,7 @@ NetworkToolbox 1.4.4
 networktools 1.6.0
 networktree 1.0.1
 NeuDist 1.0.1
-NeuralEstimators 0.2.1
+NeuralEstimators 0.2.2
 neuralGAM 2.0.1
 neuralnet 1.44.2
 NeuralNetTools 1.5.3
@@ -14200,7 +14200,7 @@ nhanesdata 0.2.2
 nhanesdiva 1.0.2
 nhanesR 0.1.6
 nhdplusTools 1.5.2
-nhdR 0.6.1
+nhdR 0.6.2
 NHLData 1.0.0
 nhlscraper 0.7.0
 nhm 0.1.2
@@ -14244,7 +14244,7 @@ nimbleQuad 1.4.0
 nimbleSCR 0.2.1
 nimbleSMC 0.11.1
 nimblewomble 0.1.0
-nipals 1.0
+nipals 1.2
 nipnTK 0.2.2
 NipponMap 0.2
 NIPTeR 1.0.2
@@ -17781,7 +17781,7 @@ RcppMsgPack 0.2.5
 RcppNLoptExample 0.0.2
 RcppNumerical 0.7-0
 RcppParallel 6.2.1
-RcppPlanc 2.0.15
+RcppPlanc 2.0.16
 RcppProgress 0.4.2
 RcppQuantuccia 0.1.4
 RcppRedis 0.2.6
@@ -19402,7 +19402,7 @@ RTCC 0.1.1
 rTCRBCRr 0.1.1
 RTD 0.4.2
 RTDE 0.2-2
-rtdists 0.11-6
+rtdists 0.12-0
 rtemis 1.2.7
 rtemis.a3 0.5.3
 rtemis.core 0.3.1
@@ -19496,7 +19496,7 @@ runonce 0.3.3
 Runuran 0.41
 rupturesRcpp 1.0.2
 rurality 0.1.1
-rurl 1.2.0
+rurl 3.0.1
 rush 1.3.0
 rusk 0.1.1
 rust 1.4.4
@@ -19564,7 +19564,7 @@ rwunderground 0.1.8
 RXKCD 2.0.1
 RxnSim 1.0.4
 rxode2 5.1.6
-rxode2ll 2.0.16
+rxode2ll 2.0.17
 rxode2mrgsolvebridge 0.1.0
 rxref 0.4.0
 rxSeq 0.99.3
@@ -23511,7 +23511,7 @@ TSP 1.2.7
 tsPI 1.0.4
 tspmeta 1.2
 TSPred 5.1.1
-tspredit 2.0.707
+tspredit 2.0.717
 TSQCA 1.3.3
 tsqn 1.2.0
 tsqr 0.2.0

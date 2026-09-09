@@ -15,7 +15,6 @@ bootmlm,0.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEA
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr
 dqcheckr,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/dqcheckr
-glmMisrep,0.1.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/glmMisrep
 gsDesign2,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gsDesign2
 hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hdtg
 lorax,0.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/lorax

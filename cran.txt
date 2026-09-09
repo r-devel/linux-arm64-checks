@@ -270,7 +270,7 @@ aedl 0.1.0
 aedseo 1.1.0
 AEenrich 1.1.1
 aelab 1.1.3
-aemo 0.4.1
+aemo 0.4.2
 AEP 0.1.4
 AER 1.2-17
 AeRobiology 2.0.4
@@ -612,7 +612,7 @@ AnthropMMD 4.1.0
 Anthropometry 1.22
 AntibodyForests 1.1.0
 AntibodyTiters 0.1.24
-anticlust 0.8.14
+anticlust 0.8.16
 antitrust 0.99.33
 antiword 1.3.5
 AntsNet 1.0.0
@@ -1640,7 +1640,7 @@ bife 0.7.3
 BIFIEsurvey 3.8.0
 bifrost 0.1.4
 bifurcatingr 2.1.0
-bigalgebra 3.1.0
+bigalgebra 3.1.1
 biganalytics 1.1.22
 bigANNOY 0.3.0
 bigassertr 0.2.0
@@ -1825,7 +1825,7 @@ BiplotML 1.1.1
 birankr 1.0.1
 birdcolors 1.0.1
 birddog 1.0.4
-birdie 0.7.1
+birdie 0.8.0
 birdnetR 0.3.2
 birdring 1.6
 birdscanR 0.3.0
@@ -2459,7 +2459,7 @@ carat 2.3.0
 CARBayes 6.1.1
 CARBayesdata 3.0
 CARBayesST 4.0
-carbondata 0.1.0
+carbondata 0.2.0
 carbondate 1.1.0
 carbonpredict 2.0.1
 carbonr 0.2.7
@@ -3130,7 +3130,7 @@ ClimaRep 1.1
 climate 1.4.0
 climateBR 0.2.0
 climatehealth 1.0.3
-climatekit 0.2.0
+climatekit 0.2.2
 climateStability 0.1.4
 climatestatsr 0.1.2
 climatol 4.5-0
@@ -5546,11 +5546,11 @@ dtt 0.1-2.1
 dttr2 0.5.2
 dtts 0.1.4
 dtw 1.23-3
-DTWBI 1.1
+DTWBI 1.2
 dtwclust 6.0.0
 DTwrappers 0.0.2
 DTwrappers2 0.0.3
-DTWUMI 1.0
+DTWUMI 1.1
 dual 0.0.6
 dualScale 1.0.0
 dualtrees 0.1.5
@@ -7487,7 +7487,7 @@ frbs 3.3-0
 FRCC 1.1.0
 FRCI 0.1.0
 frechet 0.3.0
-fred 0.2.0
+fred 0.3.1
 fredr 2.1.0
 free 1.0.2
 free1way.docreg 1.0-3
@@ -7666,6 +7666,7 @@ fuzzyforest 1.0.8
 FuzzyImputationTest 0.5.5
 fuzzyjoin 0.1.8
 fuzzylink 0.4.1
+FuzzyLogit 0.1.1
 FuzzyM 0.1.0
 FuzzyNumbers 0.4-7
 FuzzyPovertyR 3.0.2
@@ -7751,7 +7752,7 @@ gammSlice 2.0-2
 gamRR 0.7.0
 gamsel 1.8-5
 gamselBayes 2.0-3
-gamstransfer 3.0.8
+gamstransfer 3.0.9
 gamutil 0.8.1
 ganDataModel 2.0.1
 gander 0.2.0
@@ -8080,6 +8081,7 @@ geoprofiler 0.0.4
 geopsych 0.1.0
 geoR 1.9-6
 GeoRange 0.1.0
+georefar 0.1.0
 georefdatar 0.6.5
 georob 0.3-23
 geos 0.2.5
@@ -8582,7 +8584,7 @@ GLMMadaptive 0.9-7
 glmmEP 1.0-4
 glmmFEL 1.0.5
 glmmfields 0.1.8
-glmMisrep 0.1.2
+glmMisrep 0.1.3
 glmmLasso 1.6.4
 glmmML 1.1.7
 glmmPen 1.5.4.8
@@ -9020,7 +9022,7 @@ grwat 0.1
 GSA 1.03.3
 GSA.UN 1.0.0
 gsalib 2.2.1
-gsaot 1.1.1
+gsaot 1.2.0
 gsarima 0.1-5
 gsbDesign 1.0-3
 GSbench 0.1.0
@@ -9733,7 +9735,7 @@ hydroDCindex 1.0.0
 hydrodownloadR 0.1.3
 hydroeval 0.1.0
 hydroEvents 0.13.0
-hydrogeofetch 2.0.3
+hydrogeofetch 2.0.4
 hydroGOF 0.7-0
 hydroloom 1.2.1
 HydroMe 2.1.2
@@ -10187,7 +10189,7 @@ infiltrodiscR 0.0.5
 InfiniumPurify 1.3.1
 infix 0.1.0
 infixit 0.3.1
-inflateR 0.1.3
+inflateR 0.2.0
 Inflation 0.1.0
 inflationkit 0.1.0
 inflection 1.3.7
@@ -11478,6 +11480,7 @@ linguisticsdown 1.2.0
 link 2024.4.0
 link2GI 0.7-2
 Linkage 0.9
+linkagg 0.1.0
 LinkedGASP 1.0
 linkedInadsR 0.1.0
 LinkedMatrix 1.4.0
@@ -14813,7 +14816,7 @@ onnx 0.0.3
 onnxr 0.1.2
 OnomasticDiversity 0.1
 onpoint 1.1
-ons 0.1.3
+ons 0.1.4
 onsr 1.0.2
 onsvplot 0.3.2
 onsvtables 0.1.0
@@ -16951,7 +16954,7 @@ pwt9 9.1-0
 pxmake 0.21.0
 pxR 0.42.8
 pxweb 0.19.2
-PxWebApiData 1.9.0
+PxWebApiData 2.0.0
 pycno 1.4.1
 pycnogrid 0.2.0
 pye 0.1.0
@@ -17921,7 +17924,7 @@ readbitmap 0.1.5
 readBrukerFlexData 1.9.3
 readbulk 1.1.4
 ReadDIM 0.2.11
-readecb 0.1.2
+readecb 0.1.4
 readelan 0.1.0
 readepi 1.0.6
 reader 1.1.0
@@ -17936,11 +17939,11 @@ readmit 0.0.1
 readMLData 0.9-7
 readmoRe 0.2-15
 readMzXmlData 2.8.4
-readnoaa 0.1.1
+readnoaa 0.2.1
 readNSx 0.1.0
 readobj 0.4.1
 readODS 2.3.6
-readoecd 0.3.3
+readoecd 0.3.4
 readosense 0.0.1
 readr 2.2.0
 readrba 0.1.12
@@ -19973,6 +19976,7 @@ scrypt 0.1.6
 scs 3.2.7
 scShardSplitRef 0.1.0
 scSpatialSIM 0.1.4
+scStability 1.0.4
 scTenifoldKnk 1.1
 scTenifoldNet 1.4
 SCtools 0.3.3.1
@@ -22850,6 +22854,7 @@ tidycensus 1.8.1
 tidycensuskr 0.3.0
 tidychangepoint 1.0.5
 tidycharts 0.1.3
+tidycjk 0.1.0
 tidyclust 0.3.2
 tidycmprsk 1.1.2
 tidycomm 0.4.2
@@ -23633,7 +23638,7 @@ twosigma 1.0.2
 twoStageDesignTMLE 1.0.1.2
 TwoStepCLogit 1.2.6
 TwoStepSDFM 0.2.2
-TwoTimeScales 1.2.1
+TwoTimeScales 1.3.1
 twotrials 0.6
 twoway 0.7.0
 TwoWayFEWeights 2.1.0
@@ -24103,7 +24108,7 @@ viking 1.0.2
 villager 2.0.0
 VIM 7.3.0
 VIMean 0.1.0
-vimixr 0.1.2
+vimixr 0.1.3
 vimp 2.3.6
 vimpclust 0.1.0
 VIMPS 1.0
@@ -24382,7 +24387,7 @@ webchem 1.3.1
 webdav 0.2.0
 webdeveloper 1.0.5
 webdriver 1.0.6
-webexercises 1.1.0
+webexercises 1.2.0
 webfakes 1.5.0
 WebGestaltR 1.0.1
 webglobe 1.0.3

@@ -1240,7 +1240,7 @@ BAwiR 1.5.4
 bayclumpr 0.1.0
 baycn 2.0.0
 bayefdr 0.2.1
-Bayenet 0.3
+Bayenet 0.4
 bayes4psy 1.2.13
 bayesammi 0.3.0
 bayesanova 1.6
@@ -3254,7 +3254,7 @@ clusterSEs 2.6.6
 clusterSim 0.51-6
 ClusterStability 1.0.4
 clustertend 1.7
-clusterv 1.1.1
+clusterv 1.1.2
 ClusterVAR 0.0.8
 clusterWebApp 0.1.3
 ClustGeo 2.1
@@ -3345,6 +3345,7 @@ cnum 0.1.5
 CNVreg 1.0
 CNVRG 1.0.0
 CNVScope 3.7.6
+co2e 0.1.0
 coala 0.7.2
 coalescentMCMC 0.5
 CoalescentPhylo 0.1.0
@@ -6108,7 +6109,7 @@ encode 0.3.7
 EncompassTest 0.22
 encryptedRmd 0.2.1
 encryptr 0.1.4
-enderecobr 0.5.0
+enderecobr 0.6.0
 endogeneity 2.1.6
 endorse 1.6.2
 endtoend 2.29
@@ -6539,6 +6540,7 @@ exif 0.1.1
 exifr 0.3.2
 exiftoolr 0.2.8
 exmort 0.1.0
+exnexSurv 1.3.0
 ExNRuleEnsemble 0.1.1
 exoplanetdata 0.1.0
 ExpAnalysis3d 0.1.3
@@ -7235,7 +7237,7 @@ flexstanr 0.2.0
 flexsurv 2.3.2
 flexsurvcure 1.3.3
 flexsynth 0.2.1
-flextable 0.10.0
+flextable 0.10.1
 flexurba 0.2.3
 FlexVarJM 0.1.0
 FlickrAPI 0.1.0.1
@@ -7724,7 +7726,7 @@ GABB 0.3.10
 GACE 1.0.0
 GACFF 1.0
 GAD 2.0
-GADAG 0.99.0
+GADAG 0.99.1
 gadget3 0.15-1
 gadjid 0.1.0
 GAGAs 0.6.2
@@ -7995,7 +7997,7 @@ GeneticSubsetter 0.8
 GeNetIt 0.1-7
 geneviewer 0.1.11
 genfrn 0.1.4
-GenHMM1d 0.2.6
+GenHMM1d 0.2.8
 genie 1.0.7
 genieBPC 2.2.0
 genieclust 1.3.0
@@ -8117,7 +8119,7 @@ geospt 1.0-6
 geosptdb 1.0-3
 geostan 0.8.2
 geostats 1.6
-geostatsp 2.0.11
+geostatsp 2.2.0
 geotargets 0.3.1
 GeoThinneR 2.1.2
 geotools 0.1
@@ -8169,7 +8171,7 @@ getRad 0.3.0
 gets 0.40
 getspanel 0.2.1
 getspres 0.2.0
-GetTDData 1.7.0
+GetTDData 1.7.1
 gettz 0.0.6
 getwiki 0.9.0
 GEVACO 1.0.1
@@ -9625,7 +9627,7 @@ hotpatchR 0.1.0
 hotspot 1.0
 hotspots 1.0.5
 houba 0.1.2
-hours2lessons 0.1.5
+hours2lessons 1.0.0
 housingData 0.3.0
 hover 0.1.1
 howler 0.3.0
@@ -9879,6 +9881,7 @@ icdGLM 1.0.2
 icdhelper 0.1.2
 icdpicr 1.0.1
 icdpicr2 2.1.0
+icebergr 0.1.0
 ICEbox 1.2
 icecdr 1.2.0
 icecream 0.2.2
@@ -10343,6 +10346,7 @@ intkrige 1.0.2
 intmap 1.0.0
 intmed 0.1.2
 IntNMF 1.3.0
+intraclass 0.1.0
 intradayModel 0.0.1
 intRegGOF 0.85-5
 INTRIGUE 0.1.0
@@ -11115,7 +11119,7 @@ LabRS 0.2.1
 labsimplex 0.1.2
 labstatR 1.0.14
 labstats 1.0.1
-LABTNSCPSS 1.0.3
+LABTNSCPSS 1.0.4
 lacm 0.1.2
 lacrmr 1.0.5
 lactater 0.2.0
@@ -12094,7 +12098,7 @@ mapycusmaximus 1.0.7
 maq 0.6.1
 mAr 1.2-0
 maraca 1.1.0
-marble 0.0.3
+marble 0.0.4
 march 3.3.2
 marcher 0.0-2
 marcox 1.0.0
@@ -12190,6 +12194,7 @@ MATES 0.1
 mathjaxr 2.0-0
 mathml 1.9
 mathpix 0.6.0
+mathr 0.1.3
 maths.genealogy 0.1.4
 matlab 1.0.4.1
 matlab2r 1.5.0
@@ -13379,7 +13384,7 @@ mosaicCore 0.9.5
 mosaicData 0.20.4
 MosaiClusteR 0.1.1
 MOSAlloc 1.2.6
-mosclust 1.0.2
+mosclust 1.0.3
 MOsemiind 0.1.2
 MOST 0.1.2
 mosum 1.2.7
@@ -17393,7 +17398,7 @@ Rage 1.9.0
 RAGFlowChainR 0.1.7
 ragg 1.5.2
 RagGrid 0.2.0
-ragnar 0.3.0
+ragnar 0.3.1
 ragR 0.1.0
 rags2ridges 2.2.9
 ragtop 2.0.0
@@ -18379,7 +18384,7 @@ rexer 1.0.0
 REXoplanets 0.1.2
 rexpokit 0.26.6.15
 rextendr 0.5.0
-rextor 1.1.0
+rextor 1.2.0
 Rfacebook 0.6.15
 rfacebookstat 2.16.1
 rfacts 0.2.1
@@ -19101,6 +19106,7 @@ rotasym 1.3.1
 rotationForest 0.1.3
 rotations 1.6.7
 rotatogram 0.1.3
+Rothermel 1.4.1
 rotio 0.1.0
 rotl 3.1.1
 rotor 0.3.7
@@ -20245,7 +20251,7 @@ SentimentAnalysis 1.3-5
 sentimentr 2.9.0
 sentixr 0.2.0
 sentometrics 1.0.1
-sentopics 1.0.0
+sentopics 1.0.1
 sentryR 1.1.2
 SEofM 0.1.0
 SEPA 0.1.0
@@ -20385,7 +20391,7 @@ sgt 2.0
 shades 1.5.0
 shadowr 0.0.2
 shadowtext 0.1.6
-shadowVIMP 1.0.2
+shadowVIMP 1.0.3
 SHAKTI 0.1.0
 shannon 0.2.0
 SHAPBoost 1.0.3
@@ -22003,7 +22009,7 @@ StratifiedMedicine 1.0.7
 StratifiedRF 0.2.2
 StratifiedSampling 0.4.2
 stratifiedyh 0.1.0
-stratifyR 1.0-5
+stratifyR 2.0-1
 StratigrapheR 1.3.1
 StratPal 0.7.1
 StratSel 1.4
@@ -22933,7 +22939,7 @@ tidyILD 0.4.1
 tidyjson 0.3.3.1
 tidyklips 0.3.0
 tidylaslog 0.1.2
-tidylda 0.1.0
+tidylda 0.1.1
 tidylearn 0.5.0
 tidyllm 0.6.0
 tidylo 0.2.0
@@ -23623,6 +23629,7 @@ tutorizeR 0.4.5
 TUvalues 1.1.1
 TUWmodel 1.1-1
 tv 2.0.2
+tvbounds 0.1.1
 tvcure 0.6.6
 tvdenoising 1.0.0
 tvem 1.4.1
@@ -24613,7 +24620,7 @@ WordR 0.3.6
 words 1.0.1
 wordsalad 0.2.0
 wordspace 0.2-9
-wordvector 0.6.3
+wordvector 0.6.4
 workflowr 1.7.2
 workflows 1.3.0
 workflowsets 1.1.1

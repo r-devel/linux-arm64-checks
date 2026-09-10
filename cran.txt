@@ -4494,7 +4494,7 @@ datareportR 0.1.2
 dataresqc 1.1.1
 dataRetrieval 2.7.25
 datarium 0.2.0
-datarobot 2.18.8
+datarobot 2.18.9
 datasauRus 0.1.9
 dataSDA 0.2.7
 dataseries 1.0.0
@@ -11279,7 +11279,7 @@ LDM 6.0.1
 ldmppr 1.1.3
 LDNN 1.10
 LDRTools 0.2-2
-ldsep 2.1.6
+ldsep 2.1.7
 ldt 0.5.3
 leadeR 0.1.0
 leaderCluster 1.5
@@ -14057,7 +14057,7 @@ neonOS 1.1.0
 neonPlantEcology 1.6.1
 neonSoilFlux 4.0.1
 neonstore 0.5.1
-neonUtilities 4.0.1
+neonUtilities 4.0.2
 neotoma2 1.0.12
 nephro 1.5
 NEpiC 1.0.1
@@ -20480,7 +20480,7 @@ shinyfilters 0.3.0
 shinyfullscreen 1.1.0
 shinygenui 0.1.0
 shinyGizmo 0.5.0
-shinyglass 0.2.0
+shinyglass 0.3.0
 shinyglide 0.1.4
 shinyGovstyle 0.2.0
 shinyHeatmaply 0.2.0

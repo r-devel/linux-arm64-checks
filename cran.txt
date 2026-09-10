@@ -693,7 +693,7 @@ appnn 1.0-1
 apportion 0.0.2
 appraise 0.1.1
 appRiori 0.0.6
-approximator 1.2-8
+approximator 1.3-0
 approxmatch 2.0
 approxOT 1.2
 appsflyeR 0.1.0
@@ -1334,7 +1334,7 @@ BayesMultiMode 1.0.0
 BayesMultMeta 0.1.1
 bayesnec 2.1.3.1
 BayesNetBP 1.6.1
-BayesNSGP 0.3.0
+BayesNSGP 0.3.1
 BayesPanelUR 0.1.0
 BayesPET 0.1.0
 BayesPieceHazSelect 1.1.0
@@ -1364,7 +1364,7 @@ BayesRep 0.42.2
 BayesRepDesign 0.42
 bayesROE 0.2
 BayesRS 0.1.3
-BayesRTMB 0.3.0
+BayesRTMB 0.4.0
 bayesrules 0.0.3
 bayess 1.7
 BayesS5 1.41
@@ -3594,7 +3594,7 @@ CompositionalHDDA 1.0
 CompositionalML 1.0
 CompositionalMPT 1.0
 CompositionalNAimp 1.1
-CompositionalRF 1.6
+CompositionalRF 1.7
 CompositionalSR 1.4
 CompositionalZADR 1.0
 Compositionalzerocens 1.0
@@ -4524,7 +4524,7 @@ dataverse 0.3.16
 dataviewR 1.1.0
 DataVisualizations 1.4.0
 DataViz 0.2.8
-datawizard 1.3.1
+datawizard 1.4.0
 datazoom.amazonia 1.2.0
 datazoom.social 0.1.1
 date 1.2-43
@@ -5680,7 +5680,7 @@ EasyABC 1.6
 easyAHP 0.1.1
 easyalluvial 0.4.1
 easyanova 11.0
-easybgm 0.4.0
+easybgm 0.5.0
 easybio 1.2.3
 easycensus 1.1.4
 easyclimate 1.0.0
@@ -6249,6 +6249,7 @@ epiworldR 0.14.0.0
 epiworldRcalibrate 0.1.4
 epiworldRShiny 0.2.3
 epizootic 2.0.0
+epkde 0.1.0
 EPLSIM 1.0.1
 eplusr 0.17.0
 eply 0.1.2
@@ -10086,7 +10087,7 @@ immer 1.5-13
 Immigrate 0.2.1
 ImML 0.1.5
 immunarch 0.10.3
-immunaut 1.0.2
+immunaut 1.0.3
 immundata 0.1.0
 ImmuneSigR 0.1.1
 immunogenetr 1.5.0
@@ -10226,6 +10227,7 @@ influential 2.3.2
 influxdbr 0.14.2
 infocausality 1.1
 infoelectoral 1.0.3
+infometrics 0.3.0
 Information 0.0.9
 InformativeCensoring 0.3.6
 informativeSCI 1.0.4
@@ -10847,7 +10849,7 @@ Kcop 1.0.0
 kcpRS 1.1.1
 KCSKNNShiny 0.1.0
 KCSNBShiny 0.1.0
-kde1d 1.1.1
+kde1d 1.2.0
 kdecopula 0.9.3
 KDEmcmc 0.0.2
 kdensity 1.2.0
@@ -11556,7 +11558,7 @@ littler 0.3.23
 liureg 1.1.3
 live 1.5.13
 livelink 0.1.1
-liver 1.29
+liver 1.30
 LJexm 1.0.5
 LJmp3converter 1.0.7
 ljr 1.4-0
@@ -15688,7 +15690,7 @@ perccalc 1.0.5
 percentiles 0.3.0
 PerFit 1.4.7
 PerfMeas 1.2.5
-performance 0.18.1
+performance 0.18.2
 PerformanceAnalytics 2.1.0
 peRiodiCS 0.5.0
 PeriodicTable 0.1.2
@@ -17887,7 +17889,7 @@ rdi 1.0.0
 Rdiagnosislist 1.5.1
 rdian 0.1.1
 Rdice 1.0.0
-RDieHarder 0.2.7
+RDieHarder 0.2.8
 Rdimtools 1.1.4
 rdist 0.0.5
 Rdistance 4.4.3
@@ -22402,7 +22404,7 @@ synthesisr 0.4.1
 synthesizer 0.6.0
 SynthETIC 1.1.2
 syntheticdata 0.1.0
-synthpop 1.9-2
+synthpop 1.9-3
 synthReturn 1.0.0
 SynthTools 1.0.1
 syrona 0.2.1
@@ -23385,7 +23387,7 @@ treeSS 0.2.6
 treestartr 0.1.0
 treestats 1.71.13
 treestructure 1.0.1
-TreeTools 2.4.0
+TreeTools 2.4.1
 trekcolors 0.2.0
 trekfont 0.9.6
 trelliscopejs 0.2.11

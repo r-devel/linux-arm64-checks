@@ -4498,7 +4498,7 @@ datardis 0.0.5
 dataReporter 1.0.5
 datareportR 0.1.2
 dataresqc 1.1.1
-dataRetrieval 2.7.25
+dataRetrieval 2.7.26
 datarium 0.2.0
 datarobot 2.18.9
 datasauRus 0.1.9
@@ -8279,7 +8279,7 @@ ggfocus 1.0.1
 ggfootball 0.3.0
 ggforce 0.5.0
 ggforestplotR 0.3.1
-ggformula 1.0.1
+ggformula 2.0.0
 ggfortify 0.4.23
 ggfoundry 0.3.1
 ggfun 0.2.1
@@ -8478,7 +8478,7 @@ ggvis 0.4.10
 ggvolc 0.1.0
 ggvolcano 0.1.4
 ggWebGL 0.8.0
-ggwidth 0.1.2
+ggwidth 0.2.0
 ggwordcloud 0.6.2
 ggx 0.1.1
 gh 1.6.1
@@ -10302,7 +10302,7 @@ intensitynet 1.4.0
 inteq 1.1
 InteractionPoweR 0.2.4
 interactionR 0.1.7
-interactionRCS 0.1.2
+interactionRCS 0.1.3
 interactions 1.2.0
 interactionTest 1.2
 Interatrix 1.1.5
@@ -13895,7 +13895,7 @@ mwmapdata 1.0.0
 MWright 0.3.2
 mwshiny 2.1.0
 mwTensor 1.2.2
-mx.api 0.3.0
+mx.api 0.3.1
 mx.client 0.2.0
 mx.crypto 0.2.1
 mxcc 0.0.6
@@ -16587,7 +16587,7 @@ prider 1.0.6
 pridit 1.1.1
 prim 1.0.23
 PRIMAL 1.0.3
-primarycensored 1.5.1
+primarycensored 1.5.2
 primate 0.2.0
 primefactr 0.1.1
 primePCA 1.2
@@ -23891,7 +23891,7 @@ usedthese 0.5.0
 useful 1.2.7
 usefun 0.5.2
 usemodels 0.2.0
-usethis 3.2.1
+usethis 3.2.2
 USgas 0.1.2
 USgrid 0.1.2
 usincometaxes 0.7.1

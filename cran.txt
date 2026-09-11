@@ -278,7 +278,7 @@ AeRobiology 2.0.4
 AeroEvapR 0.1.6
 AeroSampleR 0.3.0
 aesopR 0.1.0
-afc 1.4.0
+afc 1.5.0
 afcharts 0.5.1
 afcolours 1.0.0
 afdx 1.1.2
@@ -830,7 +830,7 @@ ARTool 0.11.2
 artpack 0.2.0
 aRtsy 1.0.1
 ARTtransfer 1.0.0
-arules 1.7.14
+arules 1.7.15
 arulesCBA 1.2.9
 arulesNBMiner 0.1.9
 arulesSequences 0.2-32
@@ -3780,7 +3780,7 @@ cookie 1.0.0
 cookiecutter 0.1.0
 cookiemonster 0.1.0
 cookies 0.2.3
-cooltools 2.18
+cooltools 2.33
 coop 0.6-3
 CoopGame 0.2.2
 CoordinateCleaner 3.0.1
@@ -4097,7 +4097,7 @@ criticalpath 0.2.1
 critpath 0.2.3
 crm12Comb 0.1.12
 CRMetrics 0.3.3
-crmn 0.0.21
+crmn 0.0.22
 crmPack 2.2.1
 crmReg 1.0.4
 crochet 2.3.0
@@ -6126,7 +6126,7 @@ EngrEcon 1.0.0
 engression 0.1.6
 EngrExpt 0.1-8
 enhancer 1.1.1
-ENMeval 2.0.5.2
+ENMeval 2.0.6
 enmpa 0.2.5
 enmSdmX 1.2.12
 ENMTools 1.1.5
@@ -6467,7 +6467,7 @@ evmissing 1.0.2
 evmix 2.12
 evmr 0.2.0
 evoFE 1.0.0
-evola 1.0.8
+evola 1.0.9
 evolMap 1.3.14
 evolqg 0.3-6
 evolution 0.1.1
@@ -7868,7 +7868,7 @@ gcpca 0.0.1
 gcplyr 1.12.0
 GCPM 1.2.2
 GCSM 0.2.0
-gcTensor 1.0.0
+gcTensor 1.0.1
 gctsc 0.2.5
 GCubeR 0.1.3
 gcxgclab 1.1.0
@@ -8390,7 +8390,7 @@ ggquickeda 0.3.3
 ggquiver 0.5.0
 ggragged 0.2.0
 ggrain 0.1.2
-ggRandomForests 3.5.2
+ggRandomForests 3.5.3
 ggraph 2.2.2
 ggraptR 1.3
 ggrastr 1.0.2
@@ -8411,7 +8411,7 @@ ggScatRidges 1.1.0
 ggsced 0.1.9
 ggsci 5.2.0
 ggscidca 0.2.8
-ggscribe 0.2.0
+ggscribe 1.0.0
 ggseg 2.2.1
 ggseg.formats 0.0.4
 ggseg.meshes 0.0.1
@@ -8922,7 +8922,7 @@ gratia 0.11.2
 graticule 0.4.0
 gratis 1.0.8
 grattan 2026.1.1
-grattanInflators 0.5.7
+grattanInflators 0.6.0
 gRaven 1.1.10
 gravitas 0.1.3
 gravity 1.1
@@ -9320,7 +9320,7 @@ HDCurves 0.1.2
 hdd 0.1.2
 HDElliptical 0.1.2
 hdf5lib 2.2.0.0
-hdf5r 1.3.15
+hdf5r 1.3.16
 hdf5r.Extra 0.1.0
 hdflex 0.3.2
 hdfqlr 0.6-2
@@ -9363,7 +9363,7 @@ healthcare.antitrust 0.1.6
 healthdb 0.5.1
 healthequal 1.0.1
 healthfinance 0.1.0
-healthiar 0.2.5
+healthiar 0.2.6
 HealthMarkers 0.1.4
 healthmotionR 0.2.0
 healthyAddress 0.5.2
@@ -9681,7 +9681,7 @@ html2excel 1.0.1
 html2pdfR 0.1.0
 html2R 0.1.0
 html5 1.0.2
-htmlreportR 1.0.0
+htmlreportR 2.0.1
 htmlTable 2.5.0
 htmltools 0.5.9
 HTMLUtils 0.1.9
@@ -9894,6 +9894,7 @@ icensmis 1.5.0
 icertool 0.0.3
 icesAdvice 2.1.1
 IceSat2R 1.1.0
+ICESat2VegR 0.0.1
 icesConnect 1.1.4
 icesDatras 1.4.1
 icesDatsu 1.2.1
@@ -10429,7 +10430,7 @@ ipmr 0.0.7
 IPMRF 1.3
 ipolygrowth 1.0.0
 IPPP 1.1
-ipr 0.1.0
+ipr 1.0.0
 ipred 0.9-16
 iprior 0.7.4
 iPRISM 0.1.1
@@ -10604,7 +10605,7 @@ ivdesc 1.1.2
 ivDiag 1.0.6
 IVDML 1.0.2
 ivdoctr 1.0.1
-ivdtools 0.1.3
+ivdtools 0.2.5
 ivgets 0.1.2
 ivgls 0.1.0
 ivmodel 1.9.1
@@ -11423,7 +11424,7 @@ libdeflate 1.25-0
 libgeos 3.11.1-3
 libimath 3.2.2-1
 libipldr 0.1.1
-LiblineaR 2.10-24
+LiblineaR 2.10-25
 libopenexr 3.4.12-4
 libr 1.4.2
 Libra 1.7
@@ -11596,7 +11597,7 @@ LMD 1.2.1
 lmDiallel 1.0.2
 lmds 0.1.0
 lme4 2.0-6
-lme4breeding 1.1.3
+lme4breeding 1.1.4
 lme4GS 0.1
 lmeInfo 0.3.2
 LMERConvenienceFunctions 3.2
@@ -12275,6 +12276,7 @@ MBESS 5.0.1
 mbest 0.6.1
 mbg 1.2.0
 MBGapp 0.1.0
+MBHdesign 2.3.22
 mbir 1.3.5
 mblm 0.12.1
 MBmca 1.1-0
@@ -14141,7 +14143,7 @@ NetWeaver 1.0.0
 network 1.20.0
 networkABC 0.9-1
 NetworkChange 1.1.0
-NetworkComparisonTest 2.2.3
+NetworkComparisonTest 2.2.4
 NetworkComparr 0.0.0.9
 networkD3 0.4.1
 NetworkDistance 0.3.6
@@ -15634,7 +15636,7 @@ pedigreeTools 0.3
 pedMermaid 1.0.2
 pedmut 0.9.1
 pedometrics 0.12.1
-pedprobr 1.1.0
+pedprobr 1.1.1
 pedquant 0.2.6
 pedSimulate 1.4.3
 pedsuite 1.4.0
@@ -17772,7 +17774,7 @@ RCPA 0.2.9
 RCPA3 1.3.1
 Rcplex 0.3-8
 Rcpp 1.1.2
-RCppAD 1.20260000.0
+RCppAD 1.20260000.0-1
 RcppAlgos 2.10.1
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
@@ -20323,7 +20325,7 @@ SeuratObject 5.4.0
 sevenbridges2 0.4.0
 sever 0.0.7
 sewage 0.2.5
-sf 1.1-2
+sf 1.1-3
 sfa 1.2.0
 sfadv 1.0.1
 sfaR 1.0.1
@@ -20770,7 +20772,7 @@ simpowa 1.0.3
 simpr.interaction 0.1.0
 simputation 0.2.9
 simqi 0.2.0
-simr 1.0.10
+simr 1.0.11
 SimRDS 2.0.0
 simrec 1.0.1
 SimReg 3.4
@@ -21174,7 +21176,7 @@ someMTP 1.4.1.1
 SOMEnv 1.1.2
 somhca 0.4.0
 SOMMD 0.1.2
-sommer 4.4.6
+sommer 4.4.7
 SOMnmR 0.3.0
 sonar 1.0.2
 sondage 0.9.1
@@ -21336,7 +21338,7 @@ SpatialGraph 1.0-4
 SpatialInference 0.1.0
 spatialising 0.6.2
 SpatialKDE 0.8.2
-spatialkit 1.0.0
+spatialkit 2.0.0
 SpatialML 1.8.2
 SpatialNP 1.1-6
 SpatialPack 0.4-1
@@ -21378,7 +21380,7 @@ spatstat.model 3.7-2
 spatstat.random 3.5-1
 spatstat.sparse 3.2-0
 spatstat.univar 3.2-0
-spatstat.utils 3.2-4
+spatstat.utils 3.2-5
 spatsurv 2.0-1
 SPB 1.0
 spbabel 0.6.0
@@ -24149,7 +24151,7 @@ vigicaen 2.0.0
 VIGoR 1.1.5
 viking 1.0.2
 villager 2.0.0
-VIM 7.3.0
+VIM 7.3.1
 VIMean 0.1.0
 vimixr 0.1.3
 vimp 2.3.6
@@ -24403,7 +24405,7 @@ wconf 1.2.0
 wCorr 1.9.8
 wcox 1.0
 WCRBayesDesign 1.0.1
-wcswatin 0.1.1
+wcswatin 0.2.0
 wcvpmatch 0.0.2
 WData 0.1.1
 WDI 2.8.0

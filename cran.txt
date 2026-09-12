@@ -18562,7 +18562,7 @@ riemannianStats 0.2.0
 RiemBase 0.2.6
 riemtan 0.2.5
 Riex 1.0.2
-RIFanalysis 0.9.2
+RIFanalysis 0.9.3
 rifexpectile 0.1.1
 rifreg 1.1.0
 RIFS 0.1.6

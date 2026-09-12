@@ -11818,7 +11818,7 @@ LPDynR 1.0.5
 lphom 0.3.5-7
 lpint 2.1
 lpirfs 0.2.5
-lpl 0.13
+lpl 0.15
 LPM 3.2
 lpmec 1.1.4
 LPmerge 1.7
@@ -19797,7 +19797,7 @@ sandwich 3.1-3
 SanFranBeachWater 0.1.0
 SangerTools 1.0.2
 sanic 0.0.2
-sanitizers 0.1.1
+sanitizers 0.1.2
 sanityTracker 0.1.0
 sanketphonetictranslator 0.1.0
 sankey 1.0.2

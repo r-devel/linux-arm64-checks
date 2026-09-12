@@ -5013,7 +5013,7 @@ diffIRT 1.5
 diffmatchpatch 0.1.0
 diffMeshGP 0.1.1
 DiffNet 1.0.2
-diffobj 0.3.8
+diffobj 0.3.9
 diffpriv 0.4.2
 diffr 0.3.0
 diffuseR 0.2.2
@@ -20411,7 +20411,7 @@ shapleyHALE 0.1.0
 ShapleyOutlier 0.1.2
 ShapleyValue 0.2.0
 shapper 0.1.3
-shapr 1.0.8
+shapr 1.1.0
 shapviz 0.10.4
 shar 2.3.1
 shard 0.2.0
@@ -24417,7 +24417,7 @@ wdman 0.2.6
 wdnet 1.2.4
 wdnr.gis 0.1.7
 wdpar 1.3.9
-wdsmatch 0.1.1
+wdsmatch 0.2.0
 weaana 0.3.0
 weakARMA 1.0.3
 weatherindices 0.1.0

@@ -979,6 +979,7 @@ autoFC 1.0.0.1100
 autoFlagR 1.0.0
 autoFRK 1.4.4
 autogam 0.1.0
+AutoGenAI 0.1.0
 autoGO 1.0.3
 autograph 1.2.3
 autoharp 0.3.2
@@ -3419,6 +3420,7 @@ cogirt 1.0.0
 coglasso 1.1.1
 coglyphr 1.1.0
 cogmapr 0.9.5
+cogmod 0.3.0
 cograph 2.4.4
 cohetsurr 2.0
 cohortBuilder 1.0.0
@@ -4650,7 +4652,7 @@ DDPM 0.1.0
 DDPstar 1.0-1
 DDRTree 0.1.6
 ddsPLS 1.2.1
-ddst 1.4
+ddst 1.6.11
 ddtlcm 0.2.1
 DEA 1.0.0
 deadband 0.1.0
@@ -5476,7 +5478,6 @@ DSBayes 2023.1.0
 dscore 2.0.0
 dscoreMSM 0.1.0
 dScoreTest 1.0.0
-dsdp 0.1.2
 DSDRM 0.1.3
 dsem 3.0.0
 DSFM 1.0.1
@@ -6601,7 +6602,6 @@ extrafontdb 1.1
 extrafrail 1.15
 extraoperators 0.4.0
 extras 0.10.0
-extrasteps 0.3.0
 extraSuperpower 1.6.2
 extraterrestrial 0.1.0
 extRC 1.2
@@ -8307,7 +8307,7 @@ gginference 0.1.3
 gginnards 0.2.0-2
 ggInterval 0.2.5
 ggip 0.3.2
-GGIR 3.3-8
+GGIR 3.3-9
 ggiraph 0.9.6
 ggiraphExtra 0.3.0
 GGIRread 1.0.10
@@ -8886,6 +8886,7 @@ gramEvol 2.1-4
 GramQuad 0.1.1
 GRANDpriv 0.1.3
 grandR 0.2.7
+GrangerRKHS 0.1.0
 grangers 0.1.1
 grangersearch 0.1.0
 granova 2.3
@@ -10645,6 +10646,7 @@ JamendoR 0.1.1
 JANE 2.1.0
 janeaustenr 1.0.0
 janitor 2.2.1
+janssonr 0.1.2
 janus 1.0.0
 janusplot 0.1.1
 JapanAPIs 0.1.1
@@ -14781,6 +14783,7 @@ OmicFlow 1.6.0
 OmicKriging 1.4.0
 OmicNavigator 1.19.0
 OmicNetR 0.1.1
+OmicsBraid 0.2.3
 OmicSense 0.2.0
 OmicsPLS 2.1.0
 OmicsPrepR 0.1.1
@@ -15937,6 +15940,7 @@ piiR 0.3.0
 Pijavski 1.0.5
 pikchr 1.1.1
 pillar 1.11.1
+pilotr 0.3.0
 pim 2.0.4
 pimeta 1.1.3
 Pinference 0.2.6
@@ -16244,7 +16248,6 @@ poliscidata 2.3.0
 polish 0.3.1
 polished 0.8.1
 PolisheR 1.1.1
-polite 0.1.4
 politeness 0.9.4
 politicsR 0.1.0
 polle 1.6.4
@@ -16377,6 +16380,7 @@ postlogic 0.1.0.1
 POSTm 1.4
 postpack 0.5.4
 postshock 0.2.0
+postvocs 0.2.5
 POT 1.1-11
 potential 0.3.0
 potentiomap 0.2.0
@@ -17489,6 +17493,7 @@ RankingProject 0.4.0
 rankingQ 0.2.0
 rankinma 0.2.2
 rankinPlot 1.1.0
+rankMANOVA 0.1.1
 RankPCA 0.1.0
 rankPlayedInference 1.0
 rankrate 1.2.1
@@ -18941,6 +18946,7 @@ RobustAdaptiveDecomposition 0.1.0
 RobustAFT 1.4-10
 RobustANOVA 0.3.0
 robustarima 0.2.7
+RobustArithmetic 0.1.0
 robustbase 0.99-7
 RobustBayesianCopas 2.0
 robustbetareg 0.3.1
@@ -19943,6 +19949,7 @@ scistreer 1.2.1
 scitb 0.2.2
 SciViews 0.9-13.2
 sClust 1.0
+sclValid 0.1.0
 scMappR 1.0.12
 scMetaTraj 0.1.1
 scmix 0.1.1
@@ -21040,6 +21047,7 @@ SMPracticals 1.4-3.2
 smqf 1.1-8
 SMR 2.1.0
 smriti 0.2.0
+smrlasso 1.0
 sms 2.3.1
 smsets 2.0.0
 smsncut 0.1.0
@@ -22391,6 +22399,7 @@ symTensor 0.1.0
 SymTS 1.0-2
 syn 0.1.0
 synadam 0.3.3
+sync3d 0.1.1
 syncdr 0.1.2
 synchronicity 1.3.10
 synchrony 0.3.9
@@ -22696,9 +22705,9 @@ terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.2
 TesiproV 0.9.6
-tesouror 0.3.0
+tesouror 0.3.1
 tesselle 1.7.0
-tesseract 5.3.0
+tesseract 5.3.1
 test.assessr 2.1.3
 test2norm 0.3.0.1
 TestAnaAPP 1.1.2
@@ -23774,6 +23783,7 @@ uncorbets 0.1.2
 UNCOVER 1.1.0
 underdisp 0.1.0
 undidR 3.0.2
+undomanager 0.1.0
 unexcel 0.2.0
 unfold 1.0.1
 unglue 0.1.0
@@ -24003,6 +24013,7 @@ variationalDCM 2.0.1
 varImp 0.4
 vaRiskScore 2.0.0
 varitas 0.0.2
+varmapack 0.1.1
 varoc 1.0.0
 varPro 3.2.0
 VarRedOpt 0.1.0
@@ -24883,7 +24894,6 @@ zen4R 0.10.6
 zendeskR 0.4
 zendown 0.1.0
 zenplots 1.0.7
-zenstats 0.1.2
 zentraR 0.1.3
 ZEP 0.3.1
 zephyr 0.1.3

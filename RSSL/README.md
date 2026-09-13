@@ -1,6 +1,6 @@
 # RSSL 0.9.8
 
-Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34005491478
+Latest run: 2026-09-13: https://github.com/r-devel/linux-arm64-checks/actions/runs/34732488079
 
 ```
 Package: RSSL

@@ -1,6 +1,6 @@
 # pwrss 1.2.0
 
-Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34006529971
+Latest run: 2026-09-13: https://github.com/r-devel/linux-arm64-checks/actions/runs/34733380433
 
 ```
 Package: pwrss

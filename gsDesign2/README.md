@@ -1,6 +1,6 @@
 # gsDesign2 1.2.0
 
-Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34006091217
+Latest run: 2026-09-13: https://github.com/r-devel/linux-arm64-checks/actions/runs/34732958121
 
 ```
 Package: gsDesign2

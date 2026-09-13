@@ -1,6 +1,6 @@
 # recmap 1.0.20
 
-Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34006615036
+Latest run: 2026-09-13: https://github.com/r-devel/linux-arm64-checks/actions/runs/34733465379
 
 ```
 Package: recmap

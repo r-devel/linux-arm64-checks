@@ -1,6 +1,6 @@
 # HDElliptical 0.1.2
 
-Latest run: 2026-09-09: https://github.com/r-devel/linux-arm64-checks/actions/runs/34408310064
+Latest run: 2026-09-13: https://github.com/r-devel/linux-arm64-checks/actions/runs/34732399926
 
 ```
 Package: HDElliptical

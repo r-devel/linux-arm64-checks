@@ -1,6 +1,6 @@
 # singleRcapture 1.1.0
 
-Latest run: 2026-09-06: https://github.com/r-devel/linux-arm64-checks/actions/runs/34006753969
+Latest run: 2026-09-13: https://github.com/r-devel/linux-arm64-checks/actions/runs/34733587903
 
 ```
 Package: singleRcapture

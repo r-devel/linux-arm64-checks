@@ -592,6 +592,7 @@ ANOFA 0.1.3
 anoint 1.5
 anomalize 0.3.0
 anomaly 4.3.3
+AnomalyScore 0.1.3
 anominate 0.7
 anomo 1.3.2
 ANOPA 0.2.3
@@ -1045,6 +1046,7 @@ avocado 0.2.0
 avotrex 1.3.0
 avseqmc 1.0.2
 avstrat 0.1.1
+awdb 0.1.5
 aweek 1.0.3
 aweSOM 1.3
 awinR 0.1.0
@@ -1200,7 +1202,7 @@ baseq 0.2.0
 baserater 0.1.2
 bases 0.2.1
 BaseSet 1.0.0
-basetable 1.3.2
+basetable 1.4.1
 BaseTempSeed 0.1.0
 basetheme 0.1.3
 baseverse 0.1.4
@@ -2362,7 +2364,7 @@ c3dr 0.2.1
 c3net 1.1.1.1
 C443 3.4.0
 C50 0.2.0
-ca 0.71.1
+ca 0.72
 CA3variants 3.3.1
 cABCanalysis 1.0.2
 cabinets 0.6.0
@@ -5712,7 +5714,7 @@ easypower 1.0.2
 easyPSID 0.1.3
 easyPubMed 3.1.6
 easyr 0.5-11
-easyRasch2 1.3.0
+easyRasch2 1.3.1
 easyRaschBayes 0.3.0
 easyRef 0.1.0
 easyreg 4.0
@@ -6417,7 +6419,7 @@ Euclimatch 1.0.2
 eudract 1.1.1
 eufmdis.adapt 0.1.0
 EUfootball 0.0.1
-eulerr 8.3.0
+eulerr 8.3.1
 eunis.habitats 0.1.0
 Eunomia 2.1.0
 eurlex 0.5.0
@@ -9775,7 +9777,7 @@ hydroeval 0.1.0
 hydroEvents 0.13.0
 hydrogeofetch 2.0.4
 hydroGOF 0.7-0
-hydroloom 1.2.1
+hydroloom 1.2.2
 HydroMe 2.1.2
 hydromeso 0.1.0
 hydroMOPSO 0.1-14
@@ -11871,7 +11873,7 @@ lsr 1.0.0
 lsReg 1.0.0
 LSRS 0.2.0
 lss2 1.1
-lssdoc 0.1.1
+lssdoc 0.2.0
 LST 2.0.0
 lstar 0.2.2
 LSTbook 0.6
@@ -14152,7 +14154,7 @@ netseer 0.1.3
 netseg 1.0-3
 netSEM 0.7.0
 netsimhelpers 0.1.0
-NetSimR 0.1.6
+NetSimR 0.2.0
 netstat 0.1.2
 netsubsamp 1.0.0
 NetSurvProx 1.0.0
@@ -17257,7 +17259,7 @@ quasar 0.2.1
 quaxnat 1.0.1
 QuClu 1.0.1
 queryBuilder 0.1.0
-querychat 0.3.0
+querychat 0.4.0
 queryparser 0.3.2
 queryup 1.0.5
 quest 0.2.1
@@ -18812,7 +18814,7 @@ rmetalog 1.0.3
 rmfanova 0.1.0
 RMFM 1.1.0
 Rmfrac 1.0.0
-rmgarch 1.4-2
+rmgarch 1.4-3
 rMIDAS 1.0.1
 rMIDAS2 0.2.0
 rminer 1.5.0
@@ -20715,7 +20717,7 @@ sim2Dpredictr 0.1.1
 simaerep 1.0.0
 SimBaRepro 0.1.0
 SimBIID 0.2.2
-simBKMRdata 0.2.1
+simBKMRdata 0.2.2
 simboot 0.2-8
 simCAT 1.0.1
 simcausal 0.5.7
@@ -20778,7 +20780,7 @@ SimNPH 0.5.8
 simode 1.2.2
 simodels 0.2.0
 simOutrank 0.3.0
-simPDF 0.1.1
+simPDF 0.1.2
 simPH 1.3.15
 simphony 1.0.3
 simplace 5.1.2
@@ -22140,7 +22142,7 @@ subsemble 0.1.0
 substackR 0.1.15
 subtitles 0.1.1
 subtools 1.1.0
-SubTS 1.0
+SubTS 2.0
 SubtypeDrug 0.1.9
 SubVis 2.0.2
 success 1.1.1

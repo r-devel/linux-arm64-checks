@@ -15238,6 +15238,7 @@ oystermapR 1.5.0
 oz 1.0-22
 ozbabynames 0.2.0
 ozmaps 0.4.5
+p2oncology 0.1.1
 p3state.msm 1.3.3
 pa 1.2-4
 paar 1.0.2
@@ -19434,6 +19435,7 @@ RSSampling 1.0
 RsSimulx 2024.1
 RSSL 0.9.8
 RSSOP 1.1
+rSSP 0.1.0
 RSSRMR 0.1.0
 RSStest 1.0
 RSSthemes 1.0.0

@@ -167,6 +167,7 @@ adaR 0.3.5
 adas.utils 1.4.1
 AdaSampling 1.3
 adbcdrivermanager 0.24.0-3
+adbcsqlite 0.24.0-2
 adc 1.0.0
 ADCT 0.1.0
 add2ggplot 0.3.0
@@ -313,7 +314,6 @@ AgePopDenom 1.2.3
 AgeTopicModels 0.3.0
 ageutils 0.1.2
 agfh 0.2.1
-agghoo 0.1-0
 aggreCAT 1.1.0
 AggregateR 0.1.1
 aggregation 1.0.2
@@ -617,7 +617,7 @@ AnthropMMD 4.1.0
 Anthropometry 1.22
 AntibodyForests 1.1.0
 AntibodyTiters 0.1.24
-anticlust 0.8.16
+anticlust 0.8.18
 antitrust 0.99.33
 antiword 1.3.5
 AntsNet 1.0.0
@@ -1586,7 +1586,7 @@ BeyondBenford 1.4
 beyondWhittle 1.3.1
 bezier 1.1.2
 bfast 1.7.2
-bfbin2arm 0.1.5
+bfbin2arm 0.1.6
 bfboin 0.1.1
 bfboinet 1.1.0
 bfcluster 1.0.0
@@ -2430,6 +2430,7 @@ campaignmanageR 0.1.0
 campfin 1.0.11
 campsis 1.9.0
 campsismod 1.4.0
+campsisnca 1.7.1
 camsRad 0.3.0
 camtrapdp 0.6.0
 camtrapR 3.1.0
@@ -2711,6 +2712,7 @@ cdlsim 0.1.0
 cdlTools 1.13
 CDM 8.3-14
 CDMConnector 2.7.0
+cdmeta 1.1-1
 cdmetapopR 1.0.0
 cdmTools 1.0.6
 cdnbcr 1.1.1
@@ -3022,7 +3024,7 @@ CIpostSelect 0.2.2
 cir 2.5.1
 circacompare 0.2.0
 CircaCP 0.1.2
-circda 1.0
+circda 1.1
 CirceR 1.3.3
 circhelp 1.1
 circle 0.7.4
@@ -3453,6 +3455,7 @@ cohorttools 0.1.8
 CohortUtilisation 0.6.1
 CoImp 2.2
 coin 1.4-5
+coinclp 0.1.0
 coinmarketcapr 0.4
 CoinMinD 1.2.1
 Coinprofile 0.1.9
@@ -3847,7 +3850,7 @@ CoreMicrobiomeR 0.1.0
 coreNLP 0.4-3
 coreSim 0.2.4
 coresynth 0.5.0
-coreval 0.1.0
+coreval 0.3.0
 corHMM 2.8
 corkscrew 1.1
 corlink 1.0.0
@@ -4897,6 +4900,7 @@ detect 0.5-2
 detectnorm 1.0.0
 detector 0.1.0
 detectors 0.1.0
+detectPanel 0.1.3
 detectR 0.3.0
 detectRUNS 0.9.6
 detectseparation 0.4.0
@@ -5178,7 +5182,7 @@ distionary 0.2.0
 distops 0.1.0
 distory 1.4.5
 DistPlotter 0.0.2
-distplyr 0.2.0
+distplyr 0.3.0
 distr 2.9.7
 distrDoc 2.8.5
 distrEllipse 2.8.4
@@ -5452,6 +5456,7 @@ DRLAP2 0.1.1
 drlate 0.3.1
 drMAIC 0.1.0
 drmeta 0.2.2
+drmTMB 0.7.0
 drogonR 0.1.9
 droll 0.1.0
 DRomics 2.6.3
@@ -5548,10 +5553,10 @@ DTDA.ni 1.0.1
 DTEAssurance 1.1.0
 DTEBOP2 1.0.3
 DTFM 0.1.5
-dtGAP 0.0.2
 dtgiw 1.1.0
 dti 1.5.4.3
 dtlg 0.1.0
+dtlog 0.1.0
 dtlscores 0.1.0
 dtmapi 0.1.0
 DTMCPack 0.1-3
@@ -6799,7 +6804,7 @@ fastDummies 1.7.6
 fastei 0.0.19
 fasterize 1.1.0
 fasterRaster 8.4.1.2
-fastFGEE 0.1.0
+fastFGEE 0.2.0
 fastFMM 1.0.1
 fastfocal 0.1.3
 FastGaSP 0.6.4
@@ -8042,6 +8047,7 @@ GenOrd 2.1.0
 GenoTriplo 2.2.1
 GenOU 0.2.1
 genpathmox 1.1
+genpca 0.2.0
 genproc 0.2.0
 genridge 0.8.0
 GenSA 1.1.15
@@ -8625,6 +8631,7 @@ glmlep 0.2
 glmm 1.4.5
 glmm.hp 1.0-0
 GLMMadaptive 0.9-7
+GLMMcosinor 0.2.2
 glmmEP 1.0-4
 glmmFEL 1.0.5
 glmmfields 0.1.8
@@ -8730,6 +8737,7 @@ GMSimpute 0.0.1.0
 gmsp 0.7.1
 gmt 2.0.3
 gmtFD 0.1.0
+GMTM 0.1.0
 gmvarkit 2.2.2
 gmvjoint 0.4.5
 gmwmx 1.0.3
@@ -9285,7 +9293,7 @@ hashr 0.1.4
 hashtable 1.0.1
 Hassani.SACF 2.0
 Hassani.Silva 1.0
-hassediagrams 2.1
+hassediagrams 3.0
 hatchR 1.0.1
 hatemicoint 1.0.1
 hatsurvey 1.1.1
@@ -9750,7 +9758,7 @@ HurreconR 1.2
 hurricaneexposure 0.1.1
 hutils 2.0.0
 hutilscpp 0.10.10
-huxtable 5.8.0
+huxtable 6.0.1
 HVS 1.0.1
 HVT 26.1.3
 hwde 0.67-3
@@ -10134,6 +10142,7 @@ impimp 0.3.1
 implicitExpansion 0.1.0
 implicitMeasures 1.0.0
 implied 0.5
+imply 0.1.0
 implyr 0.5.0
 import 1.3.4
 ImportanceIndice 0.0.2
@@ -10469,7 +10478,7 @@ ipwErrorY 2.1
 iq 2.0.1
 IQCC 0.7
 ir 0.4.2
-irace 4.4.4
+irace 4.5
 iraceplot 2.1.0
 irboost 0.2-1.1
 ircor 1.0
@@ -10876,7 +10885,7 @@ Kcop 1.0.0
 kcpRS 1.1.1
 KCSKNNShiny 0.1.0
 KCSNBShiny 0.1.0
-kde1d 1.2.0
+kde1d 1.2.2
 kdecopula 0.9.3
 KDEmcmc 0.0.2
 kdensity 1.2.0
@@ -13146,7 +13155,7 @@ mlr3superlearner 0.1.2
 mlr3torch 0.3.3
 mlr3tuning 1.7.0
 mlr3tuningspaces 0.7.0
-mlr3verse 0.3.2
+mlr3verse 0.4.0
 mlr3viz 0.11.1
 mlrCPO 0.3.8
 mlrintermbo 0.5.1-1
@@ -13692,6 +13701,7 @@ multicmp 1.1
 MultiCOAP 1.1
 multiColl 2.1
 multicool 1.0.1
+multiCorr 0.1.0
 multid 1.0.2
 multiDEGGs 1.2.1
 multideploy 0.1.0
@@ -14162,7 +14172,7 @@ netseer 0.1.3
 netseg 1.0-3
 netSEM 0.7.0
 netsimhelpers 0.1.0
-NetSimR 0.2.0
+NetSimR 0.3.0
 netstat 0.1.2
 netsubsamp 1.0.0
 NetSurvProx 1.0.0
@@ -14471,6 +14481,7 @@ nonmem2rx 0.1.9
 nonmemica 1.2.0
 nonneg.cg 0.1.6-1
 nonnest2 0.5-9
+nonnet 1.0.0
 NonNorMvtDist 1.1.0
 nonpar 1.0.2
 nonparaeff 0.5-15
@@ -14604,6 +14615,7 @@ nrlR 0.1.2
 NRMSampling 0.2.2
 NRMstatsML 0.1.4
 nsarfima 0.2.0.0
+NSC 1.1.8
 nscancor 0.7.0-6
 NScluster 1.3.6-5
 nse 1.22
@@ -15052,6 +15064,7 @@ opusminer 0.1-1
 opusreader2 0.6.8
 oRaklE 1.0.2
 OralOpioids 2.0.5
+orange 0.1.0
 Orangutan 2.2.0
 orbis 0.1.0
 orbital 0.7.0
@@ -15238,6 +15251,7 @@ oystermapR 1.5.0
 oz 1.0-22
 ozbabynames 0.2.0
 ozmaps 0.4.5
+p2distance 1.0.2
 p2oncology 0.1.1
 p3state.msm 1.3.3
 pa 1.2-4
@@ -15845,6 +15859,7 @@ phateR 1.0.7
 PHclust 0.1.0
 phd 0.2
 phdcocktail 0.1.0
+phdid 0.1.0
 pheatmap 1.0.13
 PheCAP 1.2.1
 phecodemap 0.1.0
@@ -15947,7 +15962,6 @@ PhysioIndexR 0.1.0
 PhysMove 1.2.5
 PhySortR 1.0.9
 phytoclass 2.3.1
-PhytoIn 0.2.0
 phytools 2.5-2
 PhytosanitaryCalculator 1.1.3
 piar 0.10.1
@@ -16300,7 +16314,7 @@ polyclip 1.10-7
 polycor 0.8-2
 PolycrossDesigns 1.1.0
 polyCub 0.9.4
-polyglotr 1.7.4
+polyglotr 1.7.5
 polyglotSQL 0.1.0
 PolyHaplotyper 1.0.1
 polykde 1.2.1
@@ -16538,7 +16552,7 @@ precisePlacement 0.2.0
 PreciseSums 0.7
 precmed 1.1.0
 precommit 0.4.3
-precrec 0.14.5
+precrec 0.24.0
 precviasBR 0.1.1
 predfairness 0.1.0
 predHCS 0.1.0
@@ -17155,6 +17169,7 @@ qrcode 0.3.0
 QregBB 1.0.0
 qrencoder 0.1.0
 qreport 1.1-0
+qrfactor 1.6
 QRIpkg 0.2.2
 QRISK3 0.6.0
 qrjoint 2.1-0
@@ -17256,7 +17271,7 @@ quantsig 0.1.0
 quantspec 1.2-4
 quaqcr 1.0.4
 quarks 1.1.6
-quarrint 1.0.0
+quarrint 1.0.1
 quartabs 0.1.1
 Quartet 1.3.0
 quartets 0.1.1
@@ -17452,6 +17467,7 @@ rainette 0.3.3
 RainfallErosivityFactor 1.0.0
 rainfarmr 0.1
 rairtable 0.1.2
+raiseR 0.1.0
 RaJIVE 1.0
 rakeR 0.2.1
 ralger 2.3.0
@@ -17931,7 +17947,7 @@ rDeckgl 0.1.0
 rDecode 0.1.0
 rdeps 0.4
 rdflib 0.2.9
-RDHonest 1.0.1
+RDHonest 1.0.2
 rdhs 0.8.1
 rdhte 0.2.0
 rdi 1.0.0
@@ -18154,6 +18170,7 @@ refset 0.1.1
 REFT 0.1.4
 refuge 0.3.3
 refugees 2025.12.2
+refuginator 1.0.2
 refund 0.1-40
 refund.shiny 1.1.1
 refundBayes 0.6.0
@@ -18389,7 +18406,7 @@ resultcheck 0.3.1
 ResultModelManager 0.6.2
 resumer 0.0.5
 resumiR 1.0.2
-ReSurv 1.0.0
+ReSurv 1.1.0
 retel 0.1.1
 retentionflow 0.1.25
 rethinker 2.0.0
@@ -19652,7 +19669,7 @@ rwunderground 0.1.8
 RXKCD 2.0.1
 RxnSim 1.0.4
 rxode2 5.1.7
-rxode2ll 2.0.17
+rxode2ll 2.0.18
 rxode2mrgsolvebridge 0.1.0
 rxref 0.4.0
 rxSeq 0.99.3
@@ -19762,6 +19779,7 @@ SAMGEP 0.1.0-1
 samon 4.0.2
 sampbias 2.0.0
 sampcompR 0.3.3
+SAMPLE 1.0.1
 SampleCore 0.1.0
 sampledatasets 0.1.0
 sampler 0.2.4
@@ -20208,6 +20226,7 @@ SelectBoost.quantile 0.3.1
 selection.index 2.0.1
 SelectionBias 2.1.0
 selectiongain 2.0.710
+SelectionTools 26.3
 selectiveInference 1.2.5
 selectMeta 1.0.9
 selectr 0.6-0
@@ -20375,6 +20394,7 @@ SeuratObject 5.4.0
 sevenbridges2 0.4.0
 sever 0.0.7
 sewage 0.2.5
+sezgi 0.1.1
 sf 1.1-3
 sfa 1.2.0
 sfadv 1.0.1
@@ -21170,7 +21190,7 @@ socialranking 1.2.0
 socialrisk 0.5.1
 socialSim 0.1.9
 sociome 3.0.1
-socketR 1.0.4
+socketR 1.0.5
 socratadata 0.1.1
 socviz 2.0.0
 sodavis 1.2
@@ -21539,7 +21559,7 @@ SphericalCubature 1.5
 sphet 2.1-1
 sphunif 1.4.4
 SpiceFP 0.1.2
-SPIChanges 0.2.1
+SPIChanges 0.3.0
 spicy 0.12.0
 spider 1.5.3
 spiderbar 0.2.5
@@ -21812,6 +21832,7 @@ stacr 0.1.0
 stagedtrees 2.3.0
 stagePop 1.1-2
 staggered 1.2.2
+staggeredGMM 0.1.0
 staggR 0.2.0
 stagsynth 0.1.0
 StakeholderAnalysis 1.2
@@ -21989,6 +22010,7 @@ stickyr 0.1.3
 STICr 1.1.2
 SticsRFiles 1.7.0
 stIHC 0.1.0
+sTiles 2026.9.4
 stilt 1.3.1
 stim 1.0.0
 stima 1.2.4
@@ -22489,6 +22511,7 @@ SystemicR 0.1.0
 systemicrisk 0.4.3
 syt 0.5.0
 syuzhet 1.0.7
+T1FF 0.1.0
 T2DFitTailor 3.0.2
 T2EQ 1.1
 T2Qv 0.2.0
@@ -22806,7 +22829,7 @@ texreg 1.40
 text 1.9
 text.alignment 0.1.5
 text2emotion 0.1.0
-text2map 0.2.3
+text2map 0.4.0
 text2sdg 1.1.2
 text2sdgData 0.1.1
 text2vec 0.6.6
@@ -24833,6 +24856,7 @@ xmlwriter 0.1.1
 xmpdf 0.3.1
 xmrr 1.1.1
 xnet 0.1.11
+xnicher 1.0.0
 XNomial 1.0.4.1
 xoi 0.76
 XOMultinom 0.9.0-2

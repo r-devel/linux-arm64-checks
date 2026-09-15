@@ -976,7 +976,7 @@ AutoAds 0.1.0
 autoann 0.1.0
 autocodebook 0.1.0
 autocogs 0.1.5
-autoCovariateSelection 1.0.0
+autoCovariateSelection 1.0.1
 autodb 3.3.1
 AutoDeskR 0.5.0
 AutoEDA 0.1.1
@@ -1118,7 +1118,7 @@ bacr 1.0.1
 badcontrols 1.0.1
 badgen 1.0.1
 badger 0.2.5
-badp 0.6.1
+badp 0.7.0
 baf 0.0.4
 baffle 0.2.2
 bage 0.10.10
@@ -2793,7 +2793,7 @@ Certara.ModelResults 3.0.1
 Certara.NLME8 3.2.0
 Certara.R 1.1.0
 Certara.RDarwin 1.2.0
-Certara.RsNLME 3.1.1
+Certara.RsNLME 3.2.0
 Certara.RsNLME.ModelBuilder 3.0.1
 Certara.RsNLME.ModelExecutor 3.1.0
 Certara.VPCResults 3.0.2
@@ -3600,7 +3600,7 @@ CompModels 0.3.0
 COMPoissonReg 0.8.2
 CompositeReliability 1.0.3
 compositeReliabilityInNestedDesigns 1.0.4
-Compositional 8.3
+Compositional 8.4
 compositional.mle 2.0.0
 Compositionalasmr 1.0
 CompositionalClust 1.3
@@ -4289,7 +4289,7 @@ cudaverse 0.4.1
 CUFF 1.9
 CUMP 2.0
 cumprinc 0.1
-cumulcalib 0.1.0
+cumulcalib 0.2.0
 cuperdec 1.1.0
 cuRe 1.1.1
 cureAssess 0.1.0
@@ -6804,7 +6804,7 @@ fastFMM 1.0.1
 fastfocal 0.1.3
 FastGaSP 0.6.4
 fastgbm 0.6.1
-fastgeojson 0.1.3
+fastgeojson 0.3.0
 fastGHQuad 1.0.1
 fastGLCM 1.0.3
 fastglm 0.1.2
@@ -7432,7 +7432,7 @@ formatBibtex 0.1.1
 formatdown 0.2.0
 formatR 1.14
 formattable 0.2.1
-formatters 0.5.12
+formatters 0.5.13
 formods 0.2.2
 formr 1.1.0
 FormShare 1.0.1
@@ -11110,7 +11110,7 @@ kvr2 0.2.0
 KWCChangepoint 0.2.3
 KWELA 1.0.0
 kyotil 2024.11-01
-kza 4.1.0.1
+kza 4.2.0
 kzs 1.4.1
 l0ara 0.1.7
 L0cpt 0.2.0
@@ -11749,7 +11749,7 @@ logNormReg 0.5-0
 logOfGamma 0.0.1
 logolink 1.0.0
 logos 0.1.0
-logr 1.3.9
+logr 1.4.0
 LogRegEquiv 0.1.5
 logrx 0.4.0
 logrxaddin 0.0.1
@@ -11846,7 +11846,7 @@ lrgs 0.5.4
 LRMF3 0.1.0
 LRMiss 0.0.1
 LRQVB 1.0.0
-lrstat 0.3.3
+lrstat 0.3.4
 LRTesteR 2.0.0
 LS2W 1.3.7
 LS2Wstat 2.1-5
@@ -12486,7 +12486,7 @@ mediation 4.5.1
 mediationsens 0.0.3
 medicalcoder 0.9.0
 medicaldata 0.2.0
-medicare 0.2.1
+medicare 0.3.0
 meditations 1.0.1
 MedLEA 1.0.2
 medmod 1.2.0
@@ -12609,7 +12609,7 @@ metainsight 7.1.0
 MetaIntegration 0.1.2
 metajam 0.3.2
 MetaLandSim 2.0.0
-metalcor 1.0.0
+metalcor 1.0.2
 metaLik 0.44.0
 metalite 0.1.4
 metalite.ae 0.1.4
@@ -14107,7 +14107,7 @@ neonPlantEcology 1.6.1
 neonSoilFlux 4.0.1
 neonstore 0.5.1
 neonUtilities 4.0.2
-neotoma2 1.0.12
+neotoma2 1.1.0
 nephro 1.5
 NEpiC 1.0.1
 neptune 0.2.3
@@ -15848,7 +15848,7 @@ phdcocktail 0.1.0
 pheatmap 1.0.13
 PheCAP 1.2.1
 phecodemap 0.1.0
-PHEindicatormethods 2.1.1
+PHEindicatormethods 2.1.2
 phenesse 0.1.3
 phenex 1.4-5
 PHENIX 1.3.2
@@ -15887,7 +15887,7 @@ phonR 1.0-7
 phonTools 0.2-2.2
 phontrast 2.4.1
 phosphoricons 0.2.1
-photobiology 0.14.2
+photobiology 0.14.3
 photobiologyFilters 0.6.1
 photobiologyInOut 0.4.33
 photobiologyLamps 0.5.3
@@ -18385,7 +18385,7 @@ restrictR 0.1.0
 restriktor 0.6-50
 RestRserve 1.2.4
 result 0.1.0
-resultcheck 0.3.0
+resultcheck 0.3.1
 ResultModelManager 0.6.2
 resumer 0.0.5
 resumiR 1.0.2
@@ -18574,7 +18574,7 @@ rhythm.metrics 1.1.0
 ri2 0.5.0
 RI2by2 1.4
 RIA 1.7.2
-ria.test 0.2.1
+ria.test 0.3.0
 rIACI 1.0.0
 riAFTBART 0.3.3
 rib 0.30.4
@@ -18801,7 +18801,7 @@ rmcfs 1.3.6
 RMCLab 0.1.0
 rmcmc 0.1.2
 rmcorr 0.7.0
-rmdcev 1.3.3
+rmdcev 1.3.4
 RmdConcord 0.3
 rmdd 0.0.0.1
 rmdfiltr 0.1.5
@@ -20548,7 +20548,7 @@ shinyfa 0.0.1
 shinyFeedback 0.4.0
 shinyFiles 0.9.3
 shinyfilter 0.1.1
-shinyfilters 0.3.0
+shinyfilters 0.3.1
 shinyfullscreen 1.1.0
 shinygenui 0.1.0
 shinyGizmo 0.5.0
@@ -21939,7 +21939,7 @@ stdReg 3.4.2
 stdReg2 1.0.7
 stdvectors 0.0.5
 steadyICA 1.0.1
-SteadyStateBVAR 0.1.1
+SteadyStateBVAR 0.2.0
 StealLikeBayes 2.0
 steepness 0.3-0
 SteinIV 0.1-1
@@ -22126,7 +22126,7 @@ sTSD 0.2.0
 stt.api 0.3.1
 stuart 0.10.2
 studentlife 1.1.0
-studyStrap 1.0.0
+studyStrap 1.0.1
 StuteTest 1.0.2
 STV 1.0.3
 stxplore 0.1.0
@@ -23021,7 +23021,7 @@ tidyplus 0.2.1
 tidypopgen 0.4.4
 tidyposterior 1.1.0
 tidypredict 1.2.1
-tidyprf 0.1.1
+tidyprf 0.2.0
 tidyprompt 0.4.0
 tidyquant 1.0.12
 tidyquery 0.2.4

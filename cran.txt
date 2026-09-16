@@ -1953,7 +1953,7 @@ blogdown 1.24
 BLOQ 0.1-2
 blorr 0.3.1
 blosc 0.1.2
-blox 0.0.1
+blox 0.0.2
 BLPestimatoR 0.3.4
 BLR 1.6
 blrm 1.0-2
@@ -1986,7 +1986,7 @@ BMIselect 1.0.9
 bmixture 1.7
 bml 0.9.0
 bmlm 1.3.15
-bmm 1.3.1
+bmm 1.3.2
 bmp 0.3.1
 BMRMM 1.0.1
 BMS 0.3.5
@@ -2103,7 +2103,7 @@ BoundaryStats 2.3.0
 BoundEdgeworth 0.1.3
 boundedur 1.0.1
 boundingbox 1.0.1
-BoundIRT 0.6.0
+BoundIRT 0.8.0
 boussinesq 1.0.6
 boutliers 2.1-3
 BoutrosLab.plotting.general 7.1.5
@@ -2454,7 +2454,7 @@ Canek 0.3.1
 CanonicalFamilyExtra 1.0.0
 canprot 2.0.0
 canpumf 0.5.2
-cansim 0.5.0
+cansim 0.5.1
 cantrends 0.1.0
 canvasXpress 1.65.2
 canvasXpress.data 1.34.2
@@ -3459,7 +3459,7 @@ cohorttools 0.1.8
 CohortUtilisation 0.6.1
 CoImp 2.2
 coin 1.4-5
-coinclp 0.1.0
+coinclp 0.1.1
 coinmarketcapr 0.4
 CoinMinD 1.2.1
 Coinprofile 0.1.9
@@ -3723,7 +3723,7 @@ connector.sharepoint 0.1.0
 connectwidgets 0.2.1
 ConnMatTools 0.3.5
 conos 1.5.4
-conover.test 1.1.7
+conover.test 1.2.0
 conquer 1.3.3
 conquestr 1.5.5
 conrad 1.0.0.1
@@ -3961,7 +3961,7 @@ covBM 0.1.0
 CovCorTest 1.2.0
 coveffectsplot 1.0.7
 covequal 0.1.0
-COveR 1.1.0
+COveR 1.1.1
 coveR2 1.0.0
 covercorr 1.1.0
 CovEsts 1.1.0
@@ -4564,7 +4564,7 @@ DateTimeRangePicker 1.1.0
 datetimeutils 0.6-6
 datetoiso 1.2.1
 dateutils 0.1.5
-datey 0.1.1
+datey 0.1.2
 datom 0.1.2
 datoramar 0.1.0
 datos 0.5.1
@@ -5393,6 +5393,7 @@ DPI 2026.2
 Dpit 1.0
 dpkg 0.6.2
 dplR 1.7.9
+dplyneage 0.3.1
 dplyr 1.2.1
 dplyrAssist 0.1.0
 dpm 1.3.0
@@ -6404,7 +6405,7 @@ EstimateGroupNetwork 0.3.1
 estimateW 0.2.0
 EstimationTools 4.3.1
 estimators 0.8.5
-estimatr 1.0.6
+estimatr 2.0.0
 EstimDiagnostics 0.0.3
 estimraw 1.0.0
 estmeansd 1.0.1
@@ -7501,7 +7502,7 @@ fqadata 1.1.1
 fqar 0.5.6
 fqardl 1.0.4
 fr 0.5.2
-frab 0.0-6
+frab 0.0-7
 fracARMA 0.1.0
 fracdiff 1.5-4
 fracdist 0.1.1
@@ -7917,7 +7918,7 @@ GDILM.ME 1.2.1
 GDILM.SEIRS 0.0.7
 GDILM.SIR 1.2.1
 gdim 0.1.1
-GDINA 2.9.12
+GDINA 2.13.1
 gdistance 1.6.5
 gdldata 0.3
 gdm 1.6.0-7
@@ -8073,7 +8074,7 @@ GeoAdjust 2.0.1
 geoAr 1.2.2
 geoarrow 0.4.3
 geoarrowWidget 0.1.0
-geoBayes 0.7.7
+geoBayes 0.7.8
 geobounds 1.0.1
 geobr 2.0.1
 geocacheR 0.1.0
@@ -8369,6 +8370,7 @@ ggmice 0.1.1
 ggmix 0.0.2
 ggmlR 0.8.4
 GGMncv 2.1.2
+ggmosaic2 0.5.1
 ggmr 0.1.1
 GGMridge 1.5
 ggmRSCU 0.1.0
@@ -8468,7 +8470,7 @@ ggsom 0.4.0
 ggspark 0.0.2
 ggspatial 1.1.11
 ggspec 0.1.0
-ggspectra 0.4.0
+ggspectra 0.4.1
 ggsql 0.3.3
 ggstackplot 0.4.1
 ggstance 0.3.7
@@ -8655,7 +8657,7 @@ glmmSeq 0.5.7
 glmmTMB 1.1.14
 glmnet 5.0
 glmnetcr 1.0.7
-glmnetr 0.6-3
+glmnetr 0.6-4
 glmnetSE 0.0.1
 glmnetUtils 1.1.9
 GLmom 2.0.1
@@ -10878,7 +10880,7 @@ KappaGUI 2.0.2
 kappalab 0.4-12
 kappaSize 1.2
 karaoke 3.0
-kardl 2.0.5
+kardl 2.0.6
 Karen 1.0
 karlen 0.0.2
 KarsTS 2.4.1
@@ -11350,8 +11352,8 @@ leafem 0.2.5
 leafgl 0.2.4
 leaflegend 1.2.8
 leaflet 2.2.3
-leaflet.extras 2.0.2
-leaflet.extras2 1.3.3
+leaflet.extras 2.1.0
+leaflet.extras2 1.3.4
 leaflet.minicharts 0.6.3
 leaflet.providers 3.0.0
 leafpm 0.1.0
@@ -17511,7 +17513,7 @@ randomForestExplainer 0.10.1
 randomForestRHF 2.0.3
 RandomForestsGLS 0.1.5
 randomForestSGT 1.0.0
-randomForestSRC 3.7.0
+randomForestSRC 3.8.0
 randomForestVIP 0.1.3
 RandomGaussianNB 0.2.4
 randomGLM 1.10-1
@@ -17997,7 +17999,7 @@ RDStreeboot 1.0
 Rdta 1.0.1
 rdtLite 1.4
 rdtools 0.1.0
-Rduckhts 1.5.1-0.1.3
+Rduckhts 1.5.2-0.1.5
 Rduino 0.1
 Rduinoiot 0.1.0
 Rdune 1.1.1
@@ -18756,7 +18758,7 @@ rKOMICS 1.3
 RKorAPClient 1.4.0
 rKraken 1.0.0
 rkriging 1.0.2
-rkt 1.8
+rkt 1.9
 RKUM 0.1.1.1
 rkvo 0.1
 Rlab 4.5.1
@@ -19642,7 +19644,7 @@ rvmprior 0.1.0
 rvolleydata 2.0.0
 Rvoterdistance 2.0.0
 rvtk 0.1.3
-rwa 0.1.1
+rwa 1.0.0
 rwalkr 0.5.7
 rwarrior 0.4.1
 Rwave 2.6-5
@@ -22739,7 +22741,7 @@ telraamStats 1.1.2
 tempdisagg 1.2.0
 temper 1.1.1
 temperatureresponse 0.2
-templateICAr 0.10.0
+templateICAr 0.11.3
 templates 0.4.0
 templr 0.2-4
 tempodisco 2.1.0
@@ -23167,7 +23169,7 @@ tinyscholar 0.1.7
 tinyshinyserver 0.1.0
 tinysnapshot 0.3.0
 tinyspotifyr 0.2.3
-tinytable 0.18.0
+tinytable 0.19.0
 tinytest 1.4.3
 tinytest2JUnit 1.1.3
 tinytex 0.60
@@ -23854,7 +23856,7 @@ umiAnalyzer 1.0.0
 Umoments 1.0.1
 ump 0.5-8
 Umpire 2.0.11
-umweltapir 0.2.2
+umweltapir 0.2.3
 umx 4.65.0
 unbalhaar 2.1
 UncDecomp 1.0.1

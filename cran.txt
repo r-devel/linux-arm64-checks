@@ -11847,7 +11847,7 @@ LPDynR 1.0.5
 lphom 0.3.5-7
 lpint 2.1
 lpirfs 0.2.5
-lpl 0.15
+lpl 0.16
 LPM 3.2
 lpmec 1.1.4
 LPmerge 1.7
@@ -12230,7 +12230,7 @@ Matching 4.10-15
 matchingMarkets 1.0-5
 MatchingPursuit 1.2.0
 matchingR 2.0.0
-MatchIt 4.7.2
+MatchIt 4.8.0
 MatchLinReg 0.8.1
 matchmaker 0.1.1
 matchMulti 1.1.15

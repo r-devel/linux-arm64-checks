@@ -821,7 +821,7 @@ aRpsDCA 1.1.1
 arrangements 1.1.10
 arrApply 2.2.1
 arrayhelpers 1.1-2
-arrg 0.1.0
+arrg 0.2.0
 arrow 25.0.1
 arrowheadr 1.0.2
 ars 0.8
@@ -1667,7 +1667,7 @@ bigBits 1.4
 bigD 0.3.1
 bigdatadist 1.1
 BigDataPE 0.2.0
-BigDataStatMeth 2.0.5
+BigDataStatMeth 2.0.6
 BIGDAWG 3.1.0
 bigDM 0.5.8
 bigergm 1.2.6
@@ -3950,7 +3950,7 @@ countSTAR 1.2.1
 countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
-couplr 1.6.1
+couplr 1.7.1
 courieR 0.3.1
 coursekata 0.20.1
 covadap 1.0.1
@@ -6063,7 +6063,7 @@ emailvalidation 0.1.0
 EMAR 1.0.0
 EMAS 0.2.4
 EMAtools 0.1.6
-emaxnls 0.1.1
+emaxnls 0.2.0
 emayili 0.9.3
 emBALVI 0.1.0
 emBayes 0.1.6
@@ -7362,7 +7362,7 @@ FnR 1.1.0
 fntl 0.1.3.2
 FOCI 0.1.3
 FoCo2 0.1.4
-focus 0.1.9
+focus 0.1.10
 focusedMDS 1.3.3
 FocusGroup 0.5.2
 foghorn 1.6.2
@@ -8054,7 +8054,7 @@ GenOrd 2.1.0
 GenoTriplo 2.2.1
 GenOU 0.2.1
 genpathmox 1.1
-genpca 0.2.0
+genpca 0.2.1
 genproc 0.2.0
 genridge 0.8.0
 GenSA 1.1.15
@@ -15237,7 +15237,7 @@ outreg 0.2.2
 outrigger 1.1.0
 OutSeekR 1.1.0
 outstandR 2.0.0
-OUwie 3.0.2
+OUwie 3.0.3
 ovbsa 2.0.0
 overdisp 0.1.2
 overlap 0.3.9
@@ -17162,7 +17162,7 @@ qPCRtools 1.0.1
 qpdf 1.4.1
 Qploidy 1.5.4
 qpNCA 1.1.6
-qpost 1.0.0
+qpost 1.1.0
 qPRAentry 0.1.1
 qqconf 1.3.2
 qqkrls 1.0.0
@@ -17670,7 +17670,7 @@ rayshader 0.41.2
 raytracing 0.6.0
 rayvertex 0.15.0
 rb3 0.1.0
-rbacon 3.5.2
+rbacon 4.0.0
 rBahadur 1.1.0
 RBaM 1.1.2
 RBaseX 1.1.2
@@ -17783,7 +17783,7 @@ rclipboard 0.2.1
 rcloner 0.0.1
 rclsp 2.0.1
 rcmdcheck 1.4.0
-Rcmdr 2.13.0
+Rcmdr 2.14.1
 RcmdrMisc 2.10.2
 RcmdrPlugin.aRnova 0.0.6
 RcmdrPlugin.BWS1 0.3-0
@@ -18619,7 +18619,7 @@ rice 2.3.0
 ricegeneann 1.0.2
 riceidconverter 1.1.1
 riceware 0.4
-richCluster 1.0.2
+richCluster 2.0.0
 Ricrt 0.1.0
 rict 0.0.1
 ricu 0.6.3
@@ -18876,7 +18876,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
-rmoriebricklayer 0.3.9
+rmoriebricklayer 0.5.0
 rMosaic 0.1.3
 Rmosek 1.3.5
 rMOST 1.0.1
@@ -19399,7 +19399,7 @@ rsem 0.5.1
 RSEML 0.1.0
 RSentiment 2.2.2
 Rserve 1.8-19.1
-rsf 0.3.0
+rsf 1.0.0
 rSFA 1.5
 Rsfar 0.0.1
 Rsgf 1.0.0
@@ -20023,7 +20023,7 @@ scistreer 1.2.1
 scitb 0.2.2
 SciViews 0.9-13.2
 sClust 1.0
-sclValid 0.1.0
+sclValid 0.1.1
 scMappR 1.0.12
 scMetaTraj 0.1.1
 scmix 0.1.1
@@ -21580,7 +21580,7 @@ spikes 1.1
 spikeslab 1.1.6
 spikeSlabGAM 1.1-20
 spima 0.2.0
-SPINA 4.1.0
+SPINA 5.1.0
 spINAR 0.2.0
 spinBayes 0.2.2
 spind 2.2.1
@@ -22864,7 +22864,7 @@ textpress 1.1.1
 textrank 0.3.1
 textrar 0.9.0
 textrecipes 1.1.0
-textreg 0.1.5
+textreg 0.1.6
 textreuse 1.0.2
 textshape 1.7.5
 textshaping 1.0.5
@@ -23837,7 +23837,7 @@ UKBAnalytica 1.0.0
 ukbflow 0.3.4
 ukbnmr 3.4
 ukc19 0.0.3
-UKFE 2.0.2
+UKFE 2.15.0
 ukgasapi 0.21
 UKgrid 0.1.3
 ukhousing 0.1.0
@@ -24172,7 +24172,7 @@ VectorForgeML 0.1.0
 vectorialcalculus 1.0.5
 vectorsurvR 1.6.3
 vectorwavelet 0.1.0
-vectra 0.12.3
+vectra 0.12.4
 VectrixDB 1.1.2
 vecvec 1.3.0
 VedicDateTime 0.1.9
@@ -24767,7 +24767,7 @@ wrGraph 1.3.18
 WRI 0.2.3
 wrictools 1.0.1
 WrightMap 1.5
-writeAlizer 1.7.3
+writeAlizer 1.7.4
 writer 0.1.0
 writexl 2.0.1
 WriteXLS 6.8.0

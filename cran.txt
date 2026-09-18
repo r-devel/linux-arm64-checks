@@ -4224,7 +4224,7 @@ cshapes 2.0
 CSHShydRology 1.6
 CSIndicators 1.2.0
 csmaps 2025.8.21
-csmbuilder 0.1.0
+csmbuilder 0.1.1
 CSMES 1.0.1
 csmGmm 0.5.0
 csmpv 1.0.5
@@ -8216,7 +8216,7 @@ GetoptLong 1.1.1
 getPass 0.2-4
 getProxy 1.13
 GetQuandlData 1.0.0
-getRad 0.3.0
+getRad 0.4.0
 gets 0.40
 getspanel 0.2.1
 getspres 0.2.0
@@ -15095,7 +15095,7 @@ optRF 1.2.1
 OPTS 0.1
 OptSig 2.2
 optsize 0.1.0
-OptSurvCutR 0.10.0
+OptSurvCutR 0.11.1
 OPTtesting 1.0.0
 optweight 2.0.1
 opusminer 0.1-1
@@ -16574,7 +16574,7 @@ pracpac 0.2.0
 PracticalEquiDesign 0.0.3
 practicalSigni 0.1.2
 PracTools 1.7.6
-prais 1.1.4
+prais 1.2.0
 praise 1.0.0
 prakriti 0.1.4
 PRANA 1.0.6

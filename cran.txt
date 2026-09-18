@@ -932,7 +932,7 @@ ATbounds 0.1.1
 ATE.ERROR 1.0.0
 AteMeVs 0.1.0
 Athlytics 1.0.5
-atime 2026.4.2
+atime 2026.9.17
 atlas 1.0.0
 atlasapprox 0.1.0
 AtlasMaker 0.1.0
@@ -4538,7 +4538,7 @@ datarium 0.2.0
 datarobot 2.18.9
 datasauRus 0.1.9
 dataSDA 0.2.7
-dataseries 1.0.0
+dataseries 1.1.0
 dataset 0.4.5
 datasetjson 0.4.0
 datasets.load 2.3.0
@@ -14188,7 +14188,7 @@ NetLogoR 1.0.6
 netmap 0.1.4
 netmediate 1.1.1
 netmem 1.0-3
-netmeta 3.6-1
+netmeta 3.7-0
 netmhc2pan 1.3.3
 NetOrigin 1.1-7
 netpanel 0.0.1
@@ -14464,7 +14464,7 @@ nnls 1.6
 nnmf 1.6
 NNMIS 1.0.1
 NNMoMo 0.1.0
-nnR 0.1.0
+nnR 0.2.0
 NNS 13.2
 nnsolve 0.0.2
 nnspat 0.1.2
@@ -19218,7 +19218,7 @@ round 0.21-0.2
 RoundAndRound 0.0.1
 roundhouse 0.0.2
 roundr 1.0.0
-roundRobinR 1.0.1
+roundRobinR 2.0.0
 roundwork 0.0.1
 roundyh 0.1.0
 routing 1.1.1
@@ -19573,7 +19573,7 @@ RTL 1.3.9
 RTLknitr 1.1.1
 rtlr 0.1.0
 rTLS 0.2.6.1
-RTMB 1.9
+RTMB 2.0
 RTMBdist 1.1.0
 rtmpinv 2.0.0
 rtmpinvi 2.0.0
@@ -23200,7 +23200,7 @@ tinyspotifyr 0.2.3
 tinytable 0.19.0
 tinytest 1.4.3
 tinytest2JUnit 1.1.3
-tinytex 0.60
+tinytex 0.61
 tinythemes 0.0.4
 tinytiger 0.0.12
 tinytrail 0.1.0

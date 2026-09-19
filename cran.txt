@@ -5290,7 +5290,7 @@ DNAmixturesLite 0.0-1
 DNAmotif 0.1.1
 DNAseqtest 1.0
 DNAtools 0.2-5
-dndR 3.1.0
+dndR 3.1.1
 DNetFinder 1.1
 dng 1.0.0
 DNMF 1.4.2
@@ -7147,7 +7147,7 @@ FinNet 0.2.1
 finnishgrid 0.2.0
 finnsurveytext 2.1.1
 finnts 0.7.0
-finto 0.1.1
+finto 0.1.2
 FinTS 0.4-9
 fio 1.1.0
 fiodata 0.2.0
@@ -11938,7 +11938,7 @@ ltc 0.4.0
 LTCDM 1.1.0
 lterdatasampler 0.1.1
 lterpalettefinder 1.1.0
-ltertools 2.1.0
+ltertools 2.1.1
 LTFGRS 1.0.1
 LTFHPlus 2.2.0
 ltgsmd 0.2.2
@@ -12198,7 +12198,7 @@ marketr 0.0.2
 markets 1.1.7
 markmyassignment 0.8.9
 markophylo 1.0.9
-markovchain 1.0.0
+markovchain 1.1.1
 Markovchart 2.1.5
 markovmix 0.1.3
 markovMSM 0.1.3
@@ -13759,7 +13759,7 @@ MultiGlarmaVarSel 1.0
 multigraph 1.0
 multigraphr 0.2.0
 MultiGrey 0.1.0
-multigroup.vaccine 0.1.1
+multigroup.vaccine 0.1.2
 MultiGroupO 0.4.0
 MultiGroupSequential 1.1.0
 MultiJoin 0.1.1
@@ -22287,7 +22287,7 @@ support.BWS 0.4-6
 support.BWS2 0.4-0
 support.BWS3 0.2-1
 support.CEs 0.7-0
-supportR 1.6.0
+supportR 1.6.1
 suppr 1.0.1
 sur 1.0.4
 sure 0.2.0
@@ -24216,7 +24216,7 @@ vectra 0.12.4
 VectrixDB 1.1.2
 vecvec 1.3.0
 VedicDateTime 0.1.9
-veesa 0.1.7
+veesa 0.1.8
 vegalite 0.6.1
 vegan 2.7-6
 vegan3d 1.4-1

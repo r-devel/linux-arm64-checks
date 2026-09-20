@@ -1,6 +1,6 @@
 # cmpp 0.0.2
 
-Latest run: 2026-09-13: https://github.com/r-devel/linux-arm64-checks/actions/runs/34732829009
+Latest run: 2026-09-20: https://github.com/r-devel/linux-arm64-checks/actions/runs/35484429482
 
 ```
 Package: cmpp

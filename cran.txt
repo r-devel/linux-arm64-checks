@@ -4867,7 +4867,7 @@ depthTools 0.7
 DER 1.5
 DeRezende.Ferreira 0.1.2
 Deriv 4.3.5
-deriva 0.1.0
+deriva 0.2.0
 derivmkts 0.2.5.1
 derrick 0.1.1
 DES 1.0.0
@@ -13078,7 +13078,7 @@ mixtools 2.0.0.1
 mixtox 1.5.0
 mixtree 0.0.1
 mixtur 1.2.3
-mixture 2.2.0
+mixture 2.2.1
 MixtureFitting 0.8.0
 MixtureMissing 3.0.6
 MixTwice 2.0
@@ -16268,7 +16268,7 @@ pmultinom 1.0.0
 pmvalsampsize 0.1.0
 pmwg 0.2.7
 PMwR 1.2-0
-pmxcode 0.3.1
+pmxcode 0.3.2
 pmxcv 0.0.2
 pmxNODE 0.1.0
 pmxpartab 0.5.0
@@ -17178,7 +17178,7 @@ qMRI 1.2.8
 qmrparser 0.1.6
 qmvs 0.2.2
 qoi 0.1.0
-qol 1.3.4
+qol 1.3.5
 QoLMiss 0.1.0
 qountstat 0.1.1
 qpcR 1.4-2
@@ -19619,7 +19619,7 @@ rtypeform 2.1.1
 rucrdtw 0.1.7
 rugarch 1.5-6
 RuHere 1.1.0
-Ruido 1.1.0
+Ruido 1.1.1
 ruijter 0.1.3
 ruler 0.3.2
 rules 1.0.3
@@ -25053,7 +25053,7 @@ zipsae 1.0.2
 ZLAvian 0.2.0
 zlib 1.0.3
 zlog 1.0.2
-zmctp 0.1.2
+zmctp 0.1.3
 zmij 0.1.0
 zmisc 0.2.3
 zoeppritz 1.0-9

@@ -1,6 +1,6 @@
 # normalblockr 0.3.0
 
-Latest run: 2026-09-13: https://github.com/r-devel/linux-arm64-checks/actions/runs/34733210820
+Latest run: 2026-09-20: https://github.com/r-devel/linux-arm64-checks/actions/runs/35484869721
 
 ```
 Package: normalblockr

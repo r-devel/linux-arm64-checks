@@ -15,6 +15,7 @@ creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEA
 dqcheckr,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/dqcheckr
 gsDesign2,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gsDesign2
 hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hdtg
+kamila,0.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/kamila
 lorax,0.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/lorax
 memuse,4.2-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/memuse
 mig,2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mig

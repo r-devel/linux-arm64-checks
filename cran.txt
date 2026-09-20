@@ -4267,7 +4267,7 @@ ctmle 0.1.2
 ctmm 1.3.0
 ctmva 1.6.0
 CTNote 0.1.0
-ctoclient 0.1.0
+ctoclient 0.2.0
 ctOpenData 0.1.1
 cTOST 1.0.1
 ctqr 2.2
@@ -10609,6 +10609,7 @@ IsoSpecR 2.3.3
 isoSurv 0.3.0
 isotone 1.1-2
 isotonic.pen 1.0
+isotracer 1.1.9
 isotree 0.6.1-5
 isoWater 1.2.2
 ISOweek 0.6-2
@@ -20464,7 +20465,7 @@ SFOCDs 1.2.0
 sfOpenData 0.1.2
 SFPL 1.0.1
 sfReapportion 0.2.0
-sfsmisc 1.1-25
+sfsmisc 1.1-26
 sft 2.4
 sftime 0.3.2
 SFtools 0.1.0
@@ -21923,7 +21924,7 @@ starvars 1.1.11
 starvz 0.8.4
 starwarsdb 0.1.3
 Stat2Data 2.0.0
-statAfrikR 0.1.0
+statAfrikR 0.2.0
 Statamarkdown 1.0.0
 statAPA 0.1.0
 statar 0.7.7
@@ -22035,7 +22036,7 @@ steppedwedge 1.0.0
 stepPenal 0.2
 stepPlr 0.93
 stepR 2.1-11
-StepReg 1.6.7
+StepReg 1.6.8
 StepRegShiny 1.6.1
 steprf 1.0.2
 stepSplitReg 1.0.5
@@ -24019,7 +24020,7 @@ usdm 2.1-7
 usdoj 1.1.2
 USE 0.1.6
 usedist 0.4.0
-usedthese 0.5.0
+usedthese 0.5.1
 useful 1.2.7
 usefun 0.5.2
 usemodels 0.2.0

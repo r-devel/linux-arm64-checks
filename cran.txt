@@ -397,7 +397,7 @@ airGRiwrm 0.7.0
 airGRteaching 0.3.7
 aiRly 0.1.0
 AirMonitor 0.4.3
-airnow 0.1.1
+airnow 0.2.0
 AirportProblems 0.1.0
 airportr 0.1.3
 airports 0.1.0
@@ -2638,7 +2638,7 @@ causens 0.0.3
 caustests 1.1.1
 CautiousLearning 1.0.1
 CAvariants 6.0
-caverify 0.1.3
+caverify 0.2.0
 caviarpd 0.3.22
 cayleyR 0.2.6
 CB2 1.3.8
@@ -3346,7 +3346,7 @@ cmsafops 1.4.3
 cmsafvis 1.3.0
 CMShiny 0.1.0
 cmstatr 0.10.0
-cmstatrExt 0.4.1
+cmstatrExt 0.5.0
 cmtest 0.1-2
 CMTFtoolbox 1.1.1
 cmtkr 0.2.3
@@ -4492,7 +4492,7 @@ DatabionicSwarm 2.0.0
 datacaged 0.2.1
 DataClean 1.0
 datacleanr 1.0.5
-datacommons 0.1.0
+datacommons 0.1.1
 dataCompare 1.0.5
 DataCraftR 0.3.2
 datacult 0.1.0
@@ -5554,7 +5554,7 @@ dsTidyverse 1.2.1
 dsTidyverseClient 1.1.0
 DSWE 1.8.4
 DT 0.34.0
-DT2 0.1.2
+DT2 0.1.3
 Dtableone 1.1.0
 dtametaTMB 0.1.2
 dtangle 2.0.10
@@ -6267,7 +6267,7 @@ epiparameterDB 0.1.0
 epiphy 0.5.0
 EpiPvr 0.0.1
 EpiQuestionR 0.1.1
-epiR 2.0.96
+epiR 2.0.98
 EpiReport 1.0.4
 EpiScopeK 0.1.1
 EpiSemble 0.1.1
@@ -6409,7 +6409,7 @@ estar 2.0-0
 estatapi 0.4.0
 estats 1.1
 EstCRM 1.6
-EstemPMM 0.4.0
+EstemPMM 0.5.0
 EstHTSeed 0.1.0
 estimability 2.0.0
 EstimateBreed 1.0.2
@@ -6834,7 +6834,7 @@ fastGHQuad 1.0.1
 fastGLCM 1.0.3
 fastglm 0.1.2
 fastglmpca 0.1-108
-FastGP 1.3
+FastGP 1.4
 fastGraph 2.1
 FastHamming 1.3
 fastICA 1.2-8
@@ -8091,7 +8091,7 @@ geoarrow 0.4.4
 geoarrowWidget 0.1.0
 geoBayes 0.7.8
 geobounds 1.0.1
-geobr 2.0.1
+geobr 2.1.0
 geocacheR 0.1.0
 geocausal 0.4.2
 geocmeans 0.3.4
@@ -10055,7 +10055,7 @@ ifctools 0.3.6
 ife 0.2.5
 ifit 1.0.0
 IFMCDM 0.1.17
-ifo 0.2.5
+ifo 0.3.0
 iForecast 1.1.2
 ifpd 0.1.0
 ifs 0.1.10
@@ -10888,7 +10888,7 @@ kader 0.0.8
 kaigiroku 0.5
 kairos 2.3.0
 kalmanfilter 2.2.0
-kamila 0.1.2
+kamila 0.2.0
 kangar00 1.4.2
 kanjistat 0.14.2
 kanova 0.3-20
@@ -12168,7 +12168,7 @@ marble 0.0.4
 march 3.3.2
 marcher 0.0.3
 marcox 1.0.0
-marcxmlr 0.1.0
+marcxmlr 0.2.1
 mardist 1.0.1
 marelac 2.1.11
 MareyMap 1.3.10
@@ -13865,7 +13865,7 @@ munch 0.0.2
 mundoLindey 0.1.0
 munfold 0.3.7
 munsell 0.5.1
-munsellinterpol 3.5-1
+munsellinterpol 3.6-0
 mupet 0.1.0
 MuPETFlow 0.1.2
 muRL 0.1-13
@@ -14451,7 +14451,7 @@ NMsim 0.2.8
 nmslibR 1.0.7
 NMTox 0.1.0
 NMVANOVA 1.1.0
-nmw 0.5.1
+nmw 0.6.0
 nn2poly 1.0.1
 nna 0.0.2.1
 nncc 2.0.0
@@ -17796,7 +17796,7 @@ RchivalTag 0.2.2
 Rchoice 0.3-6
 rChoiceDialogs 1.0.6.1
 rchroma 0.2.0
-rcicr 1.3.0
+rcicr 1.4.1
 rciplot 0.1.1
 RCircos 1.2.2
 rCISSVAE 0.0.5
@@ -17981,7 +17981,7 @@ rddtools 2.0.2
 rde 0.1.1
 rDEA 1.2-8
 rdecision 1.3.1
-rDeckgl 0.1.0
+rDeckgl 0.2.0
 rDecode 0.1.0
 rdeps 0.4
 rdflib 0.2.9
@@ -18906,7 +18906,7 @@ rmoo 0.3.2
 RMOPI 1.1
 rmoriebricklayer 0.5.0
 rmoriedata 0.3.2
-rMosaic 0.1.3
+rMosaic 0.2.0
 Rmosek 1.3.5
 rMOST 1.0.1
 rmp 2.2
@@ -19548,7 +19548,7 @@ RTDE 0.2-2
 rtdists 0.12-0
 rtemis 1.2.7
 rtemis.a3 0.5.3
-rtemis.core 0.3.1
+rtemis.core 0.4.6
 rtemis.llm 0.8.1
 rtemps 0.8.0
 rTensor 1.5.0
@@ -19691,7 +19691,7 @@ rwhatsapp 0.2.4
 Rwhois 1.0.16
 rwicc 0.2.0
 RWiener 1.3-3
-rwig 0.1.0
+rwig 0.2.0
 RWildbook 0.9.3
 rWishart 0.1.2
 rwisp 1.0.5
@@ -21189,7 +21189,7 @@ SNFtool 2.3.1
 snha 0.1.3
 snic 0.6.1
 snirh.lab 0.1.0
-SNMA 0.1.7
+SNMA 0.1.8
 snn 1.1
 snotelr 1.5.2
 snow 0.4-4
@@ -21768,7 +21768,7 @@ sRDA 1.0.0
 sRdpData 0.1.0
 sreg 2.1.0
 sregsurvey 0.1.3
-srlars 3.0.1
+srlars 3.1.0
 srm 0.4-26
 SRMData 1.0.2
 SRMERS 0.1.1
@@ -23639,7 +23639,7 @@ TSE 0.1.0
 TSEAL 0.1.5
 tseffects 0.3.1
 TSEind 0.1.0
-tseLCA 1.0.2
+tseLCA 1.1.0
 tsensembler 0.1.0
 tsentiment 1.0.5
 TSEntropies 0.9
@@ -24551,7 +24551,7 @@ wdman 0.2.6
 wdnet 1.2.4
 wdnr.gis 0.1.7
 wdpar 1.3.9
-wdsmatch 0.2.0
+wdsmatch 0.2.1
 weaana 0.3.0
 weakARMA 1.0.3
 weatherindices 0.1.0

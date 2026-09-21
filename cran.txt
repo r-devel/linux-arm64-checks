@@ -2615,6 +2615,7 @@ causalgenerics 0.1.0
 CausalGPS 0.5.1
 causalHyperGraph 0.1.0
 CausalImpact 1.4.1
+CausalLoopAnalytics 1.0.0
 CausalMBSTS 0.1.1
 CausalMetaR 0.1.3
 CausalMixGPD 0.8.0
@@ -5272,6 +5273,7 @@ dlstats 0.1.8
 dm 1.1.2
 dma 1.4-2
 dmai 0.5.0
+DMAR 1.0.0
 dmbc 1.0.3
 DMCfun 4.0.1
 dmetatools 1.1.1
@@ -6618,6 +6620,7 @@ expoquimR 0.1.0
 export 0.3.3
 ExPosition 2.11.0
 ExposR 1.2
+exposureEM 0.3.0
 expowo 3.1
 expperm 1.6
 ExpRep 1.0
@@ -7841,6 +7844,7 @@ gapminder 1.0.1
 GAPR 0.1.5
 gaQSAR 1.2.3
 GARCH.X 3.0
+GARCHInfoLSTM 0.1.0
 GARCHIto 0.1.0
 GARCHSK 0.1.0
 garchx 1.7
@@ -8210,7 +8214,7 @@ getDTeval 0.0.2
 GetFREData 1.1.0
 getip 0.1-4
 getLattes 1.0.0
-GetLattesData 1.5
+GetLattesData 1.5.2
 getmstatistic 0.2.2
 getopt 1.21.1
 GetoptLong 1.1.1
@@ -9186,6 +9190,7 @@ gtregression 1.1.0
 gtrendshealth 1.0.1
 gtrendsR 1.5.2
 GTRT 0.1.0
+gtstats 1.0.0
 gtsummary 2.6.1
 gtWAS 1.1.1
 guaguas 0.3.0
@@ -14373,6 +14378,7 @@ nivo.bubblechart 0.1.1
 nixmass 1.3.1
 nixtlar 1.0.0
 NlcOptim 0.6
+nlcs 1.0
 nlcv 0.3.6
 nleqslv 3.3.7
 nlfh 0.1.0
@@ -14389,7 +14395,7 @@ nlmixr2auto 1.0.0
 nlmixr2autoinit 1.0.1
 nlmixr2data 2.0.10
 nlmixr2est 7.1.0
-nlmixr2extra 5.2.0
+nlmixr2extra 5.2.1
 nlmixr2lib 0.3.2
 nlmixr2plot 5.1.0
 nlmixr2rpt 0.2.2
@@ -15392,7 +15398,7 @@ pam 2.3.0
 PamBinaries 1.9.3
 PAMhm 0.1.2
 pamm 1.122
-PAMmisc 1.13.0
+PAMmisc 1.14.2
 pammtools 0.8.1
 PAMpal 1.5.2
 pamr 1.57
@@ -17470,6 +17476,7 @@ RADanalysis 1.0.1
 radar 1.0.0
 radarBoxplot 1.0.5
 RadData 1.0.2
+raddr 0.1.2
 radEmu 2.3.2.0
 RadEro 1.0.8
 RadialVisGadgets 0.2.0
@@ -18726,6 +18733,7 @@ riskutility 0.2.0
 RiskyCNV 0.1.0
 riskyr 0.5.0
 RISmed 2.3.0
+risq 3.0.0
 Rita 1.2.0
 ritalic 0.12.0
 Ritc 1.3
@@ -19159,7 +19167,7 @@ rolldown 0.2
 rolleigen 1.0.0
 rollinglda 0.1.4
 rolloptim 1.0.0
-rollout 0.1.0
+rollout 0.2.0
 rollshap 1.0.1
 rollup 0.1.0
 rollupTree 0.4.1
@@ -19407,7 +19415,7 @@ RSCAT 1.1.3
 rscc 0.2.1
 RScelestial 1.0.4
 RSclient 0.7-12
-rsconnect 1.11.0
+rsconnect 1.11.1
 rscontract 0.1.2
 rscopus 0.9.0
 rscorecard 0.33.0
@@ -21351,6 +21359,7 @@ spacesRGB 1.7-0
 spacesXYZ 1.6-0
 spacetime 1.3-4
 SpaceTimeBSS 0.4-0
+spaci 0.1.1
 SPACO 1.0.3
 SpaCOAP 1.3
 spacyr 1.3.0
@@ -22687,6 +22696,7 @@ taxlist 0.3.5
 taxnames 0.1.0
 taxodist 0.7.0
 taxonomizr 0.11.1
+TaxResolveR 0.1.0
 taylor 4.0.0
 TaylorRussell 1.2.1
 tayloRswift 0.1.0
@@ -22695,6 +22705,7 @@ tbd 0.1.0
 tbea 1.8.0
 TBEST 5.2
 TBFmultinomial 0.1.3
+tbl.now 1.0.0
 tbl2xts 1.0.6
 tbm 0.3-11
 tbnb 0.1.0
@@ -23277,7 +23288,7 @@ tmaptools 3.3
 tmapverse 0.1.0
 TMB 1.9.25
 tmbstan 1.2.1
-TmCalculator 1.1.0
+TmCalculator 1.1.1
 TMDb 1.1
 tmdbR 0.2.2
 tmfast 0.1.1
@@ -24081,6 +24092,7 @@ vaersNDvax 1.0.4
 vaersvax 1.0.5
 vagalumeR 0.1.6
 valaddin 1.0.2
+ValCurvaR 0.1.0
 vald.extractor 0.1.1
 valdr 4.0.0
 valdrViz 1.0.2

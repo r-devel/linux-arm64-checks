@@ -29,6 +29,7 @@ pwrss,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/
 quanteda.textmodels,0.9.10,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/quanteda.textmodels
 recmap,1.0.20,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/recmap
 retistruct,0.8.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/retistruct
+rqti,1.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/rqti
 rvtk,0.1.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/rvtk
 singleRcapture,1.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/singleRcapture
 stelfi,1.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/stelfi

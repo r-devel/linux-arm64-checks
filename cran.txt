@@ -869,6 +869,7 @@ askpass 1.2.1
 asleep 0.3.0
 aslib 0.1.3
 asm 0.2.4
+ASMap 1.1-0
 ASMbook 1.0.2
 asmbPLS 1.0.0
 ASML 1.1.0
@@ -2766,7 +2767,7 @@ cenROC 2.0.0
 censable 0.0.8
 CensMFM 3.1
 censo2022arg 1.0.1
-censobr 0.6.0
+censobr 1.0.0
 censorcopula 2.0
 censored 0.3.5
 censoredAIDS 1.0.0
@@ -2885,7 +2886,7 @@ charcuterie 0.0.6
 charisma 1.0.0
 charlatan 0.6.2
 charlesschwabapi 1.0.5
-charport 0.1.0
+charport 0.1.1
 chartql 0.1.0
 chartreview 1.0
 chatAI4R 1.3.1
@@ -5891,7 +5892,7 @@ edar 0.0.7
 EDCimport 0.7.0
 edcpR 1.0.1
 eddington 4.3.0
-EDE 0.1.0
+EDE 0.2.0
 edeaR 1.0.1
 edecob 1.2.2
 edf 1.0.1
@@ -6234,7 +6235,7 @@ EpiContactTrace 0.18.0
 epicR 1.0.2
 EpiCurve 2.4-2
 epidata 0.4.0
-epidatr 1.3.0
+epidatr 1.4.0
 epiDeaths 1.1.8
 epidesc 0.1.0
 epidict 0.3.0
@@ -6824,7 +6825,7 @@ fastDummies 1.7.6
 fastei 0.0.19
 fasterize 1.1.0
 fasterRaster 8.4.1.2
-fastFGEE 0.2.0
+fastFGEE 0.2.2
 fastFMM 1.0.1
 fastfocal 0.1.3
 FastGaSP 0.6.4
@@ -7191,7 +7192,7 @@ fitbitViz 1.0.8
 FITclust 1.0.0
 fitConic 1.2.1
 fitdistcp 0.2.3
-fitdistrBayes 0.2.3
+fitdistrBayes 0.5.0
 fitdistrplus 1.2-6
 FitDynMix 1.0.2
 fitHeavyTail 0.2.0
@@ -9005,7 +9006,7 @@ greencrab.toolkit 0.2
 GREENeR 1.0.2
 greenfeedr 1.3.1
 greenR 0.0.1.7
-GREENREG 0.1.0
+GREENREG 0.1.1
 greenSD 0.2.2
 Greg 2.0.3
 GregoryQuadrature 1.0.0
@@ -10370,7 +10371,7 @@ interep 0.4.1
 interface 0.1.2
 InterfaceqPCR 1.0.1
 interfacer 0.4.0
-interflex 1.4.0
+interflex 1.4.1
 intergraph 2.0-4
 interim 0.8.0
 interimApp 0.0.1
@@ -10801,7 +10802,7 @@ joker 0.14.2
 jollofR 0.6.5
 jomo 2.7-6
 JOPS 0.2.0
-jordan 1.0-6
+jordan 1.0-6-1
 JoSAE 0.3.0
 josaplay 0.1.3
 jose 2.0.0
@@ -14504,7 +14505,7 @@ nomiShape 1.0.2
 nomnoml 0.3.0
 nomogramEx 3.0
 nonabsdid 0.4.1
-NonCompart 0.8.3
+NonCompart 0.8.4
 noncompliance 0.2.2
 noncomplyR 1.0
 NonlinearDiD 0.2.0
@@ -14928,7 +14929,7 @@ onlineforecast 1.0.2
 onlinePCA 1.3.2
 onlineretail 0.1.2
 OnlineSurr 0.0.4
-onls 0.1-4
+onls 0.2
 onmaRg 1.0.3
 onnx 0.0.3
 onnxr 0.1.2
@@ -16593,7 +16594,7 @@ precrec 0.24.0
 precviasBR 0.1.1
 predfairness 0.1.0
 predHCS 0.1.0
-predhy 2.1.2
+predhy 2.1.3
 predhy.GUI 2.1.1
 predict3d 0.1.6
 PredictABEL 1.2-4
@@ -16653,7 +16654,7 @@ pressfreedom.data 0.3.0
 PressPurt 1.0.2
 pressuRe 0.2.7
 pretest 0.2
-pretestcad 1.1.0
+pretestcad 1.2.0
 prettyB 0.2.2
 prettycode 1.1.0
 PrettyCols 1.1.0
@@ -18751,7 +18752,7 @@ rjd3jars 0.0.6
 rjd3production 1.1.1
 rjd3providers 3.8.0
 rjd3qr 0.4.2
-rjd3toolkit 3.8.0
+rjd3toolkit 3.9.0
 rjd3tramoseats 3.8.0
 rjd3workspace 3.8.0
 rjd3x13 3.8.0
@@ -18873,7 +18874,7 @@ RMediation 1.6.1
 RMeDPower2 1.0.2
 rmedsem 1.1.0
 rmerec 0.1.1
-rmet 0.1.0
+rmet 0.2.0
 rmeta 3.0
 rmetalog 1.0.3
 rmfanova 0.1.0
@@ -18905,7 +18906,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
-rmoriebricklayer 0.5.0
+rmoriebricklayer 0.5.1
 rmoriedata 0.3.2
 rMosaic 0.2.0
 Rmosek 1.3.5
@@ -19982,7 +19983,7 @@ scBSP 1.1.0
 scbursts 1.6
 scCATCH 3.2.2
 sccca 0.1.1
-SCCDdesign 0.1.0
+SCCDdesign 0.2.0
 sccic 0.1.1
 scclust 0.2.5
 sccore 1.0.7
@@ -20269,7 +20270,7 @@ SelectBoost.quantile 0.3.1
 selection.index 2.0.1
 SelectionBias 2.1.0
 selectiongain 2.0.710
-SelectionTools 26.3
+SelectionTools 26.4
 selectiveInference 1.2.5
 selectMeta 1.0.9
 selectr 0.7-0
@@ -20352,7 +20353,7 @@ SensMap 0.7
 sensmediation 0.3.1
 sensobol 1.2.0
 SensoMineR 1.28
-sensortowerR 1.0.1
+sensortowerR 2.0.0
 sensory 1.1
 SensoryDataSets 0.1.0
 SenSpe 1.3
@@ -22031,7 +22032,7 @@ stepjglm 0.0.1
 stepmetrics 1.0.3
 stepmixr 0.1.3
 stepp 3.2.7
-SteppedPower 0.3.5
+SteppedPower 0.4.0
 steppedwedge 1.0.0
 stepPenal 0.2
 stepPlr 0.93
@@ -24594,7 +24595,7 @@ WEGE 0.1.0
 wehoop 3.0.0
 WeibullFit 0.1.0
 WeibullModiAMR 0.1.0
-weibullness 1.24.1
+weibullness 2.26.9
 WeibullR 1.2.4
 WeibullR.ALT 0.7.2
 weibulltools 2.1.0

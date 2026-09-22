@@ -368,6 +368,7 @@ AHPWR 0.1.2
 AHSurv 0.1.0
 AHTauDesign 0.1.0
 ai 1.0.4.44
+AI4OfficialStats 0.1.0
 AIBias 0.1.1
 aIc 1.0
 AICcmodavg 2.3-4
@@ -674,7 +675,7 @@ apisensr 2.0.1
 aplms 0.1.0
 aplore3 0.9
 AplosNCA 1.0.1
-aplot 0.3.1
+aplot 0.3.2
 aplotExtra 0.0.6
 aplpack 1.3.5
 apm 0.1.1
@@ -1735,7 +1736,7 @@ bindata 0.9-24
 bindr 0.1.3
 bindrcpp 0.2.4
 binequality 1.0.4
-binest 0.2-1
+binest 0.3-0
 binford 0.1.0
 binfunest 0.1.0
 bingadsR 0.1.0
@@ -1804,6 +1805,7 @@ BIOMASS 2.2.7-1
 biomes 0.9.4
 biometrics 1.0.4
 biometryassist 1.5.0
+BioMixModel 1.0.0
 biomod2 4.3-4-6
 BioMonTools 1.3.2
 BioMoR 0.1.1
@@ -2462,6 +2464,7 @@ CanonicalFamilyExtra 1.0.0
 canprot 2.0.0
 canpumf 0.5.2
 cansim 0.5.1
+Canton 0.0.8
 cantrends 0.1.0
 canvasXpress 1.65.2
 canvasXpress.data 1.34.2
@@ -3619,6 +3622,7 @@ compositeReliabilityInNestedDesigns 1.0.4
 Compositional 8.4
 compositional.mle 2.0.0
 Compositionalasmr 1.0
+Compositionalcln 1.0
 CompositionalClust 1.3
 CompositionalHDDA 1.0
 CompositionalML 1.0
@@ -5494,7 +5498,7 @@ drpop 0.0.3
 DRPT 1.1
 DRquality 0.2.1
 DRR 0.0.5
-drrglm 0.3.2
+drrglm 0.4.0
 DRsurvCRT 0.0.1
 drtmle 1.1.2
 drugDemand 0.1.3
@@ -5847,6 +5851,7 @@ econdatasets 0.1.0
 econdataverse 0.1.2
 econet 1.0.0.1
 EcoNetGen 0.2.4
+EconEvalR 0.1.0
 EconGeo 2.1
 EcoNiche 1.0.3
 econid 0.0.3
@@ -7538,7 +7543,7 @@ FRACTION 1.1.1
 fractional 0.1.3
 fracture 0.2.2
 FragiliTidy 0.1.0
-fragility 1.6.1
+fragility 2.0
 Fragman 1.1.0
 FrailtyCompRisk 0.1.1
 frailtyEM 1.0.1
@@ -8279,7 +8284,7 @@ ggbond 0.0.5
 ggborderline 0.3.0
 ggbrace 0.1.2
 ggbrain 0.9.1
-ggbreak 0.1.7
+ggbreak 0.2.2
 ggbrick 0.3.2
 ggBubbles 0.1.4
 ggbuildr 0.1.0
@@ -8769,7 +8774,7 @@ GMSimpute 0.0.1.0
 gmsp 0.7.1
 gmt 2.0.3
 gmtFD 0.1.0
-GMTM 0.1.0
+GMTM 0.2.0
 gmvarkit 2.2.2
 gmvjoint 0.4.5
 gmwmx 1.0.3
@@ -10449,6 +10454,7 @@ iNZightTS 2.0.4
 io 0.3.2
 ioanalysis 0.3.4
 IOBR 2.2.3
+iod25 1.0.0
 IOLS 0.1.4
 ioncopy 2.2.2
 ionet 0.2.2
@@ -11461,6 +11467,7 @@ lexiconPT 0.1.0
 LexisNexisTools 1.0.0
 LexisPlotR 0.4.0
 lexRankr 0.5.2
+lexsync 0.1.0
 lfactors 1.0.4
 LFApp 1.4.2
 lfc 0.2.3
@@ -13451,6 +13458,7 @@ morphomap 1.5
 moRphomenses 1.0.3
 MorphoRegions 0.2.0
 MorphoTools2 1.0.2.1
+MorphSim 1.2.1
 morrowplots 0.2.0
 morse 3.3.5
 morseDR 0.1.3
@@ -14217,7 +14225,7 @@ netseer 0.1.3
 netseg 1.0-3
 netSEM 0.7.0
 netsimhelpers 0.1.0
-NetSimR 0.3.0
+NetSimR 0.3.1
 netstat 0.1.2
 netsubsamp 1.0.0
 NetSurvProx 1.0.0
@@ -14966,6 +14974,7 @@ oottest 0.9.1
 opa 0.8.3
 opalr 3.7.0
 OPC 0.0.2
+OPCC 1.0.1
 OPCreg 4.0.2
 opdisDownsampling 1.7
 OPDOE 1.0-10
@@ -15197,7 +15206,7 @@ ORTSC 1.0.0
 OryzaProbe 0.1.0
 osbng 0.2.0
 oscar 1.2.1
-OSCARS 0.1.2
+OSCARS 0.2.1
 OscillatorGenerator 0.1.0
 OSCV 1.0
 osd 0.1
@@ -15431,6 +15440,7 @@ panelvar 0.5.6
 panelView 1.3.1
 panelWranglR 1.2.13
 pangaear 1.1.0
+panglm 1.1.4
 pangoling 1.0.3
 PanJen 1.6
 pannotator 1.1.0
@@ -18661,7 +18671,7 @@ rice 2.3.0
 ricegeneann 1.0.2
 riceidconverter 1.1.1
 riceware 0.4
-richCluster 2.0.0
+richCluster 2.0.1
 Ricrt 0.1.0
 rict 0.0.1
 ricu 0.6.3
@@ -21743,6 +21753,7 @@ SpTe2M 1.0.3
 spThin 0.2.0
 spTimer 3.3.4
 sptotal 1.0.1
+sptrends 1.6.3
 spup 1.4-0
 spuriouscorrelations 0.2
 SpuriousMemory 1.0.0
@@ -22404,6 +22415,7 @@ survout 0.1.0
 survParamSim 0.1.7
 survPen 2.0.5
 survPresmooth 1.1-12
+survrec 2.0.0
 SurvRegCensCov 1.8
 survregVB 0.0.2
 survRM2 1.0-4
@@ -25093,6 +25105,7 @@ zoom 2.0.6
 zoomerjoin 0.2.4
 zoomgrid 1.1.0
 zoomr 0.4.0
+zot 0.1.2
 zoteR 1.0.0
 ZRA 0.2
 zscorer 0.3.1

@@ -4220,7 +4220,7 @@ CSclone 1.0
 CSCNet 0.1.4
 csdata 2026.7.2
 csdb 2026.5.13
-csdm 1.0.1
+csdm 2.0.0
 CSDownscale 0.0.3
 cSEM 0.7.1
 csemGT 1.0.0
@@ -7934,7 +7934,7 @@ GCubeR 0.1.3
 gcxgclab 1.1.0
 GD 10.9
 GDAdata 0.93
-gdalraster 2.6.1
+gdalraster 2.7.0
 gdalUtilities 1.2.5
 gdata 3.0.1
 GDAtools 2.3
@@ -21908,7 +21908,7 @@ stagedtrees 2.3.0
 stagePop 1.1-2
 staggered 1.2.2
 staggeredGMM 0.1.0
-staggR 0.2.0
+staggR 0.2.1
 stagsynth 0.1.0
 StakeholderAnalysis 1.2
 StAMPP 1.6.3

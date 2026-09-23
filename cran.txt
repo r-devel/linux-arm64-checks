@@ -664,7 +664,7 @@ apdesign 1.0.0
 ape 5.8-1
 apercu 0.2.5
 apex 1.0.7
-apexcharter 0.5.0
+apexcharter 0.5.1
 APFr 1.0.2
 aphid 1.3.6
 aphylo 0.3-6
@@ -1377,7 +1377,7 @@ bayesQRsurvey 0.3.1
 bayesRecon 1.0.2
 bayesreg 1.3
 BayesRegDTR 1.1.2
-Bayesrel 0.7.9
+Bayesrel 0.8.0
 BayesRep 0.42.2
 BayesRepDesign 0.42
 bayesROE 0.2
@@ -1716,7 +1716,7 @@ bikeshare14 0.1.4
 bikm1 1.1.0
 bild 1.2-1
 billboard 0.1.0
-billboarder 0.5.1
+billboarder 0.5.2
 BiMaUmisc 0.2.0
 bimets 4.1.2
 BimodalIndex 1.1.11
@@ -2684,7 +2684,7 @@ ccda 1.2
 ccdR 1.1.0
 cchs 0.4.5
 cchsflow 2.1.0
-CCI 0.3.6.1
+CCI 0.3.7
 ccid 1.2.0
 ccLRforR 1.2
 cclust 0.6-27
@@ -3579,7 +3579,6 @@ CommonMean.Copula 1.0.4
 commons 0.1.0
 commonsMath 1.2.8
 comorbidity 1.1.0
-comorbidPGS 1.0.0
 comorosmaps 1.6.1
 Comp2ROC 1.1.4
 comparator 0.1.4
@@ -4065,7 +4064,7 @@ cpp11 0.5.5
 cpp11armadillo 0.5.4
 cpp11bigwig 0.3.1
 cpp11eigen 0.2.0
-cpp4r 1.1.0
+cpp4r 1.3.0
 cppally 1.1.0
 cppcheckR 1.0.0
 cppcontainers 1.0.5
@@ -4722,7 +4721,7 @@ debugr 0.0.1
 DeCAFS 3.3.6
 DECIDE 1.3
 decido 0.4.0
-decimal 0.1.0
+decimal 0.1.1
 decision 0.1.0
 DecisionDrift 0.1.0
 decisionpaths 0.1.0
@@ -8152,7 +8151,7 @@ geometries 0.2.5
 geometry 0.5.2
 geommc 1.3.2
 geomod 0.1.0
-GeoModels 2.2.8
+GeoModels 2.2.9
 GeoMongo 1.0.3
 geomorph 4.1.1
 geomtextpath 0.2.0
@@ -8256,7 +8255,7 @@ GFGM.copula 1.0.4
 GFisher 0.2.1
 gfiUltra 1.0.0
 GFM 1.2.2
-gfonts 0.2.0
+gfonts 0.2.1
 gfoRmula 1.1.1
 gfoRmulaICE 1.1.1
 gFormulaMI 1.0.3
@@ -11520,6 +11519,7 @@ librarysnapshot 0.1.2
 libstable4u 1.0.5
 LIC 0.0.2
 licoread 0.3.0
+lidaRtRee 4.0.9
 lidR 4.3.3
 lievens 0.0.1
 lifecontingencies 1.6.0
@@ -14552,7 +14552,7 @@ NonParRolCor 0.8.0
 nonparTrendR 0.1.0
 NonProbEst 0.2.4
 nonprobsampling 0.1.0
-nonprobsvy 0.2.3
+nonprobsvy 0.3.0
 nonsmooth 1.0.0
 nonstat 0.0.6
 nopaco 1.0.9
@@ -18781,7 +18781,7 @@ rJavaEnv 0.3.0
 rjd3bench 3.1.3
 rjd3jars 0.0.6
 rjd3production 1.1.1
-rjd3providers 3.8.0
+rjd3providers 3.9.0
 rjd3qr 0.4.2
 rjd3toolkit 3.9.0
 rjd3tramoseats 3.9.0
@@ -18816,7 +18816,7 @@ rKIN 1.0.4
 RkMetrics 1.3
 rKolada 0.3.1
 rKOMICS 1.3
-RKorAPClient 1.4.0
+RKorAPClient 1.4.1
 rKraken 1.0.0
 rkriging 1.0.2
 rkt 1.9
@@ -24575,7 +24575,7 @@ wbsd 1.0.1
 wbstats 1.2
 wbsts 2.1
 wbwdi 1.0.4
-wcc 0.4.1
+wcc 0.4.2
 wcde 0.0.8.1
 WCE 1.0.4
 wcep 1.0.3

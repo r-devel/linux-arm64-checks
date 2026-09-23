@@ -1222,6 +1222,7 @@ basf 0.2.0
 basicdrm 0.3.2
 basicMCMCplots 0.2.7
 basicspace 0.25
+BasicStatsPlots 0.1.0
 basictabler 1.0.4
 basifoR 0.7.9
 basil 0.1.0
@@ -4422,6 +4423,7 @@ dabestr 2025.3.15
 dabr 0.0.4
 dacc 0.0-7
 DACF 1.1.0
+DACT 0.1.2
 dad 4.1.6
 dadjoke 1.0
 dadjokeapi 1.0.2
@@ -7634,6 +7636,7 @@ fsdaR 0.9-1
 FSelector 0.34
 FSelectorRcpp 0.3.13
 fsemipar 1.1.1
+FSHybridPLS 0.1.0
 fsia 1.1.2
 FSinR 2.0.10
 FSK2R 0.2.0
@@ -7843,7 +7846,7 @@ GANPAdata 1.0
 ganttify 0.2.7
 gap 1.15.2
 gap.datasets 0.0.6
-GapAnalysis 2.1.0
+GapAnalysis 2.1.1
 GAparsimony 0.9.5
 gapclosing 1.0.3
 gapmap 1.0.0
@@ -8107,7 +8110,7 @@ geobr 2.1.0
 geocacheR 0.1.0
 geocausal 0.4.2
 geocmeans 0.3.4
-geocodebr 0.6.4
+geocodebr 0.7.0
 geocomplexity 0.3.0
 geodaData 0.1.0
 geodata 0.6-9
@@ -14408,7 +14411,7 @@ nlmixr2data 2.0.10
 nlmixr2est 7.1.0
 nlmixr2extra 5.2.1
 nlmixr2lib 0.3.2
-nlmixr2plot 5.1.0
+nlmixr2plot 5.2.0
 nlmixr2rpt 0.2.2
 nlmixr2save 0.2.0
 nlmixr2targets 0.1.0
@@ -14459,7 +14462,7 @@ NMcalc 0.0.4
 NMdata 0.2.6
 NMF 0.28
 nmfbin 0.2.1
-nmfkc 0.9.6
+nmfkc 0.9.8
 NMFN 2.0.1
 Nmisc 0.3.7
 Nmix 2.0.5
@@ -14531,7 +14534,7 @@ NonlinearDiD 0.2.0
 nonLinearDotPlot 0.5.0
 nonlinearTseries 0.3.2
 nonmem2R 0.2.5
-nonmem2rx 0.1.9
+nonmem2rx 0.1.11
 nonmemica 1.2.0
 nonneg.cg 0.1.6-1
 nonnest2 0.5-9
@@ -15104,7 +15107,7 @@ optistock 0.0.2
 OptM 0.1.9
 optmatch 0.10.8
 OptOR 0.1.0
-OptOTrials 1.0.3
+OptOTrials 1.1.0
 optparse 1.8.2
 optR 1.2.5
 optrcdmaeAT 1.0.1
@@ -15282,7 +15285,7 @@ outrigger 1.1.0
 OutSeekR 1.1.0
 outstandR 2.0.0
 OUwie 3.0.3
-ovbsa 2.0.0
+ovbsa 2.1.0
 overdisp 0.1.2
 overlap 0.3.9
 overlapping 2.5
@@ -15320,7 +15323,7 @@ packageDiff 0.1
 packagefinder 0.3.5
 packagepal 0.1.1
 packager 1.15.3
-packageRank 0.9.8
+packageRank 0.9.9
 packageRankWrapperDriver 1.0
 packcircles 0.3.7
 PacketLLM 0.1.3
@@ -16399,8 +16402,8 @@ polywog 0.4-2
 POMADE 0.2.1
 POMaSPU 1.0.0
 pomcheckr 0.1.1
-pomdp 1.2.5
-pomdpSolve 1.0.6
+pomdp 1.2.7
+pomdpSolve 1.0.7
 Pomic 1.0.4
 pomodoro 3.8.0
 pomp 6.4
@@ -17123,6 +17126,7 @@ QAEnsemble 1.0.0
 QAIG 0.1.7
 qap 0.1-2
 qape 2.1
+qapproach 0.1.1
 Qapprox 0.2.1
 qardlr 1.0.1
 qarPI 0.1.0
@@ -20320,6 +20324,7 @@ semdrw 0.1.0
 semds 0.9-7
 semEff 0.7.2
 semEffect 1.2.3
+semeqmodels 0.1.0
 semfindr 0.2.1
 semFromKeys 0.5.5
 semgram 0.1.0
@@ -20689,6 +20694,7 @@ shinyquiz 0.0.1
 shinyr 0.4.2
 shinyRadioMatrix 0.2.1
 shinyRatings 0.1.0
+shinyreact 0.1.0
 shinyrecap 0.2.0
 shinyrecipes 0.1.0
 shinyReports 1.0.3
@@ -21518,7 +21524,7 @@ spatsoc 0.2.13
 spatstat 3.6-2
 spatstat.convert 1.0-1
 spatstat.data 3.1-9
-spatstat.explore 3.8-2
+spatstat.explore 3.8-3
 spatstat.geom 3.8-3
 spatstat.gui 3.1-0
 spatstat.Knet 3.1-3
@@ -24348,6 +24354,7 @@ virustotal 0.7.0
 visa 1.0.0
 visachartR 4.0.1
 visae 0.2.1
+visATC 1.0.0
 VisCollin 0.1.2
 viscomp 1.0.0
 viscomplexr 1.1.2
@@ -24862,6 +24869,7 @@ WSPsignal 1.0.0
 wsrf 1.7.32
 wstats 0.1.1
 wstdiff 1.0.0
+WSwavelet 0.1.0
 wsyn 1.0.4
 wtest 3.2
 wTO 2.1

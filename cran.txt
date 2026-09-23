@@ -4487,7 +4487,7 @@ Dasst 0.3.4
 DAST 0.1.0
 dat 0.7.0
 data.checker 2.0.0
-data.sketches 0.1.0
+data.sketches 0.1.1
 data.table 1.18.6.1
 data.table.threads 1.0.1
 data.tree 1.2.0
@@ -4961,7 +4961,7 @@ dfcomb 3.1-5
 dfCompare 1.0.0
 dfcrm 0.2-2.1
 DFD 0.4.0
-dfeR 1.0.1
+dfeR 2.0.0
 dfexpand 0.0.2
 dfidx 0.2-0
 DFIT 1.1
@@ -10084,7 +10084,7 @@ iGasso 1.6.2
 IGC.CSM 0.3.1
 igcop 1.0.2
 igfetchr 0.1.0
-iglm 1.2.5
+iglm 1.2.6
 iglu 4.2.2
 igoR 1.1.0
 IgorR 0.9.0
@@ -12196,7 +12196,7 @@ marelac 2.1.11
 MareyMap 1.3.10
 marg 1.2-4
 margaret 0.1.4
-margEVT 0.2.0
+margEVT 0.3.0
 marginaleffects 1.0.0
 marginalizedRisk 2024.5-17
 MarginalMaxTest 1.0.1
@@ -13212,7 +13212,7 @@ mlr3torch 0.3.3
 mlr3tuning 1.7.0
 mlr3tuningspaces 0.7.0
 mlr3verse 0.4.0
-mlr3viz 0.11.1
+mlr3viz 0.11.2
 mlrCPO 0.3.8
 mlrintermbo 0.5.1-1
 mlrMBO 1.1.6
@@ -13718,7 +13718,7 @@ MUGS 0.1.0
 muhaz 1.2.6.5
 muiCharts 0.1.0
 muiDataGrid 0.1.2
-muiMaterial 0.2.2
+muiMaterial 0.2.3
 muir 0.1.0
 muiTreeView 0.1.1
 mulea 1.1.1
@@ -15911,7 +15911,7 @@ pharmaverseadam 1.3.0
 pharmaverseadamjnj 0.0.5
 pharmaverseraw 0.1.1
 pharmaversesdtm 1.5.0
-pharmaversesdtmjnj 0.0.4
+pharmaversesdtmjnj 0.0.6
 pharmr 2.2.0
 phase 1.2.9
 phase12designs 0.3.1
@@ -16993,7 +16993,7 @@ psychTools 2.6.4
 PsychWordVec 2025.11
 PsyControl 1.0.0.0
 psymetadata 1.0.1
-PsyMetricTools 1.2.2
+PsyMetricTools 1.2.4
 psyntur 0.1.1
 psyphy 0.3
 PsyToolkit 1.1.6
@@ -18521,7 +18521,7 @@ rfacebookstat 2.16.1
 Rfactor 0.2.0
 rfacts 0.2.1
 RFAE 0.1.0
-rfair 0.1.0
+rfair 0.2.0
 rFAMS 0.0.3
 rfars 2.0.4
 Rfast 2.1.5.2
@@ -18753,7 +18753,7 @@ riskutility 0.2.0
 RiskyCNV 0.1.0
 riskyr 0.5.0
 RISmed 2.3.0
-risq 3.0.0
+risq 3.0.1
 Rita 1.2.0
 ritalic 0.12.0
 Ritc 1.3
@@ -19624,7 +19624,7 @@ rTPC 1.1.0
 rtpcr 2.1.9
 Rtrack 2.0.4
 RTransferEntropy 0.2.21
-rtransparency 1.0.0
+rtransparency 1.2.0
 rtrees 2.0.2
 rtrek 0.5.2
 rtrend 0.1.5
@@ -23415,7 +23415,7 @@ ToxCrit 1.1
 toxdrc 2.0.0
 toxEval 1.4.2
 toxpiR 1.3.2
-toxSummary 1.0.0
+toxSummary 1.0.1
 TPAC 0.3.0
 TPACData 0.1.0
 tpc 1.0
@@ -23917,7 +23917,7 @@ UKBAnalytica 1.0.0
 ukbflow 0.3.4
 ukbnmr 3.4
 ukc19 0.0.3
-UKFE 2.15.0
+UKFE 2.15.1
 ukgasapi 0.21
 UKgrid 0.1.3
 ukhousing 0.1.0

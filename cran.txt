@@ -1028,7 +1028,7 @@ autostats 0.4.2
 AutoStepwiseGLM 0.2.0
 AutoStrataK 0.1.4
 autostsm 3.1.5
-autosync 0.1.0
+autosync 0.2.0
 autotab 1.1
 autotest 0.2.0
 autotestR 1.2.16
@@ -2160,7 +2160,7 @@ braids 1.0.0
 BrainCon 0.3.0
 brainGraph 3.1.2
 brainKCCA 0.1.0
-BrainNetTest 0.2.1
+BrainNetTest 0.2.2
 brainR 1.7.0
 BranchGLM 3.0.1
 Branching 0.9.7
@@ -6833,7 +6833,7 @@ fastcpd 1.0.0
 FastCUB 0.0.4
 fastdid 1.0.6
 fastDummies 1.7.6
-fastei 0.0.19
+fastei 0.0.21
 fasterize 1.1.0
 fasterRaster 8.4.1.2
 fastFGEE 0.2.2
@@ -16196,8 +16196,8 @@ plm 2.6-7
 PLmixed 0.1.8
 plmmr 4.3.0
 pln 0.2-3
-PLNmodels 1.3.1
-plnr 2025.11.22
+PLNmodels 1.3.2
+plnr 2026.9.23
 PLORN 0.1.1
 plot.matrix 1.6.2
 plot3D 1.4.2
@@ -19613,7 +19613,7 @@ RTMB 2.0
 RTMBdist 1.1.0
 rtmpinv 2.0.0
 rtmpinvi 2.0.0
-rtmpt 2.0-3
+rtmpt 2.1-1
 rtms 0.2.0
 rtmsEcho 0.2.4
 Rtnmin 2016-7.7

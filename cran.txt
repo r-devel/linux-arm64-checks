@@ -1977,6 +1977,7 @@ bluebike 0.0.3
 BlueCarbon 0.1.1
 bluertopo 0.0.2
 blueterra 0.1.0
+blueycolors 0.2.2
 blvim 0.1.1
 BlythStillCasellaCI 1.1.0
 BMA 3.18.21
@@ -2387,6 +2388,7 @@ ca 0.72
 CA3variants 3.3.1
 cABCanalysis 1.0.2
 cabinets 0.6.0
+CAbiplot 0.1.0
 cabootcrs 2.1.0
 cacc 0.1.1
 cache 0.0.3
@@ -5552,7 +5554,7 @@ dsos 0.1.2
 dsp 1.6.0
 dspline 1.0.4
 DSpoty 0.1.0
-dsROCrate 0.2.2
+dsROCrate 0.2.3
 dsrTest 1.0.0
 DSSAT 0.0.9
 dssd 1.0.3
@@ -6523,7 +6525,7 @@ evmr 0.2.0
 evoFE 1.0.0
 evola 1.0.9
 evolMap 1.3.14
-evolqg 0.3-6
+evolqg 0.4-3
 evolution 0.1.1
 EvolutionaryGames 0.1.2
 evolvability 2.0.1
@@ -7499,6 +7501,7 @@ FossilSim 2.4.4
 FossilSimShiny 1.1.2
 foto 1.1
 foundry 0.13.0
+foundryR 0.1.0
 FourgameteP 0.1.0
 fourierin 1.0.0
 fourinarow 0.1.1
@@ -7715,6 +7718,7 @@ funprog 0.3.0
 funr 0.3.2
 funrar 1.5.0
 funreg 1.2.2
+funresMech 1.0.4
 funspace 0.2.2
 funspotr 0.0.5
 funStatTest 1.0.3
@@ -11517,7 +11521,7 @@ libdeflate 1.25-0
 libgeos 3.11.1-3
 libimath 3.2.2-1
 libipldr 0.1.1
-LiblineaR 2.10-25
+LiblineaR 2.10-26
 libopenexr 3.4.12-6
 libr 1.4.2
 Libra 1.7
@@ -12065,7 +12069,7 @@ MAGMA.R 1.1
 MagmaClustR 1.2.1
 magmaR 1.0.4
 MAGNAMWAR 2.0.4
-magp 0.8.0
+magp 0.12.0
 magree 1.2
 magrittr 2.0.5
 maGUI 4.0
@@ -13209,7 +13213,7 @@ mlr3measures 1.3.0
 mlr3misc 0.23.0
 mlr3oml 0.12.0
 mlr3pipelines 0.12.0
-mlr3resampling 2026.5.19
+mlr3resampling 2026.9.24
 mlr3shiny 0.5.0
 mlr3spatial 0.7.0
 mlr3spatiotempcv 2.3.5
@@ -14980,7 +14984,7 @@ ontophylo 1.1.3
 OOBCurve 0.3
 OofAExp 0.1.0
 oolong 0.7.0
-oompaBase 3.2.11
+oompaBase 3.2.12
 oompaData 3.1.5
 OOR 0.1.4
 OORRT 0.1.0
@@ -15574,7 +15578,7 @@ paths 0.1.2
 pathviewr 1.1.8
 PathwaySpace 1.5.1
 PathwayVote 0.1.3
-PatientGenerator 0.2.4
+PatientGenerator 0.2.5
 PatientLevelPrediction 6.7.0
 PatientProfiles 1.6.1
 patientProfilesVis 2.0.10
@@ -15917,7 +15921,7 @@ phantSEM 1.0.1
 pharmaRTF 0.1.5
 pharmaverse 0.0.2
 pharmaverseadam 1.3.0
-pharmaverseadamjnj 0.0.5
+pharmaverseadamjnj 0.0.6
 pharmaverseraw 0.1.1
 pharmaversesdtm 1.5.0
 pharmaversesdtmjnj 0.0.6
@@ -16673,7 +16677,7 @@ prepkit 0.1.1
 prepost 0.3.0
 prepplot 1.0-2
 prepR4pcm 1.0.3
-PreProcess 3.1.9
+PreProcess 3.1.10
 PreProcessing 0.1.0
 PreProcessRecordLinkage 1.0.1
 PREPShiny 0.1.0
@@ -16983,6 +16987,7 @@ PSTR 2.0.0
 PStrata 1.0.1
 psvd 1.1-0
 psvmSDR 3.0.1
+psvr 0.1.0
 PSW 1.1-3
 PSweight 2.1.2
 psy 1.2
@@ -17995,6 +18000,7 @@ Rcssplot 1.1.0
 RCT 1.2
 RCT2 0.0.1
 rct3 1.0.4
+RCTCovAdj 0.1.0
 RCtest 1.2
 rCTOOL 3.1.0
 RCTRecruit 0.2.0
@@ -19130,6 +19136,7 @@ robustsur 0.0-8
 robustT2 0.1.0
 robusttseq 0.1.0
 robustvarComp 0.1-7
+RobustVis 0.1.2
 robustX 1.2-8
 robvis 0.3.1
 Robyn 3.12.1
@@ -19761,6 +19768,7 @@ rwunderground 0.1.8
 RXKCD 2.0.1
 RxnSim 1.0.4
 rxode2 5.1.7
+rxode2lincmt 0.1.0
 rxode2ll 2.0.18
 rxode2mrgsolvebridge 0.1.0
 rxref 0.4.0
@@ -20154,6 +20162,7 @@ scraEP 1.2
 scrapeR 0.1.8
 scrappy 0.0.1
 ScreenClean 1.0.1
+screenllm 0.1.0
 ScreeNOT 0.1.0
 screenshot 0.9.3
 screenshotbase 0.1.0
@@ -23054,7 +23063,7 @@ ThresholdROC 2.10.0
 ThresholdROCsurvival 1.2.1
 threshr 1.0.8
 thriftr 1.1.8
-ThSQCA 2.0.6
+ThSQCA 2.0.7
 thunder 1.1.5
 ThurMod 1.1.20
 thurstonianIRT 0.12.5

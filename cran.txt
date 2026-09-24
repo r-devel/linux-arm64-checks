@@ -1181,7 +1181,7 @@ BAR 0.1.1
 BarBorGradient 1.0.5
 barcode 1.4.0
 baRcodeR 0.1.7
-BarcodingR 1.0-3
+BarcodingR 1.0-4
 BAREB 0.1.2
 bark 1.0.5
 Barnard 1.8
@@ -1615,7 +1615,7 @@ bgev 0.2
 bgeva 0.3-1
 BGFD 0.1
 BGGE 0.6.5
-BGGM 2.1.6
+BGGM 2.2.0
 bggum 1.0.2
 BGLR 1.1.4
 bgmfiles 0.1.0
@@ -4858,6 +4858,7 @@ depcoeff 1.0.1
 DepDoubleTruncKS 0.1.0
 depend.truncation 3.0
 dependentsimr 1.0.0.0
+depguard 0.1.0
 depictr 0.3.0
 DepLogo 1.2.2
 DEploid 0.5.7
@@ -6182,7 +6183,7 @@ enmSdmX 1.2.12
 ENMTools 1.1.5
 enpls 6.1.1
 EnrichIntersect 1.0
-enrichit 0.2.4
+enrichit 0.2.5
 enrichR 3.4
 enrichwith 0.5.0
 enrollcast 0.1.0
@@ -7912,6 +7913,7 @@ gcbd 0.2.7
 GCCfactor 1.2.1
 GCD 4.0.7
 gcdnet 1.0.6
+gcemod 0.3.0
 gcerisk 19.05.24
 GCEstim 1.1.0
 gchartsmap 1.0.2
@@ -8072,6 +8074,7 @@ GenMarkov 0.2.1
 genMCMCDiag 0.2.3
 GENMETA 0.2.0
 geno2proteo 0.0.6
+genoaligner 1.0.0
 genodds 1.1.2
 GenomeAdmixR 2.1.13.2
 genomic.autocorr 1.0-1
@@ -8516,7 +8519,7 @@ ggsurvey 1.0.0
 ggsurvfit 1.2.1
 ggswissmaps 0.1.2
 ggtaichi 0.2.0
-ggtangle 0.1.2
+ggtangle 0.1.3
 ggtea 0.1.1
 ggtern 4.0.0
 ggtext 0.2.0
@@ -9931,7 +9934,7 @@ iC10 2.0.3
 iC10TrainingData 2.0.1
 ica 1.0-3
 ical 0.1.6
-iCAMP 1.8.6
+iCAMP 1.9.1
 ICAOD 1.0.2
 icardaFIGSr 1.0.2
 icarm 0.3.0
@@ -10790,7 +10793,7 @@ jmSurface 0.1.0
 jmuOutlier 2.2
 jmv 2.8.0
 jmvconnect 2.5.7
-jmvcore 2.7.38
+jmvcore 28.3
 jmvReadWrite 0.4.14
 JNplots 0.1.2
 job 0.3.1
@@ -12867,7 +12870,7 @@ MicrobTiSDA 0.1.0
 microCRAN 0.9.0-1
 microdatasus 3.0.0
 MicroDatosEs 0.8.15
-microeco 2.3.0
+microeco 2.4.0
 microinverterdata 0.4.0
 MicroMacroMultilevel 0.4.0
 micromap 1.9.12
@@ -17651,7 +17654,13 @@ rapportools 1.2
 rappsflyer 0.3.2
 rapr 1.1.3
 rapsimng 0.6.0
+rapsimng.canola 0.1.0
+rapsimng.chickpea 0.1.0
 rapsimng.decide.core 0.1.1
+rapsimng.fababean 0.1.0
+rapsimng.lentil 0.1.0
+rapsimng.lupin 0.1.0
+rapsimng.wheat 0.1.0
 raptools 1.23.0
 RAPTOR 1.0.1
 raptr 1.0.1
@@ -19461,6 +19470,7 @@ rsem 0.5.1
 RSEML 0.1.0
 RSentiment 2.2.2
 Rserve 1.8-19.1
+RserveTS 0.8.3
 rsf 1.0.0
 rSFA 1.5
 Rsfar 0.0.1

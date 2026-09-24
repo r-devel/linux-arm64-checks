@@ -568,7 +568,7 @@ andrews 1.1.2
 Andromeda 1.2.1
 anesrake 0.80
 AnglerCreelSurveySimulation 1.0.3
-angstromATE 0.1.3
+angstromATE 0.2.3
 angstroms 0.0.1
 aniDom 0.1.5
 anim.plots 0.2.3
@@ -1719,7 +1719,7 @@ billboard 0.1.0
 billboarder 0.5.2
 BiMaUmisc 0.2.0
 bimets 4.1.2
-BimodalIndex 1.1.11
+BimodalIndex 1.1.13
 bin2norm 0.1.1
 binancer 1.2.0
 Binarize 1.3.2
@@ -3119,8 +3119,8 @@ clarabel 0.11.3
 clarify 0.2.3
 clarkeTest 0.2.0
 class 7.3-24
-ClassComparison 3.3.5
-ClassDiscovery 3.4.10
+ClassComparison 3.3.6
+ClassDiscovery 3.4.11
 classGraph 0.7-7
 classicaltest 0.7.5
 ClassificationEnsembles 1.0.2
@@ -4019,7 +4019,7 @@ cox.rvph 0.2.1
 CoxAalenCR 0.1.0
 CoxAIPW 0.0.3
 CoxBcv 0.0.1.0
-CoxBoost 1.5.1
+CoxBoost 1.5.2
 coxerr 1.1
 CoxICPen 1.1.0
 CoxLikelihood 0.1.0
@@ -4045,7 +4045,7 @@ CPC 2.6.2
 CPCAT 1.0.0
 cpd 0.3.3
 CPE 1.6.3
-cpfa 1.3.2
+cpfa 1.3.3
 CpGassoc 2.70
 cpge 1.0.2
 CpGFilter 1.1
@@ -4177,7 +4177,7 @@ Crosstabs.Loglinear 0.1.1
 crosstalk 1.2.2
 crossurr 1.1.2
 crossval 1.0.5
-CrossValidate 2.3.5
+CrossValidate 2.3.6
 crossvalidationCP 1.1
 crosswalkr 0.4.0
 crov 0.3.0
@@ -5670,7 +5670,7 @@ dyn 0.2-11.0
 Dyn4cast 11.11.26
 dynafluxr 1.0.1
 dynamac 0.1.12
-dynamicmultiplex 1.1.0
+dynamicmultiplex 1.3.1
 dynamicpv 0.4.2
 dynamicSDM 1.3.4
 dynamicTreeCut 1.63-1
@@ -7585,7 +7585,7 @@ freedom 1.0.1
 freegroup 1.2-1-1
 freestiler 0.2.0
 freesurfer 1.8.1
-freesurferformats 1.0.2
+freesurferformats 1.1.0
 FREEtree 0.1.0
 freewall 1.0.0
 fRegression 4021.83
@@ -8013,7 +8013,7 @@ gen5helper 1.0.1
 gena 1.0.1
 GenAI 0.2.0
 genalg 0.2.1
-GenAlgo 2.2.1
+GenAlgo 2.2.2
 genBaRcode 1.2.8
 GenBinomApps 1.2.1
 GencoDymo2 1.0.4
@@ -13347,7 +13347,7 @@ modeldb 0.3.1
 modeldiag 0.1.0
 modeldiagramR 0.2.1
 modelenv 0.2.0
-Modeler 3.4.10
+Modeler 3.4.11
 modelfree 1.2.1
 modelimpact 1.1.0
 modelimportance 0.1.0
@@ -14985,7 +14985,7 @@ OOBCurve 0.3
 OofAExp 0.1.0
 oolong 0.7.0
 oompaBase 3.2.12
-oompaData 3.1.5
+oompaData 3.1.7
 OOR 0.1.4
 OORRT 0.1.0
 oosse 1.0.12
@@ -16175,7 +16175,7 @@ plantecophys 1.4-6
 plantmix 1.0.3
 plantphysioR 1.0.0
 plantTracker 1.2.1
-plasma 1.1.5
+plasma 1.1.6
 PlasmaMutationDetector 1.7.2
 plasmidplot 0.1.0
 plasso 0.1.3
@@ -16389,7 +16389,7 @@ polspline 1.1.25
 Poly4AT 1.0.2
 polyaAeppli 2.0.2
 polyapost 1.7-1
-Polychrome 1.6.1
+Polychrome 1.6.2
 polyclip 1.10-7
 polycor 0.8-2
 PolycrossDesigns 1.1.0
@@ -18025,7 +18025,7 @@ rdataretriever 3.1.1
 Rdatasets 0.0.1
 rdav 0.3.0
 rdbnomics 0.6.4
-rdborrow 0.0.4.0
+rdborrow 0.0.4.1
 rdcmchecks 0.1.1
 rdcor 1.1
 rddapp 1.3.3
@@ -23270,7 +23270,7 @@ tinyplot 0.7.0
 tinyrox 0.4.1
 tinyroxygen 0.1
 tinyscholar 0.1.7
-tinyshinyserver 0.2.0
+tinyshinyserver 0.2.1
 tinysnapshot 0.3.0
 tinyspotifyr 0.2.3
 tinytable 0.19.0

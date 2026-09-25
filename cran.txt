@@ -40,7 +40,7 @@ abodOutlier 0.1
 ABPS 0.3
 ABRSQOL 1.0.0
 abseil 2026.5.26.0
-AbSolution 1.0.1
+AbSolution 1.0.2
 absorber 1.0
 abstr 0.4.2
 abstractr 0.1.0
@@ -170,6 +170,7 @@ AdaSampling 1.3
 adbcdrivermanager 0.24.0-3
 adbcpostgresql 0.24.0-2
 adbcsqlite 0.24.0-2
+adbi 0.1.3
 adc 1.0.0
 ADCT 0.1.0
 add2ggplot 0.3.0
@@ -3229,7 +3230,7 @@ clockplot 0.8.3
 clogitboost 1.1
 clogitL1 1.6
 cloneRate 0.2.3
-CloneSeeker 1.0.16
+CloneSeeker 1.0.17
 CLONETv2 2.2.1
 clootl 0.1.4
 clordr 1.7.2
@@ -5393,7 +5394,7 @@ DoubleExpSeq 1.1
 DoubleML 1.0.2
 doubt 0.1.0
 douconca 1.2.6
-doudpackage 2.1.0
+doudpackage 2.2.0
 DOvalidation 1.1.0
 DOVE 1.11
 Dowd 0.12
@@ -5534,7 +5535,7 @@ dScoreTest 1.0.0
 DSDRM 0.1.3
 dsem 3.0.0
 DSFM 1.0.1
-dsge 1.0.0
+dsge 1.2.0
 DSGEr 1.3.1
 DSI 1.8.0
 dsims 1.0.6
@@ -5774,7 +5775,7 @@ eatDB 0.5.0
 eatGADS 1.2.0
 EATME 0.1.0
 eatRep 0.15.3
-eatTools 0.7.9
+eatTools 0.7.10
 EAVA 1.0.0
 eba 1.10-1
 ebal 0.2.1
@@ -10179,7 +10180,7 @@ immunaut 1.0.3
 immundata 0.1.0
 ImmuneSigR 0.1.1
 immunogenetr 1.5.0
-Immutables 1.1.0
+Immutables 1.2.0
 Imneuron 0.1.0
 ImNN 0.1.0
 IMP 1.1
@@ -12603,7 +12604,7 @@ memuse 4.2-3
 MEMWAS 0.9.5
 MendelianRandomization 0.10.0
 meow 1.0.0
-Mercator 1.1.7
+Mercator 1.1.8
 merDeriv 0.2-6
 mergedblocks 1.1.1
 mergeGridR 0.2.0
@@ -13314,7 +13315,7 @@ MNormTest 1.1.1
 MNP 3.1-6
 mnpPlasmonR 0.1.0
 MNS 1.0
-mnt 1.3
+mnt 1.4
 mob 0.4.2
 mobdb 1.0.3
 MobilityDataPT 1.0
@@ -14131,7 +14132,7 @@ nc 2026.4.20
 NCA 5.0.2
 ncaavolleyballr 0.5.1
 ncappc 1.0.0
-ncar 0.7.1
+ncar 0.7.2
 ncbit 2013.03.29.1
 NCC 1.0
 ncdf4 1.24
@@ -14427,7 +14428,7 @@ nlmixr2extra 5.2.1
 nlmixr2lib 0.3.2
 nlmixr2plot 5.2.0
 nlmixr2rpt 0.2.2
-nlmixr2save 0.2.0
+nlmixr2save 0.2.1
 nlmixr2scm 0.4
 nlmixr2targets 0.1.0
 nlmixr2utils 0.3.1
@@ -15658,7 +15659,7 @@ PCBN 0.1.1
 PCBS 0.1.1
 pccc 1.0.7
 pcdid 1.0.0
-PCDimension 1.1.14
+PCDimension 1.1.15
 pcds 0.1.8
 pcds.ugraph 0.1.1
 pcensmix 1.2-1
@@ -15714,6 +15715,7 @@ PDFEstimator 4.5
 pdfetch 0.3.3
 pdfminer 1.0
 pdfsearch 0.4.3
+pdfsigner 0.3.0
 pdftables 0.1
 pdftools 3.9.1
 pdglasso 2.0.1
@@ -18009,7 +18011,7 @@ RCTS 0.2.4
 RCurl 1.98-1.20
 Rcurvep 1.3.2
 rcxl 0.1.0
-RCytoGPS 1.2.13
+RCytoGPS 1.2.14
 RCzechia 1.12.10
 rd2d 1.0.0
 Rd2md 1.0.1
@@ -18532,7 +18534,7 @@ revss 3.1.0
 Revticulate 1.0.0
 revtools 0.4.1
 rewie 0.1.0
-rewind 0.2.0
+rewind 0.3.0
 rex 1.2.2
 rexer 1.0.0
 REXoplanets 0.1.2
@@ -19347,7 +19349,7 @@ RPMM 1.25
 rpmodel 1.2.3
 rpms 0.5.1
 rpnf 1.0.5
-RPointCloud 0.9.1
+RPointCloud 0.9.2
 Rpolyhedra 0.6.0
 Rpoppler 0.1-3
 rportfolio 0.0.3
@@ -20610,7 +20612,7 @@ shelltrace 3.5.1
 shelter 0.2.1
 sherlock 0.7.0
 SherlockHolmes 1.0.2
-shewhartr 1.3.0
+shewhartr 1.4.0
 shidashi 0.2.0
 shide 0.3.0
 ShiftConvolvePoibin 1.0.0
@@ -20844,7 +20846,7 @@ SILFS 0.1.0
 SILGGM 1.0.0
 Silhouette 0.9.6
 silicate 0.7.1
-SillyPutty 0.4.2
+SillyPutty 0.4.4
 sillysplines 1.0.1
 silp 1.0.3
 silviculture 0.2.0
@@ -21431,7 +21433,7 @@ spANOVA 0.99.4
 spant 4.4.0
 spantest 1.1-3
 sparcl 1.0.4
-spareg 1.1.1
+spareg 1.2.0
 spark.sas7bdat 1.4
 sparkavro 0.3.0
 sparkbq 0.1.1
@@ -22475,7 +22477,7 @@ susieR 0.14.2
 susographql 0.1.6
 SUSY 0.1.0
 suwo 0.2.1
-SVAlignR 0.9.2
+SVAlignR 0.10.5
 sValues 0.1.8
 svars 1.3.12
 SVARtca 1.0.2
@@ -23058,7 +23060,7 @@ ThreeWiseMonkeys 0.1.0
 threewords 0.1.0
 threg 1.0.3
 thregI 1.0.4
-Thresher 1.1.5
+Thresher 1.1.6
 ThresholdROC 2.10.0
 ThresholdROCsurvival 1.2.1
 threshr 1.0.8
@@ -24399,7 +24401,7 @@ VisitorCounts 2.0.4
 vismeteor 3.1.0
 vismi 1.0.0
 visNetwork 2.1.4
-visOmopResults 1.5.0
+visOmopResults 1.5.1
 visor 0.1.1
 visPedigree 1.10.1
 visreg 3.0.0
@@ -24561,7 +24563,7 @@ washr 1.1.0
 WASP 1.4.5
 waspasR 0.1.5
 waspr 1.0.1
-watcher 0.2.0
+watcher 0.2.1
 WaterBalanceR 0.1.21
 waterfalls 1.1.4
 waterYearType 1.0.1
@@ -24593,7 +24595,7 @@ WaveST 0.1.0
 wavethresh 4.7.3
 wavScalogram 1.1.3
 waydown 1.1.0
-WayFindR 0.7.0
+WayFindR 0.7.1
 Waypoint 2.0.1
 waysign 0.1.1
 waywiser 0.6.3

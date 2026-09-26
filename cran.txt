@@ -802,6 +802,7 @@ arima2 3.4.4
 ARIMAANN 0.1.0
 arimasel 0.2.0
 ARInfoLSTM 0.1.0
+arity 0.1.0
 arkdb 0.0.19
 arkg 0.1.0
 arkhaia 0.5.5
@@ -1255,7 +1256,7 @@ batman 0.1.0
 batsch 0.1.1
 BATSS 1.2.1
 batteryreduction 0.1.1
-BAwiR 1.5.4
+BAwiR 1.5.5
 bayclumpr 0.1.0
 baycn 2.0.0
 bayefdr 0.2.1
@@ -1860,6 +1861,7 @@ birdnetR 0.3.2
 birdring 1.6
 birdscanR 0.3.0
 birk 2.1.2
+birp 0.9.0
 birtr 1.0.0
 BIS 0.4
 biscale 1.1.0
@@ -3007,6 +3009,7 @@ chronometre 0.0.2
 chronosphere 0.6.1
 chunked 0.6.2
 chunkhooks 0.0.1
+churon 0.1.12
 chyper 0.3.1
 ci 0.0.1
 cia 1.0.0
@@ -3458,7 +3461,7 @@ cogirt 1.0.0
 coglasso 1.1.1
 coglyphr 1.1.0
 cogmapr 0.9.5
-cogmod 0.3.0
+cogmod 0.3.3
 cograph 2.4.4
 cohetsurr 2.0
 cohortBuilder 1.0.0
@@ -4640,6 +4643,7 @@ DBTC 0.1.0
 dbw 1.1.4
 dbWebForms 0.1.0
 dbx 0.4.0
+DCC 1.2.1
 DCCA 0.1.1
 dcce 0.4.2
 DCchoice 0.2.0
@@ -4816,7 +4820,7 @@ demodelr 2.0.1
 demofit 0.1.5
 DemogAnr 0.2.0
 demogR 0.6.0
-DemographicTable 0.2.3
+DemographicTable 0.2.4
 demography 2.0.1
 demoKde 1.0.1
 demor 1.0.10
@@ -4854,7 +4858,7 @@ dentomedical 0.2.0
 denvax 0.1.2
 deOpenData 0.1.0
 DEoptim 2.2-8
-DEoptimR 1.2-1
+DEoptimR 1.2-2
 depcache 0.1-2
 DepCens 0.2.3
 depCensoring 0.1.10
@@ -8303,7 +8307,7 @@ ggbreak 0.2.2
 ggbrick 0.3.2
 ggBubbles 0.1.4
 ggbuildr 0.1.0
-ggchangepoint 0.4.0
+ggchangepoint 0.5.0
 ggcharts 0.2.1
 ggChernoff 0.3.0
 ggChinaFlag 0.4.0
@@ -11253,7 +11257,7 @@ lancor 0.1.3
 LandComp 0.0.5
 landest 1.2
 landform 0.2
-landgraph 0.0.1
+landgraph 0.0.3
 landmaRk 0.1.3
 landmarked 0.2.0
 Landmarking 1.0.2
@@ -12328,7 +12332,7 @@ matrixset 0.4.1
 matrixStats 1.5.0
 matrixTests 0.2.3.1
 matriz 1.0.1
-matsbyname 0.6.14
+matsbyname 0.6.15
 matsindf 0.4.11
 matsketch 0.1.0
 matSPACE 0.2.1
@@ -15026,7 +15030,7 @@ openEBGM 0.10.0
 openeo 1.4.1
 openesm 0.2.1
 openFDA 0.1.0
-openfhe.R 1.5.1.1
+openfhe.R 1.5.1.2
 opengraph 0.0.4
 OpEnHiMR 0.1.1
 openholidaysR 0.1.0
@@ -19588,7 +19592,7 @@ rsurvstat 0.1.5
 rsvd 1.0.5
 rsvddpd 1.0.1
 rsvg 2.7.0
-rswipl 10.1.15
+rswipl 10.1.16
 Rsymphony 0.1-33
 rsyncrosim 2.1.13
 rsyntax 0.1.4
@@ -22407,7 +22411,7 @@ surveydata 0.2.8
 SurveyDefense 0.2.0
 surveydown 1.3.0
 surveyexplorer 0.2.0
-surveyframe 0.4.1
+surveyframe 0.4.2
 surveygraph 1.0.0
 surveyplanning 4.0
 surveyPrev 2.0.0
@@ -24483,7 +24487,7 @@ VOWR 0.1.0
 VoxR 1.0.0
 vpc 1.2.4
 VPdtw 2.2.1
-vprint 1.4
+vprint 1.5
 vrnmf 1.0.2
 vroom 1.7.1
 vrpr 0.1.1

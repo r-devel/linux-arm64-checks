@@ -1,6 +1,6 @@
 # psvr 0.1.0
 
-Latest run: 2026-09-24: https://github.com/r-devel/linux-arm64-checks/actions/runs/36046475346
+Latest run: 2026-09-27: https://github.com/r-devel/linux-arm64-checks/actions/runs/36290165667
 
 ```
 Package: psvr

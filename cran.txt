@@ -1678,7 +1678,6 @@ bigD 0.3.1
 bigdatadist 1.1
 BigDataPE 0.2.0
 BigDataStatMeth 2.0.6
-BIGDAWG 3.1.0
 bigDM 0.5.8
 bigergm 1.2.6
 bigGP 0.1.9
@@ -3770,7 +3769,6 @@ constellation 0.2.0
 constrainedKriging 0.2-11
 ConsTree 1.0.0
 conStruct 1.0.7
-constructive 1.3.0
 contactdata 1.1.0
 contactsurveys 0.2.0
 contagionchannels 0.1.3
@@ -8373,7 +8371,7 @@ ggforce 0.5.0
 ggforestplotR 0.5.0
 ggformula 2.0.0
 ggfortify 0.4.23
-ggfoundry 0.3.1
+ggfoundry 0.4.0
 ggfun 0.2.1
 ggfx 1.0.3
 gggap 1.0.1
@@ -8395,7 +8393,7 @@ ggHoriPlot 1.0.1
 gghotelling 0.2.1
 gghourglass 0.0.3
 ggicons 0.1.0
-ggimage 0.3.5
+ggimage 0.3.6
 ggimg 0.1.2
 ggincerta 0.2.1
 gginference 0.1.3
@@ -9337,7 +9335,6 @@ hanyupinyin 0.1.3
 hapassoc 1.2-9
 Hapi 0.0.3
 Haplin 7.3.2
-haplo.stats 1.9.9.1
 HaploCatcher 2.0.1
 HaploDiploidEquilibrium 0.1.0
 HaploSim 1.8.4.2
@@ -10687,7 +10684,6 @@ IterativeHardThresholding 1.0.3
 iteratoR 0.1.1
 iterators 1.0.14
 iterLap 1.1-4
-iterors 1.0.1
 iterpc 0.4.2
 itertools 0.1-3
 itertools2 0.1.1
@@ -11990,7 +11986,7 @@ lterpalettefinder 1.1.0
 ltertools 2.1.1
 LTFGRS 1.0.1
 LTFHPlus 2.2.0
-ltgsmd 0.2.2
+ltgsmd 0.2.3
 ltm 1.2-0
 ltmix 0.2.2
 ltmle 1.3-0
@@ -14063,7 +14059,7 @@ naaccr 3.1.1
 nabla 0.7.1
 nabor 0.5.0
 NAC 0.1.0
-NACHO 2.0.6
+NACHO 2.0.7
 NADA 1.6-1.2
 NADA2 2.0.2
 nadaverse 0.1.0
@@ -16213,7 +16209,7 @@ plavaan 0.0.2
 player 0.1.0
 PlayerChart 1.0.0
 PlayerRatings 1.1-0
-pldamixture 0.1.1
+pldamixture 0.1.2
 pleio 1.9
 pleioh2g 0.1.3
 pleLMA 0.2.2
@@ -16543,7 +16539,6 @@ potions 0.2.0
 potools 0.2.4
 potts 0.5-11
 PottsUtils 0.3-3.1
-pould 1.0.2
 PoultryEconR 0.1.0
 POV 0.1.4
 pow.int 1.3
@@ -17872,7 +17867,7 @@ RchivalTag 0.2.2
 Rchoice 0.3-6
 rChoiceDialogs 1.0.6.1
 rchroma 0.2.0
-rcicr 1.4.1
+rcicr 1.5.0
 rciplot 0.1.1
 RCircos 1.2.2
 rCISSVAE 0.0.5
@@ -18828,7 +18823,6 @@ rJava 1.0-18
 rJavaEnv 0.3.0
 rjd3bench 3.1.3
 rjd3jars 0.0.6
-rjd3production 1.1.1
 rjd3providers 3.9.0
 rjd3qr 0.4.2
 rjd3toolkit 3.9.0
@@ -20756,7 +20750,6 @@ shinyreact 0.1.0
 shinyrecap 0.2.0
 shinyrecipes 0.1.0
 shinyReports 1.0.3
-shinyreprex 0.3.0
 shinyRGL 0.1.0
 shinySbm 0.2.1
 shinyscholar 0.4.5
@@ -23286,7 +23279,7 @@ tinter 0.1.0
 tintin 0.2
 tinyarray 3.0.0
 tinycache 0.1
-tinycodet 0.7.1
+tinycodet 0.8.0
 tinydng 0.1.0-0
 tinyimg 0.4
 tinylabels 0.2.5

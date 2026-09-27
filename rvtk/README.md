@@ -1,6 +1,6 @@
 # rvtk 0.1.3
 
-Latest run: 2026-09-20: https://github.com/r-devel/linux-arm64-checks/actions/runs/35485227044
+Latest run: 2026-09-27: https://github.com/r-devel/linux-arm64-checks/actions/runs/36290468166
 
 ```
 Package: rvtk

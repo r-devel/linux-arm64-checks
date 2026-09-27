@@ -1626,6 +1626,7 @@ bgmfiles 0.1.0
 BGmisc 1.6.0.1
 bgms 0.2.0.0
 bGMYC4 4.1.6
+bgns 0.4.3
 BGPhazard 2.1.1
 bgumbel 0.0.3
 BGVAR 2.5.9
@@ -2336,7 +2337,6 @@ bunddev 0.2.3
 bundesbank 0.1-12
 bundesligR 0.1.0
 bundle 0.1.3
-bunsen 0.1.1
 buoyant 0.1.0
 bupaR 1.0.1
 burakDiagrams 0.1.0
@@ -2628,7 +2628,6 @@ CausalGPS 0.5.1
 causalHyperGraph 0.1.0
 CausalImpact 1.4.1
 CausalLoopAnalytics 1.0.0
-CausalMBSTS 0.1.1
 CausalMetaR 0.1.3
 CausalMixGPD 0.8.0
 CausalModels 0.2.1
@@ -2902,6 +2901,7 @@ charlesschwabapi 1.0.5
 charport 0.1.1
 chartql 0.1.0
 chartreview 1.0
+chat.api 0.1.0
 chatAI4R 1.3.1
 chatgpt 0.2.3
 chatLLM 0.1.4
@@ -4056,6 +4056,7 @@ cpge 1.0.2
 CpGFilter 1.1
 cpgfR 0.0.1.0
 CPGLIB 1.1.2
+CPHazard 0.1.0
 cpi 0.1.5
 cplm 0.7-12.1
 cplots 0.5-0
@@ -4543,6 +4544,7 @@ datapack 1.4.2
 datapackage 0.2.3
 DataPackageR 0.16.2
 datapasta 3.1.0
+datapond 0.1.0
 dataprep 0.1.5
 dataPreparation 1.1.2
 dataProfilerR 0.2.1
@@ -5470,7 +5472,6 @@ DRclass 0.1.0
 drclust 0.1.1
 drcSeedGerm 1.0.1
 drcte 1.0.65
-drda 2.0.5
 DrData 0.2.0
 DRDID 1.3.0
 DrDimont 0.1.7
@@ -6408,6 +6409,7 @@ esaps 0.2.2
 esback 0.3.1
 esc 0.5.1
 escalation 0.2.3
+escapeR 0.1.0
 esci 1.0.10
 esDesign 1.0.3
 eSDM 0.4.4
@@ -6736,7 +6738,6 @@ facebookleadsR 0.1.0
 facebookorganicR 0.1.0
 facerec 0.1.0
 facetsviz 0.1.1
-facilityepimath 0.2.1
 facmodCS 1.0
 facmodTS 1.0
 facomplex 1.0.0
@@ -9212,6 +9213,7 @@ gtExtras 0.6.2
 gtexture 1.0.1
 gtfs2emis 0.1.2
 gtfs2gps 2.1-4
+GTFShift 1.0.0
 gtfsio 1.2.1
 gtfsrealtime 0.2.1
 gtfsrouter 0.1.4
@@ -9862,7 +9864,6 @@ hydroEvents 0.13.0
 hydrogeofetch 2.0.4
 hydroGOF 0.7-0
 hydroloom 1.2.2
-HydroMe 2.1.2
 hydromeso 0.1.0
 hydroMOPSO 0.1-14
 hydropeak 0.1.3
@@ -10263,7 +10264,6 @@ IncomPair 0.1.0
 incR 2.1.1
 IncrementalityTEST 0.1.1
 inctools 1.0.15
-incubate 1.4.1
 INCVCommunityDetection 0.1.0
 inDAGO 1.0.4
 indelmiss 1.0.10
@@ -10370,6 +10370,7 @@ INQC 2.0.5
 Inquilab 0.1.0
 insane 1.0.3
 insect 1.4.4
+insectecol 1.0.1
 InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
@@ -10658,6 +10659,7 @@ isotracer 1.1.9
 isotree 0.6.1-5
 isoWater 1.2.2
 ISOweek 0.6-2
+ISPAT3D 0.3.1
 ispd 0.2
 ispdata 1.1.2
 ISPYARDSWinProbabilityGSDesign 0.1.0
@@ -11124,7 +11126,6 @@ kohonen 3.0.13
 kokudosuuchi 1.0.0
 KOLaide 0.0.1
 kollaR 1.1.4
-koma 0.3.1
 komaletter 0.5.0
 konfound 1.0.3
 KONPsurv 1.0.4
@@ -12509,6 +12510,7 @@ MDaRes 0.0.2
 mdatools 0.16.0
 mdbplyr 0.4.1
 mdbr 0.4.0
+mdbx 0.1.0
 MDCcure 0.1.0
 MDDC 1.1.0
 mddmaps 1.3.0
@@ -13677,6 +13679,7 @@ msgr 1.1.2
 msigdbr 26.1.1
 mSigPlot 2.0.42
 MSigSeg 0.2.0
+mSigSpectra 0.1.3
 mSigTools 1.0.7
 mSimCC 0.0.3
 MSIMST 1.1
@@ -14011,7 +14014,6 @@ mvSLOUCH 2.7.7
 mvst 1.1.1
 mvSUSY 0.1.0
 MVT 0.3-81
-MVTests 2.3.1
 mvtmeta 1.1
 mvtnorm 1.4-2
 mvtsplot 1.0-5
@@ -14046,6 +14048,7 @@ mycor 0.1.1
 myCRAN 1.3
 myIO 1.3.0
 MYIS 0.1.0
+myman 0.1.0
 MyoScore 1.0.1
 myownrobs 1.0.0
 myrror 0.1.2
@@ -14248,6 +14251,7 @@ netmediate 1.1.1
 netmem 1.1-0
 netmeta 3.7-0
 netmhc2pan 1.3.3
+netOP 0.1.2
 NetOrigin 1.1-7
 netpanel 0.0.1
 netplot 0.4-0
@@ -15539,7 +15543,7 @@ parseLatex 0.4.4
 parsermd 0.2.0
 parseRPDR 1.1.2
 parSim 0.4.0
-parsnip 1.6.0
+parsnip 1.6.1
 PartCensReg 1.39
 partDSA 0.9.15
 partialised 0.1.1
@@ -16144,6 +16148,7 @@ PKconverter 1.5
 pkdata 0.1.0
 pkgbuild 1.4.8
 pkgcache 2.2.5
+pkgcheck 0.3.0
 pkgcond 0.1.1
 pkgconfig 2.0.3
 pkgdepends 0.9.1
@@ -16345,7 +16350,6 @@ png 0.1-9
 PNSIBGE 0.2.1
 PnT 0.1.0
 PNWColors 0.1.0
-POCRE 0.6.0
 pocrm 0.13
 POD 1.2.0
 PoDBAY 1.4.3
@@ -16525,7 +16529,6 @@ PosteriorBootstrap 0.1.3
 postHoc 0.1.3
 postinfectious 0.1.0
 postlightmercury 1.2
-postlink 0.1.1
 postlogic 0.1.0.1
 POSTm 1.4
 postpack 0.5.4
@@ -17133,7 +17136,6 @@ pwranova 1.1.5
 pwrFDR 3.2.4
 PwrGSD 2.3.8
 pwrRasch 0.1-4
-pwrss 1.2.0
 pwSEM 1.0.0
 pwt 7.1-1
 pwt10 10.01-0
@@ -17383,7 +17385,6 @@ quasar 0.2.1
 quaxnat 1.0.1
 QuClu 1.0.1
 queryBuilder 0.1.0
-querychat 0.4.0
 queryparser 0.3.2
 queryup 1.0.5
 quest 0.2.1
@@ -20967,6 +20968,7 @@ SIMplyBee 0.4.1
 simPop 2.1.3
 simpowa 1.0.3
 simpr.interaction 0.1.0
+simPreg 0.1.0
 simPsyStudy 1.1.8
 simputation 0.2.9
 simqi 0.2.0
@@ -21051,6 +21053,7 @@ sitree 0.1-15
 sitreeE 0.0-10
 sitrep 0.4.1
 sits 1.5.4
+SIVMethod 0.1.0
 sivs 0.2.11
 SixSigma 0.11.1
 sixtyfour 0.2.4
@@ -23638,6 +23641,7 @@ Tri.Hierarchical.IBDs 1.0.0
 triact 0.3.1
 TriadSim 0.3.1
 triageR 0.2.0
+trialdiff 0.2.0
 TrialEmulation 0.0.5
 TrialFlowR 1.0.0
 trialr 0.1.6
@@ -24715,7 +24719,6 @@ weights 1.1.2
 WeightSVM 1.7-16
 weird 3.1.0
 weirs 0.26
-welo 0.1.5
 WeMix 4.0.3
 wesanderson 0.3.7
 Westerlund 0.1.3
@@ -24791,6 +24794,7 @@ windsoraiR 0.1.2
 wINEQ 1.2.2
 winfapReader 0.1-7.1
 wingen 2.2.0
+winn 0.1.5
 winning 0.3.0
 winputall 1.0.1
 winr 1.0.0

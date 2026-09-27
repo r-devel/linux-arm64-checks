@@ -1,6 +1,6 @@
 # rqti 1.3.0
 
-Latest run: 2026-09-21: https://github.com/r-devel/linux-arm64-checks/actions/runs/35644250701
+Latest run: 2026-09-27: https://github.com/r-devel/linux-arm64-checks/actions/runs/36290417417
 
 ```
 Package: rqti

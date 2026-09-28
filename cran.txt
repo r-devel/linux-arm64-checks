@@ -1562,7 +1562,7 @@ BERTopic 0.1.0
 bertopicr 0.3.6
 bespatial 0.1.3
 BeSS 2.0.4
-Bessel 0.7-0
+Bessel 0.7-1
 bestglm 0.37.3
 besthr 0.4.0
 Bestie 0.1.5
@@ -2452,7 +2452,7 @@ camerondata 1.0.0
 campaignmanageR 0.1.0
 campfin 1.0.11
 campsis 1.9.2
-campsismod 1.4.1
+campsismod 1.4.2
 campsisnca 1.7.2
 camsRad 0.3.0
 camtrapdp 0.6.0
@@ -4389,6 +4389,7 @@ CVThresh 1.1.2
 cvTools 0.3.3
 CVXR 1.9.2
 cwad 0.2.0
+cWise 0.1.0
 cwot 0.1.0
 CWT 0.2.3
 cxr 1.1.1
@@ -4815,6 +4816,7 @@ DeltaMAN 0.5.0
 deltapif 0.4.5
 deltaPlotR 1.9
 deltatest 0.2.0
+DeltaTools 0.1.4
 DELTD 2.6.8
 DEM 0.0.0.2
 dematel 0.1.0
@@ -5697,7 +5699,7 @@ dynBiplotGUI 1.1.6
 DynClust 3.24
 dynConfiR 1.1.1
 dynCorr 1.1.0
-DynCount 0.1.0
+DynCount 0.2.0
 dyndimred 1.0.4
 dynemu 1.0.2
 dynetNLAResistance 0.1.0
@@ -6277,6 +6279,7 @@ EpiForsk 0.2.2
 epigraphdb 0.2.3
 epigrowthfit 0.15.4
 EpiILM 1.5.3
+EpiILMCT 1.1.9
 EpiInvert 0.3.1
 epikit 0.2.0
 epilogi 1.2
@@ -6697,6 +6700,7 @@ eye 1.3.0
 eyedata 0.1.0
 eyelinker 0.2.2
 eyelinkReader 1.0.3
+eyeprocess 0.11.1
 eyeris 3.3.0
 eyetools 0.10.0
 eyetrackingR 0.2.2
@@ -6962,6 +6966,7 @@ fcall 0.1.6
 fcaR 2.1.0
 fcci 1.0.2
 fcfdr 1.0.0
+FCGR 1.2-0
 fChange 2.1.0
 fcirt 0.2.1
 fcl 0.1.5
@@ -9351,6 +9356,7 @@ HAPTRACE 0.1.2
 harbinger 2.1.707
 hardhat 1.4.3
 HardyWeinberg 1.7.9
+harf 0.1.0
 harmonicmeanp 3.0.1
 harmonizer 0.3.2
 harmony 2.0.5
@@ -11895,7 +11901,7 @@ lordif 0.4.2
 lorec 0.6.1
 lorem 1.0.0
 lorentz 1.1-3
-LorenzRegression 2.3.1
+LorenzRegression 2.3.2
 lori 2.2.3
 LorMe 2.0.2
 LOST 2.1.4
@@ -12176,6 +12182,7 @@ MAPCtools 0.1.0
 mapdata 2.3.1
 mapdeck 0.3.6
 mapedit 0.8.0
+mapfit 1.0.1
 mapgl 0.5.0
 mapi 1.1.5
 mapindia 1.0.1
@@ -12238,6 +12245,7 @@ marimekko 0.1.0
 MarineChain 1.1.0
 marinepredator 0.0.1
 MariNET 1.0.0
+mariposa 0.7.3
 mark 0.8.3
 markdown 2.0
 markdownInput 0.1.2
@@ -12329,7 +12337,7 @@ matRiks 0.1.5
 matrisk 0.1.0
 Matrix 1.7-6
 matrixcalc 1.0-6
-matrixCorr 0.12.2
+matrixCorr 0.12.3
 MatrixCorrelation 0.10.1
 matrixcut 0.0.1
 matrixdist 1.1.9
@@ -13340,6 +13348,7 @@ mnt 1.4
 mob 0.4.2
 mobdb 1.0.3
 MobilityDataPT 1.0
+Mobius 1.0
 MoBPS 1.13.1
 mobsim 0.3.2
 moc.gapbk 0.2.1
@@ -13654,6 +13663,7 @@ msamp 1.0.0
 msaR 0.6.0
 MSbox 1.4.8
 MSBStatsData 0.0.2
+MSCA 1.4.0
 MSCCT 1.0.2
 msce 1.0.2
 mschart 0.5.1
@@ -15390,6 +15400,7 @@ PAGE 0.4.0
 pagedown 0.25
 pagemap 0.1.3
 pagenum 1.3
+pagerankr 0.1.0
 PAGFL 1.1.4
 pagoda2 1.0.15
 PAGWAS 2.0
@@ -17416,7 +17427,7 @@ quietR 0.1.0
 quiltr 0.1.0
 quincunx 0.2.0
 quint 2.2.2
-quitefastmst 0.9.1
+quitefastmst 0.9.2
 quollr 1.0.6
 quoradsR 0.1.0
 quRan 0.1.0
@@ -19809,7 +19820,7 @@ rzig 0.2.3
 RZigZag 0.2.1
 rzmq 0.9.16
 RZooRoH 0.4.1
-s2 1.1.12
+s2 1.1.13
 s20x 3.3.0
 s2dv 2.3.0
 s2net 1.0.7
@@ -20105,7 +20116,7 @@ schemr 0.3.1
 schmear 0.1.0
 schoenberg 2.0.3
 scholar 1.0.0
-scholid 0.2.0
+scholid 0.2.1
 scholidonline 0.2.0
 SchoolDataIT 0.2.13
 schoolmath 0.5.1
@@ -20763,6 +20774,7 @@ shinyscreenshot 0.2.1
 shinySearchbar 1.0.0
 shinySelect 1.3.0
 shinyseo 1.2.0
+shinysnap 0.1.0
 shinystan 2.7.0
 shinystate 0.1.0
 shinyStep 0.5.1
@@ -21813,6 +21825,7 @@ SPSL 0.1-9
 SPSP 0.2.0
 spStack 1.1.3
 spsur 1.0.2.6
+spsurv 1.1.0
 spsurvey 5.7.0
 spsUtil 0.2.2.1
 spTDyn 2.0.3
@@ -22435,6 +22448,7 @@ surveydown 1.3.0
 surveyexplorer 0.2.0
 surveyframe 0.4.2
 surveygraph 1.0.0
+SurveyNCD 0.1.0
 surveyplanning 4.0
 surveyPrev 2.0.0
 surveysd 2.0.3
@@ -22546,6 +22560,7 @@ svycdiff 0.2.0
 svycoxme 1.0.0
 svydiags 0.7
 svylme 1.5-1
+svyLocAdj 1.0.1
 svymargins 0.1.0
 SvyNom 1.2
 svyROC 1.1.0
@@ -25010,6 +25025,7 @@ xml2relational 0.1.1
 xmlconvert 0.1.2
 xmlparsedata 1.0.5
 xmlr 0.1.2
+xmlrectr 0.1.0
 xmlrpc2 1.2
 xmlwriter 0.1.1
 xmpdf 0.3.1

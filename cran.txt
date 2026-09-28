@@ -11502,7 +11502,7 @@ lexRankr 0.5.2
 lexsync 0.1.1
 lfactors 1.0.4
 LFApp 1.4.2
-lfc 0.2.3
+lfc 0.2.4
 lfda 1.1.3
 LFDR.MLE 1.0.1
 LFDR.MME 1.0
@@ -13145,7 +13145,7 @@ mkde 0.4
 MKdescr 0.9
 MKendall 1.5-4
 mkin 1.2.10
-MKinfer 1.3
+MKinfer 1.4
 MKLE 1.0.1
 MKMeans 3.4.4
 MKmisc 2.0
@@ -16595,7 +16595,7 @@ ppforest2 0.1.2
 ppgam 1.0.2
 ppgm 1.1
 ppgmmga 1.3.1
-pphotspot 0.1-2
+pphotspot 0.1-3
 ppitables 0.6.1
 ppks 1.0
 pplot 0.9
@@ -19139,7 +19139,7 @@ RobustIV 0.3.1
 RobustLinearReg 1.2.0
 robustlm 0.1.0
 robustlmm 3.5.0-2
-RobustLPA 1.0.0
+RobustLPA 1.1.0
 robustmatrix 0.1.5
 RobustMediate 0.1.1
 robustmeta 1.2-1
@@ -20459,7 +20459,7 @@ sepkoski 0.0.1
 SepTest 0.0.1
 seq2R 2.0.1
 SeqAlignR 0.1.1
-seqcomp 0.1.0
+seqcomp 0.3.0
 seqDesign 1.2
 SeqExpMatch 0.1.1
 seqgendiff 1.2.4
@@ -23287,7 +23287,7 @@ tinylabels 0.2.5
 tinylens 0.1.0
 tinyoauth 0.1.1
 tinypkgr 0.2.2
-tinyplot 0.7.0
+tinyplot 0.8.0
 tinyrox 0.4.1
 tinyroxygen 0.1
 tinyscholar 0.1.7
@@ -24994,7 +24994,7 @@ xlsx2dfs 0.1.0
 xlsxjars 0.9.0
 xmap 0.2.0
 xmeta 1.3.3
-XML 3.99-0.24
+XML 3.99-0.25
 xml2 1.6.0
 XML2R 0.0.9
 xml2relational 0.1.1
@@ -25156,7 +25156,7 @@ zlib 1.0.3
 zlog 1.0.2
 zmctp 0.1.3
 zmij 0.1.0
-zmisc 0.2.3
+zmisc 0.3.0
 zoeppritz 1.0-9
 zoib 1.6.1
 zoid 1.3.1

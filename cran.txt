@@ -1923,7 +1923,7 @@ blastula 0.3.6
 blatent 0.1.3
 Blaunet 3.0.0
 blavaan 0.6-1
-Blend 0.1.2
+Blend 0.1.3
 blendR 1.0.0
 blends 0.1.2
 Blendstat 1.0.6
@@ -2119,7 +2119,7 @@ bossR 1.0.4
 botor 0.4.1
 BoundaryStats 2.3.0
 BoundEdgeworth 0.1.3
-boundedur 1.0.1
+boundedur 1.0.3
 boundingbox 1.0.1
 BoundIRT 0.8.0
 boussinesq 1.0.6
@@ -3494,7 +3494,7 @@ COINT 0.0.4
 cointests 1.0.0
 cointmonitoR 0.1.0
 cointReg 0.2.0
-cointsmall 1.0.2
+cointsmall 1.0.4
 col2hex2col 0.5.3
 cold 2.0-3
 coldrift 0.1.1
@@ -3571,7 +3571,7 @@ combss 0.1.0
 comclim 0.9.6
 cometr 0.4.0
 comets 0.2-2
-comexr 0.3.0
+comexr 0.4.0
 comf 0.1.12
 comFuncs 0.0.6
 ComICS 1.0.4
@@ -5526,7 +5526,7 @@ DRsurvCRT 0.0.1
 drtmle 1.1.2
 drugDemand 0.1.3
 drugdevelopR 1.0.2
-DrugExposureDiagnostics 1.1.10
+DrugExposureDiagnostics 1.2.0
 drugprepr 0.0.7
 drugsens 0.1.0
 DrugSim2DR 0.1.2
@@ -6901,7 +6901,7 @@ fastNaiveBayes 2.2.1
 fastnet 1.0.0
 fastOnlineCpt 1.0
 FastPCS 0.1.4
-fastPLS 0.2
+fastPLS 0.3
 fastplyr 0.9.92
 fastpng 0.1.9
 fastpolicytree 1.0
@@ -10770,7 +10770,7 @@ JamendoR 0.1.1
 JANE 2.1.0
 janeaustenr 1.0.0
 janitor 2.2.1
-janssonr 0.1.2
+janssonr 0.1.3
 janus 1.0.0
 janusplot 0.1.1
 JapanAPIs 0.1.1
@@ -12769,7 +12769,7 @@ metatools 0.3.0
 metaumbrella 1.1.0
 MetaUtility 2.1.2
 metavcov 2.1.5
-metaviz 0.3.1
+metaviz 0.4.0
 metawho 0.2.0
 MetBrewer 0.2.0
 meteo 2.0-5
@@ -17809,7 +17809,7 @@ Rbent 0.1.0
 RBesT 1.12-0
 rBeta2009 1.0.1
 RBF 2.1.1
-rbfmvar 2.0.2
+rbfmvar 2.1.0
 rbgm 0.2.0
 rbi 1.0.1
 rbi.helpers 0.4.1
@@ -19053,7 +19053,7 @@ rncl 0.8.10
 RND 1.2
 rNeighborGWAS 1.2.5
 rNeighborQTL 1.1.2
-RNentropy 1.2.3
+RNentropy 1.3.3
 rneos 0.4-1
 Rnest 1.3
 rnetcarto 0.2.6
@@ -19500,7 +19500,7 @@ RSCAT 1.1.3
 rscc 0.2.1
 RScelestial 1.0.4
 RSclient 0.7-12
-rsconnect 1.11.1
+rsconnect 1.11.2
 rscontract 0.1.2
 rscopus 0.9.0
 rscorecard 0.33.0
@@ -19772,7 +19772,7 @@ rvmprior 0.1.0
 rvolleydata 2.0.0
 Rvoterdistance 2.0.0
 rvtk 0.1.3
-rwa 1.0.0
+rwa 1.0.1
 rwalkr 0.5.7
 rwarrior 0.4.1
 Rwave 2.6-5
@@ -20569,7 +20569,7 @@ sfnetworks 0.6.6
 SFOCDs 1.2.0
 sfOpenData 0.1.2
 SFPL 1.0.1
-sfReapportion 0.2.0
+sfReapportion 0.2.2
 sfsmisc 1.1-26
 sft 2.4
 sftime 0.3.2
@@ -23408,7 +23408,7 @@ tmvmixnorm 1.2.0
 tmvnsim 1.0-2
 tmvtnorm 1.7
 tmvtnsim 0.1.4
-tna 1.2.3
+tna 1.3.1
 TNC 0.1.0
 tndata 0.1.0
 tnet 3.0.16
@@ -23564,7 +23564,7 @@ tramnet 0.0-991
 TRAMPR 1.0-10
 tramvs 0.0-9
 transDA 1.0.3
-transferegovr 0.1.0
+transferegovr 0.2.0
 transforEmotion 0.1.7
 Transform 1.1
 transform.hazards 0.1.1
@@ -23902,7 +23902,7 @@ tvtools 0.0.3
 twang 2.6.2
 twangContinuous 1.0.0
 twangMediation 1.2.1
-twbparser 0.5.0
+twbparser 0.5.1
 twc 0.0.2
 twdtw 1.0-1
 tweedie 3.1.0
@@ -24070,7 +24070,7 @@ unitedR 0.4
 unitizer 1.4.24
 UnitMix 0.0.1
 unitquantreg 0.0.6
-unitrootests 1.1.0
+unitrootests 1.1.2
 units 1.0-1
 UnitStat 1.1.0
 unittest 1.7-0
@@ -24537,7 +24537,7 @@ VPdtw 2.2.1
 vprint 1.5
 vrnmf 1.0.2
 vroom 1.7.1
-vrpr 0.1.1
+vrpr 0.2.0
 vrtest 1.2
 vscc 0.8
 vse4ts 1.0.0
@@ -25077,7 +25077,7 @@ xtdhcoint 1.0.1
 xtdml 0.1.13
 xtfifevd 1.0.2
 xtife 0.1.4
-xtpqardl 1.0.1
+xtpqardl 1.0.3
 xtranat 0.1.0
 xtrec 1.0.0
 xts 0.14.3

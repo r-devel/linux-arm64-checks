@@ -770,7 +770,7 @@ ARDECO 2.2.3
 ARDL 0.2.5
 ardl.nardl 1.3.0
 ardldml 0.1.0
-ardlverse 2.0.0
+ardlverse 2.0.2
 ards 0.1.3
 area 0.2.0
 areabiplot 1.0.0
@@ -1921,6 +1921,7 @@ blapsr 0.7.0
 blaster 1.0.9
 blastula 0.3.6
 blatent 0.1.3
+Blaunet 3.0.0
 blavaan 0.6-1
 Blend 0.1.2
 blendR 1.0.0
@@ -2923,7 +2924,7 @@ checkglobals 0.1.4
 checkhelper 1.0.1
 checkLuhn 1.1.0
 checkmate 2.3.4
-checkstring 0.2.0
+checkstring 0.2.1
 checkthat 0.1.0
 checktor 0.1.0
 cheddar 0.1-640
@@ -3012,7 +3013,7 @@ chronometre 0.0.2
 chronosphere 0.6.1
 chunked 0.6.2
 chunkhooks 0.0.1
-churon 0.1.12
+churon 0.1.13
 chyper 0.3.1
 ci 0.0.1
 cia 1.0.0
@@ -3023,6 +3024,7 @@ cicalc 0.2.2
 ciCalibrate 0.42.2
 cicerone 1.0.4
 CICI 1.0
+cidian 0.1.0
 ciecl 0.9.6
 CIEE 0.1.1
 cif 0.1.1
@@ -3780,6 +3782,7 @@ contdid 0.1.1
 contentanalysis 1.1.1
 contentid 0.0.19
 contentValidity 0.2.0
+contentvalidR 0.4.0
 conText 3.0.1
 contextFind 1.0.1
 contfrac 1.1-12
@@ -4434,7 +4437,7 @@ dabestr 2025.3.15
 dabr 0.0.4
 dacc 0.0-7
 DACF 1.1.0
-DACT 0.1.2
+DACT 1.0.0
 dad 4.1.6
 dadjoke 1.0
 dadjokeapi 1.0.2
@@ -6278,7 +6281,7 @@ epiflows 0.2.2
 EpiForsk 0.2.2
 epigraphdb 0.2.3
 epigrowthfit 0.15.4
-EpiILM 1.5.3
+EpiILM 1.5.4
 EpiILMCT 1.1.9
 EpiInvert 0.3.1
 epikit 0.2.0
@@ -6320,7 +6323,7 @@ epiviz 0.1.2
 epiworldR 0.14.0.0
 epiworldRcalibrate 0.1.4
 epiworldRShiny 0.2.3
-epizootic 2.0.0
+epizootic 2.1.0
 epkde 0.1.0
 EPLSIM 1.0.1
 eplusr 0.17.0
@@ -6399,6 +6402,7 @@ ERP 2.2
 ERPeq 0.1.0
 erplots 0.1.2
 ERPM 0.2.0
+ERRI 0.1.0
 errorist 0.1.3
 errorlocate 1.1.2
 errors 0.4.4
@@ -6983,7 +6987,7 @@ fctutils 0.0.7
 fcuk 0.2.0
 FCUSUM 1.0.0
 FCVAR 0.1.4
-FD 1.0-12.5
+FD 1.0-12.6
 fda 6.3.0
 fda.usc 2.2.0
 fda.vi 1.0.0
@@ -7204,6 +7208,7 @@ first 2.1
 Fiscal 1.0.2
 FiSh 1.1
 fishbc 0.2.2
+fishboot 1.0.3
 fishdata 1.0.1
 FishDiveR 1.1.0
 FisherEM 1.6
@@ -7397,7 +7402,7 @@ fmriAR 0.3.2
 fmrihrf 0.3.0
 fmriqa 0.5.0
 fMRIscrub 0.15.0
-fMRItools 0.7.2
+fMRItools 0.8.3
 fmsb 0.7.6
 FMsmsnReg 1.0
 FMStable 0.1-4
@@ -7552,7 +7557,7 @@ fptdApprox 2.5
 fqacalc 1.1.1
 fqadata 1.1.1
 fqar 0.5.6
-fqardl 1.0.4
+fqardl 1.0.5
 fr 0.5.2
 frab 0.0-7
 fracARMA 0.1.0
@@ -9634,6 +9639,7 @@ hippie 0.1.0
 hipread 0.2.6
 HiResTEC 0.63.1
 hirisplexr 0.1.0
+hIRT 0.4.0
 hisse 2.1.11
 HistDat 0.2.0
 HistData 1.1.0
@@ -10005,7 +10011,7 @@ icensmis 1.5.0
 icertool 0.0.3
 icesAdvice 2.1.1
 IceSat2R 1.1.0
-ICESat2VegR 0.0.2
+ICESat2VegR 0.0.3
 icesConnect 1.1.4
 icesDatras 1.4.1
 icesDatsu 1.2.1
@@ -11966,7 +11972,7 @@ lsl 0.5.6
 lslx 0.6.11
 lsm 0.2.1.5
 lsmeans 2.30-2
-LSMjml 0.6.0
+LSMjml 0.7.0
 LSMonteCarlo 1.0
 lsoda 1.2
 lspartition 0.5
@@ -12521,7 +12527,7 @@ MDaRes 0.0.2
 mdatools 0.16.0
 mdbplyr 0.4.1
 mdbr 0.4.0
-mdbx 0.1.0
+mdbx 0.1.1
 MDCcure 0.1.0
 MDDC 1.1.0
 mddmaps 1.3.0
@@ -12889,7 +12895,7 @@ micEconIndex 0.1-8
 micEconSNQP 0.6-10
 miceDRF 0.1.0
 miceFast 0.9.1
-micemd 1.10.1
+micemd 1.11.0
 micer 0.2.1
 miceRanger 1.5.0
 michelRodange 1.0.0
@@ -15489,7 +15495,7 @@ panelr 1.0.1
 PanelSelect 1.0.1
 panelsummary 0.1.3
 panelSUR 0.1.0
-paneltests 1.0.5
+paneltests 1.0.6
 PanelTM 1.1
 panelTool 0.1.0
 panelvar 0.5.6
@@ -15877,7 +15883,6 @@ permChacko 1.0.1
 PermCor 0.1.0
 permimp 1.1-0
 permPATH 1.3
-permRand 1.0.0
 perms 1.14
 permubiome 1.3.2
 permuco 1.1.3
@@ -15923,7 +15928,7 @@ pez 1.2-5
 PFCI 0.1.1
 pfclust 0.1.1
 pfica 0.1.3
-PFIM 7.0.3
+PFIM 8.0
 PFLR 1.1.0
 pfr 1.0.1
 pft 1.0.1
@@ -15958,7 +15963,7 @@ phantSEM 1.0.1
 pharmaRTF 0.1.5
 pharmaverse 0.0.2
 pharmaverseadam 1.3.0
-pharmaverseadamjnj 0.0.6
+pharmaverseadamjnj 0.0.7
 pharmaverseraw 0.1.1
 pharmaversesdtm 1.5.0
 pharmaversesdtmjnj 0.0.6
@@ -16162,7 +16167,7 @@ PKconverter 1.5
 pkdata 0.1.0
 pkgbuild 1.4.8
 pkgcache 2.2.5
-pkgcheck 0.3.0
+pkgcheck 0.3.1
 pkgcond 0.1.1
 pkgconfig 2.0.3
 pkgdepends 0.9.1
@@ -17244,6 +17249,7 @@ qif 1.5.1
 qiitr 0.1.1
 Qindex 0.2.1
 Qindex.data 0.1.4
+qio 0.1.0
 qkiosk 0.2.31
 qlcal 0.1.3
 qlcData 0.3
@@ -17344,7 +17350,7 @@ QuadratiK 1.2.0
 QuadRoot 0.2.1
 quadrupen 1.1-0
 quadVAR 0.1.2
-quak 0.1.0
+quak 0.1.1
 qualitycontrol 0.1.0
 QualityMeasure 2.0.2
 quallmer 0.4.0
@@ -20840,7 +20846,7 @@ SIDES 1.18
 sidier 4.1.1
 sidra 0.2.0
 SidraFacil 1.0.2
-sidrar 0.5.1
+sidrar 0.6.0
 Sie2nts 0.1.0
 siebanxicor 1.0.0
 SiER 0.1.0
@@ -21650,7 +21656,7 @@ SpecHelpers 0.3.2
 SPECIES 1.2.0
 specieschrom 1.0.0
 SPECK 1.0.1
-specmine 4.0.0
+specmine 4.0.1
 specmine.datasets 0.0.3
 specr 1.0.0
 specs 1.0.1
@@ -21791,7 +21797,7 @@ spork 0.3.5
 sport 0.2.2
 SportMiner 0.1.0
 SPORTSCausal 1.0
-sportsfeatures 0.2.0
+sportsfeatures 0.3.0
 sportsR 0.1.0
 SportsTour 0.1.0
 sportyR 2.2.3
@@ -22629,6 +22635,7 @@ syn 0.1.0
 synadam 0.3.3
 sync3d 0.1.1
 syncdr 0.1.2
+SyncERdata 1.0.0
 synchronicity 1.3.10
 synchrony 0.3.9
 SynchWave 1.1.2
@@ -22919,6 +22926,7 @@ tensorTS 1.0.3
 tensr 1.0.2
 tepr 1.1.17
 TEQR 6.0-0
+tera 0.1.0
 tergm 4.2.2
 tergmLite 2.6.1
 tergo 0.1.9
@@ -24019,7 +24027,7 @@ uncertainUCDP 0.7.6
 uncmbb 0.2.2
 uncorbets 0.1.2
 UNCOVER 1.1.0
-underdisp 0.1.0
+underdisp 0.1.1
 undidR 3.0.2
 undomanager 0.1.0
 unexcel 0.2.0

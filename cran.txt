@@ -12118,7 +12118,7 @@ maGUI 4.0
 maicChecks 0.3.0
 maicplus 0.1.2
 MAICtools 0.1.1
-maidr 0.4.0
+maidr 0.5.0
 MAIHDA 0.2.1
 mailchimpR 0.1.0
 mailmerge 0.2.5
@@ -22953,7 +22953,7 @@ tergo 0.1.9
 term 0.4.0
 terminaldigits 0.1.0
 terminalgraphics 0.3.0
-tern 0.9.11
+tern 0.9.12
 tern.gee 0.1.5
 tern.mmrm 0.3.3
 Ternary 2.3.7
@@ -24506,7 +24506,7 @@ vivid 0.3.0
 vivo 0.2.1
 vizClust 0.1.0
 vizdraws 2.0.0
-VizModules 0.4.0
+VizModules 0.5.0
 VizTest 0.8
 vkR 0.2
 VLF 1.1-3

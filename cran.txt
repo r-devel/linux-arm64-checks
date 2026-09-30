@@ -413,7 +413,7 @@ AirScreen 0.1.0
 airship 1.4.3
 airt 0.2.2
 aiRthermo 1.2.2
-AISanalyze 3.1.2
+AISanalyze 3.1.3
 AIscreenR 0.4.0
 aisdk 1.4.12
 aisdk.providers 0.1.0
@@ -836,7 +836,7 @@ arrowheadr 1.0.2
 ars 0.8
 arsenal 3.7.1
 arthistory 0.1.0
-artma 0.4.1
+artma 0.5.0
 ARTofR 0.4.1
 artoo 0.2.0
 ARTool 0.11.2
@@ -955,7 +955,7 @@ ATR 0.1-1
 atRisk 0.2.0
 atrrr 0.2.0
 aTSA 3.1.2.1
-attachment 1.1.0
+attachment 1.2.0
 attempt 0.3.1
 attention 0.4.0
 attestix 0.4.1
@@ -1182,7 +1182,6 @@ banR 0.2.4
 banter 0.9.8
 banxicoR 0.9.0
 baorista 0.2.1
-bapred 1.1
 BAQM 0.1.4
 BAR 0.1.1
 BarBorGradient 1.0.5
@@ -1331,7 +1330,7 @@ bayesiansurpriser 0.1.0
 BayesianTools 0.1.9
 Bayesiantreg 1.0.1
 bayesianVARs 0.1.8
-bayesics 3.0.2
+bayesics 3.1.0
 bayesImageS 0.7-1
 BayesLCA 1.9
 bayesLife 5.3-1
@@ -1702,7 +1701,7 @@ bignum 0.3.2
 bigparallelr 0.3.2
 bigPCAcpp 0.9.1
 bigPLScox 0.8.1
-bigPLSR 0.7.2
+bigPLSR 0.8.0
 BIGpopA 2.0.0
 bigQF 1.6
 BIGr 0.7.2
@@ -2165,7 +2164,7 @@ bracer 1.2.2
 bracketeer 0.1.1
 BRACoD.R 0.0.2.0
 brada 1.0
-BradleyTerry2 1.1.3
+BradleyTerry2 1.1.4
 braggR 0.1.1
 braidReports 1.0.5
 braidrm 1.0.6
@@ -2831,7 +2830,7 @@ Certara.RsNLME 3.2.0
 Certara.RsNLME.ModelBuilder 3.0.1
 Certara.RsNLME.ModelExecutor 3.1.0
 Certara.VPCResults 3.0.2
-Certara.Xpose.NLME 2.0.2
+Certara.Xpose.NLME 2.1.0
 certify 0.1.0
 ces 1.1.0
 ceser 1.0.0
@@ -2958,7 +2957,7 @@ chessResults 2026.08.27
 chest 0.3.7
 chestR 0.1.0
 ChestVolume 1.0.1
-chevron 0.2.14
+chevron 0.2.15
 chi 0.1
 chicane 0.1.8
 childdevdata 1.1.0
@@ -3476,7 +3475,7 @@ coglasso 1.1.1
 coglyphr 1.1.0
 cogmapr 0.9.5
 cogmod 0.3.3
-cograph 2.4.4
+cograph 2.7.2
 cohetsurr 2.0
 cohortBuilder 1.0.0
 CohortCharacteristics 1.1.3
@@ -4534,7 +4533,7 @@ datacult 0.1.0
 datacutr 0.2.4
 datadict 0.1.0
 datadictionary 1.0.1
-datadiff 0.6.0
+datadiff 0.6.1
 DataDNA 0.1.0
 datadogr 0.1.2
 datadriftR 1.1.0
@@ -4791,7 +4790,7 @@ deepMOU 0.1.1
 deepnet 0.2.1
 deepNN 1.2
 deepRstudio 0.0.9
-deepspat 0.3.3
+deepspat 0.3.4
 deepSTRAPP 1.1.0
 deeptime 2.4.0
 deeptimedata 1.0.0
@@ -5792,7 +5791,7 @@ easyScieloPack 0.1.1
 easySdcTable 1.1.2
 EasyStat 2.0.0
 easystats 0.7.6
-easysurv 2.0.2
+easysurv 2.0.3
 easySVG 0.1.0
 easytable 2.1.1
 easyVerification 0.4.5
@@ -5991,7 +5990,7 @@ EEML 0.1.1
 eemR 1.0.2
 eeptools 1.3.0
 ef 1.2.0
-EFA.dimensions 0.1.9.1
+EFA.dimensions 0.1.9.2
 EFA.MRFA 1.1.2
 EFAfactors 1.2.4
 EFAtools 1.1.0
@@ -7502,7 +7501,7 @@ forestly 0.1.6
 forestmangr 0.9.9
 forestmodel 0.6.2
 forestplot 3.2.0
-forestploter 1.1.4
+forestploter 1.2.0
 forestr 2.0.2
 forestry 0.1.1
 forestSAS 2.0.5
@@ -7806,7 +7805,6 @@ FuzzyNumbers 0.4-7
 FuzzyPovertyR 3.0.2
 FuzzyQ 0.1.0
 FuzzyR 2.3.2
-fuzzyRankTests 0.5
 FuzzyResampling 0.6.4
 fuzzySim 4.60
 FuzzySimRes 0.4.8
@@ -8304,7 +8302,7 @@ GFD 0.3.3
 GFDmcv 0.1.0
 GFDrmst 0.1.1
 GFDrmtl 0.1.0
-GFDsurv 0.1.2
+GFDsurv 0.1.3
 GFE 0.1.2
 gfer 0.1.12
 GFFStrandLoc 0.1.0
@@ -8503,7 +8501,7 @@ ggpointdensity 0.2.1
 ggpointless 0.3.0
 ggpolar 0.2.2
 ggpolypath 0.4.0
-ggpop 1.8.0
+ggpop 1.9.0
 ggpower 0.1.2
 ggpp 0.6.1
 ggprism 1.0.7
@@ -8573,7 +8571,7 @@ ggsurveillance 0.5.2
 ggsurvey 1.0.0
 ggsurvfit 1.2.1
 ggswissmaps 0.1.2
-ggtaichi 0.2.0
+ggtaichi 0.3.0
 ggtangle 0.1.3
 ggtea 0.1.1
 ggtern 4.0.0
@@ -10154,7 +10152,7 @@ igoR 1.1.0
 IgorR 0.9.0
 IGPFrailty 0.1.0
 igr 1.0.1
-igraph 2.3.3
+igraph 2.3.4
 igraphdata 1.0.1
 igraphinshiny 0.1
 iGraphMatch 2.0.5
@@ -10307,7 +10305,7 @@ IndependenceTests 0.8
 independenceWeights 0.0.1
 IndepTest 0.2.0
 index0 0.0.1
-IndexConstruction 0.1-3
+IndexConstruction 0.2-1
 IndexNumber 1.3.2
 IndexNumberTools 1.1
 IndexNumR 0.6.0
@@ -10375,7 +10373,7 @@ informativeSCI 1.0.4
 INFOSET 4.1.1
 infotest 0.1.0
 infotheo 1.2.0.1
-infoxtr 0.2
+infoxtr 0.3
 Infusion 2.3.12
 ingredients 2.3.0
 ini 0.3.1
@@ -13241,7 +13239,7 @@ MLmetrics 1.1.3
 mlmhelpr 0.1.1
 mlmi 1.1.3
 MLML2R 0.3.3
-mlmoderator 0.2.1
+mlmoderator 0.3.0
 MLMOI 0.1.2
 MLmorph 0.1.1
 mlmpower 1.0.11
@@ -13431,7 +13429,7 @@ modeltests 0.1.8
 modeltime 1.3.5
 modeltime.ensemble 1.1.0
 modeltime.resample 0.3.0
-modeltools 0.2-24
+modeltools 0.2-25
 modeltuning 0.1.4
 moder 0.2.1
 moderate.mediation 0.0.12
@@ -13475,7 +13473,6 @@ MolgenisArmadillo 3.0.0
 MolgenisAuth 1.0.0
 MOLHD 0.2
 MOM 0.1.0
-mombf 3.5.4
 momentchi2 0.1.5
 momentfit 1.0
 moments 0.14.1
@@ -14049,7 +14046,7 @@ MVPBT 1.2-1
 mvpd 0.0.5
 mvPot 0.1.7
 mvPred 0.1.0
-mvProbit 0.1-10
+mvProbit 0.1-12
 mvQuad 1.0-10
 MVQuickGraphs 0.1.2
 MVR 1.33.0
@@ -14303,7 +14300,7 @@ NetOrigin 1.1-7
 netpanel 0.0.1
 netplot 0.4-0
 NetPreProc 1.2
-netrankr 1.2.4
+netrankr 2.0.0
 NetRep 1.2.10
 netrics 1.0.3
 netropy 0.3.0
@@ -14312,13 +14309,13 @@ netseer 0.1.3
 netseg 1.0-3
 netSEM 0.7.0
 netsimhelpers 0.1.0
-NetSimR 0.3.1
+NetSimR 0.3.2
 netstat 0.1.2
 netsubsamp 1.0.0
 NetSurvProx 1.0.0
 nett 1.0.0
 nettskjemar 1.0.4
-netUtils 0.8.6
+netUtils 1.0.0
 NetVAR 0.1-2
 NetWeaver 1.0.0
 network 1.20.0
@@ -14497,7 +14494,7 @@ nlmixr2lib 0.3.2
 nlmixr2plot 5.2.0
 nlmixr2rpt 0.2.3
 nlmixr2save 0.2.1
-nlmixr2scm 0.4
+nlmixr2scm 0.4.1
 nlmixr2targets 0.1.0
 nlmixr2utils 0.3.1
 nlmm 1.1.1
@@ -14883,7 +14880,7 @@ ocp 0.1.1
 ocrRBBR 0.1.0
 ocs4R 0.3.1
 OCSdata 1.0.2
-octawave 0.1.0
+octawave 0.1.1
 octopucs 0.1.1
 octopus 0.4.2
 octopusR 1.0.1
@@ -15085,7 +15082,7 @@ opencis 0.1.2
 OpenCL 0.2-11
 opencltools 0.8.3
 opencpu 2.2.15
-openCR 2.2.7
+openCR 2.2.8
 opencv 0.6.1
 opendataformat 2.2.2
 opendatatoronto 0.1.6
@@ -15157,7 +15154,7 @@ opticskxi 1.2.2
 opticut 0.1-4
 optifunset 1.0
 optim.functions 0.1
-OptimalBinningWoE 1.13.5
+OptimalBinningWoE 1.14.0
 OptimalCutpoints 1.1-5
 OptimalDesign 1.0.3
 optimall 1.4.0
@@ -15969,7 +15966,7 @@ pgam 0.4.17
 PGaovR 0.1.1
 pgdraw 1.1
 pgee.mixed 0.1.0
-pgenlibr 0.6.2
+pgenlibr 0.7.0
 pgirmess 2.0.3
 pgKDEsphere 1.0.2
 pglm 0.2-4
@@ -16166,6 +16163,7 @@ pipeflow 0.4.0
 pipeliner 0.1.1
 pipeR 0.6.1.3
 pipetime 0.0.1
+pipr 1.5.0
 piqp 0.6.2
 piratings 0.1.9
 pisaRT 2.0.2
@@ -16452,7 +16450,7 @@ polished 0.8.1
 PolisheR 1.1.1
 politeness 0.9.4
 politicsR 0.1.0
-polle 1.6.4
+polle 1.6.5
 pollen 0.83.0
 pollster 0.1.7
 polmineR 0.8.9
@@ -16813,7 +16811,7 @@ prioritizr 9.0.1
 prioritizrdata 0.3.3
 priorityelasticnet 1.2.1
 prioritylasso 0.4.0
-priorsense 1.2.0
+priorsense 1.4.0
 prism 0.3.0
 PRISM.forecast 0.2.1
 PRISMA 0.2-7
@@ -17062,7 +17060,7 @@ PSW 1.1-3
 PSweight 2.1.2
 psy 1.2
 psycCleaning 0.1.1
-psych 2.6.5
+psych 2.6.9
 psychmeta 2.7.0
 psychnets 0.5.2
 psycho 0.6.2
@@ -17112,7 +17110,7 @@ pubh 3.0.0
 public.ctn0094data 1.1.0
 public.ctn0094extra 1.0.4
 PublicationBias 2.4.0
-PublicationBiasBenchmark 0.2.1
+PublicationBiasBenchmark 0.3.0
 publipha 0.1.2
 Publish 2025.07.24
 PubMatrixR 1.0.1
@@ -17134,7 +17132,7 @@ pumBayes 1.0.2
 pumilioR 1.3.1
 PUMP 1.0.5
 puniform 0.2.8
-punycoder 1.2.1
+punycoder 1.3.0
 PUPAK 0.1.1
 PupillometryR 0.0.7
 PupilPre 0.6.3
@@ -17437,6 +17435,7 @@ quasar 0.2.1
 quaxnat 1.0.1
 QuClu 1.0.1
 queryBuilder 0.1.0
+querychat 0.4.1
 queryparser 0.3.2
 queryup 1.0.5
 quest 0.2.1
@@ -18025,7 +18024,7 @@ RcppEnsmallen 0.3.11.0.1
 RcppExamples 0.1.11
 RcppFarmHash 0.0.4
 RcppFastAD 0.0.5
-RcppFastFloat 0.0.5
+RcppFastFloat 0.0.6
 RcppGetconf 0.0.4
 RcppGreedySetCover 0.1.1
 RcppGSL 0.3.14
@@ -18326,7 +18325,7 @@ refineR 2.0.0
 refinr 0.3.3
 refitgaps 0.1.2
 refitME 1.3.1
-reflectR 2.1.4
+reflectR 2.2.0
 reflimR 1.1.0
 RefManageR 1.4.0
 reformulas 0.4.4
@@ -18879,6 +18878,7 @@ rJava 1.0-18
 rJavaEnv 0.3.0
 rjd3bench 3.1.3
 rjd3jars 0.0.6
+rjd3production 1.2.0
 rjd3providers 3.9.0
 rjd3qr 0.4.2
 rjd3toolkit 3.9.0
@@ -19724,7 +19724,7 @@ rtodoist 0.4.0
 rtoot 1.0.0
 rtop 0.6-17
 rTPC 1.1.0
-rtpcr 2.1.9
+rtpcr 2.2.0
 Rtrack 2.0.4
 RTransferEntropy 0.2.21
 rtransparency 1.2.0
@@ -21022,7 +21022,7 @@ SimpleUpset 0.1.6
 simplexgof 0.1.0
 SimplexRegression 0.1.6
 SIMPLICA 1.0.0
-SimplicialComplex 0.1.2
+SimplicialComplex 0.2.1
 SimplicialCubature 1.3
 simplifyNet 0.0.1
 SimplyAgree 0.3.0
@@ -21620,7 +21620,7 @@ spatialreg.hp 0.0-2
 SpatialRegimes 1.2
 spatialRegroup 0.1.0
 spatialRF 1.1.5
-spatialrisk 0.8.2
+spatialrisk 0.8.3
 SpatialRoMLE 0.1.1.1
 spatialsample 0.6.1
 spatialTIME 1.3.4-5
@@ -21971,7 +21971,7 @@ ssimparser 0.1.2
 ssize.fdr 1.3
 ssizeRNA 1.3.3
 SSLASSO 1.2.3
-SSLfmm 0.2.1
+SSLfmm 0.2.2
 SSM 1.0.1
 ssmn 1.1
 ssmodels 2.0.2
@@ -22930,7 +22930,7 @@ Tejapi 1.0.1
 tejoR 0.2.2
 telegram 0.7.1
 telegram.bot 3.0.2
-telegramR 0.0.1
+telegramR 0.0.2
 telemetR 1.0
 telescope 0.2-2
 TELP 1.0.3
@@ -23042,6 +23042,7 @@ text2emotion 0.1.0
 text2map 0.4.0
 text2sdg 1.1.2
 text2sdgData 0.1.1
+text2speech 1.2.0
 text2vec 0.6.6
 textab 1.0.1
 TextAnalysisR 0.1.5
@@ -23414,7 +23415,7 @@ TLMoments 0.7.5.3
 tlrmvnmvt 1.1.2.1
 tls 0.1.0
 tlsR 0.3.0
-tm 0.7-19
+tm 0.7-20
 tm.plugin.alceste 1.1.2
 tm.plugin.dc 0.2-10
 tm.plugin.europresse 1.4.1
@@ -24818,6 +24819,7 @@ WhatsR 1.0.6
 whatthreewords 0.1.3
 wheatmap 0.2.4
 when 1.0.0
+whep 0.3.1
 where 1.0.0
 whereami 0.2.0
 whereport 0.1
@@ -25178,7 +25180,7 @@ YPmodel 1.4
 YPmodelPhreg 1.0.0
 YPPE 1.0.1
 ypr 0.6.0
-yrnd 0.1.6
+yrnd 0.1.7
 YTAnalytics 0.2.1
 yuima 1.15.34
 yuimaGUI 1.4.0

@@ -440,7 +440,7 @@ ALDEx3 1.3.1
 ALDqr 1.0
 aldvmm 0.9.0
 ale 0.5.3
-alepe 0.1.0
+alepe 0.1.1
 ALFAM2 4.2.14
 alfr 1.2.1
 alfred 0.2.1
@@ -12214,7 +12214,7 @@ mapmixture 1.2.0
 mapnhanespa 0.2.0
 maposm 0.5.1
 mappeR 2.4.0
-MapperAlgo 1.2.0
+MapperAlgo 1.3.0
 mappestRisk 0.1.2
 mappingAS 1.13.2
 MappingCalc 2.0.0

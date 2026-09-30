@@ -24795,7 +24795,6 @@ WhatsR 1.0.6
 whatthreewords 0.1.3
 wheatmap 0.2.4
 when 1.0.0
-whep 0.3.0
 where 1.0.0
 whereami 0.2.0
 whereport 0.1

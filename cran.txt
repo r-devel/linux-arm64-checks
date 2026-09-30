@@ -98,6 +98,7 @@ acopula 0.9.4
 acoRn 0.1.0
 acousticTS 2.0.6
 acR 0.3.4
+ACRER 1.0.1
 acro 1.0.0
 acroname 0.1.0
 acsmoe 0.1.0
@@ -224,6 +225,7 @@ adjustr 0.2.0
 adklakedata 0.7.1
 adlift 1.4-6
 ADLP 0.1.0
+admetshiny 1.0.0
 admiral 1.5.0
 admiraldev 1.5.0
 admiralmetabolic 0.3.0
@@ -2410,6 +2412,7 @@ caesar 1.1.0
 CAESAR.Suite 0.3.0
 caffsim 0.2.2
 CAFT 0.1.0
+cagedr 0.1.0
 CAGR 1.1.1
 cAIC4 1.1
 CAinterprTools 1.1.0
@@ -3131,6 +3134,7 @@ clarabel 0.11.3
 clarify 0.2.3
 clarkeTest 0.2.0
 class 7.3-24
+classbound 1.0.0
 ClassComparison 3.3.6
 ClassDiscovery 3.4.11
 classGraph 0.7-7
@@ -3379,6 +3383,7 @@ CNAIM 2.1.4
 cnaOpt 0.5.3
 cnbdistr 1.0.1
 cncaGUI 1.1
+cncleanr 0.2.5
 cnd 0.1.1
 cnefetools 0.2.5
 CNID 2.1.1
@@ -5868,6 +5873,7 @@ EcoDiet 2.0.1
 ecodist 2.1.3
 ecodive 2.2.6
 EcoEnsemble 1.2.0
+ecoGLMM 0.1.3
 Ecohydmod 1.0.0
 ECoL 0.4.4
 ecolMod 1.2.6.4
@@ -6451,6 +6457,7 @@ estadistica 1.2.2
 estar 2.0-0
 estatapi 0.4.0
 estats 1.1
+estbanr 0.1.1
 EstCRM 1.6
 EstemPMM 0.5.0
 EstHTSeed 0.1.0
@@ -6840,6 +6847,7 @@ far 0.6-7
 faraway 1.0.9
 FARDEEP 1.0.1
 farff 1.1.1
+FARM 0.1.5.15
 farmPartial 0.1.0
 farr 1.0.1
 farrell 0.2.1
@@ -6930,6 +6938,7 @@ fastRG 0.4.0
 fastRhockey 1.0.0
 fastrmodels 2.1.0
 FastRWeb 1.2-3
+fastsae 0.1.0
 FastSegmentation 0.0.1
 FastStepGraph 0.1.1
 FastSurvival 1.0.0
@@ -8145,6 +8154,7 @@ gentransmuted 1.0
 genTS 0.1.4
 GenTwoArmsTrialSize 0.0.5
 GenWin 1.0
+geoaddSAE2 0.1.0
 GeoAdjust 2.0.1
 geoAr 1.2.2
 geoarrow 0.4.4
@@ -9353,6 +9363,7 @@ handwriterApp 2.0.0
 handwriterRF 1.1.1
 handyplots 1.1.3
 hann 1.2
+HanNLP 0.1.1
 hans 0.1
 HanStat 0.90.0
 hanyupinyin 0.1.3
@@ -9710,6 +9721,7 @@ hnp 1.2-7
 HNPclassifier 0.2.1
 hoardr 0.5.5
 HOasso 1.0.1
+hobbs 0.4.4
 hoboR 1.1.0
 hockeystick 1.0.0
 HodgesTools 1.0.0
@@ -11346,6 +11358,7 @@ LATERmodel 0.2.0
 latex2exp 0.9.8
 latexdiffr 0.2.0
 latexpdf 0.1.8
+latexr 0.3.0
 latexSymb 1.0.0
 latrend 1.6.3
 LatSquare 0.4.1
@@ -11617,6 +11630,7 @@ LimnoPalettes 0.1.0
 limonaid 25.5.5
 limorhyde 1.0.3
 limorhyde2 0.1.1
+limpidR 0.1.0
 limSolve 2.0.3
 lin.eval 0.1.2
 linbin 0.1.3
@@ -12988,6 +13002,7 @@ mimdo 0.1.0
 mime 0.13
 MIMER 1.0.6
 mimiSBM 0.0.1.3
+MIML 0.1.0
 MIMSunit 0.11.3
 mimsy 0.6.5
 min2HalfFFD 0.1.0
@@ -13166,6 +13181,7 @@ MixTwice 2.0
 mixvlmc 0.2.2
 mize 0.2.5
 mizer 3.4.0
+mizu 0.0.1
 MJMbamlss 0.1.0
 mKBO 0.1.0
 MKclass 0.5
@@ -14032,6 +14048,7 @@ mvp 1.1-1
 MVPBT 1.2-1
 mvpd 0.0.5
 mvPot 0.1.7
+mvPred 0.1.0
 mvProbit 0.1-10
 mvQuad 1.0-10
 MVQuickGraphs 0.1.2
@@ -15812,6 +15829,7 @@ pedbp 2.1.0
 pedbuildr 0.4.0
 pedFamilias 0.2.6
 pedgene 4.1
+pediatric.zcalc 0.1.1
 pedigree 1.4.2
 pedigreemm 0.3-5
 pedigreeTools 0.3
@@ -16746,6 +16764,7 @@ pressfreedom 0.2.0
 pressfreedom.data 0.3.0
 PressPurt 1.0.2
 pressuRe 0.2.7
+presto 1.1.0
 pretest 0.2
 pretestcad 1.2.0
 prettyB 0.2.2
@@ -17535,6 +17554,7 @@ r4subprofile 0.1.0
 r4subrisk 0.1.0
 r4subscore 0.1.0
 r4subtrace 0.1.0
+R4VN 1.6
 r5r 2.4.0
 r5rgui 0.2.0
 R6 2.6.1
@@ -20308,6 +20328,7 @@ sealasso 0.1-3
 sealeveltools 0.3.0
 searchAnalyzeR 0.1.0
 searcher 0.0.7
+searchlight 0.1.0
 SearchTrees 0.5.5
 SEARS 0.1.0
 seas 0.7-0
@@ -20474,6 +20495,7 @@ SensMap 0.7
 sensmediation 0.3.1
 sensobol 1.2.0
 SensoMineR 1.28
+sensorLeak 0.1.0
 sensortowerR 2.0.0
 sensory 1.1
 SensoryDataSets 0.1.0
@@ -22572,6 +22594,7 @@ SVMMaj 0.2.9.4
 svmodt 0.1.0
 svmpath 0.970
 SVN 1.0.1
+svpChange 0.2.0
 svplots 0.1.0
 svrep 0.9.1
 svrpath 0.1.2
@@ -25099,6 +25122,7 @@ xtdhcoint 1.0.1
 xtdml 0.1.13
 xtfifevd 1.0.2
 xtife 0.1.4
+xtifedml 0.1.4
 xtpqardl 1.0.3
 xtranat 0.1.0
 xtrec 1.0.0

@@ -773,7 +773,7 @@ ARDECO 2.2.3
 ARDL 0.2.5
 ardl.nardl 1.3.0
 ardldml 0.1.0
-ardlverse 2.0.2
+ardlverse 2.0.3
 ards 0.1.3
 area 0.2.0
 areabiplot 1.0.0
@@ -1469,7 +1469,7 @@ BCGcalc 2.3.1
 BCgee 0.1.1
 BCHM 1.00
 Bchron 4.7.8
-bclogit 1.1
+bclogit 1.1.1
 bcmaps 2.3.0
 bcmixed 0.1.6
 BCodifSIS 0.3.2
@@ -2655,7 +2655,7 @@ causalweight 1.1.6
 causalWins 0.1.0
 CausCor 0.1.3
 causens 0.0.3
-caustests 1.1.1
+caustests 1.1.4
 CautiousLearning 1.0.1
 CAvariants 6.0
 caverify 0.2.0
@@ -3492,7 +3492,7 @@ CohortSymmetry 0.3.0
 cohorttools 0.1.8
 CohortUtilisation 0.6.1
 CoImp 2.2
-coin 1.4-5
+coin 1.4-6
 coinclp 0.1.1
 coinmarketcapr 0.4
 CoinMinD 1.2.1
@@ -3727,7 +3727,7 @@ conformalInference.fd 1.1.1
 conformalInference.multi 1.1.2
 conformalpvalue 0.1.0
 ConformalSmallest 1.0
-confoundvis 0.1.0
+confoundvis 0.2.0
 confreq 1.6.1-3
 ConfusionTableR 1.0.4
 congress 0.1.0
@@ -3987,7 +3987,7 @@ countSTAR 1.2.1
 countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
-couplr 1.7.1
+couplr 1.8.0
 courieR 0.3.1
 coursekata 0.21.0
 covadap 1.0.1
@@ -4122,7 +4122,7 @@ cranly 0.6.0
 CRANsearcher 1.0.0
 crassmat 0.0.6
 crawl 2.3.1
-crawlee 0.1.0
+crawlee 0.1.1
 crayon 1.5.3
 crayons 0.0.4
 crbcc 0.1.0
@@ -4824,7 +4824,7 @@ deliberr 0.1.3
 delimtools 0.2.2
 delma 0.1.2
 Delta 0.2.0.3
-deltabreedquery 1.0.3
+deltabreedquery 1.0.4
 deltaccd 1.0.2
 DeltaMAN 0.5.0
 deltapif 0.4.5
@@ -5760,7 +5760,7 @@ EasyABC 1.6
 easyAHP 0.1.1
 easyalluvial 0.4.1
 easyanova 11.0
-easybgm 0.5.0
+easybgm 0.5.1
 easybio 1.2.3
 easycensus 1.1.4
 easyclimate 1.0.0
@@ -6218,7 +6218,7 @@ enpls 6.1.1
 EnrichIntersect 1.0
 enrichit 0.2.5
 enrichR 3.4
-enrichwith 0.5.0
+enrichwith 0.6
 enrollcast 0.1.0
 EnsCat 1.1
 ensembleBMA 5.1.8
@@ -6754,7 +6754,7 @@ fabPrediction 1.0.4
 fabR 2.1.1
 fabricatr 1.0.2
 fabricerin 0.1.2
-fabricQueryR 1.0.0
+fabricQueryR 1.0.1
 face 0.1-8
 facebookadsR 0.1.0
 facebookleadsR 0.1.0
@@ -6797,6 +6797,7 @@ FADA 1.3.5
 FAdist 2.4
 FADPclust 1.1.1
 faersquarterlydata 1.3.0
+FAfA 1.4
 fahb 1.0.1
 Fahrmeir 2016.5.31
 fail 1.3
@@ -6968,7 +6969,7 @@ favnums 1.0.0
 favr 2.0.0
 FAwR 1.2.0
 fb4package 2.1.0
-fbardl 1.0.2
+fbardl 1.1.0
 fBasics 4052.98
 fbati 1.0-11
 FBFsearch 1.3
@@ -7249,7 +7250,7 @@ fitbitViz 1.0.8
 FITclust 1.0.0
 fitConic 1.2.1
 fitdistcp 0.2.3
-fitdistrBayes 0.5.0
+fitdistrBayes 0.5.1
 fitdistrplus 1.2-6
 FitDynMix 1.0.2
 fitHeavyTail 0.2.0
@@ -7574,7 +7575,7 @@ fptdApprox 2.5
 fqacalc 1.1.1
 fqadata 1.1.1
 fqar 0.5.6
-fqardl 1.0.5
+fqardl 1.0.6
 fr 0.5.2
 frab 0.0-7
 fracARMA 0.1.0
@@ -7963,7 +7964,7 @@ gcdnet 1.0.6
 gcemod 0.3.0
 gcerisk 19.05.24
 GCEstim 1.1.0
-gcf 0.1.0
+gcf 0.1.1
 gchartsmap 1.0.2
 gcite 0.11.0
 gcKrig 1.1.8
@@ -9853,7 +9854,7 @@ hudr 1.2.0
 hues 0.2.0
 huge 2.0.1
 huggingfaceR 2.3.0
-huito 0.2.7
+huito 0.2.8
 HUM 2.0
 humanFormat 1.2
 humaniformat 0.6.0
@@ -10479,7 +10480,7 @@ intervals 0.15.5
 IntervalSurgeon 1.3
 intervcomp 0.1.2
 inTextSummaryTable 3.4.0
-inti 0.7.4
+inti 0.7.5
 intkrige 1.0.2
 intmap 1.0.0
 intmed 0.1.2
@@ -12413,7 +12414,7 @@ maxstablePCA 0.1.2
 maxstat 0.7-26
 MaxWiK 1.0.6
 maybe 1.1.0
-MazamaCoreUtils 0.6.2
+MazamaCoreUtils 0.6.3
 MazamaLocationUtils 0.4.5
 MazamaRollUtils 1.1.0
 MazamaSpatialPlots 0.3.0
@@ -13444,7 +13445,7 @@ modEvA 3.47
 modgo 1.1.0
 modi 0.1.3
 modifiedmk 1.6
-modisfast 1.0.2
+modisfast 2.0.0
 MODISTools 1.1.6
 ModLR 0.1.29
 modmarg 0.9.6
@@ -15562,6 +15563,7 @@ paramsim 0.1.0
 paramtest 0.1.1
 paran 1.5.6
 parasiteR 1.1.1
+ParBayesianOptimization 1.3.0
 parcats 0.1.0
 ParCC 1.4.0
 parcr 0.6.1
@@ -16597,7 +16599,7 @@ power.nb 0.1.0
 power.transform 1.0.5
 Power2Stage 0.5-4
 power4mome 0.2.1
-poweRbal 0.1.0
+poweRbal 0.1.1
 powerbiR 0.1.0
 powerbrmsINLA 1.3.0
 powerbydesign 1.0.5
@@ -16898,7 +16900,7 @@ projects 2.1.3
 ProjectTemplate 0.11.2
 projmgr 0.1.2
 projoint 1.1.4
-projpred 2.10.0
+projpred 2.11.0
 ProliferativeIndex 1.0.1
 prolific.api 0.5.2
 prolsirm 0.1.1
@@ -17207,7 +17209,7 @@ pzfx 0.3.1
 Q2q 0.1.2
 Q7 0.1.0
 qad 1.0.6
-qadf 1.0.0
+qadf 1.0.2
 QAEnsemble 1.0.0
 QAIG 0.1.7
 qap 0.1-2
@@ -17485,7 +17487,7 @@ R.devices 2.17.4
 R.filesets 2.15.1
 R.huge 0.10.1
 r.jive 2.4
-R.matlab 3.8.0
+R.matlab 3.8.1
 R.methodsS3 1.8.2
 R.oo 1.27.1
 r.proxy 0.1.4
@@ -18534,7 +18536,7 @@ resevol 0.4.1.1
 reshape 0.8.10
 reshape2 1.4.5
 RESI 1.5.1
-RESIDE 0.3.2
+RESIDE 0.4.0
 ResidentialEnergyConsumption 1.1.0
 resilience 2025.1.1
 ResIN 2.3.1
@@ -20544,7 +20546,7 @@ sequential.pops 0.1.1
 SequentialDesign 1.0
 sequoia 3.2.0
 seqwrap 0.8.1
-serad 0.2.4
+serad 0.2.5
 sergeant 0.9.1
 serial 3.1.1
 seriation 1.5.8
@@ -21325,7 +21327,7 @@ snakecase 0.11.1
 snakeplot 0.3.0
 snap 2.0.0
 snapchatadsR 0.1.0
-snapKrig 0.0.3
+snapKrig 0.0.4
 snapr 0.1.0
 snapshot 0.1.2
 snazzieR 0.1.2
@@ -22009,7 +22011,7 @@ ssw 0.2.1
 ssym 1.5.8
 st 1.2.7
 sta 0.1.7
-staat1cho 0.1.0
+staat1cho 0.2.0
 stabiliser 1.0.7
 stability 0.6.0
 StabilityApp 0.1.0
@@ -22035,7 +22037,7 @@ stagedtrees 2.3.0
 stagePop 1.1-2
 staggered 1.2.2
 staggeredGMM 0.1.0
-staggR 0.2.1
+staggR 0.2.2
 stagsynth 0.1.0
 StakeholderAnalysis 1.2
 StAMPP 1.6.3
@@ -22613,7 +22615,7 @@ svyLocAdj 1.0.1
 svymargins 0.1.0
 SvyNom 1.2
 svyROC 1.1.0
-svySE 0.2.1
+svySE 0.3.0
 svytest 1.1.0
 svyVarSel 1.0.1
 svyVGAM 1.3
@@ -22835,7 +22837,7 @@ taxalight 0.1.5
 TaxaNorm 2.4
 taxdiv 0.1.0
 TaxicabCA 0.1.2
-taxify 0.5.5
+taxify 0.6.0
 taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
@@ -24072,7 +24074,7 @@ uncertainUCDP 0.7.6
 uncmbb 0.2.2
 uncorbets 0.1.2
 UNCOVER 1.1.0
-underdisp 0.1.1
+underdisp 0.1.2
 undidR 3.0.2
 undomanager 0.1.0
 unexcel 0.2.0
@@ -24382,7 +24384,7 @@ VectorForgeML 0.1.0
 vectorialcalculus 1.0.5
 vectorsurvR 1.6.3
 vectorwavelet 0.1.0
-vectra 0.12.4
+vectra 0.13.0
 VectrixDB 1.1.2
 vecvec 1.3.0
 VedicDateTime 0.1.9
@@ -24583,7 +24585,7 @@ VPdtw 2.2.1
 vprint 1.5
 vrnmf 1.0.2
 vroom 1.7.1
-vrpr 0.2.0
+vrpr 0.2.1
 vrtest 1.2
 vscc 0.8
 vse4ts 1.0.0
@@ -24786,7 +24788,7 @@ weightedsurv 0.1.0
 WeightedTreemaps 0.1.4
 weightedVoronoi 1.1.1
 weightflow 1.3.0
-WeightIt 2.0.0
+WeightIt 2.1.0
 WeightMyItems 0.1.4
 weightQuant 1.0.1
 weightr 2.0.2
@@ -25118,7 +25120,7 @@ XSRecencyX 0.1.0
 xSub 3.0.2
 xtable 1.8-8
 xtbhst 1.0.2
-xtbreakcoint 1.0.4
+xtbreakcoint 1.0.6
 xtcspqardl 1.0.2
 xtdhcoint 1.0.1
 xtdml 0.1.13
@@ -25127,7 +25129,7 @@ xtife 0.1.4
 xtifedml 0.1.4
 xtpqardl 1.0.3
 xtranat 0.1.0
-xtrec 1.0.0
+xtrec 1.0.1
 xts 0.14.3
 xtsum 0.1.0
 xtvfreg 1.1.0

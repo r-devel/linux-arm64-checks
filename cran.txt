@@ -326,7 +326,7 @@ AggregateR 0.1.1
 aggregation 1.0.2
 aggTrees 2.1.0
 aggutils 1.0.2
-AGHmatrix 3.0.1
+AGHmatrix 3.0.3
 aghq 0.4.1
 aglm 0.4.1
 agop 0.2.4
@@ -2644,7 +2644,7 @@ causalPAF 1.2.5
 causalplot 0.2.1
 causalQual 1.0.0
 CausalQueries 1.4.6
-causalreg 0.1.2
+causalreg 0.3.0
 causalsens 0.1.3
 causalsim 0.1.0
 causalSLSE 0.4-1
@@ -3076,7 +3076,7 @@ CircNNTSRmult 0.1.0
 CircNNTSRSymmetric 0.1.0
 CircOutlier 3.2.3
 CircStats 0.2-7
-circuitscaper 0.1.0
+circuitscaper 0.1.1
 circular 0.5-2
 CircularBoxplots 0.1.2
 CircularDDM 0.1.0
@@ -3163,7 +3163,7 @@ cleangeo 0.3-2
 CleaningValidation 1.0
 cleanNLP 3.1.0
 cleanr 1.4.0
-cleanrmd 0.1.1
+cleanrmd 0.2.0
 cleanTS 0.1.2
 cleaR 0.0.4
 clevr 0.1.2
@@ -3977,7 +3977,7 @@ countmaskr 0.1.1
 countprop 1.1.1
 Countr 3.6.1
 countries 1.2.4
-countryatlas 2.0.1
+countryatlas 3.0.0
 countrycode 1.9.0
 countryscales 0.3.0
 CountsEPPM 3.1
@@ -4519,7 +4519,7 @@ data.validator 0.2.1
 data360r 1.0.9
 data4health 0.1.1
 DataAudit 0.1.0
-DatabaseConnector 7.2.0
+DatabaseConnector 8.0.0
 DatabaseConnectorJars 1.1.0
 DatabionicSwarm 2.0.0
 datacaged 0.2.1
@@ -4559,7 +4559,7 @@ datapackage 0.2.3
 DataPackageR 0.16.2
 datapasta 3.1.0
 datapond 0.1.0
-dataprep 0.1.5
+dataprep 0.1.8
 dataPreparation 1.1.2
 dataProfilerR 0.2.1
 DataQualityDashboard 2.8.9
@@ -4727,7 +4727,7 @@ ddst 1.6.11
 ddtlcm 0.2.1
 DEA 1.0.0
 deadband 0.1.0
-deadwood 0.9.1
+deadwood 0.9.2
 deal 1.2-42
 deaR 1.5.4
 deaviz 0.1.0
@@ -5621,7 +5621,7 @@ dtmapi 0.1.0
 DTMCPack 0.1-3
 dtms 0.5.0
 dtp 0.1.0
-dtpcrm 0.1.1
+dtpcrm 0.1.3
 dtplyr 1.3.3
 dtrackr 0.5.0
 dtreg 1.1.2
@@ -5823,7 +5823,7 @@ EBMAforecast 1.0.33
 ebmc 1.0.1
 ebmstate 0.1.5
 ebnm 1.1-42
-ebrahim.gof 2.8.0
+ebrahim.gof 2.9.0
 EBrank 1.0.0
 eBsc 4.17
 ebTobit 1.0.2
@@ -6796,7 +6796,7 @@ FADA 1.3.5
 FAdist 2.4
 FADPclust 1.1.1
 faersquarterlydata 1.3.0
-FAfA 1.4
+FAfA 1.4.1
 fahb 1.0.1
 Fahrmeir 2016.5.31
 fail 1.3
@@ -7542,7 +7542,7 @@ FossilSim 2.4.4
 FossilSimShiny 1.1.2
 foto 1.1
 foundry 0.13.0
-foundryR 0.1.0
+foundryR 1.0.0
 FourgameteP 0.1.0
 fourierin 1.0.0
 fourinarow 0.1.1
@@ -8187,7 +8187,7 @@ geogrid 0.1.3
 geohabnet 2.3
 geohashTools 0.3.3
 geoheatmap 0.1.0
-geoidep 0.4.0
+geoidep 0.5.0
 geojson 0.3.5
 geojsonio 0.11.3
 geojsonR 1.1.2
@@ -9398,7 +9398,7 @@ Hassani.SACF 2.0
 Hassani.Silva 1.0
 hassediagrams 3.0
 hatchR 1.0.1
-hatemicoint 1.0.1
+hatemicoint 1.1.0
 hatsurvey 1.1.1
 HausdorffGoF 0.3.1
 havel 0.1.2
@@ -9940,7 +9940,7 @@ hystar 1.0.0
 hysteresis 2.7.2
 hystReet 0.0.3
 hytest 0.1.1
-HZIP 0.1.2
+HZIP 0.1.3
 i18n 0.2.0
 i3pack 0.1.0
 IAcsSPCR 1.2.1
@@ -10387,7 +10387,7 @@ INLAjoint 26.6.2
 inlamemi 1.1.0
 INLAspacetime 0.1.14
 INLAtools 0.1.5
-INLAvaan 0.3.1
+INLAvaan 0.3.2
 inlcolor 1.0.6
 inline 0.3.21
 inlinedocs 2023.9.4
@@ -11324,7 +11324,7 @@ languageR 1.6
 languageserver 0.3.20
 languageserversetup 0.1.2
 lans2r 1.2.0
-laOpenData 0.1.0
+laOpenData 0.1.1
 LaplacesDemon 16.1.8
 lapop 2.2
 lares 5.4.1
@@ -11558,7 +11558,7 @@ LGEWIS 1.1
 lglasso 2.0.0
 lgpr 1.2.5
 lgr 0.5.2
-lgrdata 0.1.1
+lgrdata 0.1.2
 lgrExtra 0.2.2
 LGRF 1.0
 lgspline 1.2.1
@@ -12047,7 +12047,7 @@ LugsailGR 0.1.0
 lulab.utils 1.0.2
 lulcc 1.0.4
 lumberjack 1.3.1
-lumbermark 0.9.0
+lumbermark 0.9.1
 Luminescence 1.3.1
 lunar 0.2-1
 lutz 0.3.2
@@ -12059,7 +12059,7 @@ lvmisc 0.1.2
 lvmPlot 0.1.1
 lvnet 0.3.5
 lvplot 0.2.2
-lwbgt 0.4.1
+lwbgt 1.0.1
 lwc2022 1.0.1
 LWFBrook90R 0.6.3
 lwgeom 0.2-17
@@ -12258,7 +12258,7 @@ march 3.3.2
 marcher 0.0.3
 marcox 1.0.0
 marcxmlr 0.3.1
-mardist 1.0.1
+mardist 1.1.1
 marelac 2.1.11
 MareyMap 1.3.10
 marg 1.2-4
@@ -12882,7 +12882,7 @@ mGSFPCA 0.2.2
 mgsub 2.0.0
 mgwnbr 0.3.0
 mgwrhw 1.1.1.5
-mgwrsar 1.3.2
+mgwrsar 1.4.1
 mhazard 0.2.3
 mhcnuggetsr 1.2.6
 MHCtools 1.6.0
@@ -13043,7 +13043,7 @@ minque 2.0.0
 minsample1 0.1.0
 minsample2 0.1.0
 minSNPs 0.2.0
-minter 0.1.1
+minter 0.2.0
 MINTplates 1.0.1
 MinTriadic 1.0.0
 minty 0.0.6
@@ -13300,7 +13300,7 @@ mlstm 0.1.7
 mlstrOpalr 1.0.3
 mlsurvlrnrs 0.0.8
 mlt 1.8-2
-mlt.docreg 1.1-13
+mlt.docreg 1.1-14
 mltest 1.0.3
 mltools 0.3.5
 mlts 2.0.1
@@ -14106,7 +14106,7 @@ naaccr 3.1.1
 nabla 0.7.1
 nabor 0.5.0
 NAC 0.1.0
-NACHO 2.0.7
+NACHO 2.0.8
 NADA 1.6-1.2
 NADA2 2.0.2
 nadaverse 0.1.0
@@ -15078,7 +15078,7 @@ opencage 0.2.2
 OpEnCAMeO 0.1.1
 OpEnCAST 0.1.1
 opencesp 0.4.0
-opencis 0.1.2
+opencis 0.1.4
 OpenCL 0.2-11
 opencltools 0.8.3
 opencpu 2.2.15
@@ -15431,7 +15431,7 @@ PAGE 0.4.0
 pagedown 0.25
 pagemap 0.1.3
 pagenum 1.3
-pagerankr 0.1.0
+pagerankr 0.1.1
 PAGFL 1.1.4
 pagoda2 1.0.15
 PAGWAS 2.0
@@ -15514,7 +15514,7 @@ panelbuild 0.1.0
 PanelCount 2.0.1
 paneldesc 0.2.0
 panelhetero 1.0.1
-PanelMatch 3.1.3
+PanelMatch 3.1.5
 panelPomp 1.8.0.0
 panelr 1.0.1
 PanelSelect 1.0.1
@@ -17211,7 +17211,7 @@ qad 1.0.6
 qadf 1.0.2
 QAEnsemble 1.0.0
 QAIG 0.1.7
-qap 0.1-2
+qap 0.1-3
 qape 2.1
 qapproach 0.1.1
 Qapprox 0.2.1
@@ -17494,7 +17494,7 @@ R.rsp 0.46.0
 R.temis 0.1.4
 R.utils 2.13.0
 R0 1.3-1
-r02pro 0.2
+r02pro 0.2.1
 R1magic 0.3.4
 R2Addhaz 0.1.0
 R2admb 0.7.16.3
@@ -18219,7 +18219,7 @@ readtextgrid 0.2.0
 readxl 1.5.0.1
 ready4 0.1.19
 readyomics 0.2.1
-realestatebr 1.0.1
+realestatebr 1.2.0
 RealSurvSim 1.0.0
 realtest 0.2.3
 realTimeloads 1.0.0
@@ -19466,7 +19466,7 @@ RQEntangle 0.1.3
 rqlm 4.5-1
 rqPen 4.2
 rQSAR 1.0.0
-rqti 1.3.0
+rqti 1.3.1
 Rquake 2.5-1
 rqualify 1.1.0
 RQuantLib 0.4.28
@@ -20464,7 +20464,7 @@ semnova 0.1-6
 semPlot 1.2.0
 semPower 2.1.3
 semptools 0.4.0
-semrulesid 0.4.1
+semrulesid 0.4.2
 SEMsens 1.5.5
 SEMsensitivity 0.1.0
 semsfa 1.2
@@ -23655,7 +23655,7 @@ TREDesigns 1.0.1
 tree 1.0-47
 tree.interpreter 0.1.3
 tree3d 0.1.2
-treebalance 1.2.0
+treebalance 1.2.2
 treebase 0.1.5
 TreeBUGS 1.5.3
 treeclim 2.0.8.0

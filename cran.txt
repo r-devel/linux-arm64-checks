@@ -535,7 +535,6 @@ AMISforInfectiousDiseases 0.1.0
 ammiBayes 2.2-0
 AMModels 0.1.4
 AmmoniaConcentration 0.1
-aMNLFA 1.1.2
 amorem 1.0.0
 AmoudSurv 0.1.0
 amp 1.0.0
@@ -1528,7 +1527,7 @@ BED 1.6.3
 BEDASSLE 1.6.1
 BEDMatrix 2.0.4
 bedr 1.1.5
-bedrock 0.1.9
+bedrock 0.1.16
 bedrockbio 2.0.0
 BeeBDC 1.3.5
 beeca 0.2.0
@@ -1681,7 +1680,7 @@ bigbang 0.4.0
 bigBits 1.4
 bigD 0.3.1
 bigdatadist 1.1
-BigDataPE 0.2.0
+BigDataPE 0.3.0
 BigDataStatMeth 2.0.6
 bigDM 0.5.8
 bigergm 1.2.6
@@ -3487,7 +3486,7 @@ CohortIncidence 4.2.0
 CohortMethod 6.0.3
 CohortPlat 1.0.5
 cohorts 1.3.0
-CohortSurvival 1.1.2
+CohortSurvival 1.2.0
 CohortSymmetry 0.3.0
 cohorttools 0.1.8
 CohortUtilisation 0.6.1
@@ -4971,7 +4970,7 @@ deTS 1.0
 detzrcr 0.3.3
 devEMF 4.6
 devFunc 0.1
-devianLM 1.1.0
+devianLM 1.1.1
 devkit 1.0.0
 devoid 0.1.2
 Devore7 0.7.6
@@ -5445,7 +5444,7 @@ dpGMM 1.0.0
 DPI 2026.2
 Dpit 1.0
 dpkg 0.6.2
-dplR 1.7.9
+dplR 1.8.0
 dplyneage 0.3.1
 dplyr 1.2.1
 dplyrAssist 0.1.0
@@ -5566,7 +5565,7 @@ dsge 1.2.0
 DSGEr 1.3.1
 DSI 1.8.0
 dsims 1.0.6
-DSIR 0.9.0
+DSIR 0.10.0
 DSjobtracker 2.0.0
 DSL 0.1-7
 dslabs 0.9.1
@@ -6313,7 +6312,7 @@ epiparameterDB 0.1.0
 epiphy 0.5.0
 EpiPvr 0.0.1
 EpiQuestionR 0.1.1
-epiR 2.0.98
+epiR 2.0.99
 EpiReport 1.0.4
 EpiScopeK 0.1.1
 EpiSemble 0.1.1
@@ -6538,7 +6537,7 @@ eventPred 0.3.1
 EventPredInCure 1.0
 eventreport 0.1.2
 eventstream 0.1.1
-eventstudyr 1.2.0
+eventstudyr 1.2.1
 eventTrack 1.0.4
 EventWinRatios 1.0.0
 evesim 1.0.0
@@ -7992,7 +7991,7 @@ gdalraster 2.7.0
 gdalUtilities 1.2.5
 gdam 0.0.1
 gdata 3.0.1
-GDAtools 2.3
+GDAtools 2.3.1
 gde 0.2.1
 gdi 1.10.0
 gdiff 0.2-5
@@ -8064,7 +8063,7 @@ gencor 1.0.2
 genCountR 1.0.0
 gendata 1.2.0
 gender 0.6.0
-genderapi 1.0.3
+genderapi 2.0.0
 genderBR 1.4.0
 gendercoder 0.1.1
 GenderInfer 0.1.0
@@ -8351,8 +8350,8 @@ ggbuildr 0.1.0
 ggchangepoint 0.5.0
 ggcharts 0.2.1
 ggChernoff 0.3.0
-ggCheysson 1.0.1
-ggChinaFlag 0.4.0
+ggCheysson 1.1.0
+ggChinaFlag 1.0.0
 ggchord 0.8.0
 ggchord2 0.0.1
 ggcircular 0.1.0
@@ -8656,7 +8655,7 @@ GIplot 0.1.0
 gips 1.3.0
 gipsDA 0.1.2
 GiRaF 1.0.2
-giscoR 1.2.0
+giscoR 1.3.0
 GISINTEGRATION 1.0
 GISSB 1.1.1
 GISTools 1.0-2
@@ -12402,7 +12401,7 @@ MaxentVariableSelection 1.0-3
 maximin 1.0-6
 MaximinInfer 2.1.0
 MaxIntTools 0.1.0
-maxLik 1.5-2.2
+maxLik 1.6-10
 maxlike 0.1-12
 maxmatching 0.1.0
 MaxMC 0.1.2
@@ -12962,7 +12961,7 @@ micvar 0.1.0
 midas 1.0.1
 midas2 1.1.0
 MIDASim 2.0
-midasINLA 0.1.0
+midasINLA 0.1.1
 midasml 0.1.11
 midasr 0.9
 midastouch 1.3
@@ -13454,7 +13453,7 @@ modMStates 0.0.1
 modnets 0.9.0
 modopt.matlab 1.0-2
 modQR 0.1.3
-modsem 1.0.22
+modsem 1.0.23
 ModStatR 1.4.2
 ModTools 0.9.13
 ModToppLeone 0.1.0
@@ -13994,7 +13993,7 @@ mvabund 4.2.8
 mvalpha 0.6.3
 MVar 2.3.0
 MVar.pt 2.3.0
-mvardlurt 1.0.2
+mvardlurt 1.1.0
 mvBayes 1.2.3
 MvBinary 1.1
 mvboxcox 0.1.4
@@ -14024,7 +14023,7 @@ mvmesh 1.6
 mvmeta 1.0.3
 mvMISE 1.0
 mvMonitoring 0.2.4
-mvMORPH 1.2.2
+mvMORPH 1.2.3
 MVN 6.3
 mvna 2.0.1
 MVNBayesian 0.0.8-11
@@ -14584,7 +14583,7 @@ NO.PING.PONG 0.1.9.1
 noaa 1.0.0
 noah 0.1.0
 NobBS 1.1.1
-nocturn 1.2.0
+nocturn 1.2.1
 nodbi 0.15.0
 node2vec 0.1.0
 nodeSub 1.2.9
@@ -16639,7 +16638,7 @@ ppcSpatial 0.3.0
 ppdiag 0.1.1
 ppendemic 0.2.2
 PPforest 0.2.0
-ppforest2 0.1.2
+ppforest2 0.1.3
 ppgam 1.0.2
 ppgm 1.1
 ppgmmga 1.3.1
@@ -17216,7 +17215,7 @@ qap 0.1-2
 qape 2.1
 qapproach 0.1.1
 Qapprox 0.2.1
-qardlr 1.0.1
+qardlr 1.1.1
 qarPI 0.1.0
 qatarcars 1.1.0
 qbinplots 0.3.3
@@ -17746,7 +17745,7 @@ rapsimng.fababean 0.1.0
 rapsimng.lentil 0.1.0
 rapsimng.lupin 0.1.0
 rapsimng.wheat 0.1.0
-raptools 1.23.0
+raptools 1.24.0
 RAPTOR 1.0.1
 raptr 1.0.1
 raqs 1.0.2
@@ -18025,7 +18024,7 @@ RcppEigen 0.3.4.0.2
 RcppEnsmallen 0.3.11.0.1
 RcppExamples 0.1.11
 RcppFarmHash 0.0.4
-RcppFastAD 0.0.5
+RcppFastAD 0.0.6
 RcppFastFloat 0.0.6
 RcppGetconf 0.0.4
 RcppGreedySetCover 0.1.1
@@ -18101,7 +18100,7 @@ rdataretriever 3.1.1
 Rdatasets 0.0.1
 rdav 0.3.0
 rdbnomics 0.6.4
-rdborrow 0.0.4.1
+rdborrow 0.0.4.2
 rdcmchecks 0.1.1
 rdcor 1.1
 rddapp 1.3.3
@@ -19045,7 +19044,7 @@ rMOST 1.0.1
 rmp 2.2
 Rmpfr 1.1-3
 Rmpi 0.7-3.4
-rmpw 0.0.6
+rmpw 0.0.7
 rms 8.1-1
 rmsb 1.1-2
 rmsBMA 0.2.0
@@ -19407,7 +19406,7 @@ RPhosFate 2.0.1
 rphylo 0.1.1
 Rphylopars 0.3.10
 rphylopic 1.7.0
-rpic 0.6.2
+rpic 0.11.3
 rpinterest 0.3.1
 RPIV 1.1.1
 rpivotTable 0.4.0
@@ -19674,7 +19673,7 @@ rt 1.1.0
 rt.test 1.26.9
 rt3 0.1.2
 rTableICC 1.0.9
-rtables 0.6.16
+rtables 0.6.17
 rtables.officer 0.1.2
 rtabulator 0.1.2
 Rtauchen 1.0
@@ -19843,7 +19842,7 @@ RWsearch 5.2.6
 rwstats 0.1
 rwty 1.0.3
 rwunderground 0.1.8
-RXKCD 2.0.1
+RXKCD 2.0.2
 RxnSim 1.0.4
 rxode2 5.1.7.1
 rxode2lincmt 0.1.0
@@ -20914,7 +20913,7 @@ SignalY 1.1.1
 signed.backbones 0.91.5
 signibox 1.0
 SignifReg 4.3
-signnet 1.0.6
+signnet 1.1.0
 signs 0.1.2
 sigora 3.2.0
 sigPCA 0.1.0
@@ -21759,7 +21758,7 @@ sphet 2.1-1
 sphunif 1.4.4
 SpiceFP 0.1.2
 SPIChanges 0.3.0
-spicy 0.12.0
+spicy 0.13.0
 spider 1.5.3
 spiderbar 0.2.5
 spidR 1.0.2
@@ -22569,7 +22568,7 @@ suwo 0.2.1
 SVAlignR 0.10.5
 sValues 0.1.8
 svars 1.3.12
-SVARtca 1.0.2
+SVARtca 1.0.3
 svd 0.5.8
 svDialogs 1.1.2
 svDialogstcltk 1.0.1
@@ -22668,7 +22667,7 @@ symbol.equation.gpt 1.1.4
 symbolicDA 0.7-3
 symbolicr 1.0.0
 symDMatrix 2.1.1
-symengine 0.2.13
+symengine 0.2.14
 symMCD 0.6
 symmetry 0.2.3
 symmoments 1.2.2
@@ -23556,7 +23555,7 @@ tpm 2.0.2
 TPmsm 1.2.15
 tpn 1.12
 tpr 0.3-3
-tptest 1.0.3
+tptest 1.1.0
 tpwb 0.1.0
 TPXG 1.0
 tqk 0.1.8
@@ -23601,7 +23600,7 @@ trajeR 1.0
 trajmsm 0.1.5
 trajr 1.5.1
 traktok 0.1.1
-tram 1.4-5
+tram 1.4-6
 tramicp 0.1-0
 TraMineR 2.2-14
 TraMineRextras 0.6.9
@@ -23704,7 +23703,7 @@ trending 0.1.0
 TrendInTrend 1.1.3
 TrendLSW 1.0.6
 trendsegmentR 1.3.2
-trendseries 1.4.0
+trendseries 1.7.0
 trendtestR 1.0.1
 TrendTM 2.0.21
 Trendtwosub 0.0.2
@@ -23810,7 +23809,7 @@ TSE 0.1.0
 TSEAL 0.1.5
 tseffects 0.3.1
 TSEind 0.1.0
-tseLCA 1.1.1
+tseLCA 2.0.0
 tsensembler 0.1.0
 tsentiment 1.0.5
 TSEntropies 0.9
@@ -24167,7 +24166,7 @@ uptasticsearch 1.1.0
 uptimeRobot 1.0.0
 uqsa 0.8.0
 ura 1.0.1
-urbin 0.1-16
+urbin 0.1-18
 urbstatdata 0.1.0
 urca 1.3-4
 urlchecker 2.0.0
@@ -25119,12 +25118,12 @@ xslt 1.5.1
 XSRecencyX 0.1.0
 xSub 3.0.2
 xtable 1.8-8
-xtbhst 1.0.2
+xtbhst 1.1.0
 xtbreakcoint 1.0.6
-xtcspqardl 1.0.2
-xtdhcoint 1.0.1
+xtcspqardl 1.0.5
+xtdhcoint 1.0.3
 xtdml 0.1.13
-xtfifevd 1.0.2
+xtfifevd 1.1.0
 xtife 0.1.4
 xtifedml 0.1.4
 xtpqardl 1.0.3

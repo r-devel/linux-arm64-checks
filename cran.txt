@@ -3221,7 +3221,7 @@ clinmon 0.6.0
 clinPK 0.13.0
 clinpubr 1.4.2
 clinsig 1.2
-ClinSigMeasures 1.2
+ClinSigMeasures 1.3
 clinspacy 1.0.2
 clintools 0.9.10.1
 clinTrialData 0.1.3
@@ -15778,7 +15778,7 @@ PDE 1.4.10
 PDEnaiveBayes 0.4.0
 pder 1.0-2
 pdfCluster 1.0-4
-pdfcombiner 1.9.8
+pdfcombiner 1.9.9
 PDFEstimator 4.5
 pdfetch 0.3.3
 pdfminer 1.0
@@ -20602,7 +20602,7 @@ sffdr 1.1.2
 sFFLHD 0.1.2
 sfheaders 0.4.5
 SFHNV 0.1.0
-sfhotspot 1.0.0
+sfhotspot 1.1.1
 sfinx 1.7.99
 sfislands 1.1.2
 SFM 0.2.1

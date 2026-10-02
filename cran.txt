@@ -2187,7 +2187,7 @@ bravo 4.1.0
 BrazilCrime 0.3.0
 BrazilDataAPI 0.3.0
 brazilmaps 1.0.0
-BrazilMet 0.4.0
+BrazilMet 0.5.0
 BRcal 1.0.1
 brclimr 0.2.0
 BRCore 2.0.7
@@ -3029,7 +3029,7 @@ ciCalibrate 0.42.2
 cicerone 1.0.4
 CICI 1.0
 cidian 0.1.0
-ciecl 0.9.6
+ciecl 1.0.0
 CIEE 0.1.1
 cif 0.1.1
 CIfinder 2.0.0
@@ -3864,7 +3864,7 @@ copulaData 0.0-2
 CopulaGAMM 0.7.4
 CopulaInference 0.5.0
 copulareg 0.1.0
-CopulaREMADA 1.7.5
+CopulaREMADA 1.8.1
 CopulaSCR 1.0.2
 copulaSFM 0.2.0
 copulaSim 0.0.1
@@ -4262,6 +4262,7 @@ csn 1.1.3
 csodata 1.5.1
 cspp 0.3.3
 csppData 0.2.61
+CspStandSegmentation 0.2.1
 csquares 0.1.0
 csranks 1.3.0
 cssTools 1.0
@@ -7625,7 +7626,7 @@ freebsdcontribs 0.1.0
 freecurrencyapi 0.1.0
 freedom 1.0.1
 freegroup 1.2-1-1
-freestiler 0.2.0
+freestiler 0.3.0
 freesurfer 1.8.1
 freesurferformats 1.1.0
 FREEtree 0.1.0
@@ -12215,7 +12216,7 @@ mapdata 2.3.1
 mapdeck 0.3.6
 mapedit 0.8.0
 mapfit 1.0.1
-mapgl 0.5.0
+mapgl 0.5.2
 mapi 1.1.5
 mapindia 1.0.1
 mapindiatools 1.0.1
@@ -12577,7 +12578,7 @@ MDPtoolbox 4.0.4
 mds 0.3.2
 mdscore 0.1-4
 MDSMap 1.3
-mdsOpt 0.7-7
+mdsOpt 0.8-1
 MDSPCAShiny 0.1.0
 mdsr 0.2.9
 MDSS 1.0-1
@@ -14891,7 +14892,7 @@ octopusR 1.0.1
 od 0.5.1
 oda 0.1.2
 ODataQuery 0.5.3
-odbc 1.7.1
+odbc 1.7.2
 odbc.resourcer 1.0.0
 odbr 0.1.1
 oddnet 0.1.2
@@ -15648,7 +15649,7 @@ pathlit 0.1.0
 pathmodelfit 1.0.5
 paths 0.1.2
 pathviewr 1.1.8
-PathwaySpace 1.5.1
+PathwaySpace 1.5.2
 PathwayVote 0.1.3
 PatientGenerator 0.2.5
 PatientLevelPrediction 6.7.0
@@ -15691,6 +15692,7 @@ PBD 1.6
 pbdMPI 0.5-5
 pbdSLAP 0.3-8
 pbdZMQ 0.3-14
+PBGoF 0.1.0
 PBIBD 1.4
 PBImisc 1.0
 pbiparams 0.1.0
@@ -16200,7 +16202,7 @@ PKconverter 1.5
 pkdata 0.1.0
 pkgbuild 1.4.8
 pkgcache 2.2.5
-pkgcheck 0.3.1
+pkgcheck 0.3.2
 pkgcond 0.1.1
 pkgconfig 2.0.3
 pkgdepends 0.9.1
@@ -17161,7 +17163,7 @@ putior 0.1.0
 puzzle 0.0.1
 Pv3Rs 1.0.0
 PVAClone 0.1-8
-pvaluefunctions 1.6.3
+pvaluefunctions 1.7.0
 pvar 2.2.7
 pvarife 0.1.2
 pvars 1.1.1
@@ -19301,6 +19303,7 @@ rollup 0.1.0
 rollupTree 0.4.1
 roloc 0.1-2
 rolocISCCNBS 0.1
+rolog 0.9.29
 ROlogit 0.1.3
 rolr 1.0.0
 RolWinMulCor 1.2.0
@@ -19870,7 +19873,7 @@ rzentra 0.1.0
 rzig 0.2.3
 RZigZag 0.2.1
 rzmq 0.9.16
-RZooRoH 0.4.1
+RZooRoH 0.4.2
 s2 1.1.13
 s20x 3.3.0
 s2dv 2.3.0
@@ -20783,7 +20786,7 @@ shinyjs 2.1.1
 shinykanban 0.0.1
 shinyKGode 1.0.5
 shinyKnobs 0.1.3
-shinylight 1.2
+shinylight 1.3
 shinylive 0.5.0
 shinyloadtest 1.2.1
 shinylogs 0.2.1
@@ -21522,7 +21525,7 @@ spanish 0.4.2
 spanishoddata 0.2.6
 spanner 1.0.5
 spANOVA 0.99.4
-spant 4.4.0
+spant 4.5.0
 spantest 1.1-3
 sparcl 1.0.4
 spareg 1.2.0
@@ -22443,7 +22446,7 @@ SuperpixelImageSegmentation 1.0.6
 Superpower 0.2.4.1
 SuperRanker 1.2.1
 superspreading 0.4.0
-SuperSurv 0.1.7
+SuperSurv 0.1.9
 supervisedPRIM 2.0.0
 SupMZ 0.2.0
 SuppDists 1.1-9.9
@@ -22636,7 +22639,7 @@ swamp 1.5.1
 swaprinc 1.0.1
 swaRm 0.6.0
 swaRmverse 0.1.1
-swash 2.0.2
+swash 3.0.0
 swatches 0.5.0
 swcEcon 0.1.0
 swCRTdesign 4.1
@@ -22951,6 +22954,7 @@ temperatureresponse 0.2
 templateICAr 0.11.3
 templates 0.4.0
 templr 0.2-4
+TEMPO 0.1.0
 tempodisco 2.1.0
 Temporal 0.3.0.2
 TemporalForest 0.1.4
@@ -23696,7 +23700,7 @@ treesitter.c 0.0.4.2
 treesitter.r 1.3.0
 treesliceR 1.1.0
 treespace 1.1.4.4
-treeSS 0.2.6
+treeSS 0.2.9
 treestartr 0.1.0
 treestats 1.71.13
 treestructure 1.0.1
@@ -24175,7 +24179,7 @@ upstartr 0.2.0
 UPSvarApprox 0.1.4
 uptasticsearch 1.1.0
 uptimeRobot 1.0.0
-uqsa 0.8.0
+uqsa 0.8.1
 ura 1.0.1
 urbin 0.1-18
 urbstatdata 0.1.0
@@ -24654,9 +24658,9 @@ WALS 0.2.6
 WaMaSim 1.0.0
 wand 0.5.0
 WAnova 0.4.0
-waou 0.1.0
+waou 0.1.1
 warabandi 0.1.0
-warbleR 1.1.37
+warbleR 1.1.38
 WARDEN 2.0.6
 WAreg 0.1.0
 warehouseTools 0.1.4

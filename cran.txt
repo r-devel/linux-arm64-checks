@@ -66,7 +66,7 @@ accessrmd 1.0.0
 accmv 0.1.1
 accrual 1.4
 accrualPlot 1.0.10
-AccSamplingDesign 0.0.9
+AccSamplingDesign 0.1.0
 accSDA 1.1.3
 accucor 0.3.1
 accumulate 1.0.0
@@ -843,7 +843,7 @@ artpack 0.2.0
 aRtsy 1.0.1
 ARTtransfer 1.0.0
 arules 1.7.15
-arulesCBA 1.2.9
+arulesCBA 1.2.10
 arulesNBMiner 0.1.9
 arulesSequences 0.2-32
 arulesViz 1.5.4
@@ -2628,7 +2628,7 @@ causalDisco 1.2.1
 causaldrf 0.4.2
 causalDT 1.0.1
 causaleffect 1.3.15
-causalfrag 0.1.1
+causalfrag 0.2.0
 causalgenerics 0.1.0
 CausalGPS 0.5.1
 causalHyperGraph 0.1.0
@@ -3291,7 +3291,7 @@ clusterGGM 0.1.1
 clusterindices 1.0
 Clustering 1.7.10
 clustering.sc.dp 1.1
-clusterIV 0.1.0
+clusterIV 0.2.0
 clusterMI 1.6
 clustermole 1.1.1
 clustermq 0.10.1
@@ -3383,7 +3383,7 @@ cnbdistr 1.0.1
 cncaGUI 1.1
 cncleanr 0.2.5
 cnd 0.1.1
-cnefetools 0.2.5
+cnefetools 0.3.0
 CNID 2.1.1
 CNLTreg 0.1-3
 CNLTtsa 0.1-2
@@ -6187,7 +6187,7 @@ emulator 1.3-0
 emuR 2.6.0
 enaho 0.2.5
 eNchange 1.1
-encharter 0.11
+encharter 0.12
 encode 0.3.7
 EncompassTest 0.22
 encryptedRmd 0.2.1
@@ -6385,7 +6385,7 @@ ER 1.1.2
 era 0.6.0
 EraBrewer 0.2.0
 erah 2.2.0
-eratosthenes 0.0.9
+eratosthenes 1.0.2
 ERBioR 0.9.0
 erboost 1.5
 ercv 1.0.1
@@ -6956,7 +6956,7 @@ fat2Lpoly 1.2.6
 FateID 0.2.2
 FatTailsR 2.0.1
 FaultTree 1.0.1
-faunabr 1.1.1
+faunabr 1.1.2
 faux 1.2.4
 fauxnaif 0.7.1
 fauxpas 0.6.0
@@ -7310,7 +7310,7 @@ fledge 0.1.4
 fletcher 0.1.0
 flevr 0.0.5
 flex 0.1.0
-flexBART 2.0.3
+flexBART 2.0.6
 flexBCF 1.0.2
 flexCausal 0.1.0
 flexclust 1.5.0
@@ -8653,7 +8653,7 @@ GInSARCorW 1.15.8
 gIPFrm 3.1
 GIplot 0.1.0
 gips 1.3.0
-gipsDA 0.1.2
+gipsDA 1.0.0
 GiRaF 1.0.2
 giscoR 1.3.0
 GISINTEGRATION 1.0
@@ -16093,7 +16093,7 @@ phylosem 1.1.4
 phyloseqGraphTest 0.1.1
 phylosignal 1.3.1
 phylosignalDB 0.4.2
-phylospatial 1.4.0
+phylospatial 1.5.0
 phylotate 1.3
 phyloTop 2.1.3
 phylotypr 0.1.1
@@ -17036,7 +17036,7 @@ PSor 0.1.0
 psp 1.0.5
 pspatreg 1.1.2
 pspearman 0.3-1
-PSPI 1.2
+PSPI 1.4
 pspline 1.0-21
 PSPManalysis 0.3.9
 PSpower 2.0.0
@@ -20685,7 +20685,7 @@ sharpPen 2.0
 sharpshootR 2.5
 sharx 1.0-7
 shattering 1.0.7
-shazam 1.3.2
+shazam 1.4.0
 SHELF 1.13.0
 ShellChron 0.4.0
 shellgame 0.1.1

@@ -14969,7 +14969,7 @@ OLSengine 1.2.0
 olsrr 0.7.0
 OLStrajr 0.1.0
 olympicAthletes 0.5.10
-OlympicRshiny 1.0.2
+OlympicRshiny 1.1.0
 OmegaG 1.0.1
 OmicFlow 1.6.0
 OmicKriging 1.4.0
@@ -24094,7 +24094,7 @@ undomanager 0.1.0
 unexcel 0.2.0
 unfold 1.0.1
 unglue 0.1.0
-ungroup 1.4.4
+ungroup 1.6.3
 unhcrdown 0.6.0
 unhcrthemes 0.7.1
 unheadr 0.4.0

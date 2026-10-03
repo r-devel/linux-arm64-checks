@@ -6998,7 +6998,7 @@ fcmfd 0.1.2
 FCO 2.0.2
 fCopulae 4052.86
 fcp 0.1.0
-FCPS 1.4.1
+FCPS 1.4.3
 fcros 1.6-6
 FCtools 2.3.1
 fctutils 0.0.7
@@ -20571,7 +20571,7 @@ serosv 1.3.0
 SeroTrackR 1.1.1
 serp 0.2.5
 serpstatr 0.5.0
-serrsBayes 0.5-0
+serrsBayes 0.6-0
 servr 0.33
 SEset 1.0.1
 SESraster 0.7.1
@@ -21996,7 +21996,7 @@ ssmsn 0.2.0
 ssMutPA 0.1.2
 SSN2 0.4.0
 SSNbayes 0.0.3
-SSNbler 1.1.1
+SSNbler 1.1.2
 SSOSVM 0.2.2
 SSP 1.1.0
 ssPilot 1.0.0
@@ -22574,7 +22574,7 @@ survstan 0.0.7.1
 SurvTrunc 0.2.0
 SUSENAS 0.1.0
 susieR 0.14.2
-susographql 0.1.6
+susographql 0.1.7
 SUSY 0.1.0
 suwo 0.2.1
 SVAlignR 0.10.5

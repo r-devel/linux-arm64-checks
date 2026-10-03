@@ -3388,7 +3388,7 @@ CNID 2.1.1
 CNLTreg 0.1-3
 CNLTtsa 0.1-2
 cnmap 0.1.2
-cNORM 3.6.2
+cNORM 3.7.0
 CNprep 2.2
 CNPS 1.0.0
 CNSigs 0.1.1
@@ -6834,7 +6834,7 @@ FAMoS 0.3.1
 famSKATRC 1.1.0
 fanc 2.4.0
 fANCOVA 0.6-1
-fancycut 0.1.3
+fancycut 0.1.4
 fangs 0.2.25
 fanplot 4.0.1
 fansi 1.0.7
@@ -9742,7 +9742,7 @@ Homeric 0.1-3
 hommel 1.8
 homnormal 0.1
 homologene 1.4.68.19.3.27
-homomorpheR 0.3
+homomorpheR 1.0
 HomomorphicEncryption 0.9.0
 HonestDiD 0.2.8
 hood2net 1.0.0
@@ -20587,7 +20587,7 @@ settings 0.2.7
 settingsSync 3.0.2
 setweaver 1.0.0
 setwidth 1.1.0
-Seurat 5.5.1
+Seurat 5.6.0
 SeuratExplorer 0.1.8
 SeuratObject 5.4.0
 sevenbridges2 0.4.0

@@ -4611,7 +4611,7 @@ datetimeutils 0.6-6
 datetoiso 1.2.1
 dateutils 0.1.5
 datey 0.1.2
-datom 0.1.2
+datom 0.2.0
 datoramar 0.1.0
 datos 0.5.1
 datplot 1.1.1
@@ -8579,7 +8579,7 @@ ggtea 0.1.1
 ggtern 4.0.0
 ggtext 0.2.0
 ggThemeAssist 0.1.5
-ggthemes 6.0.0
+ggthemes 7.0.0
 ggthemeUL 0.1.3
 ggtibble 1.0.4
 ggtikz 0.1.5
@@ -12620,7 +12620,7 @@ MedianaDesigner 0.13
 mediateP 0.2.0
 mediation 4.5.1
 mediationsens 0.0.3
-medicalcoder 0.9.0
+medicalcoder 0.10.0
 medicaldata 0.2.0
 medicare 0.3.0
 meditations 1.0.1
@@ -14095,7 +14095,7 @@ mycobacrvR 1.1
 mycolorsTB 0.1.1
 mycor 0.1.1
 myCRAN 1.3
-myIO 1.3.0
+myIO 1.4.0
 MYIS 0.1.0
 myman 0.1.0
 MyoScore 1.0.1

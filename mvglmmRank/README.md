@@ -1,6 +1,6 @@
 # mvglmmRank 1.2-6
 
-Latest run: 2026-09-27: https://github.com/r-devel/linux-arm64-checks/actions/runs/36289919289
+Latest run: 2026-10-04: https://github.com/r-devel/linux-arm64-checks/actions/runs/37175162405
 
 ```
 Package: mvglmmRank

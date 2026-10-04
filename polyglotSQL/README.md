@@ -1,6 +1,6 @@
 # polyglotSQL 0.1.1
 
-Latest run: 2026-09-27: https://github.com/r-devel/linux-arm64-checks/actions/runs/36313367613
+Latest run: 2026-10-04: https://github.com/r-devel/linux-arm64-checks/actions/runs/37175312082
 
 ```
 Package: polyglotSQL

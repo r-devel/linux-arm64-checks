@@ -2230,7 +2230,7 @@ brms 2.23.0
 brms.mmrm 1.1.1
 brmsmargins 0.3.0
 brnn 0.9.4
-broadcast 0.1.9.6
+broadcast 0.1.9.8
 Brobdingnag 1.3-1
 BrokenAdaptiveRidge 1.0.2
 brokenstick 2.7.0
@@ -4883,7 +4883,7 @@ DEoptim 2.2-8
 DEoptimR 1.2-2
 depcache 0.1-2
 DepCens 0.2.3
-depCensoring 0.1.10
+depCensoring 0.1.11
 depcoeff 1.0.1
 DepDoubleTruncKS 0.1.0
 depend.truncation 3.0
@@ -6414,7 +6414,7 @@ ernest 1.2.5
 ernm 1.0.5
 ERP 2.2
 ERPeq 0.1.0
-erplots 0.1.2
+erplots 0.2.0
 ERPM 0.2.0
 ERRI 0.1.0
 errorist 0.1.3
@@ -9553,7 +9553,7 @@ helsinki 1.0.6
 hemat 1.1.3
 hemispheR 1.1.8
 henna 0.8.5
-heplots 1.8.5
+heplots 1.8.6
 hera 0.1.1
 here 1.0.2
 hereR 1.1.0
@@ -9971,7 +9971,7 @@ ibb 0.0.2
 IBCF.MTME 1.6-0
 IBclust 1.5
 ibd 1.6
-ibdfindr 0.4.0
+ibdfindr 0.5.0
 IBDInfer 0.1.0
 ibdsegments 1.0.1
 ibdsim2 2.3.3
@@ -11217,7 +11217,7 @@ ksNN 0.1.2
 KSPM 0.2.1
 ksrlive 1.0
 kssa 0.0.5
-kst 0.5-5
+kst 0.5-6
 kStatistics 2.1.1
 kstIO 0.6-0
 kstMatrix 3.0-0
@@ -13608,7 +13608,7 @@ MPDiR 0.3
 mpem 0.1.0
 MPGE 1.0.1
 MPI 0.1.0
-mpindex 0.3.0
+mpindex 0.3.1
 mpitbR 1.0.1
 mplot 1.0.6
 MplusAutomation 1.3
@@ -14247,7 +14247,7 @@ Neighboot 1.0.1
 NeighborFinder 1.0.1
 neighbours 0.1-5
 neldermead 1.0-13
-Nematode 0.3.1
+Nematode 0.3.2
 nemBM 1.00.01
 nemoR 0.99.3
 nemsqar 1.2.1
@@ -19976,7 +19976,7 @@ SAMPLE 1.0.1
 SampleCore 0.1.0
 sampledatasets 0.1.0
 sampler 0.2.4
-sampleSelection 1.2-14
+sampleSelection 1.2-16
 SampleSelectR 1.0.0
 samplesize 0.2-4
 SampleSize4ClinicalTrials 0.2.3
@@ -20103,7 +20103,7 @@ sca 0.9-3
 scagnostics 0.2-6
 scalablebayesm 0.2
 scaleAlign 1.0.0.0
-scaledescr 0.2.7
+scaledescr 0.2.8
 scalednap 1.0.0
 Scalelink 1.0-2
 scales 1.4.0

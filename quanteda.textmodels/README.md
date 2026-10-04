@@ -1,6 +1,6 @@
 # quanteda.textmodels 0.9.10
 
-Latest run: 2026-09-27: https://github.com/r-devel/linux-arm64-checks/actions/runs/36290265049
+Latest run: 2026-10-04: https://github.com/r-devel/linux-arm64-checks/actions/runs/37175520712
 
 ```
 Package: quanteda.textmodels

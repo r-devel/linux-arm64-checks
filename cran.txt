@@ -1573,7 +1573,7 @@ Bestie 0.1.5
 bestNormalize 1.9.2
 BESTree 0.5.2
 bestSDP 0.1.2
-BET 0.5.4
+BET 0.6.0
 betaARMA 1.2.0
 betaBayes 1.0.1
 BetaBit 2.2
@@ -8293,7 +8293,7 @@ getProxy 1.13
 GetQuandlData 1.0.0
 getRad 0.4.0
 gets 0.40
-getspanel 0.2.1
+getspanel 0.2.2
 getspres 0.2.0
 GetTDData 1.7.1
 gettz 0.0.6
@@ -11704,7 +11704,7 @@ listarrays 0.4.0
 LISTC 1.0.0
 listcomp 0.4.1
 listcompr 0.4.0
-listenv 1.0.0
+listenv 1.1.0
 LISTO 0.8.1
 listr 0.1.0
 listviewer 4.0.0
@@ -20215,7 +20215,7 @@ scmix 0.1.1
 scModels 1.0.5
 scmSpillover 0.1.2
 scOntoMatch 0.1.1
-scoper 1.5.0
+scoper 1.6.0
 scopr 0.3.5
 SCOPRO 0.1.0
 scopusflow 0.4.0

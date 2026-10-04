@@ -485,6 +485,7 @@ alphaN 0.3.0
 alphaOutlier 1.2.2
 AlphaPart 0.9.8
 AlphaPowerHazard 0.1.0
+AlphaSDM 0.2.0
 alphashape3d 1.3.3
 AlphaSimR 2.1.0
 alphastable 0.2.1
@@ -4468,6 +4469,7 @@ daiquiri 1.2.1
 daiR 1.2.0
 DAISIE 5.0.2
 DAISIEprep 1.0.1
+daisytools 1.0.1
 DAKS 2.1-3
 DALEX 2.5.4
 DALEXtra 2.3.1
@@ -7025,6 +7027,7 @@ fdarep 0.1.1
 fdaSP 1.1.3
 fdasrvf 2.5.0
 fdatest 2.1.1
+fdb 0.2.0
 FDboost 1.1-4
 fdclassify 0.1.0
 fddm 1.0-2
@@ -8211,6 +8214,7 @@ geomod 0.1.0
 GeoModels 2.2.9
 GeoMongo 1.0.3
 geomorph 4.1.1
+geomorphR 0.1.0
 geomtextpath 0.2.0
 geomultistar 1.2.2
 geonames 0.999
@@ -9251,6 +9255,7 @@ gtfsrealtime 0.2.1
 gtfsrouter 0.1.4
 gtfstools 1.4.0
 GTFSwizard 1.2.1
+Gtheory4LLM 0.2.0
 gtheoryr 0.1.0
 gto 0.1.2
 gtools 3.9.5

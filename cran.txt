@@ -7418,7 +7418,7 @@ fmpcloudr 0.1.7
 FMradio 1.1.3
 fmri 1.9.12.1
 fmriAR 0.3.2
-fmrihrf 0.3.0
+fmrihrf 0.4.0
 fmriqa 0.5.0
 fMRIscrub 0.15.0
 fMRItools 0.8.3
@@ -12768,7 +12768,7 @@ metansue 2.6
 metap 1.14
 metaphonebr 0.0.5
 metaplot 0.8.4
-metaplus 1.0-8
+metaplus 1.0-10
 metapost 1.0-6
 metapower 0.2.2
 metapro 1.5.11
@@ -15122,7 +15122,6 @@ openscoring 1.2.0
 opensimplex2 0.0.3
 openSkies 1.3.1
 OpenSourceAP.DownloadR 0.1.0
-OpenSpecy 1.5.3
 openssl 2.4.2
 OpenStreetMap 0.4.1
 opentripplanner 0.5.2
@@ -19153,7 +19152,7 @@ RobLox 1.2.3
 RoBMA 4.0.0
 robmed 1.3.0
 robmedExtra 0.1.1
-robmixglm 1.2-8
+robmixglm 1.2-9
 RobMixReg 1.1.3
 robnptests 1.1.0
 roboBayes 1.3
@@ -21455,7 +21454,7 @@ someMTP 1.4.1.1
 SOMEnv 1.1.2
 somhca 0.4.0
 SOMMD 0.1.2
-sommer 4.4.7
+sommer 4.4.87
 SOMnmR 0.3.0
 sonar 1.0.2
 sondage 0.9.1

@@ -71,7 +71,7 @@ accSDA 1.1.3
 accucor 0.3.1
 accumulate 1.0.0
 accuracylevel 0.1.0
-acdcquery 1.2.3
+acdcquery 1.2.4
 acdcR 1.0.0
 ACDm 1.1.0
 ACE.CoCo 0.1
@@ -413,7 +413,7 @@ AirScreen 0.1.0
 airship 1.4.3
 airt 0.2.2
 aiRthermo 1.2.2
-AISanalyze 3.1.3
+AISanalyze 3.1.4
 AIscreenR 0.4.0
 aisdk 1.4.12
 aisdk.providers 0.1.0
@@ -1231,7 +1231,7 @@ basicMCMCplots 0.2.7
 basicspace 0.25
 BasicStatsPlots 0.1.0
 basictabler 1.0.4
-basifoR 0.7.9
+basifoR 0.8.0
 basil 0.1.0
 BASiNET 0.0.5
 BASiNETEntropy 0.99.6
@@ -1812,7 +1812,7 @@ biologicalActivityIndices 0.1.0
 BioM2 1.1.3
 biomartr 1.0.7
 BIOMASS 2.2.7-1
-biomes 0.9.4
+biomes 0.9.5
 biometrics 1.0.4
 biometryassist 1.5.0
 BioMixModel 1.0.0
@@ -2584,7 +2584,7 @@ CATAcode 1.0.0
 catalog 0.1.1
 catalytic 0.1.0
 cataScience 2.1.3
-CatastRo 1.0.2
+CatastRo 1.1.0
 catch 1.0.1
 catcont 0.5.0
 catdap 1.3.7-4
@@ -4333,7 +4333,7 @@ cubfits 0.1-4
 cubicBsplines 1.0.0
 cubing 1.0-5
 Cubist 0.6.0
-cucumber 2.1.1
+cucumber 2.2.0
 cuda.ml 0.4.0
 cudaverse 0.4.1
 CUFF 1.9
@@ -5147,7 +5147,7 @@ directadjusting 0.7.0
 directAgeStd 0.0.2
 DirectedClustering 1.0.0
 DirectEffects 0.3
-Directional 7.8
+Directional 7.9
 directlabels 2026.8.27
 directPA 1.5.1
 DirectStandardisation 1.3
@@ -8022,7 +8022,7 @@ gear 0.3.4
 geboes.score 1.0.0
 GECal 0.1.7
 gecko 1.0.3
-gedi2 2.3.4
+gedi2 2.3.6
 GeDS 0.3.5
 gee 4.13-30
 GEEaSPU 1.0.2
@@ -8276,7 +8276,7 @@ gestate 1.6.0
 GET 1.0-9
 getable 1.0.3
 getaca 0.1.6
-GetBCBData 0.9.1
+GetBCBData 0.9.5
 getCRUCLdata 2.0.0
 GETdesigns 1.2.0
 GetDFPData2 0.6.5
@@ -9793,6 +9793,7 @@ hrqglas 1.1.2
 HRRI 1.0.9
 hrt 1.0.2
 hrtlFMC 0.1.0
+HRTnomaly 26.9.19
 HRW 1.0-6
 HSAR 0.6.0
 HSAUR 1.3-11
@@ -9854,7 +9855,7 @@ httr 1.4.9
 httr2 1.3.0
 hubeau 0.5.2
 hubEnsembles 1.0.0
-hubEvals 0.4.0
+hubEvals 0.5.0
 hubUtils 1.2.1
 hudr 1.2.0
 hues 0.2.0
@@ -10333,7 +10334,7 @@ IndTestPP 3.0
 industRial 0.1.0
 ineapir 0.2.6
 inecolr 0.1.0
-inedemogR 0.1.0
+inedemogR 0.2.0
 ineptr2 0.3.1
 ineq 0.2-13
 ineq.2d 0.1.0
@@ -10411,7 +10412,7 @@ INQC 2.0.5
 Inquilab 0.1.0
 insane 1.0.3
 insect 1.4.4
-insectecol 1.0.1
+insectecol 1.1.1
 InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
@@ -10609,7 +10610,7 @@ IrishDirectorates 1.5
 IRISMustangMetrics 2.4.8
 IRISSeismic 1.10.0
 IRkernel 1.3.2
-irlba 2.3.7
+irlba 2.4.1
 irls 1.0
 iRoCoDe 1.0.1
 IRon 0.1.5
@@ -12190,7 +12191,7 @@ manipulateWidget 0.11.2
 ManlyMix 0.1.15.1
 MannWhitneyCopula 0.1.1
 MAnorm2 1.2.2
-MANOVA.RM 0.5.4
+MANOVA.RM 0.6.0
 manta 1.0.1
 MantaID 1.0.4
 mantar 0.3.1
@@ -13237,7 +13238,7 @@ MLFS 0.4.3
 MLGdata 0.1.0
 MLGL 1.0.1
 MLID 1.0.1
-mlim 0.3.0
+mlim 0.6.0
 mLLMCelltype 2.0.8
 mllrnrs 0.0.9
 mlma 6.3-1
@@ -13535,7 +13536,7 @@ moranajp 0.9.8
 morepls 0.2.1
 morestopwords 0.2.0
 mori 0.2.2
-morph 1.1.0
+morph 2.0.0
 morphemepiece 1.2.3
 morphemepiece.data 1.2.0
 morphErr 1.0.0
@@ -13927,7 +13928,7 @@ MultiRNG 1.2.4
 MultiRobust 1.0.5
 multiSA 0.5.0
 MultiscaleDTM 1.0.1
-multiScaleR 0.7.0
+multiScaleR 0.7.2
 MultiscaleSCP 0.1.1
 multiscape 1.0.7
 multiselect 0.1.0
@@ -16941,7 +16942,7 @@ PropTestR 1.0.0
 proPubBills 0.1
 ProPublicaR 1.1.4
 proratar 0.1.0
-PROreg 1.3.2
+PROreg 1.3.3
 PROscorer 0.0.4
 PROscorerTools 0.0.4
 PROsetta 0.4.2
@@ -18094,7 +18095,7 @@ RCTrep 1.2.0
 RCTS 0.2.4
 RCurl 1.98-1.20
 Rcurvep 1.3.2
-rcxl 0.1.0
+rcxl 0.1.1
 RCytoGPS 1.2.14
 RCzechia 1.12.10
 rd2d 1.0.0
@@ -18577,7 +18578,7 @@ restfulr 0.0.17
 restimizeapi 1.0.0
 RESTK 1.0.2
 RestoreNet 1.0.1
-restrictR 0.1.0
+restrictR 0.3.0
 restriktor 0.6-50
 RestRserve 1.2.4
 result 0.1.0
@@ -18679,7 +18680,7 @@ rfviz 1.0.1
 rgabriel 0.9
 RGAN 0.1.1
 RGAP 0.1.1
-rgbif 3.8.5
+rgbif 3.9.0
 rgbIndices 0.1.1
 RGBM 1.0-11
 Rgbp 1.1.4
@@ -21761,7 +21762,7 @@ spFSR 2.0.4
 spGARCH 0.2.3
 spgs 1.0-4
 spgwr 0.6-37
-sphereclust 1.1
+sphereclust 1.2
 spheredata 0.1.3
 sphereML 0.1.1
 SphereOptimize 0.1.1
@@ -22513,7 +22514,7 @@ surveyexplorer 0.2.0
 surveyframe 0.4.2
 surveygraph 1.0.0
 SurveyNCD 0.1.0
-surveyplanning 4.0
+surveyplanning 4.1
 surveyPrev 2.0.0
 surveysd 2.0.3
 surveysearch 0.1.0
@@ -23250,7 +23251,7 @@ tidyklips 0.3.0
 tidylaslog 0.1.2
 tidylda 0.1.1
 tidylearn 0.5.0
-tidyllm 0.6.0
+tidyllm 0.7.0
 tidylo 0.2.0
 tidylog 1.1.0
 tidyLPA 2.0.2

@@ -352,6 +352,7 @@ agriutilities 1.2.3
 agriwater 1.0.2
 agrmt 1.42.21
 agrobox 0.4.0
+AgroMetIndices 0.1.0
 AgroR 1.3.7
 AgroReg 1.2.11
 agrostab 0.1.0
@@ -1702,7 +1703,7 @@ bigparallelr 0.3.2
 bigPCAcpp 0.9.1
 bigPLScox 0.8.1
 bigPLSR 0.8.0
-BIGpopA 2.0.0
+BIGpopA 2.1.0
 bigQF 1.6
 BIGr 0.7.2
 bigreadr 0.2.5
@@ -2181,6 +2182,7 @@ brand.yml 0.1.0
 brandr 0.1.0
 brandwatchR 0.3.0
 brant 0.3-0
+brapiR2 0.2.0
 braQCA 1.4.11.27
 brar 0.1.1
 brassica 1.0.3
@@ -3215,7 +3217,7 @@ clinicalfair 0.1.0
 clinicalomicsdbR 1.0.6
 clinicalsignificance 3.0.0
 ClinicalTrialSummary 1.1.1
-ClinicalUtilityRecal 0.1.0
+ClinicalUtilityRecal 0.1.1
 clinify 0.4.0
 clinmon 0.6.0
 clinPK 0.13.0
@@ -3874,6 +3876,7 @@ copyseparator 1.2.0
 COR 0.2.0
 cora 0.1.0
 coRanking 0.2.5
+CORAtool 0.1.2
 corazon 0.1.0
 corbouli 0.1.5
 corclass 0.2.1
@@ -6211,7 +6214,7 @@ english 1.2-6
 EngrEcon 1.0.0
 engression 0.1.6
 EngrExpt 0.1-8
-enhancer 1.1.1
+enhancer 1.1.2
 ENMeval 2.0.6
 enmpa 0.2.5
 enmSdmX 1.2.12
@@ -7035,7 +7038,7 @@ fdesigns 1.2
 fdic 0.1.2
 fdicdata 0.1.2
 fdid 1.0.2
-fdm2id 1.0.1
+fdm2id 1.0.2
 fDMA 2.2.9
 FDOTT 0.2.0
 fdp 1.0.0
@@ -7230,7 +7233,7 @@ first 2.1
 Fiscal 1.0.2
 FiSh 1.1
 fishbc 0.2.2
-fishboot 1.0.3
+fishboot 1.0.4
 fishdata 1.0.1
 FishDiveR 1.1.0
 FisherEM 1.6
@@ -8004,7 +8007,7 @@ GDILM.ME 1.2.1
 GDILM.SEIRS 0.0.7
 GDILM.SIR 1.2.1
 gdim 0.1.1
-GDINA 2.13.1
+GDINA 2.13.2
 gdistance 1.6.5
 gdldata 0.3
 gdm 1.6.0-7
@@ -9413,7 +9416,7 @@ haven 2.5.5
 HawaSpatial 0.1.10
 hawkes 0.0-4
 hawkesbow 1.0.3
-hawkinR 2.0.1
+hawkinR 2.2.0
 HazardDiff 0.1.0
 hazer 1.1.1
 hbal 1.3.0
@@ -9667,7 +9670,7 @@ hirisplexr 0.1.0
 hIRT 0.4.0
 hisse 2.1.11
 HistDat 0.2.0
-HistData 1.1.0
+HistData 1.1.1
 HistDAWass 1.0.8
 histmdl 0.7-1
 histogram 0.0-25
@@ -9726,7 +9729,7 @@ hnp 1.2-7
 HNPclassifier 0.2.1
 hoardr 0.5.5
 HOasso 1.0.1
-hobbs 0.4.4
+hobbs 0.4.5
 hoboR 1.1.0
 hockeystick 1.0.0
 HodgesTools 1.0.0
@@ -10036,7 +10039,7 @@ icenReg 2.0.16
 icensBKL 1.5
 icensmis 1.5.0
 icertool 0.0.3
-icesAdvice 2.1.1
+icesAdvice 2.1.2
 IceSat2R 1.1.0
 ICESat2VegR 0.0.3
 icesConnect 1.1.4
@@ -10633,7 +10636,7 @@ irtGUI 0.2
 IRTM 0.0.1.2
 irtoys 0.2.2
 irtpwr 1.0.3
-irtQ 1.2.0
+irtQ 1.3.0
 irtrees 1.0.0
 irtreliability 0.1-1
 IRTShiny 1.2
@@ -10721,7 +10724,7 @@ itan 3.1.1
 itcSegment 1.0
 itdr 2.0.1
 itemanalysis 1.1
-ItemRest 0.2.5
+ItemRest 1.0.0
 iTensor 1.0.6
 IterativeHardThresholding 1.0.3
 iteratoR 0.1.1
@@ -13025,7 +13028,7 @@ minesweeper 1.0.1
 mineSweepR 0.1.1
 minex 0.2.0
 minFactorial 0.1.0
-mini007 0.4.0
+mini007 0.5.0
 minic 1.0.3
 miniCRAN 0.3.2
 minidown 0.4.0
@@ -13056,7 +13059,7 @@ minter 0.2.0
 MINTplates 1.0.1
 MinTriadic 1.0.0
 minty 0.0.6
-mintyr 0.1.3
+mintyr 0.2.0
 mipfp 3.2.3
 mipplot 0.3.1
 mirai 2.7.3
@@ -13570,7 +13573,7 @@ mosclust 1.0.3
 MOsemiind 0.1.2
 MOST 0.1.2
 mosum 1.2.7
-MoTBFs 2.0
+MoTBFs 2.0.1
 MOTE 1.2.2
 motherduck 0.2.1
 motif 0.6.5
@@ -14312,7 +14315,7 @@ netplot 0.4-0
 NetPreProc 1.2
 netrankr 2.0.0
 NetRep 1.2.10
-netrics 1.0.3
+netrics 1.1.0
 netropy 0.3.0
 NetSci 1.0.1
 netseer 0.1.3
@@ -15127,6 +15130,7 @@ openscoring 1.2.0
 opensimplex2 0.0.3
 openSkies 1.3.1
 OpenSourceAP.DownloadR 0.1.0
+OpenSpecy 2.0.1
 openssl 2.4.2
 OpenStreetMap 0.4.1
 opentripplanner 0.5.2
@@ -15673,7 +15677,7 @@ pawacc 1.2.4
 paws 0.10.0
 paws.analytics 0.10.0
 paws.application.integration 0.10.0
-paws.common 0.8.10
+paws.common 0.9.0
 paws.compute 0.10.0
 paws.cost.management 0.10.0
 paws.customer.engagement 0.10.0
@@ -17753,6 +17757,9 @@ rapsimng 0.6.0
 rapsimng.canola 0.1.0
 rapsimng.chickpea 0.1.0
 rapsimng.decide.core 0.1.1
+rapsimng.decide.cultivar 0.1.0
+rapsimng.decide.nitrogen 0.1.0
+rapsimng.decide.sowing 0.1.0
 rapsimng.fababean 0.1.0
 rapsimng.lentil 0.1.0
 rapsimng.lupin 0.1.0
@@ -18718,7 +18725,7 @@ RGMM 2.1.0
 RGN 1.0.0
 rgnoisefilt 1.1.3
 rgnparser 0.3.0
-Rgof 4.0.0
+Rgof 4.0.1
 rgoogleads 0.15.0
 RGoogleAnalyticsPremium 0.1.1
 rgoogleclassroom 1.0.0
@@ -19740,6 +19747,7 @@ rtoot 1.0.0
 rtop 0.6-17
 rTPC 1.1.0
 rtpcr 2.2.0
+rtprep 0.1.0
 Rtrack 2.0.4
 RTransferEntropy 0.2.21
 rtransparency 1.2.0
@@ -21538,7 +21546,7 @@ sparkavro 0.3.0
 sparkbq 0.1.1
 sparkhail 0.1.1
 sparkline 2.0
-sparklyr 1.9.5
+sparklyr 1.9.6
 sparklyr.flint 0.2.2
 sparklyr.nested 0.0.4
 sparktex 0.1
@@ -21682,7 +21690,7 @@ spc4sts 0.6.5
 spca 1.1.4
 spcadjust 1.1
 SPCALDA 1.0
-spCF 0.2.1
+spCF 0.2.2
 SPCompute 1.0.3
 spconf 1.0.1
 spconform 0.1.1
@@ -21812,6 +21820,7 @@ splitGraph 0.4.0
 splithalf 0.8.2
 splithalfr 3.0.0
 SplitKnockoff 2.1
+splitpopsurv 0.1.0
 splitr 0.1.0
 SplitReg 1.0.3
 splitSelect 1.0.3
@@ -22807,7 +22816,7 @@ tailplots 0.1.1
 TailRank 3.2.6
 tailTransform 2.0.0
 taipan 0.1.2
-talib 0.9-3
+talib 0.9-4
 talkr 0.1.3
 tall 1.0.1
 TAM 4.3-25
@@ -23147,6 +23156,7 @@ ThermIndex 0.2.0
 thermocouple 1.0.2
 TheseusPlot 0.3.0
 TheSFACE 0.1.0
+ThesiStats 1.1.0
 thestats 0.1.0
 THETASVM 0.1.0
 thgenetics 0.4-2
@@ -23229,7 +23239,7 @@ tidyEmoji 0.4.0
 tidyestimate 1.1.1
 tidyextreme 1.0.0
 tidyfast 0.4.0
-tidyfinance 0.8.0
+tidyfinance 0.9.0
 tidyfst 1.8.4
 tidyft 0.9.20
 tidyfun 0.2.0
@@ -23454,7 +23464,7 @@ tmaptools 3.3
 tmapverse 0.1.0
 TMB 1.9.25
 tmbstan 1.2.1
-TmCalculator 1.1.1
+TmCalculator 1.1.2
 TMDb 1.1
 tmdbR 0.2.2
 tmfast 0.1.1
@@ -24916,7 +24926,7 @@ wktmo 1.0.5
 WLogit 2.1
 WLreg 1.0.0.1
 wlsd 1.0.1
-WMAP 1.3.1
+WMAP 1.3.2
 WMFM 1.1.4
 wmm 1.1.1
 wmwAUC 1.0.0
@@ -25049,6 +25059,7 @@ xaiHydro 0.1.0
 xaringan 0.31
 xaringanExtra 0.8.0
 xaringanthemer 0.4.4
+xbioclim 1.0.3
 Xcertainty 1.0.1
 xdcclarge 0.1.0
 XDNUTS 1.6.5
@@ -25158,6 +25169,7 @@ xwf 0.2-4
 xxdi 1.26.8
 xxhashlite 0.2.2
 XYomics 0.1.5
+xyt 0.1.0
 yaap 1.0.0
 yacca 1.4-2
 yaConsensus 1.1

@@ -283,6 +283,7 @@ AER 1.2-17
 AeRobiology 2.0.4
 AeroEvapR 0.1.6
 AeroSampleR 0.3.0
+aersn 0.2.3
 aesopR 0.1.0
 afc 1.5.0
 afcharts 0.5.1
@@ -1003,7 +1004,7 @@ autoFRK 1.4.4
 autogam 0.1.0
 AutoGenAI 0.1.0
 autoGO 1.0.3
-autograph 1.2.3
+autograph 1.2.6
 autoharp 0.3.2
 autohrf 1.1.3
 autoimage 2.2.3
@@ -1442,6 +1443,7 @@ BBI 0.3.0
 bbk 0.13.0
 bbknnR 2.0.2
 bbl 1.0.0
+BBMBC 0.1.0
 BBmisc 1.13.1
 bbmix 1.0.0
 bbmle 1.0.26
@@ -2213,7 +2215,7 @@ brew 1.0-10
 brfinance 0.9.0
 brfssdata 0.1.0
 brglm 0.7.3
-brglm2 1.1.0
+brglm2 1.1.1
 brickset 2026.0.0
 brickster 0.2.14
 bridgedist 0.1.3
@@ -2913,6 +2915,7 @@ charisma 1.0.0
 charlatan 0.6.2
 charlesschwabapi 1.0.5
 charport 0.1.1
+charr 0.1.0
 chartql 0.1.0
 chartreview 1.0
 chat.api 0.1.0
@@ -3112,6 +3115,7 @@ cito 1.1
 ciTools 0.6.1
 citrus 1.0.2
 citsr 0.1.4
+citydistR 0.1.0
 ciu 0.8
 ciuupi 1.2.4
 ciuupi2 1.0.2
@@ -3513,6 +3517,7 @@ cointsmall 1.0.4
 col2hex2col 0.5.3
 cold 2.0-3
 coldrift 0.1.1
+coldstart 0.1.0
 collapse 2.1.8
 collapsibleTree 0.1.8
 collateral 0.5.2
@@ -4763,6 +4768,7 @@ decido 0.4.0
 decimal 0.1.1
 decision 0.1.0
 DecisionDrift 0.1.0
+decisionfacets 0.1.0
 decisionpaths 0.1.0
 decisionSupport 1.115
 deckgl 0.3.0
@@ -5485,6 +5491,7 @@ DR.SC 3.7
 dr4pl 2.0.0
 dracor 0.2.7
 dragmapr 0.2.0
+dragonfarm 0.3.3
 dragonking 0.1.0
 dragracer 0.1.7
 dragulaR 0.3.1
@@ -5516,6 +5523,7 @@ drhur 2.0.1
 drhutools 1.1.1
 dRiftDM 0.3.3
 drifter 0.2.1
+driftwatch 0.1.0
 DrillR 0.1
 drimmR 1.0.3
 DrImpute 1.0
@@ -5727,6 +5735,7 @@ dynCorr 1.1.0
 DynCount 0.2.0
 dyndimred 1.0.4
 dynemu 1.0.2
+Dynet 0.5.1
 dynetNLAResistance 0.1.0
 DynForest 1.2.0
 dyngen 1.1.1
@@ -5772,7 +5781,7 @@ easyAHP 0.1.1
 easyalluvial 0.4.1
 easyanova 11.0
 easybgm 0.5.1
-easybio 1.2.3
+easybio 1.3.0
 easycensus 1.1.4
 easyclimate 1.0.0
 easyCODA 0.40.2
@@ -5960,6 +5969,7 @@ edgebundleR 0.1.4
 edgeCorr 1.0
 edgedata 0.2.0
 edgemodelr 0.4.3
+EDI 1.0.2
 edibble 1.1.1
 ediblecity 0.2.2
 edina 0.1.2
@@ -6255,7 +6265,7 @@ EnvCpt 1.1.5
 envDocument 2.4.2
 enveomics.R 1.10.0
 envi 1.0.1
-enviGCMS 0.8.0
+enviGCMS 0.9.0
 enviPat 2.8
 envir 0.3.0
 envirem 3.2
@@ -7469,7 +7479,7 @@ foodquotient 0.1.1
 foodwebr 1.1.0
 foodwebWrapper 1.2.0
 footballpenaltiesBL 1.0.0
-footBayes 2.0.0
+footBayes 2.1.0
 footprint 0.2
 foqat 2.0.8.2
 ForagingOrg 0.1.0
@@ -7641,7 +7651,7 @@ freecurrencyapi 0.1.0
 freedom 1.0.1
 freegroup 1.2-1-1
 freestiler 0.3.0
-freesurfer 1.8.1
+freesurfer 1.9.0
 freesurferformats 1.1.0
 FREEtree 0.1.0
 freewall 1.0.0
@@ -8809,6 +8819,7 @@ gluedown 1.0.9
 gluvarpro 7.0
 glvmfit 0.1.0
 glydraw 0.9.0
+glymotif 1.0.0
 glyparse 0.8.1
 glyph 0.1.1
 glyrepr 1.1.0
@@ -10149,7 +10160,7 @@ iemisctext 1.0.1
 ierd 0.1.1
 IETD 1.0.0
 ieTest 2.1
-ieugwasr 1.1.0
+ieugwasr 1.2.0
 ifaTools 0.23
 IFC 0.2.1
 ifCNVR 0.1.0
@@ -10440,6 +10451,7 @@ InspectionPlanner 1.2
 inspector 1.0.3
 instagramadsR 0.1.0
 install.load 1.2.5
+installationDriver 1.0
 installr 0.23.4
 instantiate 0.2.3
 instaR 0.2.4
@@ -10714,7 +10726,7 @@ isotone 1.1-2
 isotonic.pen 1.0
 isotracer 1.1.9
 isotree 0.6.1-5
-isoWater 1.2.2
+isoWater 1.2.3
 ISOweek 0.6-2
 ISPAT3D 0.3.1
 ispd 0.2
@@ -11127,7 +11139,7 @@ kkmeans 0.1.3
 kknn 1.4.1
 kko 1.0.1
 klaR 1.7-4
-klassR 1.0.7
+klassR 1.0.8
 klausuR 0.12-14
 kldest 1.0.0
 kldtools 1.2
@@ -11316,6 +11328,7 @@ lakhesis 1.1.2
 LAM 0.7-22
 LaMa 2.1.3
 lambda.r 1.2.4
+lambdastar 0.8.1
 lambdaTS 2.0.0
 lambdr 1.2.5
 LambertW 0.6.9-2
@@ -12818,6 +12831,7 @@ metaumbrella 1.1.0
 MetaUtility 2.1.2
 metavcov 2.1.5
 metaviz 0.4.0
+metaweave 0.4.1
 metawho 0.2.0
 MetBrewer 0.2.0
 meteo 2.0-5
@@ -14035,7 +14049,7 @@ MVET 0.1.0
 mvfmr 0.2.0
 mvgam 1.1.594
 mvgb 0.0.6
-mvglmmRank 1.2-6
+mvglmmRank 1.2-7
 mvGPS 1.2.2
 mvhist 1.2
 mvhtests 1.2
@@ -14941,6 +14955,7 @@ odyssey 1.0.1
 OECD 0.2.5
 oecdoda 0.1.0
 OEFPIL 0.1.2
+oeis.tools 0.3.1
 oeli 0.7.8
 oem 2.0.12
 oenb 0.1.0
@@ -15143,7 +15158,7 @@ openscoring 1.2.0
 opensimplex2 0.0.3
 openSkies 1.3.1
 OpenSourceAP.DownloadR 0.1.0
-OpenSpecy 2.0.1
+OpenSpecy 2.0.3
 openssl 2.4.2
 OpenStreetMap 0.4.1
 opentripplanner 0.5.2
@@ -15746,7 +15761,7 @@ PCAmatchR 0.3.3
 PCAmixdata 3.1
 pcaone 1.1.0
 PCAPAM50 1.0.4
-pcaPP 2.0-5
+pcaPP 2.0-7
 pcatR 1.0.1
 pcatsAPIclientR 1.3.0
 PCBN 0.1.1
@@ -15848,6 +15863,7 @@ PEAXAI 1.0.3
 pec 2025.06.24
 pecan 0.1.0
 pecanr 0.3.1
+pecme 0.1.1
 pecora 0.1.3
 pECV 1.0.1
 pedalfast.data 1.0.2
@@ -16331,7 +16347,7 @@ plotlsirm 0.1.3
 plotluck 1.1.1
 plotly 4.12.1
 plotlyGeoAssets 0.0.2
-plotMCMC 2.0.1
+plotMCMC 2.0.2
 plotMElm 0.1.5
 plotmm 0.1.2
 plotmo 3.7.1
@@ -16414,7 +16430,7 @@ pmxcode 0.3.2
 pmxcv 0.0.2
 pmxNODE 0.2.1
 pmxpartab 0.5.0
-pmxTools 1.5
+pmxTools 1.6
 PNADcIBGE 0.7.5
 PNADCperiods 0.1.3
 PNAR 1.8
@@ -17822,7 +17838,7 @@ ratematrix 1.2.5
 rater 1.3.2
 rateratio.test 1.1
 raters 2.1.1
-ratesci 1.1.0
+ratesci 1.1.1
 RATest 0.1.12
 RAthena 2.6.3
 RatingScaleReduction 1.4
@@ -19799,7 +19815,7 @@ ruler 0.3.2
 rules 1.0.3
 RulesTools 0.1.1
 rUM 2.3.0
-rumenGP 0.1.1
+rumenGP 0.2.1
 rumidas 0.1.3
 ruminate 0.3.2
 runcharter 0.2.0
@@ -20137,7 +20153,7 @@ scan 0.68.1
 scanCP 0.1.0
 scanr 0.1.1
 scanstatistics 1.1.2
-scape 2.3.5
+scape 2.3.6
 scaper 0.2.0
 scapesClassification 1.0.0
 scapGNN 0.1.4
@@ -20585,7 +20601,7 @@ sequential.pops 0.1.1
 SequentialDesign 1.0
 sequoia 3.2.0
 seqwrap 0.8.1
-serad 0.2.5
+serad 0.2.6
 sergeant 0.9.1
 serial 3.1.1
 seriation 1.6.0
@@ -21499,7 +21515,7 @@ SOPC 0.1.0
 soptdmaeA 1.0.1
 soql 0.1.1
 SOR 0.23.1
-sorcering 1.2.3
+sorcering 1.2.4
 soReta 0.1.0
 sorocs 0.1.0
 SorptionAnalysis 0.1.0
@@ -21536,7 +21552,7 @@ spacesRGB 1.7-0
 spacesXYZ 1.6-0
 spacetime 1.3-4
 SpaceTimeBSS 0.4-0
-spaci 0.1.1
+spaci 0.2.0
 SPACO 1.0.3
 SpaCOAP 1.3
 spacyr 1.3.0
@@ -21638,6 +21654,7 @@ spatialAtomizeR 0.2.8
 SpatialBSS 0.16-0
 spatialCatalogueViewer 0.2.1
 spatialCovariance 0.6-9
+spatialcvR 0.1.0
 spatialData 1.0.1
 SpatialDownscaling 0.1.2
 spatialEco 2.0-5
@@ -21707,7 +21724,7 @@ spc4sts 0.6.5
 spca 1.1.4
 spcadjust 1.1
 SPCALDA 1.0
-spCF 0.2.2
+spCF 0.2.2.1
 SPCompute 1.0.3
 spconf 1.0.1
 spconform 0.1.1
@@ -21867,7 +21884,7 @@ SpNMF 0.1.1
 spnn 1.3.0
 spNNGP 1.0.2
 spocc 1.2.4
-spOccupancy 0.8.1
+spOccupancy 0.8.2
 spoiler 1.0.0
 SpoMAG 0.1.0
 spongebob 0.4.0
@@ -22253,7 +22270,7 @@ stgam 1.2.1
 sticky 0.5.6.1
 stickyr 0.1.3
 STICr 1.1.2
-SticsRFiles 1.7.0
+SticsRFiles 1.7.2
 stIHC 0.1.0
 sTiles 2026.9.4
 stilt 1.3.1
@@ -23791,7 +23808,7 @@ triplesmatch 1.1.0
 tripsAndDipR 0.1.0
 triptych 0.1.3
 tRnslate 0.0.3
-troopdata 1.0.4
+troopdata 1.1.0
 tropAlgebra 0.1.1
 TropFishR 1.6.6
 trotter 0.6
@@ -23966,6 +23983,7 @@ TunePareto 2.5.3
 tuneR 1.4.7
 tuneRanger 0.8.1
 turboEM 2025.1
+turfLP 0.2.0
 turkeyelections 0.1.4
 turner 0.2.0
 TurtleGraphics 1.0-8

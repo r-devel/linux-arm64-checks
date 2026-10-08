@@ -242,7 +242,7 @@ admixr 0.9.2
 admixr2 0.4.1
 ADMM 0.3.4
 admmDensestSubmatrix 0.1.0
-admtools 0.6.0
+admtools 0.7.0
 adnuts 1.1.2
 adobeanalyticsr 0.5.1
 adoptr 1.1.2
@@ -771,6 +771,7 @@ arcpy 0.4-0
 arcstat 0.3.0
 ArctosR 0.1.3
 aRD 0.1.0
+ardea 0.0.9
 ArDec 2.1-1
 ARDECO 2.2.3
 ARDL 0.2.5
@@ -1052,7 +1053,6 @@ AutoWMM 1.0.2
 AuxSurvey 1.1
 auxvecLASSO 0.2.0
 av 0.9.6
-AV1R 0.1.3
 available 1.1.0
 avar 0.1.3
 AvatarTLA 0.1.0
@@ -1822,7 +1822,7 @@ biomes 0.9.5
 biometrics 1.0.4
 biometryassist 1.5.1
 BioMixModel 1.0.0
-biomod2 4.3-4-6
+biomod2 4.3-4-7
 BioMonTools 1.3.2
 BioMoR 0.1.1
 bionetdata 1.1
@@ -2139,6 +2139,7 @@ box 1.2.3
 box.linters 0.10.7
 box.lsp 0.1.4
 boxcoxmix 0.46
+BoxDensityPlot 0.1.0
 boxfilter 0.2
 boxly 0.1.2
 boxplotcluster 0.3
@@ -3108,6 +3109,7 @@ citationchaser 0.0.4
 citcdf 1.1.0
 citecorp 0.3.0
 CiteSource 0.2.1
+citesperu 0.1.0
 citestR 0.1.1
 cities 0.1.3
 CITMIC 0.1.3
@@ -3138,6 +3140,7 @@ Claddis 0.7.0
 cladoRcpp 0.15.1
 ClaimsProblems 1.0.0
 clam 2.6.3
+clampSeg 1.3-0
 ClamR 2.1-3
 clap 0.1.0
 clarabel 0.11.3
@@ -3560,7 +3563,7 @@ colorrepel 0.5.2
 colors3d 1.0.1
 colorscience 1.0.9
 colorsGen 1.0.0
-colorspace 2.1-3
+colorspace 2.1-4
 colorSpec 1.8-0
 Colossus 1.6.3
 colouR 0.1.1
@@ -6496,6 +6499,7 @@ estmeansd 1.0.1
 estprod 1.2
 esviz 0.0.4
 et.nwfva 0.2.0
+ET0TempModels 1.0.0
 etable 1.3.1
 ETAS 0.7.2
 ETASbootstrap 0.2.1
@@ -6622,7 +6626,7 @@ exametrika 2.1.0
 examly 0.3
 ExamPAData 0.5.0
 exampletestr 1.7.3
-exams 2.4-4
+exams 2.4-5
 exams.forge 1.0.13
 exams.forge.data 0.1.3
 exams.mylearn 1.4
@@ -7743,7 +7747,7 @@ fuel 1.2.0
 FuelDeep3D 0.1.1
 fueleconomy 1.0.0
 fugue 0.1.7
-fuj 0.2.2
+fuj 0.3.0
 fullfact 1.6
 fullRankMatrix 0.1.0
 fullROC 0.1.0
@@ -8542,7 +8546,7 @@ ggquickeda 0.3.3
 ggquiver 0.5.0
 ggragged 0.2.0
 ggrain 0.1.2
-ggRandomForests 3.5.3
+ggRandomForests 3.5.4
 ggrank 0.1.0
 ggraph 2.2.2
 ggraptR 1.3
@@ -8588,7 +8592,7 @@ ggspark 0.0.2
 ggspatial 1.1.11
 ggspec 0.1.0
 ggspectra 0.4.1
-ggsql 0.3.3
+ggsql 0.5.2
 ggstackplot 0.4.1
 ggstance 0.3.7
 ggstar 1.0.6
@@ -9274,7 +9278,7 @@ gtexture 1.0.1
 gtfs2emis 0.1.2
 gtfs2gps 2.1-4
 GTFShift 1.0.0
-gtfsio 1.2.1
+gtfsio 1.2.2
 gtfsrealtime 0.2.1
 gtfsrouter 0.1.4
 gtfstools 1.4.0
@@ -9535,7 +9539,7 @@ healthmotionR 0.2.0
 healthyAddress 0.5.2
 healthyR 0.2.2
 healthyR.ai 0.1.2
-healthyR.data 1.2.0
+healthyR.data 1.2.1
 healthyR.ts 0.3.2
 heaping 0.2.0
 heapsofpapers 0.1.0
@@ -9593,6 +9597,7 @@ hetcorFS 1.0.1
 HeterFunctionalData 1.0
 heterocop 1.0.1
 heterogen 1.2.33
+heterogeneouspeereffects 0.1.0
 heterometa 0.5
 heteromixgm 2.0.2
 heteroTests 0.11.2
@@ -9953,7 +9958,7 @@ HyperbolicDist 0.6-5
 hypercube 0.2.1
 HyperG 1.0.0
 hypergate 0.8.5
-hypergeo 1.2-14
+hypergeo 1.2-15
 hypergeo2 0.2.0
 hypergraph.sizing 1.0.1
 hyperoverlap 1.1.4
@@ -10536,7 +10541,7 @@ intsvy 2.9
 inum 1.0-5
 invacost 1.1-7
 InvariantCausalPrediction 0.8
-invasible 0.1.1
+invasible 1.0.0
 InvasionCorrection 0.1
 invctr 0.2.0
 inventorize 1.1.2
@@ -10855,7 +10860,7 @@ jewel 2.0.3
 jfa 0.7.4
 JFE 2.5.11
 JFM 1.0.1
-jgd 0.2.0
+jgd 0.2.1
 JGR 1.9-2
 jgsbook 1.0.8
 JICO 0.1
@@ -11084,6 +11089,7 @@ keyclust 1.2.5
 keyed 0.2.0
 keyholder 0.1.8
 keylist 1.0.0
+KeyNubLicDongle 1.1.1
 keyperm 0.1.1
 keyplayer 1.0.4
 keypress 1.3.2
@@ -11404,7 +11410,7 @@ LatticeDesign 4.0-1
 latticeExtra 0.6-31
 LatticeKrig 9.4.1
 lava 1.9.3
-lavaan 0.7-2
+lavaan 0.7-3
 lavaan.mi 0.1-1
 lavaan.printer 0.1.2
 lavaan.shiny 1.2
@@ -12601,7 +12607,7 @@ mdgc 0.1.7
 MDgof 1.2.0
 MDimNormn 0.8.0
 mdir.logrank 0.0.4
-mditools 0.1.0
+mditools 0.1.1
 MDMA 2.0.0
 mdmb 1.9-22
 MDMR 0.5.2
@@ -14133,7 +14139,7 @@ mycor 0.1.1
 myCRAN 1.3
 myIO 1.4.0
 MYIS 0.1.0
-myman 0.1.0
+myman 0.10.0
 MyoScore 1.0.1
 myownrobs 1.0.0
 myrror 0.1.2
@@ -15606,7 +15612,7 @@ paran 1.5.6
 parasiteR 1.1.1
 ParBayesianOptimization 1.3.0
 parcats 0.1.0
-ParCC 1.4.0
+ParCC 1.4.1
 parcr 0.6.1
 parcxl 0.1.0
 ParDNAcopy 2.0
@@ -15707,16 +15713,16 @@ paws 0.10.0
 paws.analytics 0.11.0
 paws.application.integration 0.11.0
 paws.common 0.9.0
-paws.compute 0.10.0
+paws.compute 0.11.0
 paws.cost.management 0.11.0
 paws.customer.engagement 0.11.0
 paws.database 0.11.0
 paws.developer.tools 0.11.0
 paws.end.user.computing 0.11.0
-paws.machine.learning 0.10.0
+paws.machine.learning 0.11.0
 paws.management 0.11.0
 paws.networking 0.11.0
-paws.security.identity 0.10.0
+paws.security.identity 0.11.0
 paws.storage 0.11.0
 pawscore 1.0.3
 pb210dating 1.0.1
@@ -16171,7 +16177,7 @@ picreg 0.1.4
 pid 0.65
 PIE 1.0.0
 piecemaker 1.0.2
-piecemeal 0.2.0
+piecemeal 0.3.0
 piecenorms 1.1.0
 piecepackr 1.16.1
 piecewiseSEM 2.3.1
@@ -17259,7 +17265,7 @@ QAEnsemble 1.0.0
 QAIG 0.1.7
 qap 0.1-3
 qape 2.1
-qapproach 0.1.1
+qapproach 0.1.2
 Qapprox 0.2.1
 qardlr 1.1.1
 qarPI 0.1.0
@@ -18627,6 +18633,7 @@ resumiR 1.0.2
 ReSurv 1.1.0
 retel 0.1.1
 retentionflow 0.1.25
+retestR 0.1.0
 rethinker 2.0.0
 rethnicity 0.2.7
 reticulate 1.47.0
@@ -18704,7 +18711,7 @@ rfordummies 0.1.6
 Rforestry 0.11.1.0
 rformat 0.2.0
 RFormatter 0.1.1
-rfPermute 2.5.5
+rfPermute 2.5.6
 RFplus 1.5-4
 RFPM 1.1
 Rfractran 1.0.1
@@ -20578,6 +20585,7 @@ sepkoski 0.0.1
 SepTest 0.0.1
 seq2R 2.0.1
 SeqAlignR 0.1.1
+seqbench 0.1.0
 seqcomp 0.3.0
 seqDesign 1.2
 SeqExpMatch 0.1.1.1
@@ -20981,6 +20989,7 @@ SIHR 2.1.1
 SII 1.3.0
 siie 0.4.0
 siland 3.0.2
+silentema 1.0.0
 SILFS 0.1.0
 SILGGM 1.0.0
 Silhouette 0.9.6
@@ -22503,7 +22512,7 @@ support.BWS2 0.4-0
 support.BWS3 0.2-1
 support.CEs 0.7-0
 supportR 1.6.1
-suppr 1.0.1
+suppr 1.1.0
 sur 1.0.4
 sure 0.2.0
 sureLDA 0.1.0-1
@@ -22624,7 +22633,7 @@ SUSENAS 0.1.0
 susieR 0.14.2
 susographql 0.1.7
 SUSY 0.1.0
-suwo 0.2.1
+suwo 0.2.2
 SVAlignR 0.10.5
 sValues 0.1.8
 svars 1.3.12
@@ -23220,6 +23229,7 @@ ThresholdROC 2.10.0
 ThresholdROCsurvival 1.2.1
 threshr 1.0.8
 thriftr 1.1.8
+throughyear 0.1.0
 ThSQCA 2.0.9
 thunder 1.1.5
 ThurMod 1.1.20
@@ -23300,6 +23310,7 @@ tidyllm 0.7.0
 tidylo 0.2.0
 tidylog 1.1.0
 tidyLPA 2.0.2
+tidymatrix 0.1.0
 tidyMC 1.0.1
 tidymodels 1.5.0
 tidymodlr 1.0.0
@@ -23532,7 +23543,7 @@ tokenizers 0.3.0
 tokenizers.bpe 0.1.6
 tolerance 3.0.0
 tomba 1.0.1
-toml 1.1.0
+toml 1.2.0
 tomledit 0.1.1
 tongfen 0.3.9
 toolbox 0.1.1
@@ -23647,6 +23658,7 @@ tradeIndices 0.1.0
 tradeoffaucdim 0.2.0
 tradepolicy 0.8.0
 TRADER 1.2-6
+tradesimr 0.18.7
 tradestatistics 7.1.0
 Trading 3.2
 TrafficBDE 0.1.2
@@ -23672,6 +23684,7 @@ tramnet 0.0-991
 TRAMPR 1.0-10
 tramvs 0.0-9
 transDA 1.0.3
+transDIF 0.1.0
 transferegovr 0.2.0
 transforEmotion 0.1.7
 Transform 1.1
@@ -23847,6 +23860,7 @@ tryCatchLog 1.3.3
 tryr 0.1.1
 Ts 1.0.1
 TSA 1.3.1
+tsahr 0.2.8.17
 tsallisqexp 0.9-5
 TSANN 0.1.0
 tsapp 1.0.4
@@ -25001,7 +25015,7 @@ WordR 0.3.6
 words 1.0.1
 wordsalad 0.2.0
 wordspace 0.2-9
-wordvector 0.6.4
+wordvector 0.6.5
 workflowr 1.7.2
 workflows 1.3.0
 workflowsets 1.1.1

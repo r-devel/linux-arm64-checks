@@ -4332,7 +4332,7 @@ ctsmTMB 1.1.1
 CTT 2.3.4
 CTTShiny 0.1
 CTTvis 0.1.1
-ctv 1.0-0
+ctv 1.0-1
 CTxCC 0.4.0
 ctxR 1.1.3
 ctypesio 0.1.3
@@ -4727,7 +4727,7 @@ DDESONN 7.1.11
 DDHFm 1.1.4
 ddi 0.1.0
 ddiv 0.1.1
-DDIwR 0.21
+DDIwR 0.22
 DDL 1.0.2
 DDM 1.0-0
 ddml 0.3.1
@@ -12628,7 +12628,7 @@ measr 2.0.1
 MeasurementDiagnostics 0.3.0
 measurementProtocol 0.1.1
 measurements 1.5.1
-measureR 0.0.3
+measureR 0.0.5
 measures 0.3
 measuRing 0.5.2
 meboot 1.5
@@ -12852,7 +12852,7 @@ MethodOpt 1.0.0
 MethScope 1.0.4
 MeTo 0.1.1
 metools 1.0.0
-metR 0.18.3
+metR 0.19.0
 metrica 2.1.1
 MetricGraph 1.6.0
 metricminer 1.0.1
@@ -13719,7 +13719,7 @@ MRQoL 1.0.1
 MRReg 0.1.6
 mrregression 1.0.0
 MRS 1.3.2
-MRStdCRT 0.1.1
+MRStdCRT 0.1.2
 MRStdLCRT 0.1.1
 MRTAnalysis 0.4.1
 MRTSampleSize 0.3.0
@@ -17713,7 +17713,7 @@ randomizationInference 1.0.4
 randomizeBE 0.3-6
 randomizeR 3.0.2
 randomizr 2.0.1
-randomLCA 1.1-4
+randomLCA 1.1-5
 randomMachines 0.1.1
 randomNames 1.6-0.0
 randompack 0.1.10
@@ -24473,7 +24473,7 @@ vennDiagramLab 2.9.0
 venneuler 1.1-4
 VennItem 1.1.0
 vennplot 1.0
-venny 0.0.3
+venny 0.0.4
 VeraCrop 0.1.0
 verbaliseR 0.1
 verbalisr 0.7.2

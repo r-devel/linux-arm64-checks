@@ -2497,6 +2497,7 @@ capesData 0.0.1
 capesR 0.2.0
 capitalR 1.3.0
 capl 1.42
+caples 0.1.0
 caplot 0.2
 capn 2.0.0
 CaPO4Sim 0.2.1
@@ -4240,7 +4241,7 @@ crumble 0.1.2
 crunch 1.31.3
 crwbmetareg 1.0
 cry 0.5.2
-crypto2 2.0.5
+crypto2 3.0.0
 cryptography 1.0.0
 cryptoQuotes 1.3.4
 cryptorng 0.1.4
@@ -6025,7 +6026,7 @@ efdm 0.2.3
 EFDR 1.3
 eff2 1.0.2
 effClust 0.8.0
-effectcheck 0.2.3
+effectcheck 0.7.17
 EffectLiteR 0.5-1
 effectplots 0.2.2
 effects 4.2-5
@@ -6969,7 +6970,7 @@ FastRWeb 1.2-3
 fastsae 0.1.0
 FastSegmentation 0.0.1
 FastStepGraph 0.1.1
-FastSurvival 1.0.0
+FastSurvival 1.1.0
 fastText 1.0.8
 fastTextR 2.1.1
 fasttime 1.1-0
@@ -9296,6 +9297,7 @@ GTRT 0.1.0
 gtstats 1.0.0
 gtsummary 2.6.1
 gtWAS 1.1.1
+gtxlsx 0.4.0
 guaguas 0.3.0
 guardianapi 0.1.1
 GUD 1.0.2
@@ -10444,7 +10446,7 @@ INQC 2.0.5
 Inquilab 0.1.0
 insane 1.0.3
 insect 1.4.4
-insectecol 1.1.1
+insectecol 1.1.2
 InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
@@ -10666,7 +10668,7 @@ irtGUI 0.2
 IRTM 0.0.1.2
 irtoys 0.2.2
 irtpwr 1.0.3
-irtQ 1.3.0
+irtQ 1.3.1
 irtrees 1.0.0
 irtreliability 0.1-1
 IRTShiny 1.2
@@ -10903,7 +10905,7 @@ joineRML 0.4.8
 joinery 1.0.1
 joinet 1.0.0
 joinless 0.0.1
-joinpointR 1.1.0
+joinpointR 2.0.0
 joinspy 0.8.3
 joint.Cox 3.16
 JointAI 1.1.0
@@ -11212,6 +11214,7 @@ koRpus 0.13-9
 koRpus.lang.en 0.1-4
 kosel 0.0.1
 kosis 0.0.1
+KOTORY 0.1.0
 Kpart 1.2.2
 KPC 0.1.4
 kpcaIG 1.0.1
@@ -11343,6 +11346,7 @@ laminr 1.3.1
 lamle 0.3.1
 lamW 2.2.7
 lancor 0.1.3
+land4health 0.3.0
 LandComp 0.0.5
 landest 1.2
 landform 0.2
@@ -11802,7 +11806,7 @@ lmeresampler 0.2.4
 lmerPerm 0.1.9
 lmerTest 3.2-1
 lmeSplines 1.1.20
-LMest 3.2.8
+LMest 4.0.0
 lmf 1.2.1
 LMfilteR 0.1.3.1
 lmfor 1.7
@@ -12786,6 +12790,7 @@ metainc 0.2-1
 metainsight 7.1.0
 MetaIntegration 0.1.2
 metajam 0.3.2
+metalabr 1.0.0
 MetaLandSim 2.0.0
 metalcor 1.0.2
 metaLik 0.44.0
@@ -14989,7 +14994,7 @@ oHMMed 1.0.2
 ohoegdm 0.1.1
 OHPL 1.4.2
 ohsome 0.2.2
-ohun 1.0.4
+ohun 1.0.5
 ohvbd 1.0.1
 oii 1.0.2.1
 OjaNP 2.0
@@ -15490,6 +15495,7 @@ paintingr 0.1.0
 paintmap 1.0
 paintr 0.0.1
 PairedData 1.1.1
+PairedRand 0.1.0
 pairscale 1.0
 pairsD3 0.1.3
 PairViz 1.3.8
@@ -15709,7 +15715,7 @@ PAutilities 1.3.0
 pavdata 0.1.0
 pavo 2.10.0
 pawacc 1.2.4
-paws 0.10.0
+paws 0.11.0
 paws.analytics 0.11.0
 paws.application.integration 0.11.0
 paws.common 0.9.0
@@ -15842,7 +15848,7 @@ PDM 0.1
 PDMIF 0.1.0
 PDN 0.1.0
 pdokr 0.1.0
-pdp 0.8.3
+pdp 0.10.0
 pdqr 0.3.1
 PDQutils 0.1.6
 pdR 1.9.5
@@ -16516,7 +16522,7 @@ polycor 0.8-2
 PolycrossDesigns 1.1.0
 polyCub 0.9.4
 polyglotr 1.7.5
-polyglotSQL 0.1.1
+polyglotSQL 0.1.2
 PolyHaplotyper 1.0.1
 polykde 1.2.1
 polylabelr 1.0.0
@@ -17026,6 +17032,7 @@ proxirr 0.5
 ProxReg 1.1.2
 proxy 0.4-29
 proxyC 0.5.2
+proxymix 0.16.0
 prozor 0.3.1
 PRP 0.1.1
 prqlr 0.10.1
@@ -18156,7 +18163,7 @@ rdataretriever 3.1.1
 Rdatasets 0.0.1
 rdav 0.3.0
 rdbnomics 0.6.4
-rdborrow 0.0.4.2
+rdborrow 0.0.5.0
 rdcmchecks 0.1.1
 rdcor 1.1
 rddapp 1.3.3
@@ -19044,6 +19051,7 @@ rmBayes 0.1.16
 RMCC 0.1.2
 RMCDA 0.3.1
 rmcfs 1.3.6
+rMCHSPTT 0.1.0
 RMCLab 0.1.0
 rmcmc 0.1.2
 rmcorr 0.7.0
@@ -20331,7 +20339,7 @@ scShardSplitRef 0.1.0
 scSpatialSIM 0.1.4
 scStability 1.0.4
 scTenifoldKnk 1.1
-scTenifoldNet 1.4
+scTenifoldNet 1.4.3
 SCtools 0.3.3.1
 sctransform 0.4.3
 scuba 1.11-1
@@ -21153,6 +21161,7 @@ SingRegKrig 0.1.0
 siniaR 0.1.0
 sinib 1.0.0
 SINRELEF.LD 1.1.0
+SINT 0.1.0
 SIP 0.1.0
 SIPDIBGE 0.2.2
 SIPETool 0.1.0
@@ -22445,7 +22454,7 @@ subselect 0.16.2
 subsemble 0.1.0
 substackR 0.1.15
 subtitles 0.1.1
-subtools 1.1.0
+subtools 1.1.1
 SubTS 2.0
 SubtypeDrug 0.1.9
 SubVis 2.0.2
@@ -22748,6 +22757,7 @@ syn 0.1.0
 synadam 0.3.3
 sync3d 0.1.1
 syncdr 0.1.2
+SyncER 1.0.0
 SyncERdata 1.0.0
 synchronicity 1.3.10
 synchrony 0.3.9
@@ -23305,7 +23315,7 @@ tidyjson 0.3.3.1
 tidyklips 0.3.0
 tidylaslog 0.1.2
 tidylda 0.1.1
-tidylearn 0.5.0
+tidylearn 0.6.0
 tidyllm 0.7.0
 tidylo 0.2.0
 tidylog 1.1.0
@@ -25142,6 +25152,7 @@ XiMpLe 0.11-3
 xkcd 0.1.1
 xkcdcolors 1.0
 XKCDdata 0.1.0
+xlamisc 0.5.1
 xlcharts 0.0.2
 XLConnect 1.3.0
 xlcutter 0.1.1

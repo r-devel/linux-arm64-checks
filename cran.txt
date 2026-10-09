@@ -274,7 +274,7 @@ aebdata 0.1.7
 aeddo 0.1.1
 AEDForecasting 0.20.0
 aedl 0.1.0
-aedseo 1.1.0
+aedseo 1.2.0
 AEenrich 1.1.1
 aelab 1.1.3
 aemo 0.4.2
@@ -2219,7 +2219,7 @@ brfssdata 0.1.0
 brglm 0.7.3
 brglm2 1.1.1
 brickset 2026.0.0
-brickster 0.2.14
+brickster 0.2.15
 bridgedist 0.1.3
 bridger2 0.1.0
 bridgesampling 1.2-1
@@ -3202,7 +3202,7 @@ CliftLRD 0.1-2
 clim4health 0.1.0
 climaemet 1.6.0
 ClimaRep 1.1
-climate 1.4.1
+climate 1.4.2
 climateBR 0.2.0
 climatehealth 1.0.3
 climatekit 0.2.2
@@ -3609,7 +3609,7 @@ CommEcol 1.8.1
 commecometrics 1.1.1
 CommKern 1.0.1
 common 1.1.5
-CommonDataModel 1.0.1
+CommonDataModel 1.1.0
 CommonJavaJars 1.1-0
 commonmark 2.0.0
 CommonMean.Copula 1.0.4
@@ -7825,7 +7825,7 @@ futureverse 0.3.0
 futurize 1.0.0
 fuzzr 0.2.2
 FuzzyAHP 0.9.5
-FuzzyClass 0.1.7
+FuzzyClass 0.2.0
 fuzzyforest 1.0.8
 FuzzyImputationTest 0.5.5
 fuzzyjoin 0.1.8
@@ -8437,7 +8437,7 @@ ggforestplotR 0.5.0
 ggformula 2.0.0
 ggfortify 0.4.24
 ggfoundry 0.4.0
-ggfun 0.2.1
+ggfun 0.2.2
 ggfx 1.0.3
 gggap 1.0.1
 gggda 0.2.0
@@ -9244,7 +9244,7 @@ gsMAMS 0.7.2
 gsMeanFreq 0.1.0
 GSMX 1.3
 GSODR 5.0.1
-gson 0.2.1
+gson 0.2.2
 GSparO 1.0
 gspcr 0.9.5
 gsrs 0.1.1
@@ -9278,7 +9278,7 @@ gtExtras 0.6.2
 gtexture 1.0.1
 gtfs2emis 0.1.2
 gtfs2gps 2.1-4
-GTFShift 1.0.0
+GTFShift 1.1.0
 gtfsio 1.2.2
 gtfsrealtime 0.2.1
 gtfsrouter 0.1.4
@@ -9406,6 +9406,7 @@ hanyupinyin 0.1.3
 hapassoc 1.2-9
 Hapi 0.0.3
 Haplin 7.3.2
+haplo.stats 1.9.9.1
 HaploCatcher 2.0.1
 HaploDiploidEquilibrium 0.1.0
 HaploSim 1.8.4.2
@@ -11880,7 +11881,7 @@ LOCOM2 1.0
 locpol 0.9.0
 locStra 1.9
 LOCUS 1.0
-locuszoomr 1.1.0
+locuszoomr 1.2.0
 loder 0.2.1
 lodGWAS 1.0-7
 loedata 1.1
@@ -12288,7 +12289,7 @@ maps 3.4.3
 mapsapi 0.5.4
 mapscanner 0.1.1
 mapSenegal 0.1.1
-mapsf 1.2.2
+mapsf 1.3.0
 mapsf.gui 0.1.0
 mapSpain 1.2.1
 mapsPERU 2.0.1
@@ -15200,7 +15201,7 @@ OPTeCD 1.0.0
 optedr 3.0.1
 OptGS 1.2
 OptHedging 1.0
-OptHoldoutSize 0.1.0.2
+OptHoldoutSize 0.1.0.3
 optic 1.0.1
 optical 1.7.1
 opticskxi 1.2.2
@@ -17764,7 +17765,7 @@ rankimp 1.0.0
 RankingProject 0.4.0
 rankingQ 0.2.0
 rankinma 0.2.2
-rankinPlot 1.1.0
+rankinPlot 1.2.0
 rankMANOVA 0.1.1
 RankPCA 0.1.0
 rankPlayedInference 1.0
@@ -18110,7 +18111,7 @@ RcppProgress 0.4.2
 RcppQuantuccia 0.1.4
 RcppRedis 0.2.6
 RcppRoll 0.4.0
-RcppSimdJson 0.1.15
+RcppSimdJson 0.1.16
 RcppSMC 0.2.9
 RcppSpdlog 0.0.29
 RcppThread 2.4.0
@@ -18913,7 +18914,7 @@ RiskScorescvd 0.3.1
 risksetROC 1.0.4.1
 riskSimul 0.1.2
 riskutility 0.2.0
-riskweightedassets 1.1.1
+riskweightedassets 1.2.4
 RiskyCNV 0.1.0
 riskyr 0.5.0
 RISmed 2.3.0
@@ -20338,7 +20339,7 @@ scs 3.2.7
 scShardSplitRef 0.1.0
 scSpatialSIM 0.1.4
 scStability 1.0.4
-scTenifoldKnk 1.1
+scTenifoldKnk 2.0.0
 scTenifoldNet 1.4.3
 SCtools 0.3.3.1
 sctransform 0.4.3
@@ -20482,7 +20483,7 @@ SelectBoost.quantile 0.3.1
 selection.index 2.0.1
 SelectionBias 2.1.0
 selectiongain 2.0.710
-SelectionTools 26.4
+SelectionTools 26.5
 selectiveInference 1.2.5
 selectMeta 1.0.9
 selectr 0.8-0
@@ -21561,7 +21562,7 @@ sp 2.2-3
 SP2000 0.2.0
 sp23design 0.9-1
 spaa 0.2.5
-spaAlign 0.0.6
+spaAlign 0.0.7
 spAbundance 0.2.1
 spacc 0.8.3
 SpaCCI 1.0.5
@@ -22215,7 +22216,7 @@ stats19 4.1.0
 stats4teaching 0.1.0
 statsapps 0.2.0
 statsearchanalyticsr 0.1.4
-statsExpressions 2.1.1
+statsExpressions 2.1.2
 statsr 0.3.0
 StatsTFLValR 1.0.0
 statswalesr 1.0.0
@@ -23287,7 +23288,7 @@ TidyDensity 1.5.2
 tidydfidx 0.0-3
 tidydice 1.0.0
 tidydp 0.1.0
-tidydr 0.0.6
+tidydr 0.0.7
 tidyedgar 1.0.1
 tidyEdSurvey 0.1.4
 tidyEmoji 0.4.0
@@ -23914,7 +23915,7 @@ tsfknn 0.6.0
 tsfngm 0.1.0
 tsforecast 1.3.1
 tsg 0.1.4
-tsgarch 1.0.4
+tsgarch 1.0.5
 tsgc 2.0.0
 TSGS 1.0.1
 TSGSIS 0.1

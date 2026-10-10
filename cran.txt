@@ -1431,7 +1431,7 @@ BayLum 0.3.3
 bayMDS 2.1
 baymedr 0.2
 bayou 2.3.2
-bayprior 0.3.2
+bayprior 0.4.0
 baystability 0.2.0
 BAYSTAR 0.2-10
 baytaAAR 1.0.3
@@ -1834,7 +1834,7 @@ biopixR 1.2.0
 BioPred 1.0.2
 BioProbability 1.0
 bioRad 0.12.0
-bioregion 1.4.0
+bioregion 1.5.0
 BioRssay 1.1.0
 Bios2cor 2.2.2
 bios2mds 1.2.4
@@ -4898,7 +4898,7 @@ densityClust 0.3.3
 densityratio 0.2.3
 DensParcorr 1.1
 densratio 0.3.1
-denstest 1.0.1
+denstest 1.0.2
 denstrip 1.5.5
 dentomedical 0.2.0
 denvax 0.1.2
@@ -5682,7 +5682,7 @@ duckduckr 1.0.0
 duckh3 0.1.0
 ducklake 0.6.0
 duckplyr 1.2.1
-duckspatial 1.2.1
+duckspatial 1.3.0
 duet 0.1.1
 dumbbell 0.2
 dummy 0.1.3
@@ -6479,7 +6479,7 @@ espadon 1.11.5
 esquisse 2.1.0
 esreg 0.6.2
 ess 1.1.2.1
-essential8 0.1.0
+essential8 0.2.0
 essentialstools 0.1.7
 essHist 1.2.2
 essurvey 1.0.8
@@ -7057,7 +7057,7 @@ fdarep 0.1.1
 fdaSP 1.1.3
 fdasrvf 2.5.0
 fdatest 2.1.1
-fdb 0.2.0
+fdb 0.2.2
 FDboost 1.1-4
 fdclassify 0.1.0
 fddm 1.0-2
@@ -10755,7 +10755,7 @@ IssueTrackeR 1.5.0
 istacr 0.3.1
 istat 1.1.2
 istatR 0.1.0
-iSTATS 1.7
+iSTATS 1.8
 iSTAY 1.1.0
 iSubGen 1.0.5
 isva 1.10
@@ -14406,7 +14406,7 @@ NeuralEstimators 0.2.2
 neuralGAM 2.0.1
 neuralnet 1.44.2
 NeuralNetTools 1.5.3
-neuralnetwork 0.1.1
+neuralnetwork 0.1.4
 neuralsbi 0.3.2
 NeuralSens 1.1.3
 NeuralSTATIS 0.1.0
@@ -20296,7 +20296,7 @@ SCOR 1.1.2
 score 1.0.2
 scorecard 0.4.6
 scorecardModelUtils 0.0.1.0
-scorecraft 0.3.0
+scorecraft 0.3.2
 scoredec 0.1.2
 ScoreEB 0.1.1
 scorematchingad 0.1.6
@@ -20361,7 +20361,7 @@ SCtools 0.3.3.1
 sctransform 0.4.3
 scuba 1.11-1
 scutr 0.2.0
-sd2R 0.2.1
+sd2R 0.2.1.1
 sda 1.3.9
 SDaA 0.1-5
 sdafilter 1.0.1
@@ -25085,7 +25085,7 @@ wqspt 1.0.2
 wqtrends 1.5.2
 WR 1.0
 wrangle 0.6.4
-wrappedtools 0.9.9
+wrappedtools 0.10.0
 wrappr 0.1.0
 wrapr 2.1.0
 wrassp 1.0.6

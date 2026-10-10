@@ -1640,7 +1640,7 @@ bGMYC4 4.1.6
 bgns 0.4.3
 BGPhazard 2.1.1
 bgumbel 0.0.3
-BGVAR 2.5.9
+BGVAR 2.7.0
 bgw 0.1.4
 BH 1.90.0-1
 BHAI 0.99.2
@@ -3834,6 +3834,7 @@ convdistr 1.6.3
 ConvergenceClubs 2.2.5
 ConvergenceConcepts 1.2.3
 convergenceDFM 0.3.2
+ConvergeR 0.99.1
 convergEU 0.7.3.2
 ConversationAlign 0.4.1
 conversim 0.1.0
@@ -4650,6 +4651,7 @@ daySupply 0.1.0
 db2pq 0.0.4
 dbacf 0.2.8
 dbarts 0.9-34
+dbcturbo 0.2.0
 DBCVindex 1.6
 dbd 0.0-22
 DBfit 2.0
@@ -5057,6 +5059,7 @@ diagFDR 0.1.1
 diagis 0.2.3
 diagL1 1.0.1
 diagmeta 0.5-1
+DiagnostySize 0.1.0
 diagonals 6.4.0
 diagram 1.6.5
 DiagrammeR 1.0.12
@@ -6270,7 +6273,7 @@ EnvCpt 1.1.5
 envDocument 2.4.2
 enveomics.R 1.10.0
 envi 1.0.1
-enviGCMS 0.9.0
+enviGCMS 0.9.1
 enviPat 2.8
 envir 0.3.0
 envirem 3.2
@@ -6762,6 +6765,7 @@ EzGP 0.1.0
 ezknitr 0.6.3
 ezplot 0.8.2
 ezr 0.1.5
+EZRShiny 0.1.0
 ezTrack 0.1.1
 EZtune 3.1.1
 f1dataR 2.0.1
@@ -7514,6 +7518,7 @@ forecTheta 3.0.3
 foreign 0.8-91
 forensicolors 1.0.0
 forensicpopdata 1.0.4
+forensicR 0.0.6
 forensim 4.3.3
 forestat 1.2.0
 forestBalance 0.1.0
@@ -8220,6 +8225,7 @@ geohabnet 2.3
 geohashTools 0.3.3
 geoheatmap 0.1.0
 geoidep 0.5.0
+GeoIndexR 0.1.0
 geojson 0.3.5
 geojsonio 0.11.3
 geojsonR 1.1.2
@@ -9517,6 +9523,7 @@ hdpGLM 1.0.5
 hdqr 1.0.2
 hdrcde 3.5.0
 HDRFA 0.1.5
+hdrm 1.0.0
 hds 0.8.1
 HDShOP 0.1.7
 HDSinRdata 0.3.0
@@ -10637,6 +10644,7 @@ irboost 0.2-1.1
 ircor 1.0
 IRdisplay 1.1
 iRegression 1.2.1
+irelink 0.0.1
 iRepro 1.2
 IRexamples 0.0.4
 iRfcb 0.10.0
@@ -12335,7 +12343,7 @@ marketr 0.0.2
 markets 1.1.7
 markmyassignment 0.8.9
 markophylo 1.0.9
-markovchain 1.1.1
+markovchain 1.2
 Markovchart 2.1.5
 markovmix 0.1.3
 markovMSM 0.1.3
@@ -12507,6 +12515,7 @@ mbX 0.2.0
 mc2d 0.2.2
 mcanalysis 0.1.0
 MCARtest 1.3
+MCAtools 1.0.0
 MCAvariants 2.6.1
 mcb 0.1.15
 MCBackscattering 0.1.1
@@ -13538,6 +13547,7 @@ monashtipr 0.1.0
 mondate 1.0
 Mondrian 1.1.2
 mongolite 4.1.0
+mongolmaps 0.1.0
 mongolstats 0.2.0
 mongopipe 0.1.2
 monitoR 1.2
@@ -14808,6 +14818,7 @@ NRMSampling 0.2.2
 NRMstatsML 0.1.4
 nsarfima 0.2.0.0
 NSC 1.1.8
+NSCA 0.4.5
 nscancor 0.7.0-6
 NScluster 1.3.6-5
 nse 1.22
@@ -14937,6 +14948,7 @@ octawave 0.1.1
 octopucs 0.1.1
 octopus 0.4.2
 octopusR 1.0.1
+ocupacoesBR 0.8.2
 od 0.5.1
 oda 0.1.2
 ODataQuery 0.5.3
@@ -16179,6 +16191,7 @@ PiChange 0.0.6
 picker 0.2.6
 pickmax 0.1.0
 picohdr 0.1.1
+PICOTsize 0.1.0
 picR 1.0.1
 picreg 0.1.4
 pid 0.65
@@ -16509,7 +16522,7 @@ polished 0.8.1
 PolisheR 1.1.1
 politeness 0.9.4
 politicsR 0.1.0
-polle 1.6.5
+polle 1.6.6
 pollen 0.83.0
 pollster 0.1.7
 polmineR 0.8.9
@@ -18604,6 +18617,7 @@ ResidentialEnergyConsumption 1.1.0
 resilience 2025.1.1
 ResIN 2.3.2
 ResIndex 0.1.0
+ResistantProcrustes 0.1.1
 ResistorArray 1.0-33
 resizableSplitLayout 0.1.1
 reslife 0.2.1
@@ -18944,6 +18958,7 @@ RJalaliDate 0.1.0
 rJava 1.0-18
 rJavaEnv 0.3.0
 rjd3bench 3.1.3
+rjd3filters 2.4.0
 rjd3jars 0.0.6
 rjd3production 1.2.0
 rjd3providers 3.9.0
@@ -20154,6 +20169,7 @@ sbrl 1.4
 SBSDiff 0.1.0
 sbtools 1.4.1
 sbw 1.2
+sbwadjust 0.3.0
 SC2API 1.0.0
 sc2sc 0.0.1-19
 sca 0.9-3
@@ -20608,6 +20624,7 @@ SeqMADE 1.0
 seqmagick 0.1.9
 seqminer 9.9
 seqmon 2.5
+SeqNet 1.1.4
 seqSHP 0.1.1
 SEQTaRget 1.4.4
 seqtest 0.1-0
@@ -22753,6 +22770,7 @@ symmoments 1.2.2
 symptomcheckR 0.1.3
 symSEM 0.4
 symTensor 0.1.0
+symtests 0.1.0
 SymTS 1.0-2
 syn 0.1.0
 synadam 0.3.3
@@ -23279,6 +23297,7 @@ TidyConsultant 0.1.2
 tidycorrgram 0.1.0
 tidycountries 0.1.0
 tidyCpp 0.0.11
+tidycreel 8.0.0
 tidycwl 1.0.7
 tidydann 1.0.2
 tidydatatutor 0.1.0
@@ -23323,6 +23342,7 @@ tidylog 1.1.0
 tidyLPA 2.0.2
 tidymatrix 0.1.0
 tidyMC 1.0.1
+tidymedia 0.2.1
 tidymodels 1.5.0
 tidymodlr 1.0.0
 TidyMultiqc 1.0.3
@@ -23546,6 +23566,7 @@ TNRS 0.3.6
 toastui 0.4.0
 TOC 0.0-6
 todor 0.1.2
+toeclim 0.1.0
 togglr 0.2.1
 TOHM 1.4
 tok 0.2.3
@@ -24148,6 +24169,7 @@ ultrapolaRplot 0.2.2
 umap 0.2.10.0
 Umatrix 4.0.2
 umbridge 1.0
+UMDA 0.1.0
 ume 1.7.1
 umiAnalyzer 1.0.0
 Umoments 1.0.1
@@ -25010,6 +25032,7 @@ woodValuationDE 1.0.2
 wooldridge 1.4-7
 worcs 0.1.20
 word2vec 0.4.1
+wordbankr 2.0.0
 wordcloud 2.6
 wordcloud2 0.2.1
 wordler 0.3.1

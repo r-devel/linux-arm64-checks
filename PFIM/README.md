@@ -1,6 +1,6 @@
 # PFIM 8.0
 
-Latest run: 2026-10-04: https://github.com/r-devel/linux-arm64-checks/actions/runs/37174188480
+Latest run: 2026-10-11: https://github.com/r-devel/linux-arm64-checks/actions/runs/38106997483
 
 ```
 Package: PFIM

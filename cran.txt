@@ -7182,7 +7182,7 @@ figpatch 0.3.0
 figsr 0.1.1
 file2meco 0.9.1
 fileaccess 0.1.1
-filearray 0.2.3
+filearray 0.2.4
 filebin 0.0.6
 filecacher 0.2.9
 filehash 2.4-6
@@ -7823,7 +7823,7 @@ futility 0.5
 future 1.76.0
 future.apply 1.20.2
 future.batchtools 0.22.0
-future.callr 1.0.0
+future.callr 1.0.1
 future.mirai 1.0.0
 future.tests 1.0.0
 futureverse 0.3.0
@@ -11086,7 +11086,7 @@ kernelshap 0.9.1
 kernhaz 0.1.0
 kernlab 0.9-33
 kernopt 1.0.0
-kernreg 1.0
+kernreg 1.1
 kernscr 1.0.7
 KernSmooth 2.23-27
 KernSmoothIRT 6.6
@@ -13315,7 +13315,7 @@ MLpreemption 1.0.1
 MLPUGS 0.2.0
 mlpwr 1.1.1
 mlquantify 0.2.0
-mlr 2.19.3
+mlr 2.19.4
 mlr3 1.8.0
 mlr3automl 0.1.0
 mlr3batchmark 0.2.2
@@ -19368,7 +19368,7 @@ rollama 0.3.1
 rollbar 0.1.0
 rollcast 0.1.0
 rolldown 0.2
-rolleigen 1.0.0
+rolleigen 1.0.1
 rollinglda 0.1.4
 rolloptim 1.0.0
 rollout 0.2.0
@@ -22693,7 +22693,7 @@ svmpath 0.970
 SVN 1.0.1
 svpChange 0.2.0
 svplots 0.1.0
-svrep 0.9.1
+svrep 0.9.2
 svrpath 0.1.2
 svs 3.1.1
 svSocket 1.1.5

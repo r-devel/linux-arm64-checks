@@ -1,6 +1,6 @@
 # BET 0.6.0
 
-Latest run: 2026-10-04: https://github.com/r-devel/linux-arm64-checks/actions/runs/37241973373
+Latest run: 2026-10-11: https://github.com/r-devel/linux-arm64-checks/actions/runs/38106877965
 
 ```
 Package: BET

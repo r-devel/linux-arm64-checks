@@ -9290,7 +9290,7 @@ gtfsrealtime 0.2.1
 gtfsrouter 0.1.4
 gtfstools 1.4.0
 GTFSwizard 1.2.1
-Gtheory4LLM 0.2.0
+Gtheory4LLM 0.5.0
 gtheoryr 0.2.0
 gto 0.1.2
 gtools 3.9.5
@@ -13992,7 +13992,7 @@ MultisiteMediation 0.0.4
 MultiSkew 1.1.1
 multisom 1.3
 multispatialCCM 1.3
-MultiSpline 0.2.0
+MultiSpline 0.3.0
 MultiStatM 2.1.0
 MultiStepSSAD 0.1.0
 multiswc 0.1.2
@@ -17665,8 +17665,8 @@ radiant 1.6.7
 radiant.basics 1.6.6
 radiant.data 1.6.9
 radiant.design 1.6.6
-radiant.model 1.6.12
-radiant.multivariate 1.6.8
+radiant.model 1.6.13
+radiant.multivariate 1.6.9
 RadioSonde 4.2
 radir 1.0.5
 radlibs 0.2.0
@@ -20527,7 +20527,7 @@ semEff 0.7.2
 semEffect 1.2.3
 semeqmodels 0.1.0
 semfindr 0.2.1
-semFromKeys 0.5.5
+semFromKeys 0.5.6
 semgram 0.1.0
 SEMgraph 1.2.4
 semhelpinghands 0.1.15
@@ -21019,7 +21019,7 @@ silentema 1.0.0
 SILFS 0.1.0
 SILGGM 1.0.0
 Silhouette 0.9.6
-silicate 0.7.1
+silicate 0.7.2
 SillyPutty 0.4.4
 sillysplines 1.0.1
 silp 1.0.3

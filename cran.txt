@@ -5679,7 +5679,7 @@ dub 0.2.0
 duckdb 1.5.6
 duckdbfs 0.1.2
 duckduckr 1.0.0
-duckh3 0.1.0
+duckh3 0.2.0
 ducklake 0.6.0
 duckplyr 1.2.1
 duckspatial 1.3.0
@@ -6778,7 +6778,7 @@ fable 0.5.0
 fable.ata 0.0.6
 fable.bayesRecon 0.2.1
 fable.intermittent 0.3.0
-fable.prophet 0.1.1
+fable.prophet 1.0.0
 fableCount 0.1.0
 fabletools 0.8.0
 fabMix 5.1
@@ -11346,7 +11346,7 @@ lakhesis 1.1.2
 LAM 0.7-22
 LaMa 2.1.3
 lambda.r 1.2.4
-lambdastar 0.8.1
+lambdastar 0.8.2
 lambdaTS 2.0.0
 lambdr 1.2.5
 LambertW 0.6.9-2
@@ -12904,7 +12904,7 @@ mFD 1.0.7
 mfdb 7.4-0
 MFDFA 1.1
 mFDP 0.2.2
-MFF 0.2.4
+MFF 0.2.5
 mfGARCH 0.2.2
 mFilter 0.1-8
 mFLICA 0.1.7
@@ -14465,7 +14465,6 @@ ngboostForecast 0.1.1
 NGBVS 0.3.0
 NGCHM 1.0.4
 NGLVieweR 1.4.0
-ngme2 1.0.0
 ngram 3.2.3
 ngramr 1.10.0
 ngramrr 0.2.0
@@ -16271,7 +16270,7 @@ pkgcond 0.1.1
 pkgconfig 2.0.3
 pkgdepends 0.9.1
 pkgdepR 1.1.1
-pkgdiff 1.0.4
+pkgdiff 1.0.5
 pkgdown 2.2.1
 pkgdown.offline 0.1.3
 pkgfilecache 0.4.1
@@ -16287,7 +16286,7 @@ pkgnet 0.6.1
 pkgnews 0.0.2
 pkgsearch 3.1.5
 pkgsite 0.1.0
-pkgstats 0.2.4
+pkgstats 0.2.5
 pkgverse 0.0.1
 PKI 0.1-15
 PKLMtest 1.0.1
@@ -18425,7 +18424,6 @@ regclass 1.7
 RegCombin 0.4.1
 regcorr 0.1.0
 regda 1.0
-RegDDM 1.1
 regDIF 1.1.1
 RegEnRF 2.0.1
 regexSelect 1.0.0
@@ -20851,7 +20849,7 @@ shinyfilters 0.3.1
 shinyfullscreen 1.1.0
 shinygenui 0.2.0
 shinyGizmo 0.5.0
-shinyglass 0.4.0
+shinyglass 0.5.0
 shinyglide 0.1.4
 shinyGovstyle 0.2.0
 shinyHeatmaply 0.2.0
@@ -21248,7 +21246,7 @@ skilljaR 0.1.2
 skimr 2.2.2
 skipTrack 0.2.0
 sklarsomega 3.0-3
-skmeans 0.2-20
+skmeans 0.2-21
 SKNN 4.1.3
 skpr 1.9.2
 sksr 0.1.0

@@ -8808,7 +8808,7 @@ glmxdiag 1.0.0
 globalKinhom 0.1.10
 GlobalOptions 0.1.4
 globalOptTests 1.1
-globals 0.19.1
+globals 0.20.0
 globaltrends 0.2.1
 globe 1.2-0
 glober 1.0
@@ -13628,7 +13628,7 @@ MoTBFs 2.0.1
 MOTE 1.2.2
 motherduck 0.2.1
 motif 0.6.5
-motifcluster 0.2.3
+motifcluster 0.2.4
 motifr 1.0.0
 motmot 2.1.4
 motoRneuron 1.0.0
@@ -16349,6 +16349,7 @@ plinkFile 0.2.1
 plinkQC 1.1.0
 PLIS 1.2
 plm 2.6-7
+PLMIX 2.2.1
 PLmixed 0.1.8
 plmmr 4.3.0
 pln 0.2-3
@@ -17949,6 +17950,7 @@ rbounds 2.2
 RBPcurve 1.3
 rbranding 0.1.1
 rbreak 1.0.7
+rbridge 1.0.3
 rbscCI 0.1.1
 rbtc 0.1-7
 RBtest 1.1
@@ -21575,7 +21577,7 @@ sov 2.0.0
 sox 1.2.3
 SoyNAM 1.6.2
 SoyURT 1.0.0
-sp 2.2-3
+sp 2.2-4
 SP2000 0.2.0
 sp23design 0.9-1
 spaa 0.2.5
@@ -23289,7 +23291,7 @@ tidycensus 1.8.1
 tidycensuskr 0.3.0
 tidychangepoint 1.0.5
 tidycharts 0.1.3
-tidycjk 0.1.0
+tidycjk 0.2.0
 tidyclust 0.3.2
 tidycmprsk 1.1.2
 tidycomm 0.4.2

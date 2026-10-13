@@ -5620,7 +5620,7 @@ dtComb 1.0.8
 DTComPair 1.2.6
 DTDA 3.0.1
 DTDA.ni 1.0.1
-DTEAssurance 1.1.0
+DTEAssurance 1.3.0
 DTEBOP2 1.0.3
 DTFM 0.1.5
 dtgiw 1.1.0
@@ -10969,7 +10969,7 @@ jumble 0.2.0
 JUMP 1.0.2
 JumpDiffSim 0.1.0
 jumps 1.0
-junco 0.1.6
+junco 0.1.7
 junctions 2.1.4
 just.install 1.0.2
 justifier 0.2.8
@@ -13095,7 +13095,7 @@ missDiag 1.0.1
 missForest 1.6.1
 missForestPredict 1.0.1
 MissingHandle 0.1.1
-missingHE 1.6.1
+missingHE 1.6.2
 MissingPlotLSD 0.1.0
 MissingPlotRBD 1.1.0
 missknn 1.1.2
@@ -14493,7 +14493,7 @@ nlmixr2 7.0.1
 nlmixr2auto 1.0.0
 nlmixr2autoinit 1.0.1
 nlmixr2data 2.0.10
-nlmixr2est 7.1.0
+nlmixr2est 7.2.0
 nlmixr2extra 5.2.1
 nlmixr2lib 0.3.2
 nlmixr2plot 5.2.0
@@ -17982,7 +17982,7 @@ rcoder 0.3.0
 RCognito 0.2.0
 rCoinbase 1.0.0
 rcoins 0.4.0
-RColetum 1.1.0
+RColetum 1.2.0
 rcollectadhd 0.8
 RColorBrewer 1.1-3
 RColorConesa 1.0.0
@@ -19478,7 +19478,7 @@ rQSAR 1.0.0
 rqti 1.3.1
 Rquake 2.5-1
 rqualify 1.2.0
-RQuantLib 0.4.28
+RQuantLib 0.4.29
 Rquefts 1.2-8
 rquery 1.5.1
 rquest 1.1.0
@@ -19714,7 +19714,7 @@ rticulate 2.2.0
 rtide 0.0.12
 rtiktokads 0.3.4
 rtiktoken 0.11.0.3
-Rtinycc 0.1.15
+Rtinycc 0.1.16
 rtip 1.1.1
 rtist 1.0.0
 rtk 0.2.7
@@ -23275,7 +23275,7 @@ tidyprompt 0.4.0
 tidyquant 1.0.12
 tidyquery 0.2.4
 tidyr 1.3.2
-tidyrates 0.0.1
+tidyrates 0.0.2
 tidyREDCap 2.1.0
 tidyrgee 0.1.1
 tidyrhrv 1.1.0

@@ -710,6 +710,7 @@ aprof 0.4.1
 APRScenario 0.0.4.2
 APS 1.0.1
 apsimeval 0.1.0
+apsimwise 0.1.0
 apsimx 2.8.271
 apt 4.0
 aptg 0.4.0
@@ -1259,7 +1260,7 @@ batman 0.1.0
 batsch 0.1.1
 BATSS 1.2.1
 batteryreduction 0.1.1
-BAwiR 1.5.5
+BAwiR 1.5.6
 bayclumpr 0.1.0
 baycn 2.0.0
 bayefdr 0.2.1
@@ -2810,7 +2811,7 @@ CEoptim 1.3
 CePa 0.8.2
 CepalStatR 0.9.0
 cepiigeodist 0.1
-cepiweek 0.1.2
+cepiweek 0.2.0
 cepp 1.7
 cepR 0.1.2
 cepreader 1.3-0
@@ -3797,7 +3798,7 @@ contentValidity 0.2.0
 contentvalidR 0.4.0
 conText 3.0.1
 contextFind 1.0.1
-contfrac 1.1-12
+contfrac 1.1-13
 contFracR 1.2.1
 contingency 0.0.10
 contingencytables 3.1.0
@@ -4083,7 +4084,7 @@ CPMCGLM 1.2
 CpmERCCutoff 1.0.0
 cpmr 0.1.1
 CPNCoverageAnalysis 1.1.0
-cpop 1.0.9
+cpop 1.0.10
 CPoptim 0.1.0
 CPP 0.1.0
 cpp11 0.5.5
@@ -6293,6 +6294,7 @@ epidesc 0.1.0
 epidict 0.3.0
 EpidigiR 0.1.2
 epiDisplay 3.7.0.0
+epidist 1.0.0
 epidm 1.0.6
 EpiDynamics 0.3.1
 EpiEstim 2.2-5
@@ -6954,7 +6956,7 @@ fastText 1.0.8
 fastTextR 2.1.1
 fasttime 1.1-0
 fastTopics 0.7-38
-fasttreeid 1.0.2
+fasttreeid 1.1.0
 fastTS 1.0.3
 FastUtils 0.2.1
 fastverse 0.3.4
@@ -7493,6 +7495,7 @@ forensicolors 1.0.0
 forensicpopdata 1.0.4
 forensicR 0.0.6
 forensim 4.3.3
+foresightr 0.1.1
 forestat 1.2.0
 forestBalance 0.1.0
 forestControl 0.2.2
@@ -8138,7 +8141,7 @@ GenomicTools.fileHandler 0.1.5.9
 genoPlotR 0.8.11
 GenoPop 1.0.0
 GenOrd 2.1.0
-GenoTriplo 2.2.1
+GenoTriplo 2.2.2
 GenOU 0.2.1
 genpathmox 1.1
 genpca 0.2.1
@@ -8215,7 +8218,7 @@ geomod 0.1.0
 GeoModels 2.2.9
 GeoMongo 1.0.3
 geomorph 4.1.1
-geomorphR 0.1.0
+geomorphR 0.2.0
 geomtextpath 0.2.0
 geomultistar 1.2.2
 geonames 0.999
@@ -9086,6 +9089,7 @@ greenclust 1.1.1
 greencrab.toolkit 0.2
 GREENeR 1.0.2
 greenfeedr 1.3.1
+GreenManureR 0.1.0
 greenR 0.0.1.8
 GREENREG 0.1.1
 greenSD 0.2.2
@@ -9635,7 +9639,7 @@ hierBipartite 0.0.2
 hierfstat 0.5-11
 hierNest 1.0.2
 hierNet 1.10.1
-HierPortfolios 1.0.2
+HierPortfolios 1.1.0
 hierSDR 0.1
 HiGarrote 2.0.0
 highcharter 0.9.5
@@ -10424,7 +10428,7 @@ InsectLabelR 1.0.4
 insee 1.1.7
 insetplot 1.4.0
 inshiny 0.1.5
-insight 1.5.4
+insight 1.6.0
 InSilicoVA 1.4.2
 InspectChangepoint 1.2
 InspectionPlanner 1.2
@@ -10838,7 +10842,7 @@ jgd 0.2.1
 JGR 1.9-2
 jgsbook 1.0.8
 JICO 0.1
-jiebaRS 0.3.0
+jiebaRS 0.3.1
 jinjar 0.3.2
 jipApprox 0.1.5
 jirar 0.1.0
@@ -11365,7 +11369,6 @@ latentFactoR 0.0.9
 latentnet 2.12.0
 latentState 1.0.0
 later 1.4.8
-later2 0.1
 Laterality 0.9.5
 LATERmodel 0.2.0
 latex2exp 0.9.8
@@ -11455,6 +11458,7 @@ LDlinkR 1.4.0
 LDM 6.0.1
 ldmppr 1.1.3
 LDNN 1.10
+ldpdist 0.1.0
 LDRTools 0.2-2
 ldsep 2.1.7
 ldt 0.5.3
@@ -12832,7 +12836,7 @@ mets 1.3.12
 MetSizeR 2.0.0
 metsyn 0.1.2
 mev 2.2
-mevr 1.1.1
+mevr 1.3.3
 mewAvg 0.3.1
 MexBrewer 0.0.2
 mexhaz 2.6
@@ -13303,12 +13307,12 @@ mlstats 0.1.2
 mlstm 0.1.7
 mlstrOpalr 1.0.3
 mlsurvlrnrs 0.0.8
-mlt 1.8-3
+mlt 1.8-4
 mlt.docreg 1.1-14
 mltest 1.0.3
 mltools 0.3.5
 mlts 2.0.1
-mlumr 0.1.0
+mlumr 0.2.0
 mlVAR 0.7.3
 MLwrap 0.4.0
 MLZ 0.1.5
@@ -13543,7 +13547,7 @@ MorphoRegions 0.2.0
 MorphoTools2 1.0.2.1
 MorphSim 1.2.1
 morrowplots 0.2.0
-morse 3.3.5
+morse 3.6.0
 morseDR 0.1.3
 morseTKTD 0.1.3
 mort 0.0.1
@@ -13765,7 +13769,7 @@ MSUthemes 1.0.0
 MSwM 1.5
 mt 2.0-1.21
 mt.surv 1.1.1
-MTA 0.6.0
+MTA 0.7.0
 mtanan 0.0.1
 mtaOpenData 0.1.1
 MTAR 0.1.1
@@ -15026,7 +15030,7 @@ OneStep 0.9.4
 onetime 0.2.0
 OneTwoSamples 1.3-0
 oneway 0.0.3
-onewaytests 3.1
+onewaytests 3.2
 onion 1.5-3
 onlineBcp 0.1.8
 onlineCOV 1.3
@@ -15390,7 +15394,7 @@ oxcAAR 1.1.2
 OxSR 1.0.1
 OxyBS 1.5
 oysteR 0.1.4
-oystermapR 1.5.0
+oystermapR 1.6.0
 oz 1.0-22
 ozbabynames 0.2.0
 ozmaps 0.4.5
@@ -15975,7 +15979,7 @@ pGPx 0.1.4
 pgraph 1.6
 PGRdup 0.3.0
 pGRN 0.3.5
-pgt 0.7.0
+pgt 0.7.1
 pgTools 1.0.2
 pguIMP 0.1.1
 PH1XBAR 0.11.3
@@ -16158,7 +16162,7 @@ pintervals 1.1.1
 pioneeR 0.5.0
 pipebind 0.1.2
 pipefittr 0.1.2
-pipeflow 0.4.0
+pipeflow 0.5.0
 pipeliner 0.1.1
 pipeR 0.6.1.3
 pipetime 0.0.1
@@ -16193,7 +16197,7 @@ PKconverter 1.5
 pkdata 0.1.0
 pkgbuild 1.4.8
 pkgcache 2.2.5
-pkgcheck 0.3.3
+pkgcheck 0.3.4
 pkgcond 0.1.1
 pkgconfig 2.0.3
 pkgdepends 0.9.1
@@ -16391,6 +16395,7 @@ PNC 0.2.0
 pnd 0.1.3
 PND.heter.cluster 0.1.0
 png 0.1-9
+pnotp 0.1.0
 PNSIBGE 0.2.1
 PnT 0.1.0
 PNWColors 0.1.0
@@ -17029,7 +17034,7 @@ psmineR 0.1.1
 pso 1.0.4
 psoptim 1.0
 PSor 0.1.0
-psp 1.0.5
+psp 1.0.6
 pspatreg 1.1.2
 pspearman 0.3-1
 PSPI 1.4
@@ -17873,7 +17878,7 @@ rbounds 2.2
 RBPcurve 1.3
 rbranding 0.1.1
 rbreak 1.0.7
-rbridge 1.0.3
+rbridge 1.0.4
 rbscCI 0.1.1
 rbtc 0.1-7
 RBtest 1.1
@@ -18144,7 +18149,7 @@ Rdpack 2.6.6
 rdpower 3.0
 rdracor 1.0.6
 rdrobust 4.1.1
-Rdrw 1.0.5
+Rdrw 1.0.6
 rdryad 1.0.0
 RDS 0.9-10
 Rdsdp 1.0.6
@@ -18481,7 +18486,7 @@ reporter 1.4.9
 repoRter.nih 0.1.4
 ReporterScore 0.2.5
 reportfactory 0.4.0
-reportr 1.3.1
+reportr 2.0.0
 reportReg 0.3.0
 reportRmd 0.1.3
 reportROC 3.6
@@ -18854,7 +18859,7 @@ riskyr 0.5.0
 RISmed 2.3.0
 risq 3.0.1
 Rita 1.2.0
-ritalic 0.13.0
+ritalic 0.13.1
 Ritc 1.3
 RITCH 0.1.30
 ritis 1.0.0
@@ -19244,7 +19249,7 @@ ROCR 1.0-12
 rocrateR 0.1.0
 ROCS 1.4
 ROCSI 0.1.0
-ROCsurvcomp 0.1.2
+ROCsurvcomp 0.1.3
 rocsvm.path 0.1.0
 rocTools 0.1.3
 rocvb 0.1.0
@@ -19689,6 +19694,7 @@ rtdists 0.12-0
 rtemis 1.2.7
 rtemis.a3 0.5.3
 rtemis.core 0.4.6
+rtemis.draw 0.5.3
 rtemis.llm 0.8.7
 rtemps 0.8.0
 rTensor 1.5.0
@@ -19849,7 +19855,7 @@ rwty 1.0.3
 rwunderground 0.1.8
 RXKCD 2.0.2
 RxnSim 1.0.4
-rxode2 5.1.7.1
+rxode2 5.1.8
 rxode2lincmt 0.1.0
 rxode2ll 2.0.18
 rxode2mrgsolvebridge 0.1.0
@@ -19964,6 +19970,7 @@ sampcompR 0.3.3
 SAMPLE 1.0.1
 SampleCore 0.1.0
 sampledatasets 0.1.0
+sampleone 0.1.0
 sampler 0.2.4
 sampleSelection 1.2-16
 SampleSelectR 1.0.0
@@ -20108,7 +20115,7 @@ scapesClassification 1.0.0
 scapGNN 0.1.4
 scar 0.2-2
 scaRabee 1.1-5
-SCAtools 0.4.3
+SCAtools 0.5.1
 scatr 1.0.1
 scatterbar 0.1.0
 scatterD3 1.0.2
@@ -20314,6 +20321,7 @@ SDPDmod 0.0.8
 sdprisk 1.1-6
 SDPrism2D 0.1.1
 sdrt 1.0.0
+sds 0.3.0
 sdsfun 0.8.1
 sdstudio 0.2.0
 SDT 1.0.0
@@ -20453,7 +20461,7 @@ SEMID 0.5.1
 semidist 0.1.0
 SemiMarkov 1.4.6
 seminr 2.5.0
-seminrExtras 1.0.3
+seminrExtras 1.0.4
 SemiPar.depCens 0.1.3
 SemiParamBernsteinDepCS 0.1.0
 SemiparMF 1.0.0
@@ -21303,7 +21311,7 @@ smoothSurv 2.7
 smoothtail 2.0.6
 SmoothWin 3.0.1
 smoothy 1.0.0
-smoots 1.1.4
+smoots 1.1.5
 smosr 1.0.1
 smotefamily 1.4.0
 SMOTEWB 1.2.5
@@ -22126,7 +22134,7 @@ statisR 1.0.1
 StatisticTeach1 0.1.2
 statlingua 0.1.0
 StatMatch 1.4.3
-statMatchLCM 1.2
+statMatchLCM 2.0
 statmod 1.5.2
 statnet 2019.6
 statnet.common 4.13.0
@@ -22828,7 +22836,7 @@ tastypie 0.1.2
 tastyR 0.1.0
 tatest 1.0
 tatoo 1.1.3
-tatooheene 1.0.0
+tatooheene 1.0.1
 tau 0.0-29
 tauProcess 2.1.3
 TauStar 1.1.9
@@ -23715,6 +23723,7 @@ TrendInTrend 1.1.3
 TrendLSW 1.0.6
 trendsegmentR 1.3.2
 trendseries 1.7.0
+TrendSLR 2.0.0
 trendtestR 1.0.1
 TrendTM 2.0.21
 Trendtwosub 0.0.2
@@ -23834,8 +23843,8 @@ TSEtools 1.0.0
 TSEwgt 0.1.0
 TSF 0.1.1
 tsfeatures 1.1.1
-tsfgrnn 1.0.5
-tsfknn 0.6.0
+tsfgrnn 1.0.6
+tsfknn 0.7.1
 tsfngm 0.1.0
 tsforecast 1.3.1
 tsg 0.1.4
@@ -24876,7 +24885,7 @@ windex 2.1.0
 windfarmGA 5.0.0
 windows.pls 0.1.0
 windsoraiR 0.1.2
-wINEQ 1.2.2
+wINEQ 1.2.3
 winfapReader 0.1-7.1
 wingen 2.2.0
 winn 0.1.5

@@ -414,7 +414,7 @@ airship 1.4.3
 airt 0.2.2
 aiRthermo 1.2.2
 AISanalyze 3.1.4
-AIscreenR 0.4.0
+AIscreenR 0.5.0
 aisdk 1.4.12
 aisdk.providers 0.1.0
 aisoph 0.4
@@ -2235,6 +2235,7 @@ brmsmargins 0.3.0
 brnn 0.9.4
 broadcast 0.1.9.8
 Brobdingnag 1.3-1
+brochure 1.0.0
 BrokenAdaptiveRidge 1.0.2
 brokenstick 2.7.0
 brolgar 1.0.2
@@ -6782,7 +6783,7 @@ FACTMLE 1.1
 FactoClass 1.2.9
 factoextra 2.2.0
 FactoInvestigate 1.9.1
-FactoMineR 2.17
+FactoMineR 2.18
 factoptd 1.0.3
 factor.switching 1.4
 factor256 0.1.0
@@ -7444,7 +7445,7 @@ FnR 1.1.0
 fntl 0.1.3.2
 FOCI 0.1.3
 FoCo2 0.1.4
-focus 0.1.10
+focus 0.1.11
 focusedMDS 1.3.3
 FocusGroup 0.5.2
 foghorn 1.6.2
@@ -7676,6 +7677,7 @@ fromo 0.2.5
 frontier 1.1-8
 frontiles 1.3.1
 frontmatter 0.3.0
+frostlake 0.1.0
 frostr 0.2.0
 froth 1.1.0
 frscore 0.5.2
@@ -8270,7 +8272,7 @@ gerefer 0.1.4
 GerminaR 2.1.7
 germinationmetrics 0.1.10
 GeRnika 1.2.0
-gert 2.4.1
+gert 2.5.0
 gesca 1.0.5
 GESE 2.0.1
 gesisdata 0.1.2
@@ -10261,7 +10263,7 @@ impactr 0.4.2
 ImpAdaptType2Censor 0.1.0
 impala 0.1.4
 impARI 0.0.3
-impectR 2.5.6
+impectR 2.6.0
 impermanentlosscalc 0.1.0
 impimp 0.3.1
 implicitExpansion 0.1.0
@@ -10829,6 +10831,7 @@ JDCruncheR 0.4.1
 jdenticon 0.1.1
 Jdmbs 1.4
 jds.rmd 0.3.4
+jekylldown 0.3.4
 jellyfisher 1.1.2
 jenga 2.0.0
 jentre 0.1.0
@@ -12207,7 +12210,7 @@ ManyIVsNets 0.1.1
 manymodelr 0.4.0
 manymome 0.3.7
 manymome.table 0.4.1
-manynet 2.3.4
+manynet 2.4.0
 manystates 1.0.3
 ManyTests 1.2
 MaOEA 0.6.2
@@ -12648,7 +12651,7 @@ meifly 0.3.1
 mekko 0.1.0
 melidosData 1.0.6
 mellio 1.1.0
-melodi 1.1.2
+melodi 1.2.0
 melt 1.11.4
 meltt 0.4.3
 mem 2.19
@@ -13111,7 +13114,7 @@ missRanger 2.6.1
 missSBM 1.1.0
 mistr 0.0.6
 mistral 2.2.4
-misty 0.8.3
+misty 0.8.4
 misuvi 0.1.1
 mitey 0.2.0
 mitml 0.4-5
@@ -13927,7 +13930,7 @@ MultiRobust 1.0.5
 multiSA 0.5.0
 MultiscaleDTM 1.0.1
 multiScaleR 0.7.2
-MultiscaleSCP 0.1.1
+MultiscaleSCP 0.2.0
 multiscape 1.4.2
 multiselect 0.1.0
 multisensi 2.2-1
@@ -14408,6 +14411,7 @@ ngboostForecast 0.1.1
 NGBVS 0.3.0
 NGCHM 1.0.4
 NGLVieweR 1.4.0
+ngme2 1.0.1
 ngram 3.2.3
 ngramr 1.10.0
 ngramrr 0.2.0
@@ -14620,7 +14624,7 @@ NonlinearDiD 0.2.0
 nonLinearDotPlot 0.5.0
 nonlinearTseries 0.3.2
 nonmem2R 0.2.5
-nonmem2rx 0.1.11
+nonmem2rx 0.1.12
 nonmemica 1.2.0
 nonneg.cg 0.1.6-1
 nonnest2 0.5-9
@@ -14688,7 +14692,7 @@ np 0.70-5
 npANCOVA 0.2.0
 nparACT 0.9.1
 nparcomp 3.0
-nparLD 2.3.1
+nparLD 2.3.3
 nparMD 0.2.3
 nparsurv 0.1.0
 NPBayesImputeCat 0.7
@@ -15074,7 +15078,7 @@ openai 0.4.1
 openair 3.1.0
 openairmaps 0.10.1
 openaiRtools 0.2.2
-openalexR 3.1.1
+openalexR 3.1.2
 openappr 0.2.0
 openaq 1.1.0
 openbankeR 0.1.1
@@ -15990,7 +15994,7 @@ phangorn 2.12.1
 phantSEM 1.0.1
 pharmaRTF 0.1.5
 pharmaverse 0.0.2
-pharmaverseadam 1.3.0
+pharmaverseadam 1.4.0
 pharmaverseadamjnj 0.0.8
 pharmaverseraw 0.1.1
 pharmaversesdtm 1.5.0
@@ -16245,7 +16249,7 @@ planisphere 0.1.0
 planr 0.6.5
 planscorer 0.0.3
 plantecophys 1.4-6
-plantmix 1.0.3
+plantmix 1.0.4
 plantphysioR 1.0.0
 plantTracker 1.2.1
 plasma 1.1.6
@@ -17186,7 +17190,7 @@ pwranova 1.1.5
 pwrFDR 3.2.4
 PwrGSD 2.3.8
 pwrRasch 0.1-4
-pwrss 1.3.1
+pwrss 1.3.3
 pwSEM 1.0.0
 pwt 7.1-1
 pwt10 10.01-0
@@ -17461,6 +17465,7 @@ quickPWCR 1.2
 quickr 0.3.0
 quickregression 0.2
 quickSentiment 0.3.6
+quicopt 0.1.1
 QuICSeedR 0.1.2
 quid 0.0.1
 quiddich 1.0.0
@@ -18519,7 +18524,7 @@ Require 2.1.1
 requiRements 0.0.3
 requireR 1.0.0.1
 rerandPower 0.0.1
-rerddap 1.3.0
+rerddap 1.3.1
 rerddapUtils 1.0.2
 rerddapXtracto 1.2.5
 reReg 1.4.7
@@ -18590,6 +18595,7 @@ retmort 1.0.0
 retraction 0.1.0
 retriever 0.2.1
 retrodesign 0.2.2
+retroglyph 0.0.9
 retroharmonize 0.2.8
 retrosheet 1.1.7
 retry 0.1.1
@@ -20210,6 +20216,7 @@ scMetaTraj 0.1.1
 scmix 0.1.1
 scModels 1.0.5
 scmSpillover 0.1.2
+scNPM 1.0.6
 scOntoMatch 0.1.1
 scoper 1.6.0
 scopr 0.3.5
@@ -21019,7 +21026,7 @@ simPH 1.3.15
 simphony 1.0.3
 simplace 5.1.2
 simplanonym 0.1.0
-SIMPLE.REGRESSION 0.3.1
+SIMPLE.REGRESSION 0.3.4
 simpleboot 1.1-8
 simpleCache 0.5.0
 simplecolors 0.1.4
@@ -23124,6 +23131,7 @@ TH.data 1.1-5
 thames 0.1.2
 thamesblock 0.1.0
 thamesmix 0.1.4
+theeuh 0.1.5
 theft 0.8.4
 theftdlc 0.2.1
 theiaR 0.4.0
@@ -23248,7 +23256,7 @@ tidyklips 0.3.0
 tidylaslog 0.1.2
 tidylda 0.1.1
 tidylearn 0.6.0
-tidyllm 0.7.0
+tidyllm 0.7.1
 tidylo 0.2.0
 tidylog 1.1.0
 tidyLPA 2.0.2
@@ -24682,7 +24690,7 @@ WASP 1.4.5
 waspasR 0.1.5
 waspr 1.0.1
 watcher 0.2.1
-WaterBalanceR 0.1.21
+WaterBalanceR 0.1.22
 waterfalls 1.1.4
 waterYearType 1.0.1
 Wats 1.0.1

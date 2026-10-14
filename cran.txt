@@ -97,7 +97,7 @@ acnr 1.0.0
 acopula 0.9.4
 acoRn 0.1.0
 acousticTS 2.0.8
-acR 0.3.4
+acR 0.4.0
 ACRER 1.0.1
 acro 1.0.0
 acroname 0.1.0
@@ -1723,7 +1723,7 @@ bigutilsr 0.3.11
 BigVAR 1.1.5
 bikeshare14 0.1.4
 bikm1 1.1.0
-bild 1.2-1
+bild 1.3-0
 billboard 0.1.0
 billboarder 0.5.2
 BiMaUmisc 0.2.0
@@ -2050,7 +2050,7 @@ bojapi 0.1.0
 bolasso 0.5.0
 BOLDconnectR 1.0.3
 bolder 0.1.1
-BOLDNODE 1.0.0
+BOLDNODE 1.0.1
 bolsec 0.1.1
 Bolstad 0.2.42
 Bolstad2 1.0-29
@@ -7830,7 +7830,7 @@ FuzzySTs 0.5
 fuzzyurn 0.1.0
 fuzzywuzzyR 1.0.6
 FVDDPpkg 0.1.3
-fwb 0.6.0
+fwb 1.0.0
 FWDselect 2.1.1
 fwlplot 0.3.0
 FWRGB 0.1.0
@@ -12577,7 +12577,7 @@ mded 0.1-2
 mdendro 2.3.0
 mdftracks 0.2.2
 mdgc 0.1.7
-MDgof 1.2.0
+MDgof 1.2.1
 mdir.logrank 0.0.4
 mditools 0.1.1
 MDMA 2.0.0
@@ -15851,7 +15851,7 @@ pedsuite 1.4.0
 pedtools 2.11.0
 pedtricks 0.5.0
 peeky 0.1.0
-PeerPerformance 2.4.0
+PeerPerformance 2.4.1
 pegas 1.4
 PEGroupTesting 1.0
 pegs 0.2
@@ -18176,7 +18176,7 @@ rdtools 0.1.0
 Rduckhts 1.5.2-0.1.5
 Rduino 0.1
 Rduinoiot 0.1.0
-Rdune 1.1.1
+Rdune 1.1.2
 rdwd 1.9.17
 rdwplus 1.0.1
 rdyncall 0.10.2
@@ -19949,7 +19949,7 @@ safejoin 0.2.0
 SAFEMCN 1.0.0
 SAFEPG 0.0.1
 safer 0.2.3
-saferDev 1.0.0
+saferDev 2.0.0
 safestats 0.8.9
 safetensors 0.3.0
 safetyData 1.0.0
@@ -21438,7 +21438,7 @@ soilfoodwebs 1.0.2
 SoilFunctionality 0.1.0
 SoilHyP 0.1.7
 soilhypfit 0.1-8
-soilKey 0.9.184
+soilKey 0.9.259
 SoilManageR 1.1.0
 soilphysics 5.1
 SoilR 1.2.107

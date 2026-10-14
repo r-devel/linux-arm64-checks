@@ -2323,7 +2323,7 @@ BTWAR 1.0.1
 BTYD 2.4.3
 bubbleHeatmap 0.1.1
 bubblyr 0.1.2
-BUCSS 1.2.1
+BUCSS 2.0.0
 Buddle 2.0.2
 budgetIVr 0.1.2
 bufferscape 1.0.3
@@ -6734,7 +6734,7 @@ eyetrackingR 0.2.2
 eyeTrackR 1.0.1
 ez 4.5-0
 ez.combat 1.0.0
-EZbakR 0.1.0
+EZbakR 0.2.2
 ezcox 1.0.4
 ezCutoffs 1.0.2
 ezec 1.0.2
@@ -12276,7 +12276,7 @@ marelac 2.1.11
 MareyMap 1.3.10
 marg 1.2-4
 margaret 0.1.4
-margEVT 0.3.0
+margEVT 0.4.0
 marginaleffects 1.0.0
 marginalizedRisk 2024.5-17
 MarginalMaxTest 1.0.1
@@ -17049,7 +17049,7 @@ PSRICalcSM 1.0.0
 psrwe 3.2-2
 PSSIM 0.1.0
 PSSMCOOL 0.2.4
-pssmooth 1.0.3
+pssmooth 1.0.4
 psSubpathway 0.1.3
 PSsurvival 0.2.1
 Pstat 1.2
@@ -17283,7 +17283,7 @@ Qindex 0.2.2
 Qindex.data 0.1.4
 qio 0.1.1
 qkiosk 0.2.31
-qlcal 0.1.3
+qlcal 0.1.4
 qlcData 0.3
 qlcMatrix 0.9.9
 qlifetable 0.0.2-6
@@ -18435,7 +18435,7 @@ remindR 0.0.1
 remiod 1.0.2
 REMixed 1.1.2
 REMLA 1.2.0
-rEMM 1.2.1
+rEMM 1.2.3
 remmy 0.1.0
 remode 0.1.0
 remote 1.2.3
@@ -20460,7 +20460,7 @@ semicontMANOVA 0.2-1
 SEMID 0.5.1
 semidist 0.1.0
 SemiMarkov 1.4.6
-seminr 2.5.0
+seminr 2.6.0
 seminrExtras 1.0.4
 SemiPar.depCens 0.1.3
 SemiParamBernsteinDepCS 0.1.0
@@ -22319,7 +22319,7 @@ StreamCatTools 0.12.0
 streamDAG 1.6
 streamDepletr 0.2.0
 StreamMetabolism 1.1.3
-streamMOA 1.3-1
+streamMOA 1.4.0
 streamR 0.4.5
 streamsampler 0.1.0
 streamy 0.2.1
@@ -23531,7 +23531,7 @@ torch 0.17.0
 torchdatasets 0.3.2
 torchMAUM 2025.7.30
 torchopt 0.1.4
-torchvision 0.9.0
+torchvision 0.10.0
 torchvisionlib 0.8.0
 TORDs 1.0.0
 tornado 0.1.3

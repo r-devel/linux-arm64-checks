@@ -14,7 +14,6 @@ blocking,1.0.3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HE
 bootmlm,0.1.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/bootmlm
 cmpp,0.0.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/cmpp
 creditr,0.6.2,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/creditr
-curl,8.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/curl
 dqcheckr,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/dqcheckr
 ebrahim.gof,2.10.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ebrahim.gof
 gsDesign2,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gsDesign2

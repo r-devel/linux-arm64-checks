@@ -1243,7 +1243,7 @@ baskoptr 1.0.4
 basksim 2.2.0
 baskwrap 1.0.3
 BASS 1.3.1
-BaSTA 2.0.2
+BaSTA 2.0.3
 BAT 2.11.3
 batata 0.2.1
 batch 1.1-5
@@ -6955,7 +6955,7 @@ FastRWeb 1.2-3
 fastsae 0.1.0
 FastSegmentation 0.0.1
 FastStepGraph 0.1.1
-FastSurvival 1.1.0
+FastSurvival 1.2.0
 fastText 1.0.8
 fastTextR 2.1.1
 fasttime 1.1-0

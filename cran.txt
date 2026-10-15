@@ -4666,7 +4666,7 @@ dbProject 0.1.1
 DBR 1.4.1
 dbrobust 1.1.1
 dbscan 1.2.7
-dbSpatial 0.1.2
+dbSpatial 0.1.3
 dbstats 2.0.3
 DBTC 0.1.0
 dbw 1.1.4
@@ -5710,7 +5710,7 @@ dyn 0.2-11.0
 Dyn4cast 11.11.26
 dynafluxr 1.0.1
 dynamac 0.1.12
-dynamicmultiplex 1.3.1
+dynamicmultiplex 1.4.0
 dynamicpv 0.4.2
 dynamicSDM 1.3.4
 dynamicTreeCut 1.63-1
@@ -6462,7 +6462,7 @@ esquisse 2.1.0
 esreg 0.6.2
 ess 1.1.2.1
 essential8 0.2.0
-essentialstools 0.1.7
+essentialstools 0.1.8
 essHist 1.2.2
 essurvey 1.0.8
 estadistica 1.2.2
@@ -11666,7 +11666,7 @@ lindia 0.10
 LindleyPowerSeries 1.0.1
 lineagefreq 0.2.0
 lineager 0.1.1
-linearModel 1.0.2
+linearModel 1.1.1
 LinearRegressionMDE 1.0
 lineartestr 1.0.0
 linelist 2.0.1
@@ -12559,7 +12559,7 @@ mcvis 1.0.8
 mcwr 1.0.0
 md 1.0.4
 md.log 0.2.0
-MD2sample 1.4.0
+MD2sample 1.4.1
 md4r 0.5.3.0
 mda 0.5-5
 mda.biber 1.0.1
@@ -14502,7 +14502,7 @@ nlmixr2 7.0.1
 nlmixr2auto 1.0.0
 nlmixr2autoinit 1.0.1
 nlmixr2data 2.0.10
-nlmixr2est 7.2.0
+nlmixr2est 7.2.1
 nlmixr2extra 5.2.1
 nlmixr2lib 0.3.2
 nlmixr2plot 5.2.0
@@ -14939,7 +14939,7 @@ oews2020 1.0.0
 oews2021 1.0.0
 ofemeantest 1.0.0
 officedown 0.4.1
-officer 0.7.6
+officer 0.7.7
 offlineChange 0.0.4
 offsetreg 1.2.0
 ofGEM 1.0
@@ -16637,7 +16637,7 @@ PowerTOST 1.5-7
 PowerXgammaRF 1.0.0
 powRICLPM 0.2.1
 PowRPriori 0.2.0
-PP 0.6.4-1
+PP 1.0.0
 PPbigdata 1.0.0
 pPCA 1.1
 ppcc 1.3
@@ -19273,7 +19273,7 @@ rodd 0.2-1
 rODE 0.99.6
 rodeo 0.9.2
 rofanova 1.0.1
-roger 1.5-1
+roger 1.6-0
 Rogue 2.2.1
 ROI 1.0-2
 ROI.format.cbf 0.1-0
@@ -19689,7 +19689,7 @@ rswipl 10.1.16
 Rsymphony 0.1-33
 rsyncrosim 2.1.13
 rsyntax 0.1.4
-rsynthbio 4.2.1
+rsynthbio 4.2.2
 rsyslog 1.0.3
 rt 1.1.0
 rt.test 1.26.9
@@ -20487,7 +20487,7 @@ semmcci 1.1.6
 semnar 0.8.2
 SemNeT 2.1.0
 SemNetCleaner 1.3.7
-SemNetDictionaries 0.2.1
+SemNetDictionaries 0.3.0
 semnova 0.1-6
 semPlot 1.2.0
 semPower 2.1.3
@@ -22319,7 +22319,7 @@ StratifiedMedicine 1.0.7
 StratifiedRF 0.2.2
 StratifiedSampling 0.4.2
 stratifiedyh 0.1.0
-stratifyR 2.0-1
+stratifyR 2.0-2
 StratigrapheR 1.3.1
 stratigraphr 0.5.0
 StratPal 0.7.1

@@ -702,7 +702,7 @@ appraise 0.1.1
 appRiori 0.0.6
 approximator 1.3-0
 approxmatch 2.0
-approxOT 1.2
+approxOT 1.3
 appsflyeR 0.1.0
 appsheet 0.1.0
 aprean3 1.0.2
@@ -2803,6 +2803,7 @@ CensRegSMSN 0.0.1
 CensSpatial 3.6
 Census2016 0.2.0
 censusapi 0.10.0
+censusindia 0.2.0
 censuspyrID 1.0.2
 centerline 0.2.5
 centiserve 1.0.0
@@ -3729,7 +3730,7 @@ ConfMatrix 0.2.1
 confMeta 0.1.1
 conforest 2.0.1
 conformalbayes 0.1.4
-conformalForecast 0.1.1
+conformalForecast 0.2.0
 conformalInference.fd 1.1.1
 conformalInference.multi 1.1.2
 conformalpvalue 0.1.0
@@ -5347,7 +5348,7 @@ DNetFinder 1.1
 dng 1.0.0
 DNMF 1.4.2
 dnn 0.0.7
-DNNSIM 0.1.1
+DNNSIM 0.2.1
 dnr 0.3.6
 do3PCA 1.0.0
 dobin 1.0.5
@@ -5932,7 +5933,7 @@ ecoXCorr 0.2.2
 ecp 3.1.6
 ecpdist 0.2.1
 ecpromethee 0.1.0
-ecr 2.1.1
+ecr 2.1.1.1
 ectotemp 0.2.0
 ECTSVR 0.1.0
 ECTTDNN 0.1.0
@@ -7093,7 +7094,7 @@ fejiv 0.1.1
 felp 0.6.0
 feltr 0.1.0
 fence 1.0
-FeNEU 3.0.2
+FeNEU 3.0.3
 FENmlm 2.4.4
 FEprovideR 1.1
 FER 0.94
@@ -8373,6 +8374,7 @@ ggchord2 0.0.1
 ggcircular 0.1.0
 GGClassification 0.1
 ggcleveland 0.1.0
+ggcolonviz 0.0.6
 ggcompare 0.0.6
 ggcorrheatmap 0.3.0
 ggcorrplot 0.3.0
@@ -9244,7 +9246,7 @@ gsubfn 0.7
 gsw 1.2-0
 GsymPoint 1.1.2
 gsynth 1.4.0
-gt 1.3.0
+gt 1.4.0
 gt4ireval 2.0
 gtable 0.3.6
 gtakeout 0.1.0
@@ -12265,7 +12267,7 @@ mapSpain 1.2.1
 mapsPERU 2.0.1
 mapsRinteractive 2.0.1
 mapStats 3.2
-maptiles 0.12.0
+maptiles 0.13.0
 maptpx 1.9-7
 maptree 1.4-9
 mapview 2.11.4
@@ -12508,7 +12510,6 @@ mcmapper 0.0.11
 mcmc 0.9-8
 MCMC.qpcr 1.2.4
 MCMC4Extremes 1.1
-mcmcderive 0.1.2
 mcmcensemble 3.2.0
 MCMCglmm 2.36
 MCMChybridGP 7.0.2
@@ -13920,7 +13921,7 @@ multipleNCC 1.2-5
 multipleOutcomes 0.18.1
 MultipleRegression 0.1.0
 multiplestressR 0.1.1
-multiplex 4.0
+multiplex 4.2
 MultiplierDEA 0.1.19
 multipol 1.0-9
 multiRec 1.0.6
@@ -14305,6 +14306,7 @@ NetInt 1.0.2
 netknitr 0.2.1
 NetLogoR 1.0.6
 netmap 0.1.4
+netmatchRI 0.1.0
 netmediate 1.1.1
 netmem 1.1-0
 netmeta 3.7-0
@@ -16120,6 +16122,7 @@ PhysioIndexR 0.1.0
 PhysMove 1.2.5
 PhySortR 1.0.9
 phytoclass 2.3.1
+PhytoIn 0.2.1
 phytools 2.5-2
 PhytosanitaryCalculator 1.1.3
 piar 0.11.0
@@ -17881,7 +17884,7 @@ Rblpapi 0.3.16
 rblt 0.2.4.7
 rbm25 2.3.2
 rBMF 1.1
-rbmi 1.6.1
+rbmi 1.7.0
 rbmiUtils 0.3.0
 rbmn 0.9-6
 RBMRB 3.0.0
@@ -19759,6 +19762,7 @@ rtrend 0.1.5
 rtrends 0.1.0
 RTriangle 1.6-0.15
 rtrim 2.3.1
+RTrino 0.1.0
 rTRIPLEXCWFlux 0.2.0
 rTRNG 4.23.1-5
 Rtropical 1.2.1
@@ -20490,7 +20494,7 @@ SemNetCleaner 1.3.7
 SemNetDictionaries 0.3.0
 semnova 0.1-6
 semPlot 1.2.0
-semPower 2.1.3
+semPower 2.2.0
 semptools 0.4.0
 semrulesid 0.4.2
 SEMsens 1.5.5
@@ -23495,7 +23499,7 @@ toastui 0.4.0
 TOC 0.0-6
 todor 0.1.2
 toeclim 0.1.0
-togglr 0.2.1
+togglr 1.0.0
 TOHM 1.4
 tok 0.2.3
 tokenbrowser 0.1.6

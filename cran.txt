@@ -862,7 +862,7 @@ ascii 2.6
 asciicast 2.3.1
 asciichartr 0.1.0
 asciiruler 0.2
-asciiSetupReader 2.5.3
+asciiSetupReader 2.6.0
 ascotraceR 0.0.1
 ascribe 0.2.0
 asd 2.2
@@ -2995,7 +2995,7 @@ chisquare 1.2
 chk 0.11.0
 chlorpromazineR 0.2.0
 CHMM 0.1.1
-chms 7.1
+chms 7.2
 chmsflow 0.1.0
 CHNCapitalStock 0.1.1
 chngpt 2024.11-15
@@ -3596,7 +3596,7 @@ combreg 0.2.0
 combss 0.1.0
 comclim 0.9.6
 cometr 0.4.0
-comets 0.2-2
+comets 0.2-3
 comexr 0.4.0
 comf 0.1.12
 comFuncs 0.0.6
@@ -6176,7 +6176,7 @@ emf 0.2.0
 emg 1.0.9
 EMgaussian 0.2.2
 EMGCR 0.3.0
-emhawkes 0.9.8
+emhawkes 1.0.0
 EmiR 1.0.6
 emIRT 0.0.15
 EmissV 0.666.0.0
@@ -10738,7 +10738,7 @@ isoniche 1.0.0
 isoorbi 1.5.2
 isopam 3.7
 isopleuros 1.4.0
-IsoplotR 7.0
+IsoplotR 7.1
 IsoplotRgui 7.0
 isoreader2 0.7.0
 IsoriX 0.9.4
@@ -12165,7 +12165,6 @@ madshapR 2.0.0
 madsim 1.2.1
 MADtests 0.1.1
 maestro 1.4.0
-Maeswrap 1.7
 MAFLD 4.0.0
 mafR 1.1.14
 magclass 7.5.0
@@ -16830,7 +16829,7 @@ prettymapr 0.2.5
 prettyPanelMatch 0.2.0
 prettyunits 1.2.0
 prevalence 0.4.1
-preventr 0.12.0
+preventr 0.12.1
 previsionio 11.7.0
 prevR 5.0.0
 prevtoinc 0.12.1
@@ -23695,7 +23694,7 @@ trajmsm 0.1.5
 trajr 1.5.1
 traktok 0.1.1
 tram 1.4-7
-tramicp 0.1-0
+tramicp 0.1-1
 TraMineR 2.2-14
 TraMineRextras 0.6.9
 tramME 1.0.8

@@ -837,7 +837,7 @@ arrg 0.2.0
 arrow 25.0.1
 arrowheadr 1.0.2
 ars 0.8
-arsenal 3.7.1
+arsenal 3.7.4
 arthistory 0.1.0
 artma 0.5.0
 ARTofR 0.4.1
@@ -22224,7 +22224,7 @@ stats19 4.1.0
 stats4teaching 0.1.0
 statsapps 0.2.0
 statsearchanalyticsr 0.1.4
-statsExpressions 2.1.2
+statsExpressions 2.2.0
 statsr 0.3.0
 StatsTFLValR 1.0.0
 statswalesr 1.0.0
@@ -23701,7 +23701,7 @@ TraMineRextras 0.6.9
 tramME 1.0.8
 tramnet 0.1-0
 TRAMPR 1.0-10
-tramvs 0.0-9
+tramvs 0.0-10
 transDA 1.0.3
 transDIF 0.1.0
 transferegovr 0.2.0

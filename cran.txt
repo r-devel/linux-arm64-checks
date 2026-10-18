@@ -539,7 +539,7 @@ AMISforInfectiousDiseases 0.1.0
 ammiBayes 2.2-0
 AMModels 0.1.4
 AmmoniaConcentration 0.1
-amorem 1.0.0
+amorem 1.1.0
 AmoudSurv 0.1.0
 amp 1.0.0
 amp.dm 0.2.1
@@ -3744,7 +3744,7 @@ conformalInference.fd 1.1.1
 conformalInference.multi 1.1.2
 conformalpvalue 0.1.0
 ConformalSmallest 1.0
-confoundvis 0.2.0
+confoundvis 0.3.0
 confreq 1.6.1-3
 ConfusionTableR 1.0.4
 congress 0.1.0
@@ -4584,7 +4584,7 @@ datapond 0.1.0
 dataprep 0.1.8
 dataPreparation 1.1.2
 dataProfilerR 0.2.1
-DataQualityDashboard 2.9.0
+DataQualityDashboard 2.9.1
 dataquieR 2.8.15
 datardis 0.0.5
 dataReporter 1.0.5
@@ -4618,7 +4618,7 @@ dataverse 0.3.16
 dataviewR 1.1.0
 DataVisualizations 1.4.0
 DataViz 0.2.8
-datawizard 1.4.0
+datawizard 1.4.1
 datazoom.amazonia 1.2.0
 datazoom.saude 0.1.1
 datazoom.social 0.1.1
@@ -8017,7 +8017,7 @@ gcookbook 2.0.1
 gcor 0.1.0
 GCPBayes 4.3.0
 gcpca 0.0.1
-gcplyr 1.12.0
+gcplyr 1.13.1
 GCPM 1.2.2
 GCSM 0.2.0
 gcTensor 1.0.1
@@ -10739,7 +10739,7 @@ isoorbi 1.5.2
 isopam 3.7
 isopleuros 1.4.0
 IsoplotR 7.1
-IsoplotRgui 7.0
+IsoplotRgui 7.1
 isoreader2 0.7.0
 IsoriX 0.9.4
 IsoSpecR 2.3.3
@@ -16940,7 +16940,7 @@ profrep 1.0.0
 proftools 0.99-4
 profvis 0.4.0
 progress 1.2.3
-progressify 0.2.0
+progressify 0.4.0
 progressr 1.0.0
 ProgVine 0.1.0
 PROJ 0.7.0
@@ -18062,7 +18062,7 @@ RCPA3 1.3.1
 Rcplex 0.3-8
 Rcpp 1.1.2
 RCppAD 1.20260000.0-1
-RcppAlgos 2.10.1
+RcppAlgos 2.10.2
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
 RcppArmadillo 15.6.2-1
@@ -18543,7 +18543,7 @@ repo.data 0.2.6
 RepoGenerator 0.0.1
 repolr 3.4
 report 0.6.4
-reporter 1.4.9
+reporter 1.5.0
 repoRter.nih 0.1.4
 ReporterScore 0.2.5
 reportfactory 0.4.0
@@ -19739,7 +19739,7 @@ rswipl 10.1.16
 Rsymphony 0.1-33
 rsyncrosim 2.1.13
 rsyntax 0.1.4
-rsynthbio 4.2.2
+rsynthbio 4.2.3
 rsyslog 1.0.3
 rt 1.1.0
 rt.test 1.26.9
@@ -22281,7 +22281,7 @@ StepRegShiny 1.6.1
 steprf 1.0.2
 stepSplitReg 1.0.5
 stepssurvey 0.1.0
-stepwedgepower 0.1.3
+stepwedgepower 0.4.1
 StepwiseTest 1.0
 StereoMorph 1.6.7
 stevedata 1.9.0
@@ -22376,7 +22376,7 @@ StratifiedMedicine 1.0.7
 StratifiedRF 0.2.2
 StratifiedSampling 0.4.2
 stratifiedyh 0.1.0
-stratifyR 2.0-2
+stratifyR 2.0-3
 StratigrapheR 1.3.1
 stratigraphr 0.5.0
 StratPal 0.7.1
@@ -23010,7 +23010,7 @@ tealeaves 1.0.7
 teamcolors 0.0.4
 tectonicr 0.4.9
 tEDM 1.3
-teems 0.1.1
+teems 1.0.0
 tehtuner 0.3.0
 teigen 2.2.2
 Tejapi 1.0.1
@@ -23399,7 +23399,7 @@ tightClust 1.1
 tightenBlock 0.1.7
 tigreBrowserWriter 0.1.5
 tigris 2.3.0
-tikatuwq 0.10.0
+tikatuwq 0.11.0
 tiktokadsR 0.1.0
 tikzDevice 0.12.6
 tiledb 0.33.0

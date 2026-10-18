@@ -1,6 +1,6 @@
 # windfarmGA 5.0.0
 
-Latest run: 2026-10-11: https://github.com/r-devel/linux-arm64-checks/actions/runs/38108948629
+Latest run: 2026-10-18: https://github.com/r-devel/linux-arm64-checks/actions/runs/39091313997
 
 ```
 Package: windfarmGA

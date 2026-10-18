@@ -539,7 +539,7 @@ AMISforInfectiousDiseases 0.1.0
 ammiBayes 2.2-0
 AMModels 0.1.4
 AmmoniaConcentration 0.1
-amorem 1.1.0
+amorem 1.2.0
 AmoudSurv 0.1.0
 amp 1.0.0
 amp.dm 0.2.1
@@ -1496,6 +1496,7 @@ bde 1.0.1.1
 BDEsize 1.6
 bdf3 0.1.1
 BDgraph 2.74
+BDIB 0.1.1
 bdl 1.0.5
 bdlim 0.5.0
 bdlnm 0.1.1
@@ -1799,6 +1800,7 @@ BiodiversityR 2.18-1
 BIOdry 0.9.1
 BIOEFIC 0.1.1
 biofetchR 0.1.2
+BioFTF 3.0.0
 biogas 1.64.0
 biogeom 1.5.2
 biogram 1.6.3
@@ -3473,7 +3475,7 @@ codez 2.0.0
 codified 0.3.0
 CoDiNA 1.1.2
 codingMatrices 0.4.0
-codriver 1.0.0
+codriver 1.1.0
 codyn 2.0.6
 codyna 0.1.0
 coefa 1.0.3
@@ -4358,6 +4360,7 @@ CUFF 1.9
 CUMP 2.0
 cumprinc 0.1
 cumulcalib 0.2.0
+CUNYsports 0.1.0
 cuperdec 1.1.0
 cuRe 1.1.1
 cureAssess 0.1.0
@@ -5243,7 +5246,7 @@ dissimilarities 0.3.0
 DiSSMod 1.0.0
 dist.structure 0.5.0
 Distance 2.0.1
-distanceHD 1.2
+distanceHD 1.4
 distances 0.1.13
 distanceto 0.0.3
 distantia 2.0.3
@@ -5343,6 +5346,7 @@ dml 1.1.0
 dmm 3.2-2
 DMMF 0.5.2.0
 dMod 1.0.2
+dmrfit 0.1.0
 DMRnet 0.4.1
 dMrs 1.0.0
 DMSTAr 0.1.1
@@ -7512,6 +7516,7 @@ forecasteR 3.0.2
 forecastHybrid 5.1.21
 ForecastingEnsembles 0.5.1
 forecastLSW 1.1.1
+forecastsuite 1.0.2
 FoReco 1.3.1
 FoRecoML 1.1.1
 ForeComp 1.0.0
@@ -10687,6 +10692,7 @@ irtrees 1.0.0
 irtreliability 0.1-1
 IRTShiny 1.2
 irtsim 0.2.0
+irw 1.3.1
 isa2 0.3.6
 ISAR 1.0.5
 isard 0.2.0
@@ -11837,7 +11843,7 @@ LMN 1.1.3
 lmodel2 1.7-4
 LMoFit 0.1.7
 lmom 3.3
-lmomco 2.5.7
+lmomco 2.5.8
 Lmoments 1.3-2
 lmomPi 0.6.7
 lmomRFA 3.8
@@ -12122,6 +12128,7 @@ lwbgt 1.0.1
 lwc2022 1.0.1
 LWFBrook90R 0.6.3
 lwgeom 0.2-17
+lwpls 0.3.0
 lwqs 0.5.1
 lyubishchev 0.1.0
 lzrq 0.1.0
@@ -14144,7 +14151,7 @@ mycor 0.1.1
 myCRAN 1.3
 myIO 1.4.0
 MYIS 0.1.0
-myman 0.10.0
+myman 0.12.0
 MyoScore 1.0.1
 myownrobs 1.0.0
 myrror 0.1.2
@@ -14176,6 +14183,7 @@ naivereg 1.0.7
 nakagami 1.1.0
 NAM 1.8.0
 name 0.0.2
+namegender 0.7.1
 NameNeedle 1.2.11
 namer 0.1.9
 nametagger 0.1.8
@@ -16453,6 +16461,7 @@ PNWColors 0.1.0
 pocrm 0.13
 POD 1.2.0
 PoDBAY 1.4.3
+POEMED 1.0.0
 poems 1.4.0
 POET 2.0
 pogit 1.3.0
@@ -19330,7 +19339,7 @@ ROI.models.miplib 1.0-0
 ROI.models.netlib 1.1-2
 ROI.plugin.alabama 1.0-2
 ROI.plugin.clarabel 0.3
-ROI.plugin.coinclp 0.1.0
+ROI.plugin.coinclp 0.1.1
 ROI.plugin.cplex 0.3-0
 ROI.plugin.deoptim 1.0-2
 ROI.plugin.ecos 1.0-2
@@ -25212,6 +25221,7 @@ xRing 0.1.2
 xrnet 1.0.1
 XRSCC 0.2
 xsdm 1.0.2
+XSLmodels 0.4.0
 xslt 1.5.1
 XSRecencyX 0.1.0
 xSub 3.0.2

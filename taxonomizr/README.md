@@ -1,6 +1,6 @@
 # taxonomizr 0.11.1
 
-Latest run: 2026-10-11: https://github.com/r-devel/linux-arm64-checks/actions/runs/38108833936
+Latest run: 2026-10-18: https://github.com/r-devel/linux-arm64-checks/actions/runs/39091198579
 
 ```
 Package: taxonomizr
@@ -35,8 +35,25 @@ ARM64: ERROR
 
 Package: taxonomizr
 Check: tests
-AMD64: OK
+AMD64: ERROR
     Running ‘testthat.R’
+  Running the tests in ‘tests/testthat.R’ failed.
+  Last 13 lines of output:
+      1. ├─testthat::expect_error(...) at test_taxa.R:974:3
+      2. │ └─testthat:::quasi_capture(...)
+      3. │   ├─testthat (local) .capture(...)
+      4. │   │ └─base::withCallingHandlers(...)
+      5. │   └─rlang::eval_bare(quo_get_expr(.quo), quo_get_env(.quo))
+      6. ├─taxonomizr:::resumableDownload("file://NOTAREALFILE.FAKE", tmpFile2)
+      7. │ └─curl::multi_download(...)
+      8. │   └─base::lapply(handles, handle_data)
+      9. │     └─curl (local) FUN(X[[i]], ...)
+     10. └─curl:::raise_libcurl_error(27L, "Out of memory")
+    
+    [ FAIL 1 | WARN 0 | SKIP 0 | PASS 378 ]
+    Error:
+    ! Test failures.
+    Execution halted
 ARM64: FAILURE
 
 ```

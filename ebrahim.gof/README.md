@@ -1,6 +1,6 @@
 # ebrahim.gof 2.10.0
 
-Latest run: 2026-10-11: https://github.com/r-devel/linux-arm64-checks/actions/runs/38162239124
+Latest run: 2026-10-18: https://github.com/r-devel/linux-arm64-checks/actions/runs/39089856778
 
 ```
 Package: ebrahim.gof

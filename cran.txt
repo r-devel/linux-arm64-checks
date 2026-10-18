@@ -9060,7 +9060,7 @@ GRAB 0.2.5
 grabsampling 1.0.0
 GrabSVG 0.0.2
 gradeR 2.0.1
-graDiEnt 1.0.1
+graDiEnt 1.1.0
 gradLasso 0.1.1
 grafify 5.1.0
 grafzahl 0.0.12

@@ -1,5 +1,5 @@
 a11yShiny 0.1.4
-a5R 0.6.0
+a5R 1.0.0
 aae.pop 0.2.0
 AalenJohansen 1.0
 aamatch 0.4.5
@@ -640,7 +640,7 @@ AOboot 0.1.2
 aod 1.3.3
 aods3 0.6
 aoos 0.5.0
-aopdata 1.1.2
+aopdata 1.2.0
 Aoptbdtvc 0.0.3
 aoristic 2.0.0
 aorsf 0.1.6
@@ -655,7 +655,7 @@ ApacheLogProcessor 0.2.3
 APackOfTheClones 1.3.0
 apaTables 2.0.8
 apaText 0.1.7
-apathe 0.1.0
+apathe 0.1.1
 apca 1.0.0
 APCalign 2.0.1
 APCanalysis 1.0
@@ -1300,7 +1300,7 @@ BayesERtools 0.2.7
 BayesESS 0.1.19
 bayesestdft 1.0.0
 BayesFactor 0.9.12-4.8
-BayesFBHborrow 2.0.14
+BayesFBHborrow 2.0.19
 BayesFluxR 0.1.3
 BayesFM 0.1.7
 BayesfMRI 0.11.0
@@ -1586,7 +1586,7 @@ betacal 0.1.0
 betaclust 1.0.5
 BetaDanish 0.3.0
 betaDelta 1.0.7
-betafunctions 1.9.0
+betafunctions 2.0.0
 betaMC 1.3.4
 betaNB 1.0.7
 betapart 1.6.1
@@ -2470,9 +2470,9 @@ CamelUp 2.0.3
 camerondata 1.0.0
 campaignmanageR 0.1.0
 campfin 1.0.11
-campsis 1.9.2
+campsis 1.9.3
 campsismod 1.4.2
-campsisnca 1.7.2
+campsisnca 1.7.3
 camsRad 0.3.0
 camtrapdp 0.6.0
 camtrapR 3.1.0
@@ -2677,7 +2677,7 @@ CautiousLearning 1.0.1
 CAvariants 6.0
 caverify 0.2.0
 caviarpd 0.3.25
-cayleyR 0.2.6
+cayleyR 0.3.0
 CB2 1.3.8
 cba 0.2-25
 CBAModel 0.0.1.2
@@ -5385,7 +5385,7 @@ docopt 0.7.2
 docopulae 0.4.0
 docorator 0.7.0
 docore 1.0
-Docovt 0.6
+Docovt 0.6.2
 docstring 1.0.0
 doctest 0.4.1
 document 4.0.1
@@ -5992,7 +5992,7 @@ editrules 2.9.6
 EDIutils 3.0.1
 edl 1.1
 edlibR 1.0.3
-eDMA 1.5-4
+eDMA 1.5-5
 edmdata 1.3.0
 eDNAfuns 0.1.0
 eDNAjoint 0.3.3
@@ -6517,7 +6517,7 @@ ETAS 0.7.2
 ETASbootstrap 0.2.1
 etasFLP 2.3.0
 ETC 1.5
-ETDQualitizer 1.1.0
+ETDQualitizer 1.2.0
 ethiodate 0.3.1
 ethnobotanyR 0.3.0
 ethnoecologyR 0.1.4
@@ -7086,7 +7086,7 @@ fdrtool 1.2.18
 fds 1.9
 fdth 1.5-0
 fdWasserstein 1.0
-FDX 2.0.2
+FDX 2.0.4
 FEA 0.0.2
 FeaLect 1.20
 feasts 0.5.0
@@ -8211,7 +8211,7 @@ geocodebr 0.7.0
 geocomplexity 0.3.0
 geodaData 0.1.0
 geodata 0.6-9
-geoDeltaAudit 0.1.0
+geoDeltaAudit 0.1.1
 GeoDensityR 0.2.0
 geodetector 1.0-5
 geodimension 2.0.0
@@ -10493,7 +10493,7 @@ integIRTy 1.0.9
 IntegMultiReg 0.1.3
 integr 1.0.0
 IntegratedJM 1.6
-integrity 1.0.1
+integrity 1.0.2
 inteli 0.2.0
 intendo 0.1.1
 intensegRid 0.1.2
@@ -11361,7 +11361,7 @@ lambdaTS 2.0.0
 lambdr 1.2.5
 LambertW 0.6.9-2
 lame 1.3.4
-laminr 1.3.1
+laminr 1.3.2
 lamle 0.3.1
 lamW 2.2.7
 lancor 0.1.3
@@ -11416,7 +11416,7 @@ latentcor 2.0.2
 latentFactoR 0.0.9
 latentnet 2.12.0
 latents 0.9.21
-latentState 1.0.0
+latentState 1.0.1
 later 1.4.8
 Laterality 0.9.5
 LATERmodel 0.2.0
@@ -12323,7 +12323,7 @@ marble 0.0.4
 march 3.3.2
 marcher 0.0.3
 marcox 1.0.0
-marcxmlr 0.4.0
+marcxmlr 0.5.0
 mardist 1.1.1
 marelac 2.1.11
 MareyMap 1.3.10
@@ -12591,7 +12591,7 @@ mcr 1.3.3.1
 mcradds 1.1.1
 mcreplicate 0.1.2
 mcrPioda 1.3.4
-MCS 0.2.0
+MCS 0.2.1
 MCseqReplic 1.1.0
 MCSim 1.0
 MCSimMod 1.2
@@ -14769,7 +14769,7 @@ npde 3.5
 npDoseResponse 0.2
 npdsim 1.0.0
 npExact 0.2
-NPFD 1.0.1
+NPFD 1.0.2
 NPflow 0.13.6
 npfseir 0.2.1
 nph 2.1
@@ -14978,7 +14978,7 @@ OdysseusPathwayModule 0.0.1
 OdysseusSurvivalModule 0.1.0
 odyssey 1.0.1
 OECD 0.2.5
-oecdoda 0.1.0
+oecdoda 0.2.0
 OEFPIL 0.1.2
 oeis.tools 0.3.1
 oeli 0.7.8
@@ -15446,7 +15446,7 @@ owd 1.0-7
 owdbr 1.0.1.1
 OWEA 0.1.2
 OwenQ 1.0.8
-owidapi 0.1.2
+owidapi 0.1.3
 owidR 1.4.2
 ows4R 0.5
 oxcAAR 1.1.2
@@ -16443,7 +16443,7 @@ pmsims 1.0.0
 pmultinom 1.0.0
 pmvalsampsize 0.1.0
 pmwg 0.2.7
-PMwR 1.2-0
+PMwR 1.3-0
 pmxcode 0.3.2
 pmxcv 0.0.2
 pmxNODE 0.2.1
@@ -20192,7 +20192,7 @@ scapesClassification 1.0.0
 scapGNN 0.1.4
 scar 0.2-2
 scaRabee 1.1-5
-SCAtools 0.5.1
+SCAtools 0.5.2
 scatr 1.0.1
 scatterbar 0.1.0
 scatterD3 1.0.2
@@ -20287,7 +20287,7 @@ scMetaTraj 0.1.1
 scmix 0.1.1
 scModels 1.0.5
 scmSpillover 0.1.2
-scNPM 1.0.6
+scNPM 1.1.0
 scOntoMatch 0.1.1
 scoper 1.6.0
 scopr 0.3.5
@@ -21764,7 +21764,7 @@ SPCALDA 1.0
 spCF 0.2.2.1
 SPCompute 1.0.3
 spconf 1.0.1
-spconform 0.1.1
+spconform 0.1.2
 spcosa 0.4-6
 spcov 1.3
 spCP 1.4.0
@@ -22063,7 +22063,7 @@ SSHAARP 2.0.8
 Sshaped 1.2
 sshicm 0.1.0
 sship 0.9.0
-sshist 0.2.4
+sshist 0.2.6
 ssifs 1.0.5
 SSIMmap 0.4.0
 ssimparser 0.1.2
@@ -22429,7 +22429,7 @@ strip 1.0.0
 stripless 1.0-3
 striprtf 0.6.0
 stRoke 25.9.2
-strollur 0.1.3
+strollur 0.1.4
 StroupGLMM 0.3.0
 strs 0.1.0
 strucchange 1.6-0
@@ -24145,7 +24145,7 @@ uGMAR 3.6.1
 ugomquantreg 1.0.0
 UHM 0.3.0
 ui 1.0.1
-uisapi 0.1.1
+uisapi 0.1.2
 uiucthemes 0.3.3
 uk2us 0.1.0
 ukbabynames 0.3.0

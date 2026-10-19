@@ -55,7 +55,7 @@ acc 1.3.3
 acca 0.2
 accbaseballr 0.1.4
 accelEE 0.3.2
-accelmissing 2.2
+accelmissing 2.4
 AccelStab 2.3.2
 accept 1.0.2
 AcceptanceSampling 1.0.11
@@ -87,7 +87,7 @@ acfMPeriod 1.1.0
 achieveGap 0.1.0
 Achilles 1.7.2
 acid 1.1
-ackwards 0.2.0
+ackwards 0.3.0
 acled.api 1.1.8
 acledR 1.0.1
 aclhs 1.0.1
@@ -440,7 +440,7 @@ albopictus 0.5
 alcoholSurv 0.7.2
 alcyon 0.10.0
 ald 1.3.1
-ALDEx3 1.3.1
+ALDEx3 1.4.0
 ALDqr 1.0
 aldvmm 0.9.0
 ale 0.5.3
@@ -1300,7 +1300,7 @@ BayesERtools 0.2.7
 BayesESS 0.1.19
 bayesestdft 1.0.0
 BayesFactor 0.9.12-4.8
-BayesFBHborrow 2.0.19
+BayesFBHborrow 2.0.20
 BayesFluxR 0.1.3
 BayesFM 0.1.7
 BayesfMRI 0.11.0
@@ -4422,7 +4422,7 @@ cvsem 1.0.0
 CVST 0.2-3
 CVThresh 1.1.2
 cvTools 0.3.3
-CVXR 1.9.2
+CVXR 1.9.3
 cwad 0.2.0
 cWise 0.1.0
 cwot 0.1.0
@@ -4749,7 +4749,7 @@ DDPM 0.1.0
 DDPstar 1.0-1
 DDRTree 0.1.6
 ddsPLS 1.2.1
-ddst 1.6.11
+ddst 1.6.12
 ddtlcm 0.2.1
 DEA 1.0.0
 deadband 0.1.0
@@ -5178,7 +5178,7 @@ directlabels 2026.8.27
 directPA 1.5.1
 DirectStandardisation 1.3
 dirichletprocess 0.4.2
-DirichletReg 0.7-3
+DirichletReg 0.7-4
 DirichletRF 0.2.0
 DIRMR 0.5.0
 dirmult 0.1.3-5
@@ -6933,7 +6933,7 @@ fastGraph 2.1
 FastHamming 1.3
 fastICA 1.2-8
 FastImputation 2.2.1
-FastJM 1.7.1
+FastJM 1.7.2
 fastJT 1.0.8
 FastKM 1.2
 fastkmedoids 1.7
@@ -7290,7 +7290,7 @@ fitbitViz 1.0.8
 FITclust 1.0.0
 fitConic 1.2.1
 fitdistcp 0.2.3
-fitdistrBayes 0.5.1
+fitdistrBayes 0.6.0
 fitdistrplus 1.2-6
 FitDynMix 1.0.2
 fitHeavyTail 0.2.0
@@ -8998,7 +8998,7 @@ GPArotateDF 2026.6-1
 GPArotation 2026.8-2
 GPBayes 0.1.0-6
 gpbiometrics 0.1.0
-gpboost 1.7.4
+gpboost 1.8.0
 gpbStat 0.4.4
 gpci 0.1.0
 gpciEMprogII 0.1.0
@@ -9949,7 +9949,7 @@ hydra 0.1.0
 hydraulics 0.7.2
 hydReng 1.0.0
 HYDROCAL 1.0.0
-hydrocan 0.0.1
+hydrocan 0.0.2
 hydrochem 0.1.0
 HydroCode 1.0.3
 hydroDCindex 1.0.0
@@ -11248,7 +11248,7 @@ KraljicMatrix 0.2.1
 krige 0.6.2
 kriging 1.2
 KrigInv 1.4.2
-krippendorffsalpha 2.0
+krippendorffsalpha 2.0-3
 KRIS 1.1.6
 KRLS 1.7-1
 krm 2022.10-17
@@ -13592,7 +13592,7 @@ morph 2.0.0
 morphemepiece 1.2.3
 morphemepiece.data 1.2.0
 morphErr 1.0.0
-morpheus 1.0-5
+morpheus 1.0-6
 Morpho 2.13
 morphomap 1.5
 moRphomenses 1.0.3
@@ -14465,7 +14465,7 @@ NFWdist 0.1.0
 ngboostForecast 0.1.1
 NGBVS 0.3.0
 NGCHM 1.0.4
-NGLVieweR 1.4.0
+NGLVieweR 1.5.0
 ngme2 1.0.1
 ngram 3.2.3
 ngramr 1.10.0
@@ -17992,7 +17992,7 @@ rChEA3 1.0.1
 rchemo 0.1-4
 rcheology 4.6.1.0
 RChest 1.0.3
-rchime 0.1.2
+rchime 0.1.3
 RchivalTag 0.2.2
 Rchoice 0.3-6
 rChoiceDialogs 1.0.6.1
@@ -20233,7 +20233,7 @@ SCEnt 0.0.1
 SCEPtER 0.2-4
 SCEPtERbinary 0.1-1
 sceua 0.1.1
-scf 1.0.10
+scf 1.2.0
 scFlex 0.1.0
 SCFMonitor 0.3.5
 scGate 1.7.2
@@ -22990,7 +22990,7 @@ TDboost 1.6
 TDCM 0.3.0
 tdcmStan 3.0.0
 TDCor 0.1-2
-TDIagree 0.2.0
+TDIagree 0.3.0
 tdigest 0.4.3
 TDLM 1.1.4
 TDPanalysis 1.0
@@ -24021,7 +24021,7 @@ TukeyC 1.4-0
 TukeyGH77 0.2.0
 tukeytrend 0.7
 TULIP 1.0.2
-tulpa 0.6.0
+tulpa 0.7.5
 tulpaMesh 0.1.3
 tumgr 0.0.4
 tune 2.1.0
@@ -25306,7 +25306,7 @@ zalpha 0.3.0
 zarr 0.5.1
 zCompositions 1.6.2
 zctaCrosswalk 2.0.1
-zcurve 2.4.6
+zcurve 2.4.7
 zdeskR 0.6.0
 zeallot 0.2.0
 ZeBook 1.2

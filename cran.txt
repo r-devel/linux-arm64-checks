@@ -1619,7 +1619,7 @@ BFM 0.2.11
 bfp 0.0-50
 BFpack 1.6.1
 bfpwr 0.1.6
-BFS 0.7.2
+BFS 0.8.0
 bfsl 0.2.0
 bfsMaps 1.99.4
 bfw 0.4.2
@@ -3203,6 +3203,7 @@ cliff 0.1.2
 clifford 1.2-0-2
 CliftLRD 0.1-2
 clim4health 0.1.0
+climabr 0.1.0
 climaemet 1.6.0
 ClimaRep 1.1
 climate 1.4.2
@@ -4607,7 +4608,7 @@ datasetsICR 1.0
 DataSetsUni 0.1
 datasetviewer 0.2.0
 DataSimilarity 0.4.0
-DataSpaceR 1.0.2
+DataSpaceR 1.0.3
 dataspice 1.1.1
 datastat 0.1.0
 DatastreamDSWS2R 1.11.0
@@ -6423,6 +6424,7 @@ EQUIVNONINF 1.0.2
 equivUMP 0.1.1
 ER 1.1.2
 era 0.6.0
+ERA5Flux 1.0.0
 EraBrewer 0.2.0
 erah 2.2.0
 eratosthenes 1.0.4
@@ -8154,6 +8156,7 @@ genetics 1.3.8.1.3
 GeneticSubsetter 0.8
 GeNetIt 0.1-7
 geneviewer 0.1.11
+genevintage 0.1.3
 genfrn 0.1.4
 GenHMM1d 0.2.8
 genie 1.0.7
@@ -9447,7 +9450,7 @@ harness 0.2.0
 HARplus 1.2.0
 HARr 1.1.0
 harrietr 0.2.3
-harrypotter 2.1.1
+harrypotter 2.1.2
 Harvest.Tree 1.1
 hash 2.2.6.4
 hashids 0.9.0
@@ -9837,6 +9840,7 @@ hpackedbubble 0.1.0
 hpcwld 0.6-5
 hpfilter 1.0.2
 hpiR 0.3.2
+hpsreg 1.0.0
 HPZoneAPI 1.3.0
 HQM 2.1
 hqmisc 0.2-1
@@ -11406,6 +11410,7 @@ lars 1.3
 lasars 0.1.1
 LassoBacktracking 1.1
 LassoHiDFastGibbs 0.1.5
+lassoinf 0.1.0
 LassoNet 0.8.3
 lassopv 0.2.0
 LassoSIR 1.0
@@ -11554,6 +11559,7 @@ LearnNonparam 1.3.0
 LearnPCA 0.3.4
 learnPopGen 1.0.4
 learnr 0.11.6
+learnr2 0.1.3
 learnrbook 2.0.1
 LearnSL 1.0.0
 LearnVizLMM 1.0.0
@@ -15547,6 +15553,7 @@ palettephines 0.1.3
 palettes 0.2.2
 palettesForR 0.1.2
 palettetown 0.1.1
+palettome 1.0.1
 palimpsestr 0.24.1
 palinsol 1.0
 palm 1.1.7
@@ -15626,7 +15633,7 @@ paramsim 0.1.0
 paramtest 0.1.1
 paran 1.5.6
 parasiteR 1.1.1
-ParBayesianOptimization 1.3.0
+ParBayesianOptimization 1.4.2
 parcats 0.1.0
 ParCC 1.4.1
 parcr 0.6.1
@@ -17210,7 +17217,7 @@ PupillometryR 0.0.7
 PupilPre 0.6.3
 PUPMCR 0.2.0
 PUPMSI 0.1.0
-puremoe 1.1.0
+puremoe 1.1.1
 pureseqtmr 1.4.2
 purge 0.2.1
 purgeR 1.8.3
@@ -17321,6 +17328,7 @@ qdapTools 1.3.7
 qdaR 0.1.0
 QDComparison 3.0
 qDEA 1.0.0
+qdfauction 0.1.0
 qdm 0.1-0
 qeML 1.1
 Qest 1.0.2
@@ -20845,7 +20853,7 @@ shinydbauth 1.0.0.1
 shinydisconnect 0.1.1
 shinyDND 0.1.0
 shinydrive 0.1.5
-shinyds 0.6.0
+shinyds 0.7.2
 shinyDTC 0.1.0
 shinyEditor 1.0.0
 shinyEffects 0.2.0
@@ -25380,6 +25388,7 @@ zoteR 1.0.0
 ZRA 0.2
 zscorer 0.3.1
 Zseq 0.2.2
+zstd 0.1.0
 ztable 0.2.5
 ztils 1.0.0
 ztpln 0.1.3

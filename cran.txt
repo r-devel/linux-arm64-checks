@@ -1429,7 +1429,7 @@ BayLum 0.3.3
 bayMDS 2.1
 baymedr 0.2
 bayou 2.3.2
-bayprior 0.4.0
+bayprior 0.5.0
 baystability 0.2.0
 BAYSTAR 0.2-10
 baytaAAR 1.0.3
@@ -8510,7 +8510,7 @@ ggmeta 0.1.1
 ggmGraphEditor 0.1.0
 ggmice 0.1.1
 ggmix 0.0.2
-ggmlR 0.8.4
+ggmlR 0.8.8
 GGMncv 2.1.2
 ggmosaic2 0.5.1
 ggmr 0.1.1
@@ -10099,7 +10099,7 @@ icertool 0.0.3
 icesAdvice 2.1.2
 IceSat2R 1.1.0
 ICESat2VegR 0.0.6
-icesConnect 1.1.4
+icesConnect 1.2.0
 icesDatras 1.4.1
 icesDatsu 1.2.1
 icesDatsuQC 1.2.0
@@ -10202,7 +10202,7 @@ ifctools 0.3.6
 ife 0.2.5
 ifit 1.0.0
 IFMCDM 0.1.17
-ifo 0.3.0
+ifo 0.3.1
 iForecast 1.1.2
 ifpd 0.1.0
 ifs 0.1.10
@@ -11161,7 +11161,7 @@ KingCountyHouses 0.1.0
 KinMixLite 2.2.1
 kinship2 1.9.6.2
 KINSIMU 0.1.3-2
-Kira 1.0.9
+Kira 1.1.0
 kirby21.base 1.7.3
 kirby21.fmri 1.8.0
 kirby21.t1 1.8.0
@@ -14063,8 +14063,8 @@ MUVR2 0.1.0
 MVA 1.0-10
 mvabund 4.2.8
 mvalpha 0.6.3
-MVar 2.3.1
-MVar.pt 2.3.1
+MVar 2.3.2
+MVar.pt 2.3.2
 mvardlurt 1.1.0
 mvBayes 1.2.3
 MvBinary 1.1
@@ -15890,7 +15890,7 @@ PearsonICA 1.2-5
 PEAXAI 1.0.3
 pec 2025.06.24
 pecan 0.1.0
-pecanr 0.3.1
+pecanr 0.4.0
 pecme 0.1.1
 pecora 0.1.3
 pECV 1.0.1
@@ -18150,7 +18150,7 @@ RcppXts 0.0.7
 RcppZiggurat 0.1.8
 rcprd 0.0.2
 rcrimeanalysis 0.5.0
-rcrisp 0.3.2
+rcrisp 1.0.0
 RCriteo 1.0.2
 Rcriticor 2.0
 RCRnorm 0.0.2
@@ -22504,7 +22504,7 @@ sugrrants 0.2.9
 SujathaDist 1.0.0
 sulcimap 1.0.6
 SumcaVer1 0.1.0
-sumer 1.6.0
+sumer 1.7.0
 sumExtras 1.0.0
 summarisebig 0.1.0
 summariser 2.3.0
@@ -24115,7 +24115,7 @@ twoxtwo 0.1.0
 twscrapeR 0.1.3
 TWW 0.1.0
 TxEffectsSurvival 1.0.2
-txshift 0.3.8
+txshift 0.4.0
 txtplot 1.0-5
 txtq 0.2.4
 typed 0.0.1

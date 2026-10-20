@@ -113,7 +113,7 @@ actfts 0.3.0
 actibase 0.6.0
 actigraph.sleepr 0.4.0
 actilifecounts 1.1.1
-actimetrics 0.4.0
+actimetrics 0.9.0
 actinet 0.4.0
 actiplot 0.1.0
 actiquantiles 0.1.0
@@ -1227,7 +1227,7 @@ BaseSet 1.0.0
 basetable 1.4.2
 BaseTempSeed 0.1.0
 basetheme 0.1.3
-baseverse 0.1.4
+baseverse 0.1.5
 basf 0.2.0
 basicdrm 0.3.2
 basicMCMCplots 0.2.7
@@ -2293,7 +2293,7 @@ BSPADATA 1.1.0
 BSPBSS 1.0.6
 bspcov 1.0.3
 bspec 1.6
-bspline 2.5.1
+bspline 2.6.0
 BsplineQuantReg 0.2.5
 BsplineQuantRegGui 0.2.3
 bsplus 0.1.5
@@ -2499,7 +2499,7 @@ canvasXpress.data 1.34.2
 CAOP.RAA.2024 0.0.5
 caper 1.0.4
 capesData 0.0.1
-capesR 0.2.0
+capesR 0.2.1
 capitalR 1.3.0
 capl 1.42
 caples 0.1.0
@@ -2878,7 +2878,7 @@ CFtime 1.7.3
 cg 1.0-4
 cgaim 1.0.4
 cgal4h 0.1.0
-cgam 1.32
+cgam 1.33
 cgAUC 1.2.1
 CGE 0.3.3
 CGGP 1.0.4
@@ -3002,7 +3002,7 @@ chmsflow 0.1.0
 CHNCapitalStock 0.1.1
 chngpt 2024.11-15
 CHNOSZ 2.3.0
-choicedata 0.2.0
+choicedata 0.2.1
 choiceDes 0.9-3
 ChoiceModelR 1.3.1
 choicer 0.2.1
@@ -4223,7 +4223,7 @@ crosswalkr 0.4.0
 crov 0.3.0
 crownmetrics 0.1.0
 CrownScorchTLS 0.1.2
-crownsegmentr 1.1.1
+crownsegmentr 1.1.3
 crqa 2.1.0
 crrcbcv 1.0
 crrSC 1.1.2
@@ -5272,6 +5272,7 @@ distrEllipse 2.8.4
 distrEx 2.9.6
 Distributacalcul 0.4.0
 distributional 0.9.0
+DistributionalDDA 0.1.1
 DistributionIV 0.1.3
 DistributionOptimization 1.2.6
 distributions3 0.3.0
@@ -6957,7 +6958,7 @@ fastNaiveBayes 2.2.1
 fastnet 1.0.0
 fastOnlineCpt 1.0
 FastPCS 0.1.4
-fastPLS 0.3
+fastPLS 0.4
 fastplyr 0.9.92
 fastpng 0.1.9
 fastpolicytree 1.0
@@ -7668,7 +7669,7 @@ freedom 1.1.1
 freegroup 1.2-1-1
 freestiler 0.3.0
 freesurfer 1.9.0
-freesurferformats 1.1.0
+freesurferformats 1.1.2
 FREEtree 0.1.0
 freewall 1.0.0
 fRegression 4021.83
@@ -7787,7 +7788,7 @@ fungible 2.4.8
 funGp 1.0.0
 funHDDC 2.3.1.1
 funHMM 0.1.0
-funIHC 0.1.0
+funIHC 0.1.1
 funique 0.0.1
 fUnitRoots 4052.82
 funkycells 1.1.1
@@ -8503,6 +8504,7 @@ ggmatplot 0.1.3
 ggmcmc 1.5.1.2
 ggmemo 0.1.0
 ggmeta 0.1.1
+ggmGraphEditor 0.1.0
 ggmice 0.1.1
 ggmix 0.0.2
 ggmlR 0.8.4
@@ -8792,7 +8794,7 @@ glmmrOptim 0.5.1
 GLMMRR 0.6.0
 glmmsel 1.0.3
 GLMMselect 1.2.0
-glmmSeq 0.5.7
+glmmSeq 0.5.8
 glmmTMB 1.1.15.2
 glmnet 5.1
 glmnetcr 1.0.7
@@ -9148,7 +9150,7 @@ greta.gp 0.2.3
 gretel 0.0.1
 gretlR 0.1.4
 grex 1.9.1
-greybox 2.0.9
+greybox 2.0.11
 GreyModel 0.1.0
 Greymodels 2.0.1
 grf 2.6.1
@@ -9309,7 +9311,7 @@ gto 0.1.2
 gtools 3.9.5
 gtranslate 0.0.1
 gtreg 0.4.2
-gtregression 1.1.0
+gtregression 1.2.0
 gtrendshealth 1.0.1
 gtrendsR 1.5.2
 GTRT 0.1.0
@@ -9616,6 +9618,7 @@ hermiter 2.3.1
 hero 0.6
 hesim 0.5.8
 HEssRNA 1.0.1
+hestia 0.1.0
 hetcorFS 1.0.1
 HeterFunctionalData 1.0
 heterocop 1.0.1
@@ -10385,8 +10388,9 @@ IndonesiAPIs 0.1.1
 IndTestPP 3.0
 industRial 0.1.0
 ineapir 0.2.6
+ineAtlas 0.2.1
 inecolr 0.1.0
-inedemogR 0.2.0
+inedemogR 0.2.1
 ineptr2 0.3.1
 ineq 0.2-13
 ineq.2d 0.1.0
@@ -10493,7 +10497,7 @@ integIRTy 1.0.9
 IntegMultiReg 0.1.3
 integr 1.0.0
 IntegratedJM 1.6
-integrity 1.0.2
+integrity 1.0.3
 inteli 0.2.0
 intendo 0.1.1
 intensegRid 0.1.2
@@ -12577,7 +12581,7 @@ mcount 1.0.1
 mcp 0.3.4
 MCPAN 1.1-22
 mcparallelDo 1.1.0
-mcplite 0.1.0
+mcplite 0.2.0
 MCPMod 1.0-10.1
 MCPModBC 1.1
 MCPModGeneral 0.1-3
@@ -14613,7 +14617,7 @@ Nmisc 0.3.7
 Nmix 2.0.5
 nmixgof 0.1.1
 NMMIPW 0.1.0
-NMOF 2.11-0
+NMOF 2.12-0
 NMRphasing 1.0.7
 nmrrr 1.0.0
 NMsim 0.2.8
@@ -15053,6 +15057,7 @@ OmopIndices 0.1.0
 OmopOnSpark 0.1.0
 OmopSketch 1.1.1
 OmopStudyBuilder 0.1.1
+OmopViewer 0.8.0
 ompr 1.0.4
 ompr.roi 1.0.2
 omsvg 0.1.0
@@ -16185,7 +16190,7 @@ pickmax 0.1.0
 picohdr 0.1.1
 PICOTsize 0.1.0
 picR 1.0.1
-picreg 0.1.4
+picreg 0.2.0
 pid 0.65
 PIE 1.0.0
 piecemaker 1.0.2
@@ -16847,7 +16852,7 @@ PriceIndices 0.3.1
 pricelevels 1.4.0
 priceR 1.0.4
 pricesensitivitymeter 1.3.3
-PricingBandits 2.0.0
+PricingBandits 2.1.0
 prider 1.0.6
 pridit 1.1.1
 prim 1.0.23
@@ -18456,6 +18461,7 @@ regrrr 0.1.3
 regRSM 0.5
 RegSDC 1.0.0
 regsem 1.9.5
+regsensitivity 0.2.0
 regspec 2.7
 regstat 0.1.0
 regsubseq 0.12
@@ -18884,7 +18890,7 @@ RImpact 1.0
 rimu 0.6
 rinat 0.1.10
 rineq 0.3.0
-rinet 0.1.1
+rinet 0.2.0
 ring 1.0.8
 ringbp 1.0.0
 ringostat 0.1.5
@@ -19084,7 +19090,7 @@ RMediation 1.6.1
 RMeDPower2 1.0.2
 rmedsem 1.1.0
 rmerec 0.1.1
-rmet 0.2.0
+rmet 0.3.0
 rmeta 3.0
 rmetalog 1.0.3
 rmfanova 0.1.0
@@ -19838,7 +19844,7 @@ rtype 0.1-1
 rtypeform 2.1.1
 rucrdtw 0.1.7
 rugarch 1.5-6
-RuHere 1.1.0
+RuHere 1.1.1
 Ruido 1.2.0
 ruijter 0.1.3
 ruler 0.3.2
@@ -21526,6 +21532,7 @@ solitude 1.1.3
 solrad 1.0.0
 solrium 1.2.0
 solvebio 2.15.1
+solvency2 0.5.1
 solvency2rfr 0.1.0
 SolveSAPHE 2.1.0
 som 0.3-5.2
@@ -21801,6 +21808,7 @@ spect 1.0
 spectacles 0.5-5
 spectator 0.2.0
 spectr 1.0.1
+spectra2rgb 0.1.0
 spectrakit 0.2.0
 spectral 2.0
 spectralAnomaly 0.1.1
@@ -25070,7 +25078,7 @@ wpp2015 1.1-3
 wpp2017 1.2-3
 wpp2019 1.1-1
 wppExplorer 2.3-4
-WpProj 0.3
+WpProj 0.3.1
 wqc 0.1.2
 wql 1.0.3
 WQM 0.1.4
@@ -25091,7 +25099,7 @@ WRI 0.2.3
 wrictools 1.0.1
 WrightMap 1.5
 writeAlizer 1.7.4
-writeLog 0.1.0
+writeLog 0.1.1
 writer 0.1.0
 writexl 2.0.1
 WriteXLS 6.8.0

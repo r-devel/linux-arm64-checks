@@ -526,7 +526,7 @@ ambre 2.1.2
 ambs 0.1.0
 AMCP 2.0.0
 AMCTestmakeR 1.0.0
-AMDconfigurations 0.2.1
+AMDconfigurations 0.4.0
 Amelia 1.8.3
 amelie 0.2.1
 amen 1.4.5
@@ -3526,7 +3526,7 @@ cointsmall 1.0.4
 col2hex2col 0.5.3
 cold 2.0-3
 coldrift 0.1.1
-coldstart 0.1.0
+coldstart 0.2.0
 collapse 2.1.8
 collapsibleTree 0.1.8
 collateral 0.5.2
@@ -4778,7 +4778,7 @@ decido 0.4.0
 decimal 0.1.1
 decision 0.1.0
 DecisionDrift 0.2.0
-decisionfacets 0.1.0
+decisionfacets 0.2.0
 decisionpaths 0.1.0
 decisionSupport 1.115
 deckgl 0.3.0
@@ -7754,7 +7754,7 @@ ftDK 1.0
 ftExtra 0.6.5
 fTrading 3042.79
 ftrCOOL 2.0.0
-ftsa 6.7
+ftsa 6.8
 FTSgof 1.0.0
 ftsspec 1.0.1
 fucom 0.0.4
@@ -17464,7 +17464,7 @@ quadVAR 0.1.2
 quak 0.1.1
 qualitycontrol 0.1.0
 QualityMeasure 2.0.2
-quallmer 0.5.0
+quallmer 0.6.0
 quallmer.app 0.1.0
 qualmap 0.2.2
 qualpalr 2.1.0
@@ -21010,7 +21010,7 @@ sigclust 1.1.0.1
 SightabilityModel 1.5.5
 sigInt 0.2.0
 sigmajs 0.1.5
-sigminer 2.3.3
+sigminer 2.4.0
 sigmoid 1.4.0
 SIGN 0.1.0
 Signac 1.17.1
@@ -22171,7 +22171,7 @@ starburst 0.3.9
 staRdom 1.1.32
 STAREG 1.0.4
 stargazer 5.2.3
-stargazer2 0.1.0
+stargazer2 0.1.1
 starling 1.1.0
 starm 0.1.0
 starma 1.3
@@ -22909,6 +22909,7 @@ tall 1.0.1
 TAM 4.3-25
 tamd 1.0.2
 tame 0.2.1
+tampaBayOpenData 0.1.0
 tanaka 0.4.0
 TANDEM 1.0.3
 TangledFeatures 0.1.1
@@ -23728,7 +23729,7 @@ tramnet 0.1-0
 TRAMPR 1.0-10
 tramvs 0.0-10
 transDA 1.0.3
-transDIF 0.1.0
+transDIF 0.2.0
 transferegovr 0.2.0
 transforEmotion 0.1.7
 Transform 1.1

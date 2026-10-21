@@ -110,7 +110,7 @@ ACTCD 1.4-0
 ActCR 0.4.0
 actel 1.4.0
 actfts 0.3.0
-actibase 0.6.0
+actibase 0.8.0
 actigraph.sleepr 0.4.0
 actilifecounts 1.1.1
 actimetrics 0.9.0
@@ -1439,7 +1439,7 @@ BBC 1.0.0
 bbdetection 1.0
 BBEST 0.1-9
 BBI 0.3.0
-bbk 0.13.0
+bbk 0.14.0
 bbknnR 2.0.2
 bbl 1.0.0
 BBMBC 0.1.0
@@ -1652,6 +1652,7 @@ bhpm 1.8.1
 BHSBVAR 3.1.3
 BI 1.2.0
 BiasCorrector 0.2.3
+BiasedMatch 0.1.0
 BiasedUrn 2.0.12
 bib2df 1.1.2.0
 biblio 0.0.12
@@ -2239,7 +2240,7 @@ brisk 0.1.1
 BRL 0.1.0
 brm 1.1.1
 brms 2.23.0
-brms.mmrm 1.1.1
+brms.mmrm 1.1.2
 brmsmargins 0.3.0
 brnn 0.9.4
 broadcast 0.1.9.8
@@ -2383,6 +2384,7 @@ bvars 1.1
 bvarsv 1.1
 bvartools 0.3.0
 BVARverse 0.0.1
+BvCh 0.1.0
 bvhar 2.4.1
 bvls 1.4
 bvpa 1.0.0
@@ -3507,7 +3509,7 @@ CohortIncidence 4.2.0
 CohortMethod 6.0.3
 CohortPlat 1.0.5
 cohorts 1.3.0
-CohortSurvival 1.2.0
+CohortSurvival 1.2.1
 CohortSymmetry 0.3.0
 cohorttools 0.1.8
 CohortUtilisation 0.6.1
@@ -3964,7 +3966,7 @@ corsym 1.0.1
 corTest 1.0.7
 corTESTsrd 1.0-0
 corteza 0.7.1
-corto 1.3.1
+corto 1.4.0
 CortSineScore 0.1.0
 corx 1.0.7.3
 cosa 2.1.0
@@ -5385,7 +5387,7 @@ doclisting 0.1.0
 doconv 0.4.0
 docopt 0.7.2
 docopulae 0.4.0
-docorator 0.7.0
+docorator 0.8.0
 docore 1.0
 Docovt 0.6.2
 docstring 1.0.0
@@ -5659,6 +5661,7 @@ DTMCPack 0.1-3
 dtms 0.5.0
 dtpcrm 0.1.3
 dtplyr 1.3.3
+dtptite 0.1.0
 dtrackr 0.5.0
 dtreg 1.1.2
 DTRKernSmooth 1.1.0
@@ -5971,6 +5974,7 @@ eddington 4.3.0
 EDE 0.2.0
 edeaR 1.0.1
 edecob 1.2.2
+edetect 0.1.0
 edf 1.0.1
 edfinr 0.2.0
 edfReader 1.2.1
@@ -6065,7 +6069,7 @@ EGRNi 0.1.6
 eGST 1.0.0
 eha 2.12.0
 ehaGoF 0.1.1
-eHDPrep 2.0.0
+eHDPrep 2.0.1
 ehelp 1.2.1
 EHR 0.4-11
 EHRmuse 0.0.2.2
@@ -6565,7 +6569,6 @@ EvaluationMeasures 1.1.0
 EValue 4.1.4
 evapoRe 1.0.1
 Evapotranspiration 1.16
-evbsreg 1.2.0
 eVCGsampler 1.2.0
 EVchargcost 0.1.0
 evclass 2.0.2
@@ -6581,6 +6584,7 @@ eventPred 0.3.1
 EventPredInCure 1.0
 eventreport 0.1.2
 eventstream 0.1.1
+EventStudy 0.66.0
 eventstudyr 1.2.1
 eventTrack 1.0.4
 EventWinRatios 1.0.0
@@ -8850,7 +8854,7 @@ glvmfit 0.1.0
 glydraw 0.9.0
 glymotif 1.0.0
 glyparse 0.8.1
-glyph 0.1.1
+glyph 0.2.0
 glyrepr 1.1.0
 gm 2.0.0
 GMAC 3.2
@@ -9869,6 +9873,7 @@ HSEtest 0.1.0
 hsphase 3.0.1
 hspm 1.1
 HSPOR 1.1.9
+hsquared 0.9.0
 hsrecombi 1.1.1
 hsstan 0.8.2
 hstats 1.2.2
@@ -10064,7 +10069,7 @@ iCAMP 1.9.1
 ICAOD 1.0.2
 icardaFIGSr 1.0.2
 icarm 0.3.0
-icarus 0.3.3
+icarus 0.3.4
 ICBioMark 0.1.4
 ICC 2.4.0
 ICC.Sample.Size 1.1
@@ -10200,6 +10205,7 @@ IFC 0.2.1
 ifCNVR 0.1.0
 ifctools 0.3.6
 ife 0.2.5
+IFFuzzyStats 0.1.0
 ifit 1.0.0
 IFMCDM 0.1.17
 ifo 0.3.1
@@ -12823,6 +12829,7 @@ metaMA 3.1.3
 metamedian 1.2.2
 metamer 0.3.1
 metamisc 0.4.0
+metamixr 0.1.0
 metamorphr 0.4.1
 metan 1.19.0
 MetaNet 0.3.2
@@ -13626,7 +13633,7 @@ mosaic 1.10.2
 mosaicCalc 0.6.4
 mosaicCore 0.9.5
 mosaicData 0.20.4
-MosaiClusteR 0.1.1
+MosaiClusteR 0.1.4
 MOSAlloc 1.2.6
 mosclust 1.0.3
 MOsemiind 0.1.2
@@ -13905,7 +13912,7 @@ multiclassPairs 0.4.3
 MultiClassROC 0.1.0
 MultiCOAP 1.1
 multiColl 2.1
-multicool 1.0.1
+multicool 1.0.2
 multiCorr 0.1.0
 multid 1.0.2
 multiDEGGs 1.2.1
@@ -13943,7 +13950,7 @@ multilevelmod 1.0.0
 MultiLevelOptimalBayes 0.1.0.0
 multilevelPSA 1.3.1
 multilevelTools 0.2.1
-multilevLCA 2.1.6
+multilevLCA 2.1.7
 multilinguer 0.2.4
 multilink 0.1.1
 multimark 2.1.7
@@ -14995,6 +15002,7 @@ oeli 0.7.9
 oem 2.0.12
 oenb 0.1.0
 OenoKPM 2.4.1
+oes 1.0.0
 oesir 0.3.2
 oews2020 1.0.0
 oews2021 1.0.0
@@ -15093,7 +15101,7 @@ onemap 3.2.6
 onemapsgapi 2.0.0
 OneR 2.2
 OneSampleLogRankTest 0.9.2
-OneSampleMR 0.1.8
+OneSampleMR 0.1.9
 OneShotEM 0.1.0
 ONEST 0.1.0
 OneStep 0.9.4
@@ -16631,6 +16639,7 @@ PortfolioTesteR 0.1.4
 portion 0.1.3
 portn 1.0.0
 portvine 1.0.3
+posc 0.2.0
 poset 1.0.0
 poseticDataAnalysis 1.1.1
 POSetR 1.1.4
@@ -17478,7 +17487,7 @@ QuantBondCurves 0.3.3
 quantCurves 1.0.0
 quantdates 2.0.4
 quantdr 1.3.2
-quanteda 4.5.0
+quanteda 4.5.1
 quanteda.textmodels 0.9.10
 quanteda.textplots 0.96.1
 quanteda.textstats 0.97.2
@@ -19770,6 +19779,7 @@ rTableICC 1.0.9
 rtables 0.6.17
 rtables.officer 0.1.2
 rtabulator 0.1.2
+rTARDIS 2.1.1
 Rtauchen 1.0
 RTaxometrics 3.2.1
 RTCC 0.1.1
@@ -20666,7 +20676,7 @@ serosv 1.3.0
 SeroTrackR 1.1.1
 serp 0.2.5
 serpstatr 0.5.0
-serrsBayes 0.6-0
+serrsBayes 0.6-1
 servr 0.33
 SEset 1.0.1
 SESraster 0.7.1
@@ -21509,6 +21519,7 @@ SOHPIE 1.0.6
 SOIL 1.1
 soilassessment 1.3.1
 soilchemistry 0.1.0
+soilcnn 0.1.0
 SoilConservation 1.0.1
 soilDB 2.9.2
 SoilFDA 0.1.0
@@ -21711,7 +21722,6 @@ spatialData 1.0.1
 SpatialDownscaling 0.1.2
 spatialEco 2.0-5
 SpatialEpi 1.2.8
-SpatialExtremes 2.1-0
 spatialGE 1.2.2
 SpatialGEV 1.0.1
 SpatialGraph 1.0-4
@@ -22249,7 +22259,7 @@ stats19 4.1.0
 stats4teaching 0.1.0
 statsapps 0.2.0
 statsearchanalyticsr 0.1.4
-statsExpressions 2.2.0
+statsExpressions 2.2.1
 statsr 0.3.0
 StatsTFLValR 1.0.0
 statswalesr 1.0.0
@@ -22323,7 +22333,7 @@ sticky 0.5.6.1
 stickyr 0.1.3
 STICr 1.1.2
 SticsRFiles 1.7.2
-stIHC 0.1.0
+stIHC 0.1.1
 sTiles 2026.9.4
 stilt 1.3.1
 stim 1.0.0
@@ -22895,7 +22905,6 @@ tagr 1.0.1
 tagtools 0.3.0
 tAI 0.2.2
 TailClassifier 0.1.2
-tailDepFun 1.0.1
 TailID 1.0.0
 tailloss 1.0
 tailor 0.1.0
@@ -22916,7 +22925,7 @@ TangledFeatures 0.1.1
 tangram 0.8.3
 tangram.pipe 1.1.2
 tanner 1.8.0
-tantivyr 0.1.1
+tantivyr 0.1.3
 TapeR 0.5.3
 taperNOR 0.2.1
 TapeS 0.14.1
@@ -23037,7 +23046,7 @@ tealeaves 1.0.7
 teamcolors 0.0.4
 tectonicr 0.4.9
 tEDM 1.3
-teems 1.0.0
+teems 1.0.1
 tehtuner 0.3.0
 teigen 2.2.2
 Tejapi 1.0.1
@@ -23091,6 +23100,7 @@ tergo 0.1.9
 term 0.4.0
 terminaldigits 0.1.0
 terminalgraphics 0.3.0
+termr 1.0.1
 tern 0.9.13
 tern.gee 0.1.6
 tern.mmrm 0.3.4
@@ -23919,7 +23929,7 @@ TSCI 3.0.5
 tscopula 0.3.9
 tscount 1.4.3
 TSCS 0.1.1
-tscv 1.0.1
+tscv 1.0.2
 tsdataleaks 2.1.1
 tsdb 1.1-0
 tsdecomp 0.2
@@ -24053,7 +24063,7 @@ TurtleGraphics 1.0-8
 Tushare 0.1.4
 tutorial.helpers 0.7.0
 tutorizeR 0.4.5
-TUvalues 1.1.1
+TUvalues 1.2
 TUWmodel 1.1-1
 tv 2.0.2
 tvbounds 0.1.1
@@ -24366,7 +24376,7 @@ V8 8.2.0
 vacalibration 2.2
 vaccinationimpact 0.1.0
 vaccine 1.4.0
-vaccineff 1.0.3
+vaccineff 1.0.4
 vachette 0.40.1
 vacuum 0.1.0
 vaersNDvax 1.0.4
@@ -24853,7 +24863,7 @@ wdman 0.2.6
 wdnet 1.2.4
 wdnr.gis 0.1.7
 wdpar 1.3.9
-wdsmatch 0.2.1
+wdsmatch 0.2.2
 weaana 0.3.0
 weakARMA 1.0.3
 weatherindices 0.1.0
@@ -24871,6 +24881,7 @@ webdeveloper 1.0.5
 webdriver 1.0.6
 webexercises 1.2.0
 webfakes 1.5.0
+webformscore 2.2.0
 WebGestaltR 1.0.1
 webglobe 1.0.3
 webmap 1.1.1

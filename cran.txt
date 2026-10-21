@@ -420,7 +420,7 @@ AIscreenR 0.5.0
 aisdk 1.4.12
 aisdk.providers 0.1.0
 aisoph 0.4
-AIUQ 0.5.5
+AIUQ 0.5.6
 ajv 1.0.0
 aka 0.2.0
 akc 0.9.9.3
@@ -18231,7 +18231,7 @@ rdracor 1.0.6
 rdrobust 4.1.1
 Rdrw 1.0.6
 rdryad 1.0.0
-RDS 0.9-10
+RDS 0.9-11
 Rdsdp 1.0.6
 rdss 1.0.14
 RDSsamplesize 0.5.0

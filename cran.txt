@@ -4944,7 +4944,7 @@ depthR 0.1.8
 depthTools 0.7
 DER 1.5
 DeRezende.Ferreira 0.1.2
-Deriv 4.3.5
+Deriv 4.3.6
 deriva 0.2.0
 derivmkts 0.2.5.1
 derrick 0.1.1
@@ -7197,6 +7197,7 @@ fICA 1.1-3
 fidelius 0.0.2
 fido 1.1.2
 FielDHub 1.5.0
+fieldopt 0.1.0
 fields 18.0
 FieldSimR 1.4.0
 fiery 1.5.0
@@ -7860,7 +7861,7 @@ futureverse 0.3.0
 futurize 1.1.0
 fuzzr 0.2.2
 FuzzyAHP 0.9.5
-FuzzyClass 0.2.0
+FuzzyClass 0.3.0
 fuzzyforest 1.0.8
 FuzzyImputationTest 0.5.5
 fuzzyjoin 0.1.8
@@ -14388,7 +14389,7 @@ netgsa 4.0.7
 netgwas 1.14.5
 nethist 1.0.0
 netie 1.0
-netify 1.5.3
+netify 1.5.4
 NetIndices 1.4.4.1
 NetInt 1.0.2
 netknitr 0.2.1
@@ -14630,7 +14631,7 @@ nlstac 0.2.0
 nlstools 2.1-0
 NlsyLinks 2.2.3
 nlt 2.2-2
-nltm 1.4.6
+nltm 1.4.7
 nlts 1.0-2
 nLTT 1.4.10
 nlWaldTest 1.1.3
@@ -19171,7 +19172,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
-rmoriebricklayer 0.5.1
+rmoriebricklayer 1.0.0
 rmoriedata 0.3.3
 rMosaic 0.2.0
 Rmosek 1.3.5
@@ -22003,7 +22004,7 @@ spotifyr 2.2.5
 spotoroo 0.1.5
 spotr 0.1.0
 SPOUSE 0.1.0
-Spower 0.7
+Spower 0.7.1
 SPPcomb 0.1
 spphpr 1.1.5
 SpPOP 0.1.0

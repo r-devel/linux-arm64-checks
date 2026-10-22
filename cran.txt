@@ -119,7 +119,7 @@ actiplot 0.1.0
 actiquantiles 0.1.0
 actiread 0.5.0
 actiRhythm 0.1.0
-actisensorlog 0.2.0
+actisensorlog 0.3.0
 actisomni 0.2.0
 activAnalyzer 2.1.2
 activatr 0.2.1
@@ -315,7 +315,7 @@ AGCA4extremes 0.1.0
 agcounts 0.7.0
 AGD 0.45.0
 AgeBandDecomposition 2.0.1
-agecrypt 0.1.0
+agecrypt 0.1.1
 ageg 1.0.0
 agena.ai 1.1.2
 agenticr 0.3.3
@@ -879,7 +879,7 @@ AsianOption 0.2.0
 AsioHeaders 1.30.2-1
 askgpt 0.1.3
 askpass 1.2.1
-asleep 0.3.0
+asleep 0.4.0
 aslib 0.1.3
 asm 0.2.4
 ASMap 1.1-0
@@ -5904,7 +5904,7 @@ echos 1.0.4
 ecic 0.0.4
 ecipex 1.1.1
 eclipseplot 0.9.7
-eClosure 0.9.6
+eClosure 0.9.7
 ecm 7.2.0
 ECMLE 0.1.0
 ecmwfr 2.0.3
@@ -8081,7 +8081,7 @@ GDSARM 0.1.1
 gdtools 0.5.2
 gdverse 1.6
 gdxdt 0.1.0
-gdxtools 1.1.1
+gdxtools 1.2.0
 GE 0.5.4
 gear 0.3.4
 geboes.score 1.0.0
@@ -17458,7 +17458,7 @@ qs2 0.3.1
 QSARdata 1.3
 qshap 2.0.0
 qsimulatR 1.1.1
-qslice 0.3.1
+qslice 0.4.0
 qsplines 1.0.1
 QsRutils 0.2.1
 qst 0.1.2
@@ -18267,7 +18267,7 @@ rdoxygen 1.0.0
 RDP 0.3.0
 Rdpack 2.6.6
 rdpower 3.0
-rdracor 1.0.6
+rdracor 1.1.0
 rdrobust 4.1.1
 Rdrw 1.0.6
 rdryad 1.0.0
@@ -19173,7 +19173,7 @@ rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
 rmoriebricklayer 1.0.0
-rmoriedata 0.3.3
+rmoriedata 0.4.0
 rMosaic 0.2.0
 Rmosek 1.3.5
 rMOST 1.0.1

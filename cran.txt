@@ -1200,7 +1200,7 @@ bark 1.0.5
 Barnard 1.8
 barrel 0.1.0
 barrks 1.1.2
-barry 0.2.2
+barry 0.3.0
 BART 2.9.10
 bartCause 1.0-10
 bartcs 1.3.0
@@ -5900,7 +5900,7 @@ echo.find 4.0.1
 echogram 0.1.3
 echoice2 0.2.5
 echor 0.1.10
-echos 1.0.4
+echos 1.0.5
 ecic 0.0.4
 ecipex 1.1.1
 eclipseplot 0.9.7
@@ -8873,7 +8873,7 @@ gluedown 1.0.9
 gluvarpro 7.0
 glvmfit 0.1.0
 glydraw 0.9.0
-glymotif 1.0.0
+glymotif 1.0.1
 glyparse 0.8.1
 glyph 0.2.0
 glyrepr 1.1.0
@@ -10039,7 +10039,6 @@ i18n 0.2.0
 i3pack 0.1.0
 IAcsSPCR 1.2.1
 iAdapt 2.0.1
-iadf 0.1.3
 IADT 1.2.1
 iai 1.10.2
 ialiquor 0.1.0
@@ -14381,7 +14380,7 @@ NetCoupler 0.1.1
 netcutter 0.3.1
 NetDA 0.2.0
 netDFI 1.2.0
-netdiffuseR 1.25.0
+netdiffuseR 1.25.1
 netdose 0.7-4
 NetExplorer 0.0.2
 NetGreg 0.0.4
@@ -17555,7 +17554,6 @@ quasar 0.2.1
 quaxnat 1.0.1
 QuClu 1.0.1
 queryBuilder 0.1.0
-querychat 0.4.1
 queryparser 0.3.2
 queryup 1.0.5
 quest 0.2.1
@@ -20002,7 +20000,7 @@ rYoutheria 1.0.3
 rytstat 0.3.2
 rYWAASB 0.4.1
 rzentra 0.1.0
-rzig 0.2.3
+rzig 1.0.0
 rzmq 0.9.16
 RZooRoH 0.4.2
 s2 1.1.13
@@ -24227,7 +24225,6 @@ ukhousing 0.1.0
 ukhsadatR 0.1.1
 ukpolice 0.2.2
 UlavalSSD 0.3.1
-ulex 0.1.1
 ulid 0.4.0
 ulrb 0.1.9
 Ultimixt 2.1

@@ -699,6 +699,7 @@ APPEstimation 0.1.1
 appleadsR 0.1.0
 applicable 0.2.1
 AppliedPredictiveModeling 1.2.0
+Applr 1.0.0
 ApplyPolygenicScore 4.0.2
 appnn 1.0-1
 apportion 0.0.2
@@ -1828,7 +1829,7 @@ biomes 0.9.5
 biometrics 1.0.4
 biometryassist 1.5.1
 BioMixModel 1.0.0
-biomod2 4.3-4-7
+biomod2 4.3-4-8
 BioMonTools 1.3.2
 BioMoR 0.1.1
 bionetdata 1.1
@@ -5394,7 +5395,7 @@ docknitr 1.0.1
 dockViewR 0.3.0
 doclingr 0.1.0
 doclisting 0.1.0
-doconv 0.4.0
+doconv 0.4.2
 docopt 0.7.2
 docopulae 0.4.0
 docorator 0.8.0
@@ -6411,7 +6412,7 @@ epubr 0.6.5
 EPX 1.0.4
 epxToR 0.4-1
 eq5d 0.17.0
-eq5dsuite 2.0.0
+eq5dsuite 2.1.0
 EQL 1.0-1
 EQRN 0.1.2
 eqtesting 0.1.1
@@ -6777,7 +6778,7 @@ eye 1.3.0
 eyedata 0.1.0
 eyelinker 0.2.2
 eyelinkReader 1.0.3
-eyeprocess 0.11.1
+eyeprocess 0.12.1
 eyeris 3.3.0
 eyetools 0.10.0
 eyetrackingR 0.2.2
@@ -7350,6 +7351,7 @@ fkbma 0.2.0
 fkcentroids 0.0.3
 FKF 0.2.6
 FKmL 0.1.1
+fkr 0.1.0
 FKSUM 1.0.1
 FLAG 0.1
 flagr 0.3.2
@@ -8245,6 +8247,7 @@ geodist 0.1.1
 geodiv 1.1.1
 geodrawr 2.0.0
 GeodRegr 0.2.0
+geoecu 0.3.0
 geoelectrics 0.2.2
 geofacet 0.2.4
 geofi 1.2.1
@@ -9018,8 +9021,8 @@ GowerSom 0.1.0
 goxygen 1.4.5
 gp 1.1
 gp3bayes 0.5.0
-gp3ml 0.3.0
-gp3sequences 0.3.0
+gp3ml 0.3.2
+gp3sequences 0.3.2
 gp3tools 2.3.0
 GPAbin 1.1.1
 gpairs 1.4.0
@@ -10847,7 +10850,7 @@ ivgets 0.1.2
 ivgls 0.1.0
 ivmodel 1.9.1
 ivmte 1.4.0
-ivo.table 0.7.1
+ivo.table 0.8.0
 ivolcano 0.0.6
 IVPP 1.1.2
 ivreg 0.6-8
@@ -12379,7 +12382,7 @@ marimekko 0.1.0
 MarineChain 1.1.0
 marinepredator 0.0.1
 MariNET 1.0.0
-mariposa 0.7.3
+mariposa 0.7.4
 mark 0.9.0
 markdown 2.0
 marked 1.2.8
@@ -13006,7 +13009,7 @@ mi 1.3.1
 mi4p 1.3
 MIAmaxent 1.4.1
 miapack 0.2.0
-MIC 2.0.1
+MIC 2.0.2
 micar 1.2.0
 micd 1.1.2
 mice 3.19.0
@@ -14856,6 +14859,7 @@ nRegression 0.5.1
 NRejections 1.2.0
 nricens 1.6
 nrlR 0.1.2
+nrMCmix 0.3
 NRMSampling 0.2.2
 NRMstatsML 0.1.4
 nsarfima 0.2.0.0
@@ -15231,6 +15235,7 @@ OpenSpecy 2.0.3
 openssl 2.4.2
 OpenStreetMap 0.4.1
 openstudyval 0.1.1
+opentimsr 1.2.0
 opentripplanner 0.5.2
 openVA 1.2.0
 openxlsx 4.2.9
@@ -16997,6 +17002,7 @@ profr 0.3.3
 profrep 1.0.0
 proftools 0.99-4
 profvis 0.4.0
+progme 0.1.0
 progress 1.2.3
 progressify 0.4.0
 progressr 1.1.0
@@ -18623,7 +18629,7 @@ represtools 0.1.3
 reprex 2.1.1
 reproducer 0.7.0
 reproducible 3.2.1
-reproducibleRchunks 1.2.0
+reproducibleRchunks 1.2.1
 reproducr 0.2.0
 reproj 0.8.0
 reproresearchR 0.1.2
@@ -19006,6 +19012,7 @@ RJalaliDate 0.1.0
 rJava 1.0-18
 rJavaEnv 0.3.0
 rjd3bench 3.1.3
+rjd3bridge 0.1.0
 rjd3filters 2.4.0
 rjd3highfreq 3.0.1
 rjd3jars 0.0.6
@@ -21917,6 +21924,7 @@ spicy 0.13.0
 spider 1.5.3
 spiderbar 0.2.5
 spidR 1.0.2
+spifa 0.1.0
 spikes 1.1
 spikeslab 1.1.6
 spikeSlabGAM 1.1-20
@@ -22768,7 +22776,7 @@ svylme 1.5-1
 svyLocAdj 1.0.1
 svymargins 0.1.0
 SvyNom 1.2
-svyROC 1.1.0
+svyROC 1.2.0
 svySE 0.3.0
 svytest 1.1.0
 svyVarSel 1.0.1
@@ -24661,7 +24669,7 @@ virustotal 0.7.0
 visa 1.0.0
 visachartR 4.0.1
 visae 0.2.1
-visATC 1.0.0
+visATC 1.1.0
 VisCollin 0.1.2
 viscomp 1.0.0
 viscomplexr 1.1.2
@@ -25447,7 +25455,9 @@ zTree 1.0.7
 ztype 0.1.0
 zucbor 0.1.0
 zucsv 0.1.0
+zuexact 0.1.0
 zufast 0.1.0
+zufft 0.1.0
 zuhtml 0.1.0
 zujson 0.1.0
 zukomp 0.1.0

@@ -13005,7 +13005,7 @@ MHD 0.1.3
 MHDA 2.0
 mHG 1.1
 mHMMbayes 1.1.1
-mhn 0.1.1
+mhn 0.1.2
 Mhorseshoe 0.1.5
 mhpfilter 0.1.0
 MHQoL 0.14.0

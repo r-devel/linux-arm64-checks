@@ -2768,6 +2768,7 @@ CDFt 1.2
 cdgd 1.0.1
 CDGHMM 0.1.5
 cdid 0.1.1
+cdiscdata 0.2.0
 cdiWG2WS 0.2.0
 cdlei 1.0
 cdlogit 1.0.0
@@ -6487,7 +6488,7 @@ ERRI 0.1.0
 errorist 0.1.3
 errorlocate 1.1.2
 errors 0.4.4
-ErrorTracer 1.3.1
+ErrorTracer 1.4.0
 errum 0.0.4
 ERSA 0.1.4
 eRTG3D 0.7.0
@@ -9102,6 +9103,7 @@ gptstudio 0.4.0
 gptzeror 0.0.2
 gpuinfo 0.2.0
 GPUmatrix 1.0.3
+gputools 2.1.0
 GPvam 3.4-0
 GPvecchia 0.1.8
 gpyramid 0.0.1
@@ -12164,6 +12166,7 @@ LTPDvar 1.2.1
 LTRCtrees 1.1.2
 ltsa 1.4.6.1
 ltsk 1.1.2
+ltvlms 0.1.0
 ltxsparklines 1.1.3
 luajr 0.3.1
 lubridate 1.9.5
@@ -12210,6 +12213,7 @@ MAARTS 1.0.0
 maat 1.1.1
 mabacR 0.1.0
 mable 4.1.1
+MAC.address 0.1.0
 MacBehaviour 1.2.8
 MACER 0.2.1
 MachineShop 3.9.4
@@ -15298,6 +15302,7 @@ optim.functions 0.1
 OptimalBinningWoE 1.14.0
 OptimalCutpoints 1.1-5
 OptimalDesign 1.0.3
+OptimalFactor 1.5.0
 optimall 1.4.0
 OptimalRerandExpDesigns 1.1
 OptimalSurrogate 1.0
@@ -15535,6 +15540,7 @@ ozbabynames 0.2.0
 ozmaps 0.4.5
 p2distance 1.0.2
 p2oncology 0.1.1
+p3d 0.1.0
 p3state.msm 1.3.3
 pa 1.2-4
 paar 1.0.2
@@ -22701,6 +22707,7 @@ surveyPrev 2.0.0
 surveysd 2.0.3
 surveysearch 0.1.0
 surveySimR 0.1.0
+SurveySolutionsAPIv2 0.1.2
 SurveyStat 1.0.3
 surveytable 0.10.0
 surveyverse 0.1.1
@@ -25039,6 +25046,7 @@ WhatsR 1.0.6
 whatthreewords 0.1.3
 wheatmap 0.2.4
 when 1.0.0
+whence 0.1.0
 whep 0.3.1
 where 1.0.0
 whereami 0.2.0

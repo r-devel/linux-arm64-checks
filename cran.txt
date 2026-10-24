@@ -564,7 +564,7 @@ AmyloGram 1.1
 anabel 3.0.2
 Anaconda 0.1.5
 anacor 1.1-5
-Analitica 2.2.0
+Analitica 2.3.0
 analogsea 1.0.7.2
 analogue 0.18.1
 AnalyzeFMRI 1.1-26
@@ -2073,6 +2073,7 @@ Bolstad 0.2.42
 Bolstad2 1.0-29
 bolt4jr 1.4.0
 BoltzMM 0.1.5
+boltzrosen 0.1.0
 bondAnalyst 1.0.1
 BondValuation 0.1.1
 BoneDensityMapping 0.1.4
@@ -8910,7 +8911,7 @@ gmDatabase 0.5.1
 GMDH 1.6
 GMDH2 1.8
 GMDHreg 0.2.3
-gmeans 0.2.0
+gmeans 0.3.0
 Gmedian 1.2.7
 gmfamm 0.1.1
 gmfd 1.0.1
@@ -12817,7 +12818,7 @@ metaBLUE 1.0.0
 metaBMA 0.6.9
 metaboData 0.6.4
 metabodecon 1.6.2
-metabodeconplus 0.22.0
+metabodeconplus 0.22.4
 MetabolAnalyze 1.3.1
 metabolic 0.1.2
 MetabolicSurv 1.1.2
@@ -15705,6 +15706,7 @@ parcxl 0.1.0
 ParDNAcopy 2.0
 PaRe 0.1.16
 Pareto 2.4.5
+paretoinfer 0.1.0
 parfm 2.7.8
 pargasite 2.1.1
 parglm 0.2.0
@@ -19321,6 +19323,7 @@ robomit 1.0.7
 ROBOSRMSMOTE 1.0.0
 robotoolbox 1.6.2
 robotstxt 0.7.15
+robotstxtr 0.3.1
 RobPC 1.4
 RobPer 1.2.3
 robqda 1.0
@@ -21610,6 +21613,7 @@ soiltexture 1.5.3
 soiltillr 0.1.0
 soilVAE 0.1.10
 soilwater 1.0.5
+soilwatR 0.1.1
 Sojourn 1.2.1
 Sojourn.Data 0.3.0
 sokoban 0.1.0
@@ -23905,7 +23909,7 @@ trekcolors 0.2.0
 trekfont 0.9.6
 trelliscopejs 0.2.11
 TrenchR 1.2.1
-trend 1.1.9
+trend 1.1.10
 trendchange 1.2
 trendeval 0.1.1
 trending 0.1.0

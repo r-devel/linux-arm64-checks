@@ -3909,7 +3909,7 @@ CopulaGAMM 0.7.4
 CopulaInference 0.5.0
 copulareg 0.1.0
 CopulaREMADA 1.8.1
-CopulaSCR 1.0.2
+CopulaSCR 1.0.4
 copulaSFM 0.2.0
 copulaSim 0.0.1
 copulaSQM 0.1.0
@@ -9121,7 +9121,7 @@ gRain 1.4.6
 grainscape 1.0.0
 gramEvol 2.1-4
 GramQuad 0.1.1
-GRANDpriv 0.1.3
+GRANDpriv 0.2.0
 grandR 0.2.7
 GrangerRKHS 0.1.0
 grangers 0.1.1
@@ -14792,7 +14792,7 @@ NormGen 0.0.6
 norMmix 0.2-0
 NormPsy 1.0.8
 normref 0.1.2
-norSTR 0.2.1
+norSTR 0.3.1
 nortest 1.0-4
 nortestARMA 1.0.2
 nortsTest 1.1.3
@@ -15410,7 +15410,7 @@ orgutils 0.5-4
 orientlib 0.10.5
 origami 1.0.8
 OrigamiPlot 0.2.0
-origin 1.2.1
+origin 1.2.2
 ORION 1.1.2
 ORIONZ.G 1.0.1
 orisma 0.1.0
@@ -22259,7 +22259,7 @@ StanMoMo 1.2.0
 stanza 1.0-3
 stapler 0.8.0
 staplr 3.2.2
-starburst 0.3.9
+starburst 0.3.10
 staRdom 1.1.32
 STAREG 1.0.4
 stargazer 5.2.3
@@ -23521,7 +23521,7 @@ TIGERr 1.0.0
 tigers 0.1-3
 tigger 1.2.0
 tightClust 1.1
-tightenBlock 0.1.7
+tightenBlock 0.1.8
 tigreBrowserWriter 0.1.5
 tigris 2.3.0
 tikatuwq 0.11.0

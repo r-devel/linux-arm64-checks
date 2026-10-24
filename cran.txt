@@ -948,7 +948,7 @@ ATbounds 0.1.1
 ATE.ERROR 1.0.0
 AteMeVs 0.1.0
 Athlytics 1.0.5
-atime 2026.9.17
+atime 2026.10.22
 atlas 1.0.0
 atlasapprox 0.1.0
 AtlasMaker 0.1.0
@@ -1128,7 +1128,7 @@ babynamesIL 0.2.3
 babyTimeR 0.1.0
 BACCO 2.1-0
 BacenAPI 0.3.1
-bacenR 0.5.0
+bacenR 0.5.1
 bacistool 1.0.0
 backbone 3.0.4
 backpipe 0.2.3
@@ -1690,7 +1690,7 @@ bigalgebra 3.1.1
 biganalytics 1.1.22
 bigANNOY 0.3.0
 bigassertr 0.2.0
-bigbang 0.5.1
+bigbang 0.6.0
 bigBits 1.4
 bigD 0.3.1
 bigdatadist 1.1
@@ -18991,7 +18991,7 @@ RiskPortfolios 2.1.8
 riskPredictClustData 0.2.7
 riskRegression 2026.03.11
 risks 0.4.3
-riskscores 1.3.0
+riskscores 1.3.1
 RiskScorescvd 0.3.1
 risksetROC 1.0.4.1
 riskSimul 0.1.2

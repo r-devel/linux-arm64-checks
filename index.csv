@@ -15,6 +15,7 @@ dqcheckr,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HE
 ebrahim.gof,2.10.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/ebrahim.gof
 gsDesign2,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gsDesign2
 hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hdtg
+hexify,0.9.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hexify
 iSTATS,1.8,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/iSTATS
 kamila,0.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/kamila
 lorax,0.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/lorax

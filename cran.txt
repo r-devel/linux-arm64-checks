@@ -161,6 +161,7 @@ adaptDiag 0.1.1
 AdaptGauss 1.6
 AdaptHyCensor 0.1.0
 AdaptiveBoxplot 0.1.1
+AdaptiveGlasso 1.0.0
 adaptiveGPCA 0.1.3
 adaptivetau 2.3-2
 AdaptiveTrialsR 0.1.2
@@ -346,11 +347,13 @@ agridatasets 0.1.1
 AgriDataTools 0.2.1
 AgriDiversiX 0.1.0
 agriDQ 0.1.3
+agriEquity 0.1.0
 agrifeature 1.0.3
 AgriFusionR 0.1.0
 agriME 0.1.0
 agriPAM 0.1.0
 agriReg 0.1.0
+agriTradeRisk 0.1.0
 agriTutorial 0.1.5
 agriutilities 1.2.3
 agriwater 1.0.2
@@ -3536,6 +3539,7 @@ cointests 1.1.0
 cointmonitoR 0.1.0
 cointReg 0.2.0
 cointsmall 1.0.4
+coiR 0.1.0
 col2hex2col 0.5.3
 cold 2.0-3
 coldrift 0.1.1
@@ -3844,6 +3848,7 @@ contribution 0.2.2
 control 0.2.5
 controlcharts 0.0.23
 controlfunctionIV 0.1.1
+controlledburn 0.3.1
 controller 0.1.0
 controlTest 1.1.0
 contsurvplot 0.2.3
@@ -5281,6 +5286,7 @@ distilleR 1.1.0
 distillery 1.2-2
 distinctiveness 1.0.1
 distionary 0.2.0
+DistLagHet 0.1.0
 distops 0.1.0
 distory 1.4.5
 DistPlotter 0.0.2
@@ -5419,6 +5425,7 @@ DoE.wrapper 0.13
 doebioresearch 0.1.0
 DOEM 0.0.0.1
 DOEpro 2.0.1
+DoExp 0.1.0
 doFuture 1.4.0
 dogesr 0.5.2
 Dogoftest 0.4.3
@@ -6501,6 +6508,7 @@ eselect 1.1
 esem 2.0.0
 esemifar 2.0.1
 ESG 1.3
+esgcalc 0.2.0
 eshrink 0.2.0
 eSIR 0.4.2
 esmisc 0.0.3
@@ -7408,6 +7416,7 @@ FlexReg 1.4.2
 FlexRL 1.0.0
 flexrsurv 2.0.18
 FlexScan 0.2.2
+flexsdm 1.4.2
 flexsiteboard 0.0.7
 flexstanr 0.2.0
 flexsurv 2.3.2
@@ -7639,6 +7648,7 @@ fplyr 2.0.0
 fpod 1.0.2
 fpopw 1.1
 fPortfolio 4023.84
+fpoValue 0.1.0
 fpow 0.0-3
 fpp2 2.5.1
 fpp3 1.0.3
@@ -11392,6 +11402,7 @@ LaF 0.8.6
 lagdynamics 0.32
 lagged 0.3.2
 LAGOSNE 2.0.5
+LAGOtrials 1.1.0
 laGP 1.5-10
 lagsarlmtree 1.0-2
 LagSequential 0.1.1
@@ -11869,6 +11880,7 @@ lmboot 0.0.1
 LMD 1.2.1
 lmDiallel 1.0.2
 lmds 0.1.0
+LMDT 0.1.0
 lme4 2.1-0
 lme4breeding 1.1.5
 lme4GS 0.1
@@ -16155,6 +16167,7 @@ PhenotypeR 0.5.0
 PHENTHAUproc 1.1.2
 phers 1.0.5
 PHeval 1.1
+PheValuator 2.2.18
 PheVis 1.0.4
 Phi2rho 1.0.2
 phia 0.3-2
@@ -17105,7 +17118,7 @@ proxirr 0.5
 ProxReg 1.1.2
 proxy 0.4-29
 proxyC 0.5.2
-proxymix 0.16.0
+proxymix 0.17.0
 prozor 0.3.1
 PRP 0.1.1
 prqlr 0.10.1
@@ -18138,6 +18151,7 @@ rCoros 0.1.0
 rcorpora 2.0.1
 RCPA 0.2.9
 RCPA3 1.3.1
+RCPA4 1.0.0
 Rcplex 0.3-8
 Rcpp 1.1.2
 RCppAD 1.20260000.0-2
@@ -19619,6 +19633,7 @@ rQCC 2.22.12
 rqdatatable 1.3.3
 RQdeltaCT 1.3.3
 RQEntangle 0.1.3
+RQK 1.0.0
 rqlm 4.5-1
 rqPen 4.2
 rQSAR 1.0.0
@@ -21393,6 +21408,7 @@ smacof 2.1-7
 smacofx 1.22-0
 smacpod 2.6.4
 SMAHP 0.0.5
+smak 0.1.0
 SmallCountRounding 1.2.5
 smallstuff 1.0.6
 smam 0.7.3
@@ -23399,6 +23415,7 @@ tidyEmoji 0.4.0
 tidyestimate 1.1.1
 tidyextreme 1.0.0
 tidyfast 0.4.0
+tidyfault 0.1.0
 tidyfinance 0.9.0
 tidyfst 1.8.4
 tidyft 0.9.20

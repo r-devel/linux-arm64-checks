@@ -1,6 +1,6 @@
 # Rbeast 1.0.2
 
-Latest run: 2026-10-18: https://github.com/r-devel/linux-arm64-checks/actions/runs/39089432110
+Latest run: 2026-10-25: https://github.com/r-devel/linux-arm64-checks/actions/runs/40154435818
 
 ```
 Package: Rbeast

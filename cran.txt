@@ -842,7 +842,7 @@ arrangements 1.1.10
 arrApply 2.2.1
 arrayhelpers 1.1-2
 arrg 0.2.0
-arrow 25.0.1
+arrow 26.0.0
 arrowheadr 1.0.2
 ars 0.8
 arsenal 3.7.4
@@ -3842,7 +3842,7 @@ contoso 2.1.0
 contourforest 0.2.0
 ContourFunctions 0.1.2
 contourPlot 0.2.0
-contrast 0.24.2
+contrast 0.25.0
 contrastable 1.1.0
 conTree 0.3-1
 ContRespPP 0.4.2
@@ -6287,7 +6287,7 @@ EnrichIntersect 1.0
 enrichit 0.2.6
 enrichR 3.4
 enrichwith 0.6
-enrollcast 0.1.0
+enrollcast 0.2.0
 ensembleBMA 5.1.8
 ensembleML 0.2.5
 ensembleMOS 0.8.2
@@ -17178,7 +17178,7 @@ PSIndependenceTest 0.0.1
 PSinference 1.0.0
 PsiUEngineRL 0.1.3
 PSLM2015 0.2.0
-pslr 1.2.1
+pslr 1.2.2
 psm3mkv 0.3.3
 psme 1.0.0
 psmineR 0.1.1
@@ -22494,7 +22494,7 @@ StratifiedMedicine 1.0.7
 StratifiedRF 0.2.2
 StratifiedSampling 0.4.2
 stratifiedyh 0.1.0
-stratifyR 2.0-3
+stratifyR 2.0-4
 StratigrapheR 1.3.1
 stratigraphr 0.5.0
 StratPal 0.7.1
@@ -22649,7 +22649,7 @@ support.CEs 0.7-0
 supportR 1.6.1
 suppr 1.1.0
 sur 1.0.4
-sure 0.2.0
+sure 0.3.1
 sureLDA 0.1.0-1
 SuRF.vs 1.1.0.1
 surface 0.6
@@ -25381,7 +25381,7 @@ yaleBraille 0.2.3
 YaleToolkit 4.2.3
 yaml 2.3.12
 yaml12 0.2.0
-yamlet 1.3.4
+yamlet 1.4.0
 yamlme 0.1.2
 YangHuiMagic 1.1
 yardstick 1.4.0

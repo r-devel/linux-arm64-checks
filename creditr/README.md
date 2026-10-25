@@ -1,6 +1,6 @@
 # creditr 0.6.2
 
-Latest run: 2026-10-18: https://github.com/r-devel/linux-arm64-checks/actions/runs/39089736174
+Latest run: 2026-10-25: https://github.com/r-devel/linux-arm64-checks/actions/runs/40154767679
 
 ```
 Package: creditr

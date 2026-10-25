@@ -230,7 +230,7 @@ adklakedata 0.7.1
 adlaplace 0.7.4
 adlift 1.4-6
 ADLP 0.1.0
-admetshiny 1.0.0
+admetshiny 1.0.1
 admiral 1.5.0
 admiraldev 1.5.0
 admiralmetabolic 0.3.0
@@ -17770,7 +17770,7 @@ RAGFlowChainR 0.1.7
 ragg 1.5.2
 RagGrid 0.2.0
 ragnar 0.3.1
-ragR 0.1.0
+ragR 0.1.1
 rags2ridges 2.2.9
 ragtop 2.0.0
 rai 1.0.0
@@ -20171,7 +20171,7 @@ samplingbook 1.2.4
 samplingin 1.1.1
 samplingR 1.0.1
 SamplingStrata 1.5-5
-samplingVarEst 1.5
+samplingVarEst 1.6
 samplr 1.1.2
 samplrData 1.0.0
 SAMprior 3.0.0
@@ -22507,7 +22507,6 @@ STREAK 1.0.0
 stream 2.0.6
 streambugs 1.4
 StreamCatTools 0.12.0
-streamConnect 0.1.0
 streamDAG 1.6
 streamDepletr 0.2.0
 StreamMetabolism 1.1.3
@@ -23388,7 +23387,7 @@ TideHarmonics 0.1-1
 Tides 2.1.1
 TideTables 0.0.3
 tidier 0.3.0
-tidyactuarial 0.1.6
+tidyactuarial 0.2.0
 tidyAML 0.0.8
 tidyaudit 0.2.1
 tidybayes 3.0.7
@@ -25193,7 +25192,7 @@ wpp2019 1.1-1
 wppExplorer 2.3-4
 WpProj 0.3.1
 wqc 0.1.2
-wql 1.0.3
+wql 1.0.4
 WQM 0.1.4
 wqrr 1.0.0
 wqspt 1.0.2

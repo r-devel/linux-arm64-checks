@@ -1,6 +1,6 @@
 # hexify 0.9.0
 
-Latest run: 2026-10-24: https://github.com/r-devel/linux-arm64-checks/actions/runs/40037497231
+Latest run: 2026-10-25: https://github.com/r-devel/linux-arm64-checks/actions/runs/40155098335
 
 ```
 Package: hexify

@@ -4032,7 +4032,6 @@ countSTAR 1.2.1
 countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
-couplr 1.8.1
 courieR 0.3.1
 coursekata 0.21.0
 covadap 1.0.1
@@ -5663,7 +5662,7 @@ DSWE 1.8.4
 DT 0.34.0
 DT2 0.1.3
 Dtableone 1.1.0
-dtametaTMB 0.1.3
+dtametaTMB 0.1.4
 dtangle 2.0.10
 DTAplots 1.0.2.5
 DTAT 0.3-8
@@ -6312,7 +6311,7 @@ enveomics.R 1.10.0
 envi 1.0.1
 enviGCMS 0.9.1
 enviPat 2.8
-enviPathR 1.0.1
+enviPathR 1.0.2
 envir 0.3.0
 envirem 3.2
 EnviroPRA2 1.0.1
@@ -8229,7 +8228,6 @@ GenOrd 2.1.0
 GenoTriplo 2.2.2
 GenOU 0.2.1
 genpathmox 1.1
-genpca 0.2.1
 genproc 0.2.0
 genridge 0.8.0
 GenSA 1.1.15
@@ -13981,7 +13979,7 @@ multifamm 0.1.1
 multiFANOVA 0.1.0
 multifear 0.1.5
 MultiFit 1.1.1
-multiflexscan 0.2.0
+multiflexscan 0.3.0
 MultiFrailty 0.1.0
 multifunc 0.9.4
 multifwf 0.2.2
@@ -17372,7 +17370,7 @@ qap 0.1-3
 qape 2.1
 qapproach 0.1.2
 Qapprox 0.2.1
-qardlr 1.1.1
+qardlr 1.1.2
 qarPI 0.1.0
 qatarcars 1.1.0
 qbinplots 0.3.3
@@ -22557,7 +22555,6 @@ studentlife 1.1.0
 studyStrap 1.0.1
 StuteTest 1.0.2
 STV 1.0.3
-stxplore 0.1.0
 styler 1.11.0
 stylest2 0.1
 stylo 0.7.71
@@ -23312,7 +23309,7 @@ tgamtheme 0.1.0
 tgcd 2.7
 tggd 0.1.3
 tglkmeans 0.6.1
-tgml 0.5.0
+tgml 0.6.0
 tgp 2.4-23
 tgram 0.2-4
 TGS 1.0.1

@@ -118,10 +118,10 @@ actimetrics 0.9.0
 actinet 0.4.0
 actiplot 0.1.0
 actiquantiles 0.1.0
-actiread 0.5.0
+actiread 0.9.0
 actiRhythm 0.1.0
 actisensorlog 0.3.0
-actisomni 0.2.0
+actisomni 0.4.0
 activAnalyzer 2.1.2
 activatr 0.2.1
 ActiveDriver 1.0.0
@@ -564,7 +564,7 @@ AmyloGram 1.1
 anabel 3.0.2
 Anaconda 0.1.5
 anacor 1.1-5
-Analitica 2.3.0
+Analitica 2.4.0
 analogsea 1.0.7.2
 analogue 0.18.1
 AnalyzeFMRI 1.1-26
@@ -919,7 +919,7 @@ assocInd 1.0.1
 assortnet 0.20
 AssumpSure 1.1.4
 AST 0.1.0
-ast2ast 1.0.2
+ast2ast 1.1.1
 aster 1.3-7
 aster2 0.3-2
 asteRisk 1.4.5
@@ -1048,7 +1048,7 @@ autostsm 3.1.5
 autosync 0.2.0
 autotab 1.1
 autotest 0.2.0
-autotestR 1.2.17
+autotestR 1.3.0
 autothresholdr 1.4.3
 AutoTransQF 0.1.3
 autoTS 0.9.11
@@ -1362,7 +1362,7 @@ bayesMig 1.0-0
 bayesmix 0.7-6
 BayesMixSurv 0.9.3
 bayesmlogit 1.0.1
-BayesMoFo 0.1.0
+BayesMoFo 0.2.0
 BayesMortalityPlus 1.0.0
 bayesmove 0.2.4
 bayesMRM 2.4.0
@@ -3606,6 +3606,7 @@ comato 1.1
 COMBAT 0.0.4
 combat.enigma 1.1.1
 ComBatFamQC 1.0.6
+combcoint 0.3.0
 combinat 0.0-9
 combinatorics 0.1.0
 combinedevents 0.1.1
@@ -3797,7 +3798,7 @@ ConnMatTools 0.3.5
 conos 1.5.4
 conover.test 1.2.1
 conquer 1.3.3
-conquestr 1.8.2
+conquestr 1.9.2
 conrad 1.0.0.1
 ConSciR 0.3.0
 ConsensusClustering 1.5.0
@@ -4153,7 +4154,7 @@ cqrReg 1.2.1
 cquad 2.3
 CR2 0.2.1
 CRABS 1.2.0
-CRAFT 0.1.0
+CRAFT 0.2.0
 craftgrn 0.1.7
 cragg 0.0.1
 cramer 0.9-4
@@ -5816,7 +5817,7 @@ earthtones 0.2.0
 earthUI 0.8.0
 Ease 0.1.2
 easieRnmt 0.0.5
-easy.glmnet 1.1
+easy.glmnet 1.2
 easy.utils 0.1.0
 EasyABC 1.6
 easyAHP 0.1.1
@@ -6004,7 +6005,7 @@ edf 1.0.1
 edfinr 0.2.0
 edfReader 1.2.1
 edgar 2.0.8
-edgarfundamentals 0.1.2
+edgarfundamentals 0.1.3
 edgarWebR 1.1.0
 edgebundle 1.0.0
 edgebundleR 0.1.4
@@ -6598,6 +6599,7 @@ EvaluationMeasures 1.1.0
 EValue 4.1.4
 evapoRe 1.0.1
 Evapotranspiration 1.16
+evbsreg 1.2.3
 eVCGsampler 1.2.0
 EVchargcost 0.1.0
 evclass 2.0.2
@@ -6878,7 +6880,7 @@ FAfA 1.4.1
 fahb 1.0.1
 fail 1.3
 fairadapt 1.0.0
-fairGATE 0.1.1
+fairGATE 1.0.0
 fairGNN 0.1.0
 fairlieR 0.1.1
 FAIRmaterials 0.4.2.1
@@ -7120,7 +7122,7 @@ FDRestimation 1.0.1
 FDRsamplesize2 0.2.0
 FDRsampsize 1.0
 fdrtool 1.2.18
-fds 1.9
+fds 2.0
 fdth 1.5-0
 fdWasserstein 1.0
 FDX 2.0.4
@@ -10505,7 +10507,7 @@ INLAjoint 26.6.2
 inlamemi 1.1.0
 INLAspacetime 0.1.14
 INLAtools 0.1.5
-INLAvaan 0.3.2
+INLAvaan 0.3.3
 inlcolor 1.0.6
 inline 0.3.21
 inlinedocs 2023.9.4
@@ -11457,6 +11459,7 @@ LaplacesDemon 16.1.8
 lapop 2.2
 lares 5.4.1
 lareshiny 0.0.3
+LARF 1.5
 Largevars 1.0.3
 LARisk 1.0.0
 lars 1.3
@@ -12346,7 +12349,7 @@ mapdeck 0.3.6
 mapedit 0.8.0
 mapfit 1.0.1
 mapgl 0.5.2
-mapi 1.1.5
+mapi 1.1.6
 mapindia 1.0.1
 mapindiatools 1.0.1
 Mapinguari 2.0.1
@@ -12482,6 +12485,7 @@ mateable 0.3.3
 materialmodifier 1.2.0
 MATES 0.1
 mathjaxr 2.0-0
+mathml 1.10
 mathpix 0.6.0
 mathr 0.1.5
 maths.genealogy 0.1.4
@@ -12641,7 +12645,7 @@ MCOE 0.6.0
 Mcomp 2.8
 mcompanion 0.6
 mcount 1.0.1
-mcp 0.3.4
+mcp 0.4.0
 MCPAN 1.1-22
 mcparallelDo 1.1.0
 mcplite 0.2.0
@@ -13593,7 +13597,7 @@ modules 0.13.0
 MOEADr 1.1.3
 MoEClust 1.6.0
 moewishart 1.2
-MOFAT 1.0
+MOFAT 2.0
 mogiw 0.1.0
 moire 3.7.0
 mojson 0.1
@@ -14815,7 +14819,7 @@ nowcast 0.1.0
 nowcaster 1.0.0
 nowcastr 0.2.1
 noweb 1.1-4
-np 0.70-5
+np 0.80-1
 npANCOVA 0.2.0
 nparACT 0.9.1
 nparcomp 3.0
@@ -15258,7 +15262,7 @@ openrouteservice 0.6.2
 openscoring 1.2.0
 opensimplex2 0.0.3
 openSkies 1.3.1
-OpenSourceAP.DownloadR 0.1.0
+OpenSourceAP.DownloadR 0.2.0
 OpenSpecy 2.0.3
 openssl 2.4.2
 OpenStreetMap 0.4.1
@@ -17992,7 +17996,7 @@ rbbnp 1.1.0
 RBBR 0.1.0
 rbc 0.1.1
 rbcb 0.1.14
-rbcc 0.1.5
+rbcc 0.2.0
 rbch 0.1-2
 rbcmodel 1.0.1
 rBDAT 1.1.0
@@ -18736,7 +18740,7 @@ restrictR 0.3.0
 restriktor 0.6-50
 RestRserve 1.2.4
 result 0.1.0
-resultcheck 0.3.2
+resultcheck 0.3.3
 ResultModelManager 0.6.2
 resumer 0.0.5
 resumiR 1.0.2
@@ -20058,7 +20062,7 @@ S3VS 1.1
 S4DM 0.0.2
 S7 0.2.2
 s7contract 0.2.3
-S7schema 0.2.0
+S7schema 0.2.1
 saber 0.7.2
 sabre 0.4.3
 saccadr 0.1.3
@@ -20172,7 +20176,7 @@ samplingR 1.0.1
 SamplingStrata 1.5-5
 samplingVarEst 1.6
 samplr 1.1.2
-samplrData 1.0.0
+samplrData 1.0.1
 SAMprior 3.0.0
 sampsizeval 1.0.0.0
 samr 3.0.1
@@ -20974,7 +20978,7 @@ shinyloadtest 1.2.1
 shinylogs 0.2.1
 shinyLottie 1.0.0
 shinyLP 1.1.3
-shinymanager 1.1.0
+shinymanager 1.2.0
 shinymaterial 1.2.0
 shinyMatrix 0.8.1
 shinyMergely 0.2.0
@@ -21421,7 +21425,7 @@ SmallCountRounding 1.2.5
 smallstuff 1.0.6
 smam 0.7.3
 SMARTbayesR 2.0.0
-smartcor 1.0.1
+smartcor 1.2.0
 smartDesign 0.74
 SmartEDA 0.3.10
 smarter 1.0.1
@@ -21699,7 +21703,7 @@ spaci 0.2.0
 SPACO 1.0.3
 SpaCOAP 1.3
 spacyr 1.3.0
-spada 0.1.8
+spada 0.1.9
 SPADAR 1.0
 spAddins 0.2.0
 SpadeR 0.1.1
@@ -22289,7 +22293,7 @@ statar 0.7.7
 STATassist 1.0.0
 statBasics 0.2.3
 statcanR 0.3.9
-statcheck 1.5.0
+statcheck 1.6.1
 statcodelists 0.9.2
 statcomp 0.1.0
 statConfR 0.2.1
@@ -22610,7 +22614,7 @@ sumup 1.0.3
 sumvar 0.2.0
 sunburstR 2.1.8
 sunburstShinyWidget 0.5.0
-suncalc 0.5.3
+suncalc 0.5.4
 SunCalcMeeus 0.1.3
 Sunclarco 1.0.0
 sundialr 0.2.1
@@ -23424,7 +23428,7 @@ tidyestimate 1.1.1
 tidyextreme 1.0.0
 tidyfast 0.4.0
 tidyfault 0.1.0
-tidyfinance 0.9.0
+tidyfinance 1.0.0
 tidyfst 1.8.4
 tidyft 0.9.20
 tidyfun 0.2.0
@@ -23458,7 +23462,7 @@ tidymodlr 1.0.0
 TidyMultiqc 1.0.3
 tidyna 0.4.0
 tidync 0.5.0
-tidynorm 0.4.1
+tidynorm 0.5.0
 tidyOhdsiSolutions 0.1.0
 tidypaleo 0.1.4
 TidyPanel 0.1.2
@@ -23826,7 +23830,7 @@ tramvs 0.0-10
 transDA 1.0.3
 transDIF 0.2.0
 transferegovr 0.2.0
-transforEmotion 0.1.8
+transforEmotion 0.1.9
 Transform 1.1
 transform.hazards 0.1.1
 transformer 0.2.0
@@ -24460,7 +24464,7 @@ UWHAM 1.1
 uwot 0.2.5
 uxr 0.2.0
 uygeo 0.1.0
-V8 8.2.0
+V8 8.2.1
 vacalibration 2.2
 vaccinationimpact 0.1.0
 vaccine 1.4.0
@@ -24608,7 +24612,7 @@ VectorForgeML 0.1.0
 vectorialcalculus 1.0.5
 vectorsurvR 1.6.3
 vectorwavelet 0.1.0
-vectra 0.13.0
+vectra 0.14.0
 VectrixDB 1.1.2
 vecvec 1.4.0
 VedicDateTime 0.1.9

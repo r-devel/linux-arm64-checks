@@ -2539,7 +2539,7 @@ carbonr 0.2.7
 carcass 1.9
 card 0.1.1
 card.pro 2.3.0
-cardargus 0.2.5
+cardargus 0.3.0
 carData 3.0-6
 CardiacDP 0.4.2
 cardidates 0.4.9
@@ -16760,7 +16760,7 @@ powergrid 0.6.2
 powerGWASinteraction 1.1.3
 powerHE 1.0.1
 powerindexR 1.6
-powerjoin 0.1.0
+powerjoin 0.2.0
 powerLATE 0.1.2
 poweRlaw 1.0.0
 powerly 1.10.0
@@ -22159,7 +22159,7 @@ SSDM 0.2.11
 sSDR 1.2.0
 ssdtools 2.7.0
 ssebiEF 1.0.1
-ssel 0.4.0
+ssel 0.5.1
 SSEparser 0.1.0
 ssev 0.1.0
 ssfa 1.2.3

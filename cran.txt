@@ -7868,7 +7868,7 @@ fusen 0.7.2
 fuser 1.0.1
 fusionchartsR 1.2.0
 fusionclust 1.0.0
-FusionForests 1.0.1
+FusionForests 1.1.1
 FusionLearn 0.2.1
 fussclust 0.1.0
 futile.logger 1.4.9
@@ -17451,7 +17451,7 @@ qMRI 1.2.8
 qmrparser 0.1.6
 qmvs 0.2.2
 qoi 0.1.0
-qol 1.3.5
+qol 1.3.6
 QoLMiss 0.1.0
 qountstat 0.2.0
 qpcR 1.4-2
@@ -19373,7 +19373,7 @@ robustHD 0.8.4
 RobustIV 0.3.1
 RobustLinearReg 1.2.0
 robustlm 0.1.0
-robustlmm 3.5.0-2
+robustlmm 3.5.1-1
 RobustLPA 1.1.0
 robustmatrix 0.1.5
 RobustMediate 0.1.1
@@ -23829,7 +23829,7 @@ tramvs 0.0-10
 transDA 1.0.3
 transDIF 0.2.0
 transferegovr 0.2.0
-transforEmotion 0.1.7
+transforEmotion 0.1.8
 Transform 1.1
 transform.hazards 0.1.1
 transformer 0.2.0
@@ -25489,7 +25489,7 @@ zoomerjoin 0.2.4
 zoomgrid 1.1.0
 zoomr 0.4.0
 ZooRisk 1.0.0
-zot 0.1.2
+zot 0.5.0
 zoteR 1.0.0
 ZRA 0.2
 zscorer 0.3.1

@@ -174,9 +174,9 @@ adaptTest 1.2
 adaR 0.4.0
 adas.utils 1.4.1
 AdaSampling 1.3
-adbcdrivermanager 0.24.0-3
-adbcpostgresql 0.24.0-2
-adbcsqlite 0.24.0-2
+adbcdrivermanager 0.25.0
+adbcpostgresql 0.25.0
+adbcsqlite 0.25.0
 adbi 0.1.3
 adc 1.0.0
 ADCT 0.1.0
@@ -481,6 +481,7 @@ allomr 0.3.0
 Allspice 1.0.7
 ALLSPICER 0.1.9
 alluvial 0.1-2
+almanac 1.0.1
 alone 0.7
 alookr 0.5.1
 aloom 0.1.1
@@ -936,7 +937,7 @@ ASV 1.1.4
 AsyK 1.5.6
 asylum 1.1.2
 AsymmetricSORDs 1.0.0
-asymmetry 2.0.6
+asymmetry 2.0.7
 asymmetry.measures 0.3
 asympDiag 0.3.3
 asympTest 0.1.4
@@ -1180,7 +1181,7 @@ bamlss 1.2-5
 bamm 0.6.2
 BAMMtools 2.1.12
 bamp 3.0.0
-BANAM 0.2.2
+BANAM 0.2.3
 bandicoot 1.0.0
 bandit 0.5.1
 banditpam 1.0-2
@@ -1572,7 +1573,7 @@ bennu 0.3.2
 bentcableAR 0.3.1
 benthos 2.0-0
 BeQut 0.1.0
-Bergm 5.0.7
+Bergm 6.0.0
 BerkeleyForestsAnalytics 4.0.0
 Bernadette 1.1.6
 berryFunctions 1.22.13
@@ -1684,7 +1685,7 @@ bidsr 0.1.1
 bidux 0.4.0
 BIEN 1.2.8
 BifactorIndicesCalculator 0.2.2
-bifactory 0.6.0
+bifactory 0.6.1
 bife 0.7.3
 BIFIEsurvey 3.8.0
 bifrost 0.2.2
@@ -1718,7 +1719,7 @@ bigparallelr 0.3.2
 bigPCAcpp 0.9.1
 bigPLScox 0.8.1
 bigPLSR 0.8.0
-BIGpopA 2.2.0
+BIGpopA 2.2.1
 bigQF 1.6
 BIGr 0.7.2
 bigreadr 0.2.5
@@ -2497,7 +2498,7 @@ CancerEvolutionVisualization 2.0.1
 cancerGI 1.0.1
 CancerGram 1.0.0
 cancerR 0.1.1
-cancerradarr 3.0.0
+cancerradarr 4.1.0
 candisc 1.1.1
 CANE 0.1.1
 Canek 0.3.1
@@ -2645,7 +2646,7 @@ CATTexact 0.1.1
 catviz 0.1.1
 cauchypca 1.4
 cauchyreg 1.0
-caugi 1.3.0
+caugi 1.4.0
 CauMedi 0.1.1
 cauphy 1.0.3
 causact 0.6.0
@@ -4380,6 +4381,7 @@ cubing 1.0-5
 Cubist 0.6.0
 cucumber 2.2.0
 cuda.ml 0.4.0
+cudacellr 0.4.0
 cudaverse 0.4.2
 CUFF 1.9
 CUMP 2.0
@@ -5786,6 +5788,7 @@ DynForest 1.2.0
 dyngen 1.1.1
 dynlm 0.3-6
 dynmix 2.2
+DynMSR 0.1.1
 DynNom 5.1
 dynparam 1.0.2
 dynr 0.1.16-114
@@ -6278,6 +6281,7 @@ english 1.2-6
 EngrEcon 1.0.0
 engression 0.1.6
 EngrExpt 0.1-8
+enhancedTtest 0.1.0
 enhancer 1.1.2
 ENMeval 2.0.6
 enmpa 0.2.5
@@ -6996,6 +7000,7 @@ fastNaiveBayes 2.2.1
 fastnet 1.0.0
 fastOnlineCpt 1.0
 FastPCS 0.1.4
+fastphylosig 0.3.1
 fastPLS 0.4
 fastplyr 0.9.92
 fastpng 0.1.9
@@ -7688,6 +7693,7 @@ frailtyEM 1.0.1
 frailtyHL 2.3
 frailtyMMpen 1.2.1
 frailtypack 3.8.1
+FrailtyPackPlus 0.1.0
 frailtyROC 1.0.0
 frailtySurv 1.3.8
 frair 0.5.203
@@ -8063,6 +8069,7 @@ gchartsmap 1.0.2
 gcite 0.11.0
 gcKrig 1.1.8
 gclink 1.1
+gcloglog 1.0
 gclus 1.3.3
 gcmr 1.0.4
 gcmrec 2.0.0
@@ -8867,7 +8874,7 @@ glmtlp 2.0.3
 glmtoolbox 0.1.12
 glmtrans 2.1.0
 glmtree 0.4.0
-glmulti 1.0.8
+glmulti 1.0.9
 glmvsd 1.5
 glmx 0.2-3
 glmxdiag 1.0.0
@@ -8899,6 +8906,7 @@ gluvarpro 7.0
 glvmfit 0.1.0
 glydraw 0.9.0
 glymotif 1.0.1
+glyospalettes 0.3.0
 glyparse 0.8.1
 glyph 0.2.0
 glyrepr 1.2.0
@@ -12068,7 +12076,7 @@ lorem 1.0.0
 lorentz 1.1-3
 LorenzRegression 2.3.2
 lori 2.2.3
-LorMe 2.0.2
+LorMe 2.0.3
 LOST 2.1.5
 lotri 1.0.5
 LoTTA 0.1.1
@@ -12413,7 +12421,7 @@ marinepredator 0.0.1
 MariNET 1.0.0
 mariposa 0.7.4
 mark 0.9.0
-markdown 2.0
+markdown 2.1
 marked 1.2.8
 markerpen 0.1.2
 MarketMatching 1.2.1
@@ -13193,6 +13201,7 @@ MIRES 0.1.1
 MiRKAT 1.2.3
 MiRNAQCD 1.1.3
 mirrorselect 0.0.3
+mirrorslope 0.2.1
 MiRSEA 1.1.1
 mirt 1.48
 mirtCAT 1.14
@@ -13695,6 +13704,7 @@ MosaiClusteR 0.1.4
 MOSAlloc 1.2.6
 mosclust 1.0.3
 MOsemiind 0.1.2
+mospiR 0.1.0
 MOST 0.1.2
 mosum 1.2.7
 MoTBFs 2.0.1
@@ -14394,6 +14404,7 @@ neotoma2 1.1.0
 nephro 1.5
 NEpiC 1.0.1
 neptune 0.2.3
+nesstarR 0.1.0
 nestable 0.1.1
 NeStage 0.8.1
 nestcolor 0.1.3
@@ -17246,6 +17257,7 @@ PTERP 1.0
 ptetools 1.0.1
 ptinpoly 2.8
 pTITAN2 1.0.2
+ptLasso 1.0.2
 PTLENKies 0.1.0
 ptm 1.0.1
 ptmixed 1.1.3
@@ -17361,6 +17373,7 @@ pyinit 1.1.5
 pylintR 0.1.0
 pyMTurkR 1.1.6
 pyramid 1.5
+pyrt 0.1.0
 pysd2r 0.1.0
 pysparklyr 0.2.2
 PytrendsLongitudinalR 0.1.4
@@ -17598,6 +17611,7 @@ quasar 0.2.1
 quaxnat 1.0.1
 QuClu 1.0.1
 queryBuilder 0.1.0
+querychat 0.4.2
 queryparser 0.3.2
 queryup 1.0.5
 quest 0.2.1
@@ -17756,6 +17770,7 @@ radiant.data 1.6.9
 radiant.design 1.6.6
 radiant.model 1.6.13
 radiant.multivariate 1.6.9
+radiatR 0.1.3
 RadioSonde 4.2
 radir 1.0.5
 radlibs 0.2.0
@@ -17891,6 +17906,7 @@ rapidphylo 0.1.2
 RapidPolygonLookup 0.1.1
 rapidraker 0.1.3
 rapidsplithalf 0.8
+rapidxlsx 0.1.0
 rapidxmlr 0.1.0
 RApiSerialize 0.1.4
 Rapp 0.4.1
@@ -17937,7 +17953,7 @@ rasciidoc 4.1.1
 RaSEn 3.0.0
 rashnu 0.1.2
 rassta 1.0.6
-RastaRocket 1.1.5
+RastaRocket 1.1.6
 raster 3.6-32
 rasterbc 1.0.3
 rasterdiv 0.3.8
@@ -18560,6 +18576,7 @@ regstat 0.1.0
 regsubseq 0.12
 regtomean 1.2.1
 regtools 1.7.0
+ReguGLH 0.1.0
 regulog 0.2.1
 rehh 3.2.3
 rehh.data 1.0.1
@@ -19631,6 +19648,7 @@ rprojtree 1.0.0
 RProtoBuf 0.4.28
 RPscoring 0.1.0
 rpsftm 1.2.9
+rpspanel 0.1.0
 rpsurv 0.7.1
 RPtests 0.1.5
 rptR 0.9.23
@@ -21709,7 +21727,7 @@ SPADAR 1.0
 spAddins 0.2.0
 SpadeR 0.1.1
 SpaDES.core 3.2.1
-SpaDES.tools 2.1.3
+SpaDES.tools 2.2.0
 spagmix 0.4-2
 spam 2.11-4
 spam64 2.11-4
@@ -22059,6 +22077,7 @@ Spower 0.7.1
 SPPcomb 0.1
 spphpr 1.1.5
 SpPOP 0.1.0
+sppt 1.0.0
 SppTrend 0.5
 spqdep 0.1.3.6
 spqrp 0.1.0
@@ -22704,6 +22723,7 @@ surveyexplorer 0.2.0
 surveyframe 0.4.2
 surveygraph 1.0.0
 SurveyNCD 0.1.0
+surveynnet 1.0.1
 surveyplanning 4.1
 surveyPrev 2.0.0
 surveysd 2.0.3
@@ -23047,7 +23067,7 @@ taxalight 0.1.5
 TaxaNorm 2.4
 taxdiv 0.1.0
 TaxicabCA 0.1.2
-taxify 0.6.0
+taxify 0.7.0
 taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
@@ -23162,7 +23182,7 @@ TemporalHazard 1.1.0
 TemporalModelR 0.3.0
 tempR 0.10.1.1
 TempStable 0.2.2
-tempted 0.1.1
+tempted 0.1.2
 tenispolaR 0.1.4
 tenm 0.5.1
 tensor 1.5.1
@@ -23835,6 +23855,7 @@ Transform 1.1
 transform.hazards 0.1.1
 transformer 0.2.0
 transformerForecasting 0.1.0
+transformerpalettes 0.4.0
 transformmos 0.1.0
 transformr 0.1.5
 transfR 1.1.18
@@ -23872,7 +23893,7 @@ treasury 0.7.0
 TreatmentPatterns 3.1.2
 treats 1.1.6
 TREDesigns 1.0.1
-tree 1.0-47
+tree 1.0-48
 tree.interpreter 0.1.3
 tree3d 0.1.2
 treebalance 1.2.2
@@ -23982,6 +24003,7 @@ trtf 0.4-3
 trtswitch 0.2.8
 truchet 0.0.1.1
 trud 0.2.1
+truedist 0.1.0
 truelies 0.2.0
 TrueSkillThroughTime 1.0.0
 TrueWAP 0.1.0
@@ -24116,6 +24138,7 @@ ttdo 0.0.10
 TTE 1.1.2
 tteICE 1.1.5
 tth 4.16-1
+TTM 0.1.0
 tTOlr 0.2.3
 TTR 0.24.4
 TTR.PGM 1.0.0
@@ -25093,6 +25116,7 @@ WindCurves 0.2
 windex 2.1.0
 windfarmGA 5.0.0
 windows.pls 0.1.0
+windscape 2.0.0
 windsoraiR 0.1.3
 wINEQ 1.2.3
 winfapReader 0.1-7.1
@@ -25449,6 +25473,7 @@ zfit 0.4.0
 ZIBR 1.0.3
 ZIDW 0.1.0
 zigg 0.0.2
+zigimports 0.1.0
 ZIHINAR1 0.2.1
 ZIM 1.1.2
 ZIM4rv 0.1.1
@@ -25509,6 +25534,7 @@ zufft 0.1.0
 zuhtml 0.1.0
 zujson 0.1.0
 zukomp 0.1.0
+zuxml 0.1.0
 zuyaml 0.1.0
 ZVCV 2.1.3
 zyp 0.11-1

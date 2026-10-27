@@ -625,7 +625,7 @@ antaresProcessing 0.18.3
 antaresRead 3.1.0
 antaresViz 0.18.3
 AntClassify 0.2.3
-antedep 0.2.0
+antedep 0.3.1
 anthro 1.1.0
 anthroplus 1.1.0
 AnthropMMD 4.1.0
@@ -847,7 +847,7 @@ arrowheadr 1.0.2
 ars 0.8
 arsenal 3.7.4
 arthistory 0.1.0
-artma 0.5.0
+artma 0.5.2
 ARTofR 0.4.1
 artoo 0.2.0
 ARTool 0.11.2
@@ -2484,7 +2484,7 @@ campaignmanageR 0.1.0
 campfin 1.0.11
 camplet 1.0.0
 campsis 1.9.3
-campsismod 1.4.2
+campsismod 1.5.0
 campsisnca 1.7.3
 camsRad 0.3.0
 camtrapdp 0.6.1
@@ -3838,7 +3838,7 @@ contextFind 1.0.1
 contfrac 1.1-13
 contFracR 1.2.1
 contingency 0.0.10
-contingencytables 3.1.0
+contingencytables 3.1.1
 contoso 2.1.0
 contourforest 0.2.0
 ContourFunctions 0.1.2
@@ -10072,7 +10072,7 @@ ialiquor 0.1.0
 IALS 0.1.3
 iapws 1.2
 IAPWS95 1.2.5
-iAR 1.3.4
+iAR 1.3.5
 iarm 0.4.3
 IASD 1.1.1
 IATanalytics 0.2.0
@@ -10362,7 +10362,7 @@ impactr 0.4.2
 ImpAdaptType2Censor 0.1.0
 impala 0.1.4
 impARI 0.0.3
-impectR 2.6.0
+impectR 2.7.0
 impermanentlosscalc 0.1.0
 impimp 0.3.1
 implicitExpansion 0.1.0
@@ -11623,7 +11623,7 @@ LearnSL 1.0.0
 LearnVizLMM 1.0.0
 leastcostpath 2.0.13
 LEAVcore 0.1.0
-LeaveOutKSS 0.1.0
+LeaveOutKSS 0.1.1
 LEdecomp 1.0.14
 ledger 2.1.1
 leem 0.2.0
@@ -12600,7 +12600,7 @@ mcbette 1.15.3
 mcbiopi 1.1.7
 mcboost 0.4.4
 mcca 0.8.2
-mccca 2.4
+mccca 2.5
 mcclust 1.0.1
 MCCM 0.1.0
 mccount 0.1.1
@@ -12739,7 +12739,7 @@ meddra.read 0.0.1
 mederrRank 0.1.0
 MEDesigns 1.0.1
 medExtractR 0.4.1
-medfate 5.1.0
+medfate 5.2.0
 medfateland 3.0.0
 medfit 0.3.2
 medflex 0.6-11
@@ -16308,7 +16308,7 @@ pinsearch 0.1.6
 PINSPlus 2.0.10
 PINstimation 0.2.0
 pinterestadsR 0.1.0
-pintervals 1.1.1
+pintervals 1.3.3
 pioneeR 0.5.0
 pipebind 0.1.2
 pipefittr 0.1.2
@@ -16521,7 +16521,7 @@ pminternal 0.1.0
 pmlbr 0.3.0
 PMLE4SCR 0.1.0
 pmledecon 0.2.1
-pmlsp 1.0.1
+pmlsp 1.0.2
 pmml 2.6.1
 pmparser 1.0.26
 pmr 1.2.5.1
@@ -17790,7 +17790,7 @@ raisr 0.1.0
 RaJIVE 1.0
 rakeR 0.2.1
 ralger 2.3.0
-RALSA 1.7.0
+RALSA 1.7.2
 Ramble 0.1.1
 rambur 0.5.6
 rAmCharts 2.1.16
@@ -18153,7 +18153,7 @@ Rcompadre 1.5.0
 rcompanion 2.5.4
 rcompendium 1.4
 rconf 0.1.2
-rconfig 0.3.0
+rconfig 0.3.1
 RConics 1.1.2
 rcontroll 0.1.3
 rconvertu 1.1.0
@@ -18224,7 +18224,7 @@ RcppThread 2.4.0
 rcpptimer 1.2.1
 RcppTN 0.2-2
 RcppTOML 0.2.3
-RcppTrust 0.1.0
+RcppTrust 0.2.0
 RcppTskit 0.2.0
 RcppUUID 1.2.0
 RcppXPtrUtils 0.1.3
@@ -18305,7 +18305,7 @@ rdmulti 2.0.0
 rdnb 0.1-5
 RDnp 1.3
 rdocdump 0.3.0
-rdomains 0.5.0
+rdomains 0.6.0
 RDota2 0.1.6
 rdoxygen 1.0.0
 RDP 0.3.0
@@ -18573,7 +18573,7 @@ RelativeDistClust 0.1.0
 relcircle 1.0
 reldist 1.7-2
 RelDists 1.0.2
-releaser 1.2.1
+releaser 1.3.0
 relevance 2.1
 relevent 1.2-1
 reliabilitydiag 0.2.1
@@ -19379,7 +19379,7 @@ robustlm 0.1.0
 robustlmm 3.5.1-1
 RobustLPA 1.1.0
 robustmatrix 0.1.5
-RobustMediate 0.1.1
+RobustMediate 0.3.0
 robustmeta 1.2-1
 RobustMetrics 1.0.0
 RobustPrediction 0.1.7
@@ -20395,7 +20395,7 @@ scmSpillover 0.1.2
 scNPM 1.1.0
 scOntoMatch 0.1.1
 scoper 1.6.0
-scopr 0.3.5
+scopr 0.3.6
 SCOPRO 0.1.0
 scopusflow 0.4.0
 SCOR 1.1.2
@@ -21368,7 +21368,7 @@ slanter 0.2-0
 slap 2024.4.1
 slash 0.2.0
 slasso 1.0.1
-slca 1.4.1
+slca 1.4.2
 SLCARE 1.2.0
 slcm 0.1.1
 sld 1.0.1
@@ -22691,7 +22691,7 @@ surveillance 1.26.1
 survELtest 2.0.1
 SurvEval 1.1
 survex 1.2.0
-survexp.fr 1.2
+survexp.fr 1.3
 survextrap 1.0.1
 survey 4.5
 surveybootstrap 0.0.3
@@ -23504,7 +23504,7 @@ tidyterra 1.3.0
 tidytext 0.4.3
 tidytitanic 0.0.1
 tidytlg 0.12.0
-tidytransit 1.8.0
+tidytransit 1.8.1
 tidytreatment 0.3.2
 tidytree 0.4.8
 tidyttmoment 0.0.5
@@ -24611,7 +24611,7 @@ VectorForgeML 0.1.0
 vectorialcalculus 1.0.5
 vectorsurvR 1.6.3
 vectorwavelet 0.1.0
-vectra 0.14.0
+vectra 0.14.1
 VectrixDB 1.1.2
 vecvec 1.4.0
 VedicDateTime 0.1.9
@@ -24677,7 +24677,7 @@ VICatMix 1.0
 vici 0.7.3
 Vicus 0.99.0
 video 0.1.1
-videogameinsightsR 0.1.1
+videogameinsightsR 0.3.0
 vietnameseConverter 0.4.0
 ViewPipeSteps 0.1.0
 viewpoly 1.0.3
@@ -24821,7 +24821,7 @@ VSOLassoBag 1.0
 vsp 0.1.4
 vstdct 0.2
 vstsr 1.1.0
-VSURF 1.2.1
+VSURF 1.2.2
 VsusP 1.0.0
 vtable 1.4.8
 vtreat 1.6.5

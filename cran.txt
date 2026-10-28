@@ -5229,7 +5229,7 @@ disclapmix 1.7.5
 disclapmix2 0.6.1
 disclosuR 0.6.0
 discnorm 0.2.2
-discoCVI 0.1.1
+discoCVI 0.2.0
 discord 1.3
 DiSCos 0.1.4
 discourseGT 1.2.0
@@ -10715,7 +10715,7 @@ ipw 1.3.0
 IPWboxplot 0.1.2
 ipwCoxCSV 1.2
 ipwErrorY 2.1
-iq 2.0.1
+iq 2.1.0
 IQCC 0.7
 ir 0.4.2
 irace 4.5
@@ -15141,7 +15141,7 @@ omock 0.7.0
 OmopConstructor 0.3.0
 omopgenerics 1.4.2
 omophub 1.9.1
-OmopIndices 0.1.0
+OmopIndices 0.2.0
 OmopOnSpark 0.1.0
 OmopSketch 1.1.1
 OmopStudyBuilder 0.1.1
@@ -20065,7 +20065,7 @@ RYandexTranslate 1.0
 rym 1.1.2
 rYoutheria 1.0.3
 rytstat 0.3.2
-rYWAASB 0.4.1
+rYWAASB 0.4.2
 rzentra 0.1.0
 rzig 1.0.0
 rzmq 0.9.16

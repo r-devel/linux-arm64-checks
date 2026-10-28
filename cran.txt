@@ -1192,7 +1192,6 @@ bandit 0.5.1
 banditpam 1.0-2
 banditsCI 1.0.0
 bandsfdp 1.1.0
-banffIT 2.0.0
 bang 1.0.4
 bangladesh 1.0.0
 bannerCommenter 1.0.0
@@ -1631,10 +1630,10 @@ bfboin 0.1.1
 bfboinet 1.1.0
 bfcluster 1.0.0
 BFF 5.0.0
-BFI 3.2.0
+BFI 3.3.0
 BFM 0.2.11
 bfp 0.0-50
-BFpack 1.6.1
+BFpack 1.6.2
 bfpwr 0.1.6
 BFS 0.8.0
 bfsl 0.2.0
@@ -5095,7 +5094,7 @@ dHSIC 2.2
 DHSr 0.1.0
 di 1.1.4
 diagcounts 0.1.0
-diagFDR 0.1.2
+diagFDR 0.2.1
 diagis 0.2.3
 diagL1 1.0.1
 diagmeta 0.5-1
@@ -6503,7 +6502,7 @@ ERRI 0.1.0
 errorist 0.1.3
 errorlocate 1.1.2
 errors 0.4.4
-ErrorTracer 1.4.0
+ErrorTracer 1.4.1
 errum 0.0.4
 ERSA 0.1.4
 eRTG3D 0.7.0
@@ -6722,7 +6721,7 @@ exhaustiveRasch 0.3.7
 ExhaustiveSearch 1.0.2
 exif 0.1.1
 exifr 0.3.2
-exiftoolr 0.2.8
+exiftoolr 0.2.10
 exmort 0.1.1
 exnexSurv 1.3.0
 ExNRuleEnsemble 0.1.1
@@ -8019,7 +8018,7 @@ GARCHSK 0.1.0
 garchx 1.7
 GARCOM 1.2.2
 GAReg 0.1.2
-gargle 1.6.1
+gargle 1.7.0
 gargoyle 0.0.1
 garma 1.0.1
 GarrettRank 0.1.5
@@ -8834,6 +8833,7 @@ glinternet 1.0.13
 glioblastomaEHRsData 1.1.0
 gllm 0.38
 gllvm 2.0.15
+gllvmTMB 0.7.1
 glm.deploy 1.0.4
 glm.predict 4.3-2
 glm2 1.2.1
@@ -11146,7 +11146,7 @@ KCSNBShiny 0.1.0
 kde1d 1.2.2
 kdecopula 0.9.3
 KDEmcmc 0.0.2
-kdensity 1.2.0
+kdensity 2.0.0
 kdevine 0.4.6
 kDGLM 1.2.15
 kdml 1.1.1
@@ -11439,7 +11439,7 @@ LakeMetabolizer 1.5.6
 lakemorpho 1.3.2
 lakhesis 1.1.2
 LAM 0.7-22
-LaMa 2.1.3
+LaMa 3.0.0
 lambda.r 1.2.6
 lambdastar 0.8.2
 lambdaTS 2.0.0
@@ -12043,7 +12043,7 @@ logrx 0.4.0
 logrxaddin 0.0.1
 logspline 2.1.22
 logStirling2 0.3.0
-logtree 0.2.0
+logtree 0.2.1
 lokern 1.1-12
 lolog 1.3.2
 LOMAR 0.5.2
@@ -12292,7 +12292,7 @@ maicChecks 0.3.0
 maicplus 0.1.2
 MAICtools 0.1.1
 maidr 0.5.0
-MAIHDA 0.2.1
+MAIHDA 0.3.0
 mailchimpR 0.1.0
 mailmerge 0.2.5
 mailR 0.8
@@ -13874,7 +13874,7 @@ msde 1.0.5
 msdrought 0.1.1
 mseapca 2.2.1
 msentropy 0.1.4
-MSEtool 3.7.5
+MSEtool 3.7.6
 MSG 0.9
 MSGARCH 2.51
 MSGARCHelm 0.1.0
@@ -13964,7 +13964,7 @@ mully 2.1.38
 mulSEM 1.2
 mulset 1.0.0
 mult.latent.reg 0.2.2
-MultANOVA 1.1.0
+MultANOVA 1.1.1
 MultBiplotR 25.11.15
 multbxxc 1.0.3
 multChernoff 1.0.0
@@ -14284,7 +14284,7 @@ NaileR 1.2.3
 naive 2.0.0
 naivebayes 1.0.0
 naivereg 1.0.7
-nakagami 1.1.0
+nakagami 1.2.0
 NAM 1.8.0
 name 0.0.2
 namegender 0.7.1
@@ -14502,7 +14502,7 @@ NetworkReg 2.0
 NetworkRiskMeasures 0.1.7
 networkscaleup 0.2-2
 networksem 0.4
-NetworkToolbox 1.4.4
+NetworkToolbox 1.5.0
 networktools 1.6.0
 networktree 1.0.1
 NeuDist 1.0.1
@@ -15283,7 +15283,7 @@ openNCAI 0.2.0
 openNLP 0.2-8
 openNLPdata 1.5.3-5
 OpeNoise 0.2-18
-OpenRange 0.0.2
+OpenRange 0.0.3
 OpenRepGrid 0.1.18
 OpenRepGrid.ic 0.6.2
 openrouteservice 0.6.2
@@ -15667,6 +15667,7 @@ pals 1.10
 palsr 0.1.1
 pam 2.3.0
 PamBinaries 1.9.3
+PAmeasures 2.0.0
 PAMhm 0.1.2
 pamm 1.122
 PAMmisc 1.14.2
@@ -16690,7 +16691,7 @@ poolHelper 1.1.0
 poolr 1.2-0
 PoolTestR 0.2.0
 poolVIM 1.0.0
-poorman 0.2.8
+poorman 0.3.0
 pop 0.1
 pop.lion 1.0.1
 pop.wolf 1.0
@@ -19100,7 +19101,7 @@ rjd3jars 0.0.6
 rjd3production 1.2.0
 rjd3providers 3.9.0
 rjd3qr 0.4.2
-rjd3toolkit 3.9.0
+rjd3toolkit 3.9.1
 rjd3tramoseats 3.9.0
 rjd3workspace 3.9.0
 rjd3x13 3.9.0
@@ -19502,7 +19503,7 @@ ROI.plugin.scs 1.1-2
 ROI.plugin.symphony 1.0-0
 ROKET 1.0.0
 rolap 2.5.2
-rolescry 0.3.0
+rolescry 0.3.1
 roll 1.2.1
 rollama 0.3.1
 rollbar 0.1.0
@@ -21055,6 +21056,7 @@ shinyreact 0.1.0
 shinyrecap 0.2.0
 shinyrecipes 0.1.0
 shinyReports 1.0.3
+shinyreprex 0.4.0
 shinyRGL 0.1.0
 shinySbm 0.2.1
 shinyscholar 0.4.5
@@ -22092,7 +22094,7 @@ SPORTSCausal 1.0
 sportsfeatures 0.3.0
 sportsR 0.1.0
 SportsTour 0.1.0
-sportyR 2.2.3
+sportyR 2.4.5
 spotidy 0.1.0
 spotifyr 2.2.5
 spotoroo 0.1.5
@@ -22311,7 +22313,7 @@ starburst 0.3.10
 staRdom 1.1.32
 STAREG 1.0.4
 stargazer 5.2.3
-stargazer2 0.1.1
+stargazer2 0.1.2
 starling 1.1.0
 starm 0.1.0
 starma 1.3
@@ -23245,7 +23247,7 @@ terra 1.9-50
 terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.2
-TesiproV 0.9.6
+TesiproV 1.0.0
 tesouror 0.3.1
 tesselle 1.7.0
 tesseract 5.3.1
@@ -24871,7 +24873,7 @@ vsp 0.1.4
 vstdct 0.2
 vstsr 1.1.0
 VSURF 1.2.2
-VsusP 1.0.0
+VsusP 1.1.0
 vtable 1.4.8
 vtreat 1.6.5
 vtree 5.7.0

@@ -9794,7 +9794,7 @@ hippie 0.1.0
 hipread 0.2.6
 HiResTEC 0.63.1
 hirisplexr 0.1.0
-hIRT 0.4.0
+hIRT 0.5.0
 hisse 2.1.11
 HistDat 0.2.0
 HistData 1.1.1
@@ -11894,9 +11894,9 @@ LLMing 1.3.0
 llmjoin 0.3.0
 llmjson 0.2.1
 LLMR 0.9.0
-LLMR.shiny 0.1.2
+LLMR.shiny 0.1.3
 LLMRagent 0.8.1
-LLMRpanel 0.6.1
+LLMRpanel 0.6.3
 llmshieldr 0.1.0
 LLMTranslate 0.4.0
 llogistic 1.0.3
@@ -16363,7 +16363,7 @@ pixels 0.1.1
 pixiedust 0.9.4
 pixieweb 0.1.0
 pixmap 0.4-14
-pixr 0.1.0
+pixr 0.1.1
 pizzarr 0.2.1
 PJCcalculator 0.1.3
 PJFM 0.1.0
@@ -22885,7 +22885,7 @@ swaRmverse 0.1.1
 swash 3.0.2
 swatches 0.5.0
 swcEcon 0.1.0
-swCRTdesign 4.1
+swCRTdesign 4.2
 swdft 1.0.0
 swdpwr 1.12
 sweater 0.1.9

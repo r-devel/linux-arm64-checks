@@ -491,7 +491,7 @@ aloom 0.1.1
 alpaca 0.3.5
 alpha.correction.bh 0.1.0
 alphabetr 0.2.2
-alphahull 2.5
+alphahull 3.0.1
 alphaN 0.3.0
 alphaOutlier 1.2.2
 AlphaPart 0.9.8
@@ -1634,7 +1634,7 @@ BFF 5.0.0
 BFI 3.3.0
 BFM 0.2.11
 bfp 0.0-50
-BFpack 1.6.2
+BFpack 1.6.3
 bfpwr 0.1.6
 BFS 0.8.0
 bfsl 0.2.0
@@ -1700,6 +1700,7 @@ bifurcatingr 2.1.0
 bigalgebra 3.1.1
 biganalytics 1.1.22
 bigANNOY 0.3.0
+BiGaRx 0.5.1
 bigassertr 0.2.0
 bigbang 0.6.0
 bigBits 1.4
@@ -2357,7 +2358,7 @@ bubblyr 0.1.2
 BUCSS 2.0.0
 Buddle 2.0.2
 budgetIVr 0.1.2
-bufferscape 1.0.3
+bufferscape 1.3.2
 buildmer 2.13
 buildr 0.1.1
 BuildSys 1.1.2
@@ -2526,6 +2527,7 @@ capesR 0.2.1
 capitalR 1.3.0
 capl 1.42
 caples 0.1.0
+caplime 0.1.0
 caplot 0.2
 capn 2.0.0
 CaPO4Sim 0.2.1
@@ -2850,6 +2852,7 @@ CEoptim 1.3
 CePa 0.8.2
 CepalStatR 0.9.0
 cepiigeodist 0.1
+cepip 0.1.0
 cepiweek 0.2.0
 cepp 1.7
 cepR 0.1.2
@@ -4603,6 +4606,7 @@ dataframeexplorer 1.0.2
 datafsm 0.2.4
 DataFusionGDM 1.3.2
 dataganger 0.8.2
+datagrade 0.2.0
 DataGraph 1.2.15
 DataLoader 1.3
 dataMaid 1.4.2
@@ -6225,7 +6229,7 @@ emf 0.2.0
 emg 1.0.9
 EMgaussian 0.2.2
 EMGCR 0.3.0
-emhawkes 1.0.1
+emhawkes 1.0.2
 EmiR 1.0.6
 emIRT 0.0.15
 EmissV 0.666.0.0
@@ -8072,7 +8076,7 @@ gcbd 0.2.7
 GCCfactor 1.2.1
 GCD 4.0.7
 gcdnet 1.0.6
-gcemod 0.3.0
+gcemod 0.3.1
 gcerisk 19.05.24
 GCEstim 1.1.0
 gcf 0.1.1
@@ -8644,7 +8648,7 @@ ggrastr 1.0.2
 ggrcs 0.4.3
 ggrecipes 0.1.0
 ggredist 0.0.4
-ggrefine 0.5.0
+ggrefine 1.0.0
 ggrepel 0.9.8
 ggResidpanel 0.4.1
 ggreveal 0.2.0
@@ -8900,7 +8904,7 @@ gloBFPr 2.0.0
 globpso 1.3.1
 glogis 1.0-3
 glorenz 0.1.1
-glossa 1.2.4
+glossa 1.2.5
 glossary 1.0.0
 glossr 0.8.0
 glow 0.13.0
@@ -11993,7 +11997,7 @@ locits 1.7.8
 Lock5Data 4.0.1
 LocKer 1.1
 loclm 1.0.0
-LOCOM2 1.0
+LOCOM2 1.1
 locpol 0.9.0
 locStra 1.9
 LOCUS 1.0
@@ -12901,7 +12905,7 @@ MetaIntegration 0.1.2
 metajam 0.3.2
 metalabr 1.0.0
 MetaLandSim 2.0.0
-metalcor 1.0.2
+metalcor 1.0.5
 metaLik 0.44.0
 metalite 0.1.4
 metalite.ae 0.1.4
@@ -13457,7 +13461,7 @@ mlrv 0.1.2
 mlS3 0.1.1
 mlsbm 0.99.2
 mlsjunkgen 0.1.2
-MLSP 0.1.0
+MLSP 0.2.0
 mlspatial 0.1.1
 mlstats 0.1.2
 mlstm 0.1.7
@@ -13682,7 +13686,7 @@ moodleR 1.0.5
 moonBook 0.3.1
 moonboot 2.0.1
 moonlit 0.1.1
-MoonShineR 1.1.0
+MoonShineR 1.2.0
 mooplot 0.1.1
 moose 0.0.1
 mop 0.1.4
@@ -16214,7 +16218,7 @@ PHENTHAUproc 1.1.2
 phers 1.0.5
 PHeval 1.1
 PheValuator 2.2.18
-PheVis 1.0.4
+PheVis 1.0.5
 Phi2rho 1.0.2
 phia 0.3-2
 philentropy 0.10.0
@@ -16323,7 +16327,7 @@ piglet 1.2.0
 pii 1.3.0
 piiR 0.3.0
 Pijavski 1.0.5
-pikchr 1.1.1
+pikchr 1.1.2
 pillar 1.11.1
 pilotr 0.3.1
 pim 2.0.4
@@ -17303,7 +17307,7 @@ PTXQC 1.1.6
 ptycho 1.1-5
 pubchem.bio 1.0.5
 PubChemR 3.0.0
-pubformat 0.1.0
+pubformat 0.2.0
 pubh 3.0.0
 public.ctn0094data 1.1.0
 public.ctn0094extra 1.0.4
@@ -17389,7 +17393,7 @@ pwt 7.1-1
 pwt10 10.01-0
 pwt8 8.1-1
 pwt9 9.1-0
-pxmake 0.21.0
+pxmake 0.22.0
 pxR 0.42.8
 pxweb 0.19.2
 PxWebApiData 2.0.0
@@ -17453,7 +17457,7 @@ qDEA 1.0.0
 qdfauction 0.2.0
 qdm 0.1-0
 qeML 1.1
-Qest 1.0.2
+Qest 2.0.0
 QF 0.0.9
 qfa 5.0
 QFASA 1.2.1
@@ -18504,7 +18508,7 @@ redatam 2.3.1
 redatamx 1.3.0
 redbookperu 0.0.3
 redcapAPI 2.12.0
-REDCapCAST 26.1.1
+REDCapCAST 26.10.1
 REDCapDM 1.0.1
 REDCapExporter 0.3.6
 REDCapR 1.7.0
@@ -18634,6 +18638,7 @@ reliaR 0.2
 ReliaShiny 0.5
 relimp 1.0-5
 RelimpPCR 0.3.0
+relm 0.5.0
 relMix 1.4.1
 relSim 1.0.0
 relsurv 2.3-3
@@ -18736,7 +18741,7 @@ requiRements 0.0.3
 requireR 1.0.0.1
 rerandPower 0.0.1
 rerddap 1.3.1
-rerddapUtils 1.0.2
+rerddapUtils 1.0.3
 rerddapXtracto 1.2.5
 reReg 1.4.7
 resample 0.6
@@ -18995,7 +19000,7 @@ ribiosMath 1.2.0
 ribiosPlot 1.3.0
 ribiosUtils 1.7.7
 ricci 0.1.1
-rice 2.3.0
+rice 2.4.0
 ricegeneann 1.0.2
 riceidconverter 1.1.1
 riceware 0.4
@@ -23258,7 +23263,7 @@ terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.2
 TesiproV 1.0.0
-tesouror 0.3.1
+tesouror 0.3.2
 tesselle 1.7.0
 tesseract 5.3.1
 test.assessr 2.1.3
@@ -23735,7 +23740,7 @@ tnet 3.0.16
 TNRS 0.3.6
 toastui 0.4.0
 TOC 0.0-6
-todor 0.1.2
+todor 0.1.3
 toeclim 0.1.0
 togglr 1.0.0
 TOHM 1.4
@@ -24610,6 +24615,7 @@ VARshrink 0.5.0
 vartest 1.7
 varTestnlme 1.3.5
 VARtests 2.0.7
+varunayan 0.4.0
 varycoef 0.3.6
 VasGBIF 3.7.1
 vasicek 0.0.3
@@ -25533,7 +25539,7 @@ zipsae 1.0.2
 ZLAvian 0.2.0
 zlib 1.0.3
 zlog 1.0.2
-zmctp 0.1.3
+zmctp 0.1.4
 zmij 0.1.0
 zmisc 0.3.0
 zoeppritz 1.0-9

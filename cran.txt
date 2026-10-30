@@ -924,7 +924,7 @@ assocInd 1.0.1
 assortnet 0.20
 AssumpSure 1.1.4
 AST 0.1.0
-ast2ast 1.1.1
+ast2ast 1.1.2
 aster 1.3-7
 aster2 0.3-2
 asteRisk 1.4.5
@@ -1175,6 +1175,7 @@ BalanceCheck 0.2
 BalancedSampling 2.1.1
 baldur 0.0.4
 Ball 1.3.13
+ballast 0.6.1
 BALLI 0.2.0
 BallMapper 0.2.0
 balnet 0.0.4
@@ -1816,7 +1817,7 @@ biocompute 1.1.1
 BioCro 3.4.0
 Biodem 0.5
 BiodiversityR 2.18-1
-BIOdry 0.9.5
+BIOdry 0.9.6
 BIOEFIC 0.1.1
 biofetchR 0.1.2
 BioFTF 3.0.0
@@ -2767,7 +2768,7 @@ ccwr 0.0.2
 cd 0.1.0
 cdata 1.2.1
 CDatanet 2.2.2
-cdcanthro 0.4.0
+cdcanthro 0.5.0
 cdCAT 0.1.0
 cdcatR 1.0.7
 CDCPLACES 1.2.2
@@ -2818,6 +2819,7 @@ cellKey 1.0.3
 cellkeyperturbation 3.0.0
 cellOrigins 0.1.3
 cellranger 1.1.0
+cellsynth 0.1.0
 celltrackR 1.2.2
 cellVolumeDist 1.5
 CellWindX 1.0.0
@@ -3840,7 +3842,7 @@ contagionchannels 0.1.3
 container 1.1.0
 containr 0.1.3
 ContaminatedMixt 1.3.8
-contdid 0.1.1
+contdid 0.1.2
 contentanalysis 1.1.1
 contentid 0.0.19
 contentiousR 0.1.0
@@ -5646,7 +5648,7 @@ dsge 1.2.0
 DSGEr 1.3.1
 DSI 1.8.0
 dsims 1.0.6
-DSIR 0.11.0
+DSIR 0.13.0
 DSjobtracker 2.0.0
 DSL 0.1-7
 dslabs 0.9.1
@@ -8027,6 +8029,7 @@ gargle 1.7.0
 gargoyle 0.0.1
 garma 1.0.1
 GarrettRank 0.1.5
+GAS 0.4.3
 gasanalyzer 0.4.3
 gaselect 1.0.25
 gasfluxes 0.7-2
@@ -8048,7 +8051,7 @@ gaussianprocesses 1.0.0
 gaussplotR 0.2.5
 gaussquad 1.0-3
 gaussratiovegind 3.0.0
-GaussSuppression 1.3.0
+GaussSuppression 1.3.2
 gawdis 0.1.5
 gazepath 1.4
 GB2 2.1.2
@@ -8326,7 +8329,7 @@ geometries 0.2.5
 geometry 0.5.2
 geommc 1.3.2
 geomod 0.1.0
-GeoModels 2.2.9
+GeoModels 2.3.0
 GeoMongo 1.0.3
 geomorph 4.1.1
 geomorphR 0.2.1
@@ -8581,7 +8584,7 @@ ggmatplot 0.1.3
 ggmcmc 1.5.1.2
 ggmemo 0.1.0
 ggmeta 0.1.1
-ggmGraphEditor 0.1.0
+ggmGraphEditor 0.2.0
 ggmice 0.1.1
 ggmix 0.0.2
 ggmlR 0.8.8.1
@@ -8821,7 +8824,7 @@ GlarmaVarSel 1.0
 glassdoor 0.9.0
 glasso 1.11
 glassoFast 1.0.1
-glasstabs 0.4.0
+glasstabs 0.4.1
 glba 0.2.1
 GLBFP 0.5.2
 glca 1.4.2
@@ -9921,7 +9924,7 @@ hpfilter 1.0.2
 hpiR 0.3.2
 hpsreg 1.0.0
 HPZoneAPI 1.3.0
-HQM 2.1
+HQM 2.2
 hqmisc 0.2-1
 hqreg 1.4-1
 hR 0.3.0
@@ -10044,7 +10047,7 @@ hydroDCindex 1.0.0
 hydrodownloadR 0.1.5
 hydroeval 0.1.0
 hydroEvents 0.13.0
-hydrogeofetch 2.0.4
+hydrogeofetch 2.0.5
 hydroGOF 0.7-0
 hydroloom 1.3.0
 hydromeso 0.1.0
@@ -10530,7 +10533,7 @@ ini 0.3.1
 injectoR 0.2.4
 InjurySeverityScore 0.0.0.2
 injurytools 2.0.1
-inkaR 0.6.6
+inkaR 0.7.0
 INLABMA 0.1-12
 inlabru 2.15.0
 INLAcircular 1.0.0
@@ -10733,7 +10736,7 @@ ipsfs 1.0.0
 ipsRdbs 1.0.0
 ipumsr 0.10.0
 IPV 1.0.0
-ipw 1.3.0
+ipw 1.3.1
 IPWboxplot 0.1.2
 ipwCoxCSV 1.2
 ipwErrorY 2.1
@@ -10896,7 +10899,7 @@ ivcheck 0.1.2
 IVCor 0.1.0
 ivd 1.0.0
 ivdesc 1.1.2
-ivDiag 1.0.6
+ivDiag 1.0.7
 IVDML 1.0.2
 ivdoctr 1.0.1
 ivdtools 0.2.5
@@ -11380,7 +11383,7 @@ Kurt 1.1
 kutils 1.73
 kuzco 0.1.0
 kuzuR 0.2.3
-kvh 1.5.0
+kvh 1.5.1
 kvkapiR 0.1.2
 kvr2 0.2.0
 KWCChangepoint 0.2.3
@@ -13023,7 +13026,7 @@ mfp2 1.0.1
 MFPCA 1.3-11
 mfpp 0.0.9
 MFRCD 0.1.1
-mfrmr 0.2.3.1
+mfrmr 0.2.4
 MFSD 0.1.1
 MFSIS 0.3.1
 MFT 3.1
@@ -13451,7 +13454,7 @@ mlr3spatial 0.7.0
 mlr3spatiotempcv 2.3.5
 mlr3summary 0.1.2
 mlr3superlearner 0.1.2
-mlr3torch 0.3.3
+mlr3torch 0.4.0
 mlr3tuning 1.7.0
 mlr3tuningspaces 0.7.0
 mlr3verse 0.4.0
@@ -14649,7 +14652,7 @@ NISTunits 1.0.1
 NitrogenUptake2016 0.2.3
 nivm 0.6
 nivo.bubblechart 0.1.1
-nixmass 1.3.1
+nixmass 1.4.0
 nixtlar 1.0.0
 NlcOptim 0.6
 nlcs 1.0
@@ -14753,7 +14756,7 @@ nnmf 1.6
 NNMIS 1.0.1
 NNMoMo 0.1.0
 nnR 0.2.0
-NNS 13.2
+NNS 13.3
 nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
@@ -15098,6 +15101,7 @@ OdysseusPathwayModule 0.0.1
 OdysseusSurvivalModule 0.1.0
 odyssey 1.0.1
 OECD 0.2.5
+OECDdata 0.2.5
 oecdoda 0.2.0
 OEFPIL 0.1.2
 oeis.tools 0.3.1
@@ -18323,7 +18327,7 @@ rdataretriever 3.1.1
 Rdatasets 0.0.1
 rdav 0.3.0
 rdbnomics 0.6.4
-rdborrow 0.0.5.0
+rdborrow 0.0.5.1
 rdcmchecks 0.1.1
 rdcor 1.1
 rddapp 1.3.3
@@ -18819,7 +18823,7 @@ retroharmonize 0.2.8
 retrosheet 1.1.7
 retry 0.1.1
 reval 3.1-0
-ReVAMP 1.0.1
+ReVAMP 1.1.0
 revdbayes 1.5.7
 revealedPrefs 0.4.2
 revealjs 0.10.0
@@ -21944,7 +21948,7 @@ spData 2.3.5
 spDates 1.1
 spDBL 1.1.1
 spdep 1.4-2
-spdesign 0.0.7
+spdesign 0.0.8
 spdgp 0.1.0
 spdl 0.0.5
 spduration 0.17.3
@@ -22847,7 +22851,7 @@ svDialogstcltk 1.0.1
 SVDMx 0.1.0
 SVDNF 0.1.11
 SveltePlots 0.1.0
-SVEMnet 3.6.2
+SVEMnet 3.6.3
 svenssonm 0.1.0
 SVG 1.0.0
 svgedit 1.0.0
@@ -23265,7 +23269,7 @@ terra 1.9-50
 terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.2
-TesiproV 1.0.0
+TesiproV 1.0.1
 tesouror 0.3.2
 tesselle 1.7.0
 tesseract 5.3.1
@@ -23895,7 +23899,7 @@ TRAMPR 1.0-10
 tramvs 0.0-10
 transDA 1.0.3
 transDIF 0.2.0
-transferegovr 0.2.0
+transferegovr 0.3.0
 transforEmotion 0.1.9
 Transform 1.1
 transform.hazards 0.1.1
@@ -24311,7 +24315,7 @@ UBCRM 1.0.3
 ubiquity 2.1.0
 ubms 1.2.9
 UBStats 0.4.3
-uci 0.3.1
+uci 1.0.0
 ucie 1.0.2
 ucimlrepo 0.0.2
 uclust 1.0.0

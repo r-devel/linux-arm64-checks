@@ -1018,7 +1018,7 @@ autoFRK 1.4.4
 autogam 0.1.0
 AutoGenAI 0.1.0
 autoGO 1.0.3
-autograph 1.2.6
+autograph 1.2.8
 autoharp 0.3.2
 autohrf 1.1.3
 autoimage 2.2.3
@@ -7237,7 +7237,7 @@ fibr 0.1.1
 fic 1.0.1
 fICA 1.1-3
 fidelius 0.0.2
-fido 1.1.2
+fido 1.1.5
 FielDHub 1.5.0
 fieldopt 0.1.0
 fields 18.0
@@ -14835,7 +14835,7 @@ normanR 1.8.79
 NormData 1.2
 NormExpression 0.1.1
 normfluodbf 2.0.3
-NormGen 0.0.6
+NormGen 0.0.7
 norMmix 0.2-0
 NormPsy 1.0.8
 normref 0.1.2
@@ -18716,7 +18716,7 @@ ReporterScore 0.2.5
 reportfactory 0.4.0
 reportr 2.0.0
 reportReg 0.3.0
-reportRmd 0.1.3
+reportRmd 0.1.4
 reportROC 3.6
 ReportSubtotal 0.2.1
 reporttools 1.1.4
@@ -21445,7 +21445,7 @@ sleepr 0.3.1
 sleepwalk 0.3.2
 sleev 1.2.0
 SLEMI 1.0.2
-slendr 1.5.0
+slendr 1.6.0
 Sleuth2 2.0-7
 Sleuth3 1.0-6
 slfm 1.0.2
@@ -22461,7 +22461,7 @@ stepmetrics 1.0.3
 stepmixr 0.1.3
 stepp 3.2.7
 SteppedPower 0.4.0
-steppedwedge 1.0.0
+steppedwedge 1.1.0
 stepPlr 0.93
 stepR 2.1-11
 StepReg 1.6.9
@@ -23222,7 +23222,7 @@ temperatureresponse 0.2
 templateICAr 0.11.3
 templates 0.4.0
 templr 0.2-4
-TEMPO 0.1.0
+TEMPO 0.2.0
 tempodisco 2.1.0
 Temporal 0.3.0.2
 TemporalForest 0.1.4
@@ -24434,7 +24434,7 @@ unjoin 0.1.0
 unmarked 1.5.2
 unmconf 1.0.0
 unnest 0.1
-Uno 2.7.4-1
+Uno 2.9.2-1
 UNPaC 1.2.0
 unpivotr 0.6.4
 UnplanSimon 0.1.0

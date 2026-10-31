@@ -789,7 +789,7 @@ ARDECO 2.2.3
 ARDL 0.2.5
 ardl.nardl 1.3.0
 ardldml 0.1.0
-ardlverse 2.1.0
+ardlverse 2.1.2
 ards 0.1.3
 area 0.2.0
 areabiplot 1.0.0
@@ -809,7 +809,7 @@ argonDash 0.2.5
 argonR 0.2.0
 ARGOS 0.1.1
 argosfilter 0.71
-argparse 2.3.1
+argparse 2.3.3
 argparser 0.7.3
 argus 0.1.1
 ARHT 0.1.0
@@ -1175,7 +1175,7 @@ BalanceCheck 0.2
 BalancedSampling 2.1.1
 baldur 0.0.4
 Ball 1.3.13
-ballast 0.6.1
+ballast 0.7.4
 BALLI 0.2.0
 BallMapper 0.2.0
 balnet 0.0.4
@@ -1346,7 +1346,7 @@ BayesianNetwork 0.4
 bayesianOU 0.2.0
 BayesianPlatformDesignTimeTrend 1.2.3
 BayesianPower 0.2.3
-BayesianQDM 1.0.0
+BayesianQDM 1.0.1
 BayesianReasoning 0.4.3
 bayesiansurpriser 0.1.0
 BayesianTools 0.1.9
@@ -1460,7 +1460,7 @@ BBI 0.3.0
 bbk 0.14.0
 bbknnR 2.0.2
 bbl 1.0.0
-BBMBC 0.1.0
+BBMBC 1.0.1
 BBmisc 1.13.1
 bbmix 1.0.0
 bbmle 1.0.26
@@ -1929,7 +1929,7 @@ biwavelet 0.20.22
 biwt 1.0.1
 bizdays 1.0.17
 bizicount 1.3.4
-BJM 0.2.0
+BJM 0.3.0
 BKBreed 0.3.2
 bkmr 0.2.2
 bkmrhat 1.1.7
@@ -2698,7 +2698,7 @@ causalweight 1.1.6
 causalWins 0.1.0
 CausCor 0.1.3
 causens 0.0.3
-caustests 1.1.4
+caustests 1.1.7
 CautiousLearning 1.0.1
 CAvariants 6.0
 caverify 0.2.0
@@ -6016,7 +6016,7 @@ edar 0.0.7
 EDCimport 0.7.0
 edcpR 1.0.1
 eddington 4.3.0
-EDE 0.2.0
+EDE 0.3.0
 edeaR 1.0.1
 edecob 1.2.2
 edetect 0.1.0
@@ -7716,7 +7716,7 @@ frailtySurv 1.3.8
 frair 0.5.203
 framecleaner 0.2.1
 Frames2 0.2.1
-framework 1.1.0
+framework 1.1.1
 franc 1.1.4
 FRAPO 0.4-2
 FRApp 1.0.0
@@ -7961,7 +7961,7 @@ gageRR 0.1.0
 GAIPE 1.1
 galah 2.3.0
 GALAHAD 2.0.0
-galamm 0.4.1
+galamm 0.4.2
 galaxias 0.1.2
 GalaxyR 0.1.2
 galisats 2.2.0
@@ -8928,7 +8928,7 @@ glvmfit 0.1.0
 glydraw 0.9.0
 glymotif 1.0.1
 glyospalettes 0.3.0
-glyparse 1.0.0
+glyparse 1.0.1
 glyph 0.2.0
 glyrepr 1.2.0
 gm 2.0.0
@@ -11485,7 +11485,7 @@ LangevinFlow 0.1.0
 langevitour 0.8.1
 languagelayeR 1.2.4
 languageR 1.6
-languageserver 0.3.20
+languageserver 0.3.21
 languageserversetup 0.1.2
 lans2r 1.2.0
 laOpenData 0.1.1
@@ -13351,7 +13351,7 @@ MixtureFitting 0.8.0
 MixtureMissing 3.0.6
 MixTwice 2.0
 mixvlmc 0.2.2
-mize 0.2.5
+mize 0.3.0
 mizer 3.4.0
 mizu 0.0.1
 MJMbamlss 0.1.0
@@ -13406,7 +13406,7 @@ MLID 1.0.1
 mlim 0.6.0
 mLLMCelltype 2.0.8
 mllrnrs 0.0.9
-mlma 6.3-1
+mlma 6.4-1
 mlmc 2.1.1
 MLMES 0.1.2
 MLmetrics 1.1.3
@@ -13661,7 +13661,7 @@ mondate 1.0
 Mondrian 1.1.2
 mongolite 4.1.0
 mongolmaps 0.2.0
-mongolstats 0.2.0
+mongolstats 0.4.0
 mongopipe 0.1.2
 monitoR 1.2
 monitOS 0.1.6
@@ -13752,7 +13752,7 @@ mousetrap 3.2.3
 MOutliers 0.1.2
 move 4.2.7
 move2 0.5.0
-movecost 3.1.0
+movecost 3.1.1
 movedesign 0.3.3
 moveEZ 1.3.0
 movegroup 2026.07.01
@@ -14664,7 +14664,7 @@ nlgm 1.0
 NLIN 0.1.0
 nlist 0.5.0
 nlive 0.8.0
-nlme 3.1-171
+nlme 3.1-172
 nlmeU 0.71.7
 nlmeVPC 2.8
 nlmixr2 7.0.1
@@ -15711,7 +15711,7 @@ panelr 1.0.1
 PanelSelect 2.0.0
 panelsummary 0.1.3
 panelSUR 0.1.0
-paneltests 1.0.6
+paneltests 1.0.8
 PanelTM 1.2
 panelTool 0.1.0
 panelvar 0.5.6
@@ -18280,7 +18280,7 @@ RcppThread 2.4.0
 rcpptimer 1.2.1
 RcppTN 0.2-2
 RcppTOML 0.2.3
-RcppTrust 0.2.0
+RcppTrust 0.2.1
 RcppTskit 0.2.0
 RcppUUID 1.2.0
 RcppXPtrUtils 0.1.3
@@ -19518,7 +19518,7 @@ ROI.plugin.optimx 1.0-1
 ROI.plugin.osqp 1.0-2
 ROI.plugin.qpoases 1.0-3
 ROI.plugin.quadprog 1.0-1
-ROI.plugin.scs 1.1-2
+ROI.plugin.scs 1.1-4
 ROI.plugin.symphony 1.0-0
 ROKET 1.0.0
 rolap 2.5.2
@@ -19962,7 +19962,7 @@ RTLknitr 1.1.1
 rtlr 0.1.0
 rTLS 0.2.6.1
 RTMB 2.0
-RTMBdist 1.1.0
+RTMBdist 1.2.0
 rtmpinv 2.0.0
 rtmpinvi 2.0.0
 rtmpt 2.1-1
@@ -20521,7 +20521,7 @@ scROSHI 1.0.0.1
 scrutiny 0.6.1
 scrutr 0.3.1
 scrypt 0.1.6
-scs 3.2.7
+scs 3.3.1
 scShardSplitRef 0.1.0
 scSpatialSIM 0.1.4
 scStability 1.0.4
@@ -22030,7 +22030,7 @@ sphet 2.1-1
 sphunif 1.4.4
 SpiceFP 0.1.2
 SPIChanges 0.3.0
-spicy 0.13.0
+spicy 0.14.0
 spider 1.5.3
 spiderbar 0.2.5
 spidR 1.0.2
@@ -22043,7 +22043,6 @@ SPINA 5.1.0
 spINAR 0.2.0
 spinBayes 0.2.2
 spind 2.2.1
-spinebil 1.0.6
 spinifex 0.3.10
 spinner 1.1.1
 spinyReg 0.1-0
@@ -22417,7 +22416,7 @@ StatsTFLValR 1.0.0
 statswalesr 1.0.0
 StatTeacherAssistant 0.0.3
 StatTools 0.1.1
-statuser 0.4.0
+statuser 0.4.1
 statwitness 0.1.0
 STB 0.6.6
 stbimageheaders 0.1.0
@@ -22577,7 +22576,7 @@ STREAK 1.0.0
 stream 2.0.6
 streambugs 1.4
 StreamCatTools 0.12.0
-streamConnect 0.1.1
+streamConnect 0.1.2
 streamDAG 1.6
 streamDepletr 0.2.0
 StreamMetabolism 1.1.3
@@ -23238,7 +23237,6 @@ tensor 1.5.1
 tensorA 0.36.2.1
 tensorBF 1.0.2
 tensorBSS 0.3.9
-TensorClustering 1.0.2
 tensorEVD 0.1.5
 tensorflow 2.20.0
 TensorMCMC 0.1.0
@@ -24001,7 +23999,6 @@ trendtestR 1.0.1
 TrendTM 2.0.21
 Trendtwosub 0.0.2
 trendyy 0.1.1
-TRES 1.1.5
 TRexSelector 1.0.0
 Tri.Hierarchical.IBDs 1.0.0
 triact 0.3.1
@@ -25427,12 +25424,12 @@ xtable 1.8-8
 xtbhst 1.1.0
 xtbreakcoint 1.0.6
 xtcspqardl 1.0.5
-xtdhcoint 1.0.3
+xtdhcoint 1.0.5
 xtdml 0.1.13
 xtfifevd 1.1.0
 xtife 0.1.4
 xtifedml 0.1.4
-xtpqardl 1.0.3
+xtpqardl 1.0.5
 xtranat 0.1.0
 xtrec 1.0.1
 xts 0.14.3

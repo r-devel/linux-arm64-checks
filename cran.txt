@@ -2215,7 +2215,7 @@ brand.yml 0.1.0
 brandr 0.1.0
 brandwatchR 0.3.0
 brant 0.3-0
-brapiR2 0.2.0
+brapiR2 0.2.1
 braQCA 1.4.11.27
 brar 0.1.1
 brassica 1.0.3
@@ -15736,7 +15736,7 @@ paradox 1.0.1
 parafac4microbiome 1.3.3
 parallelDist 0.2.7
 ParallelLogger 3.5.1
-parallelly 1.48.0
+parallelly 1.50.0
 parallelMap 1.5.1
 parallelMCMCcombine 2.0
 parallelpam 1.4.3
@@ -16979,7 +16979,7 @@ prettymapr 0.2.5
 prettyPanelMatch 0.2.0
 prettyunits 1.2.0
 prevalence 0.4.1
-preventr 0.12.1
+preventr 0.12.2
 previsionio 11.7.0
 prevR 5.0.0
 prevtoinc 0.12.1

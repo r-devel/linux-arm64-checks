@@ -3133,7 +3133,7 @@ circularKDE 0.1.1
 circularNet 0.1.0
 CircularRegression 0.5.1
 CircularSilhouette 0.0.1
-circumplex 2.0.1
+circumplex 2.1.0
 cirls 0.4.0
 cIRT 1.3.3
 CIS.DGLM 0.1.0
@@ -3769,7 +3769,7 @@ configulaR 0.1.1
 configural 0.1.5
 confinterpret 1.0.0
 confintr 1.0.2
-confintROB 1.1-1
+confintROB 1.2
 conflibertR 0.5.3
 conflicted 1.2.0
 ConFluxPro 1.3.1
@@ -6634,7 +6634,7 @@ eventPred 0.3.1
 EventPredInCure 1.0
 eventreport 0.1.2
 eventstream 0.1.1
-EventStudy 0.66.0
+EventStudy 0.70
 eventstudyr 1.2.1
 eventTrack 1.0.4
 EventWinRatios 1.0.0
@@ -9474,7 +9474,7 @@ h3lib 0.1.4
 h3o 0.3.0
 h3r 0.1.2
 h3sdm 0.1.7
-h5lite 2.1.1.1
+h5lite 2.2.0.0
 haarfisz 4.5.4
 hablar 0.3.2
 habtools 1.1.1
@@ -15641,7 +15641,7 @@ PairedRand 0.1.0
 pairscale 1.0
 pairsD3 0.1.3
 PairViz 1.3.8
-pairwise 0.6.2-0
+pairwise 0.6.4-0
 pairwiseCI 0.1-27
 pairwiseLLM 1.3.1
 paisaje 0.3.0
@@ -19278,7 +19278,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
-rmoriebricklayer 1.0.2
+rmoriebricklayer 1.0.3
 rmoriedata 0.4.1
 rMosaic 0.2.0
 Rmosek 1.3.5

@@ -98,6 +98,7 @@ acnr 1.0.0
 acopula 0.9.4
 acoRn 0.1.0
 acousticTS 2.0.8
+acpbvar 0.2.0
 acR 0.6.0
 ACRER 1.0.1
 acro 1.0.0
@@ -2286,6 +2287,7 @@ brulee 1.2.0
 bruneimap 0.3.1
 brunnermunzel 2.0
 bruno 0.1.0
+brvmr 0.1.0
 brxx 0.1.2
 bs4cards 0.1.1
 bs4Dash 2.3.5
@@ -10004,7 +10006,7 @@ hubUtils 1.3.0
 hudr 1.2.0
 hues 0.2.0
 huge 2.0.1
-huggingfaceR 2.3.0
+huggingfaceR 2.4.0
 huito 0.2.8
 HUM 2.0
 humanFormat 1.2
@@ -13248,6 +13250,7 @@ miscTools 0.6-30
 miselect 0.9.2
 misha 5.11.23
 misl 2.0.0
+misocialr 0.4.0
 mispitools 2.0.1
 mispr 1.0.0
 misPRIME 0.1.0
@@ -15265,7 +15268,7 @@ openaq 1.1.0
 openbankeR 0.1.1
 OpenBARD 0.0.1
 openblender 0.5.81
-opencage 0.2.2
+opencage 0.3.0
 OpEnCAMeO 0.1.1
 OpEnCAST 0.1.1
 opencesp 0.4.0
@@ -19033,7 +19036,7 @@ RIFanalysis 0.9.3
 rifexpectile 0.1.1
 rifreg 1.1.0
 RIFS 0.1.6
-rifttable 0.7.2
+rifttable 0.7.3
 Rigma 0.3.0
 rigr 1.0.10
 riingo 0.3.1
@@ -19278,7 +19281,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
-rmoriebricklayer 1.0.3
+rmoriebricklayer 1.0.4
 rmoriedata 0.4.1
 rMosaic 0.2.0
 Rmosek 1.3.5
@@ -20683,6 +20686,7 @@ SelfControlledCaseSeries 6.1.5
 SelfControlledCohort 2.1.0
 selfingTree 0.2
 seliNDRIx 0.1.2
+selSurv 0.1.1
 sem 3.1-16
 semantic.assets 1.1.0
 semantic.dashboard 0.2.1
@@ -21058,7 +21062,7 @@ shinymrp 0.10.0
 shinyNextUI 0.1.0
 shinyNORRRM 0.8.6
 shinyNotes 0.0.3
-shinyOAuth 0.6.1
+shinyOAuth 0.7.0
 shinyobjects 0.2.0
 shinypanel 0.1.5
 shinypayload 0.1.0
@@ -22394,7 +22398,7 @@ statisR 1.0.1
 StatisticTeach1 0.1.2
 statlingua 0.1.0
 StatMatch 1.4.3
-statMatchLCM 2.0
+statMatchLCM 2.1
 statmod 1.5.2
 statnet 2019.6
 statnet.common 4.13.0
@@ -22985,6 +22989,7 @@ syrona 0.2.1
 syrup 0.1.4
 sys 3.4.3
 sysAgNPs 1.0.0
+sysbreak 1.1.0
 SyScSelection 1.0.2
 sysfonts 0.8.9
 sysid 1.0.5
@@ -23932,6 +23937,7 @@ trapezoid 2.0-2
 Tratamentos.ad 0.2.4
 traudem 1.0.3
 traumar 1.2.7
+traveltime 1.0.0
 traveltimeR 1.3.1
 trawl 0.2.2
 trc 0.2
@@ -24829,6 +24835,7 @@ vivid 0.3.0
 vivo 0.2.1
 vizClust 0.1.0
 vizdraws 2.0.0
+vizintel 0.1.1
 VizModules 0.5.0
 VizTest 0.8
 vkR 0.2
@@ -24996,7 +25003,7 @@ Waypoint 2.0.2
 waysign 0.1.1
 waywiser 0.6.3
 wbacon 0.6-3
-wbCorr 0.3.2
+wbCorr 0.4.0
 WBI 0.1.0
 wbids 1.1.5
 wbs 1.4.1
@@ -25039,7 +25046,7 @@ weatherStats 0.1
 weathR 0.1.0
 WebAnalytics 0.9.15
 webchem 2.0.0
-webdav 0.2.0
+webdav 0.3.0
 webdeveloper 1.0.5
 webdriver 1.0.6
 webexercises 1.2.0

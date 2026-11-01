@@ -1,6 +1,6 @@
 # PheVis 1.0.5
 
-Latest run: 2026-10-30: https://github.com/r-devel/linux-arm64-checks/actions/runs/40989070235
+Latest run: 2026-11-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/41268856285
 
 ```
 Package: PheVis

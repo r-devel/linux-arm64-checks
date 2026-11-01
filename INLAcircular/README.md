@@ -1,6 +1,6 @@
 # INLAcircular 1.0.0
 
-Latest run: 2026-10-28: https://github.com/r-devel/linux-arm64-checks/actions/runs/40726818776
+Latest run: 2026-11-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/41268788494
 
 ```
 Package: INLAcircular

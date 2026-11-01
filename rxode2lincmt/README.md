@@ -1,6 +1,6 @@
 # rxode2lincmt 0.1.0
 
-Latest run: 2026-10-25: https://github.com/r-devel/linux-arm64-checks/actions/runs/40156137491
+Latest run: 2026-11-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/41270989806
 
 ```
 Package: rxode2lincmt

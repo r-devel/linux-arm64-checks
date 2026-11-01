@@ -1,6 +1,6 @@
 # VSURF 1.2.2
 
-Latest run: 2026-10-27: https://github.com/r-devel/linux-arm64-checks/actions/runs/40543981922
+Latest run: 2026-11-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/41269198440
 
 ```
 Package: VSURF

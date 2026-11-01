@@ -9130,7 +9130,7 @@ GPSCDF 0.1.1
 gpss 1.0.3
 GPTCM 2.0.0
 gptoolsStan 1.0.0
-gptr 0.7.0
+gptr 1.0.0
 GPTreeO 1.1.0
 gptstudio 0.4.0
 gptzeror 0.0.2
@@ -17318,7 +17318,7 @@ ptycho 1.1-5
 pubchem.bio 1.0.5
 PubChemR 3.0.0
 pubformat 0.2.0
-pubh 3.0.0
+pubh 3.0.1
 public.ctn0094data 1.1.0
 public.ctn0094extra 1.0.4
 PublicationBias 2.4.0
@@ -23328,7 +23328,7 @@ text2emotion 0.1.0
 text2map 0.4.0
 text2sdg 1.1.2
 text2sdgData 0.1.1
-text2speech 1.2.0
+text2speech 1.2.1
 text2vec 0.6.6
 textab 1.0.1
 TextAnalysisR 0.1.5
@@ -24381,7 +24381,7 @@ uncorbets 0.1.2
 UNCOVER 1.1.0
 underdisp 0.1.2
 undidR 3.0.2
-undomanager 0.1.0
+undomanager 0.2.0
 unexcel 0.2.0
 unfold 1.0.1
 unglue 0.1.0

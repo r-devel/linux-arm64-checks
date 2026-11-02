@@ -1,0 +1,128 @@
+* using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/Gtheory4LLM.Rcheck’
+* using R version 4.6.2 (2026-10-29)
+* using platform: aarch64-unknown-linux-gnu
+* R was compiled by
+    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+* running under: Ubuntu 26.04.1 LTS
+* using session charset: UTF-8
+* current time: 2026-11-02 05:53:19 UTC
+* using options ‘--no-manual --no-vignettes’
+* checking for file ‘Gtheory4LLM/DESCRIPTION’ ... OK
+* checking extension type ... Package
+* this is package ‘Gtheory4LLM’ version ‘1.0.0’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘Gtheory4LLM’ can be installed ... OK
+* used C compiler: ‘aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking ‘build’ directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking line endings in C/C++/Fortran sources/headers ... OK
+* checking compiled code ... INFO
+Note: information on .o files is not available
+* checking installed files from ‘inst/doc’ ... OK
+* checking files in ‘vignettes’ ... OK
+* checking examples ... OK
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... ERROR
+  Running ‘package-analysis-report.R’
+  Running ‘package-argument-parity.R’
+  Running ‘package-batch-reliability.R’
+  Running ‘package-batch.R’
+  Running ‘package-binary-probabilities.R’
+  Running ‘package-bootstrap.R’
+  Running ‘package-categorical-target-moments.R’
+  Running ‘package-categorical-target-numerics.R’
+  Running ‘package-characterization.R’
+  Running ‘package-dense-memory-guard.R’
+  Running ‘package-development.R’
+  Running ‘package-discrete-backend.R’
+  Running ‘package-discrete-boundary-escape.R’
+  Running ‘package-discrete-controls.R’
+  Running ‘package-discrete-domain.R’
+  Running ‘package-discrete-gradient-fit.R’
+  Running ‘package-discrete-gradient-information.R’
+  Running ‘package-discrete-gradient.R’
+  Running ‘package-discrete-information.R’
+  Running ‘package-discrete-safety.R’
+  Running ‘package-discrete-scaling.R’
+  Running ‘package-engines.R’
+  Running ‘package-formula-interface.R’
+  Running ‘package-fuzz-inputs.R’
+  Running ‘package-gaussian-initialization.R’
+  Running ‘package-gaussian-starts.R’
+  Running ‘package-installed-examples.R’
+  Running ‘package-laplace-check.R’
+  Running ‘package-mixed-model.R’
+  Running ‘package-native-workflow.R’
+  Running ‘package-nested-designs.R’
+  Running ‘package-nominal-reliability.R’
+  Running ‘package-nominal-tails.R’
+  Running ‘package-ordinal-tail.R’
+  Running ‘package-outcome-profile.R’
+  Running ‘package-planning.R’
+  Running ‘package-preflight.R’
+  Running ‘package-properties.R’
+  Running ‘package-reporting.R’
+  Running ‘package-response-third.R’
+  Running ‘package-retry-behavior.R’
+  Running ‘package-selected-inverse.R’
+  Running ‘package-simulation.R’
+  Running ‘package-smoke.R’
+Running the tests in ‘tests/package-smoke.R’ failed.
+Last 13 lines of output:
+  +   n <- table(response)
+  +   expected <- -2 * sum(n * log(n / sum(n)))
+  +   stopifnot(fit$numerically_accepted, abs(fit$minus2loglik - expected) < 1e-6)
+  + }
+  > binary <- gt_fit(d, "binary", design, gt_family("binary", "logit"), control = fixed(1))
+  > ordinal <- gt_fit(d, "ordinal", design, gt_family("ordinal"), control = fixed(1))
+  Warning message:
+  Discrete fit did not converge under numerical acceptance checks. Inspect gt_diagnostics(fit); coefficients and D studies are unavailable until the fit is numerically accepted. 
+  > nominal <- gt_fit(d, "nominal", design, gt_family("categorical", reference = "blue"), control = fixed(2))
+  > check_likelihood(binary, d$binary)
+  > check_likelihood(ordinal, d$ordinal)
+  Error in check_likelihood(ordinal, d$ordinal) : 
+    fit$numerically_accepted is not TRUE
+  Calls: check_likelihood -> stopifnot
+  Execution halted
+* checking for unstated dependencies in vignettes ... OK
+* checking package vignettes ... OK
+* checking running R code from vignettes ... SKIPPED
+* checking re-building of vignette outputs ... SKIPPED
+* DONE
+Status: 1 ERROR

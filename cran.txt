@@ -948,7 +948,7 @@ asympDiag 0.3.3
 asympTest 0.1.4
 asymptor 1.1.0
 AsynchLong 2.4
-AsyPeer 0.0.1
+AsyPeer 0.0.2
 ata 1.1.1
 atable 0.1.15
 ATAforecasting 0.0.61
@@ -1113,14 +1113,14 @@ AzureAuth 1.3.5
 AzureCognitive 1.0.2
 AzureContainers 1.3.3
 AzureCosmosR 1.0.0
-AzureGraph 1.3.5
+AzureGraph 1.3.6
 AzureKeyVault 1.0.6
 AzureKusto 1.1.4
 azuremapsr 0.0.2
 azuremlsdk 1.10.0
 AzureQstor 1.0.2
 AzureRMR 2.4.5
-AzureStor 3.7.1
+AzureStor 3.7.2
 AzureTableStor 1.0.0
 AzureVision 1.0.2
 AzureVM 2.2.2
@@ -1318,7 +1318,7 @@ BayesERtools 0.2.7
 BayesESS 0.1.19
 bayesestdft 1.0.0
 BayesFactor 0.9.12-4.8
-BayesFBHborrow 2.0.21
+BayesFBHborrow 2.0.22
 BayesFluxR 0.1.3
 BayesFM 0.1.7
 BayesfMRI 0.11.0
@@ -3273,7 +3273,7 @@ ClinicalUtilityRecal 0.1.1
 clinify 0.4.0
 clinmon 0.6.0
 clinPK 0.13.0
-clinpubr 1.4.2
+clinpubr 1.4.3
 ClinSigMeasures 1.3
 clinspacy 1.0.2
 clintools 0.9.10.1
@@ -4170,7 +4170,7 @@ cqrReg 1.2.1
 cquad 2.3
 CR2 0.2.1
 CRABS 1.2.0
-CRAFT 0.2.0
+CRAFT 0.4.0
 craftgrn 0.1.7
 cragg 0.0.1
 cramer 0.9-4
@@ -8578,7 +8578,7 @@ gglycan 0.0.3
 gglyph 0.2.0
 ggm 2.5.4
 ggmap 4.0.2
-ggmapcn 0.3.0
+ggmapcn 0.3.1
 ggmapinset 0.5.0
 ggmatplot 0.1.3
 ggmcmc 1.5.1.2
@@ -9787,7 +9787,7 @@ highMLR 1.0.1
 highOrderPortfolios 0.1.1
 highr 0.12
 highriskzone 1.4.9
-highs 1.15.1-1
+highs 1.15.1-2
 hightR 0.3.0
 highTtest 1.4
 higrad 0.1.0
@@ -10872,7 +10872,7 @@ itcSegment 1.0
 itdr 2.0.1
 itemanalysis 1.1
 ItemRest 1.0.0
-iTensor 1.0.6
+iTensor 1.0.7
 IterativeHardThresholding 1.0.3
 iteratoR 0.1.1
 iterators 1.0.14
@@ -10899,7 +10899,7 @@ ivcheck 0.1.2
 IVCor 0.1.0
 ivd 1.0.0
 ivdesc 1.1.2
-ivDiag 1.0.7
+ivDiag 1.0.8
 IVDML 1.0.2
 ivdoctr 1.0.1
 ivdtools 0.2.5
@@ -11164,7 +11164,7 @@ kDGLM 1.2.15
 kdml 1.1.1
 kdps 1.0.0
 kdry 0.0.3
-kedd 1.0.4
+kedd 2.0.0
 keep 1.0
 kehra 0.1
 kelvin 2.0-3
@@ -11875,7 +11875,7 @@ listviewer 4.0.0
 listWithDefaults 1.2.0
 lit 1.0.1
 lite 1.1.1
-litedown 0.11
+litedown 1.0
 liteformats 0.2.0
 liteq 1.1.0
 literanger 0.2.0
@@ -12152,7 +12152,7 @@ lsa 0.73.4
 LSAfun 0.8.1
 LSAMBA 2024.1.1
 LSAmitR 1.0-3
-lsasim 2.1.6
+lsasim 2.1.7
 LSD 4.1-0
 LSDinterface 1.2.5
 LSDirf 0.1.4
@@ -13223,7 +13223,7 @@ minty 0.0.6
 mintyr 0.2.0
 mipfp 3.2.3
 mipplot 0.3.1
-mirai 2.7.3
+mirai 2.7.4
 MIRDD 0.2.4
 miRecSurv 1.0.2
 MIRES 0.1.1
@@ -13628,7 +13628,7 @@ modMStates 0.0.1
 modnets 0.9.0
 modopt.matlab 1.0-2
 modQR 0.1.3
-modsem 1.0.23
+modsem 1.0.24
 ModStatR 1.4.2
 ModTools 0.9.13
 ModToppLeone 0.1.0
@@ -15564,7 +15564,7 @@ OUwie 3.0.3
 ovbsa 2.1.0
 overdisp 0.1.2
 overlap 0.3.9
-overlapping 2.5
+overlapping 2.6
 overlapptest 1.4
 overshiny 0.2.0
 overturemapsr 0.1.0
@@ -16532,7 +16532,7 @@ plspm 0.6.0
 plsRbeta 0.3.3
 plsRcox 1.8.2
 plsRglm 1.7.1
-plssem 0.1.5
+plssem 0.2.0
 PLSsemEngine 1.3.0
 plsVarSel 0.10.0
 plu 0.3.0
@@ -16780,7 +16780,6 @@ postlink 0.1.2
 postlogic 0.1.0.1
 POSTm 1.4
 postpack 0.5.4
-postshock 0.2.1
 postvocs 0.2.5
 POT 1.1-12
 potential 0.3.0
@@ -17007,8 +17006,8 @@ printify 1.0.3
 printr 0.3
 printtree 0.2.2
 prinvars 1.0.0
-prior3D 0.1.6
-priorCON 0.1.8
+prior3D 0.1.8
+priorCON 0.1.9
 PriorGen 2.0
 prioriactions 0.5.0
 prioritizr 9.0.1
@@ -17549,7 +17548,7 @@ qrng 0.0-11
 qrNLMM 4.0
 qrnn 2.1.1
 qryflow 0.4.0
-qs2 0.3.1
+qs2 0.4.0
 QSARdata 1.3
 qshap 2.0.0
 qsimulatR 1.1.1
@@ -17759,7 +17758,7 @@ r4ds.tutorials 0.3.3
 R4GoodPersonalFinances 1.2.0
 r4googleads 0.1.1
 R4HCR 0.1
-r4lineups 0.1.1
+r4lineups 2.3.0
 r4pde 0.2.2
 r4ss 1.44.1
 r4sub 0.1.0
@@ -18398,7 +18397,7 @@ react 2024.1.0
 reactable 0.4.5
 reactable.extras 0.2.1
 reactCheckbox 1.0.0
-reactives 0.1.0
+reactives 0.1.1
 reactlog 1.1.1
 reactR 0.6.1
 ReacTran 1.4.3.2
@@ -19441,7 +19440,7 @@ robustlm 0.1.0
 robustlmm 3.5.1-1
 RobustLPA 1.1.0
 robustmatrix 0.1.5
-RobustMediate 0.3.0
+RobustMediate 0.3.1
 robustmeta 1.2-1
 RobustMetrics 1.0.0
 RobustPrediction 0.1.7
@@ -19906,7 +19905,7 @@ Rsurrogate 3.2
 rsurv 0.0.2
 rsurveycto 0.2.6
 rsurvstat 0.1.5
-rsvd 1.0.6
+rsvd 2.0.0
 rsvddpd 1.0.1
 rsvg 2.7.0
 rswipl 10.1.16
@@ -20008,6 +20007,7 @@ rugarch 1.5-6
 RuHere 1.1.1
 Ruido 1.2.1
 ruijter 0.1.3
+ruleatlas 0.0.1
 ruler 0.3.2
 rules 1.0.3
 RulesTools 0.1.1
@@ -20582,7 +20582,7 @@ SE.EQ 1.0
 SEA 2.0.1
 seacarb 3.4.1
 SEAGLE 1.0.1
-SeaGraphs 0.1.3
+SeaGraphs 0.1.4
 SEAHORS 1.9.0
 seairmobility 0.1.0
 sealasso 0.1-3
@@ -23118,7 +23118,6 @@ taxalight 0.1.5
 TaxaNorm 2.4
 taxdiv 0.1.0
 TaxicabCA 0.1.2
-taxify 0.7.0
 taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
@@ -23447,6 +23446,7 @@ ThSQCA 2.0.9
 thunder 1.1.5
 ThurMod 1.1.20
 thurstonianIRT 0.12.5
+ti 4.3.0
 tibble 3.3.1
 tibbletime 0.1.9
 tibblify 0.4.2
@@ -24142,7 +24142,7 @@ TSLA 0.1.2
 TSLSTM 0.1.0
 TSLSTMplus 1.0.6
 tsLSTMx 0.1.0
-tsmarch 1.0.0
+tsmarch 1.0.3
 TSMCP 1.1
 tsmethods 1.0.3
 tsModel 0.6-2

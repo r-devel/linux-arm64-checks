@@ -2791,7 +2791,7 @@ cdlTools 1.13
 CDM 8.3-14
 CDMConnector 2.8.1
 cdmeta 1.1-1
-cdmetapopR 1.0.0
+cdmetapopR 2.0.0
 cdmTools 1.0.6
 cdnbcr 1.1.1
 cdom 0.1.1
@@ -4935,7 +4935,7 @@ denoiSeq 0.1.1
 denovolyzeR 0.2.0
 DENSaftertransform 1.0
 denseFLMM 0.1.3
-densemlp 0.7.1
+densemlp 0.9.0
 densEstBayes 1.0-2.2
 densitr 0.2
 densityarea 0.1.1
@@ -6359,7 +6359,7 @@ epe4md 0.1.4
 eph 1.0.2
 Epi 2.66
 epibasix 1.5
-epibyhand 0.2.0
+epibyhand 0.3.0
 epicasting 0.1.0
 epichains 0.1.1
 epicmodel 0.2.1
@@ -7345,7 +7345,7 @@ FishPhyloMaker 0.2.0
 FishProxCompAnalyzer 0.1.0
 fishRman 1.2.3
 fishstat 2026.1.0.0
-fishtree 0.3.4
+fishtree 0.4.0
 fishualize 0.2.3
 FisPro 1.1.4
 fit.models 0.64
@@ -8557,7 +8557,7 @@ gghourglass 0.0.3
 ggicons 0.1.0
 ggimage 0.3.8
 ggimg 0.1.2
-ggincerta 0.2.1
+ggincerta 0.2.2
 gginference 0.1.3
 gginnards 0.2.0-2
 ggInterval 0.2.5
@@ -8813,7 +8813,7 @@ gk 0.6.0
 GK2011 0.1.3
 gkgraphR 1.0.3
 gkmSVM 0.83.0
-gKRLS 1.0.4
+gKRLS 1.0.5
 gkrreg 0.5.0
 gkwdist 1.1.7
 gkwreg 2.1.18
@@ -12964,7 +12964,7 @@ metaumbrella 1.1.0
 MetaUtility 2.1.2
 metavcov 2.1.5
 metaviz 0.4.0
-metaweave 0.4.1
+metaweave 1.0.0
 metawho 0.2.0
 MetBrewer 0.2.0
 meteo 2.0-5
@@ -14434,7 +14434,7 @@ neonPlantEcology 1.6.1
 neonSoilFlux 4.0.1
 neonstore 0.5.1
 neonUtilities 4.0.2
-neotoma2 1.1.0
+neotoma2 1.1.1
 nephro 1.5
 NEpiC 1.0.1
 neptune 0.2.3
@@ -19695,7 +19695,7 @@ RProtoBuf 0.4.28
 RPscoring 0.1.0
 rpsftm 1.2.9
 rpspanel 0.1.0
-rpsurv 0.7.1
+rpsurv 0.8.1
 RPtests 0.1.5
 rptR 0.9.23
 rPublic 1.2.0
@@ -19932,10 +19932,10 @@ RTD 0.4.2
 RTDE 0.2-2
 rtdists 0.12-0
 rtemis 1.4.2
-rtemis.a3 0.5.3
+rtemis.a3 0.6.1
 rtemis.core 0.4.7
-rtemis.draw 0.5.3
-rtemis.llm 0.8.7
+rtemis.draw 0.5.4
+rtemis.llm 0.8.8
 rtemps 0.8.0
 rTensor 1.5.0
 rTephra 0.1
@@ -23292,7 +23292,7 @@ testDriveR 0.5.3
 testequavar 0.1.5
 tester 0.3.0
 testex 0.2.1
-testflow 1.0.0
+testflow 1.0.5
 testforDEP 0.2.0
 TestFunctions 0.2.2
 TestGardener 3.3.6

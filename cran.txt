@@ -3697,6 +3697,7 @@ Compositionalasmr 1.0
 Compositionalcln 1.1
 CompositionalClust 1.3
 CompositionalHDDA 1.0
+CompositionalLASSO 1.0
 CompositionalML 1.0
 CompositionalMPT 1.0
 CompositionalNAimp 1.1
@@ -4847,6 +4848,7 @@ deep 0.1.0
 deepdep 0.4.4
 deepgmm 0.2.1
 deepgp 1.2.3
+deepICMGP 0.1.1
 deepImp 1.1.0
 DeepLearningCausal 0.0.107
 deeplr 2.1.0
@@ -5272,7 +5274,7 @@ DisImpact 0.0.21
 dismo 1.3-16
 disordR 0.9-8-7
 dispeRse 1.1
-dispersionIndicators 0.1.6
+dispersionIndicators 0.2.0
 displease 1.0.0
 dispmod 1.2
 disposables 1.0.3
@@ -6523,7 +6525,7 @@ eSDM 0.4.4
 eseis 0.8.1
 eselect 1.1
 esem 2.0.0
-esemifar 2.0.1
+esemifar 2.0.2
 ESG 1.3
 esgcalc 0.2.0
 eshrink 0.2.0
@@ -7578,7 +7580,7 @@ forecasteR 3.0.2
 forecastHybrid 5.1.21
 ForecastingEnsembles 0.5.1
 forecastLSW 1.1.1
-forecastsuite 1.0.2
+forecastsuite 1.0.3
 FoReco 1.3.1
 FoRecoML 1.1.1
 ForeComp 1.0.0
@@ -8220,7 +8222,7 @@ geneticae 1.0.1
 genetics 1.3.8.1.3
 GeneticSubsetter 0.8
 GeNetIt 0.1-7
-geneviewer 0.1.11
+geneviewer 0.2.0
 genevintage 0.1.3
 genfrn 0.1.4
 GenHMM1d 0.2.8
@@ -8413,6 +8415,7 @@ gettz 0.0.6
 getwiki 0.9.0
 GEVACO 1.0.1
 GEVcdn 1.1.6-2
+GEVStableGarch 2.0.0
 gexp 1.0-21
 geysertimes 0.1.9
 GFA 1.0.5
@@ -8849,6 +8852,7 @@ GLMcat 1.0.0
 glme 0.1.0
 glmertree 0.2-7
 glmfitmiss 2.1.0
+glmfsa 1.0.1
 glmlep 0.2
 glmm 1.4.5
 glmm.hp 1.0-0
@@ -10356,6 +10360,7 @@ IMD 1.2.2
 imdbapi 0.1.0
 imdR 0.4.0
 iMediate 0.5.5
+imedR 0.3.3
 imf.data 0.2.0
 imfapi 0.1.2
 ImFoR 0.1.0
@@ -10864,7 +10869,7 @@ itcSegment 1.0
 itdr 2.0.1
 itemanalysis 1.1
 ItemRest 1.0.0
-iTensor 1.0.7
+iTensor 1.0.8
 IterativeHardThresholding 1.0.3
 iteratoR 0.1.1
 iterators 1.0.14
@@ -11261,7 +11266,7 @@ kldtools 1.2
 KlerRSS 0.2.4
 KLexp 1.0.0
 klineR 0.1.1
-KLINK 1.2.2
+KLINK 1.3.2
 klovan 0.1.0
 klustR 0.1.0
 km.ci 0.5-6
@@ -11680,7 +11685,7 @@ leprechaun 1.0.0
 leptokurticMixture 1.1
 lero.lero 0.2
 less 0.1.0
-lessR 4.5.6
+lessR 4.5.7
 lessSEM 1.5.7
 lest 1.1.0
 lestat 1.9
@@ -13501,6 +13506,7 @@ MMDai 2.0.0
 MMDCopula 0.2.1
 MMDvariance 0.1.0
 mme 0.1-6
+MMEFM 0.1.1
 mmeln 1.5
 MMeM 0.1.1
 mmequiv 1.0.0
@@ -14339,6 +14345,7 @@ NAVAECI 0.1.1
 navigation 0.0.2
 navigatr 0.2.1
 nawtilus 0.1.4
+naxp 0.1.0
 NB.MClust 1.1.1
 NBAloveR 0.1.3.3
 nbapalettes 0.1.0
@@ -14429,6 +14436,7 @@ neotoma2 1.1.1
 nephro 1.5
 NEpiC 1.0.1
 neptune 0.2.3
+nerfplus 1.0.0
 nesstarR 0.1.0
 nestable 0.1.1
 NeStage 0.8.1
@@ -14437,6 +14445,7 @@ nestedcv 0.9.0
 nestedLogit 0.4.2
 NestedMenu 0.2.0
 nestedpp 0.2.0
+nestedscales 0.2.0
 nestfs 1.0.3
 Nestimate 0.9.24
 NestMRMC 1.0
@@ -17586,7 +17595,7 @@ quadriceps 0.1.0
 QuadRoot 0.2.1
 quadrupen 1.1-0
 quadVAR 0.1.2
-quak 0.1.1
+quak 0.1.2
 qualitycontrol 0.1.0
 QualityMeasure 2.0.2
 quallmer 0.6.0
@@ -17733,6 +17742,7 @@ r2resize 2.0
 R2ROC 1.0.1
 r2rtf 1.3.1
 R2sample 5.0.0
+r2sbml 0.1.0
 r2shortcode 0.2
 r2social 1.2.1
 r2spss 0.3.2
@@ -18512,7 +18522,7 @@ REDCapExporter 0.3.6
 REDCapR 1.7.0
 REDCapSync 0.2.1
 REDCapTidieR 1.2.5
-redcas 0.1.1
+redcas 0.2.1
 redditadsR 0.1.0
 RedditExtractoR 3.0.9
 reddPrec 3.0.2
@@ -19590,7 +19600,7 @@ RoundAndRound 0.0.1
 roundhouse 0.0.2
 roundr 1.0.0
 roundRobinR 2.0.0
-roundwork 0.1.0
+roundwork 0.2.0
 roundyh 0.1.0
 routing 1.1.1
 routr 2.0.0
@@ -19899,6 +19909,7 @@ rsvd 2.0.0
 rsvddpd 1.0.1
 rsvg 2.7.0
 rswipl 10.1.16
+RSYC 0.2.0
 Rsymphony 0.1-33
 rsyncrosim 2.1.13
 rsyntax 0.1.4
@@ -19919,7 +19930,7 @@ rTCRBCRr 0.1.1
 RTD 0.4.2
 RTDE 0.2-2
 rtdists 0.12-0
-rtemis 1.4.2
+rtemis 1.4.3
 rtemis.a3 0.6.1
 rtemis.core 0.4.7
 rtemis.draw 0.5.4
@@ -20276,6 +20287,7 @@ sarp.snowprofile 1.4.1
 sarp.snowprofile.pyface 0.4.3
 sars 2.1.1
 sarsop 0.6.16
+sas2r 0.5.8
 sas7bdat 0.8
 SAScii 1.0.2
 sasctl 0.9.0
@@ -20835,6 +20847,7 @@ SeuratObject 5.4.0
 sevenbridges2 0.4.0
 sever 0.0.7
 sewage 0.2.5
+SexSeek 0.1.0
 sezgi 0.1.1
 sf 1.1-3
 sfa 1.2.0
@@ -20921,6 +20934,7 @@ shapes 1.2.8
 ShapeSelectForest 1.7
 SHAPforxgboost 0.2.0
 shapley 0.7.0
+shapleydecomp 1.0.0
 shapleyHALE 0.1.0
 ShapleyOutlier 0.1.2
 ShapleyValue 0.2.0
@@ -22413,7 +22427,7 @@ statuser 0.4.1
 statwitness 0.1.0
 STB 0.6.6
 stbimageheaders 0.1.0
-stbl 0.5.0
+stbl 0.6.0
 STCCGEV 1.0.0
 stCEG 1.1.0
 stcos 0.3.2
@@ -22600,7 +22614,7 @@ strip 1.0.0
 stripless 1.0-3
 striprtf 0.6.0
 stRoke 25.9.2
-strollur 0.1.4
+strollur 0.1.5
 StroupGLMM 0.3.0
 strs 0.1.0
 strucchange 1.6-0
@@ -22699,6 +22713,7 @@ SuperpixelImageSegmentation 1.0.6
 Superpower 0.2.4.1
 SuperRanker 1.2.1
 superspreading 0.4.0
+superstats 1.0
 SuperSurv 0.1.9
 supervisedPRIM 2.0.0
 SupMZ 0.2.0
@@ -23256,7 +23271,7 @@ tern 0.9.13
 tern.gee 0.1.6
 tern.mmrm 0.3.4
 Ternary 2.3.7
-TernTables 1.7.2
+TernTables 1.8.0
 ternvis 1.3
 terra 1.9-50
 terrainmeshr 1.0.1
@@ -23387,6 +23402,7 @@ TH.data 1.1-5
 thames 0.1.2
 thamesblock 0.1.0
 thamesmix 0.1.4
+theaitetos 0.1.0
 theeuh 0.1.5
 theft 0.8.4
 theftdlc 0.2.1
@@ -24095,6 +24111,7 @@ tsdisagg2 0.1.0
 TSdisaggregation 2.0.0
 tsdistributions 1.0.4
 TSDT 1.0.8
+tsDyn 11.0.6
 TSE 0.1.0
 TSEAL 0.1.5
 tseffects 0.4.1
@@ -24967,6 +24984,7 @@ Wats 1.0.1
 watson 1.0.0
 wav 0.2.0
 waveband 4.7.4
+wavecov 0.1.0
 waved 1.3
 WaveletANN 0.1.2
 WaveletArima 0.1.2
@@ -25304,6 +25322,7 @@ wsMed 1.2.0
 wsprv 0.1.0
 WSPsignal 1.0.0
 wsrf 1.7.32
+WSSmod 0.1.0
 wstats 0.1.1
 wstdiff 1.0.0
 WSwavelet 0.1.0

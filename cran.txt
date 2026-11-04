@@ -1230,7 +1230,7 @@ basecamb 1.1.5
 basedosdados 0.2.3
 basefun 1.2-7
 baseline 1.3-8
-baselinenowcast 0.2.0
+baselinenowcast 0.2.2
 baselinr 0.6.0
 basemaps 0.1.1
 basemodels 1.1.0
@@ -1674,7 +1674,7 @@ bib2df 1.1.2.0
 biblio 0.0.12
 bibliometrix 5.5.0
 bibliometrixData 0.3.0
-biblionetwork 0.1.0
+biblionetwork 0.2.0
 bibliorefer 0.1.4
 biblioverlap 1.0.2
 bibnets 0.6.0
@@ -1924,7 +1924,7 @@ bivrp 1.2-2
 BivUnifBin 1.3.3
 biwavelet 0.20.22
 biwt 1.0.1
-bizdays 1.0.17
+bizdays 1.0.18
 bizicount 1.3.4
 BJM 0.3.0
 BKBreed 0.3.2
@@ -3231,7 +3231,7 @@ clidatajp 0.5.3
 cliff 0.1.2
 clifford 1.2-0-2
 CliftLRD 0.1-2
-clim4health 0.1.0
+clim4health 0.1.1
 climabr 0.1.0
 climaemet 1.6.0
 ClimaRep 1.1
@@ -5624,7 +5624,7 @@ drumr 0.1.0
 DRviaSPCN 0.1.5
 dryingkineticmodels 1.0.0
 ds 4.0
-ds4psy 1.3.0
+ds4psy 1.4.0
 dsa 1.0.12
 DSAIDE 1.0.0
 DSAIRM 1.0.0
@@ -6946,6 +6946,7 @@ faraway 1.0.9
 FARDEEP 1.0.1
 farff 1.1.1
 FARM 0.1.5.15
+FARM.eval 1.0.0
 farmPartial 0.1.0
 farr 1.1.1
 farrell 0.2.1
@@ -8832,7 +8833,7 @@ GLDEX 2.0.0.9.4
 GLDreg 1.1.2
 gldrm 1.6
 gleam 0.8.0
-gleifr 0.3.0
+gleifr 0.4.0
 glemb 0.1.4
 GLHD 1.1-1
 glinternet 1.0.13
@@ -8854,6 +8855,7 @@ glme 0.1.0
 glmertree 0.2-7
 glmfitmiss 2.1.0
 glmfsa 1.0.1
+glmheaders 1.0.1-2
 glmlep 0.2
 glmm 1.4.5
 glmm.hp 1.0-0
@@ -12024,7 +12026,7 @@ loggit2 2.4.0
 logib 0.2.1
 logiBin 0.3
 logicDT 1.0.5
-LogicForest 2.1.5
+LogicForest 2.1.6
 LogicReg 1.6.6
 logihist 1.1
 login 0.9.3
@@ -13436,7 +13438,7 @@ mlr3cluster 0.7.0
 mlr3data 0.9.0
 mlr3db 0.7.3
 mlr3fairness 0.4.0
-mlr3fda 0.7.2
+mlr3fda 0.8.0
 mlr3filters 0.9.1
 mlr3forecast 0.2.0
 mlr3fselect 1.7.0
@@ -13569,6 +13571,7 @@ modACDC 2.0.1
 ModalCens 0.3.0
 Modalclust 0.7
 ModalForecast 0.2.0
+ModalNet 0.3.0
 modeest 2.5.0
 modehunt 1.0.8
 model4you 0.9-9
@@ -16685,6 +16688,7 @@ polysat 1.7-7
 polySegratio 0.2-6
 polySegratioMM 0.6-5
 PolyTree 0.0.1
+PolyTrend 1.3
 polywog 0.4-2
 POMADE 0.2.1
 POMaSPU 1.0.0
@@ -17646,6 +17650,7 @@ Quartet 1.4.0
 quartets 0.1.1
 quartify 1.1.1
 quarto 1.5.1
+quartodown 0.1.0
 quartose 0.2.1
 quasar 0.2.1
 quaxnat 1.0.1
@@ -19038,7 +19043,7 @@ rifttable 0.7.3
 Rigma 0.3.0
 rigr 1.0.10
 riingo 0.3.1
-Rilostat 2.5.0
+Rilostat 2.5.1
 rim 0.9.0
 RImageJROI 0.1.3
 RImagePalette 0.1.1
@@ -19753,7 +19758,7 @@ RRmorph 0.0.2
 RRNA 1.2
 rrnni 0.1.1
 rroad 0.0.5
-rrobot 0.1.3
+rrobot 0.2.1
 rrpack 0.1-14
 RRphylo 3.0.2
 RRPP 2.2.0
@@ -20380,6 +20385,7 @@ scBio 0.1.6
 SCBmeanfd 1.2.3
 scBSP 1.1.0
 scbursts 1.6
+scCAN 1.0.6
 scCATCH 3.2.2
 sccca 0.1.1
 SCCDdesign 0.2.0
@@ -20648,7 +20654,7 @@ segmetric 0.3.0
 segMGarch 1.3
 segRDA 1.0.2
 segregation 1.1.0
-segregatr 0.5.0
+segregatr 0.5.1
 segtest 2.0.0
 seguid 0.1.0
 sehrnett 0.1.0
@@ -20974,6 +20980,7 @@ shinipsum 0.1.1
 shiny 1.14.0
 shiny.blueprint 0.3.0
 shiny.destroy 0.1.0
+shiny.element 0.3.1
 shiny.emptystate 0.1.0
 shiny.exe 0.2.0
 shiny.fluent 0.4.1
@@ -21776,7 +21783,7 @@ SpaceTimeBSS 0.4-0
 spaci 0.2.0
 SPACO 1.0.3
 SpaCOAP 1.3
-spacyr 1.3.0
+spacyr 1.4.0
 spada 0.1.9
 SPADAR 1.0
 spAddins 0.2.0
@@ -24046,6 +24053,7 @@ trip 1.10.0
 tripaccess 0.2.0
 tripack 1.3-9.4
 tripEstimation 0.0-46
+triplclust 2.0.1
 triplediff 0.2.4
 TripleR 1.5.5
 triplesmatch 1.1.0

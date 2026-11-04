@@ -39,4 +39,5 @@ scimesh,0.4.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEA
 singleRcapture,1.1.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/singleRcapture
 taxonomizr,0.11.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/taxonomizr
 tiledb,0.33.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/tiledb
+underdisp,0.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/underdisp
 windfarmGA,5.0.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/windfarmGA

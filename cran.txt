@@ -2507,7 +2507,7 @@ cancerGI 1.0.1
 cancerR 0.1.1
 cancerradarr 4.1.0
 candisc 1.1.1
-CANE 0.1.1
+CANE 0.2.0
 Canek 0.3.1
 CanonicalFamilyExtra 1.0.0
 canprot 2.0.0
@@ -2747,6 +2747,7 @@ ccmEstimator 1.0.0
 CCMMR 0.2.3
 CCMnet 1.1.2
 ccmReportR 0.1.0
+CCNR 0.2.0
 ccoptimalmatch 0.1.1
 ccostr 0.1.1
 CCP 1.2
@@ -3703,6 +3704,7 @@ CompositionalML 1.0
 CompositionalMPT 1.0
 CompositionalNAimp 1.1
 CompositionalRF 1.7
+Compositionalridge 1.0
 Compositionalscsmr 1.0
 CompositionalSR 1.5
 CompositionalZADR 1.1
@@ -4769,6 +4771,7 @@ dcurves 0.5.1
 dcvar 0.9.3
 dda 0.1.1
 ddalpha 1.3.16
+DDAWASS 1.0.0
 ddc 1.0.1
 DDD 5.2.5
 dde 1.0.7
@@ -4784,7 +4787,7 @@ ddModel 0.2.9.0
 ddp 0.0.3
 ddpca 1.1
 ddpcr 1.16.0
-ddplot 0.1.0
+ddplot 0.2.0
 DDPM 0.1.0
 DDPstar 1.0-1
 DDRTree 0.1.6
@@ -4896,7 +4899,7 @@ delta.sharing 0.2.1
 deltabreedquery 1.0.4
 deltaccd 1.0.2
 DeltaMAN 0.5.0
-deltapif 0.4.5
+deltapif 0.5.0
 deltaPlotR 1.9
 deltatest 0.2.0
 DeltaTools 0.1.4
@@ -6275,7 +6278,7 @@ emulator 1.3-0
 emuR 2.6.0
 enaho 0.2.5
 eNchange 1.1
-encharter 0.12
+encharter 0.13
 encode 0.3.7
 EncompassTest 0.22
 encryptedRmd 0.2.1
@@ -6319,7 +6322,7 @@ ensr 0.1.0
 EnTraineR 1.0.0
 entropart 1.6-16
 Entropic.Scree 1.0.2
-EntropicStatistics 0.1.3
+EntropicStatistics 0.2.0
 entropy 1.3.2
 EntropyEstimation 1.2.1
 entrymodels 0.2.1
@@ -6606,7 +6609,7 @@ eva3dm 1.20
 evabic 0.1.4
 Evacluster 0.1.0
 evacpath 0.1.0
-evalHTE 0.2.0
+evalHTE 0.3.0
 evalITR 1.1.0
 evalR 0.0.1
 EvalTest 1.0.6
@@ -6833,10 +6836,12 @@ ezknitr 0.6.3
 ezplot 0.8.2
 ezr 0.1.5
 EZRShiny 0.1.0
+ezrsurvey 0.7.1
 ezTrack 0.1.1
 EZtune 3.1.1
 f1dataR 2.0.1
 f1pits 1.3.2
+F2Adonis2 0.1.1
 FaaSr 2.0.0
 fabCI 0.3
 FABInference 0.1
@@ -7629,7 +7634,7 @@ formattable 0.2.1
 formatters 0.5.13
 formods 0.2.2
 formr 1.1.0
-FormShare 1.0.1
+FormShare 1.0.2
 Formula 1.2-6
 formula.tools 1.7.1
 formulaic 0.0.8
@@ -8556,6 +8561,7 @@ ggicons 0.1.0
 ggimage 0.3.8
 ggimg 0.1.2
 ggincerta 0.2.2
+ggindex 0.1.0
 gginference 0.1.3
 gginnards 0.2.0-2
 ggInterval 0.2.5
@@ -10435,6 +10441,7 @@ imuf 0.6.0
 imuGAP 0.2.0
 imv 0.3
 ImVol 0.1.0
+IMW 1.1
 inaparc 1.2.1
 inatpick 0.2.2
 inbreedR 0.3.3
@@ -11337,6 +11344,7 @@ kpcaIG 1.0.1
 kpeaks 1.1.0
 kpiwidget 0.1.1
 kpp2019 0.0.1
+kpqc 0.1.0
 KQM 1.1.1
 KrakenR 1.0.0
 KraljicMatrix 0.2.1
@@ -11440,7 +11448,7 @@ LaF 0.8.6
 lagdynamics 0.32
 lagged 0.3.2
 LAGOSNE 2.0.5
-LAGOtrials 1.1.0
+LAGOtrials 1.1.1
 laGP 1.5-10
 lagsarlmtree 1.0-2
 LagSequential 0.1.1
@@ -12734,6 +12742,7 @@ mdendro 2.3.0
 mdftracks 0.2.2
 mdgc 0.1.7
 MDgof 1.3.0
+mdiharmonize 0.1.0
 mdir.logrank 0.0.4
 mditools 0.1.1
 MDMA 2.0.0
@@ -13170,7 +13179,7 @@ mildsvm 0.4.2
 miLineage 2.1
 milorGWAS 0.7.1
 milr 0.4.1
-mimar 1.0.0
+mimar 1.4.2
 mimdo 0.1.0
 mime 0.13
 MIMER 1.0.6
@@ -15173,7 +15182,7 @@ OmicSense 0.2.0
 OmicsPLS 2.1.0
 OmicsPrepR 0.1.1
 OmicsQC 1.1.1
-omicsTools 1.1.7
+omicsTools 2.0.0
 omicwas 0.8.0
 Omisc 0.2.0
 omnibus 1.2.15
@@ -15319,7 +15328,7 @@ OpenSpecy 2.0.3
 openssl 2.5.0
 OpenStreetMap 0.4.1
 openstudyval 0.1.1
-opentimsr 1.2.0
+opentimsr 1.2.3
 opentripplanner 0.5.2
 openVA 1.2.0
 openxlsx 4.2.9
@@ -16230,7 +16239,7 @@ PhenotypeR 0.5.0
 PHENTHAUproc 1.1.2
 phers 1.0.5
 PHeval 1.1
-PheValuator 2.2.18
+PheValuator 2.2.19
 PheVis 1.0.5
 Phi2rho 1.0.2
 phia 0.3-2
@@ -16603,7 +16612,7 @@ PNWColors 0.1.0
 pocrm 0.13
 POD 1.2.0
 PoDBAY 1.4.3
-POEMED 1.0.0
+POEMED 1.0.1
 poems 1.4.0
 POET 2.0
 pogit 1.3.0
@@ -17279,7 +17288,7 @@ psychds 0.1.0
 psychmeta 2.7.0
 psychnets 0.5.2
 psycho 0.6.2
-PsychoMatic 1.0.1
+PsychoMatic 1.0.2
 psychometric 2.4
 psychomix 1.1-10
 psychonetrics 0.17.8
@@ -19418,7 +19427,7 @@ robslopes 1.1.4
 RobStatTM 1.0.11
 robStepSplitReg 2.0.0
 robsurvey 0.7-3
-RoBTT 1.3.1
+RoBTT 1.4.0
 robumeta 2.1
 robust 0.7-5
 robust.prioritizr 1.1.0
@@ -19664,6 +19673,7 @@ RPIV 1.1.1
 rpivotTable 0.4.0
 rpkgkit 0.1.7
 rplanes 0.1.0
+rplatypus 0.2.1
 rplec 0.1.3
 rplotengine 1.0-9
 RplotterPkg 0.1.5
@@ -19806,7 +19816,7 @@ rSDR 1.0.3.0
 rsdv 0.2.0
 RSE 1.3
 rSEA 2.1.2
-Rsearch 1.2.0
+Rsearch 1.2.1
 rseedcalc 1.3
 rsei 0.1.1
 RSEIS 4.2-4
@@ -20467,6 +20477,7 @@ scMappR 1.0.12
 scMetaTraj 0.1.1
 scmix 0.1.1
 scModels 1.0.5
+SCMs 0.1.1
 scmSpillover 0.1.2
 scNPM 1.1.0
 scOntoMatch 0.1.1
@@ -21749,6 +21760,7 @@ soReta 0.1.0
 sorocs 0.1.0
 SorptionAnalysis 0.1.0
 sortable 0.6.0
+SortedEffects 2.0
 sorvi 0.8.21
 sos 2.1-8
 sotkanet 0.10.1
@@ -24846,7 +24858,7 @@ visvow 1.3.11
 visxhclust 1.1.0
 vita 1.0.0
 vitae 0.7.0
-vital 2.1.0
+vital 2.1.1
 vitality 1.3
 vitals 0.4.0
 vitopack 0.1.1
@@ -25330,7 +25342,7 @@ wsbackfit 1.0-5
 WSCdata 0.1.2
 wsjplot 0.1.0
 wskm 1.4.40
-wsMed 1.2.0
+wsMed 1.2.2
 wsprv 0.1.0
 WSPsignal 1.0.0
 wsrf 1.7.32

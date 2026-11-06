@@ -1459,7 +1459,7 @@ bbk 0.14.0
 bbknnR 2.0.2
 bbl 1.0.0
 BBMBC 1.0.1
-BBmisc 1.13.1
+BBmisc 1.13.2
 bbmix 1.0.0
 bbmle 1.0.26
 bbnet 1.2.1
@@ -3693,7 +3693,7 @@ CompModels 0.3.0
 COMPoissonReg 0.8.2
 CompositeReliability 1.0.3
 compositeReliabilityInNestedDesigns 1.0.4
-Compositional 8.4
+Compositional 8.5
 compositional.mle 2.0.1
 Compositionalasmr 1.0
 Compositionalcln 1.1
@@ -6510,7 +6510,7 @@ ERRI 0.1.0
 errorist 0.1.3
 errorlocate 1.1.2
 errors 0.4.5
-ErrorTracer 1.4.1
+ErrorTracer 1.4.2
 errum 0.0.4
 ERSA 0.1.4
 eRTG3D 0.7.0
@@ -7661,7 +7661,7 @@ fourierin 1.0.0
 fourinarow 0.1.1
 FourScores 1.5.1
 FourWayHMM 1.0.0
-fozziejoin 0.0.16
+fozziejoin 0.0.17
 fpa 1.0
 fPASS 1.0.0
 fpc 2.2-15
@@ -10871,6 +10871,7 @@ IssueTrackeR 2.0.0
 istacr 0.3.1
 istat 1.1.2
 istatR 0.1.0
+iSTATS 1.8.1
 iSTAY 1.1.0
 iSubGen 1.0.5
 isva 1.10
@@ -12104,7 +12105,7 @@ loopevd 1.0.2
 LoopRig 0.1.1
 LOPART 2024.6.19
 lorad 0.0.1.0
-lorax 0.1.0
+lorax 0.2.0
 lorbridge 0.1.1
 lordif 0.4.2
 lorec 0.6.1
@@ -17620,7 +17621,7 @@ qualpalr 2.1.0
 qualtRics 3.3.0
 qualV 0.3-5
 qualvar 0.2.0
-QUALYPSO 3.1
+QUALYPSO 3.2
 QuanDA 1.0.0
 quantbayes 0.1.0
 QuantBondCurves 0.3.3
@@ -18102,7 +18103,7 @@ Rblpapi 0.3.16
 rblt 0.2.4.7
 rbm25 2.3.2
 rBMF 1.1
-rbmi 1.7.0
+rbmi 1.7.1
 rbmiUtils 0.3.0
 rbmn 0.9-6
 RBMRB 3.0.0
@@ -22839,7 +22840,7 @@ survkl 1.0.2
 survlab 0.2.0
 SurvLong 1.5
 SurvMA 1.6.8
-SurvMetrics 0.5.1
+SurvMetrics 0.5.2
 SurvMI 0.1.0
 survminer 0.5.2
 survmixer 1.3
@@ -24527,7 +24528,7 @@ usdata 0.3.1
 usdatasets 0.1.0
 usdm 2.1-7
 usdoj 1.1.2
-uSDT 0.1.0
+uSDT 0.2.0
 USE 0.1.6
 usedist 0.4.0
 usedthese 0.5.1
@@ -24777,7 +24778,7 @@ vfunc 1.0
 VGAM 1.1-14
 VGAMdata 1.1-13
 VGAMextra 0.0-9
-vglmer 1.0.6
+vglmer 1.0.8
 vhcub 1.0.0
 vhica 0.2.9
 via 0.2.0

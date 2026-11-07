@@ -4105,6 +4105,7 @@ CoxAalenCR 0.1.0
 CoxAIPW 0.0.3
 CoxBcv 0.0.1.0
 CoxBoost 1.5.2
+coxdev 0.4.0
 coxerr 1.1
 CoxICPen 1.1.0
 CoxLikelihood 0.1.0
@@ -4489,7 +4490,7 @@ cyjShiny 1.0.42
 cylcop 0.2.1
 cymruservices 0.5.0
 cyphr 1.1.7
-cystiSim 0.2.1
+cystiSim 0.3.0
 CytobankAPI 2.2.1
 cytofan 0.1.1
 cytometree 2.0.6
@@ -9422,7 +9423,7 @@ GTRT 0.1.0
 gtstats 1.0.0
 gtsummary 2.6.1
 gtWAS 1.1.1
-gtxlsx 0.4.0
+gtxlsx 0.5.0
 guaguas 0.3.0
 guardianapi 0.1.1
 GUD 1.0.2
@@ -11851,7 +11852,7 @@ lineup 0.46
 lineup2 0.8
 lineupjs 4.6.0
 linevis 1.0.0
-linf 0.3.0
+linf 0.4.0
 lingamr 0.1.2
 lingdist 1.0
 lingglosses 0.0.11
@@ -12400,7 +12401,7 @@ MaOEA 0.6.2
 maotai 0.3.0
 MAP 1.0.0
 Map2NCBI 1.5
-MAPA 2.0.7
+MAPA 2.1.0
 mapaccuracy 0.1.2
 mapbayr 0.10.2
 mapboxapi 0.6.3
@@ -15152,7 +15153,7 @@ oews2020 1.0.0
 oews2021 1.0.0
 ofemeantest 1.0.0
 officedown 0.4.3
-officer 0.7.7
+officer 0.7.8
 offlineChange 0.0.4
 offsetreg 1.2.0
 ofGEM 1.0
@@ -16168,6 +16169,7 @@ persuasio 0.1.0
 persval 1.1.2
 perturbR 0.1.3
 PeruAPIs 0.1.0
+perufaunads004 0.1.0
 peruflorads43 0.2.3
 perumammals 0.0.0.2
 peruocc 0.1.1
@@ -17363,7 +17365,7 @@ pubh 3.0.1
 public.ctn0094data 1.1.0
 public.ctn0094extra 1.0.4
 PublicationBias 2.4.0
-PublicationBiasBenchmark 0.3.0
+PublicationBiasBenchmark 0.4.0
 publicdataau 0.4.1
 publipha 0.1.2
 Publish 2025.07.24
@@ -18151,6 +18153,7 @@ RCA 2.0
 RCAL 2.0
 RCALI 0.3.7
 RcamelsCL 0.2-0
+rcamelspe 0.1.0
 Rcan 1.3.92
 Rcapture 1.4-4
 RCarb 0.1.8
@@ -20567,7 +20570,7 @@ ScriptMapR 0.0.3
 scriptName 1.0.1
 scriptuRs 0.1.0
 scrm 1.7.5
-scRNAstat 0.1.1.2
+scRNAstat 0.1.1.4
 scrobbler 1.0.3
 scrollrevealR 0.2.0
 scROSHI 1.0.0.1

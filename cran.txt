@@ -820,6 +820,7 @@ arima2 3.4.4
 ARIMAANN 0.1.0
 arimasel 0.2.0
 ARInfoLSTM 0.1.0
+ARISE 0.1.0
 arity 0.2.0
 arkdb 0.0.19
 arkg 0.1.0
@@ -1559,6 +1560,7 @@ beeswarm 0.4.0
 beezdemand 0.2.0
 beezdiscounting 0.3.2
 befproj 0.1.1
+behaviorchange 26.11.1
 behavr 0.3.3
 BEKKs 1.4.7
 belex 0.1.0
@@ -2594,7 +2596,7 @@ cartographr 0.2.5
 cartography 3.1.5
 carts 0.2.0
 carwatch 1.0.1
-CAs 0.24-4
+CAs 0.25
 Cascade 2.4
 CascadeData 1.6
 cascadeSelect 1.1.0
@@ -2779,7 +2781,7 @@ cdfquantreg 1.3.1-2
 CDFt 1.2
 cdgd 1.0.1
 CDGHMM 0.1.5
-cdid 0.1.1
+cdid 1.2.0.1
 cdiscdata 0.2.0
 cdiWG2WS 0.2.0
 cdlei 1.0
@@ -2891,6 +2893,7 @@ CFAcoop 1.0.0
 cfbfastR 3.0.0
 cfbseedR 0.2.0
 CFC 1.2.1
+cfcompare 0.2.1
 cfda 0.12.1
 cfdecomp 0.4.0
 CFF 1.0
@@ -3542,7 +3545,7 @@ CohortMethod 6.0.3
 CohortPlat 1.0.5
 cohorts 1.3.0
 CohortSurvival 1.2.1
-CohortSymmetry 0.3.0
+CohortSymmetry 0.4.0
 cohorttools 0.1.8
 CohortUtilisation 0.6.1
 CoImp 2.2
@@ -4051,6 +4054,7 @@ countSTAR 1.2.1
 countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
+couplr 1.9.0
 courieR 0.3.1
 coursekata 0.21.0
 covadap 1.0.1
@@ -4367,7 +4371,7 @@ ctOpenData 0.1.1
 cTOST 1.0.1
 ctqr 2.2
 ctrdata 1.26.3
-ctreeMI 1.2.0
+ctreeMI 1.3.0
 ctrialsgov 0.2.7
 CTRing 0.1.0
 ctrlGene 1.0.1
@@ -5913,7 +5917,7 @@ EBMAforecast 1.0.33
 ebmc 1.0.1
 ebmstate 0.1.5
 ebnm 1.1-42
-ebrahim.gof 3.0.0
+ebrahim.gof 3.1.0
 EBrank 1.0.0
 eBsc 4.17
 ebTobit 1.0.2
@@ -7727,7 +7731,7 @@ frailtySurv 1.3.8
 frair 0.5.203
 framecleaner 0.2.1
 Frames2 0.2.1
-framework 1.1.1
+framework 2.0.0
 franc 1.1.4
 FRAPO 0.4-2
 FRApp 1.0.0
@@ -8569,7 +8573,7 @@ ggicons 0.1.0
 ggimage 0.3.8
 ggimg 0.1.2
 ggincerta 0.2.2
-ggindex 0.1.0
+ggindex 0.1.1
 gginference 0.1.3
 gginnards 0.2.0-2
 ggInterval 0.2.5
@@ -9372,6 +9376,7 @@ gsrsb 1.2.1
 gss 3.0-0
 GSSE 0.1
 GSSTDA 1.0.0
+gst 0.4.0
 gstar 0.1.0
 gstat 2.1-6
 gStream 0.2.0
@@ -9728,6 +9733,7 @@ heterometa 0.5
 heteromixgm 2.0.2
 heteroTests 0.17.0
 hetGP 1.1.9
+hetNSC 0.1.0
 HEtools 1.0.0
 HetSeq 0.1.1
 hetsurr 1.0
@@ -14590,7 +14596,7 @@ newdata 0.1.0
 Newdistns 2.1
 newFocus 1.1
 newIMVC 0.1.0
-NewmanOmics 1.1.4
+NewmanOmics 1.1.5
 newmark 1.10.0
 newsanchor 0.1.1
 newscatcheR 0.1.3
@@ -16274,6 +16280,7 @@ phonics 1.4.0
 phonR 1.0-7
 phonTools 0.2-2.2
 phontrast 2.5.0
+phoring 0.1.0
 phosphoricons 0.2.1
 photobiology 0.14.3
 photobiologyFilters 0.6.1
@@ -16627,6 +16634,7 @@ pnotp 0.1.0
 PNSIBGE 0.2.1
 PnT 0.1.0
 PNWColors 0.1.0
+pobecu 0.2.0
 pocrm 0.13
 POD 1.2.0
 PoDBAY 1.4.3
@@ -17217,7 +17225,7 @@ proxymix 0.17.0
 prozor 0.3.1
 PRP 0.1.1
 prqlr 0.10.1
-prrd 0.0.7
+prrd 0.1.0
 PRROC 1.4
 pRSR 3.1.1
 prt 0.2.1
@@ -17294,6 +17302,7 @@ PSsurvival 0.2.1
 Pstat 1.2
 PSTR 2.0.0
 PStrata 1.0.1
+pstratreg 1.0.2
 psvd 1.1-0
 psvmSDR 3.0.1
 psvr 0.1.0
@@ -18619,7 +18628,7 @@ regexSelect 1.0.0
 regextable 0.1.1
 reghelper 1.1.2
 RegimeChange 0.1.1
-regional 0.4.4
+regional 0.5.1
 RegionalConsistency 1.0.0
 regioncode 0.2.1
 regions 0.1.8
@@ -20162,6 +20171,7 @@ s2net 1.0.7
 s3 1.1.0
 s3.resourcer 1.1.2
 s3fs 0.1.7
+s3pe 0.3.0
 S3VS 1.1
 S4DM 0.0.2
 S7 0.2.2
@@ -20629,6 +20639,7 @@ SEAHORS 1.9.0
 seairmobility 0.1.0
 sealasso 0.1-3
 sealeveltools 0.3.0
+seam 0.1.0
 searchAnalyzeR 0.1.0
 searcher 0.0.7
 searchlight 0.1.0
@@ -21371,7 +21382,7 @@ SimTOST 1.1.0
 simtrait 1.1.3
 simtrial 1.1.0
 simts 0.2.4
-simtte 1.0.2
+simtte 2.0.0
 simuclustfactor 0.0.3
 simukde 1.3.0
 simulab 0.4.10
@@ -23350,6 +23361,7 @@ TestGenerator 0.8.0
 TestIndVars 0.1.0
 TestingSimilarity 1.1
 testit 1.3
+testmath 0.1.0
 TestNet 1.0
 TestREnlme 0.1.0
 TestScorer 1.7.2
@@ -23594,7 +23606,7 @@ TidyPanel 0.1.2
 tidyplate 2.2.0
 tidyplots 0.4.0
 tidyplus 0.2.1
-tidypopgen 0.4.4
+tidypopgen 1.0.0
 tidyposterior 1.1.0
 tidypredict 1.2.2
 tidyprf 0.2.0
@@ -23679,6 +23691,7 @@ timereg 2.0.7
 timeROC 0.4.1
 timeSeries 4052.112
 timeSeriesDataSets 0.1.0
+timesift 0.6.1
 timetk 2.9.1
 timetools 1.15.5
 TimeTraits 1.1.0
@@ -25522,7 +25535,7 @@ yaleBraille 0.2.3
 YaleToolkit 4.2.3
 yaml 2.3.12
 yaml12 0.2.0
-yamlet 1.4.0
+yamlet 1.5.0
 yamlme 0.1.2
 YangHuiMagic 1.1
 yardstick 1.4.0

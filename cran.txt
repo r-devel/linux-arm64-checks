@@ -5095,7 +5095,7 @@ DGP4LCF 1.0.0.1
 dgpsi 2.6.0
 dgraphs 0.2.0
 dgtf 0.1.0
-DHARMa 0.5.0
+DHARMa 0.5.1
 DHBins 1.1
 dhga 0.1
 dhglm 2.0

@@ -8487,7 +8487,7 @@ ggbuildr 0.1.0
 ggchangepoint 0.7.0
 ggcharts 0.2.1
 ggChernoff 0.3.0
-ggCheysson 1.1.0
+ggCheysson 1.2.0
 ggChinaFlag 1.0.0
 ggchord 0.16.6
 ggchord2 0.0.1
@@ -18807,7 +18807,7 @@ reslr 0.2.0
 resmush 1.0.3
 resourcecode 0.5.5
 resourcecodedata 1.0.0
-resourcer 1.5.1
+resourcer 1.5.2
 ResourceSelection 0.3-6
 ResPBIBD 0.1.0
 RespirAnalyzer 1.0.2
@@ -19306,7 +19306,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
-rmoriebricklayer 1.0.4
+rmoriebricklayer 1.1.0
 rmoriedata 0.4.1
 rMosaic 0.2.0
 Rmosek 1.3.5
@@ -20873,7 +20873,7 @@ settings 0.2.7
 settingsSync 3.0.2
 setweaver 1.0.0
 setwidth 1.1.0
-Seurat 5.6.0
+Seurat 6.0.0
 SeuratExplorer 0.1.8
 SeuratObject 5.4.0
 sevenbridges2 0.4.0
@@ -22326,7 +22326,7 @@ st 1.2.7
 sta 0.1.7
 staat1cho 0.2.0
 stabiliser 1.0.7
-stability 0.6.0
+stability 1.0.0
 StabilityApp 0.1.0
 StabilizedRegression 1.1
 stabilo 0.1.1

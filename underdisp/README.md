@@ -1,6 +1,6 @@
 # underdisp 0.2.0
 
-Latest run: 2026-11-04: https://github.com/r-devel/linux-arm64-checks/actions/runs/41927779544
+Latest run: 2026-11-08: https://github.com/r-devel/linux-arm64-checks/actions/runs/42445198163
 
 ```
 Package: underdisp

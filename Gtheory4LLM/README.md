@@ -1,6 +1,6 @@
 # Gtheory4LLM 1.0.0
 
-Latest run: 2026-11-02: https://github.com/r-devel/linux-arm64-checks/actions/runs/41395762912
+Latest run: 2026-11-08: https://github.com/r-devel/linux-arm64-checks/actions/runs/42442836777
 
 ```
 Package: Gtheory4LLM

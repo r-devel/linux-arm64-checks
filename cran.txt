@@ -4518,7 +4518,7 @@ dabestr 2025.3.15
 dabr 0.0.4
 dacc 0.0-7
 DACF 1.1.0
-DACT 1.0.0
+DACT 1.0.4
 dad 4.1.6
 dadjoke 1.0
 dadjokeapi 1.0.2
@@ -6774,7 +6774,7 @@ explore 1.4.0
 exploreR 0.1
 ExploreTheData 0.1.0
 expm 1.0-1
-expoquimR 0.1.0
+expoquimR 0.2.0
 export 0.3.3
 ExPosition 2.11.0
 ExposR 1.2
@@ -8397,7 +8397,7 @@ gepaf 0.2.0
 GephiForR 0.1.1
 geppe 1.1
 gerbil 0.1.9
-gerda 0.8.1
+gerda 0.8.2
 gerefer 0.1.4
 GerminaR 2.1.7
 germinationmetrics 0.1.10
@@ -9748,7 +9748,7 @@ heuristica 1.0.3
 hexbin 1.28.6
 hexDensity 1.4.11
 hexfont 1.0.0
-hexify 0.9.0
+hexify 0.9.1
 hexsession 0.1.0
 hexSticker 0.5.1
 HextractoR 1.4
@@ -10234,7 +10234,7 @@ icr 0.6.6
 ICS 1.4-2
 ICSClust 0.1.1
 ICSKAT 0.3.0
-ICSNP 1.1-3
+ICSNP 1.2-0
 ICSOutlier 0.4-1
 ICSS 1.1
 ICSShiny 0.6
@@ -12839,7 +12839,7 @@ meifly 0.3.1
 mekko 0.1.0
 melidosData 1.0.6
 mellio 1.1.0
-melodi 1.2.0
+melodi 1.2.1
 melt 1.11.4
 meltt 0.4.3
 mem 2.19
@@ -12892,7 +12892,6 @@ metabias 0.1.1
 metaBLUE 1.0.0
 metaBMA 0.6.9
 metaboData 0.6.4
-metabodecon 1.6.2
 metabodeconplus 0.22.4
 MetabolAnalyze 1.3.1
 metabolic 0.1.2
@@ -13841,7 +13840,7 @@ Mqrcm 1.3
 mqriskR 0.1.1
 mr.mashr 0.3.44
 mr.pivw 0.1.1
-MR.RGM 0.1.1
+MR.RGM 0.1.3
 MRAM 1.0.1
 mrangr 1.0.2
 mrap 1.0.1
@@ -15684,7 +15683,7 @@ pairwise 0.6.4-0
 pairwiseCI 0.1-27
 pairwiseLLM 1.3.1
 paisaje 0.3.0
-pak 0.11.1
+pak 0.11.2
 PakPC2017 1.0.0
 PakPC2023 0.2.0
 PakPMICS2014HL 0.1.1
@@ -15842,7 +15841,7 @@ parttime 0.1.2
 parttree 0.1.3
 party 1.3-23
 partycoloR 0.2.0
-partykit 1.3-1
+partykit 1.3-2
 parzer 0.5.0
 pasadr 1.0
 pass.lme 0.9.0
@@ -16309,7 +16308,7 @@ phyclust 0.1-34
 phyext2 0.0.4
 phylepic 0.3.0
 phylin 2.0.2
-phyloatlas 0.1.0
+phyloatlas 0.1.1
 phylobase 0.8.12
 phylocanvas 0.1.3
 phylocomr 0.3.4
@@ -16636,7 +16635,7 @@ pnotp 0.1.0
 PNSIBGE 0.2.1
 PnT 0.1.0
 PNWColors 0.1.0
-pobecu 0.2.0
+pobecu 0.3.0
 pocrm 0.13
 POD 1.2.0
 PoDBAY 1.4.3
@@ -17818,7 +17817,7 @@ r4subrisk 0.1.0
 r4subscore 0.1.0
 r4subtrace 0.1.0
 R4VN 1.6
-r5r 2.4.0
+r5r 2.5.0
 r5rgui 0.2.0
 R6 2.6.1
 R62S3 1.4.1
@@ -19449,7 +19448,7 @@ robRatio 0.1.0
 robreg3S 0.3-1
 robregcc 1.1
 RobRegression 0.1.0
-RoBSA 1.0.4
+RoBSA 1.1.0
 robscale 0.5.4
 robsel 0.1.0
 robservable 0.2.2
@@ -24301,7 +24300,7 @@ TurtleGraphics 1.0-8
 Tushare 0.1.4
 tutorial.helpers 0.7.0
 tutorizeR 0.4.5
-TUvalues 1.2
+TUvalues 1.3.0
 TUWmodel 1.1-1
 tv 2.0.2
 tvbounds 0.1.1
@@ -25041,7 +25040,7 @@ washr 1.2.0
 WASP 1.4.5
 waspasR 0.1.5
 waspr 1.0.1
-watcher 0.2.1
+watcher 0.2.2
 WaterBalanceR 0.1.22
 waterfalls 1.1.4
 waterYearType 1.0.1

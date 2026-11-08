@@ -409,7 +409,7 @@ AirExposure 1.0
 airGR 1.7.9
 airGRdatasets 0.2.3
 airGRdatassim 0.1.4
-airGRiwrm 0.7.0
+airGRiwrm 0.8.1
 airGRteaching 0.3.8
 aiRly 0.1.0
 AirMonitor 0.4.3
@@ -7453,7 +7453,7 @@ flexord 1.0.0
 FlexParamCurve 1.5-8
 flexpolyline 0.3.0
 FlexReg 1.4.2
-FlexRL 1.0.0
+FlexRL 2.0.0
 flexrsurv 2.0.18
 FlexScan 0.2.2
 flexsdm 1.4.2
@@ -23323,7 +23323,7 @@ tergo 0.1.9
 term 0.4.0
 terminaldigits 0.1.0
 terminalgraphics 0.3.0
-termr 1.0.1
+termr 1.0.2
 tern 0.9.13
 tern.gee 0.1.6
 tern.mmrm 0.3.4

@@ -1,6 +1,6 @@
 # gsDesign2 1.2.0
 
-Latest run: 2026-11-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/41269745403
+Latest run: 2026-11-08: https://github.com/r-devel/linux-arm64-checks/actions/runs/42443835077
 
 ```
 Package: gsDesign2
@@ -16,9 +16,9 @@ ARM64: ERROR
     Testing testit/test-independent-as_rtf.md... OK
     Error: -- Assertion failed: Single analysis --
        x1$analysis$event (LHS) ==>
-        num 280
+       num 280
        ----------
-        num 280
+       num 280
        <== (RHS) u2$Events
        
        Detailed diff (- LHS, + RHS):

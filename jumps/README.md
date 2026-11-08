@@ -1,6 +1,6 @@
 # jumps 2.0.0
 
-Latest run: 2026-10-30: https://github.com/r-devel/linux-arm64-checks/actions/runs/41069575385
+Latest run: 2026-11-08: https://github.com/r-devel/linux-arm64-checks/actions/runs/42443966868
 
 ```
 Package: jumps

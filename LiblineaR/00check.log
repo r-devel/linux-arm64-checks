@@ -1,0 +1,90 @@
+* using log directory ‘/__w/linux-arm64-checks/linux-arm64-checks/LiblineaR.Rcheck’
+* using R version 4.6.2 (2026-10-29)
+* using platform: aarch64-unknown-linux-gnu
+* R was compiled by
+    aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+* running under: Ubuntu 26.04.1 LTS
+* using session charset: UTF-8
+* current time: 2026-11-08 11:13:57 UTC
+* using options ‘--no-manual --no-vignettes’
+* checking for file ‘LiblineaR/DESCRIPTION’ ... OK
+* this is package ‘LiblineaR’ version ‘2.50-1’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘LiblineaR’ can be installed ... OK
+* used C compiler: ‘aarch64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+* used C++ compiler: ‘aarch64-linux-gnu-g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0’
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking ‘build’ directory ... OK
+* checking DESCRIPTION meta-information ... OK
+* checking top-level files ... OK
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking code files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking loading without being on the library search path ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking line endings in C/C++/Fortran sources/headers ... OK
+* checking line endings in Makefiles ... OK
+* checking compilation flags in Makevars ... OK
+* checking for GNU extensions in Makefiles ... OK
+* checking for portable use of $(BLAS_LIBS) and $(LAPACK_LIBS) ... OK
+* checking use of PKG_*FLAGS in Makefiles ... OK
+* checking compiled code ... INFO
+Note: information on .o files is not available
+* checking installed files from ‘inst/doc’ ... OK
+* checking files in ‘vignettes’ ... OK
+* checking examples ... OK
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... ERROR
+  Running ‘testthat.R’
+Running the tests in ‘tests/testthat.R’ failed.
+Last 13 lines of output:
+  - actual[7, ]     2.1013190  2.46801166 -7.6955939
+  + expected[7, ]   2.1612050 -0.59837205 -7.7304402
+  - actual[8, ]     1.8311734  2.36807952 -7.4729769
+  + expected[8, ]   1.8912765 -0.59268294 -7.5089902
+  - actual[9, ]     2.2211633  2.19953868 -6.6690286
+  + expected[9, ]   2.2807850 -0.73698152 -6.7180692
+  - actual[10, ]    2.1303098  2.57519928 -8.0728386
+  + expected[10, ]  2.1910330 -0.57390537 -8.1038890
+  and 50 more ...
+  
+  
+  [ FAIL 9 | WARN 0 | SKIP 1 | PASS 2153 ]
+  Error:
+  ! Test failures.
+  Execution halted
+* checking for unstated dependencies in vignettes ... OK
+* checking package vignettes ... OK
+* checking running R code from vignettes ... SKIPPED
+* checking re-building of vignette outputs ... SKIPPED
+* DONE
+Status: 1 ERROR

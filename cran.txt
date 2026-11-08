@@ -6471,7 +6471,7 @@ EQUALencrypt 0.1.0
 EQUALPrognosis 0.1.3
 EQUALrepeat 0.4.5
 EQUALSTATS 0.5.1
-equatags 0.2.2
+equatags 0.3.0
 equate 2.0.9
 equateIRT 2.5.2
 equateMultiple 1.2.0
@@ -16198,7 +16198,7 @@ pgam 0.4.17
 PGaovR 0.1.1
 pgdraw 1.1
 pgee.mixed 0.1.0
-pgenlibr 0.7.0
+pgenlibr 0.7.1
 pgirmess 2.0.3
 pgKDEsphere 1.0.2
 pglm 0.2-4

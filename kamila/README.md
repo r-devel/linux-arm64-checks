@@ -1,6 +1,6 @@
 # kamila 0.2.0
 
-Latest run: 2026-11-01: https://github.com/r-devel/linux-arm64-checks/actions/runs/41270080858
+Latest run: 2026-11-08: https://github.com/r-devel/linux-arm64-checks/actions/runs/42444036766
 
 ```
 Package: kamila

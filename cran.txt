@@ -3108,7 +3108,7 @@ CIPerm 0.2.3
 cipheR 1.0.0
 ciphertext 0.1.1
 CIpostSelect 0.2.2
-cir 2.5.1
+cir 2.5.2
 circacompare 0.2.0
 CircaCP 0.1.2
 circda 1.1
@@ -7172,7 +7172,7 @@ feasts 0.5.0
 featdelta 0.1.0
 featForge 0.1.2
 feather 0.4.0
-featR 0.1.0
+featR 0.2.0
 feature 1.2.16
 featureCorMatrix 0.4.0
 FeatureExtraction 3.14.0
@@ -23536,7 +23536,7 @@ TideHarmonics 0.1-1
 Tides 2.1.1
 TideTables 0.0.3
 tidier 0.3.0
-tidyactuarial 0.2.0
+tidyactuarial 0.2.1
 tidyAML 0.0.8
 tidyaudit 0.2.1
 tidybayes 3.0.7

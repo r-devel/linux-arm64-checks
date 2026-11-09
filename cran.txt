@@ -1896,7 +1896,7 @@ birdnetR 0.3.2
 birdring 1.6
 birdscanR 0.3.0
 birk 2.1.2
-birp 0.9.1
+birp 0.9.2
 birtr 1.0.0
 BIS 0.4
 biscale 1.1.0

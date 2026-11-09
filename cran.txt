@@ -1240,7 +1240,7 @@ basepenguins 0.1.0
 baseq 0.2.0
 baserater 0.1.2
 bases 0.2.1
-BaseSet 1.0.0
+BaseSet 1.0.1
 basetable 1.4.2
 BaseTempSeed 0.1.0
 basetheme 0.1.3
@@ -1362,7 +1362,7 @@ BayesLN 0.2.12
 BayesLogit 2.4
 bayeslongitudinal 0.1.0
 bayesm 3.1-7
-BayesMallows 2.2.7
+BayesMallows 2.3.0
 BayesMallowsSMC2 0.3.0
 bayesMeanScale 0.2.2
 bayesmeta 3.5
@@ -1980,7 +1980,7 @@ blockmatrix 1.0
 BlockMissingData 0.1.1
 blockmodeling 1.1.8
 BlockmodelingGUI 1.8.4
-blockmodels 1.1.5
+blockmodels 1.2.1
 blockr 0.1.0
 blockr.core 0.1.3
 blockr.dag 0.1.5
@@ -2179,7 +2179,7 @@ bpAcc 0.0-3
 bpbounds 0.1.8
 bpca 1.5-0
 bpcp 1.5.5
-bpDir 0.1.2
+bpDir 0.2.6
 bpgmm 1.3.1
 bplsr 1.0.5
 BPM 1.0.0
@@ -5398,7 +5398,7 @@ dlr 1.0.1
 dlstats 0.1.8
 dm 1.1.2
 dma 1.4-2
-dmai 0.5.0
+dmai 1.0.0
 DMAR 1.0.0
 dmbc 1.0.3
 DMCfun 4.0.1
@@ -13097,7 +13097,7 @@ mHG 1.1
 mHMMbayes 1.1.1
 mhn 0.1.2
 Mhorseshoe 0.1.5
-mhpfilter 0.1.0
+mhpfilter 1.0.0
 MHQoL 0.14.0
 mhsmm 0.4.21
 MHTdiscrete 1.0.1
@@ -18906,7 +18906,7 @@ Rfactor 0.2.0
 rfacts 0.2.1
 RFAE 0.1.0
 rfair 0.2.0
-rFAMS 0.0.3
+rFAMS 0.0.4
 rfars 2.0.4
 Rfast 2.1.5.2
 Rfast2 0.1.5.6
@@ -25155,7 +25155,7 @@ webuse 0.1.3
 webutils 1.2.3
 wec 0.4-1
 weed 1.1.2
-wefnexus 1.0.0
+wefnexus 1.1.0
 WEGE 0.1.0
 wehoop 3.0.0
 WeibullModiAMR 0.1.0
@@ -25339,7 +25339,7 @@ worldbank 0.11.0
 WorldFlora 1.14-5
 worldfootballR 0.6.2
 WorldMapR 1.3.0
-worldmet 1.1.0
+worldmet 1.2.0
 worrms 0.4.3
 worrrd 0.1.0
 wosr 0.3.0

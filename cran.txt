@@ -896,7 +896,7 @@ ASMap 1.1-0
 ASMbook 1.0.2
 asmbPLS 1.0.0
 ASmiR 0.1.1
-ASML 1.1.0
+ASML 1.1.1
 asnipe 1.1.17
 aspace 4.1.2
 aspect 1.0-7
@@ -17811,7 +17811,7 @@ r4ds.tutorials 0.3.3
 R4GoodPersonalFinances 1.2.0
 r4googleads 0.1.1
 R4HCR 0.1
-r4lineups 2.3.0
+r4lineups 2.3.1
 r4pde 0.2.2
 r4ss 1.44.1
 r4sub 0.1.0
@@ -18075,7 +18075,7 @@ Rato 0.1.0
 rATTAINS 1.2.0
 rattle 5.6.2
 Ravages 1.2.0
-ravecore 0.1.1
+ravecore 1.0.0
 ravel 0.1.4
 ravelRy 0.1.0
 raven.rdf 0.2.0
@@ -21709,7 +21709,7 @@ SOAR 1.0-1
 SOAs 1.4-1
 sobol 1.0.0
 Sobol4R 0.4.0
-sobolnp 0.1.0
+sobolnp 0.2.0
 soc.ca 0.8.2
 socceR 0.1.1
 social 1.0

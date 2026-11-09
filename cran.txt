@@ -11400,7 +11400,7 @@ kssa 0.0.5
 kst 0.5-6
 kStatistics 2.1.1
 kstIO 0.6-0
-kstMatrix 3.0-0
+kstMatrix 3.0-1
 ktaucenters 1.0.0
 KTensorGraphs 1.1
 ktsolve 1.4

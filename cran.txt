@@ -847,7 +847,7 @@ arrangements 1.1.10
 arrApply 2.2.1
 arrayhelpers 1.1-2
 arrg 0.2.0
-arrow 26.0.0
+arrow 26.0.1
 arrowheadr 1.0.2
 ars 0.8
 arsenal 3.7.4
@@ -1447,7 +1447,7 @@ BayLum 0.3.3
 bayMDS 2.1
 baymedr 0.2
 bayou 2.3.2
-bayprior 0.5.0
+bayprior 0.6.0
 baystability 0.2.0
 BAYSTAR 0.2-10
 baytaAAR 1.0.3
@@ -4517,7 +4517,7 @@ DAAGbio 0.63-4
 daarem 0.7
 dabestr 2025.3.15
 dabr 0.0.4
-dacc 0.0-7
+dacc 0.1.0
 DACF 1.1.0
 DACT 1.0.4
 dad 4.1.6
@@ -6554,7 +6554,7 @@ esmprep 0.2.0
 esmtools 1.0.1
 espadon 1.11.5
 esquisse 2.1.0
-esreg 0.6.2
+esreg 0.6.3
 ess 1.1.2.1
 essential8 0.2.0
 essentialstools 0.1.8
@@ -7960,7 +7960,7 @@ fxl 1.7.3
 fxregime 1.0-5
 fxTWAPLS 0.1.3
 fy 0.4.2
-fz 1.2.0
+fz 2.0.0
 g.data 2.4.1
 g.ridge 1.0
 G2Sd 2.2
@@ -8802,7 +8802,7 @@ ginormal 0.0.2
 GInSARCorW 1.15.8
 gIPFrm 3.1
 GIplot 0.1.0
-gips 1.3.0
+gips 1.3.1
 gipsDA 1.0.0
 GiRaF 1.0.2
 giscoR 1.3.0
@@ -10870,7 +10870,7 @@ isopam 3.7
 isopleuros 1.4.0
 IsoplotR 7.1
 IsoplotRgui 7.1
-isoreader2 0.7.0
+isoreader2 0.7.1
 IsoriX 0.9.4
 IsoSpecR 2.3.3
 isoSurv 0.3.0
@@ -11773,7 +11773,7 @@ libdeflate 1.25-0
 libgeos 3.11.1-3
 libimath 3.2.2-1
 libipldr 0.1.1
-LiblineaR 2.50-1
+LiblineaR 2.50-2
 libopenexr 3.4.12-6
 libr 1.4.2
 Libra 1.7
@@ -12394,7 +12394,7 @@ manydata 1.1.4
 manydist 0.5.1
 ManyIVsNets 0.1.1
 manymodelr 0.4.0
-manymome 0.3.7
+manymome 0.3.8
 manymome.table 0.4.1
 manynet 2.4.0
 manystates 1.0.3
@@ -17722,7 +17722,7 @@ quickpsy 0.1.5.2
 quickPWCR 1.2
 quickr 0.3.0
 quickregression 0.2
-quickSentiment 0.3.6
+quickSentiment 0.3.7
 quicopt 0.1.1
 QuICSeedR 0.1.2
 quid 0.0.1

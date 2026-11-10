@@ -14908,7 +14908,7 @@ np 0.80-1
 npANCOVA 0.2.0
 nparACT 0.9.1
 nparcomp 3.0
-nparLD 2.3.3
+nparLD 2.3.4
 nparMD 0.2.3
 nparsurv 0.1.0
 NPBayesImputeCat 0.7

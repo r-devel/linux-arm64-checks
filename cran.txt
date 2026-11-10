@@ -24810,7 +24810,7 @@ versions 0.3
 versionsort 1.1.0
 versus 0.3.1
 VertexSimilarity 0.1
-VertexWiseR 1.5.5
+VertexWiseR 1.6.0
 VeryLargeIntegers 0.2.1
 vetiver 0.2.8
 vetr 0.2.22

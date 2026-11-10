@@ -11925,7 +11925,7 @@ ljr 1.4-0
 LKT 1.7.0
 llama 0.10.1
 llamaR 0.2.6
-llm.api 0.1.9
+llm.api 0.2.0
 LLMAgentR 0.3.2
 llmclean 0.1.1
 llmcoder 1.2.0
@@ -14440,7 +14440,7 @@ neat 1.2.4
 neatmaps 2.1.0
 neatR 0.3.0
 neatRanges 0.1.4
-nebula 1.5.8
+nebula 1.5.9
 Necklaces 1.1
 necountries 0.1-1
 needenv 0.1.0

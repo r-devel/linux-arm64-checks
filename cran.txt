@@ -2899,7 +2899,7 @@ cfda 0.12.1
 cfdecomp 0.4.0
 CFF 1.0
 cffdrs 1.9.2
-cffr 1.4.2
+cffr 1.4.3
 cfid 0.1.8
 CFilt 1.0.1
 CFM 0.8.0
@@ -7072,7 +7072,7 @@ FastUtils 0.2.1
 fastverse 0.3.4
 fastVoteR 0.0.3
 fastWavelets 1.0.1
-fastymd 0.1.5
+fastymd 0.2.0
 fat2Lpoly 1.2.6
 FateID 0.2.2
 FatTailsR 2.0.1
@@ -7859,7 +7859,7 @@ funbiogeo 0.0.1
 funbootband 0.3.0
 func2vis 1.0-3
 FuncDiv 1.0.0
-funcharts 1.8.1
+funcharts 1.8.2
 funchir 0.3.0-1
 FunChisq 2.5.4
 funcMapper 1.0.2
@@ -18596,7 +18596,7 @@ rEDM 2.0.2
 redoc 2.0.0.75
 redquack 0.3.0
 redux 1.1.5
-reems 0.1.0
+reems 0.1.1
 REEMtree 0.90.6
 ref.ICAR 2.0.2
 REFA 0.2.0
@@ -19906,7 +19906,7 @@ rSPARCS 0.1.1
 rsparkling 0.2.19
 rsparse 0.5.3
 Rspc 1.2.2
-rSPDE 2.6.0
+rSPDE 2.7.0
 rspdlite 0.1.0-1
 RSpectra 0.16-2
 rSpectral 1.0.0.16

@@ -3090,7 +3090,7 @@ CIEE 0.1.1
 cif 0.1.1
 CIfinder 2.0.0
 ciflyr 0.1.2
-cifmodeling 1.0.0
+cifmodeling 1.2.3
 cifti 0.5.0
 ciftiTools 0.21.1
 CIM 1.0.0
@@ -3951,7 +3951,7 @@ cordillera 1.0-3
 CORE 3.2
 coreCT 1.3.3
 coreheat 0.3.2
-corehunter 3.2.3
+corehunter 3.2.4
 corella 0.1.4
 corels 0.0.6
 CoreMicrobiomeR 0.1.0
@@ -5129,7 +5129,7 @@ DiagrammeRsvg 0.1
 DiallelAnalysisR 1.0.0
 dialr 0.4.2
 dialrjars 9.0.21
-dials 1.4.4
+dials 1.4.5
 diaplt 1.4.0
 diario 0.1.2
 diathor 0.1.5
@@ -7976,7 +7976,7 @@ GACE 1.0.0
 GACFF 1.0
 GAD 2.0
 GADAG 0.99.1
-gadget3 0.15-1
+gadget3 1.0-0
 gadjid 0.1.0
 GAGAs 0.6.2
 GAGBLUP 1.0
@@ -8553,7 +8553,7 @@ ggfootball 0.3.0
 ggforce 0.5.0
 ggforestplotR 0.6.0
 ggformula 2.0.0
-ggfortify 0.4.24
+ggfortify 0.4.25
 ggfoundry 0.4.0
 ggfourfold 0.1.0
 ggfun 0.2.2
@@ -8956,7 +8956,7 @@ glymotif 1.0.1
 glyospalettes 0.3.0
 glyparse 1.0.1
 glyph 0.2.0
-glyrepr 1.2.0
+glyrepr 1.2.1
 gm 2.0.0
 GMAC 3.2
 gmailr 3.0.0
@@ -9213,7 +9213,7 @@ graposas 1.0.0
 grasps 0.1.2
 grassr 0.8.0
 grateful 0.3.1
-grates 1.8.0
+grates 1.8.1
 gratia 0.11.2
 graticule 0.4.0
 gratis 1.0.8
@@ -10349,7 +10349,6 @@ iheiddown 0.9.9
 ihpdr 1.2.1
 IHSEP 0.3.1
 ihsMW 1.1.1
-iimi 1.2.2
 iIneq 1.0.2
 IIProductionUnknown 0.0.3
 IIS 1.1
@@ -11376,7 +11375,7 @@ KrakenR 1.0.0
 KraljicMatrix 0.2.1
 krige 0.6.2
 kriging 1.2
-KrigInv 1.4.2
+KrigInv 1.4.3
 krippendorffsalpha 2.0-3
 KRIS 1.1.6
 KRLS 1.7-1
@@ -13516,7 +13515,6 @@ mlsurvlrnrs 0.0.8
 mlt 1.8-4
 mlt.docreg 1.1-15
 mltest 1.0.3
-mltools 0.3.5
 mlts 2.0.1
 mlumr 0.2.0
 mlVAR 0.7.3
@@ -17114,7 +17112,6 @@ ProcessCapabilityR 0.1.0
 processcheckR 0.1.5
 processmapR 0.5.8
 processmonitR 0.1.0
-processpredictR 0.1.1
 processx 3.9.0
 proclhmm 1.0.1
 procmaps 0.0.5
@@ -19314,7 +19311,6 @@ rmfanova 0.1.0
 RMFM 1.1.0
 Rmfrac 1.0.0
 rmgarch 1.4-3
-rMIDAS 1.0.1
 rMIDAS2 0.2.0
 rminer 1.5.0
 rminqa 0.3.1
@@ -21533,7 +21529,6 @@ SLHD 2.1-1
 SLIC 0.3
 SlicedLHD 1.0
 Slick 1.0.2
-SlideCNA 0.1.0
 slideimp 1.2.0
 slider 0.3.3
 slideview 0.2.1
@@ -24089,7 +24084,7 @@ trendtestR 1.0.1
 TrendTM 2.0.21
 Trendtwosub 0.0.2
 trendyy 0.1.1
-TRexSelector 2.0.0
+TRexSelector 2.0.1
 Tri.Hierarchical.IBDs 1.0.0
 triact 0.3.1
 TriadSim 0.3.1
@@ -25450,7 +25445,7 @@ xegaMigration 0.5.0.4
 xegaPermGene 1.0.0.2
 xegaPopulation 1.0.0.16
 xegaSelectGene 1.0.0.4
-xemd 0.1.5
+xemd 0.1.6
 xergm.common 1.7.8
 xesreadR 0.2.3
 xfun 0.62

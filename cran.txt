@@ -568,7 +568,7 @@ amVennDiagram5 1.0.0
 anabel 3.0.2
 Anaconda 0.1.5
 anacor 1.1-5
-Analitica 2.4.0
+Analitica 2.4.1
 analogsea 1.0.7.2
 analogue 0.18.1
 AnalyzeFMRI 1.1-26
@@ -6317,7 +6317,7 @@ EngrExpt 0.1-8
 enhancedTtest 0.1.0
 enhancer 1.1.2
 ENMeval 2.0.6
-enmpa 0.2.5
+enmpa 0.2.6
 enmSdmX 1.2.12
 ENMTools 1.1.5
 enpls 6.1.1
@@ -7009,7 +7009,7 @@ fastgbm 0.7.0
 fastgeojson 0.3.0
 fastGHQuad 1.0.1
 fastGLCM 1.0.3
-fastglm 0.1.3
+fastglm 0.1.4
 fastglmpca 0.1-108
 FastGP 1.5
 fastGraph 2.1
@@ -8896,7 +8896,7 @@ glmmLasso 1.6.4
 glmmML 1.1.7
 glmmPen 1.5.4.8
 glmmrBase 1.4.1
-glmmrOptim 0.5.1
+glmmrOptim 0.5.2
 GLMMRR 0.6.0
 glmmsel 1.0.3
 GLMMselect 1.2.0
@@ -22127,7 +22127,7 @@ splash 1.0.2
 spldv 0.1.3
 SPLICE 1.1.2
 splikit 2.3.1
-splineCox 0.0.8
+splineCox 0.0.9
 splinemixmeta 1.0.1
 splineplot 0.3.0
 splines2 0.5.4
@@ -24494,7 +24494,7 @@ uniformly 0.5.0
 unifyR 1.0.0
 unigd 0.2.0
 UniIS 0.1.0
-unikn 1.0.0
+unikn 1.1.0
 uniLasso 2.11
 UniLindleyApprox 0.1.0
 UniprotR 2.5.1

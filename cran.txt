@@ -3959,7 +3959,7 @@ coreNLP 0.4-3
 Coreset 1.0.0
 coreSim 0.2.4
 coresynth 1.0.1
-coreval 0.3.0
+coreval 0.4.0
 corHMM 2.8
 corkscrew 1.1
 corlink 1.0.0
@@ -6658,7 +6658,7 @@ eventstudyr 1.2.1
 eventTrack 1.0.4
 EventWinRatios 1.0.0
 evesim 1.0.0
-evgam 1.0.2
+evgam 1.0.3
 evgmrf 0.1.0
 EVI 0.2.0-0
 evidenceFactors 1.8
@@ -21194,7 +21194,7 @@ showtext 0.9-8
 showtextdb 3.0
 shp2graph 1-0
 SHRED 1.0.0
-shrink 1.2.3
+shrink 1.2.4
 ShrinkageTrees 2.1.0
 ShrinkCovMat 2.1.0
 shrinkDSM 1.0.2

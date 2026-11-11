@@ -6204,7 +6204,7 @@ ElliptCopulas 0.1.4.1
 elliptic 1.5-1
 ellipticalsymmetry 0.1.2
 ellmer 0.5.2
-ellmercodex 0.2.0
+ellmercodex 0.2.1
 ELmethodVar 0.1
 elmNNRcpp 1.0.5
 eLNNpairedCov 0.3.2

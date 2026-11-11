@@ -11863,7 +11863,7 @@ lingamr 0.1.2
 lingdist 1.0
 lingglosses 0.0.11
 lingmatch 1.0.7
-lingtypology 1.1.26
+lingtypology 1.1.27
 linguisticsdown 1.2.0
 link 2024.4.0
 link2GI 0.7-2
@@ -20374,7 +20374,7 @@ savonliquide 0.2.0
 savvyGLM 0.1.4
 savvyPR 0.1.2
 savvyr 0.1.2
-savvySh 0.1.1
+savvySh 0.1.2
 sawnuti 0.1.1
 saws 0.9-7.0
 saydo 0.1.0

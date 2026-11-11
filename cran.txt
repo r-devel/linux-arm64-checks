@@ -312,7 +312,7 @@ afthd 1.1.0
 aftPenCDA 0.1.1
 aftR2 0.1.0
 aftsem 1.0
-afttest 4.6.1
+afttest 4.6.2
 ag5Tools 0.0.3
 AGBQR 0.1.0
 AGCA4extremes 0.1.0
@@ -5366,7 +5366,7 @@ diversitree 0.10-1
 diversityArch 0.4.0
 DiversityStats 0.1.0
 divest 1.2.0
-DIVINE 0.1.2
+DIVINE 0.1.3
 divo 1.0.2
 divoRce 1.0-2
 divraster 1.2.3
@@ -11474,7 +11474,7 @@ LaF 0.8.6
 lagdynamics 0.32
 lagged 0.3.2
 LAGOSNE 2.0.5
-LAGOtrials 1.1.1
+LAGOtrials 1.2.0
 laGP 1.5-10
 lagsarlmtree 1.0-2
 LagSequential 0.1.1
@@ -18207,7 +18207,7 @@ RchivalTag 0.2.2
 Rchoice 0.3-6
 rChoiceDialogs 1.0.6.1
 rchroma 0.2.0
-rcicr 1.5.0
+rcicr 1.6.1
 rciplot 0.1.1
 RCircos 1.2.2
 rCISSVAE 0.0.5
@@ -22304,7 +22304,7 @@ SSDM 0.2.11
 sSDR 1.2.0
 ssdtools 2.7.0
 ssebiEF 1.0.1
-ssel 0.5.1
+ssel 0.5.2
 SSEparser 0.1.0
 ssev 0.1.0
 ssfa 1.2.3
@@ -24195,7 +24195,7 @@ TSE 0.1.0
 TSEAL 0.1.5
 tseffects 0.4.1
 TSEind 0.1.0
-tseLCA 2.1.1
+tseLCA 2.1.2
 tsensembler 0.1.0
 tsentiment 1.0.5
 TSEntropies 0.9

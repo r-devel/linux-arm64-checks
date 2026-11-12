@@ -19344,7 +19344,7 @@ rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
 rmoriebricklayer 1.1.0
-rmoriedata 0.4.1
+rmoriedata 0.4.2
 rMosaic 0.2.0
 Rmosek 1.3.5
 rMOST 1.0.1

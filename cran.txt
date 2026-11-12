@@ -20956,7 +20956,6 @@ SFtools 0.1.0
 sftpR 0.2.0
 sftrack 0.5.5
 sg 0.2.0
-sgapi 1.1.2
 SGB 1.0.1.1
 sGBJ 0.1.1
 sgboost 0.2.0

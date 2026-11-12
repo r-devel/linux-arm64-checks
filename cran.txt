@@ -14123,7 +14123,7 @@ multinet 4.3.4
 multinets 0.2.2
 multinma 0.9.1
 MultiNMix 0.1.0
-MultinomFourier 1.0
+MultinomFourier 1.1.0
 multinomialLogitMix 1.1
 multinomineq 0.2.6
 multIntTestFunc 0.3.0
@@ -16913,7 +16913,7 @@ ppcSpatial 0.3.0
 ppdiag 0.1.1
 ppendemic 0.2.2
 PPforest 0.2.0
-ppforest2 0.1.3
+ppforest2 0.1.4
 ppgam 1.0.2
 ppgm 1.1
 ppgmmga 1.3.1
@@ -19664,7 +19664,7 @@ rosm 0.3.2
 rosmium 0.1.0
 rospca 1.1.1
 rosv 0.5.1
-rotasym 1.3.1
+rotasym 1.4.0
 rotationForest 0.1.3
 rotations 1.6.7
 rotatogram 0.1.3

@@ -13,7 +13,7 @@ abc 2.2.2
 abc.data 1.1
 ABC.RAP 0.9.0
 ABCanalysis 1.2.1
-ABCDscores 7.0.0
+ABCDscores 7.1.0
 abcel 1.0
 abclass 0.5.1
 ABCoptim 0.15.0

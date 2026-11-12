@@ -389,7 +389,7 @@ aIc 1.0
 AICcmodavg 2.3-4
 AID 3.1
 AIDA 0.2.2
-aidatabroker 0.1.0
+aidatabroker 0.2.0
 aiDIF 0.3.0
 aidR 0.2.4
 aieconindex 0.2.0
@@ -398,7 +398,7 @@ aiEvalR 0.1.0
 aifeducation 1.1.6
 AIFFtools 1.0
 AIGENIE 2.1.2
-AIGovernance 0.1.0
+AIGovernance 0.2.0
 AIGRA 0.2.0
 aihuman 1.0.1
 aimsir17 0.0.2
@@ -1141,7 +1141,7 @@ babynamesIL 0.2.3
 babyTimeR 0.1.0
 BACCO 2.1-0
 BacenAPI 0.3.1
-bacenR 0.5.1
+bacenR 0.6.0
 bacistool 1.0.0
 backbone 3.0.4
 backpipe 0.2.3
@@ -1162,6 +1162,7 @@ baffle 0.2.2
 bage 0.10.11
 bagged.outliertrees 1.0.0
 baggingbwsel 1.1
+baggingReserve 0.2.0
 BAGofT 1.0.0
 baguette 1.1.0
 BagWhiskerPlot 0.1.0
@@ -2316,6 +2317,7 @@ BsMD 2023.920
 bsnsing 1.0.1
 bsocialv2 0.2.1
 BSPADATA 1.1.0
+bspam 1.2.6
 BSPBSS 1.0.6
 bspcov 1.0.3
 bspec 1.6
@@ -3625,6 +3627,7 @@ COLP 1.0.0
 cols 1.7
 cols4all 0.10
 colt 0.1.1
+colvR 0.2.1
 comat 0.9.7
 comato 1.1
 COMBAT 0.0.4
@@ -4166,7 +4169,7 @@ cppally 1.2.1
 cppcheckR 1.0.0
 cppcontainers 1.0.5
 cppdoubles 0.4.0
-cppRouting 4.0
+cppRouting 4.1
 cppSim 0.2
 cpr 0.4.1
 cprobit 1.0.2
@@ -4533,7 +4536,7 @@ dae 3.2.35
 daewr 1.2-11
 daff 1.1.1
 dafs 1.0-38
-DAGassist 0.3.0
+DAGassist 0.3.1
 dagHMM 0.1.1
 dagirlite 0.1.0
 dagitty 0.3-4
@@ -4692,7 +4695,7 @@ DateTimeRangePicker 1.1.0
 datetimeutils 0.6-6
 datetoiso 1.2.1
 dateutils 0.1.5
-datey 0.1.2
+datey 0.1.3
 datom 0.2.0
 datoramar 0.1.0
 datos 0.5.1
@@ -4984,7 +4987,7 @@ DEplotting 0.1.0
 depmixS4 1.5-4
 DepMod 0.1.0
 DEPONS2R 1.2.8
-depower 2026.1.30
+depower 2026.11.11
 deprivateR 0.2.0
 deps 0.4.1
 depth.plot 0.1
@@ -5771,7 +5774,8 @@ Durga 2.1.0
 DUToolkit 1.0.3
 dverse 0.2.0
 DVHmetrics 0.4.3
-dvir 3.4.2
+dvir 3.5.1
+dvqcc 0.1.1
 DVS 0.0.1
 DWaveNARDL 0.1.0
 DWBmodelUN 2.0.1
@@ -6641,7 +6645,7 @@ EValue 4.1.4
 evapoRe 1.0.1
 Evapotranspiration 1.16
 evbsreg 1.2.3
-eVCGsampler 1.2.0
+eVCGsampler 1.2.1
 EVchargcost 0.1.0
 evclass 2.0.2
 EvCombR 0.1-4
@@ -7125,6 +7129,7 @@ FCO 2.0.2
 fCopulae 4052.86
 fcp 0.1.0
 FCPS 1.4.3
+fcrci 0.1.0
 fcros 1.6-6
 FCtools 2.3.1
 fctutils 0.0.7
@@ -9079,6 +9084,7 @@ googlePolylines 0.8.7
 googlePublicData 0.16.1
 googlePubsubR 0.0.4
 googler 0.0.1
+googlesecretmanager 0.2.1
 googlesheets4 1.1.3
 googleTagManageR 0.2.0
 googletraffic 0.1.8
@@ -10872,7 +10878,7 @@ isoexplorer 0.5.0
 isogeochem 1.1.1
 isokernel 0.1.0
 IsoMemo 23.10.1
-isoniche 1.0.0
+isoniche 1.1.0
 isoorbi 1.5.2
 isopam 3.7
 isopleuros 1.4.0
@@ -11917,7 +11923,7 @@ litedown 1.0
 liteformats 0.2.0
 liteq 1.2.0
 literanger 0.2.0
-LitFetchR 1.0.0
+LitFetchR 1.1.0
 litReview 1.1.0
 litRiddle 1.0.0
 litteR 1.0.2
@@ -12260,7 +12266,7 @@ lumberjack 1.3.1
 lumbermark 0.9.1
 Luminescence 1.3.1
 lunar 0.2-1
-lupa 0.1.0
+lupa 0.1.1
 lutz 0.3.2
 luz 0.5.2
 luzlogr 0.2.1
@@ -12509,7 +12515,7 @@ marmap 1.0.12
 MARMoT 0.0.4
 marp 0.1.1
 marqLevAlg 2.0.8
-marquee 1.2.1
+marquee 1.3.0
 marradistrees 1.0
 mars 0.2.2
 MARSANNhybrid 0.1.0
@@ -13064,7 +13070,7 @@ MFF 0.2.5
 mfGARCH 0.2.2
 mFilter 0.1-8
 mFLICA 0.1.7
-MFO 0.1.0
+MFO 0.2.1
 mfp 1.5.5.1
 mfp2 1.1.0
 MFPCA 1.3-11
@@ -14881,7 +14887,7 @@ normalblockr 0.3.0
 normaliseR 0.1.2
 normality 0.0.4
 NormalityAssessment 0.1.1
-normalize 0.1.3
+normalize 0.2.0
 normalizeH 1.0.0
 NormalLaplace 0.3-2
 normalp 0.7.2.1
@@ -16815,7 +16821,7 @@ portfolioBacktest 0.4.2
 PortfolioOptim 1.1.1
 PortfolioTesteR 0.1.4
 PortinariColors 0.3.0
-portion 0.1.3
+portion 0.2.0
 portn 1.0.0
 portvine 1.0.3
 posc 0.2.0
@@ -17351,6 +17357,7 @@ PsyControl 1.0.0.0
 PsyLingLLM 0.4.0
 psymetadata 1.0.1
 PsyMetricTools 1.2.4
+PsyML 2.4.2
 psyntur 0.1.1
 psyphy 0.3
 PsyToolkit 1.1.6
@@ -19317,7 +19324,7 @@ RMediation 1.6.1
 RMeDPower2 1.0.2
 rmedsem 1.1.0
 rmerec 0.1.1
-rmet 0.3.0
+rmet 0.4.0
 rmeta 3.0
 rmetalog 1.0.3
 rmfanova 0.1.0
@@ -20900,7 +20907,7 @@ serofoi 1.0.3
 SerolyzeR 1.5.0
 seroreconstruct 1.1.5
 serosv 1.3.0
-SeroTrackR 1.1.1
+SeroTrackR 1.1.2
 serp 0.2.5
 serpstatr 0.5.0
 serrsBayes 0.6-1
@@ -24481,7 +24488,7 @@ uncertR 0.1.3
 uncmbb 0.2.2
 uncorbets 0.1.2
 UNCOVER 1.1.0
-underdisp 0.2.0
+underdisp 0.2.1
 undidR 3.0.2
 undomanager 0.2.0
 unexcel 0.2.0
@@ -24539,7 +24546,7 @@ unjoin 0.1.0
 unmarked 1.5.2
 unmconf 1.0.0
 unnest 0.1
-Uno 2.9.2-1
+Uno 2.9.2-2
 UNPaC 1.2.0
 unpivotr 0.6.4
 UnplanSimon 0.1.0
@@ -25461,7 +25468,7 @@ xegaMigration 0.5.0.4
 xegaPermGene 1.0.0.2
 xegaPopulation 1.0.0.16
 xegaSelectGene 1.0.0.4
-xemd 0.1.6
+xemd 0.1.7
 xergm.common 1.7.8
 xesreadR 0.2.3
 xfun 0.62

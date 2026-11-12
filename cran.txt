@@ -67,7 +67,7 @@ accessrmd 1.0.0
 accmv 0.1.1
 accrual 1.4
 accrualPlot 1.0.10
-AccSamplingDesign 0.1.0
+AccSamplingDesign 0.1.3
 accSDA 1.1.3
 accucor 0.3.1
 accumulate 1.0.0
@@ -175,7 +175,7 @@ ADAPTS 1.0.22
 adaptsmoFMRI 1.2
 adaptTest 1.2
 adaR 0.4.0
-adas.utils 1.4.1
+adas.utils 1.5.0
 AdaSampling 1.3
 adbcdrivermanager 0.25.0
 adbcpostgresql 0.25.0
@@ -6424,7 +6424,7 @@ epiparameterDB 0.1.0
 epiphy 0.5.0
 EpiPvr 0.0.1
 EpiQuestionR 0.1.2
-epiR 3.0.0
+epiR 3.0.1
 EpiReport 1.0.4
 EpiScopeK 0.1.1
 EpiSemble 0.1.1
@@ -7008,7 +7008,7 @@ fastFGEE 0.2.2
 fastFMM 1.0.1
 fastfocal 0.1.3
 FastGaSP 0.6.4
-fastgbm 0.7.0
+fastgbm 0.7.1
 fastgeojson 0.3.0
 fastGHQuad 1.0.1
 fastGLCM 1.0.3
@@ -7522,6 +7522,7 @@ fluidsynth 1.0.4
 fluorojip 0.1.1
 fluoSurv 1.0.0
 fluspect 1.0.0
+FluvialTracer 1.0.0
 fluxCore 2.1.0
 fluxfinder 1.2.2
 fluxfixer 1.1.0
@@ -10935,7 +10936,7 @@ ivcheck 0.1.2
 IVCor 0.1.0
 ivd 1.0.0
 ivdesc 1.1.2
-ivDiag 1.0.8
+ivDiag 1.0.9
 IVDML 1.0.2
 ivdoctr 1.0.1
 ivdtools 0.2.5
@@ -11200,7 +11201,7 @@ kDGLM 1.2.15
 kdml 1.1.1
 kdps 1.0.0
 kdry 0.0.3
-kedd 2.0.0
+kedd 2.0.1
 keep 1.0
 kehra 0.1
 kelvin 2.0-3
@@ -12523,6 +12524,7 @@ mas 0.4
 maSAE 2.0.3
 masc 0.1.0
 mascarade 0.4.3
+mascot 0.1.0
 mase 0.1.5.2
 mashr 0.2.79
 maskedcauses 0.10.0
@@ -13194,6 +13196,7 @@ mig 2.0
 MigConnectivity 0.5.0
 MIGEE 0.1.0
 migest 2.0.6
+mighty.component 0.2.0
 mighty.metadata 0.2.0
 migraph 1.7.2
 migrate 0.5.1
@@ -13530,7 +13533,7 @@ MM2Sdata 1.0.3
 MM4LMM 3.0.3
 mma 10.8-1
 mmabig 3.2-0
-MMAC 1.0
+MMAC 1.1.0
 MMAD 3.0.1
 mmand 1.7.0
 mmap 0.6-26
@@ -13912,6 +13915,7 @@ msaeHB 0.1.0
 msaenet 3.1.2
 msamp 1.0.0
 msaR 0.6.0
+msarima 0.1.0
 MSbox 1.4.8
 MSBStatsData 0.0.2
 MSCA 1.4.0
@@ -15884,6 +15888,7 @@ pathintdid 0.1.0
 pathling 10.0.0
 pathlit 0.1.0
 pathmodelfit 1.0.5
+PathoFMPred 0.1.0
 paths 0.1.2
 pathviewr 1.1.8
 PathwaySpace 1.5.2
@@ -16071,7 +16076,7 @@ pECV 1.0.1
 pedalfast.data 1.0.2
 pedbp 2.1.0
 pedbuildr 0.4.0
-pedFamilias 0.2.6
+pedFamilias 0.3.0
 pedgene 4.1
 pediatric.zcalc 0.1.1
 pedigree 1.4.2
@@ -19221,7 +19226,7 @@ rKIN 1.0.4
 RkMetrics 1.3
 rKolada 0.3.1
 rKOMICS 1.3
-RKorAPClient 1.4.1
+RKorAPClient 1.5.0
 rKraken 1.0.0
 rkriging 1.1.0
 rkt 1.9
@@ -20745,7 +20750,7 @@ SelectBoost.quantile 0.3.1
 selection.index 2.0.1
 SelectionBias 2.1.0
 selectiongain 2.0.710
-SelectionTools 26.5
+SelectionTools 26.5.2
 selectiveInference 1.2.5
 selectMeta 1.0.9
 selectr 0.8-0
@@ -22332,6 +22337,7 @@ ssmodels 2.0.2
 ssmooth 0.1.0
 ssMousetrack 1.1.7
 ssMRCD 2.0.1
+ssMRCT 0.2.0
 ssmrob 1.0
 ssmsn 0.2.0
 ssMutPA 0.1.2
@@ -22579,7 +22585,7 @@ stlnpp 0.5.0
 stlplus 0.5.2
 stlpro 0.1.0
 stlTDNN 0.1.0
-stm 1.3.8
+stm 1.3.10
 stmgp 1.0.4.2
 stmgui 0.1.6
 stminsights 0.4.4
@@ -23424,6 +23430,7 @@ textclassificationtutorial 0.1.2
 textclean 0.9.7
 textdata 0.4.5
 texter 0.1.9
+textileFlame 0.1.0
 textir 2.0-5
 textmineR 3.0.6
 TextMiningGUI 0.3
@@ -25240,7 +25247,7 @@ WhiteStripe 2.5.0
 whitewater 0.1.4
 whoa 0.0.2
 whoami 1.3.0
-whomds 1.1.1
+whomds 1.2.0
 WHORiskCalculator 1.1.0
 wid 0.0.3
 widals 0.6.2
@@ -25680,6 +25687,7 @@ zstd 0.1.1
 ztable 0.2.5
 ztils 1.0.0
 ztpln 0.1.3
+ZTRecur 0.2.1
 zTree 1.0.7
 ztype 0.1.0
 zubin 0.1.0

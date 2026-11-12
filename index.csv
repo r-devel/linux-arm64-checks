@@ -20,7 +20,6 @@ geosmooth,0.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/H
 grates,1.8.1,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/grates
 gsDesign2,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gsDesign2
 hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hdtg
-jumps,2.0.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/jumps
 kamila,0.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/kamila
 memuse,4.2-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/memuse
 mig,2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mig

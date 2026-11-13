@@ -14797,7 +14797,7 @@ NMMIPW 0.1.0
 NMOF 2.12-0
 NMRphasing 1.0.7
 nmrrr 1.0.0
-NMsim 0.2.8
+NMsim 0.3.0
 nmslibR 1.0.7
 NMTox 0.1.0
 NMVANOVA 1.1.0

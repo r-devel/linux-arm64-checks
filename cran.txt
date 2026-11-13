@@ -123,7 +123,7 @@ actiquantiles 0.1.0
 actiread 0.9.0
 actiRhythm 0.1.0
 actisensorlog 0.3.0
-actisomni 0.4.0
+actisomni 0.5.0
 activAnalyzer 2.1.2
 activatr 0.2.1
 ActiveDriver 1.0.0
@@ -1608,7 +1608,7 @@ betaBayes 1.0.1
 BetaBit 2.2
 betacal 0.1.0
 betaclust 1.0.5
-BetaDanish 0.3.0
+BetaDanish 1.0.0
 betaDelta 1.0.7
 betafunctions 2.0.0
 betaMC 1.3.4
@@ -7138,6 +7138,7 @@ fctutils 0.0.7
 fcuk 0.2.0
 FCUSUM 1.1.0
 FCVAR 0.1.4
+fCWTr 0.4.1
 FD 1.0-12.6
 fda 6.3.0
 fda.usc 2.2.0
@@ -9762,7 +9763,7 @@ hett 0.3-3
 hettest 1.0
 hettx 1.0.1
 hetu 1.1.0
-heumilkr 0.3.0
+heumilkr 0.4.0
 heuristica 1.0.3
 hexbin 1.28.6
 hexDensity 1.4.11
@@ -10587,7 +10588,7 @@ inlamemi 1.1.0
 inlaops 0.1.2
 INLAspacetime 0.1.14
 INLAtools 0.1.5
-INLAvaan 0.3.3
+INLAvaan 0.3.4
 inlcolor 1.0.6
 inline 0.3.21
 inlinedocs 2023.9.4
@@ -11473,7 +11474,7 @@ labstats 1.0.1
 LABTNSCPSS 1.0.5
 lacm 0.1.2
 lacrmr 1.0.5
-lactater 0.2.0
+lactater 1.0.0
 LactCurveModels 0.1.5
 lacunarity 0.1.0
 lacunaritycovariance 1.1-9
@@ -15144,7 +15145,7 @@ odbr 0.1.1
 oddnet 0.1.2
 odds.converter 1.4.8
 odds.n.ends 0.1.4
-oddsapiio 0.2.0
+oddsapiio 0.2.1
 oddsapiR 1.0.1
 OddsPlotty 1.0.2
 oddsratio 2.0.2
@@ -17199,7 +17200,7 @@ propagate 1.3-0
 PropCIs 0.3-0
 PropClust 1.4-7
 propensity 0.1.0
-propertee 1.0.6
+propertee 1.0.7
 properties 0.0-9
 prophet 1.1.7
 propop 2.2.1
@@ -18397,7 +18398,7 @@ rd2d 1.0.0
 rd2dnet 0.1.0
 Rd2md 1.0.1
 Rd2roxygen 1.18
-rD3plot 1.1.45
+rD3plot 1.1.71
 rda 1.2-1
 rdacca.hp 1.1-4
 rdaisi 0.1.3
@@ -22338,7 +22339,7 @@ sshicm 0.1.0
 sship 0.9.0
 sshist 0.2.6
 ssifs 1.0.5
-SSIMmap 0.4.0
+SSIMmap 0.4.3
 ssimparser 0.1.2
 ssize.fdr 1.3
 ssizeRNA 1.3.3
@@ -24574,7 +24575,7 @@ updater 0.1.2
 updog 2.1.7
 UpDown 1.2.3
 UPG 0.3.5
-upndown 0.3.0
+upndown 1.0.0
 upset.hp 0.0.6
 upsetjs 1.11.1
 upsetly 0.1.1

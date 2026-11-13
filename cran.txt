@@ -4023,7 +4023,7 @@ corset 0.1-5
 corsym 1.0.1
 corTest 1.0.7
 corTESTsrd 1.0-0
-corteza 0.7.1
+corteza 0.8.0
 corto 1.4.0
 CortSineScore 0.1.0
 corx 1.0.7.3
@@ -14834,7 +14834,7 @@ NNMIS 1.0.1
 NNMoMo 0.1.0
 NNPreg 0.1.0
 nnR 0.2.0
-NNS 13.3
+NNS 14.0
 nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
@@ -15055,7 +15055,7 @@ nudibranch 0.0.1.1
 NUETON 0.2.0
 nuggets 2.2.4
 nullabor 0.3.16
-nullcat 0.2.0
+nullcat 0.3.0
 numbat 1.5.2
 numberize 1.0.2
 numberofalleles 1.0.1
@@ -15785,7 +15785,7 @@ panelbuild 0.1.0
 PanelCount 2.0.1
 paneldesc 0.2.0
 panelhetero 1.0.1
-PanelMatch 3.1.5
+PanelMatch 3.1.6
 panelPomp 1.8.0.0
 panelr 1.1.0
 PanelSelect 2.0.0
@@ -18217,7 +18217,7 @@ rcbalance 1.8.8
 rcbayes 0.3.0
 RCBR 0.6.2
 rcbsubset 1.1.7
-rcccd 0.3.2
+rcccd 0.4.0
 rccola 1.0.2
 RCCPCA 0.1.0
 rcd3 0.1.1
@@ -19754,7 +19754,7 @@ rpivotTable 0.4.0
 rpkgkit 0.1.7
 rplam 1.0.2
 rplanes 0.1.0
-rplatypus 0.2.1
+rplatypus 0.3.1
 rplec 0.1.3
 rplotengine 1.0-9
 RplotterPkg 0.1.5
@@ -21678,7 +21678,7 @@ smoothy 1.0.0
 smoots 1.1.5
 smosr 1.0.1
 smotefamily 1.4.0
-SMOTEWB 1.2.5
+SMOTEWB 1.2.6
 smovie 1.1.6
 smplot2 0.2.6
 SMPracticals 1.4-3.2

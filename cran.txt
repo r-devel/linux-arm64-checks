@@ -425,7 +425,7 @@ airship 1.4.3
 airt 0.2.2
 aiRthermo 1.2.2
 AISanalyze 3.1.4
-AIscreenR 0.5.0
+AIscreenR 0.5.1
 aisdk 1.4.12
 aisdk.providers 0.1.0
 aisoph 0.4
@@ -2309,6 +2309,7 @@ BSGW 0.9.4
 bshazard 1.2
 bSi 1.0.0
 bsicons 0.1.2
+bsikompendium 0.2.1
 bSims 0.3-3
 bsitar 0.4.0
 bskyr 0.4.0
@@ -3489,7 +3490,7 @@ cocosoR 0.1.0
 cocotest 1.0.3
 cocron 1.0-1
 coda 0.19-4.1
-coda.base 1.0.6
+coda.base 1.0.8
 coda.pack 0.1.3
 coda.plot 0.2.2
 coda4microbiome 0.2.4
@@ -8163,7 +8164,7 @@ gdpc 1.1.4
 GDPuc 1.6.1
 gds 0.1.1
 GDSARM 0.1.1
-gdtools 0.5.3
+gdtools 0.6.0
 gdverse 1.6
 gdxdt 0.1.0
 gdxtools 1.2.0
@@ -10400,6 +10401,7 @@ imagine 2.1.4
 IMak 2.1.2
 imanr 2.0.0
 imbalanceDatRel 0.1.6
+imbalanceKit 0.1.0
 imbibe 0.1.1
 imcExperiment 0.99.0
 ImCluster 0.1.0
@@ -13427,7 +13429,7 @@ mkssd 1.2
 ml 0.1.2
 ML.MSBD 1.2.1
 ML2Pvae 1.0.0.1
-mlAEWMA 0.1.0
+mlAEWMA 0.1.1
 mlapi 0.1.1
 MLBC 0.2.2
 mlbench 2.1-11
@@ -14924,7 +14926,7 @@ novelqualcodes 0.13.5
 NoviceDeveloperResources 1.2.0
 NoviceDeveloperResources2 1.1.0
 nowcast 0.1.0
-nowcaster 1.0.0
+nowcaster 1.0.1
 nowcastr 0.2.1
 noweb 1.1-4
 np 0.80-2
@@ -14980,7 +14982,7 @@ NPRED 1.1.0
 npreg 1.1.1
 npregderiv 1.0
 npregfast 1.6.0
-npRmpi 0.70-5
+npRmpi 0.80-2
 nprobust 1.0.0
 nproc 2.1.5
 npROCRegression 1.0-7
@@ -15348,7 +15350,7 @@ openEBGM 0.11.0
 openeo 1.4.1
 openesm 0.2.1
 openFDA 0.1.0
-openfhe.R 1.5.1.2
+openfhe.R 1.6.1
 opengraph 0.0.4
 OpEnHiMR 0.1.1
 openholidaysR 0.1.0
@@ -22359,6 +22361,7 @@ SSNbayes 0.0.3
 SSNbler 1.1.2
 SSOSVM 0.2.2
 SSP 1.1.0
+SSPICE 0.1.0
 ssPilot 1.0.0
 SSplots 0.1.2
 sspm 1.1.0
@@ -22773,7 +22776,7 @@ sumExtras 1.0.0
 summarisebig 0.1.0
 summariser 2.3.0
 summary2joint 0.1.0
-summarySCI 0.1.2
+summarySCI 1.0.0
 summarytabl 0.2.1
 summarytools 1.1.5
 summata 0.13.0
@@ -24699,6 +24702,7 @@ vandalico 0.2.2
 vangogh 0.1.3
 VanillaCalendar 1.0.0
 vannstats 1.6.8.16
+vantorr 0.3.0
 vapour 0.16.0
 VAR.etp 1.1
 VAR.spec 1.0
@@ -25154,6 +25158,7 @@ wdpar 1.3.9
 wdsmatch 0.2.2
 weaana 0.3.0
 weakARMA 1.0.3
+weasel 0.4.4
 weatherindices 0.1.0
 weatherjoin 0.2.3
 weathermetrics 1.2.2

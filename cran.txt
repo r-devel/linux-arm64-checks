@@ -607,6 +607,7 @@ AnnoProbe 0.1.7
 annotater 0.2.4
 AnnotationBustR 2.0
 annotator 0.0.3.2
+annsearchR 0.1.0
 anocva 0.1.1
 ANOFA 0.1.3
 anoint 1.5
@@ -706,6 +707,7 @@ apor 0.1.1
 appac 4.0.3
 appeears 1.2
 APPEstimation 0.1.1
+appkitr 2.0.0.5
 appleadsR 0.1.0
 applicable 0.2.1
 AppliedPredictiveModeling 1.2.0
@@ -842,7 +844,7 @@ aroma.cn 1.7.1
 aroma.core 3.3.2
 Arothron 2.0.5
 ARPALData 2.0.1
-ARPobservation 1.2.2
+ARPobservation 1.2.3
 arpr 0.1.2
 aRpsDCA 1.1.1
 arrangements 1.1.10
@@ -1246,7 +1248,7 @@ baseq 0.2.0
 baserater 0.1.2
 bases 0.2.1
 BaseSet 1.0.1
-basetable 1.4.2
+basetable 1.4.6
 BaseTempSeed 0.1.0
 basetheme 0.1.3
 baseverse 0.1.6
@@ -1260,6 +1262,7 @@ basifoR 0.8.0
 basil 0.1.0
 BASiNET 0.0.5
 BASiNETEntropy 0.99.6
+BasinmodlR 0.1.0
 BaSkePro 1.1.1
 basket 0.10.11
 BasketballAnalyzeR 0.8.1
@@ -2419,7 +2422,7 @@ bvls 1.4
 bvpa 1.0.0
 bvpSolve 1.4.4.2
 bwd 0.1.0
-bWGR 2.2.18
+bWGR 2.2.19
 BWGS 0.2.1
 bwimage 1.3
 BwQuant 0.1.0
@@ -2846,7 +2849,7 @@ CensMFM 3.1
 censo2022arg 1.0.1
 censobr 1.0.0
 censorcopula 2.0
-censored 0.3.5
+censored 0.4.0
 censoredAIDS 1.0.0
 censosbo 2.0.0
 censReg 0.5-40
@@ -3630,7 +3633,7 @@ COLP 1.0.0
 cols 1.7
 cols4all 0.10
 colt 0.1.1
-colvR 0.2.1
+colvR 0.2.2
 comat 0.9.7
 comato 1.1
 COMBAT 0.0.4
@@ -4478,6 +4481,7 @@ cvmdisc 0.1.0
 cvmgof 1.0.3
 CvmortalityMult 1.1.1
 cvms 2.0.1
+cvpa 0.3.0
 CVrisk 1.2.1
 cvsem 1.0.0
 CVST 0.2-3
@@ -5017,7 +5021,7 @@ descriptio 1.5
 DescriptiveRepresentationCalculator 1.1.1
 DescriptiveStats.OBeu 1.3.2
 DescriptiveWH 1.0.3
-descriptr 0.6.0
+descriptr 0.6.1
 descstat 1.0-0
 descstatsr 0.1.0
 descsuppR 1.2
@@ -5155,6 +5159,7 @@ DICErClust 0.1.3
 DiceView 4.0
 dichromat 2.0-1
 DICOMread 0.0.0.3
+dicomtk 0.1.0
 Dict 0.1.0
 dictionaRy 0.1.1
 did 2.5.1
@@ -5447,6 +5452,7 @@ doc2vec 0.2.2
 dockerfiler 1.0.0
 DockerParallel 1.0.4
 docket 1.33
+docketscape 0.1.0
 docknitr 1.0.1
 dockViewR 0.3.0
 doclingr 0.1.1
@@ -5759,6 +5765,7 @@ duawranglr 0.6.8
 dub 0.2.0
 duckdb 2.0.0
 duckdbfs 0.1.2
+duckdf 0.2.1
 duckduckr 1.0.0
 duckh3 0.2.0
 ducklake 0.6.0
@@ -5887,6 +5894,7 @@ easynem 1.0.3
 easynls 5.0
 easyORtables 0.0.1
 easypackages 0.1.0
+easypaper 0.1.0
 EasyPCA 0.1.1
 easypower 1.0.2
 easyPSID 0.1.3
@@ -6154,6 +6162,7 @@ EIAapi 0.2.0
 eiballots 0.2.0-1
 eiCircles 0.0.1-14
 eicm 1.0.3
+eiCR 0.0.1
 eidosapi 1.2.1
 EIEntropy 0.0.1.4
 eiExpand 1.0.5
@@ -7518,6 +7527,7 @@ flowmapblue 0.0.2
 flowmapper 0.1.4
 flownet 0.3.1
 FlowRegEnvCost 0.1.2
+flows 2.0.0
 FlowScreen 2.1
 flowTraceR 0.1.1
 flowz 0.1.0
@@ -8798,7 +8808,7 @@ gie 0.1.3
 gif 0.1.1
 Gifi 1.0-0
 gifski 1.32.0-2
-GIFT 1.3.4
+GIFT 1.3.5
 gifti 0.9.0
 gigg 0.2.1
 GIGrvg 0.8
@@ -8908,7 +8918,7 @@ glmMisrep 0.1.3
 glmmLasso 1.6.4
 glmmML 1.1.7
 glmmPen 1.5.4.8
-glmmrBase 1.4.1
+glmmrBase 1.4.3
 glmmrOptim 0.5.2
 GLMMRR 0.6.0
 glmmsel 1.0.3
@@ -9688,6 +9698,7 @@ healthfinance 0.1.0
 healthiar 0.2.7
 HealthMarkers 0.1.4
 healthmotionR 0.2.0
+healthsim 0.1.0
 healthyAddress 0.5.2
 healthyR 0.2.2
 healthyR.ai 0.1.2
@@ -11464,6 +11475,7 @@ labeleR 0.4.0
 labeling 0.4.3
 labelled 2.16.1
 labelmachine 1.0.0
+labelnoise 0.1.0
 labelr 0.1.9
 labelVector 0.1.2
 lablaster 1.0.1
@@ -11981,7 +11993,7 @@ lmeresampler 0.2.4
 lmerPerm 0.1.9
 lmerTest 3.2-1
 lmeSplines 1.1.20
-LMest 4.0.0
+LMest 4.0.1
 lmf 1.2.1
 LMfilteR 0.1.3.1
 lmfor 1.7
@@ -13078,7 +13090,7 @@ mFilter 0.1-8
 mFLICA 0.1.7
 MFO 0.2.1
 mfp 1.5.5.1
-mfp2 1.1.0
+mfp2 1.1.1
 MFPCA 1.3-11
 mfpp 0.0.9
 MFRCD 0.1.1
@@ -14811,7 +14823,7 @@ nncc 2.0.0
 nndiagram 1.0.0
 nnet 7.3-21
 nnetLM 1.0.1
-nnfor 0.9.9
+nnfor 0.10.0
 nnGarrote 1.0.4
 nngeo 0.4.8
 nnlasso 0.3
@@ -17504,7 +17516,7 @@ qad 1.0.6
 qadf 1.0.2
 QAEnsemble 1.0.0
 QAIG 0.1.7
-qap 0.1-3
+qap 0.2-0
 qape 2.1
 qapproach 0.1.2
 Qapprox 0.2.1
@@ -19248,7 +19260,7 @@ rkt 1.9
 RKUM 0.1.1.1
 rkvo 0.1
 Rlab 4.5.1
-Rlabkey 3.5.0
+Rlabkey 3.5.1
 rLakeAnalyzer 1.11.4.1
 rLakeHabitat 1.0.3
 rlandfire 2.0.2
@@ -21976,7 +21988,7 @@ spatialGE 1.2.2
 SpatialGEV 1.0.2
 SpatialGraph 1.0-4
 SpatialInference 0.1.0
-spatialising 0.6.2
+spatialising 1.0.0
 SpatialKDE 0.8.2
 spatialkit 2.0.0
 SpatialML 1.8.2
@@ -22191,7 +22203,7 @@ spm2 1.1.3
 spMaps 0.5.0
 spMC 0.3.16
 spmixW 0.2.2
-spmodel 0.14.0
+spmodel 0.15.0
 spmoran 0.3.3
 spnaf 1.1.0
 spNetwork 0.4.4.7
@@ -24159,6 +24171,7 @@ tRnslate 0.0.3
 troopdata 1.1.0
 tropAlgebra 0.1.1
 TropFishR 1.6.6
+tropicalSparse 0.1.1
 trotter 0.6
 trouBBlme4SolveR 0.1.4
 TroublemakeR 0.0.1
@@ -24327,6 +24340,7 @@ tufte 0.15.0
 tufterhandout 1.2.1
 tugboat 0.1.6
 TUGLab 0.0.1
+tuiksdmx 0.1.1
 TukeyC 1.4-0
 TukeyGH77 0.2.0
 tukeytrend 0.7
@@ -24353,7 +24367,7 @@ tvbounds 0.1.1
 tvcure 0.6.6
 tvdenoising 1.0.0
 tvem 1.4.1
-tvgarch 2.4.3
+tvgarch 2.5.0
 tvGarchKF 1.0.1
 tvm 0.5.2
 tvmComp 1.0.2
@@ -24732,7 +24746,7 @@ vaRiskScore 2.0.0
 varitas 0.0.2
 varmapack 0.1.2
 varoc 1.0.0
-varPro 3.3.0
+varPro 3.4.0
 VarRedOpt 0.1.0
 VarReg 2.0
 vars 1.6-1

@@ -4846,7 +4846,7 @@ debugr 0.0.1
 DeCAFS 3.3.6
 DECIDE 1.3
 decido 0.4.0
-decimal 0.1.1
+decimal 0.1.2
 decision 0.1.0
 DecisionDrift 0.2.0
 decisionfacets 0.2.0
@@ -4883,7 +4883,7 @@ deepdep 0.4.4
 deepgmm 0.2.1
 deepgp 1.2.3
 deepICMGP 0.1.1
-deepImp 1.1.0
+deepImp 1.2.0
 DeepLearningCausal 0.0.107
 deeplr 2.1.0
 deepMOU 0.1.1
@@ -13337,7 +13337,7 @@ missDiag 1.0.1
 missForest 1.6.1
 missForestPredict 1.0.1
 MissingHandle 0.1.1
-missingHE 1.6.2
+missingHE 1.6.3
 MissingPlotLSD 0.1.0
 MissingPlotRBD 1.1.0
 missknn 1.2.0
@@ -17593,7 +17593,7 @@ qif 1.5.1
 qiitr 0.1.1
 Qindex 0.2.2
 Qindex.data 0.1.4
-qio 0.1.1
+qio 0.1.2
 qkiosk 0.2.31
 qlcal 0.1.4
 qlcData 0.3
@@ -24278,7 +24278,7 @@ TSHRC 0.1-6
 tsibble 1.2.0
 tsibbledata 0.4.1
 tsibbletalk 0.1.0
-tsintermittent 1.10
+tsintermittent 2.0
 tsiR 0.4.3
 tsissm 1.0.4
 tsitter 0.2.0

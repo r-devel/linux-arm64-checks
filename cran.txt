@@ -4027,7 +4027,6 @@ corset 0.1-5
 corsym 1.0.1
 corTest 1.0.7
 corTESTsrd 1.0-0
-corteza 0.8.0
 corto 1.4.0
 CortSineScore 0.1.0
 corx 1.0.7.3
@@ -13857,7 +13856,6 @@ MPGE 1.0.1
 MPI 0.1.0
 mpindex 0.3.1
 mpitbR 1.0.1
-mplot 1.0.6
 MplusAutomation 1.3
 MplusLGM 1.0.0
 mplusParallel.automation 0.0.1.1
@@ -14638,7 +14636,6 @@ NeutroSplitStripAnalysis 0.0.1
 neutrostat 0.0.2
 neutroSurvey 0.1.0
 nev 1.0.0.0
-nevada 0.2.0
 neverhpfilter 0.5-0
 new.dist 0.1.2
 newdata 0.1.0
@@ -15102,7 +15099,7 @@ o2ools 0.0.1
 o2plsda 0.0.26
 oaColors 0.0.4
 oai 0.4.0
-OAIHarvester 0.3-5
+OAIHarvester 0.3-6
 oaii 0.5.0
 oalasso 1.0.0
 oaPlots 0.0.25
@@ -18987,7 +18984,7 @@ RFmerge 0.3-3
 RFmstate 0.1.9
 Rfmtool 5.0.4
 rfoaas 2.4.0
-RFOC 3.4-14
+RFOC 3.4-15
 rFocal 1.0
 rfold 0.2.0
 Rfolding 1.0
@@ -19030,7 +19027,6 @@ rgenoud 5.9-0.11
 rgeoda 0.1.1
 RGeode 0.1.0
 rgeomorphon 0.3.0
-rgeomstats 0.0.1
 rgeopat2 0.4.1
 rgexf 0.17.0
 RGF 1.1.1

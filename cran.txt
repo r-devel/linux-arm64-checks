@@ -2251,6 +2251,7 @@ bReeze 0.4-4
 bregr 1.5.0
 BRETIGEA 1.0.3
 brew 1.0-10
+brfinance 0.9.1
 brfssdata 0.1.1
 brglm 0.7.3
 brglm2 1.1.1
@@ -2819,7 +2820,7 @@ CDSS 1.0-0
 cdtmbnma 0.2.1
 cdtr 0.1.0
 CDVI 0.1.0
-CEACT 0.5.0
+CEACT 0.6.2
 ceas 1.3.0
 ceblR 1.0.0
 CEC 0.12.1
@@ -5196,7 +5197,7 @@ diffeqr 2.1.0
 diffeR 0.0-8
 diffHTS 0.1.0
 diffIRT 1.5
-diffmatchpatch 0.2.0
+diffmatchpatch 0.2.1
 diffMeshGP 0.1.1
 DiffNet 1.0.2
 diffobj 0.3.10
@@ -6804,7 +6805,7 @@ explore 1.4.0
 exploreR 0.1
 ExploreTheData 0.1.0
 expm 1.0-1
-expoquimR 0.2.0
+expoquimR 0.2.1
 export 0.3.3
 ExPosition 2.11.0
 ExposR 1.2
@@ -10419,7 +10420,7 @@ imagine 2.1.4
 IMak 2.1.2
 imanr 2.0.0
 imbalanceDatRel 0.1.7
-imbalanceKit 0.1.0
+imbalanceKit 0.2.0
 imbibe 0.1.1
 imcExperiment 0.99.0
 ImCluster 0.1.0
@@ -10562,7 +10563,7 @@ inferCSN 1.2.0
 inferencer 0.2.0
 InferenceSMR 1.0.2
 inferMM 0.1.1
-inferr 0.3.2
+inferr 0.3.3
 inferstat 0.1.1
 infiltrodiscR 0.0.5
 InfiniumPurify 1.3.1
@@ -12786,7 +12787,7 @@ mcwr 1.0.0
 md 1.0.4
 md.log 0.2.0
 MD2sample 1.5.0
-md4r 0.5.3.0
+md4r 0.6.0.0
 mda 0.5-5
 mda.biber 1.0.1
 mDAG 1.2.3
@@ -12929,7 +12930,7 @@ messy 0.1.0
 messy.cats 1.0
 messydates 1.1.1
 Mestim 0.2.1
-meta 8.5-0
+meta 9.0-0
 meta.shrinkage 0.1.4
 meta4diag 2.1.1
 MetaAnalyser 0.2.1
@@ -14841,7 +14842,7 @@ NNMIS 1.0.1
 NNMoMo 0.1.0
 NNPreg 0.1.0
 nnR 0.2.0
-NNS 14.0
+NNS 14.1
 nnsolve 0.0.2
 nnspat 0.1.2
 nnt 0.1.4
@@ -16374,7 +16375,7 @@ phylopairs 0.1.1
 phylopath 1.4.0
 phylopred 0.1.0
 phyloraster 2.3.0
-phyloregion 1.0.9
+phyloregion 2.1.0
 phylorug 0.1.0
 phylosamp 1.0.1
 phylosem 1.1.4
@@ -17260,7 +17261,7 @@ ProTrackR2 0.1.1
 protti 1.0.0
 protViz 0.7.9
 proustr 0.4.1
-prova 2.3.0
+prova 3.0.0
 provDebugR 1.0.1
 provenance 4.4
 proverbs 0.4.0
@@ -19899,7 +19900,7 @@ rscorecard 0.33.0
 RSD 0.2.0
 RSDA 3.2.5
 RSDC 1.7-0
-rsDCM 0.1.0
+rsDCM 0.2.0
 rsdepth 0.1-22
 rSDI 0.2.2
 RSDK 1.0.1
@@ -22871,7 +22872,7 @@ surrosurvROC 0.1.0
 surtvep 1.0.0
 surv2sampleComp 1.0-5
 survAH 1.2.0
-survalis 1.0.0
+survalis 2.4.1
 survAUC 1.4-0
 survAWKMT2 1.0.1
 survBootOutliers 1.0
@@ -23607,7 +23608,7 @@ tidyboot 0.1.3
 tidycat 0.1.2
 tidyCDISC 0.2.2
 tidycensus 2.0.0
-tidycensuskr 0.3.0
+tidycensuskr 0.4.2
 tidychangepoint 1.0.5
 tidycharts 0.1.3
 tidycjk 0.2.0

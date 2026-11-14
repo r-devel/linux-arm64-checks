@@ -2459,7 +2459,7 @@ CADF 0.1
 CADFtest 0.3-3
 caesar 1.1.0
 CAESAR.Suite 0.3.0
-cafast 0.1.0
+cafast 0.1.1
 caffsim 0.2.2
 CAFT 0.1.0
 cagedr 0.1.0
@@ -6583,7 +6583,7 @@ espadon 1.11.5
 esquisse 2.1.0
 esreg 0.6.3
 ess 1.1.2.1
-essential8 0.2.0
+essential8 0.9.0
 essentialstools 0.1.8
 essHist 1.2.2
 essurvey 1.0.8
@@ -10806,7 +10806,7 @@ ipw 1.3.2
 IPWboxplot 0.1.2
 ipwCoxCSV 1.2
 ipwErrorY 2.1
-iq 2.2.0
+iq 2.3.0
 IQCC 0.7
 ir 0.4.2
 irace 4.5.1
@@ -17278,7 +17278,7 @@ proxyC 0.6.0
 proxymix 0.17.0
 prozor 0.3.1
 PRP 0.1.1
-prqlr 0.10.1
+prqlr 0.10.2
 prrd 0.1.0
 PRROC 1.4
 pRSR 3.1.1
@@ -25304,7 +25304,7 @@ WienR 0.3-17
 wig 0.1.0
 wikibooks 0.2.1
 wikifacts 0.4.2
-wikilake 0.7.0
+wikilake 0.7.1
 WikipediR 1.7.1
 wikiprofiler 0.1.7
 wikitaxa 0.5.0

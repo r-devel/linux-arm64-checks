@@ -3071,7 +3071,7 @@ choroplethrAdmin1 1.1.1
 choroplethrMaps 1.0.1
 chouca 0.1.991
 christmas 1.4.1
-chromConverter 0.11.2
+chromConverter 0.12.0
 chromer 0.10
 chromoMap 4.1.1
 chromote 0.5.1
@@ -3162,6 +3162,7 @@ citation 0.12.2
 citationchaser 0.0.4
 citcdf 1.1.0
 citecorp 0.3.0
+citelens 0.1.0
 CiteSource 0.2.1
 citesperu 0.1.0
 citestR 0.1.1
@@ -4180,6 +4181,7 @@ cppdoubles 0.4.0
 cppRouting 4.1
 cppSim 0.2
 cpr 0.4.1
+cprd.search 0.1.2
 cprobit 1.0.2
 cprr 0.2.0
 cPseudoMaRg 1.0.1
@@ -8905,6 +8907,7 @@ glmbayesCore 0.5.4
 glmbb 0.6
 glmc 0.4-1
 GLMcat 1.0.0
+glmdisc 0.8.1
 glme 0.1.0
 glmertree 0.2-7
 glmfitmiss 2.1.0
@@ -9390,7 +9393,7 @@ GSE 4.2-4
 gsearly 1.1.1
 gsEasy 1.5
 GSED 2.6
-gSeg 1.1
+gSeg 1.2
 GSelection 0.1.0
 GSEMA 0.99.4
 gseries 3.0.3
@@ -17693,6 +17696,7 @@ QuadRoot 0.3.0
 quadrupen 1.1-0
 quadVAR 0.1.2
 quak 0.1.2
+qualitranslate 1.5.1
 qualitycontrol 0.1.0
 QualityMeasure 2.0.2
 quallmer 0.6.0
@@ -18110,6 +18114,7 @@ ratelimitr 0.4.2
 ratematrix 1.2.5
 rater 1.3.2
 rateratio.test 1.1
+raterevision 0.1.0
 raters 2.1.1
 ratesci 1.1.1
 RATest 0.1.12
@@ -20386,6 +20391,7 @@ sappviz 1.0.16
 saqgetr 0.2.24
 SAR 1.0.4
 sara4r 0.1.0
+SARAR 0.1.0
 sarima 0.9.5
 saros 1.6.2
 saros.base 1.2.0
@@ -20783,7 +20789,7 @@ SelectBoost.quantile 0.3.1
 selection.index 2.0.1
 SelectionBias 2.1.0
 selectiongain 2.0.710
-SelectionTools 26.5.2
+SelectionTools 26.6
 selectiveInference 1.2.5
 selectMeta 1.0.9
 selectr 0.8-0
@@ -21831,7 +21837,7 @@ someMTP 1.4.1.1
 SOMEnv 1.1.2
 somhca 0.4.0
 SOMMD 0.1.2
-sommer 4.5.12
+sommer 4.5.27
 SOMnmR 0.3.0
 sonar 1.0.2
 sondage 0.15.0
@@ -22533,7 +22539,7 @@ stats19 4.1.0
 stats4teaching 0.1.0
 statsapps 0.2.0
 statsearchanalyticsr 0.1.4
-statsExpressions 2.2.1
+statsExpressions 2.2.2
 statsr 0.3.0
 StatsTFLValR 1.0.0
 statswalesr 1.0.0
@@ -23754,6 +23760,7 @@ timeperiodsR 0.7.9
 timeplyr 1.1.2
 timereg 2.0.7
 timeROC 0.4.1
+timescapes 0.1.0
 timeSeries 4052.112
 timeSeriesDataSets 0.1.0
 timesift 0.6.1
@@ -24391,7 +24398,7 @@ twangMediation 1.2.1
 twbparser 0.5.1
 twc 0.0.2
 twdtw 1.0-1
-tweedie 3.1.0
+tweedie 3.2.1
 tweedieDistr 0.2.0
 tweenr 2.0.3
 tweetcheck 0.1.0
@@ -24853,6 +24860,7 @@ VennDiagram 1.8.2
 vennDiagramLab 2.9.0
 venneuler 1.1-4
 VennItem 1.1.0
+vennLasso 0.2.0
 vennplot 1.0
 venny 0.0.4
 VeraCrop 0.1.0
@@ -25452,6 +25460,7 @@ wrTopDownFrag 1.0.4
 wru 3.1.0
 wsbackfit 1.0-5
 WSCdata 0.1.2
+wsgnstat 0.1.0
 wsjplot 0.1.0
 wskm 1.4.40
 wsMed 1.2.2

@@ -8131,7 +8131,7 @@ gcbd 0.2.7
 GCCfactor 1.2.1
 GCD 4.0.7
 gcdnet 1.0.6
-gcemod 0.3.1
+gcemod 0.4.0
 gcerisk 19.05.24
 GCEstim 1.1.0
 gcf 0.1.1
@@ -8347,7 +8347,7 @@ geodist 0.1.1
 geodiv 1.1.1
 geodrawr 2.0.0
 GeodRegr 0.2.0
-geoecu 0.4.1
+geoecu 0.4.2
 geoelectrics 0.2.2
 geofacet 0.2.4
 geofi 1.2.1
@@ -16685,7 +16685,7 @@ pnotp 0.1.0
 PNSIBGE 0.2.1
 PnT 0.1.0
 PNWColors 0.1.0
-pobecu 0.3.0
+pobecu 0.3.1
 pocrm 0.13
 POD 1.2.0
 PoDBAY 1.4.3

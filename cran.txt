@@ -7577,7 +7577,7 @@ fmriAR 0.3.2
 fmrihrf 0.5.0
 fmriqa 0.5.0
 fMRIscrub 0.15.0
-fMRItools 0.8.3
+fMRItools 0.9.2
 fmsb 0.7.8
 FMsmsnReg 1.0
 FMStable 0.1-4

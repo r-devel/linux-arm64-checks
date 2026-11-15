@@ -1,6 +1,6 @@
 # scimesh 0.4.0
 
-Latest run: 2026-11-08: https://github.com/r-devel/linux-arm64-checks/actions/runs/42444910122
+Latest run: 2026-11-15: https://github.com/r-devel/linux-arm64-checks/actions/runs/43659520079
 
 ```
 Package: scimesh

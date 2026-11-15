@@ -14895,7 +14895,7 @@ nonParQuantileCausality 0.1.0
 NonParRolCor 0.8.0
 nonparTrendR 0.1.0
 NonProbEst 0.2.4
-nonprobsampling 0.1.0
+nonprobsampling 0.2.0
 nonprobsvy 0.3.0
 nonsmooth 1.0.0
 nonstat 0.0.6

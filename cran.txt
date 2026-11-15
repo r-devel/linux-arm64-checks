@@ -20385,7 +20385,6 @@ sapfluxnetr 0.1.5
 sapo 0.8.0
 SAPP 1.0.9-4
 sappviz 1.0.16
-saqgetr 0.2.24
 SAR 1.0.4
 sara4r 0.1.0
 SARAR 0.1.0

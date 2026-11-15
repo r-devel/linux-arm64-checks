@@ -2583,7 +2583,7 @@ caRecall 0.1.0
 CareDensity 0.1.0
 careless 1.2.2
 caresid 0.1
-caret 7.0-1
+caret 7.1-0
 caretEnsemble 4.0.2
 caretForecast 0.1.3
 caretMultimodal 1.0.0
@@ -2927,7 +2927,7 @@ CFtime 1.7.3
 cg 1.0-4
 cgaim 1.0.4
 cgal4h 0.1.0
-cgam 1.33
+cgam 1.34
 cgAUC 1.2.1
 CGE 0.3.3
 CGGP 1.0.4
@@ -7666,7 +7666,7 @@ forestplot 3.2.0
 forestploter 1.2.0
 forestry 0.1.1
 forestSAS 2.0.5
-forestsearch 0.4.0
+forestsearch 0.5.0
 ForestTools 1.0.3
 foresty 0.2.0
 foretell 0.2.0

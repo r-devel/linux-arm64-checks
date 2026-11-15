@@ -12609,7 +12609,7 @@ matRiks 0.1.5
 matrisk 0.1.0
 Matrix 1.7-6
 matrixcalc 1.0-6
-matrixCorr 0.12.3
+matrixCorr 0.13.0
 MatrixCorrelation 0.10.1
 matrixcut 0.0.1
 matrixdist 1.1.9
@@ -13184,7 +13184,7 @@ MicrobTiSDA 0.1.0
 microCRAN 0.9.0-1
 microdatasus 3.0.0
 MicroDatosEs 0.8.15
-microeco 2.4.1
+microeco 2.4.3
 microinverterdata 0.4.0
 MicroMacroMultilevel 0.4.0
 micromap 1.9.12

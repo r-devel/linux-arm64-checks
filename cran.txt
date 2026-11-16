@@ -627,7 +627,7 @@ anscombiser 1.1.0
 ANSM5 1.1.1
 antaresEditObject 1.0.1
 antaresProcessing 0.18.3
-antaresRead 3.1.0
+antaresRead 3.2.0
 antaresViz 0.18.3
 AntClassify 0.2.3
 antedep 0.3.1
@@ -1002,7 +1002,7 @@ AURMC 0.5.0
 auRoc 0.2-1
 aurora 0.1.12
 ausOpenData 0.1.0
-ausPH 1.0.1
+ausPH 1.1.1
 ausplotsR 2.0.5
 AustralianPoliticians 0.1.0
 AUtests 0.99
@@ -1025,7 +1025,7 @@ autoFRK 1.4.4
 autogam 0.1.0
 AutoGenAI 0.1.0
 autoGO 1.0.3
-autograph 1.2.8
+autograph 1.3.0
 autoharp 0.3.2
 autohrf 1.1.3
 autoimage 2.2.3
@@ -1928,7 +1928,7 @@ BiVariAn 1.0.3
 Bivariate.Pareto 1.0.3
 bivariateLeaflet 0.1.0
 bivariatemaps 1.7
-BivGeo 2.1.1
+BivGeo 3.0.0
 bivgeom 1.0
 BivKLD 0.1.0
 BivLaplaceRL 1.0.0
@@ -2009,7 +2009,7 @@ BlockwiseRankTest 0.1.0
 blocs 0.1.1
 blogdown 1.24
 BLOQ 0.1-2
-blorr 0.3.1
+blorr 0.3.2
 blosc 0.1.2
 blox 0.0.2
 BLPestimatoR 0.3.4
@@ -2784,7 +2784,7 @@ ccwr 0.0.2
 cd 0.1.0
 cdata 1.2.1
 CDatanet 2.2.3
-cdcanthro 0.5.0
+cdcanthro 0.6.0
 cdCAT 0.1.0
 cdcatR 1.0.7
 CDCPLACES 1.2.2
@@ -3731,7 +3731,7 @@ CompositionalRF 1.7
 Compositionalridge 1.0
 Compositionalscsmr 1.0
 CompositionalSR 1.5
-CompositionalZADR 1.1
+CompositionalZADR 1.2
 Compositionalzerocens 1.1
 compositions 2.0-9
 compost 0.2.0
@@ -3906,7 +3906,7 @@ conversim 0.1.0
 convertBCD 1.0
 convertbonds 0.1.0
 convertid 0.4.0
-ConverTier2 0.1.0
+ConverTier2 0.1.1
 ConvertPar 0.1
 convertr 0.1
 convertxlsform 0.3.0
@@ -4107,7 +4107,7 @@ covidnor 2023.05.18
 covidprobability 0.1.0
 covidsymptom 1.0.0
 covKCD 0.1
-covr 3.6.5
+covr 4.0.0
 covRobust 1.1-3
 CovSel 1.2.2
 covsep 1.1.1
@@ -5655,7 +5655,7 @@ drugDemand 0.1.3
 drugdevelopR 1.0.2
 DrugExposureDiagnostics 1.2.1
 drugprepr 0.0.7
-drugsens 0.1.0
+drugsens 0.2.0
 DrugSim2DR 0.1.2
 DrugUtilisation 1.3.1
 drumr 0.1.0
@@ -8531,7 +8531,7 @@ ggcharts 0.2.1
 ggChernoff 0.3.0
 ggCheysson 1.2.0
 ggChinaFlag 1.0.0
-ggchord 0.16.6
+ggchord 0.28.2
 ggchord2 0.0.1
 ggcircular 0.1.0
 GGClassification 0.1
@@ -10279,7 +10279,7 @@ ICSS 1.1
 ICSShiny 0.6
 ICSsmoothing 1.2.10
 ICsurv 1.0.1
-ICtest 0.3-7
+ICtest 0.3-8
 ictools 0.1.0
 ICV 1.0
 ICvectorfields 0.1.2
@@ -11054,7 +11054,7 @@ jipApprox 0.1.5
 jirar 0.1.0
 jjb 0.1.1
 jlmerclusterperm 1.1.4
-JLPM 1.0.4
+JLPM 1.0.5
 jlview 0.1.0
 JM 1.5-2
 JM4QTN 1.0.0
@@ -14534,7 +14534,7 @@ net4pg 0.1.2
 netassoc 0.7.2
 netClust 1.0.2
 NetCluster 0.2
-netCoin 2.1.19
+netCoin 2.1.49
 netcom 2.1.7
 NetCoupler 0.1.1
 netcutter 0.3.1
@@ -14566,7 +14566,7 @@ netplot 0.4-0
 NetPreProc 1.2
 netrankr 2.0.0
 NetRep 1.2.10
-netrics 1.1.0
+netrics 1.2.0
 netropy 0.3.0
 NetSci 1.0.1
 netseer 0.1.3
@@ -14684,7 +14684,7 @@ NHLData 1.0.0
 nhlscraper 0.7.0
 nhm 0.1.2
 NHPoisson 3.4
-nhppp 1.1.0
+nhppp 1.1.1
 nhs.predict 1.4.0
 nhsbsa 0.1.0
 nhscancerwaits 1.0.2
@@ -15795,7 +15795,7 @@ panelhetero 1.0.1
 PanelMatch 3.1.6
 panelPomp 1.8.0.0
 panelr 1.1.0
-PanelSelect 2.0.0
+PanelSelect 2.0.1
 panelsummary 0.1.3
 panelSUR 0.1.0
 paneltests 1.0.9
@@ -17535,7 +17535,7 @@ QBMS 2.0.0
 qboxplot 0.2
 qbr 1.4.0
 qbrms 1.0.1
-QCA 3.25
+QCA 3.26
 QCAcluster 0.2.0
 qcaERT 0.1.2
 qcapower 0.2.0
@@ -19194,7 +19194,7 @@ RiskyCNV 0.1.0
 riskyr 0.5.0
 RISmed 2.3.0
 risq 3.0.1
-Rita 2.0.0
+Rita 2.0.1
 ritalic 0.13.1
 Ritc 1.3
 RITCH 0.1.30
@@ -20872,7 +20872,7 @@ sensmediation 0.3.1
 sensobol 1.2.0
 SensoMineR 1.28
 sensorLeak 0.1.0
-sensortowerR 2.0.0
+sensortowerR 2.1.0
 sensory 1.1
 SensoryDataSets 0.1.0
 SenSpe 1.3
@@ -22096,7 +22096,7 @@ spect 1.0
 spectacles 0.5-5
 spectator 0.2.0
 spectr 1.0.1
-spectra2rgb 0.1.0
+spectra2rgb 0.1.1
 spectrakit 0.2.0
 spectral 2.0
 spectralAnomaly 0.1.1
@@ -23123,7 +23123,7 @@ syslognet 0.1.2.1
 Sysrecon 0.1.3
 sysreqr 0.1.0
 systemfit 1.1-30
-systemfonts 1.3.2
+systemfonts 1.3.3
 SystemicR 0.1.0
 systemicrisk 0.4.3
 syt 0.5.0
@@ -25349,7 +25349,7 @@ wizaRdry 0.6.16
 wjake 1.0.1
 wk 0.9.5
 wkb 0.4-0
-wkpool 0.4.0
+wkpool 0.5.0
 wktmo 1.0.5
 WLogit 2.1
 WLreg 1.0.0.1

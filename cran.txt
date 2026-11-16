@@ -2246,7 +2246,7 @@ breakfast 2.5
 BreakPoints 1.2
 breathtestcore 0.8.11
 breathteststan 0.8.9
-BreedReliabR 0.1.1
+BreedReliabR 0.1.2
 bReeze 0.4-4
 bregr 1.5.0
 BRETIGEA 1.0.3
@@ -9818,7 +9818,7 @@ hht 2.1.6
 hibayes 3.1.0
 HiClimR 2.2.1
 HiCocietyExample 1.0.0
-hicp 1.1.0
+hicp 1.2.0
 hicream 0.0.4
 hiddenf 2.0
 HiddenMarkov 1.8-14
@@ -22854,7 +22854,7 @@ SurfaceTortoise 2.0.1
 SurfRough 0.0.1.2
 SurprisalAnalysis 3.0.1
 surreal 0.0.3
-Surrogate 3.4.3
+Surrogate 3.4.4
 SurrogateBMA 1.0
 SurrogateOutcome 1.2
 SurrogateParadoxTest 2.2

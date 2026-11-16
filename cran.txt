@@ -113,7 +113,7 @@ ACTCD 1.4-0
 ActCR 0.4.0
 actel 1.4.0
 actfts 0.3.0
-actibase 0.8.0
+actibase 0.9.0
 actigraph.sleepr 0.4.0
 actilifecounts 1.1.1
 actimetrics 0.10.0
@@ -5383,7 +5383,7 @@ DiversificationR 0.1.0
 diversitree 0.10-1
 diversityArch 0.4.0
 DiversityStats 0.1.0
-divest 1.2.0
+divest 1.3.0
 DIVINE 0.1.3
 divo 1.0.2
 divoRce 1.0-2
@@ -5775,7 +5775,7 @@ duckduckr 1.0.0
 duckh3 0.2.0
 ducklake 0.6.0
 duckplyr 1.2.2
-duckspatial 1.3.0
+duckspatial 1.4.0
 duet 0.1.1
 dumbbell 0.2
 dummy 0.1.3
@@ -15330,7 +15330,7 @@ oompaBase 3.2.12
 oompaData 3.1.7
 OOR 0.1.4
 OORRT 0.1.0
-oosse 1.0.12
+oosse 1.0.13
 oottest 0.9.1
 opa 0.8.3
 opalr 3.7.0
@@ -19721,7 +19721,7 @@ roxytest 0.0.2
 roxytypes 0.1.2
 rPACI 0.2.2
 rPackedBar 0.2.2
-rpact 4.4.0
+rpact 5.0.0
 Rpadrino 0.0.5
 rPAex 1.0.5
 rpaleoclim 1.1.0
@@ -21716,7 +21716,7 @@ snapchatadsR 0.1.0
 snapKrig 0.0.4
 snapr 0.1.0
 snapshot 0.1.2
-snazzieR 0.1.2
+snazzieR 0.1.3
 SNBdata 0.2.1
 snc 0.1.0
 snem 0.1.1
@@ -23876,7 +23876,7 @@ tmvmixnorm 1.2.0
 tmvnsim 1.0-2
 tmvtnorm 1.7
 tmvtnsim 0.1.4
-tna 1.3.1
+tna 1.5.8
 TNC 0.1.0
 tndata 0.1.0
 tnet 3.0.16

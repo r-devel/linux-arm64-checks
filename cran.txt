@@ -148,7 +148,7 @@ actxps 1.6.1
 AcuityView 1.1.1
 acumos 0.4-4
 ACV 1.0.2
-ACWR 0.1.0
+ACWR 0.2.0
 ada 2.0-5.1
 adabag 5.1
 adace 1.0.2
@@ -1907,7 +1907,7 @@ birdnetR 0.3.2
 birdring 1.6
 birdscanR 0.3.0
 birk 2.1.2
-birp 0.9.2
+birp 0.9.3
 birtr 1.0.0
 BIS 0.4
 biscale 1.1.0
@@ -2682,7 +2682,7 @@ causalBatch 1.3.0
 causalCmprsk 2.0.0
 causaldata 0.1.4
 causaldef 0.3.0
-causalDisco 1.2.1
+causalDisco 1.3.0
 causaldrf 0.4.2
 causalDT 1.0.1
 causaleffect 1.3.15
@@ -6236,7 +6236,7 @@ eLNNpairedCov 0.3.2
 elo 3.0.2
 EloChoice 0.29.4
 EloOptimized 0.3.2
-EloRating 0.46.18
+EloRating 0.46.20
 EloSteepness 0.5.2
 elrm 1.2.6
 elsa 1.1-28
@@ -7223,7 +7223,7 @@ fedmatch 2.1.0
 fedstatAPIr 2.1.0
 fedz1 0.1.0
 fee 1.0.0
-fEGarch 1.0.6
+fEGarch 1.0.7
 feisr 1.3.1
 fejiv 0.1.1
 felp 0.6.0
@@ -8031,6 +8031,7 @@ GAMens 1.2.1
 gameR 0.0.7
 gamesGA 1.1.3.7
 GameTheory 2.7.1
+gamfluence 0.1.1
 gamlr 1.13-9
 gamlss 5.5-5
 gamlss.add 5.1-14
@@ -8351,6 +8352,7 @@ geodrawr 2.0.0
 GeodRegr 0.2.0
 geoecu 0.4.2
 geoelectrics 0.2.2
+GeoEpiAI 0.1.0
 geofacet 0.2.4
 geofi 1.2.1
 GeoFIS 1.1.1
@@ -8918,7 +8920,7 @@ glmheaders 1.0.1-2
 glmlep 0.2
 glmm 1.4.5
 glmm.hp 1.0-0
-GLMMadaptive 0.9-7
+GLMMadaptive 0.9-9
 GLMMcosinor 0.2.2
 glmmEP 1.0-4
 glmmFEL 1.0.6
@@ -9704,7 +9706,7 @@ healthcare.antitrust 0.1.6
 healthdb 0.5.1
 healthequal 1.0.1
 healthfinance 0.1.0
-healthiar 0.2.7
+healthiar 0.3.0
 HealthMarkers 0.1.4
 healthmotionR 0.2.0
 healthsim 0.1.0
@@ -12420,6 +12422,7 @@ manifesto 0.0.2
 manifestoR 1.6.3
 manifold 0.1.2
 ManifoldOptim 1.0.3
+manifoldsR 0.5.0
 manipulate 1.0.1
 manipulateWidget 0.11.2
 ManlyMix 0.1.15.1
@@ -12632,7 +12635,7 @@ matriz 1.0.1
 matsbyname 0.6.15
 matsindf 0.4.11
 matsketch 0.1.0
-matSPACE 0.2.1
+matSPACE 0.3.0
 MatTransMix 0.1.19
 matuR 0.0.1.0
 mau 0.4.0
@@ -16317,7 +16320,7 @@ PheValuator 2.2.19
 PheVis 1.0.5
 Phi2rho 1.0.2
 phia 0.3-2
-philentropy 0.10.0
+philentropy 0.10.1
 PhilipsHue 1.0.0
 PHInfiniteEstimates 2.9.5
 phinterval 1.0.0
@@ -16685,6 +16688,7 @@ pnotp 0.1.0
 PNSIBGE 0.2.1
 PnT 0.1.0
 PNWColors 0.1.0
+pob2ef 0.1.0
 pobecu 0.3.1
 pocrm 0.13
 POD 1.2.0
@@ -18799,6 +18803,7 @@ repec 0.1.0
 repello 1.0.1
 repfun 0.1.2
 replacer 1.0.2
+replayr 0.4.0
 REPLesentR 0.4.1
 Replicate 1.2.0
 replicateBE 1.1.3
@@ -19834,6 +19839,7 @@ rrandvec 1.0.0
 rrapply 1.2.8
 rrat 1.0.0
 Rraven 1.0.16
+rray 0.2.0
 rrBLUP 4.6.3
 RRBoost 0.2
 rrcov 1.7-7
@@ -20205,6 +20211,7 @@ RWsearch 5.2.8
 rwstats 0.1
 rwty 1.0.3
 rwunderground 0.1.8
+rxeval 0.1.3
 RXKCD 2.0.2
 RxnSim 1.0.4
 rxode2 5.1.8
@@ -21629,7 +21636,7 @@ smatr 3.5-2
 smbdata 0.2.0
 smbinning 0.9
 SmCCNet 2.0.7
-smcfcs 2.0.2
+smcfcs 2.0.3
 smcure 2.2
 smd 0.8.0
 smdata 1.3
@@ -21796,7 +21803,7 @@ SoilFunctionality 0.1.0
 SoilHyP 0.1.7
 soilhypfit 0.1-8
 soilKey 0.9.403
-SoilManageR 1.1.0
+SoilManageR 1.2.0
 soilphysics 5.1
 SoilR 1.2.107
 SoilSaltIndex 0.1.0
@@ -25079,6 +25086,7 @@ waiter 0.2.5.1
 wakefield 0.3.9
 wal 0.2.1
 waldo 0.6.2
+walkability 0.1.0
 walkboutr 0.6.0
 walker 1.0.10
 walking 0.8.2
@@ -25399,7 +25407,7 @@ workflows 1.3.0
 workflowsets 1.1.1
 workloopR 1.1.4
 workspace 0.1.6
-worldbank 0.11.0
+worldbank 0.11.1
 WorldFlora 1.14-5
 worldfootballR 0.6.2
 WorldMapR 1.3.0
@@ -25612,6 +25620,7 @@ yahoofinancer 0.6.2
 yaImpute 1.0-36
 yaleBraille 0.2.3
 YaleToolkit 4.2.3
+yamaa 0.6.2
 yaml 2.3.12
 yaml12 0.2.0
 yamlet 1.5.0

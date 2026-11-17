@@ -20445,7 +20445,7 @@ SBAGM 0.1.0
 sbd 0.1.0
 sbde 1.0-2
 SBdecomp 1.2
-sbert 0.5.8
+sbert 0.6.0
 sbfc 1.0.3
 sbgcop 1.0
 SBI 0.1.2

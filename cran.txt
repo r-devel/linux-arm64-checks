@@ -128,6 +128,7 @@ activAnalyzer 2.1.2
 activatr 0.2.1
 ActiveDriver 1.0.0
 ActiveDriverWGS 1.2.1
+activegp 1.1.2
 ActiveLearning4SPM 0.1.0
 ActivePathways 2.0.6
 activity 1.3.4
@@ -2514,7 +2515,7 @@ campsismod 1.5.0
 campsisnca 1.7.3
 camsRad 0.3.0
 camtrapdp 0.6.1
-camtrapR 3.1.0
+camtrapR 3.1.1
 canadamaps 0.1
 canadianmaps 2.0.0
 canaper 1.0.1
@@ -2796,7 +2797,7 @@ cdfquantreg 1.3.1-2
 CDFt 1.2
 cdgd 1.0.1
 CDGHMM 0.1.5
-cdid 1.2.0.1
+cdid 1.3.0.1
 cdiscdata 0.2.0
 cdiWG2WS 0.2.0
 cdlei 1.0
@@ -4751,7 +4752,7 @@ dbplyr 2.6.0
 dbProject 0.1.2
 DBR 1.4.1
 dbrobust 1.1.1
-dbscan 1.2.7
+dbscan 1.3.0
 dbSpatial 0.1.4
 dbstats 2.0.3
 DBTC 0.1.0
@@ -5122,7 +5123,7 @@ dgof 1.5.1
 DGP4LCF 1.0.0.1
 dgpsi 2.6.0
 dgraphs 0.4.1
-dgtf 0.1.0
+dgtf 0.1.1
 DHARMa 0.5.1
 DHBins 1.1
 dhga 0.1
@@ -7024,7 +7025,7 @@ fastdid 1.0.6
 fastDummies 1.7.6
 fastei 0.0.21
 fasterize 1.1.0
-fasterRaster 8.4.1.2
+fasterRaster 8.4.1.3
 fastFGEE 0.2.2
 fastFMM 1.0.1
 fastfocal 0.1.3
@@ -7122,7 +7123,7 @@ fBasics 4052.98
 fbati 1.0-11
 FBFsearch 1.3
 fbglm 1.5.0
-FBMS 1.4
+FBMS 1.4.1
 FBN 1.5.2
 fbnet 1.0.4
 fBonds 3042.78
@@ -8004,7 +8005,7 @@ GACE 1.0.0
 GACFF 1.0
 GAD 2.0
 GADAG 0.99.1
-gadget3 1.0-0
+gadget3 1.1-0
 gadjid 0.1.0
 GAGAs 0.6.2
 GAGBLUP 1.0
@@ -8340,11 +8341,12 @@ geocomplexity 0.3.0
 geodaData 0.1.0
 geodata 0.6-9
 geoDeltaAudit 0.1.1
-GeoDensityR 0.2.0
+GeoDensityR 0.2.2
 geodetector 1.0-5
 geodimension 2.0.0
 geodist 0.1.1
 geodiv 1.1.1
+geodl 0.4.0
 geodrawr 2.0.0
 GeodRegr 0.2.0
 geoecu 0.4.2
@@ -8426,7 +8428,7 @@ GeoVersa 0.3.0
 geovizr 1.0.0
 geovol 1.1
 GeoWeightedModel 1.0.3
-geozarr 0.3.0
+geozarr 0.4.0
 geozoo 0.5.1
 gepaf 0.2.0
 GephiForR 0.1.1
@@ -10349,7 +10351,7 @@ ife 0.2.5
 IFFuzzyStats 0.1.0
 ifit 1.0.0
 IFMCDM 0.1.17
-ifo 0.3.1
+ifo 0.3.2
 iForecast 1.1.2
 ifpd 0.1.0
 ifs 0.1.10
@@ -16346,7 +16348,7 @@ PhotosynQ 0.2.3
 photosynthesis 2.1.5
 photosynthesisLRC 1.0.6
 phrases 0.1
-phscs 0.2.0
+phscs 0.3.0
 phsmethods 1.2.0
 PHSMM 1.0
 phsopendata 1.1.1
@@ -17313,7 +17315,7 @@ PseudoVoigtMixt 0.1.0
 pseval 1.3.3
 PSF 0.5
 psfmi 1.4.0
-psgc 0.1.2
+psgc 0.2.0
 PSGD 1.0.6
 PSGoft 0.0.1
 psgp 0.3-26
@@ -18471,7 +18473,7 @@ RDP 0.3.0
 Rdpack 2.6.6
 rdpower 3.0
 rdracor 1.1.0
-rdrobust 4.1.1
+rdrobust 4.1.2
 Rdrw 1.0.6
 rdryad 1.0.0
 RDS 0.9-11
@@ -19096,7 +19098,7 @@ rhythm.metrics 1.1.0
 ri2 0.5.0
 RI2by2 1.4
 RIA 1.7.2
-ria.test 0.3.0
+ria.test 0.4.0
 rIACI 1.0.0
 riAFTBART 0.3.3
 rib 0.32.0
@@ -21604,7 +21606,7 @@ smacofx 1.26-0
 smacpod 2.6.4
 SMAHP 0.0.5
 smak 0.1.0
-SmallCountRounding 1.2.5
+SmallCountRounding 1.2.7
 smallstuff 1.0.6
 smam 0.7.3
 SMARTbayesR 2.0.0
@@ -25453,7 +25455,7 @@ wrTopDownFrag 1.0.4
 wru 3.1.0
 wsbackfit 1.0-5
 WSCdata 0.1.2
-wsgnstat 0.1.0
+wsgnstat 0.1.1
 wsjplot 0.1.0
 wskm 1.4.40
 wsMed 1.2.2

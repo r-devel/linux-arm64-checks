@@ -16991,6 +16991,7 @@ PRANA 1.0.6
 praznik 13.0.0
 PRBMSdesigns 1.0.1
 prcbench 1.1.16
+prCGGM 0.1.0
 prcr 0.2.1
 PRDA 1.0.2
 pre 1.1.1
@@ -22856,6 +22857,7 @@ sureLDA 0.1.0-1
 SuRF.vs 1.1.0.1
 surface 0.6
 suRface.analytics 0.1.0
+SurfaceMesh 0.1.2
 SurfaceTortoise 2.0.1
 SurfRough 0.0.1.2
 SurprisalAnalysis 3.0.1
@@ -22928,6 +22930,7 @@ survinger 0.1.1
 surviv 0.1.3
 survival 3.8-12
 SurvivalClusteringTree 1.1.3
+survivalGPU 0.1.0
 survivalmodels 0.1.191
 survivalMPL 0.2-4
 survivalPLANN 0.4
@@ -25660,7 +25663,7 @@ yrnd 0.1.8
 YTAnalytics 0.2.1
 yuima 1.15.34
 yuimaGUI 1.4.0
-yulab.utils 0.2.5
+yulab.utils 0.2.6
 yum 0.1.0
 yyjsonr 0.1.22
 Z10 0.1.0

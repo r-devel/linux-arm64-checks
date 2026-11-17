@@ -1715,7 +1715,7 @@ biganalytics 1.1.22
 bigANNOY 0.3.0
 BiGaRx 0.5.1
 bigassertr 0.2.0
-bigbang 0.6.0
+bigbang 0.6.1
 bigBits 1.4
 bigcurve 0.6.0
 bigD 0.3.1
@@ -4428,7 +4428,7 @@ CUFF 1.9
 CUMP 2.0
 cumprinc 0.1
 cumulcalib 0.2.0
-CUNYsports 0.1.0
+CUNYsports 0.1.1
 cuperdec 1.1.0
 cuRe 1.1.1
 cureAssess 0.1.0
@@ -4653,7 +4653,7 @@ datapack 1.4.2
 datapackage 0.2.3
 DataPackageR 0.16.2
 datapasta 3.1.0
-datapond 0.1.0
+datapond 0.1.1
 dataprep 0.1.8
 dataPreparation 1.1.2
 dataProfilerR 0.2.1
@@ -6070,7 +6070,7 @@ edgebundle 1.0.0
 edgebundleR 0.1.4
 edgeCorr 1.0
 edgedata 0.2.0
-edgemodelr 0.4.5
+edgemodelr 0.7.0
 EDI 1.0.2
 edibble 1.1.1
 ediblecity 0.2.2
@@ -6583,7 +6583,7 @@ espadon 1.11.5
 esquisse 2.1.0
 esreg 0.6.3
 ess 1.1.2.1
-essential8 0.9.0
+essential8 0.9.1
 essentialstools 0.1.8
 essHist 1.2.2
 essurvey 1.0.8
@@ -12290,7 +12290,7 @@ lumberjack 1.3.1
 lumbermark 0.9.1
 Luminescence 1.3.1
 lunar 0.2-1
-lupa 0.1.1
+lupa 0.1.2
 lutz 0.3.2
 luz 0.5.2
 luzlogr 0.2.1
@@ -13587,7 +13587,6 @@ mme 0.1-6
 MMEFM 0.1.1
 mmeln 1.5
 MMeM 0.1.1
-mmequiv 1.0.0
 mmeta 3.0.2
 MMGFM 1.2.1
 mmibain 0.2.0
@@ -14239,7 +14238,7 @@ musicNMR 1.0
 musicXML 1.0.1
 MuTATE 0.1.0
 mutationtypes 0.0.1
-mutator 0.3.0
+mutator 0.3.1
 mutoss 0.1-14
 mutossGUI 0.1-12
 mutSignatures 2.1.1
@@ -15394,7 +15393,7 @@ opensimplex2 0.0.3
 openSkies 1.3.1
 OpenSourceAP.DownloadR 0.2.0
 OpenSpecy 2.0.3
-openssl 2.5.0
+openssl 2.6.0
 OpenStreetMap 0.4.1
 openstudyval 0.1.1
 opentimsr 1.2.3
@@ -16258,7 +16257,6 @@ pgmm 1.2.8
 pgnorm 2.0.1
 pGPx 0.1.5
 pgraph 1.6
-PGRdup 0.3.0
 pGRN 0.3.5
 pgt 0.7.1
 pgTools 1.0.2
@@ -16379,7 +16377,7 @@ phylosem 1.1.4
 phyloseqGraphTest 0.1.1
 phylosignal 1.3.1
 phylosignalDB 0.4.2
-phylospatial 1.6.0
+phylospatial 1.7.0
 phylotate 1.3
 phyloTop 2.1.3
 phylotypr 0.2.0
@@ -18230,7 +18228,6 @@ rccola 1.0.2
 RCCPCA 0.1.0
 rcd3 0.1.1
 rcdd 1.6-1
-rcDEA 1.0
 rcdf 0.1.6
 rcdk 3.8.2
 rcdklibs 2.9
@@ -24823,7 +24820,7 @@ VDSPCalibration 1.0
 vec2dtransf 1.1.5
 VeccTMVN 1.3.3
 VecDep 0.1.3
-vecmatch 1.4.0
+vecmatch 1.4.1
 vecrep 0.1.0
 vecsets 1.4
 vectorbitops 1.1.2
@@ -25609,7 +25606,7 @@ yaap 1.0.0
 yacca 1.4-2
 yaConsensus 1.1
 yager 0.1.1
-yahoofinancer 0.6.1
+yahoofinancer 0.6.2
 yaImpute 1.0-36
 yaleBraille 0.2.3
 YaleToolkit 4.2.3

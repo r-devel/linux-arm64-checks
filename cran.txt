@@ -1685,6 +1685,7 @@ BI 1.2.0
 BiasCorrector 0.2.3
 BiasedMatch 0.1.0
 BiasedUrn 2.0.12
+biasProxyR 0.1.0
 bib2df 1.1.2.0
 biblio 0.0.12
 bibliometrix 5.5.0
@@ -2820,7 +2821,7 @@ CDSim 0.1.2
 CDSimX 1.1.2
 CDSS 1.0-0
 cdtmbnma 0.2.1
-cdtr 0.1.0
+cdtr 0.2.0
 CDVI 0.1.0
 CEACT 0.6.2
 ceas 1.3.0
@@ -4594,7 +4595,7 @@ dartR 2.9.9.5
 dartR.base 1.3.0
 dartR.captive 1.2.2
 dartR.data 1.2.7
-dartR.popgen 1.2.2
+dartR.popgen 1.3.0
 dartR.sexlinked 1.2.2
 dartR.sim 1.2.2
 dartR.spatial 1.2.2
@@ -4607,7 +4608,7 @@ Dasst 0.3.4
 DAST 0.1.0
 dat 0.7.0
 data.checker 2.0.0
-data.sketches 0.1.1
+data.sketches 0.1.2
 data.table 1.18.6.1
 data.table.threads 1.0.1
 data.tree 1.2.0
@@ -6058,7 +6059,7 @@ edar 0.0.8
 EDCimport 0.7.0
 edcpR 1.0.1
 eddington 4.3.0
-EDE 0.3.0
+EDE 0.4.0
 edeaR 1.0.1
 edecob 1.2.2
 edetect 0.1.0
@@ -8807,7 +8808,7 @@ ghibli 0.3.4
 Ghost 0.1.0
 ghql 0.1.2
 GHRexplore 0.3.0
-GHRmodel 0.1.1
+GHRmodel 0.2.0
 ghyp 1.6.5
 ghypernet 1.1.2
 GiANT 1.3.4
@@ -9035,7 +9036,7 @@ GMSimpute 0.0.1.0
 gmsp 1.1.1
 gmt 2.0.3
 gmtFD 0.1.0
-GMTM 0.2.0
+GMTM 0.3.0
 gmvarkit 2.2.2
 gmvjoint 0.4.5
 gmwmx 1.0.3
@@ -11511,7 +11512,7 @@ ladder 0.0.3
 LadderFuelsR 0.0.7
 laeken 0.5.3
 LaF 0.8.6
-lagdynamics 0.32
+lagdynamics 0.35.0
 lagged 0.3.2
 LAGOSNE 2.0.5
 LAGOtrials 1.2.0
@@ -13426,7 +13427,7 @@ mixSPE 0.9.3
 mixsqp 0.3-54
 mixSSG 2.1.1
 MixStable 0.1.0
-mixtime 0.4.0
+mixtime 0.5.0
 mixtools 2.0.0.1
 mixtox 1.5.0
 mixtree 0.0.1
@@ -13558,6 +13559,7 @@ mlspatial 0.1.1
 mlstats 0.1.2
 mlstm 0.1.7
 mlstrOpalr 1.0.3
+MLSurvey 1.0.2
 mlsurvlrnrs 0.0.8
 mlt 1.9-0
 mlt.docreg 1.1-15
@@ -15821,6 +15823,7 @@ PantaRhei 0.1.2
 papaja 0.1.5
 papeR 1.0-6
 paperplanes 0.0.1.9
+par2circadian 0.1.1
 parabar 1.4.2
 parade 0.1
 paradox 1.0.1
@@ -19393,7 +19396,7 @@ rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
 rmoriebricklayer 1.1.0
-rmoriedata 0.4.2
+rmoriedata 0.4.3
 rMosaic 0.2.0
 Rmosek 1.3.5
 rMOST 1.0.1
@@ -20180,7 +20183,7 @@ rvMF 0.1.2
 rvmprior 0.1.0
 rvolleydata 2.0.0
 Rvoterdistance 2.0.0
-rvtk 0.1.3
+rvtk 0.2.0
 rwa 1.0.1
 rwalkr 0.5.7
 rwarrior 0.4.1
@@ -21601,7 +21604,7 @@ SLModels 0.1.2
 sloop 1.0.1
 SLOPE 2.1.1
 slopes 2.0.0
-SLOS 1.0.1
+SLOS 2.0.0
 SlotLim 0.0.2
 slouch 2.1.5
 slowraker 0.1.1
@@ -21609,6 +21612,7 @@ SLPresElection 2.0.0
 slr 1.3.0
 SLRMss 1.1.0
 SLSEdesign 0.1.0
+SLspatial 1.0.0
 slurm 2025.4.9
 slurmR 0.5-4
 slxr 0.1.1
@@ -22490,6 +22494,7 @@ starvars 1.1.11
 starvz 0.8.4
 starwarsdb 0.1.3
 Stat2Data 2.0.1
+statacompat 1.0
 statAfrikR 0.2.1
 Statamarkdown 1.1.0
 statAPA 0.1.0
@@ -22525,7 +22530,7 @@ statGraph 1.0.6
 staticryptR 0.1.0
 statim 0.1.0
 stationaRy 0.5.1
-statioVAR 0.1.3
+statioVAR 0.1.4
 statip 0.2.3
 statisfactory 1.0.4
 statisR 1.0.1
@@ -23785,6 +23790,7 @@ timevis 2.1.0
 TimeVizPro 1.0.1
 TIMP 1.13.6
 timsac 1.3.8-6
+timss8reg 0.1.0
 tind 0.2.4
 Tinflex 2.4
 tinkr 0.3.1

@@ -247,7 +247,7 @@ AdMit 2.1.12
 admix 2.6.1
 AdmixPoly 1.0.1
 admixr 0.9.2
-admixr2 0.4.1
+admixr2 0.4.2
 ADMM 0.3.4
 admmDensestSubmatrix 0.1.0
 admtools 0.7.0
@@ -4688,7 +4688,7 @@ DatastreamR 2.0.4
 DATAstudio 1.2.4
 DataSum 1.0.0
 datasus 0.16.2
-datasusr 0.1.1
+datasusr 0.2.0
 dataverifyr 0.1.11
 dataverse 0.3.16
 dataviewR 1.1.0
@@ -7167,7 +7167,7 @@ fdacluster 0.4.2
 fdaconcur 0.1.3
 fdadensity 0.1.4
 fdaMixed 0.6.1
-fdaMocca 0.1-2
+fdaMocca 1.1-0
 fdANOVA 0.1.3
 fdaoutlier 0.2.1
 fdapace 0.6.0
@@ -15245,7 +15245,7 @@ ollg 1.0.0
 ollggamma 1.0.2
 olr 1.2
 OLSengine 1.2.1
-olsrr 0.7.0
+olsrr 0.7.1
 OLStrajr 0.1.0
 olympicAthletes 0.5.10
 OlympicRshiny 1.1.0
@@ -17378,7 +17378,7 @@ psycCleaning 0.1.1
 psych 2.6.9
 psychds 0.1.0
 psychmeta 2.7.0
-psychnets 0.5.2
+psychnets 0.8.2
 psycho 0.6.2
 PsychoMatic 1.0.2
 psychometric 2.4
@@ -19395,7 +19395,7 @@ Rmonize 2.0.0
 rmonocypher 0.1.8
 rmoo 0.3.2
 RMOPI 1.1
-rmoriebricklayer 1.1.0
+rmoriebricklayer 1.1.1
 rmoriedata 0.4.3
 rMosaic 0.2.0
 Rmosek 1.3.5
@@ -24161,7 +24161,7 @@ trendtestR 1.0.1
 TrendTM 2.0.21
 Trendtwosub 0.0.2
 trendyy 0.1.1
-TRexSelector 2.0.1
+TRexSelector 2.0.2
 Tri.Hierarchical.IBDs 1.0.0
 triact 0.3.1
 TriadSim 0.3.1
@@ -24820,7 +24820,7 @@ VCBART 1.2.5
 vccp 0.1.1
 vcd 1.4-14
 vcd2df 1.0.1
-vcdExtra 0.9.8
+vcdExtra 0.9.9
 VCFArrow 0.9.0
 vcfheader 0.1.0
 vcfppR 0.8.4
@@ -25643,7 +25643,7 @@ yaml12 0.2.0
 yamlet 1.5.0
 yamlme 0.1.2
 YangHuiMagic 1.1
-yardstick 1.4.0
+yardstick 1.5.0
 yarrr 0.1.14
 yasp 0.2.0
 yatah 1.0.0

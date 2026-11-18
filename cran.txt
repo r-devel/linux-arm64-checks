@@ -3545,7 +3545,7 @@ cofad 0.4.0
 coFAST 0.3.0
 coffee 0.4.3
 cofid 1.0.0
-CoFM 1.1.4
+CoFM 1.2.6
 coga 1.2.3
 cogirt 1.0.0
 coglasso 1.1.1
@@ -3977,7 +3977,7 @@ CoreMicrobiomeR 0.1.0
 coreNLP 0.4-3
 Coreset 1.0.0
 coreSim 0.2.4
-coresynth 1.0.1
+coresynth 1.2.0
 coreval 0.4.0
 corHMM 2.8
 corkscrew 1.1
@@ -7076,7 +7076,7 @@ fastpolicytree 1.0
 fastpos 0.6.0
 fastqcr 0.1.3
 fastqq 0.1.5
-fastQR 1.1.5
+fastQR 1.2.0
 fastqrs 1.0.0
 fastR2 1.2.5
 fastrc 0.0.2
@@ -12492,7 +12492,7 @@ mapscanner 0.1.1
 mapSenegal 0.1.1
 mapsf 1.3.0
 mapsf.gui 0.1.0
-mapSpain 1.2.1
+mapSpain 1.3.0
 mapSpainHist 0.1.0
 mapsPERU 2.0.1
 mapsRinteractive 2.0.1
@@ -12736,7 +12736,7 @@ MCL 1.0
 mclink 1.3.1
 mclm 0.2.7
 mclogit 0.9.15
-mclust 6.1.3
+mclust 6.1.4
 mclustAddons 0.10
 mclustcomp 0.3.5
 MCM 0.1.8
@@ -14462,7 +14462,7 @@ nbTransmission 1.2.0
 NBtsVarSel 1.0
 NBvarsel 0.1.1
 nc 2026.4.20
-NCA 5.0.2
+NCA 5.1.0
 ncaavolleyballr 0.5.1
 ncappc 1.0.0
 ncar 0.7.3
@@ -15159,7 +15159,7 @@ OCNet 1.2.3
 ocrRBBR 0.1.0
 ocs4R 0.3.1
 OCSdata 1.0.2
-octawave 0.1.1
+octawave 0.1.2
 octopucs 0.1.1
 octopus 0.4.2
 octopusR 1.0.1
@@ -21258,7 +21258,7 @@ showtextdb 3.0
 shp2graph 1-0
 SHRED 1.0.0
 shrink 1.2.4
-ShrinkageTrees 2.1.0
+ShrinkageTrees 2.1.1
 ShrinkCovMat 2.1.0
 shrinkDSM 1.0.2
 shrinkem 0.4.0
@@ -23711,7 +23711,7 @@ tidyrstats 0.1.0
 tidyrules 0.2.7
 tidysdm 1.0.4
 tidyselect 1.2.1
-tidySEM 0.2.12
+tidySEM 0.3.0
 tidyseurat 0.8.10
 tidysmd 0.2.1
 tidyspec 0.1.0
@@ -25470,7 +25470,7 @@ writeLog 0.1.1
 writer 0.1.0
 writexl 2.0.1
 WriteXLS 6.8.0
-wrMisc 2.1.1
+wrMisc 2.2.0
 wrProteo 2.1.0
 WRS2 1.1-7
 WRSS 3.2

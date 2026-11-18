@@ -392,7 +392,7 @@ AID 3.1
 AIDA 0.2.2
 aidatabroker 0.2.0
 aiDIF 0.3.0
-aidR 0.2.4
+aidR 0.2.5
 aieconindex 0.2.0
 AiES 1.0.0
 aiEvalR 0.1.0
@@ -8618,7 +8618,7 @@ ggincerta 0.2.2
 ggindex 0.1.1
 gginference 0.1.3
 gginnards 0.2.0-2
-ggInterval 0.2.5
+ggInterval 0.2.6
 ggip 0.3.2
 GGIR 3.4-0
 ggiraph 0.9.6
@@ -12000,7 +12000,7 @@ LMDT 0.1.0
 lme4 2.1-0
 lme4breeding 1.1.5
 lme4GS 0.1
-lmeInfo 0.3.3
+lmeInfo 0.3.4
 LMERConvenienceFunctions 3.2
 lmeresampler 0.2.4
 lmerPerm 0.1.9
@@ -17232,7 +17232,7 @@ propensity 0.1.0
 propertee 1.0.7
 properties 0.0-9
 prophet 1.1.7
-propop 2.2.1
+propop 2.2.2
 proporz 1.6.0
 propOverlap 1.0
 PropScrRand 1.1.2
@@ -20826,7 +20826,7 @@ semEff 0.7.2
 semEffect 1.2.3
 semeqmodels 0.1.0
 semfindr 0.2.1
-semFromKeys 0.5.6
+semFromKeys 0.6.0
 semgram 0.1.0
 SEMgraph 1.2.4
 semhelpinghands 0.1.15

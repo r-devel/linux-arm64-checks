@@ -5871,7 +5871,7 @@ eam 1.2.2
 eAnalytics 0.4
 earlygating 1.1
 earth 5.3.6
-earthdatalogin 0.0.5
+earthdatalogin 0.0.6
 earthtide 0.1.8
 earthtones 0.2.0
 earthUI 0.8.0
@@ -12746,7 +12746,7 @@ MCMC4Extremes 1.1
 mcmcensemble 3.2.0
 MCMCglmm 2.36
 MCMChybridGP 7.0.2
-MCMCpack 1.7-1
+MCMCpack 1.7-2
 MCMCprecision 0.4.2
 mcmcr 0.7.0
 mcmcsae 0.8.2
@@ -15478,7 +15478,7 @@ OptOTrials 1.1.0
 optparse 1.8.2
 optR 1.2.5
 optrcdmaeAT 1.0.1
-optree 0.1.2
+optree 0.1.3
 optrefine 1.1.1
 optRF 1.2.1
 OPTS 0.1

@@ -2548,6 +2548,7 @@ caples 0.1.0
 caplime 0.1.0
 caplot 0.2
 capn 2.0.0
+capnet 0.4.1
 CaPO4Sim 0.2.1
 capr 0.2.0
 Capsule 0.2.0
@@ -2980,6 +2981,7 @@ charr 0.2.0
 chartreview 1.0
 chat.api 0.2.0
 chatAI4R 1.3.1
+chatcache 0.1.0
 chatgpt 0.2.3
 chatLLM 0.1.4
 chatRater 1.3.1
@@ -6302,6 +6304,7 @@ EMOTIONS 1.3
 emov 0.1.1
 EMP 2.0.6
 EMpeaksR 0.3.1
+emphasis 1.1.0
 emphatic 0.1.8
 empichar 1.0.1
 EmpiricalCalibration 3.1.4
@@ -11080,6 +11083,7 @@ JMH 1.0.4
 JMI 0.1.0
 Jmisc 0.3.1.1
 jmotif 1.3.2
+jmpread 0.1.0
 jmSurface 0.1.0
 jmuOutlier 2.2
 jmv 2.8.0
@@ -11322,6 +11326,7 @@ KingCountyHouses 0.1.0
 KinMixLite 2.2.1
 kinship2 1.9.6.2
 KINSIMU 0.1.3-2
+kir 0.3.0
 Kira 1.1.0
 kirby21.base 1.7.3
 kirby21.fmri 1.8.0
@@ -12570,6 +12575,7 @@ maskedcauses 0.10.0
 maskedhaz 0.1.0
 maskr 0.1.0
 maskRangeR 1.1
+masque 0.16.0
 MASS 7.3-66
 masscor 0.0.7.1
 MASSExtra 1.2.2
@@ -16742,6 +16748,7 @@ polarzonoid 0.4-0
 poLCA 1.6.0.2
 poLCAParallel 1.2.9
 poldis 0.2.0
+polecon 0.1.0
 PolicyPortfolios 0.5
 policytree 1.2.5
 polimetrics 1.2.1.14
@@ -17952,6 +17959,7 @@ rainerosr 0.1.1
 rainette 0.3.3
 RainfallErosivityFactor 1.0.0
 rainfarmr 0.1
+rairai 0.2.7
 rairtable 0.1.2
 raiseR 0.1.0
 raisr 0.1.0
@@ -18073,6 +18081,7 @@ rapr 1.1.3
 rapsimng 0.6.0
 rapsimng.canola 0.1.0
 rapsimng.chickpea 0.1.0
+rapsimng.decide 0.1.0
 rapsimng.decide.core 0.1.1
 rapsimng.decide.cultivar 0.1.0
 rapsimng.decide.nitrogen 0.1.0

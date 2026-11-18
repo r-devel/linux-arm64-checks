@@ -3260,7 +3260,7 @@ CliftLRD 0.1-2
 clim4health 0.1.1
 climabr 0.1.0
 climaemet 1.6.0
-ClimaRep 1.1
+ClimaRep 1.2
 climate 1.4.2
 ClimateAnomaly 1.0.0
 climateBR 0.2.0
@@ -7316,7 +7316,7 @@ files 0.0.1
 filesstrings 3.4.0
 FILEST 1.1.2
 filling 0.2.4
-fillpattern 1.0.4
+fillpattern 1.0.5
 fillr 1.0.0
 FilmsGmooG 0.1.0
 filterNHP 0.1.2
@@ -11069,7 +11069,7 @@ JM4QTN 1.0.0
 jmastats 0.3.1
 jmatrix 1.5.2
 JMbayes 0.9-0
-JMbayes2 0.6-5
+JMbayes2 0.6-6
 JMbdirect 0.1.1
 jmBIG 0.1.4
 jmcm 0.2.5
@@ -14520,7 +14520,7 @@ neonOS 1.1.0
 neonPlantEcology 1.6.1
 neonSoilFlux 4.0.1
 neonstore 0.5.1
-neonUtilities 4.0.2
+neonUtilities 4.1.0
 neotoma2 1.1.1
 nephro 1.5
 NEpiC 1.0.1

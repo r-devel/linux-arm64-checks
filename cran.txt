@@ -2527,7 +2527,7 @@ cancerGI 1.0.1
 cancerR 0.1.1
 cancerradarr 4.1.0
 candisc 1.1.1
-CANE 0.2.0
+CANE 0.2.1
 Canek 0.3.1
 CanonicalFamilyExtra 1.0.0
 canprot 2.0.0
@@ -15208,7 +15208,7 @@ oews2020 1.0.0
 oews2021 1.0.0
 ofemeantest 1.0.0
 officedown 0.4.3
-officer 0.7.8
+officer 0.7.9
 offlineChange 0.0.4
 offsetreg 1.2.0
 ofGEM 1.0
@@ -18753,7 +18753,7 @@ relevent 1.2-1
 reliabilitydiag 0.2.1
 ReliabilityTheory 0.3.1
 reliacoef 1.0.1
-ReliaGrowR 0.7
+ReliaGrowR 0.8
 ReliaLearnR 0.5
 ReliaPlotR 0.7
 reliaR 0.2
@@ -20144,7 +20144,7 @@ runes 0.1.0
 runExamplesWrapper 2.0
 runexp 0.2.1
 RUnit 0.4.33.1
-runjags 2.2.2-5
+runjags 2.3.0-5
 runMCMCbtadjust 1.1.3
 runner 0.4.6
 runonce 0.3.3
@@ -24861,7 +24861,7 @@ vecvec 1.4.0
 VedicDateTime 0.1.9
 veesa 0.1.8
 vegalite 0.6.1
-vegan 2.7-6
+vegan 2.7-8
 vegan3d 1.4-1
 vegawidget 0.5.0
 vegclust 2.0.3

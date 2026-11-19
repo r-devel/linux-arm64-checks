@@ -12531,7 +12531,7 @@ margins 0.3.28
 marimekko 0.1.0
 MarineChain 1.1.0
 marinepredator 0.0.1
-MariNET 1.0.0
+MariNET 2.0.0
 mariposa 0.7.4
 mark 0.9.0
 markdown 2.1
@@ -14193,7 +14193,7 @@ MultiRNG 1.2.4
 MultiRobust 1.0.5
 multiSA 0.5.0
 MultiscaleDTM 1.0.1
-multiScaleR 0.7.2
+multiScaleR 1.0.1
 MultiscaleSCP 0.2.0
 multiscape 1.4.2
 multiselect 0.1.0
@@ -16064,7 +16064,7 @@ PCSinR 0.2.0
 pcsstools 0.1.2
 pcSteiner 1.0.0.1
 pct 0.10.0
-pctax 0.1.7
+pctax 0.1.8
 pcts 0.15.8
 pcutils 0.2.8
 pcv 1.2.0

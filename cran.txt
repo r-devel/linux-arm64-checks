@@ -2706,7 +2706,7 @@ causalOT 1.0.4
 causalPAF 1.2.5
 causalplot 0.2.1
 causalQual 1.0.0
-CausalQueries 1.4.6
+CausalQueries 1.4.7
 causalreg 0.3.0
 causalsens 0.1.3
 causalsim 0.1.0
@@ -15702,7 +15702,7 @@ packageDiff 0.1
 packagefinder 0.3.5
 packagepal 0.1.1
 packager 1.15.3
-packageRank 0.9.9
+packageRank 0.10.0
 packageRankWrapperDriver 1.0
 packcircles 0.3.7
 PacketLLM 0.1.3
@@ -17668,7 +17668,7 @@ qrnn 2.1.1
 qryflow 0.4.0
 qs2 0.4.0
 QSARdata 1.3
-qshap 2.0.0
+qshap 3.0.0
 qsimulatR 1.1.1
 qslice 0.4.0
 qsplines 1.0.1

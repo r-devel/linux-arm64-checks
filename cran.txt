@@ -996,7 +996,7 @@ audubon 0.6.3
 AugBalWeight 0.1.0
 AugmentedPooledRCBD 0.1.0
 augSIMEX 3.7.4
-auk 0.9.1
+auk 0.10.0
 AUKtest 0.1.0
 aum 2024.6.19
 AurieLSHGaussian 0.2.0

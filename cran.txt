@@ -7250,7 +7250,7 @@ FESta 1.0.2
 fetch 0.1.5
 fetchGoogleAnalyticsR 0.1.0
 fetchSalesforceR 0.1.0
-fetwfe 1.10.0
+fetwfe 1.10.1
 fExtremes 4032.84
 ff 4.5.3
 ffaframework 0.1.2
@@ -7484,7 +7484,7 @@ FlexGAM 0.7.2
 flexhaz 0.5.3
 flexiblas 3.4.0
 flexIC 0.1.4
-flexlsx 1.0.0
+flexlsx 1.1.1
 flexMatch 0.1.0
 flexmet 1.1
 flexmix 2.3-21
@@ -10572,7 +10572,7 @@ infer 1.1.0
 inferCSN 1.2.0
 inferencer 0.2.0
 InferenceSMR 1.0.2
-inferMM 0.1.1
+inferMM 0.1.2
 inferr 0.3.3
 inferstat 0.1.1
 infiltrodiscR 0.0.5
@@ -17970,7 +17970,7 @@ raisr 0.1.0
 RaJIVE 1.0
 rakeR 0.2.1
 ralger 2.3.0
-RALSA 1.7.2
+RALSA 1.7.3
 Ramble 0.1.1
 rambur 0.5.6
 rAmCharts 2.1.16
@@ -19752,7 +19752,7 @@ Rpadrino 0.0.5
 rPAex 1.0.5
 rpaleoclim 1.1.0
 rPandas 0.1.4
-rpanel 1.1-6.3
+rpanel 1.1-6.3.1
 rpanelauto 1.0.0
 rpanelrev 1.0.0
 rPanglaoDB 0.2.1
@@ -20133,7 +20133,7 @@ Rtsne 0.17
 rtson 1.3
 Rttf2pt1 1.3.14
 Rtumblr 0.1.1
-Rtwalk 2.2.0
+Rtwalk 2.3.0
 rTwig 1.4.0
 Rtwobitlib 0.3.10
 rtype 0.1-1
@@ -20436,7 +20436,7 @@ SASmarkdown 0.8.7
 SASmixed 1.0-5
 sasquatch 0.1.3
 sasr 0.1.5
-sass 0.4.10
+sass 0.5.0
 sassy 1.3.4
 satdad 1.1
 sate 3.1.1
@@ -21109,7 +21109,7 @@ ShiftHappens 1.0.1
 shiftR 1.6
 ShiftShareSE 1.1.1
 shinipsum 0.1.1
-shiny 1.14.0
+shiny 1.15.0
 shiny.blueprint 0.3.0
 shiny.destroy 0.1.0
 shiny.element 0.3.1
@@ -22117,7 +22117,7 @@ specieschrom 1.0.0
 SPECK 1.0.1
 specmine 4.0.1
 specmine.datasets 0.0.3
-specProc 0.8.3
+specProc 0.9.0
 specr 1.1.0
 specs 1.0.1
 SpecsVerification 0.5-4
@@ -25249,6 +25249,7 @@ WebPower 0.9.4
 webr 0.1.7
 webSDM 1.1-5
 websearchr 0.0.3
+webserver 1.0-1
 webshot 0.5.5
 webshot2 0.1.2
 websocket 1.4.4

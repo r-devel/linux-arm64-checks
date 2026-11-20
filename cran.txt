@@ -1398,7 +1398,7 @@ BayesPET 0.1.0
 BayesPieceHazSelect 1.1.0
 BayesPIM 2.0
 bayesplay 0.9.3
-bayesplot 1.16.0
+bayesplot 1.17.0
 bayespm 0.2.0
 bayespmtools 0.0.3
 bayesPO 0.5.0

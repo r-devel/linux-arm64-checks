@@ -727,7 +727,7 @@ appsflyeR 0.1.0
 appsheet 0.1.0
 aprean3 1.0.2
 aprof 0.4.1
-APRScenario 0.0.4.2
+APRScenario 0.0.5.0
 APS 1.0.1
 apsimeval 0.1.0
 apsimwise 0.1.0
@@ -5967,7 +5967,7 @@ ecce 3.0.3
 Ecdat 0.4.7
 ecdfHT 0.1.1
 ECDFniche 0.5
-eCerto 0.8.11
+eCerto 0.8.30
 ecespa 1.1-18
 Ecfun 0.4.0
 ECG 0.5.2
@@ -6937,6 +6937,7 @@ FactorCopulaModel 0.1.1
 factorEx 1.1.0
 factorH 0.6.0
 FactorHet 1.0.1
+FactorialSurvey 0.3.0
 factormodel 1.0
 factorplot 1.3
 factorselect 0.1.3
@@ -7533,6 +7534,7 @@ flora 0.3.4
 florabr 1.4.0
 FLORAL 0.7.1
 flourishcharts 1.0.0.3
+flourishR 0.1.0
 flow 0.3.0
 flowchart 1.0.1
 flowcluster 0.2.2
@@ -10051,7 +10053,7 @@ htmltools 0.5.9
 HTMLUtils 0.1.9
 htmlwidgets 1.6.4
 htmxr 0.2.0
-htna 0.3.1
+htna 0.3.7
 htrSPRanalysis 0.1.3
 HTRX 1.2.4
 hts 6.0.3
@@ -10353,6 +10355,7 @@ ierd 0.1.1
 IETD 1.0.0
 ieTest 2.1
 ieugwasr 1.2.1
+IFANN 0.1.0
 IFARIMA 0.1.0
 ifaTools 0.23
 IFC 0.2.1
@@ -10477,7 +10480,7 @@ impimp 0.3.1
 implicitExpansion 0.1.0
 implicitMeasures 1.0.0
 implied 0.5
-imply 0.1.0
+imply 0.2.0
 implyr 0.5.0
 import 1.3.4
 ImportanceIndice 0.0.2
@@ -10918,7 +10921,7 @@ isoniche 1.1.0
 isoorbi 1.5.2
 isopam 3.7
 isopleuros 1.4.0
-IsoplotR 7.1
+IsoplotR 7.2
 IsoplotRgui 7.1
 isoreader2 0.7.1
 IsoriX 0.9.4
@@ -12278,7 +12281,7 @@ LTCDM 1.1.0
 lterdatasampler 0.1.1
 lterpalettefinder 1.1.0
 ltertools 2.1.1
-LTFGRS 1.0.1
+LTFGRS 1.2.0
 LTFHPlus 2.2.0
 ltgsmd 0.2.3
 ltm 1.2-0
@@ -13828,6 +13831,7 @@ mosaicCalc 0.6.4
 mosaicCore 0.9.5
 mosaicData 0.20.4
 MosaiClusteR 0.1.4
+mosaicresid 0.1.1
 MOSAlloc 1.2.6
 mosclust 1.0.3
 MOsemiind 0.1.2
@@ -14676,7 +14680,7 @@ nfcore.utils 0.0.4
 nfer 1.1.3
 nfl4th 1.0.7
 nflfastR 6.0.0
-nflplotR 1.7.1
+nflplotR 1.7.2
 nflreadr 1.5.1
 nflseedR 2.0.2
 NFLSimulatoR 0.4.0
@@ -15947,7 +15951,7 @@ pathviewr 1.1.8
 PathwaySpace 1.5.2
 PathwayVote 0.1.3
 PatientGenerator 0.2.5
-PatientLevelPrediction 6.7.0
+PatientLevelPrediction 6.7.1
 PatientProfiles 1.6.1
 patientProfilesVis 2.0.10
 patrick 0.3.1
@@ -17503,6 +17507,7 @@ pvda 0.0.4
 pvEBayes 0.3.0
 pvldcurve 1.2.6
 pvLRT 0.5.1
+PVomega 1.0.0
 PVR 0.3
 PvSTATEM 0.2.2
 PWEALL 1.3.0.1
@@ -18756,6 +18761,7 @@ rehh.data 1.0.1
 ReinforcementLearning 1.0.5
 ReIns 1.0.16
 reinstallr 0.1.5
+reintervals 0.2.0
 relaimpo 2.2-7
 relatable 1.0.0
 relations 0.6-18
@@ -23566,6 +23572,7 @@ TH.data 1.1-5
 thames 0.1.2
 thamesblock 0.1.0
 thamesmix 0.1.4
+thangldKANr 0.1.0
 theaitetos 0.1.0
 theeuh 0.1.5
 theft 0.8.4

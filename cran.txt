@@ -2447,7 +2447,7 @@ c3 0.3.2
 c3dr 0.2.1
 c3net 1.1.1.1
 C443 3.4.0
-C50 0.2.0
+C50 1.0.0
 ca 0.72
 CA3variants 3.3.1
 cABCanalysis 1.0.2
@@ -7511,7 +7511,7 @@ flexurba 0.2.3
 FlexVarJM 0.1.0
 FlickrAPI 0.1.0.1
 FLightR 0.5.6
-flightsbr 1.2.0
+flightsbr 1.3.0
 flimo 0.1.5
 flint 0.1.5
 flintyR 0.1.0
@@ -8322,7 +8322,7 @@ GenOU 0.2.1
 genpathmox 1.1
 genpca 0.2.2
 genproc 0.2.0
-genridge 0.8.0
+genridge 0.8.1
 GenSA 1.1.15
 genscore 1.0.2.2
 genSEIR 0.1.1
@@ -9656,7 +9656,7 @@ HCTDesign 0.7.4
 hctrial 0.1.0
 HCUPtools 1.0.2
 hda 0.2-14
-HDANOVA 0.8.5
+HDANOVA 0.8.6
 hdar 1.0.9
 hdbayes 0.2.0
 hdbcp 1.0.0
@@ -11247,7 +11247,7 @@ kDGLM 1.2.15
 kdml 1.1.1
 kdps 1.0.0
 kdry 0.0.3
-kedd 2.0.1
+kedd 2.0.2
 keep 1.0
 kehra 0.1
 kelvin 2.0-3
@@ -13542,7 +13542,7 @@ mlr3fselect 1.7.0
 mlr3hyperband 1.1.1
 mlr3inferr 0.2.2
 mlr3learners 0.16.0
-mlr3mbo 1.2.1
+mlr3mbo 1.3.0
 mlr3measures 1.3.0
 mlr3misc 0.23.0
 mlr3oml 0.12.0
@@ -19898,7 +19898,7 @@ rroad 0.0.5
 rrobot 0.2.1
 rrpack 0.1-14
 RRphylo 3.0.2
-RRPP 2.2.5
+RRPP 2.2.6
 rrr 1.0.0
 RRreg 0.7.6
 RRRR 1.1.1
@@ -20395,7 +20395,7 @@ SAMprior 3.0.0
 sampsizeval 1.0.0.0
 samr 3.0.1
 sams 0.4.3
-SAMtool 1.9.2
+SAMtool 1.10.0
 SAMTx 0.3.0
 SAMUR 1.1
 sanba 0.0.4
@@ -23441,7 +23441,7 @@ tern.mmrm 0.3.4
 Ternary 2.3.7
 TernTables 1.8.0
 ternvis 1.3
-terra 1.9-50
+terra 1.9-60
 terrainmeshr 1.0.1
 terrainr 0.7.6
 terralink 1.8.2
@@ -24488,7 +24488,7 @@ txshift 0.4.0
 txtplot 1.0-5
 txtq 0.2.4
 typed 0.0.1
-typedjson 0.1.1
+typedjson 0.1.2
 typehint 0.1.2
 typeR 0.2.1
 types 1.0.0

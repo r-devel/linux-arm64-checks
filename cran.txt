@@ -9350,7 +9350,7 @@ groupcompare 1.0.1
 GroupComparisons 0.1.0
 groupdata2 2.0.5
 groupedHyperframe 0.4.6
-groupedHyperframe.random 0.3.2
+groupedHyperframe.random 0.3.3
 groupedSurv 1.0.5.1
 grouper 0.7.3
 groupr 0.1.2
@@ -24730,7 +24730,7 @@ UWHAM 1.1
 uwot 0.2.5
 uxr 0.2.0
 uygeo 0.1.0
-V8 8.2.1
+V8 8.3.0
 vacalibration 2.2
 vaccinationimpact 0.1.0
 vaccine 1.4.0

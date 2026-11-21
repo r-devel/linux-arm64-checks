@@ -24873,7 +24873,7 @@ vectorsurvR 1.6.3
 vectorwavelet 0.1.0
 vectra 0.14.1
 VectrixDB 1.1.2
-vecvec 1.4.0
+vecvec 1.5.0
 VedicDateTime 0.1.9
 veesa 0.1.8
 vegalite 0.6.1

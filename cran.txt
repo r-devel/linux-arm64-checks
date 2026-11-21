@@ -1456,6 +1456,7 @@ BayesXsrc 3.0-7.1
 bayesZIB 0.0.5
 bayfoxr 0.0.1
 baygel 0.3.0
+BayGMST 0.1.0
 BayLum 0.3.3
 bayMDS 2.1
 baymedr 0.2
@@ -6070,7 +6071,7 @@ edfReader 1.2.1
 edgar 2.0.8
 edgarfundamentals 0.1.3
 edgarWebR 1.1.0
-edgebundle 1.0.0
+edgebundle 1.0.1
 edgebundleR 0.1.4
 edgeCorr 1.0
 edgedata 0.2.0
@@ -12765,7 +12766,7 @@ mcmsector 1.0.2
 mcMST 1.1.1
 mcmsupply 1.1.1
 mco 1.17
-mcODE 1.1
+mcODE 1.2
 MCOE 0.6.0
 Mcomp 2.8
 mcompanion 0.6
@@ -13355,6 +13356,7 @@ MissingHandle 0.1.1
 missingHE 1.6.3
 MissingPlotLSD 0.1.0
 MissingPlotRBD 1.1.0
+misskappa 3.0.0
 missknn 1.2.0
 missMDA 1.23
 MissMech 1.0.4
@@ -13538,7 +13540,7 @@ mlr3inferr 0.2.2
 mlr3learners 0.16.0
 mlr3mbo 1.3.0
 mlr3measures 1.3.0
-mlr3misc 0.23.0
+mlr3misc 0.24.0
 mlr3oml 0.12.0
 mlr3pipelines 0.12.0
 mlr3resampling 2026.9.24
@@ -15590,7 +15592,7 @@ ORTSC 1.0.0
 OryzaProbe 0.1.0
 osbng 0.2.0
 oscar 1.2.1
-OSCARS 0.2.1
+OSCARS 0.2.2
 OscillatorGenerator 0.1.0
 OSCV 1.0
 osd 0.1
@@ -16536,6 +16538,7 @@ pkr 0.1.8
 pks 0.8-0
 pKSEA 0.0.1
 pksensi 1.2.3
+pksR 0.1.0
 PL94171 1.2.1
 plac 0.1.3
 placematchr 0.2.4
@@ -17448,7 +17451,7 @@ publishTC 0.2.3
 PubMatrixR 1.0.1
 pubmed.mineR 1.0.21
 PubMedMining 1.0.0
-pubmedR 1.0.2
+pubmedR 1.1.0
 pubmedtk 1.0.4
 PubMedWordcloud 0.3.7
 pubrplot 0.0.1
@@ -19433,6 +19436,7 @@ RMSTpowerBoost 1.0.3
 rmt 1.0
 RMT4DS 0.0.1
 RMThreshold 1.1
+RMTIF 0.3.1
 RMTL 1.0.0
 RMTstat 0.3.2
 rMultiNet 0.1
@@ -22169,6 +22173,7 @@ spFSR 2.0.4
 spGARCH 0.2.4
 spgs 1.0-4
 spgwr 0.6-37
+spherDir 1.0
 sphereclust 1.2
 spheredata 0.1.3
 sphereML 0.1.1
@@ -22600,6 +22605,7 @@ SteinIV 0.1-1
 steinsampling 0.1.3
 stelfi 1.0.3
 stellaR 0.3-6
+Stem 2.0.0
 StemAnalysis 0.1.0
 stemmatology 0.3.2
 StempCens 1.2.0
@@ -23836,7 +23842,7 @@ tinytex 0.61
 tinythemes 0.0.4
 tinytiger 0.0.12
 tinytrail 0.1.0
-tinyVAST 1.6.3
+tinyVAST 1.6.4
 tip 0.1.0
 tipa 1.0.8
 TipDatingBeast 1.1-0

@@ -2252,7 +2252,6 @@ breathteststan 0.8.9
 BreedReliabR 0.1.2
 bReeze 0.4-4
 bregr 1.5.0
-BRETIGEA 1.0.3
 brew 1.0-10
 brfinance 0.9.1
 brfssdata 0.1.1
@@ -3129,7 +3128,7 @@ CIpostSelect 0.2.2
 cir 2.5.2
 circacompare 0.2.0
 CircaCP 0.1.2
-circda 1.1
+circda 1.2
 CirceR 1.4.0
 circhelp 1.4.0
 circle 0.7.4
@@ -23159,7 +23158,7 @@ syslognet 0.1.2.1
 Sysrecon 0.1.3
 sysreqr 0.1.0
 systemfit 1.1-30
-systemfonts 1.3.3
+systemfonts 1.3.4
 SystemicR 0.1.0
 systemicrisk 0.4.3
 syt 0.5.0

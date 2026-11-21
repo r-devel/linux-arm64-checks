@@ -4730,7 +4730,7 @@ daySupply 0.1.0
 db2pq 0.0.4
 dbacf 0.2.8
 dbarts 0.9-34
-dbcturbo 0.2.0
+dbcturbo 0.3.0
 DBCVindex 1.6
 dbd 0.0-22
 DBfit 2.0
@@ -14965,7 +14965,7 @@ NOVA 0.1.5
 NovelDistns 0.1.0
 novelforestSG 2.1.0
 novelqualcodes 0.13.5
-NoviceDeveloperResources 1.2.0
+NoviceDeveloperResources 1.3.0
 NoviceDeveloperResources2 1.1.0
 nowcast 0.1.0
 nowcaster 1.0.1

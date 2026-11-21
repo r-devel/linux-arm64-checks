@@ -14569,7 +14569,7 @@ NetExplorer 0.0.2
 NetGreg 0.0.4
 netgsa 4.0.7
 netgwas 1.14.5
-nethist 1.1.1
+nethist 1.2.0
 netie 1.0
 netify 1.5.4
 NetIndices 1.4.4.1
@@ -18093,7 +18093,7 @@ rapsimng 0.6.0
 rapsimng.canola 0.1.0
 rapsimng.chickpea 0.1.0
 rapsimng.decide 0.1.0
-rapsimng.decide.core 0.1.1
+rapsimng.decide.core 0.1.2
 rapsimng.decide.cultivar 0.1.0
 rapsimng.decide.nitrogen 0.1.0
 rapsimng.decide.sowing 0.1.0

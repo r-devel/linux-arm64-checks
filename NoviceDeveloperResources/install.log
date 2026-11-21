@@ -1,0 +1,4 @@
+ERROR: dependencies ‘installationDriver’, ‘stringr’ are not available for package ‘NoviceDeveloperResources’
+Perhaps try a variation of:
+install.packages(c('installationDriver', 'stringr'))
+* removing ‘/__w/linux-arm64-checks/linux-arm64-checks/mylib/NoviceDeveloperResources’

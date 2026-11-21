@@ -853,7 +853,7 @@ arrangements 1.1.10
 arrApply 2.2.1
 arrayhelpers 1.1-2
 arrg 0.2.0
-arrow 26.0.1
+arrow 26.0.1.1
 arrowheadr 1.0.2
 ars 0.8
 arsenal 3.7.4
@@ -6433,7 +6433,7 @@ epifitter 1.0.0
 epiflows 0.2.2
 EpiForsk 0.2.2
 epigraphdb 0.2.3
-epigrowthfit 0.15.4
+epigrowthfit 0.16.1
 EpiILM 1.5.4
 EpiILMCT 1.1.9
 EpiInvert 0.3.1
@@ -10921,7 +10921,7 @@ isoorbi 1.5.2
 isopam 3.7
 isopleuros 1.4.0
 IsoplotR 7.2
-IsoplotRgui 7.1
+IsoplotRgui 7.2
 isoreader2 0.7.1
 IsoriX 0.9.4
 IsoSpecR 2.3.3
@@ -21837,7 +21837,7 @@ SoilFunctionality 0.1.0
 SoilHyP 0.1.7
 soilhypfit 0.1-8
 soilKey 0.9.403
-SoilManageR 1.2.0
+SoilManageR 1.2.1
 soilphysics 5.1
 SoilR 1.2.107
 SoilSaltIndex 0.1.0
@@ -22417,7 +22417,7 @@ ssMRCT 0.2.0
 ssmrob 1.0
 ssmsn 0.2.0
 ssMutPA 0.1.2
-SSN2 0.4.0
+SSN2 0.5.0
 SSNbayes 0.0.3
 SSNbler 1.1.2
 SSOSVM 0.2.2

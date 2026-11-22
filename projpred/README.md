@@ -1,6 +1,6 @@
 # projpred 3.0.0
 
-Latest run: 2026-11-20: https://github.com/r-devel/linux-arm64-checks/actions/runs/44818879093
+Latest run: 2026-11-22: https://github.com/r-devel/linux-arm64-checks/actions/runs/44967511518
 
 ```
 Package: projpred

@@ -1474,7 +1474,7 @@ BBI 0.3.0
 bbk 0.14.0
 bbknnR 2.0.2
 bbl 1.0.0
-BBMBC 1.0.1
+BBMBC 1.0.3
 BBmisc 1.13.2
 bbmix 1.0.0
 bbmle 1.0.26
@@ -8651,7 +8651,7 @@ ggmeta 0.1.1
 ggmGraphEditor 0.2.0
 ggmice 0.1.1
 ggmix 0.0.2
-ggmlR 0.8.8.1
+ggmlR 0.9.0
 GGMncv 2.1.2
 ggmosaic2 0.5.1
 ggmr 0.1.1
@@ -11788,7 +11788,7 @@ lexiconPT 0.1.0
 LexisNexisTools 1.0.0
 LexisPlotR 0.4.0
 lexRankr 0.5.2
-lexsync 0.1.1
+lexsync 0.2.0
 lfactors 1.0.4
 LFApp 1.4.2
 lfc 0.2.4
@@ -15454,7 +15454,7 @@ opticskxi 1.2.2
 opticut 0.1-4
 optifunset 1.0
 optim.functions 0.1
-OptimalBinningWoE 1.14.0
+OptimalBinningWoE 1.14.1
 OptimalCutpoints 1.1-5
 OptimalDesign 1.0.3
 OptimalFactor 1.5.0
@@ -16448,7 +16448,7 @@ piiR 0.3.0
 Pijavski 1.0.5
 pikchr 1.1.2
 pillar 1.11.1
-pilotr 0.3.1
+pilotr 0.4.0
 pim 2.0.4
 pimeta 1.1.3
 Pinference 0.2.6
@@ -20245,7 +20245,7 @@ rxode2 5.1.8
 rxode2lincmt 0.1.0
 rxode2ll 2.0.18
 rxode2mrgsolvebridge 0.1.0
-rxref 0.4.0
+rxref 0.5.1
 rxSeq 0.99.3
 rxylib 0.2.14
 Ryacas 1.1.6
@@ -20611,7 +20611,7 @@ scOntoMatch 0.1.1
 scoper 1.6.0
 scopr 0.3.6
 SCOPRO 0.1.0
-scopusflow 0.4.0
+scopusflow 0.5.0
 SCOR 1.1.2
 score 1.0.2
 scorecard 0.4.6
@@ -22093,7 +22093,7 @@ spca 1.1.4
 spcadjust 1.1
 SPCALDA 1.0
 spCF 0.2.2.1
-SPCompute 1.0.3
+SPCompute 1.0.4
 spconf 1.0.1
 spconform 0.1.2
 spcosa 0.4-6
@@ -22840,7 +22840,7 @@ summary2joint 0.1.0
 summarySCI 1.0.0
 summarytabl 0.2.1
 summarytools 1.1.5
-summata 0.13.0
+summata 0.13.1
 SUMMER 2.0.0
 SUMO 1.2.3
 sumSome 1.1.0
@@ -23580,7 +23580,7 @@ themescopeR 0.1.1
 themis 1.1.0
 TheOpenAIR 0.1.0
 TheOrdinals 0.1.0
-theoryforge 0.6.0
+theoryforge 0.7.0
 theorytools 0.1.3
 theRefdate 1.1.0
 ThermalSampleR 0.1.2

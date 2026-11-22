@@ -25218,7 +25218,7 @@ wCorr 1.9.8
 wcox 1.0
 WCRBayesDesign 1.0.1
 wcswatin 0.2.0
-wcvpmatch 0.0.2
+wcvpmatch 0.0.3
 WData 0.1.2
 WDI 2.8.0
 wdiEF 1.0.4

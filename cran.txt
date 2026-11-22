@@ -18091,7 +18091,7 @@ rapsimng.canola 0.1.0
 rapsimng.chickpea 0.1.0
 rapsimng.decide 0.1.0
 rapsimng.decide.core 0.1.2
-rapsimng.decide.cultivar 0.1.0
+rapsimng.decide.cultivar 0.1.2
 rapsimng.decide.nitrogen 0.1.0
 rapsimng.decide.sowing 0.1.0
 rapsimng.fababean 0.1.0

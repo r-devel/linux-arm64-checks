@@ -1,6 +1,6 @@
 # metaSEM 2.0
 
-Latest run: 2026-11-16: https://github.com/r-devel/linux-arm64-checks/actions/runs/43916483322
+Latest run: 2026-11-22: https://github.com/r-devel/linux-arm64-checks/actions/runs/44967010281
 
 ```
 Package: metaSEM

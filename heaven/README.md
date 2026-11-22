@@ -1,6 +1,6 @@
 # heaven 2026.10.30
 
-Latest run: 2026-11-20: https://github.com/r-devel/linux-arm64-checks/actions/runs/44742596984
+Latest run: 2026-11-22: https://github.com/r-devel/linux-arm64-checks/actions/runs/44966750036
 
 ```
 Package: heaven

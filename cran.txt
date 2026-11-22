@@ -242,7 +242,7 @@ admiralonco 1.5.0
 admiralophtha 1.5.0
 admiralpeds 0.4.0
 admiralvaccine 0.6.0
-admisc 0.41
+admisc 0.42
 AdMit 2.1.12
 admix 2.6.1
 AdmixPoly 1.0.1
@@ -1029,7 +1029,7 @@ autogam 0.1.0
 AutoGenAI 0.1.0
 autoGO 1.0.3
 autograph 1.3.0
-autoharp 0.3.2
+autoharp 0.4.0
 autohrf 1.1.3
 autoimage 2.2.3
 autoimport 0.1.1
@@ -1752,7 +1752,7 @@ BIGr 0.7.2
 bigreadr 0.2.5
 bigReg 0.1.5
 bigrquery 1.6.2
-bigrquerystorage 1.2.3
+bigrquerystorage 1.3.0
 bigsimr 0.12.0
 bigsnpr 1.12.21
 bigsparser 0.7.3
@@ -3306,7 +3306,7 @@ ClinTrialPredict 0.0.4
 clintrialx 0.1.1
 clinUtils 0.2.2
 cliot 1.0.0
-clipp 1.2.0
+clipp 2.0.0
 clipr 0.8.1
 CLIQUE 1.0.0
 CliquePercolation 0.4.0
@@ -4995,7 +4995,7 @@ DepDoubleTruncKS 0.1.0
 depend.truncation 3.0
 dependentsimr 1.0.0.0
 depguard 0.2.0
-depictr 0.3.0
+depictr 0.4.0
 DepLogo 1.2.2
 DEploid 0.5.7
 DEploid.utils 0.0.1
@@ -6821,7 +6821,7 @@ expperm 1.6
 ExpRep 1.0
 ExpressionCellNet 0.1.2
 expSBM 1.3.6
-expsmooth 2.3
+expsmooth 2.4.0
 expss 0.11.7
 expstudy 2.0.0
 exreport 0.4.1
@@ -7429,7 +7429,7 @@ fitteR 0.2.0
 FitUltD 3.1.0
 fitur 0.6.2
 fitVARMxID 1.0.6
-FitVerse 1.0-3
+FitVerse 1.0-4
 fitzRoy 1.8.0
 fivethirtyeight 0.6.2
 fixedCV 0.1.0
@@ -13015,7 +13015,7 @@ metamedian 1.2.2
 metamer 0.3.1
 metamisc 0.4.0
 metamixr 0.1.0
-metamorphr 0.4.1
+metamorphr 0.5.0
 metan 1.19.0
 MetaNet 0.3.2
 metanetwork 0.7.0
@@ -18092,8 +18092,8 @@ rapsimng.chickpea 0.1.0
 rapsimng.decide 0.1.0
 rapsimng.decide.core 0.1.2
 rapsimng.decide.cultivar 0.1.2
-rapsimng.decide.nitrogen 0.1.0
-rapsimng.decide.sowing 0.1.0
+rapsimng.decide.nitrogen 0.1.2
+rapsimng.decide.sowing 0.1.2
 rapsimng.fababean 0.1.0
 rapsimng.lentil 0.1.1
 rapsimng.lupin 0.1.0
@@ -22907,7 +22907,7 @@ surrosurv 1.1.27
 surrosurvROC 0.1.0
 surtvep 1.0.0
 surv2sampleComp 1.0-5
-survAH 1.2.0
+survAH 1.2.1
 survalis 2.4.1
 survAUC 1.4-0
 survAWKMT2 1.0.1
@@ -22995,7 +22995,7 @@ survPresmooth 1.1-12
 survrec 2.0.0
 SurvRegCensCov 1.8
 survregVB 0.0.2
-survRM2 1.0-4
+survRM2 1.0-5
 survRM2adapt 1.1.0
 survRM2perm 0.1.0
 survSAKK 1.3.3
@@ -23270,7 +23270,7 @@ tardis 0.1.5
 targeted 0.9.0
 targets 1.12.1
 Tariff 1.0.5
-tarpolyglot 0.2.1
+tarpolyglot 0.3.0
 taruwind 0.1.1
 TAShiny 0.1.0
 tashu 0.1.1

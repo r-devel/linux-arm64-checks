@@ -3087,7 +3087,7 @@ chromote 0.5.1
 chromseq 0.1.3
 chron 2.3-63
 chronicle 0.3
-chronicler 0.3.0
+chronicler 0.3.1
 chronochrt 0.1.5
 chronometre 0.0.2
 chronosphere 0.6.1
@@ -5791,7 +5791,7 @@ dumbbell 0.2
 dummy 0.1.3
 dundermifflin 0.1.1
 dunlin 0.1.12
-dunn.test 1.4.2
+dunn.test 1.4.3
 dupiR 1.2.1
 dupNodes 0.3.0
 dupree 0.3.0
@@ -10465,7 +10465,7 @@ Immigrate 0.2.1
 ImML 0.1.5
 immunarch 0.10.3
 immunaut 1.0.3
-immundata 0.1.0
+immundata 0.2.0
 ImmuneSigR 0.1.1
 immunogenetr 1.5.0
 Immutables 1.2.0
@@ -12906,7 +12906,7 @@ megatrees 1.0.1
 MEGB 0.2
 meifly 0.3.1
 mekko 0.1.0
-melidosData 1.0.6
+melidosData 1.0.7
 mellio 1.1.0
 melodi 1.2.1
 melt 1.11.4
@@ -14939,7 +14939,7 @@ nordklimdata1 1.2
 nordstatExtras 0.1.0
 norm 1.0-11.1
 NORMAgene 0.1.1
-normalblockr 0.3.0
+normalblockr 1.0.0
 normaliseR 0.1.2
 normality 0.0.4
 NormalityAssessment 0.1.1
@@ -18203,7 +18203,7 @@ Rbeast 1.0.2
 rbedrock 0.4.2
 rbenchmark 1.0.1
 Rbent 0.1.0
-RBesT 1.12-0
+RBesT 1.12-1
 rBeta2009 1.0.1
 RBF 2.1.1
 rbfmvar 2.1.0
@@ -22165,7 +22165,7 @@ speedycode 0.3.0
 speedytax 1.0.4
 spefa 0.1.0
 speff2trial 1.0.5
-SPEI 1.8.1
+SPEI 1.9.0
 spell.replacer 1.0.1
 spellcheckr 0.1.2
 spelling 2.3.2

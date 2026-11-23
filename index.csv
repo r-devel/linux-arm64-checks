@@ -20,6 +20,7 @@ gsDesign2,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/H
 hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hdtg
 heaven,2026.10.30,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/heaven
 kamila,0.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/kamila
+litterfitter,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/litterfitter
 memuse,4.2-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/memuse
 metaSEM,2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/metaSEM
 mig,2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mig

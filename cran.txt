@@ -8466,7 +8466,7 @@ gestalt 0.2.0
 gestate 1.6.2
 GET 1.0-9
 getable 1.0.3
-getaca 0.1.6
+getaca 0.2.0
 GetBCBData 0.9.5
 getCRUCLdata 2.0.0
 GETdesigns 1.2.0

@@ -4598,7 +4598,7 @@ dartR.base 1.3.0
 dartR.captive 1.3.1
 dartR.data 1.2.7
 dartR.popgen 1.3.0
-dartR.sexlinked 1.2.2
+dartR.sexlinked 1.3.0
 dartR.sim 1.3.0
 dartR.spatial 1.3.0
 dartRverse 1.0.6
@@ -7961,11 +7961,11 @@ futility 0.5
 future 1.82.0
 future.apply 1.21.0
 future.batchtools 0.32.0
-future.callr 1.0.1
+future.callr 1.0.2
 future.mirai 1.1.0
 future.tests 1.0.0
 futureverse 0.3.0
-futurize 1.1.0
+futurize 1.2.0
 fuzzr 0.2.2
 FuzzyAHP 0.9.5
 FuzzyClass 0.3.0
@@ -11966,7 +11966,7 @@ LitFetchR 1.1.0
 litReview 1.1.0
 litRiddle 1.0.0
 litteR 1.0.2
-litterfitter 0.1.4
+litterfitter 0.3.0
 littler 0.3.24
 liureg 1.1.3
 live 1.5.13
@@ -23378,7 +23378,7 @@ tealeaves 1.0.7
 teamcolors 0.0.4
 tectonicr 0.4.10
 tEDM 1.3
-teems 1.0.1
+teems 1.1.0
 tehtuner 0.3.0
 teigen 2.2.2
 Tejapi 1.0.1
@@ -24569,7 +24569,7 @@ uncmbb 0.2.2
 uncorbets 0.1.2
 UNCOVER 1.1.0
 underdisp 0.2.1
-undidR 3.0.2
+undidR 3.0.3
 undomanager 0.2.0
 unexcel 0.2.0
 unfold 1.0.1

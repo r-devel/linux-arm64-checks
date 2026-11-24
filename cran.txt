@@ -135,7 +135,7 @@ activity 1.3.4
 activityCounts 0.2.1
 ActivityIndex 0.3.7
 activPAL 0.1.4
-actiwalkability 0.1.0
+actiwalkability 0.2.0
 actLifer 1.0.0
 actogrammr 0.2.3
 actuar 3.3-7
@@ -375,7 +375,7 @@ ahaz 1.15.1
 AHMbook 0.2.12
 ahnr 0.3.1
 ahocorasick 0.2.0
-AhoCorasickTrie 0.1.3
+AhoCorasickTrie 0.1.4
 AHPGaussian 0.1.3
 AHPhybrid 0.1.0
 ahpsurvey 0.4.3
@@ -1325,7 +1325,7 @@ bayesdfa 1.3.4
 bayesDiagnostics 0.1.0
 BayesDIP 0.1.1
 BayesDissolution 0.2.1
-bayesDP 1.3.8
+bayesDP 1.3.9
 bayesefa 0.0.0.6
 bayesEO 0.2.2
 BayesERtools 0.2.7
@@ -11109,7 +11109,7 @@ job 0.3.1
 jobqueue 1.7.0
 JoF 0.1.0
 joineR 1.2.9
-joineRML 0.4.8
+joineRML 0.4.9
 joinery 1.1.0
 joinet 1.0.0
 joinless 0.0.1
@@ -12355,7 +12355,7 @@ maclogp 0.1.1
 macro 0.1.6
 macroBiome 0.4.0
 macrocol 0.1.0
-MacroFilters 0.2.1
+MacroFilters 0.2.2
 macrosyntR 0.3.3
 MacroZooBenthosWaterA 0.1.0
 mactivate 0.6.6
@@ -19196,7 +19196,7 @@ rinet 0.2.0
 ring 1.0.8
 ringbp 1.0.0
 ringostat 0.1.5
-ringSeg 0.1.0
+ringSeg 0.1.1
 RInside 0.2.19
 RInSp 1.2.5
 rintcal 1.4.2
@@ -20157,7 +20157,7 @@ rtypeform 2.1.1
 rucrdtw 0.1.7
 rugarch 1.5-6
 RuHere 1.1.1
-Ruido 1.2.2
+Ruido 1.2.3
 ruijter 0.1.3
 ruleatlas 0.0.1
 ruler 0.3.2
@@ -21457,7 +21457,7 @@ SIMPLICA 1.0.0
 SimplicialComplex 0.2.1
 SimplicialCubature 1.3
 simplifyNet 0.0.1
-SimplyAgree 0.3.0
+SimplyAgree 0.4.1
 SIMplyBee 0.4.1
 simPop 2.1.3
 simpowa 1.0.3
@@ -24306,7 +24306,7 @@ TSDT 1.0.8
 tsDyn 11.0.6
 TSE 0.1.0
 TSEAL 0.1.5
-tseffects 0.4.1
+tseffects 0.5.1
 TSEind 0.1.0
 tseLCA 2.1.2
 tsensembler 0.1.0

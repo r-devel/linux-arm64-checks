@@ -3737,7 +3737,7 @@ CompositionalNAimp 1.1
 CompositionalRF 1.7
 Compositionalridge 1.0
 Compositionalscsmr 1.0
-CompositionalSR 1.5
+CompositionalSR 1.6
 CompositionalZADR 1.2
 Compositionalzerocens 1.1
 compositions 2.0-9
@@ -3842,7 +3842,7 @@ connector.sharepoint 0.1.0
 connectwidgets 0.2.1
 ConnMatTools 0.3.5
 conos 1.5.4
-conover.test 1.2.1
+conover.test 1.2.2
 conquer 1.3.3
 conquestr 1.9.2
 conrad 1.0.0.1
@@ -4034,7 +4034,7 @@ corset 0.1-5
 corsym 1.0.1
 corTest 1.0.7
 corTESTsrd 1.0-0
-corto 1.4.0
+corto 1.4.1
 CortSineScore 0.1.0
 corx 1.0.7.3
 cosa 2.1.0
@@ -5749,7 +5749,7 @@ dtlog 0.2.0
 dtlscores 0.1.0
 dtmapi 0.1.0
 DTMCPack 0.1-3
-dtms 0.5.0
+dtms 0.5.3
 dtpcrm 0.1.3
 dtplyr 1.3.3
 dtptite 0.1.0
@@ -7285,6 +7285,7 @@ fgitR 0.2.0
 FGLMtrunc 0.2.0
 fgls 0.1.0
 fglsnet 1.1
+fgof 0.3-0
 FGRepo 1.3.2.0
 fgui 1.0-8
 FHDI 1.4.1
@@ -15033,7 +15034,7 @@ NPRED 1.1.0
 npreg 1.1.1
 npregderiv 1.0
 npregfast 1.6.0
-npRmpi 0.80-2
+npRmpi 0.80-3
 nprobust 1.0.0
 nproc 2.1.5
 npROCRegression 1.0-7

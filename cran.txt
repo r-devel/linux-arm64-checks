@@ -23846,7 +23846,7 @@ tinyplot 0.8.0
 tinyrox 0.4.1
 tinyroxygen 0.1
 tinyscholar 0.1.7
-tinyshinyserver 0.2.1
+tinyshinyserver 0.3.0
 tinysnapshot 0.3.0
 tinyspotifyr 0.2.3
 tinytable 0.19.0
@@ -24107,7 +24107,7 @@ transformr 0.1.5
 transfR 1.1.18
 transfRgov 0.1.1
 transGFM 1.0.2
-TransHDM 1.1.3
+TransHDM 1.1.6
 Transition 1.0.3
 transitiontrees 0.2.0
 transittraj 1.2.0

@@ -19,7 +19,6 @@ dartRverse,1.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/
 dqcheckr,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/dqcheckr
 gsDesign2,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gsDesign2
 hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hdtg
-heaven,2026.10.30,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/heaven
 kamila,0.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/kamila
 litterfitter,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/litterfitter
 memuse,4.2-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/memuse

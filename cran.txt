@@ -3300,7 +3300,7 @@ ClinicalUtilityRecal 0.1.1
 clinify 0.4.1
 clinmon 0.6.0
 clinPK 0.13.0
-clinpubr 1.4.3
+clinpubr 1.4.4
 ClinSigMeasures 1.3
 clinspacy 1.0.2
 clintools 0.9.10.1
@@ -13820,7 +13820,7 @@ MorphoRegions 0.2.0
 MorphoTools2 1.0.2.1
 MorphSim 1.2.1
 morrowplots 0.2.0
-morse 3.6.0
+morse 3.6.1
 morseDR 0.1.3
 morseTKTD 0.1.3
 mort 0.0.1
@@ -14489,7 +14489,7 @@ ncar 0.7.3
 ncbit 2013.03.29.1
 NCC 1.0
 ncdf4 1.24
-ncdfCF 0.8.2
+ncdfCF 0.9.0
 ncdfgeom 1.2.3
 ncf 1.3-3
 ncmeta 0.5.0
@@ -21632,7 +21632,7 @@ slippymath 0.3.1
 slm 1.2.0
 SLModels 0.1.2
 sloop 1.0.1
-SLOPE 2.1.1
+SLOPE 2.2.0
 slopes 2.0.0
 SLOS 2.0.0
 SlotLim 0.0.2
@@ -23407,7 +23407,7 @@ temperatureresponse 0.2
 templateICAr 0.11.3
 templates 0.4.0
 templr 0.2-4
-TEMPO 0.2.0
+TEMPO 0.2.1
 tempodisco 2.1.0
 Temporal 0.3.0.2
 TemporalForest 0.1.4

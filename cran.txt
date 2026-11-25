@@ -3821,7 +3821,7 @@ CongressData 1.5.5
 CongreveLamsdell2016 1.0.3
 CoNI 0.1.0
 conicfit 1.0.4
-Conigrave 0.4.4
+Conigrave 0.5.0
 conjoint 1.42
 ConjointChecks 0.2.0
 conjurer 1.7.1
@@ -4036,7 +4036,7 @@ corTest 1.0.7
 corTESTsrd 1.0-0
 corto 1.4.1
 CortSineScore 0.1.0
-corx 1.0.7.3
+corx 1.0.8
 cosa 2.1.0
 cosCorr 1.0.0
 cosimmr 1.0.12
@@ -4860,7 +4860,7 @@ decision 0.1.0
 DecisionDrift 0.2.0
 decisionfacets 0.2.0
 decisionpaths 0.1.0
-decisions 0.1.0
+decisions 0.1.1
 decisionSupport 1.115
 deckgl 0.3.0
 deckglgeoarrow 0.0.2
@@ -10798,7 +10798,7 @@ ipeaplot 1.0.0
 iPEB 0.1.1
 IPEC 1.1.2
 IPEDS 0.1.0
-IPEDSuploadables 3.0.1
+IPEDSuploadables 3.1.1
 iperform 0.0.3
 ipeval 0.1.2
 ipf 0.0.3
@@ -17696,7 +17696,7 @@ QsRutils 0.2.1
 qst 0.1.2
 qsub 1.1.3
 qtbi 0.1.2
-qte 2.0.0
+qte 2.1.0
 QTE.RD 1.2.0
 qtkit 1.1.1
 qtl 1.74
@@ -20096,7 +20096,7 @@ rtf 0.4-15
 RTFA 0.1.0
 RTFBoost 0.1.0
 rtForecastEval 0.1.0
-RtForecastR 0.1.1
+RtForecastR 0.1.2
 rTG 1.0.4
 rtgstat 0.3.6
 Rthingsboard 0.2.7
@@ -20206,7 +20206,7 @@ rvif 3.2.1
 rvinecopulib 1.0.0.1.0
 RVIpkg 0.3.4
 rvisidata 1.0.0
-rvisual 0.1.1
+rvisual 0.3.0
 rvkstat 3.3.2
 rvMF 0.1.2
 rvmprior 0.1.0
@@ -20770,7 +20770,7 @@ SeBR 1.1.0
 secfile 0.1.1
 SECFISH 0.1.7
 SECP 0.1.5
-secr 5.5.1
+secr 5.6.1
 secrdesign 2.10.3
 secret 1.1.0
 secretbase 1.3.1

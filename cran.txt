@@ -1371,6 +1371,7 @@ BayesianTrial 0.1.0
 bayesianVARs 0.1.8
 bayesics 3.1.2
 bayesImageS 0.7-1
+bayesintervals 3.0.0
 BayesLCA 1.9
 bayesLife 5.3-1
 bayeslist 0.0.1.6
@@ -2352,6 +2353,7 @@ bssm 2.0.3
 BSSoverSpace 0.1.0
 BSSprep 0.1
 bst 0.3-24
+Bstergm 0.1.0
 BSTFA 0.1.2
 bsTools 1.0.5
 bstrl 1.0.2
@@ -4739,6 +4741,7 @@ dbarts 0.9-34
 dbcturbo 0.3.0
 DBCVindex 1.6
 dbd 0.0-22
+DBEST 1.9
 DBfit 2.0
 dbGaPCheckup 1.1.0
 dbglm 1.0.0
@@ -9990,6 +9993,7 @@ hoopR 3.1.0
 hopbyhop 3.41
 hopit 0.11.6
 hopkins 1.3
+horizonclaims 0.1.0
 HoRM 0.1.4
 hornpa 1.1.1
 Horsekicks 1.0.2
@@ -13185,7 +13189,7 @@ MHTmult 0.1.0
 mhtopt 1.0.0
 MHTrajectoryR 1.0.1
 mhurdle 1.3-2
-mi 1.3.1
+mi 1.3.3
 mi4p 1.3
 MIAmaxent 1.4.1
 miapack 0.2.0
@@ -17045,6 +17049,7 @@ pRecipe 3.0.3
 precisely 0.1.2
 precisePlacement 0.2.0
 PreciseSums 0.7
+precisionenvelope 0.1.0
 precmed 1.1.0
 precommit 0.4.3
 precrec 0.24.0
@@ -18834,7 +18839,7 @@ remulate 2.1.0
 remverse 0.2.0
 REN 0.1.0
 rENA 0.3.1
-rencher 0.1.6
+rencher 0.1.7
 REndo 2.5.0
 Renext 3.1-5
 renpow 0.1-1
@@ -18984,7 +18989,7 @@ retrosheet 1.1.7
 retry 0.1.1
 reval 3.1-0
 ReVAMP 1.1.0
-revdbayes 1.5.7
+revdbayes 1.5.8
 revealedPrefs 0.4.2
 revealjs 0.10.0
 reveneraR 1.0.1
@@ -20972,6 +20977,7 @@ seqmagick 0.1.9
 seqminer 9.9
 seqmon 2.5
 SeqNet 1.1.4
+seqout 0.2.8
 seqSHP 0.1.1
 SEQTaRget 1.4.5
 seqtest 0.1-0
@@ -23005,6 +23011,7 @@ surviveR 1.0.0
 survivoR 2.3.12
 survkl 1.0.2
 survlab 0.2.0
+survlearning 0.3.5
 SurvLong 1.5
 SurvMA 1.6.8
 SurvMetrics 0.5.2
@@ -23315,6 +23322,7 @@ taxa 0.4.4
 taxadb 0.3.0
 taxalight 0.1.5
 TaxaNorm 2.4
+taxaudit 0.1.0
 taxdiv 0.1.0
 TaxicabCA 0.1.2
 taxify 0.7.1
@@ -25023,6 +25031,7 @@ VisitorCounts 2.0.4
 vismeteor 3.1.0
 vismi 1.0.0
 visNetwork 2.1.4
+visNICE 1.0.0
 visOmopResults 1.5.1
 visor 0.1.1
 visPedigree 1.10.1
@@ -25158,7 +25167,7 @@ waldo 0.6.2
 walkability 0.1.0
 walkboutr 0.6.0
 walker 1.0.10
-walking 0.8.2
+walking 0.9.0
 walkscore 0.1.2
 walkscoreAPI 1.2
 wallace 2.2.1

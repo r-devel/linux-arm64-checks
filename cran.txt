@@ -2547,7 +2547,7 @@ canvasXpressDashboards 0.1.1
 CAOP.RAA.2024 0.0.5
 caper 1.0.4
 capesData 0.0.1
-capesR 0.2.1
+capesR 0.3.0
 capitalR 1.3.0
 capl 1.42
 caples 0.1.0
@@ -17036,7 +17036,7 @@ PRANA 1.0.6
 praznik 13.0.0
 PRBMSdesigns 1.0.1
 prcbench 1.1.16
-prCGGM 0.1.0
+prCGGM 0.2.0
 prcr 0.2.1
 PRDA 1.0.2
 pre 1.1.1
@@ -19516,7 +19516,7 @@ rnr 0.2.1
 rnrfa 2.1.0.7
 Rnumerai 3.0.1
 Rnvd3 1.0.0
-roadDB 1.0.0
+roadDB 1.0.1
 roadoi 0.7.3
 roads 1.2.2
 roahd 1.4.3
@@ -20739,7 +20739,7 @@ sdmpredictors 0.2.15
 sdmTMB 1.2.0
 SDMtune 1.3.3
 sdmvspecies 0.3.2
-SDPDmod 0.0.8
+SDPDmod 0.0.9
 sdprisk 1.1-6
 SDPrism2D 0.1.1
 sdrt 1.0.0
@@ -24648,7 +24648,7 @@ unival 1.1.0
 univariateML 1.5.0
 UniversalCVI 2.0.0
 universals 0.0.5
-univOutl 0.5.0
+univOutl 0.6.0
 UnivRNG 1.2.3
 unix 1.6.0
 unjoin 0.1.0

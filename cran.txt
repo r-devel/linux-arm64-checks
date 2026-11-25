@@ -3727,7 +3727,7 @@ CompModels 0.3.0
 COMPoissonReg 0.8.2
 CompositeReliability 1.0.3
 compositeReliabilityInNestedDesigns 1.0.4
-Compositional 8.5
+Compositional 8.6
 compositional.mle 2.0.1
 Compositionalasmr 1.0
 Compositionalcln 1.1
@@ -5265,7 +5265,7 @@ directadjusting 0.7.0
 directAgeStd 0.0.2
 DirectedClustering 1.0.0
 DirectEffects 0.3
-Directional 8.0
+Directional 8.1
 directlabels 2026.8.27
 directPA 1.5.1
 DirectStandardisation 1.3
@@ -16744,7 +16744,7 @@ pogit 1.3.0
 PogromcyDanych 1.7.1
 poibin 1.6
 PoiClaClu 1.0.2.1
-poilog 0.4.2.1
+poilog 0.5.0
 POINT 1.4
 pointblank 0.12.4
 pointcoral 0.1.0
@@ -23857,7 +23857,7 @@ tinylens 0.1.0
 tinyoauth 0.1.1
 tinypkgr 0.2.2
 tinyplot 0.8.0
-tinyrox 0.4.1
+tinyrox 0.4.2
 tinyroxygen 0.1
 tinyscholar 0.1.7
 tinyshinyserver 0.3.0
@@ -24369,7 +24369,7 @@ TSP 1.3.0
 tsPI 1.0.4
 tspmeta 1.2
 TSPred 5.1.1
-tspredit 2.0.717
+tspredit 2.0.757
 TSQCA 1.3.3
 TSQLEM 0.1.0
 tsqn 1.2.0

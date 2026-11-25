@@ -20,7 +20,6 @@ dqcheckr,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HE
 gsDesign2,1.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/gsDesign2
 hdtg,0.3.4,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/hdtg
 kamila,0.2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/kamila
-litterfitter,0.3.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/litterfitter
 memuse,4.2-3,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/memuse
 metaSEM,2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/metaSEM
 mig,2.0,linux-arm64,https://github.com/r-devel/linux-arm64-checks/tree/HEAD/mig

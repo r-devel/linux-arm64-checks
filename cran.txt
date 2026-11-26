@@ -1164,7 +1164,7 @@ bacondecomp 0.1.1
 bacontrees 1.0.0
 BACprior 2.1.2
 bacr 1.0.1
-badcontrols 1.0.1
+badcontrols 1.1.0
 badgen 1.0.1
 badger 0.2.5
 badp 0.8.0
@@ -1339,7 +1339,7 @@ BayesFluxR 0.1.3
 BayesFM 0.1.7
 BayesfMRI 0.11.0
 bayesforecast 1.0.5
-BayesForge 0.0.1
+BayesForge 0.0.2
 BayesFR 1.0.1
 bayesGARCH 2.2.0
 BayesGmed 0.0.3
@@ -1602,6 +1602,7 @@ bentcableAR 0.3.1
 benthos 2.0-0
 BeQut 0.1.0
 Bergm 6.0.0
+Bergm.ws 0.1.0
 BerkeleyForestsAnalytics 4.0.0
 Bernadette 1.1.6
 berryFunctions 1.22.13
@@ -2114,7 +2115,7 @@ BoneProfileR 4.0
 bones 0.2.0
 BonEV 1.0
 bonn 1.0.3
-bonsai 0.4.1
+bonsai 0.5.0
 bonsaiforest 0.1.1
 bonsaisitter 0.1.2
 booami 0.1.3
@@ -3740,7 +3741,7 @@ CompositionalML 1.0
 CompositionalMPT 1.0
 CompositionalNAimp 1.1
 CompositionalRF 1.7
-Compositionalridge 1.0
+Compositionalridge 1.1
 Compositionalscsmr 1.0
 CompositionalSR 1.6
 CompositionalZADR 1.2
@@ -4084,7 +4085,7 @@ countSTAR 1.2.1
 countts 0.1.0
 countyhealthR 0.1.5
 coupling 0.1
-couplr 1.9.0
+couplr 2.0.0
 courieR 0.3.1
 coursekata 0.21.0
 covadap 1.0.1
@@ -5316,7 +5317,7 @@ discretes 0.1.1
 DiscreteTests 0.5.3
 DiscreteWeibull 1.1
 discretization 1.0-1.1
-discrim 1.1.0
+discrim 1.2.0
 discrtr 0.0.1
 discSurv 2.5.1
 discursive 0.1.1
@@ -7990,7 +7991,7 @@ fuzzr 0.2.2
 FuzzyAHP 0.9.5
 FuzzyClass 0.3.0
 fuzzyforest 1.0.8
-FuzzyImputationTest 0.5.5
+FuzzyImputationTest 0.5.6
 fuzzyjoin 0.1.8
 fuzzylink 0.4.1
 FuzzyLogit 0.1.1
@@ -8056,6 +8057,7 @@ gamboostLSS 2.2-0
 gamclass 0.62.7
 gamCopula 0.0-8
 GAMens 1.2.1
+gameofthrones 1.0.3
 gameR 0.0.7
 gamesGA 1.1.3.7
 GameTheory 2.7.1
@@ -9614,7 +9616,7 @@ HaploVar 0.1.2
 happign 0.3.8
 HAPTRACE 0.1.2
 harbinger 2.1.707
-hardhat 1.4.3
+hardhat 1.4.4
 HardyWeinberg 1.7.9
 harf 0.1.0
 harmonicmeanp 3.0.1
@@ -10082,7 +10084,7 @@ HTSeed 0.1.0
 HTSeedGLM 0.1.0
 htsr 2.1.7
 HTT 0.1.2
-httk 2.7.4
+httk 3.0.0
 httkexamples 0.0.1
 httpcache 1.2.0
 httpcode 0.3.0
@@ -11699,6 +11701,7 @@ lcyanalysis 1.0.4
 lczexplore 0.1.2
 lda 1.5.2
 LDAandLDAS 1.1.3
+LDAcoop 0.1.3
 ldamatch 1.0.3
 ldaPrototype 0.3.2
 LDAShiny 1.1.0
@@ -11800,7 +11803,7 @@ lessSEM 1.5.7
 lest 1.1.0
 lestat 1.9
 letsHerp 0.1.0
-letsR 6.0
+letsR 6.1
 letsRept 1.1.3
 lettervalue 0.2.1
 leunbachR 0.1.0
@@ -13143,6 +13146,7 @@ mfp2 1.1.1
 MFPCA 1.3-11
 mfpp 0.0.9
 MFRCD 0.1.1
+mfrmr 0.3.2
 MFSD 0.1.1
 MFSIS 0.3.1
 MFT 3.1
@@ -14575,7 +14579,7 @@ NestedMenu 0.2.0
 nestedpp 0.2.0
 nestedscales 0.3.0
 nestfs 1.0.3
-Nestimate 0.9.24
+Nestimate 1.2.0
 NestMRMC 1.0
 nestr 0.1.2
 net4pg 0.1.2
@@ -15822,6 +15826,7 @@ palsr 0.1.1
 pam 2.3.0
 PamBinaries 1.9.3
 PAmeasures 2.0.0
+pamflow 0.6.1
 PAMhm 0.1.2
 pamm 1.122
 PAMmisc 1.14.2
@@ -16121,7 +16126,7 @@ pdist 1.2.1
 PDM 0.1
 PDMIF 0.1.0
 PDN 0.1.0
-pdokr 0.1.0
+pdokr 0.2.0
 pdp 0.10.0
 pdqr 0.3.1
 PDQutils 0.1.6
@@ -17331,7 +17336,7 @@ ProxReg 1.1.2
 proxy 0.4-29
 proxyC 0.6.0
 proxymix 0.17.0
-prozor 0.3.1
+prozor 0.5.0
 PRP 0.1.1
 prqlr 0.10.2
 prrd 0.1.0
@@ -20178,7 +20183,7 @@ Ruido 1.2.3
 ruijter 0.1.3
 ruleatlas 0.0.1
 ruler 0.3.2
-rules 1.0.3
+rules 1.1.0
 RulesTools 0.1.1
 rUM 2.3.0
 rumenGP 0.2.1
@@ -21019,7 +21024,7 @@ settings 0.2.7
 settingsSync 3.0.2
 setweaver 1.0.0
 setwidth 1.1.0
-Seurat 6.0.0
+Seurat 6.0.1
 SeuratExplorer 0.1.10
 SeuratObject 5.4.0
 sevenbridges2 0.4.0
@@ -21041,7 +21046,7 @@ sfd 0.1.0
 sfdct 0.3.0
 sfdep 0.2.5
 SFDesign 0.1.5
-sffdr 1.1.2
+sffdr 1.2.5
 sFFLHD 0.1.2
 sfheaders 0.4.5
 SFHNV 0.1.0
@@ -21855,7 +21860,7 @@ soilassessment 1.3.1
 soilchemistry 0.1.0
 soilcnn 0.1.0
 SoilConservation 1.0.1
-soilDB 2.9.2
+soilDB 2.9.4
 SoilFDA 0.1.0
 soilFlux 0.1.5
 soilfoodwebs 1.0.2
@@ -22097,7 +22102,7 @@ spatsoc 0.2.13
 spatstat 3.6-3
 spatstat.convert 1.0-1
 spatstat.data 3.1-9
-spatstat.explore 3.8-3
+spatstat.explore 3.8-5
 spatstat.geom 3.8-4
 spatstat.gui 3.1-0
 spatstat.Knet 3.1-3
@@ -23214,7 +23219,7 @@ tab 5.1.1
 tab2xml 1.1.0
 Taba 1.0.0
 tabbitR 0.1.3
-tabby 0.0.1
+tabby 0.1.0
 tabbycat 0.18.0
 taber 0.1.2
 tabit 0.2.1
@@ -23329,7 +23334,7 @@ taxize 0.10.1
 taxizedb 0.3.2
 taxlist 0.3.5
 taxnames 0.1.0
-taxodist 1.0.0
+taxodist 1.1.0
 taxonomizr 0.11.1
 TaxResolveR 0.1.0
 taylor 4.0.0
@@ -23551,7 +23556,7 @@ textmineR 3.0.6
 TextMiningGUI 0.3
 textometry 0.1.7
 textplot 0.2.3
-textpress 1.1.1
+textpress 1.1.2
 textrank 0.3.1
 textrar 0.9.0
 textreg 0.1.6
@@ -24809,7 +24814,7 @@ vangogh 0.1.3
 VanillaCalendar 1.0.0
 vannstats 1.6.8.16
 vantorr 0.3.0
-vapour 0.16.0
+vapour 0.20.0
 VAR.etp 1.1
 VAR.spec 1.0
 varbin 0.2.1

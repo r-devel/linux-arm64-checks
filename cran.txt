@@ -13461,7 +13461,7 @@ mixSPE 0.9.3
 mixsqp 0.3-54
 mixSSG 2.1.1
 MixStable 0.1.0
-mixtime 0.5.0
+mixtime 0.5.1
 mixtools 2.0.0.1
 mixtox 1.5.0
 mixtree 0.0.1

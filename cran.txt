@@ -3842,6 +3842,7 @@ connected 1.2
 ConnectednessApproach 1.0.4
 Connection 0.1.0
 connections 0.2.1
+connectivity 0.1.0
 connectoModa 1.0.0
 connector 1.0.0
 connector.databricks 0.2.0
@@ -3865,7 +3866,7 @@ consort 1.2.4
 consortr 0.9.1
 ConSpline 1.2
 ConsRank 3.1.2
-ConsRankClass 1.0.2
+ConsRankClass 1.1.0
 ConsReg 0.1.0
 consrq 1.0
 constants 2022.0
@@ -5181,6 +5182,7 @@ diceR 3.2.0
 DICErClust 0.1.3
 DiceView 4.0
 dichromat 2.0-1
+dicomr 0.1.0
 DICOMread 0.0.0.3
 dicomtk 0.1.0
 Dict 0.1.0
@@ -9478,7 +9480,7 @@ gtexr 0.2.1
 gtExtras 0.6.2
 gtexture 1.0.1
 gtfs2emis 0.1.2
-gtfs2gps 2.1-4
+gtfs2gps 3.0-0
 GTFShift 1.2.0
 gtfsio 1.2.2
 gtfsrealtime 0.2.1
@@ -15091,7 +15093,7 @@ nsga3 0.0.3
 NSM3 1.20
 nsm3data 0.1
 NSMM 0.1.2
-NSO1212 1.4.0
+NSO1212 2.0.0
 nsp 1.0.0
 nspmix 2.0-0
 nsprcomp 0.5.1-2
@@ -15924,7 +15926,7 @@ parseLatex 0.4.4
 parsermd 0.2.0
 parseRPDR 1.1.2
 parSim 0.4.0
-parsnip 1.6.1
+parsnip 1.7.0
 PartCensReg 1.39
 partDSA 0.9.15
 partialised 0.1.1
@@ -16486,7 +16488,7 @@ pikchr 1.1.2
 pillar 1.11.1
 pilotr 0.4.0
 pim 2.0.4
-pimeta 1.1.3
+pimeta 1.1.4
 Pinference 0.2.6
 pinfsc50 1.3.0
 pingers 0.1.1
@@ -23983,6 +23985,7 @@ tokenbrowser 0.1.6
 tokenizers 0.3.0
 tokenizers.bpe 0.1.6
 tokenusagedata 0.1.0
+tokr 1.0.3
 tolerance 3.0.0
 tomba 1.0.1
 toml 1.2.0

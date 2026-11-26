@@ -1457,7 +1457,7 @@ bayesvl 1.0.0
 BayesVolcano 1.0.1
 bayesWatch 0.1.4
 BayesX 0.3-3
-BayesXsrc 3.0-7.1
+BayesXsrc 3.0-8
 bayesZIB 0.0.5
 bayfoxr 0.0.1
 baygel 0.3.0
@@ -3776,6 +3776,7 @@ cond 1.2-4
 condathis 0.1.4
 CondCopulas 0.2.0
 condensr 1.0.0
+condepe 0.1.0
 condformat 0.11.0
 condGEE 0.2.0
 condir 0.1.4
@@ -7269,6 +7270,7 @@ fetch 0.1.5
 fetchGoogleAnalyticsR 0.1.0
 fetchSalesforceR 0.1.0
 fetwfe 1.10.1
+fewclust 0.4.3
 fExtremes 4032.84
 ff 4.5.3
 ffaframework 0.1.3
@@ -9231,7 +9233,7 @@ GPUmatrix 1.0.3
 gputools 2.1.0
 GPvam 3.4-0
 GPvecchia 0.1.8
-gpyramid 0.0.1
+gpyramid 0.0.2
 gqlr 0.1.0
 gquad 2.1-2
 GRAB 0.2.5
@@ -16922,7 +16924,7 @@ postcard 1.1.0
 postcards 0.2.3
 PostcodesioR 0.3.1
 postdoc 1.4.2
-posterior 1.8.0
+posterior 1.8.1
 PosteriorBootstrap 0.1.3
 postHoc 0.1.3
 postinfectious 0.1.0
@@ -17379,6 +17381,7 @@ PSGD 1.0.6
 PSGoft 0.0.1
 psgp 0.3-26
 psHarmonize 0.3.6
+pSI 1.2.0
 psica 1.0.2
 psidR 2.3
 psidread 1.0.7
@@ -18309,6 +18312,7 @@ rchemo 0.1-4
 rcheology 4.6.1.0
 RChest 1.0.3
 rchime 0.1.3
+RChiSquare 1.0.0
 RchivalTag 0.2.2
 Rchoice 0.3-6
 rChoiceDialogs 1.0.6.1
@@ -18391,6 +18395,7 @@ Rcplex 0.3-8
 Rcpp 1.1.2
 RCppAD 1.20260000.0-2
 RcppAlgos 2.10.4
+RcppAMGCL 0.1.0
 RcppAnnoy 0.0.23
 RcppAPT 0.0.10
 RcppArmadillo 15.8.0-1
@@ -19282,7 +19287,7 @@ rjags 5-5
 RJalaliDate 0.1.0
 rJava 1.0-18
 rJavaEnv 0.3.0
-rjd3bench 3.1.3
+rjd3bench 3.2.0
 rjd3bridge 0.1.0
 rjd3filters 2.4.0
 rjd3highfreq 3.0.1
@@ -19517,7 +19522,7 @@ Rnightly 0.1.0
 rnmamod 0.5.1
 Rnmr1D 1.3.2
 rnn 1.9.1
-rnndescent 0.2.0
+rnndescent 0.3.0
 rnnmf 0.3.1
 RNOmni 1.0.1.2
 rnpn 1.4.2
@@ -24655,6 +24660,7 @@ unitrootests 1.1.2
 units 1.0-1
 UnitStat 1.1.0
 unittest 1.8-0
+UnitTrans 0.2.0
 unityForest 0.2.0
 unival 1.1.0
 univariateML 1.5.0
@@ -24885,6 +24891,7 @@ vccp 0.1.1
 vcd 1.4-14
 vcd2df 1.0.1
 vcdExtra 0.9.9
+vcdinteractive 0.1.0
 VCFArrow 1.0.0
 vcfheader 0.1.0
 vcfppR 0.8.4

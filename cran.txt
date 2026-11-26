@@ -9761,7 +9761,7 @@ heatwaveR 0.5.5
 heaven 2026.11.24
 heavytails 0.2.0
 heck 0.1.7
-HeckmanEM 0.2-2
+HeckmanEM 0.2-3
 heckmanGE 1.0.0
 HeckmanStan 1.0.0
 HEDA 0.1.5

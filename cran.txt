@@ -1456,7 +1456,7 @@ BayesVarSel 2.4.5
 bayesvl 1.0.0
 BayesVolcano 1.0.1
 bayesWatch 0.1.4
-BayesX 0.3-3
+BayesX 0.3-4
 BayesXsrc 3.0-8
 bayesZIB 0.0.5
 bayfoxr 0.0.1
@@ -2985,7 +2985,7 @@ charcuterie 0.0.6
 charisma 1.0.0
 charlatan 0.6.2
 charlesschwabapi 1.0.5
-charport 0.2.0
+charport 0.3.0
 charr 0.2.0
 chartreview 1.0
 chat.api 0.2.0
@@ -17882,7 +17882,7 @@ r02pro 0.2.1
 R1magic 0.3.4
 R2Addhaz 0.1.0
 R2admb 0.7.16.3
-R2BayesX 1.1-6
+R2BayesX 1.1-7
 R2BEAT 1.0.5
 R2camtrapdp 2.1.0
 r2country 2.0.2.4.0

@@ -375,7 +375,7 @@ agvgd 0.1.2
 ahaz 1.15.1
 AHMbook 0.2.12
 ahnr 0.3.1
-ahocorasick 0.2.0
+ahocorasick 0.3.0
 AhoCorasickTrie 0.1.4
 AHPGaussian 0.1.3
 AHPhybrid 0.1.0
@@ -5377,7 +5377,7 @@ distributional 0.9.0
 DistributionalDDA 0.1.1
 DistributionIV 0.1.3
 DistributionOptimization 1.2.6
-distributions3 0.3.0
+distributions3 0.3.1
 distributionsrd 0.0.6
 DistributionTest 1.1
 DistributionUtils 0.6-2
@@ -13278,7 +13278,7 @@ MigConnectivity 0.5.0
 MIGEE 0.1.0
 migest 2.0.6
 mighty.component 0.2.0
-mighty.metadata 0.2.0
+mighty.metadata 0.2.1
 migraph 1.7.2
 migrate 0.5.1
 migration.indices 0.3.1
@@ -21219,7 +21219,7 @@ shinyfilter 0.1.1
 shinyfilters 0.3.2
 shinyfullscreen 1.1.0
 shinygenui 0.2.0
-shinyGizmo 0.5.0
+shinyGizmo 0.6.0
 shinyglass 0.6.0
 shinyglide 0.1.4
 shinyGovstyle 0.3.0

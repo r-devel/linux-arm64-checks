@@ -790,7 +790,7 @@ arcopt 0.3.0
 arcpbf 0.3.0
 arcpullr 0.3.5
 arcpy 0.4-0
-arcstat 0.3.1
+arcstat 0.4.0
 ArctosR 0.1.4
 aRD 0.1.0
 ardea 0.1.1
@@ -1999,7 +1999,7 @@ blocking 1.0.3
 blocklength 0.2.2
 blockmatrix 1.0
 BlockMissingData 0.1.1
-blockmodeling 1.1.8
+blockmodeling 1.1.9
 BlockmodelingGUI 1.8.4
 blockmodels 1.2.1
 blockr 0.1.0
@@ -2705,7 +2705,7 @@ causalHyperGraph 0.1.0
 CausalImpact 1.4.1
 causaljudgment 0.1.0
 CausalLoopAnalytics 1.0.0
-causalMed 0.1.3
+causalMed 0.1.4
 CausalMetaR 0.1.3
 CausalMixGPD 0.8.0
 CausalModels 0.2.1
@@ -2808,7 +2808,7 @@ cdfinv 0.1.0
 cdfquantreg 1.3.1-2
 CDFt 1.2
 cdgd 1.0.1
-CDGHMM 0.1.6
+CDGHMM 0.1.7
 cdid 1.4.0.0
 cdiscdata 0.2.0
 cdiWG2WS 0.2.0
@@ -13479,7 +13479,7 @@ mixture 2.2.1
 MixtureFitting 0.8.0
 MixtureMissing 3.0.6
 MixTwice 2.0
-mixvlmc 0.2.2
+mixvlmc 0.3.1
 mize 0.3.0
 mizer 3.4.0
 mizu 0.1.1
@@ -17237,7 +17237,7 @@ profExtrema 0.2.2
 proffer 0.2.2
 profile 1.0.4
 profileCI 1.1.1
-ProfileGLMM 1.1.0
+ProfileGLMM 1.2.0
 ProfileLadder 0.2.2
 ProfileLikelihood 1.3
 profileModel 0.6.2
@@ -17804,7 +17804,7 @@ quantregGrowth 1.7-2
 quantregRanger 1.0
 quantsig 0.1.0
 quantspec 1.2-4
-quaqcr 1.0.4
+quaqcr 1.1.0
 quarks 1.1.6
 quarrint 1.0.1
 quartabs 0.2.0
@@ -18820,7 +18820,7 @@ reliaR 0.2
 ReliaShiny 0.5
 relimp 1.0-5
 RelimpPCR 0.3.0
-relm 0.6.3
+relm 0.6.4
 relMix 1.4.1
 relSim 1.0.0
 relsurv 2.3-3
@@ -20596,7 +20596,7 @@ sceua 0.1.1
 scf 1.2.0
 scFlex 0.1.0
 SCFMonitor 0.3.5
-scGate 1.7.2
+scGate 1.8.0
 SCGLR 3.1.0
 scGOclust 0.2.1
 scgwr 0.1.2-21
@@ -22176,7 +22176,7 @@ spect 1.0
 spectacles 0.5-5
 spectator 0.2.0
 spectr 1.0.1
-spectra2rgb 0.1.1
+spectra2rgb 0.1.2
 spectrakit 0.2.0
 spectral 2.0
 spectralAnomaly 0.1.1
@@ -23087,7 +23087,7 @@ SVMD 0.1.0
 svmf 1.1
 svMisc 1.4.3
 SVMMaj 0.2.9.4
-svmodt 0.1.0
+svmodt 0.1.2
 svmpath 0.970
 SVN 1.0.1
 svpChange 0.2.1
@@ -24789,6 +24789,7 @@ vacuum 0.1.0
 vaersNDvax 1.0.4
 vaersvax 1.0.5
 vagalumeR 0.1.6
+VAJointSurv 0.1.2
 valaddin 1.0.2
 ValCurvaR 0.1.0
 vald.extractor 0.1.1

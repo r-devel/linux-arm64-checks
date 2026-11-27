@@ -19257,7 +19257,7 @@ riskPredictClustData 0.2.7
 riskRegression 2026.03.11
 risks 0.4.3
 riskscores 1.3.1
-RiskScorescvd 0.3.1
+RiskScorescvd 0.4.0
 risksetROC 1.0.4.1
 riskSimul 0.1.2
 riskutility 0.2.0
@@ -19344,7 +19344,7 @@ rLakeAnalyzer 1.11.4.1
 rLakeHabitat 1.0.3
 rlandfire 2.0.2
 rlang 1.3.0
-rlas 1.9.5
+rlas 1.10.0
 rlcv 1.0.0
 rLDCP 1.0.2
 rle 0.10.0
@@ -20570,7 +20570,7 @@ sccca 0.1.1
 SCCDdesign 0.2.0
 sccic 0.1.1
 scclust 0.2.5
-sccore 1.0.7
+sccore 1.0.8
 sccr 2.1
 SCCS 1.8
 scCustomize 3.3.0
@@ -20865,7 +20865,7 @@ selectiongain 2.0.710
 SelectionTools 26.6
 selectiveInference 1.2.5
 selectMeta 1.0.9
-selectr 0.8-0
+selectr 0.8-1
 SelectSim 0.1.6
 selectspm 0.7
 selectTWFE 0.2.1
@@ -21776,7 +21776,7 @@ smrlasso 1.0
 sms 2.3.1
 smsets 2.0.0
 smsncut 0.1.0
-sMSROC 0.1.3
+sMSROC 0.1.4
 smss 1.0-2
 sMTL 0.1.0
 smurf 1.1.8

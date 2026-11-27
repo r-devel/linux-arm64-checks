@@ -1198,7 +1198,7 @@ bama 1.3.1
 BAMBI 2.3.7
 bambooHR 0.1.1
 bamdit 3.6.0
-bamlss 1.2-5
+bamlss 1.2-6
 bamm 0.6.2
 BAMMtools 2.1.12
 bamp 3.0.0
@@ -7871,7 +7871,7 @@ frscore 0.5.2
 fru 1.0.1
 fruclimadapt 0.4.5
 fs 2.1.0
-FSA 0.10.1
+FSA 0.10.2
 FSAdata 0.4.1
 fsbrain 1.0.0
 fscache 1.0.5
@@ -9793,7 +9793,7 @@ helsinki 1.0.6
 hemat 1.1.3
 hemispheR 1.1.8
 henna 0.8.5
-heplots 1.8.6
+heplots 1.8.7
 hera 0.1.1
 here 1.0.2
 hereR 1.1.0
@@ -22108,7 +22108,7 @@ spatpersist 0.1.0
 spatPomp 1.1.0
 SpATS 1.0-20
 spatsoc 0.2.13
-spatstat 3.6-3
+spatstat 3.6-4
 spatstat.convert 1.0-1
 spatstat.data 3.1-9
 spatstat.explore 3.8-5

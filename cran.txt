@@ -2287,7 +2287,7 @@ brms 2.23.0
 brms.mmrm 1.1.2
 brmsmargins 0.3.0
 brnn 0.9.4
-broadcast 0.1.9.8
+broadcast 0.2.0
 Brobdingnag 1.3-1
 brochure 1.0.0
 BrokenAdaptiveRidge 1.0.2
@@ -4316,7 +4316,7 @@ crs 0.15-46
 crseEventStudy 1.2.2
 crsmeta 0.3.0
 crsnls 0.2
-crstools 1.0.0
+crstools 1.2.0
 crsuggest 0.4
 crt2power 1.2.2
 CRTConjoint 0.1.0
@@ -9897,7 +9897,7 @@ higrad 0.1.0
 hilbertSimilarity 0.4.4
 hildareadR 0.2.0
 hilldiv3 3.2.1
-hillR 0.5.2
+hillR 0.7.0
 hillshader 0.1.2
 HIMA 2.3.4
 himach 1.0.1
@@ -16930,6 +16930,7 @@ postdoc 1.4.2
 posterior 1.8.1
 PosteriorBootstrap 0.1.3
 postHoc 0.1.3
+posthocbounds 0.1.0
 postinfectious 0.1.0
 postlightmercury 1.2
 postlink 0.1.2
@@ -22050,6 +22051,7 @@ sparta 1.0.1
 SPARTAAS 1.2.7
 sparvaride 1.0.0
 spass 1.3
+spatbiome 0.1.0
 spatcovar 0.1.0
 spate 1.7.5
 spatemR 1.4.0
@@ -25847,7 +25849,7 @@ zucbor 0.1.0
 zucrypt 0.1.0
 zucsv 0.1.1
 zuexact 0.1.0
-zufast 0.1.0
+zufast 0.1.1
 zufft 0.1.0
 zuhtml 0.1.1
 zujson 0.1.1

@@ -1759,7 +1759,7 @@ BIGr 0.7.2
 bigreadr 0.2.5
 bigReg 0.1.5
 bigrquery 1.6.2
-bigrquerystorage 1.3.0
+bigrquerystorage 1.3.1
 bigsimr 0.12.0
 bigsnpr 1.12.21
 bigsparser 0.7.3
@@ -4042,6 +4042,7 @@ corset 0.1-5
 corsym 1.0.1
 corTest 1.0.7
 corTESTsrd 1.0-0
+corteza 0.8.1
 corto 1.4.1
 CortSineScore 0.1.0
 corx 1.0.8
@@ -9858,7 +9859,7 @@ hibayes 3.1.0
 HiClimR 2.2.1
 HiCocietyExample 1.0.0
 hicp 1.2.0
-hicream 0.0.4
+hicream 0.1.0
 hiddenf 2.0
 HiddenMarkov 1.8-14
 HiddenTrunc 0.2.1
@@ -14320,7 +14321,7 @@ mvdpd 0.1-1
 mverse 0.2.3
 MVET 0.1.0
 mvfmr 0.2.0
-mvgam 1.1.594
+mvgam 2.0.0
 mvgb 0.0.6
 mvglmmRank 1.2-7
 mvGPS 1.2.2

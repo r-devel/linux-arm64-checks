@@ -859,7 +859,7 @@ arrayhelpers 1.1-2
 arrg 0.2.0
 arrow 26.0.1.1
 arrowheadr 1.0.2
-ars 0.8
+ars 0.9
 arsenal 3.7.4
 arthistory 0.1.0
 artma 0.5.2
@@ -9501,7 +9501,7 @@ gtrendshealth 1.0.1
 gtrendsR 1.5.2
 GTRT 0.1.0
 gtstats 1.0.0
-gtsummary 2.6.1
+gtsummary 2.7.0
 gtWAS 1.1.1
 gtxlsx 0.5.0
 guaguas 0.3.0

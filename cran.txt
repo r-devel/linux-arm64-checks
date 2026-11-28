@@ -7176,7 +7176,7 @@ fcmfd 0.1.2
 FCO 2.0.2
 fCopulae 4052.86
 fcp 0.1.0
-FCPS 1.4.3
+FCPS 1.5.0
 fcrci 0.1.0
 fcros 1.6-6
 FCtools 2.3.1
@@ -11284,7 +11284,7 @@ kelvin 2.0-3
 Kendall 2.2.2
 kendallknight 1.0.1
 kendallRandomWalks 0.9.4
-Keng 2026.9.0
+Keng 2026.12.1
 KEPTED 0.2.0
 kequate 1.6.4
 keras 2.16.1

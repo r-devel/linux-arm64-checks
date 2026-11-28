@@ -4709,7 +4709,7 @@ datasusr 0.2.0
 dataverifyr 0.1.11
 dataverse 0.3.16
 dataviewR 1.1.0
-DataVisualizations 1.4.0
+DataVisualizations 1.5.0
 DataViz 0.2.8
 datawizard 1.5.0
 datazoom.amazonia 1.2.0
@@ -10179,7 +10179,7 @@ hypercube 0.2.1
 HyperG 1.0.0
 hypergate 0.8.5
 hypergeo 1.2-15
-hypergeo2 0.2.0
+hypergeo2 0.2.1
 hypergraph.sizing 1.0.1
 hyperoverlap 1.1.4
 hyperSpec 0.100.3
@@ -17260,7 +17260,7 @@ ProgVine 0.1.0
 PROJ 0.7.0
 proj4 1.0-15
 projectData 0.1.0
-ProjectionBasedClustering 1.2.2
+ProjectionBasedClustering 1.3.0
 projections 0.6.1
 projectLSA 0.2.0
 ProjectManagement 2.1.7
@@ -20048,7 +20048,7 @@ rsppfp 1.0.4
 rsprite2 0.2.1
 rsq 2.7
 RSQL 0.2.2
-RSQLite 3.53.3
+RSQLite 3.54.1
 RSQLite.toolkit 0.1.5
 RSqlParser 1.5
 RsqMed 1.1
@@ -23128,7 +23128,7 @@ swamp 1.5.1
 swaprinc 1.0.1
 swaRm 0.6.0
 swaRmverse 0.1.1
-swash 3.0.3
+swash 3.1.0
 swatches 0.5.0
 swcEcon 0.1.0
 swCRTdesign 4.2
